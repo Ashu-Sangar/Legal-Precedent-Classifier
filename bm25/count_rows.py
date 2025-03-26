@@ -3,12 +3,19 @@
 import os
 import json
 
-filecount = 0
+file_count = 0
+num_vols = 0
 
-for volume in range (1, 51): # Only loops over first 50 volumes of PA state data
+expected_vols = set(range(1, 640)) # volumes 1 through 639 of PA state data (all volumes)
+identified_vols = set()
+
+for volume in expected_vols:
+    num_vols += 1
     volume_path = os.path.join("..", "data", "Caselaw_Pennsylvania_State_Reports_1845-2017", str(volume), "json")
     if not os.path.isdir(volume_path):
         continue
+
+    identified_vols.add(volume)
 
     for file in os.listdir(volume_path):
         if not file.endswith(".json"):
@@ -20,9 +27,14 @@ for volume in range (1, 51): # Only loops over first 50 volumes of PA state data
             try:
                 data = json.load(f)
                 doc_id = str(data["id"]) # Use unique id from original data as the doc_id
-                filecount += 1
+                file_count += 1
             
             except Exception as e:
                 print(f"Skipping {file_path} due to error: {e}")
 
-print(filecount)
+
+missing_vols = expected_vols - identified_vols
+
+print('number of volumes: ' + str(num_vols))
+print('number of cases: ' + str(file_count))
+print(f'missing volumes: {sorted(missing_vols)}')

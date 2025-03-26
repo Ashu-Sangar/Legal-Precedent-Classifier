@@ -4,12 +4,12 @@ index_path = "indexes/caselaw_vol1-50_bm25_index"
 
 searcher = LuceneSearcher(index_path)
 
-print("Welcome to the Legal Precedent Search (BM25) Demo")
-print("Type your query below (or type 'exit' to quit):")
+print('Welcome to the Legal Precedent Search (BM25) Demo')
+print('Type your query below (or "exit", "quit"):')
 
 while True:
-    query = input("\nEnter query: ").strip()
-    if query.lower() in ["exit", "quit"]:
+    query = input('\nEnter query (or "exit", "quit"): ').strip()
+    if query.lower() in ['exit', 'quit']:
         break
 
     hits = searcher.search(query, k = 15)
@@ -18,6 +18,6 @@ while True:
     for i, hit in enumerate(hits):
         doc = searcher.doc(hit.docid)
         raw = doc.raw()
-        print(f"{i+1}. DocID: {hit.docid} | Score: {hit.score:.4f}")
+        print(f"{i+1}. DocID: {hit.docid} | Score: {hit.score:}")
         print(raw[:500] + "\n...")
         print("-" * 50)
