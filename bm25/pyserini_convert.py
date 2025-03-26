@@ -3,7 +3,7 @@
 import os
 import json
 
-output_dir = "indexed_case_corpus_vol_1-639_for_pyserini"
+output_dir = "indexed_case_corpus_vol_1-50_for_pyserini"
 os.makedirs(output_dir, exist_ok = True)
 
 # Loop over unzipped bulk data download from Caselaw and convert
@@ -12,7 +12,7 @@ os.makedirs(output_dir, exist_ok = True)
 #     "id": "doc1",
 #     "contents": "this is the contents."
 # }
-for volume in range (1, 640): # Only loops over all volumes of PA state data
+for volume in range (1, 51): # Only loops over first 50 volumes of PA state data
     volume_path = os.path.join("..", "data", "Caselaw_Pennsylvania_State_Reports_1845-2017", str(volume), "json")
 
     if not os.path.isdir(volume_path):

@@ -6,7 +6,7 @@ import json
 file_count = 0
 num_vols = 0
 
-expected_vols = set(range(1, 640)) # volumes 1 through 639 of PA state data (all volumes)
+expected_vols = set(range(1, 51)) # volumes 1 through 51 of PA state data (all volumes)
 identified_vols = set()
 
 for volume in expected_vols:

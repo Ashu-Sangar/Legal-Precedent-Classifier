@@ -1,6 +1,6 @@
 from pyserini.search.lucene import LuceneSearcher
 
-index_path = "indexes/caselaw_vol1-50_bm25_index"
+index_path = "indexes"
 
 searcher = LuceneSearcher(index_path)
 
