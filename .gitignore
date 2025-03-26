@@ -1,3 +1,8 @@
 # ignore Bridget's large files for BM25
 bm25/indexed_case_corpus_vol_1-639_for_pyserini/
 bm25/indexes/
+# ignore all volumes after 50
+bm25/indexed_case_corpus_vol_1-639_for_pyserini/5[1-9]*/
+bm25/indexed_case_corpus_vol_1-639_for_pyserini/[6-9][0-9]*/
+bm25/indexed_case_corpus_vol_1-639_for_pyserini/[1-9][0-9][0-9]*/
+*.DS_Store
