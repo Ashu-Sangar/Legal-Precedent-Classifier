@@ -1,0 +1,93 @@
+{
+  "id": 1197290,
+  "name": "Sternbergh's Estate",
+  "name_abbreviation": "Sternbergh's Estate",
+  "decision_date": "1939-12-28",
+  "docket_number": "Appeal, No. 52",
+  "first_page": "342",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "337 Pa. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "285 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1095111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/285/0449-01"
+      ]
+    },
+    {
+      "cite": "323 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169592
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0042-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 226,
+    "char_count": 2890,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.33227863863877777
+    },
+    "sha256": "2feaed72999175fb444e260cbee6f4c8fc0c92edf44588023520c0f42dfe501b",
+    "simhash": "1:04ac490655f6964f",
+    "word_count": 493
+  },
+  "last_updated": "2024-02-27T22:19:01.274288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Sternbergh\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis is an effort to secure an apportionment of the liquidation proceeds of corporate stock. Appellant is the life beneficiary of a trust created in 1912. The trust held 1,000 shares of American Iron & Steel Manufacturing Company stock. In 1917, with the life tenant\u2019s consent, this stock was surrendered by the trustee for $58.80 a share. Its intact value at the inception of the trust was about $72. The sale embraced all of the assets of the corporation, including those representing the undistributed surplus or accumulated earnings. Though the record does not disclose the form in which this surplus was retained, and what portion of the assets contributed to the price obtained, or to what extent, appellant, after 22 years, now seeks to secure, from the trustee her share, undiminished, of what she terms accumulated earnings on this stock that were never distributed as such by the corporation. This would amount to $14.76 a share, leaving to the remaindermen the balance of the proceeds at $44.04 a share, representing a reduction of approximately $28 from the intact value of the stock, and placing the entire loss upon them.\nWhere all of the assets of a corporation are sold, it is only if the proceeds exceed the intact value of the stock that apportionment can be made. Although it was said in Daily\u2019s Estate, 323 Pa. 42, at 46: \u201cif a corporation liquidates or sells its assets and receives a sum representing in part accumulated profits, \u00e1 trust estate holding stock therein must apportion the amount received under the general rule,\u201d the reference must be understood in the light of the holding of that case, which was entir\u00e9ly consistent with the conclusion here adopted. In the Daily case, the transaction disposing of the stock held in trust in exchange for stock of a holding company produced a return greater than the intact value. The Court held, at page 48: \u201cThere must be apportioned to the trust estate that number of shares of common and preferred, the total book value of which would equal the intact value at the time of the inception of the trust. The remainder of such stock must go to the life tenant.\u201d This, too, must be limited to that portion of such \u201cremainder\u201d as represents earnings.\nAs the entire proceeds of the sale in this case were less than the intact value of the stock was shown to be at the time of the sale, this impairment must be made good, following Dickinson\u2019s Estate, 285 Pa. 449, by applying the undistributed earnings thereto in accordance with the decree of the court below. In this case, loss on liquidation clearly has no effect upon intact value.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Benjamin Byer, with bim M. Bernard Hof man, for appellant.",
+      "O. Wilson Austin, with bim Charles K. Derr, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sternbergh\u2019s Estate.\nArgued November 30, 1939.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nBenjamin Byer, with bim M. Bernard Hof man, for appellant.\nO. Wilson Austin, with bim Charles K. Derr, for appellee.\nDecember 28, 1939:"
+  },
+  "file_name": "0342-01",
+  "first_page_order": 416,
+  "last_page_order": 418
+}

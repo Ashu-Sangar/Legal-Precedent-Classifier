@@ -1,0 +1,67 @@
+{
+  "id": 4233537,
+  "name": "Richard SMITH, Petitioner v. PHILADELPHIA CO. COURT OF COMMON PLEAS, Respondent",
+  "name_abbreviation": "Smith v. Philadelphia Co. Court of Common Pleas",
+  "decision_date": "2013-04-19",
+  "docket_number": "No. 15 EM 2013",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "619 Pa. 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "65 A.3d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 325,
+    "ocr_confidence": 0.699,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.1411638845999018
+    },
+    "sha256": "243725251bde0e2746ee4c8414d1b3cb04bb80a81790934edbffac83df077bf7",
+    "simhash": "1:1c0702a6d5f33c2c",
+    "word_count": 55
+  },
+  "last_updated": "2023-07-14T21:33:46.130488+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard SMITH, Petitioner v. PHILADELPHIA CO. COURT OF COMMON PLEAS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of April, 2013, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "65 A.3d 301\nRichard SMITH, Petitioner v. PHILADELPHIA CO. COURT OF COMMON PLEAS, Respondent.\nNo. 15 EM 2013.\nSupreme Court of Pennsylvania.\nApril 19, 2013."
+  },
+  "file_name": "0485-01",
+  "first_page_order": 545,
+  "last_page_order": 545
+}

@@ -1,0 +1,106 @@
+{
+  "id": 4079268,
+  "name": "Maurice HARPER, Petitioner v. The COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Harper v. Court of Common Pleas",
+  "decision_date": "2014-03-21",
+  "docket_number": "No. 8 EM 2014",
+  "first_page": "620",
+  "last_page": "620",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "624 Pa. 620"
+    },
+    {
+      "type": "parallel",
+      "cite": "87 A.3d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 67,
+    "char_count": 530,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12986818922647614
+    },
+    "sha256": "8e6e01ce0bc018e7070f7f90a70f3f93619186104c27ced48d5230e3ec7ca390",
+    "simhash": "1:353fc83c01d56831",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T21:02:06.836768+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maurice HARPER, Petitioner v. The COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of March, 2014, the Application for Leave to File Original Process and the Petition for Review, deemed a Petition for Writ of Mandamus, are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "87 A.3d 806\nMaurice HARPER, Petitioner v. The COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 8 EM 2014.\nSupreme Court of Pennsylvania.\nMarch 21, 2014."
+  },
+  "file_name": "0620-01",
+  "first_page_order": 670,
+  "last_page_order": 670
+}

@@ -1,0 +1,575 @@
+{
+  "id": 991577,
+  "name": "Phillips' Estate",
+  "name_abbreviation": "Phillips' Estate",
+  "decision_date": "1913-01-06",
+  "docket_number": "Appeal, No. 129",
+  "first_page": "423",
+  "last_page": "430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "238 Pa. 423"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "127 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        565688
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/127/0059-01"
+      ]
+    },
+    {
+      "cite": "88 Mo. App. 679",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        1486578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo-app/88/0679-01"
+      ]
+    },
+    {
+      "cite": "107 Mich. 470",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1474391
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/107/0470-01"
+      ]
+    },
+    {
+      "cite": "24 N. J. L. 576",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        406421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/24/0576-01"
+      ]
+    },
+    {
+      "cite": "73 N. Y. 480",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2169761
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/73/0480-01"
+      ]
+    },
+    {
+      "cite": "98 Mass. 381",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        710670
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/98/0381-01"
+      ]
+    },
+    {
+      "cite": "12 Mass. 115",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2052042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/12/0105-01"
+      ]
+    },
+    {
+      "cite": "29 Ind. 236",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1505299
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/29/0236-01"
+      ]
+    },
+    {
+      "cite": "122 Pa. 324",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948427
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/122/0324-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 561",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645361
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/94/0561-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 775",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3494802
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/104/0775-01"
+      ]
+    },
+    {
+      "cite": "106 Pa. 536",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        455579
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/106/0536-01"
+      ]
+    },
+    {
+      "cite": "209 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        936169
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/209/0503-01"
+      ]
+    },
+    {
+      "cite": "16 W. N. C. 188",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "182 Pa. 150",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        893262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/182/0150-01"
+      ]
+    },
+    {
+      "cite": "231 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        973965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/231/0016-01"
+      ]
+    },
+    {
+      "cite": "49 Pa. Superior Ct. 239",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        425752
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/49/0239-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Superior Ct. 545",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        270653
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/2/0545-01"
+      ]
+    },
+    {
+      "cite": "174 Pa. 608",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        878591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/174/0608-01"
+      ]
+    },
+    {
+      "cite": "166 Pa. 617",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        864232
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/166/0617-01"
+      ]
+    },
+    {
+      "cite": "161 Pa. 9",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        854178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/161/0009-01"
+      ]
+    },
+    {
+      "cite": "142 Pa. 575",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976676
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/142/0575-01"
+      ]
+    },
+    {
+      "cite": "112 Pa. 251",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        546601
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/112/0251-01"
+      ]
+    },
+    {
+      "cite": "110 Pa. 109",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        543757
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/110/0109-01"
+      ]
+    },
+    {
+      "cite": "99 Ind. 478",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1365647
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/99/0478-01"
+      ]
+    },
+    {
+      "cite": "102 U. S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5629770
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/102/0664-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028164
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/70/0450-01"
+      ]
+    },
+    {
+      "cite": "1 P. & W. 220",
+      "category": "reporters:state",
+      "reporter": "Pen. & W.",
+      "case_ids": [
+        1826206
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pen-w/1/0220-01"
+      ]
+    },
+    {
+      "cite": "72 Mass. 396",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1994679
+      ],
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/72/0396-01"
+      ]
+    },
+    {
+      "cite": "109 Mo. 560",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        916202
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/109/0560-01"
+      ]
+    },
+    {
+      "cite": "39 Conn. 100",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        8845877
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/39/0100-01"
+      ]
+    },
+    {
+      "cite": "75 Texas 338",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2184988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tex/75/0338-01"
+      ]
+    },
+    {
+      "cite": "99 Tenn. 639",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8537139
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/99/0639-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 457",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645329
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0457-01"
+      ]
+    },
+    {
+      "cite": "113 Pa. 438",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        457601
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/113/0438-01"
+      ]
+    },
+    {
+      "cite": "127 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        565688
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/127/0059-01"
+      ]
+    },
+    {
+      "cite": "107 Mich. 470",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1474391
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/107/0470-01"
+      ]
+    },
+    {
+      "cite": "24 N. J. L. 576",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        406421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/24/0576-01"
+      ]
+    },
+    {
+      "cite": "12 Mass. 115",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2052042
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/12/0105-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 561",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645361
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0561-01"
+      ]
+    },
+    {
+      "cite": "182 Pa. 150",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        893262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/182/0150-01"
+      ]
+    },
+    {
+      "cite": "142 Pa. 575",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/142/0575-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 725,
+    "char_count": 14464,
+    "ocr_confidence": 0.499,
+    "pagerank": {
+      "raw": 1.9957047864000922e-07,
+      "percentile": 0.7423351708922026
+    },
+    "sha256": "227c280bed8ebae4929eb0c2519d2cf480241f776b34e5daf6b27f3f0e1ec19b",
+    "simhash": "1:9ff72511d631b077",
+    "word_count": 2562
+  },
+  "last_updated": "2024-02-27T22:33:41.463162+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Fell, C. J., Brown, Mestrezat, Potter and Stewart, JJ."
+    ],
+    "parties": [
+      "Phillips\u2019 Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Potter,\nThe facts in this case were found by the auditing judge substantially as follows: On January 4, 1904, William Hale, who was unmarried and without children, insured his life in the Massachusetts Mutual Life Insurance Company for $5,000, payable, if she survived him, to his sister, Mrs. Elizabeth H. Phillips. The insured had the right under the policy to change the beneficiary, and it was also provided that if no beneficiary should survive the insured, the proceeds should be paid to his estate. The insured made no change in the beneficiary. On October 16, 1905, Mr. Hale stated to the agent of the insurance company that he was unable to continue the payment of premiums; that he wanted his sister to get the money from the policy, and that she and her husband were willing to pay all future premiums; and thereupon on the same day, with Mrs. Phillips who joined as beneficiary, he executed an absolute assignment of all his right, title and interest in the policy to his sister, Mrs. Phillips. Thereafter, all premiums upon the policy were paid by Mrs. Phillips and her husband. On June'2, 1910, Mrs. Phil-' lips died, leaving a will by which she gave the income of $5,000 to her husband for life, with remainder to her brothers and sisters, and gave the residue of her estate to her husband absolutely. William Hale, the insured, died August 13, 1910, and the amount of the policy of insurance in question was paid by the insurance company to the executor of Mrs. Phillips, and was included in the executor\u2019s final account. Upon the audit of that account, the administrator of the estate of William Hale, deceased, claimed the proceeds of the policy as belonging to the estate of the insured. The auditing judge disallowed the claim and awarded the proceeds of the policy as part of Mrs. Phillips\u2019s estate. The administrator of the estate of William Hale filed exceptions to the adjudication, which were dismissed by the court, and exceptant has appealed.\nThe question here presented for determination is whether the proceeds of the policy on Hale\u2019s life belonged to his estate or to that of his sister, Mrs. Phillips. Counsel for appellant contend that the assignment which was absolute on its face, was in reality intended only as collateral security for the premiums to be paid by Mrs. Phillips and her husband. The burden of establishing this claim was clearly upon appellant. We find nothing in the evidence to justify such a finding. Mr. McFeely, the resident manager of the insurance company, testified that Hale said to him before making the assignment that \u201che was not able to keep up this insurance; that he had taken this policy out for Bess, and that he wanted, in case of his death, for Bess to get the money, and she was willing, or her husband was willing to continue this insurance, and, therefore, he wanted to secure her.\u201d Evidently by this he meant to say that he wanted to secure to his sister the payment of the proceeds of the policy. We see in it nothing to indicate an intention that the assignment should be merely collateral security for the money advanced in the payment of the premiums. The policy at that time was so new that it had little, if any, surrender value, and there would be very little advantage to Mrs. Phillips in merely securing to her repayment of her outlay. We think the evidence fully sustains the interpretation placed upon it by the auditing judge, and that the fair import of the statements made by Mr. Hale, was that he intended the assignment to be that which it purported to be, an absolute transfer of the policy.\nBut counsel for appellant contend that even if the assignment was absolute, it cannot be sustained for the reason that Elizabeth H. Phillips, as a sister, had no insurable interest in the life of her brother. Even if this were true, it would not in itself have been sufficient to exclude her ownership of the fund, for she may have been a creditor of her brother. The claimant offered no evidence whatever to show that she was not, although, under the circumstances, the burden in this respect was upon the plaintiff: Lenig v. Eisenhart, 127 Pa. 59; Vanormer v. Hornberger, 142 Pa. 575. This suit is not against the insurance company, as it made payment of the amount of the policy to the estate of Mrs. Phillips, thus, in so far as it was concerned, recognizing her right to the policy. It was taken out by the insured, and by him made payable to his sister, if she should survive him. Afterwards the policy was assigned to her absolutely. The claim of the sister to the policy, under these circumstances, would be good, under the rule that a policy issued to the insured for the benefit of another is valid, irrespective of interest. In Corson\u2019s Appeal, 113 Pa. 438, Mr. Justice Clark said (p. 447) : \u201cThe law seems to be well settled that it is wholly unnecessary to prove an insurable interest in the life of the assured at the maturity of the policy, if it was valid at its inception.\u201d And in Conn. Mut. Life Ins. Co. v. Schaefer, 94 U. S. 457, Mr. Justice Bradley said (p. 461) : \u201cWe do not hesitate to say, however, that a policy taken out in good faith, and valid at its inception, is not avoided by the cessation of the insurable interest, unless such be the necessary effect of the provisions of the policy itself.\u201d The same justice said, in .\u00bfEtna Life Insurance Company v. France, 94 U. S. 561: \u201cAs held by us in the case of the Conn. Mut. Life Ins. Co. v. Schaefer, supra, any person has a right to procure an insurance on his own life, and to assign it to another, provided it be not done by way of cover for a wager policy; and where the relationship between the parties, as in this case (brother and sister) is such as to constitute a good and valid consideration in law for any gift or grant, the transaction is entirely free from such imputation.\u201d\nThe main question as to whether or not brothers and sisters have an insurable interest in each other\u2019s lives, upon the ground of relationship alone, does not seem to have been decided by the appellate courts of our State. In Mullen v. Insurance Co., 182 Pa. 150, the question was raised, but the decision was placed upon another ground. Outside of Pennsylvania, the authorities are not in harmony. In the case of Lord v. Dall, 12 Mass. 115, it was held that a sister, who was supported and educated by her brother, had an insurable interest in his life. Decisions favoring the principle that the interest may arise from relationship merely, are found in Hosmer v. Welch, 107 Mich. 470; Williams v. Fletcher, 26 Texas Civ. App. 85; Trenton Mut. Life & Fire Ins. Co. v. Johnson, 24 N. J. Law 576; Lane v. Lane, 99 Tenn. 639; Equitable Life Ins. Co. v. Hazelwood, 75 Texas 338. That relationship is sufficient to support an insurable interest was denied in cases of which Lewis v. Ins. Co., 39 Conn. 100; Masonic Benev. Assn. v. Bunch, 109 Mo. 560, are illustrations. Undoubtedly the leading case upon the subject is that of .\u00bfEtna Life Insurance Co. v. France, 94 U. S. 561, above cited. It is, indeed, authority of the highest type, sustaining the proposition that a .sister has an insurable interest in the life of her brother, upon the ground of relationship alone. It is there said, referring to the insured: \u201cHe had a right to take out a policy on his own life for his sister\u2019s benefit; and she had a right to advance him the necessary means to do so. As between strangers, or persons not thus nearly connected, such a transaction would be evidence to go to the jury, from which, according to the circumstances of the case, they might or might not infer that it was mere gambling. But as between brother and sister, or other near relations, desirous of thus providing for each other, and, as said by Chief Justice Shaw, presumed to be actuated by \u2018considerations of strong morals, and the force of natural affection between near kindred operating often more efficaciously than those of positive law,\u2019 (Loomis v. Eagle Life & Health Ins. Co., 72 Mass. 396, 399), the case is divested of that gambling aspect which is presented where there is nothing but a speculative interest in the death of another, without any interest in his life to counterbalance it. On this ground we hold that where, as in this case, a brother takes out a policy on his own life for the benefit of his sister, it is totally immaterial what arrangement they choose to make between them about the payment of the premiums. The policy is not a wager policy. It is divested of those dangerous tendencies which render such policies contrary to good morals.\u201d\nUnder the rule thus indicated, the affection naturally to be regarded as prevailing between brothers and sisters, and the well-grounded expectation that in case of need they will render each other pecuniary aid, is considered sufficient to support an insurable interest. In the present case the auditing judge was guided by this principle, and applied it to the facts before him. We agree with the conclusion which he reached in stating that \u201cthere is nothing in this record showing bad faith or any attempt to evade the law against wagering contracts. Hale was fond of Ms sister; he was childless; ......the ties of blood and affection impel to the belief that his continued life was for her benefit; as such her insurable interest cannot be doubted.\u201d The evidence shows that the policy was taken out by the insured in good faith, under the influence of a strong desire to make provision in this way for his sister. Upon both reason and authority we conclude that the relationship between him and his sister constituted in her at that time what should fairly and properly be regarded as an insurable interest in his life. We can see in the facts of this case nothing which violates in any way the purpose of the rule which condemns wager policies.\nThe assignments of error are overruled and the decree of the court below is affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Potter,"
+      }
+    ],
+    "attorneys": [
+      "Benjamin H. Ludlow and R. H. Hawkins, of Dalzell, Fisher & Hawkins, for appellant.",
+      "Hill Burgwm, with him George G. Burgwm, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Phillips\u2019 Estate.\nInsurance \u2014 Life insurance \u2014 Assignment of policy \u2014 Insurable interest \u2014 Brother and sister \u2014 Decedent\u2019s estate.\n1. Brothers and sisters have an insurable interest in each other\u2019s lives.\n2. If an insurance policy is valid at the time when it is made, it does not become invalid thereafter because it is assigned to one who may not have an insurable interest, provided it was taken out in good faith.\n3. Upon the audit of the account of an executor it appeared that the accountant held a sum of money which had been paid to the estate upon a policy of insurance upon the life of the decedent\u2019s brother, which policy had been taken out by the brother, who was unmarried and without children, payable to the decedent. It further appeared that about a year later the brother stated to the agent of the company that he was unable to pay the premiums; that he wanted his sister to get the money from the policy, and that she was willing to pay all future premiums; and thereupon he executed an absolute assignment of all his right, title and interest in the policy to the decedent, who subsequently paid all premiums. The decedent predeceased her brother, leaving a will disposing of her estate. Her brother subsequently died and the amount of the policy was paid by the company to the executor of the sister. The fund was thereupon claimed by the administrator of the deceased brother, upon the contention that the assignment was in reality intended only as collateral security for money advanced in payment of premiums. Held, there was nothing in the evidence to indicate that the assignment was merely as collateral security; that the transaction was in good faith; and that the fund was properly held as part of the sister\u2019s estate.\nArgued October 24, 1912.\nAppeal, No. 129, Oct. T., 1912, by Fidelity Title and Trust Company, Administrator of the Estate of William Hale, deceased, from decree of O. C. Allegheny Co., Sept. T., 1911, No. 320, dismissing exceptions to adjudication in the Estate of Elizabeth H. Phillips, deceased.\nBefore Fell, C. J., Brown, Mestrezat, Potter and Stewart, JJ.\nAffirmed.\nExceptions to adjudication. Before Miller, J.\nThe facts are stated in the opinion of the Supreme Court.\nError assigned was the decree of the court dismissing the exceptions.\nBenjamin H. Ludlow and R. H. Hawkins, of Dalzell, Fisher & Hawkins, for appellant.\n\u2014 Parol evidence was admissible to show that the assignment of the policy, absolute in form, was only intended as collateral security: Leas v. James, 10 S. & R. 307; Keller v. Leib, 1 P. & W. 220; Cunningham v. Smith, 70 Pa. 450; Page v. Burnstine, 102 U. S. 664; Damron v. Penn Mutual Life Ins. Co., 99 Ind. 478.\nThe assignment was void because the assignee had not an insurable interest in the life of the assignor: Downey v. Hoffer, 110 Pa. 109; Ruth v. Katterman, 112 Pa. 251; Yanormer v. Hornberger, 142 Pa. 575; Carpenter v. U. S. Life Ins. Co., 161 Pa. 9; Riner v. Riner, 166 Pa. 617; Kerr v. Lauser, 174 Pa. 608; Hendricks v. Reeves, 2 Pa. Superior Ct. 545; Sargent v. Hancock Mutual Life Ins. Co., 49 Pa. Superior Ct. 239; Taussig v. United Security Life Ins. & Trust Co., 231 Pa. 16; Mullen v. Union Central Life Ins. Co., 182 Pa. 150; Keystone Mutual Ben. Assn. v. Beaverson, 16 W. N. C. 188; Early v. Metropolitan Life Ins. Co., 10 York Legal Rec. 13; Life Ins. Clearing Co. v. O\u2019Neill, 106 Fed. Repr. 800.\nHill Burgwm, with him George G. Burgwm, for appellee.\n\u2014 The assignment was absolute: Pioso v. Bitzer, 209 Pa. 503; Cunningham v. Smith, 70 Pa. 450; Phillips v. Meily, 106 Pa. 536.\nThe sister had an insurable interest: Warnock v. Davis, 104 U. S. 775; \u00bfEtna Life Insurance Co. v. France, 94 U. S. 561; United Brethren Mutual Aid Society v. McDonald, 122 Pa. 324; Morgan v. Segenfelter, 32 Ky. Law Bepr. 225,14 L. B. A. (N. S.) 1172; Early v. Metropolitan Life Ins. Co., 10 York Leg. Bee. 13; Provident Life Ins. & Inv. Co. v. Baum, 29 Ind. 236; Lord v. Dali, 12 Mass. 115; Campbell v. Ins. Co., 98 Mass. 381; Goodwin v. Ins. Co., 73 N. Y. 480; Trenton Mut. Life & Fire Ins. Co. v. Johnson, 24 N. J. L. 576; Hosmer v. Welch, 107 Mich. 470 (65 N. W. Bepr. 280; 67 N. W. Bepr. 504); Beynolds v. Prudential Ins. Co., 88 Mo. App. 679; Equitable Life Ins. Co. v. Hazelwood, 75 Texas, 338 (12 S. W. Bepr. 621) ; Supreme Assembly, Etc., v. Adams, 107 Fed. Bepr. 335; Ingersoll v. Knights of G. B., 47 Fed. Bepr. 272.\nThe burden was on the claimant to show that there was no insurable interest: Lenig v. Eisenhart, 127 Pa. 59.\nJanuary 6, 1913:"
+  },
+  "file_name": "0423-01",
+  "first_page_order": 451,
+  "last_page_order": 458
+}

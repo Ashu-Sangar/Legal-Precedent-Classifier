@@ -1,0 +1,70 @@
+{
+  "id": 12286581,
+  "name": "Shaffer v. Ebensburg Power Co.",
+  "name_abbreviation": "Shaffer v. Ebensburg Power Co.",
+  "decision_date": "2016-03-29",
+  "docket_number": "484 WAL (2015)",
+  "first_page": "765",
+  "last_page": "765",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 765"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 492",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 173,
+    "ocr_confidence": 0.797,
+    "sha256": "0dc0955b605ceef6cb4cd166dd0d9c28e1ce46ae22f59b427c61d342f82c4e85",
+    "simhash": "1:ad66bac4a24f72dc",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shaffer v. Ebensburg Power Co."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 492",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Shaffer v. Ebensburg Power Co.\n03/29/2016\n484 WAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0765-05",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

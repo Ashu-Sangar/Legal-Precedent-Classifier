@@ -1,0 +1,103 @@
+{
+  "id": 1809860,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Albert PARKER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Parker",
+  "decision_date": "1988-01-14",
+  "docket_number": "Appeal No. 351 E.D. Allocatur Docket 1986",
+  "first_page": "334",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 334"
+    },
+    {
+      "type": "parallel",
+      "cite": "536 A.2d 1322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "532 A.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1808593,
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0364-01",
+        "/pa/516/0365-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0365-01"
+      ]
+    },
+    {
+      "cite": "512 A.2d 52",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1987,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 775,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06732072024276319
+    },
+    "sha256": "a3d89f3ba70502dbe0c92d63be3bb4f95a5c25a9ec8640ab1b98df6391c9337e",
+    "simhash": "1:9ef7e601c12bc9f6",
+    "word_count": 118
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Albert PARKER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nPetitioner seeks allowance to appeal from Superior Court's affirmance of his judgment of sentence. 512 A.2d 52. He has challenged the constitutionality of the guidelines which were applied by the sentencing court as violative of the bicameral and presentment provisions of the Pennsylvania constitution. In light of our recent decision in Commonwealth v. Sessoms, 516 Pa. 365, 532 A.2d 775 (1987), this petition for allowance of appeal is granted, the Order of Superior Court is reversed, and the record is remanded to the Court of Common Pleas for reconsideration of petitioner's sentence in accordance with Sessoms, supra.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "536 A.2d 1322\nCOMMONWEALTH of Pennsylvania, Respondent, v. Albert PARKER, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 14, 1988."
+  },
+  "file_name": "0334-01",
+  "first_page_order": 402,
+  "last_page_order": 402
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281371,
+  "name": "Com. v. Carder",
+  "name_abbreviation": "Com. v. Carder",
+  "decision_date": "2015-09-15",
+  "docket_number": "191, 192 WAL (2015)",
+  "first_page": "748",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 748"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 77,
+    "ocr_confidence": 0.832,
+    "sha256": "ab14dffde3e78c88e15875247249e1fbd8bdf03d9c5bd091dc7428043c5f6b50",
+    "simhash": "1:288fa4a495f45b50",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Carder"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 435",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Carder\n09/15/2015\n191, 192 WAL (2015)"
+  },
+  "file_name": "0748-02",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

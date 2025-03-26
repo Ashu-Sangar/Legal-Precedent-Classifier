@@ -1,0 +1,82 @@
+{
+  "id": 463515,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Joseph H. METTS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Metts",
+  "decision_date": "1996-05-29",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "544 Pa. 255"
+    },
+    {
+      "type": "parallel",
+      "cite": "675 A.2d 1238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "381 Pa.Super. 83",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        461404
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/381/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 377,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 1.152174971380092e-07,
+      "percentile": 0.5816682748685348
+    },
+    "sha256": "084f91c5a601dcec54441d40eb12a4a5f7e4713e6691968fceeb6e633e7b0ff4",
+    "simhash": "1:5c0eca2bf0876ef2",
+    "word_count": 61
+  },
+  "last_updated": "2024-02-27T19:18:08.416923+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Joseph H. METTS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 29th day of May, 1996, the Petition for Allowance of Appeal is granted, limited to the issue of whether . Commonwealth v. Brion, 381 Pa.Super. 83, 552 A.2d 1105 (1989) must be retroactively applied to this case.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "675 A.2d 1238\nCOMMONWEALTH of Pennsylvania, Respondent, v. Joseph H. METTS, Petitioner.\nSupreme Court of Pennsylvania.\nMay 29, 1996."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 435,
+  "last_page_order": 435
+}

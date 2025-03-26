@@ -1,0 +1,105 @@
+{
+  "id": 467457,
+  "name": "Frost Estate",
+  "name_abbreviation": "Frost Estate",
+  "decision_date": "1946-05-27",
+  "docket_number": "Appeal, No. 71",
+  "first_page": "223",
+  "last_page": "225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "354 Pa. 223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "142 A. 210",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "293 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111198
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0202-01"
+      ]
+    },
+    {
+      "cite": "72 A. 831",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        961014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/223/0382-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 213,
+    "char_count": 2729,
+    "ocr_confidence": 0.418,
+    "pagerank": {
+      "raw": 1.7937646141870994e-07,
+      "percentile": 0.7153712436516569
+    },
+    "sha256": "4091aa93d525b0cdb9b82b85415f470e5dbd47f192cc76436d400fd7646c6070",
+    "simhash": "1:beb7eadfdb8e543c",
+    "word_count": 473
+  },
+  "last_updated": "2024-02-27T18:24:55.618787+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ."
+    ],
+    "parties": [
+      "Frost Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justice Allen M. Stearns,\nThe question presented by this appeal is whether a bequest of \u201cproceeds\u201d of specific property is adeemed by a testator\u2019s sale where the proceeds may be traced and identified. The court below decided that in such circumstances the gift was not adeemed.\nTestatrix provided by her will: \u201cTo my brother F. Wyatt Frost I give and bequeath any money I have in the bank. I direct my executor F. W. Frost to sell my General Motors stock as soon as may be done to advantage in his discretion, and the proceeds be equally divided between him and my sisters Annie Frost Scheide and Virginia Frost Lintern.\u201d\nThe death occurred July 29,1944; the will was dated June 9, 1942; at the date of the execution of the will testatrix owned ninety shares of General Motors stock; on April 27, 1944, she sold the stock for $5,031.35; she deposited the proceeds in her checking account; a few days later she transferred all but $500 of this amount to her savings fund account (wherein were deposited other moneys) and where they remained until her death; at the time of the death there remained in the checking account $290.59, but it could not be ascertained with certainty that such cash balance constituted part of the $500 so deposited therein.\nThe brother claimed the entire deposit in the savings fund account under the clause of the will bequeathing to him \u201cany money I have in the bank.\u201d The two sisters contended that since the bequest was one of \u201cproceeds\u201d from the sale of the stock and which had been traced and identified and found in the savings fund account, there was no ademption; that such proceeds should be divided equally among the brother and the two sisters. The learned auditing judge, in a well-considered opinion, decided that of the $5,031.35 proceeds, $4,531.35 had been traced and identified in the savings account, but that the $500 left in the checking account had not been sufficiently traced and identified. He accordingly awarded the $4,531.35 in equal thirds to the brother and the two sisters. This appeal by the brother followed.\nWe are in accord with the decree of distribution. This was not a specific gift of the stock itself. It was of the proceeds after sale by the executor. The testatrix, however, sold the stock in her lifetime and the proceeds were traced and identified. The learned court correctly decided this case: Black\u2019s Estate, 223 Pa. 382, 72 A. 831; Tweitmann\u2019s Estate, 293 Pa. 202, 142 A. 210.\nThe decree is affirmed at the cost of appellant.",
+        "type": "majority",
+        "author": "Me. Justice Allen M. Stearns,"
+      }
+    ],
+    "attorneys": [
+      "J. Roy Lilley, with him Lilley & Wilson, for appellant.",
+      "J ohn P. YaMilee, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Frost Estate.\nArgued April 10, 1946.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ.\nJ. Roy Lilley, with him Lilley & Wilson, for appellant.\nJ ohn P. YaMilee, for appellee.\nMay 27, 1946:"
+  },
+  "file_name": "0223-01",
+  "first_page_order": 329,
+  "last_page_order": 331
+}

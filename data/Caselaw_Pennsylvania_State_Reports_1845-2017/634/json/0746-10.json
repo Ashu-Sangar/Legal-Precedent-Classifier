@@ -1,0 +1,70 @@
+{
+  "id": 12282599,
+  "name": "Com. v. Sears",
+  "name_abbreviation": "Com. v. Sears",
+  "decision_date": "2016-02-01",
+  "docket_number": "431 WAL (2015)",
+  "first_page": "746",
+  "last_page": "746",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 746"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 101",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 139,
+    "ocr_confidence": 0.708,
+    "sha256": "ba2a31c9b34275bcafac891ab00ab0474f8f1b4df1abbd8887b0b4338974c9f9",
+    "simhash": "1:a555e0cdb30af1dd",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Sears"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 101",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Sears\n02/01/2016\n431 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0746-10",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

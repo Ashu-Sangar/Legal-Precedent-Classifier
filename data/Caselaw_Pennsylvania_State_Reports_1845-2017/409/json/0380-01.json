@@ -1,0 +1,68 @@
+{
+  "id": 1883257,
+  "name": "Wolstenholme Estate",
+  "name_abbreviation": "Wolstenholme Estate",
+  "decision_date": "1963-01-08",
+  "docket_number": "Appeal, No. 360",
+  "first_page": "380",
+  "last_page": "381",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "409 Pa. 380"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 267,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 5.811183091813877e-08,
+      "percentile": 0.36182553500223374
+    },
+    "sha256": "266513167dd31ce4aac42e43c89992bcd3fbeec10d619e7b8e4226ab3737bc25",
+    "simhash": "1:81469f12fafb0cbd",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T18:07:53.890514+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Musmanno, Jones, Cohen, Eagen and O\u2019Brien, JJ."
+    ],
+    "parties": [
+      "Wolstenholme Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPee Curiam,\nDecree affirmed. Costs on appellant.",
+        "type": "majority",
+        "author": "Pee Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Alfred M. Hickman, with him Leon H. Kline, for appellant.",
+      "Edwin J. McDermott, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wolstenholme Estate.\nArgued November 19, 1962.\nBefore Musmanno, Jones, Cohen, Eagen and O\u2019Brien, JJ.\nAlfred M. Hickman, with him Leon H. Kline, for appellant.\nJanuary 8, 1963:\nEdwin J. McDermott, for appellee."
+  },
+  "file_name": "0380-01",
+  "first_page_order": 426,
+  "last_page_order": 427
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12283667,
+  "name": "Richards, In re Estate of",
+  "name_abbreviation": "In re Estate of Richards",
+  "decision_date": "2016-03-08",
+  "docket_number": "399 WAL (2015)",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 167,
+    "ocr_confidence": 0.731,
+    "sha256": "f5dd2a1c2987b2066e674e1f8b234ee34291a36a6c25de09eb1a77ef7b9eaa7c",
+    "simhash": "1:2b52bacaba4db387",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richards, In re Estate of"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 63",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Richards, In re Estate of\n03/08/2016\n399 WAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0744-06",
+  "first_page_order": 804,
+  "last_page_order": 804
+}

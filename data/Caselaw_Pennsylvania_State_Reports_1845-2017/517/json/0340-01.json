@@ -1,0 +1,96 @@
+{
+  "id": 1809831,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Boyd N. CHESTNUT, Respondent",
+  "name_abbreviation": "Commonwealth v. Chestnut",
+  "decision_date": "1988-02-02",
+  "docket_number": "Petition No. 243 M.D. Alloc. Dkt. 1986",
+  "first_page": "340",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "536 A.2d 1325"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808600
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0053-01"
+      ]
+    },
+    {
+      "cite": "515 A.2d 616",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "359 Pa.Super. 626",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 1987,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 489,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06731994799696817
+    },
+    "sha256": "d78a097cef35990a9cf171cba3ef85b2a14104af94caf0e033c610a954278bc2",
+    "simhash": "1:5881369f6a9fe1a1",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Boyd N. CHESTNUT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Commonwealth's petition for allowance of appeal is granted. The Order of the Superior Court, 359 Pa.Super. 626, 515 A.2d 616, is reversed, and the case is remanded to the Court of Common Pleas of Lycoming County for a hearing on the question of prejudice. See Pa.R.Crim.P. 150; Commonwealth v. Revtai, 516 Pa. 53, 532 A.2d 1 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "536 A.2d 1325\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Boyd N. CHESTNUT, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 2, 1988."
+  },
+  "file_name": "0340-01",
+  "first_page_order": 408,
+  "last_page_order": 409
+}

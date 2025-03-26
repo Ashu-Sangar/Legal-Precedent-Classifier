@@ -1,0 +1,252 @@
+{
+  "id": 1276901,
+  "name": "Garrison Estate",
+  "name_abbreviation": "Garrison Estate",
+  "decision_date": "1958-01-08",
+  "docket_number": "Appeals, Nos. 365 and 382",
+  "first_page": "234",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "391 Pa. 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 A. 553",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Pa. 624",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559800
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/120/0624-01"
+      ]
+    },
+    {
+      "cite": "73 A. 2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1225574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/365/0034-01"
+      ]
+    },
+    {
+      "cite": "88 A. 2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "370 Pa. 442",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1234543
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/370/0442-01"
+      ]
+    },
+    {
+      "cite": "28 A. 1116",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        854193
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/161/0218-01"
+      ]
+    },
+    {
+      "cite": "13 A. 2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 Pa. 219",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1201214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/339/0219-01"
+      ]
+    },
+    {
+      "cite": "30 A. 2d 316",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1216398
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/346/0318-01"
+      ]
+    },
+    {
+      "cite": "188 Atl. 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "325 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1172312
+      ],
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/325/0017-01"
+      ]
+    },
+    {
+      "cite": "134 A. 2d 497",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "390 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1275652
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/390/0105-01"
+      ]
+    },
+    {
+      "cite": "136 A. 2d 107",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "390 Pa. 529",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1275634
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/390/0529-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 657,
+    "char_count": 12913,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 7.308790965362651e-07,
+      "percentile": 0.9684695903120221
+    },
+    "sha256": "b17862ff0794026134fec2b8e0395afdef99b8eeb54e2f41c951c0845aea463d",
+    "simhash": "1:885bc870693397a3",
+    "word_count": 2137
+  },
+  "last_updated": "2024-02-27T23:35:27.007587+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Chidsey,- Musmanno, Arnold,- Jones .and - Cohen, JJ."
+    ],
+    "parties": [
+      "Garrison Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Benjamin B. Jones,\nThis appeal arises from the refusal of an Orphans\u2019 Court to appoint an additional trustee, resident in Pennsylvania, to serve with a non-resident testamentary trustee to handle and expend funds of the trust for certain community purposes.\nForest L.- Garrison, a resident of West Virginia, died testate, on November 26, 1934. Under his will he appointed the Kanawha Banking and Trust Company of Charleston, West Virginia, as trustee \u201cto carry out all of the provisions of [his]- will\u2019\u2019. The pertinent provisions of the Will are as follows: \u201cThe residue of the income from my estate . .'. shall be-disposed of as follows: Twenty per cent (20%) shall be \u25a0retained by the Trustee and reinvested- for the, -estate. Eighty per- cent-. (8-0%). shall be paid-to the First National Bank of Shickshinny, .-Pennsylvania, to be judicially expended for the sole use and benefit of the Borough of - Shickshinny, Pennsylvania,.- as may be agr\u00e9ed upon by the Board of Directors of the-; said First National Bank of Shickshinny, Pennsylvania, and the Town Council of said Borough of Shickshinny, Pennsylvania. In case a sum of ten thousand Dollars ($10,000.00) accumulates in said Bank and the directors and Town Council above referred to, fail to agree upon the expenditure: Said amount shall be forfeited to said Borough and be paid to the County Poor District in which the Borough of Shickshinny is located.\u201d\nFor twenty-three years the West Virginia trustee has annually paid the stated income to the appellant bank and the income has been expended in the manner and mode agreed upon by appellant\u2019s directors and the Shickshinny Town Council.\nOn April 10, 1957 the appellant bank presented a petition to the Orphans\u2019 Court of Luzerne County requesting that it be appointed \u201ca resident trustee within the Commonwealth of Pennsylvania to act in conjunction with the non-resident trustee in the management and disposition of said trust, and to act as an additional trustee within the Commonwealth of Pennsylvania to serve with the non-resident trustee . . .\u201d. The court then granted a rule to show cause why the appointment should not be made. The Borough of Shickshinny was given notice of the proceedings and filed an answer in the nature of a demurrer which set up, inter alia, that no lega\u00ed or factual reason was averred why a trustee should be appointed, that the court had no jurisdiction over this out-of-state trust, that the Shickshinny Bank was a mere depository of funds and expenditures from the funds were not by the bank as such, but b-y its directors and the Shickshinny Town Council and, lastly, if the bank were appointed trustee the borough also should be appointed trustee. Neither the County Poor District, nor its successor, nor the Attorney General whs given notice of this petition'.\nThe court below refused to appoint the bank as trustee and from its decree this appeal was taken.\nThe statute authorizing the appointment of trustees \u2014 applicable as of the date of decedent\u2019s death\u2014 provides: \u201cWhen the trustee or trustees of any estate shall reside out of this Commonwealth, and any part of the trust estate, property, or fund is situated within this State, the proper orphans\u2019 court may, on the petition of any of the parties interested in said trust property, appoint one or more trustees, resident within this Commonwealth, to act in conjunction with said nonresident trustee or trustees in the management and disposition of said trust; and the said court shall have the same power over said trustee or trustees, so appointed, that it has in other cases of trust\u201d: The Fiduciaries Act of June 7, 1917, P. L. 447, \u00a757(b), 20 PS Ch. 3, App. \u00a7992. (Emphasis supplied) The Fiduciaries Act of April 18, 1949, P. L. 512, art. IX, \u00a7903, 20 PS \u00a7320.903 \u2014 applicable at the time of the present petition \u2014 provides: \u201cResident co-trustee. When no trustee shall be a resident of the Commonwealth, the court, after such notice as it shall direct, may appoint one or more additional trustees resident within the Commonwealth to serve with the nonresident trustee or trustees\u201d. (Emphasis supplied)\nThe expressed wording of these statutes makes the appointment of a trustee a matter within the discretion of the court; therefore, our only area of review is the determination whether the court below committed an abuse of discx\u2019etion in its refusal to appoint a eo-txuxstee.\nAt the outset it is obvious that this trust is for a charitable purpose, \u2014 the welfare of the Borough of Shickshinny \u2014 rand, is propexdy a charitable trust. Being a charitable trust notice of these proceedings should have been given to the public\u2019s representative, the Attorney General of the Commonwealth. This Court has recently said in Pruner Estate, 390 Pa. 529, 531; 136 A. 2d 107: \u201cIn Curry Appeal, 390 Pa. 105, 108, 134 A. 2d 497 (1957), we reaffirmed the principle that unless a court has all parties in interest before it, by appearance or service of process, it cannot proceed to a binding decree. In this proceeding we are satisfied that no relief could have been granted the appellant because an indispensable party \u2014 the public\u2014 had not been given notice and brought upon the record through its representative and spokesman, the attorney general.\n\u201cThe beneficiary of charitable trusts is the general public to whom the social and economic advantages of the trusts accrue. But because the public is the object of the settlors\u2019 benefactions, private parties have insufficient financial interest in charitable trusts to oversee their enforcement. Consequently, the Commonwealth itself must perform this function if charitable trusts are to be properly supervised. The responsibility for public supervision traditionally has been delegated to the attorney general to be performed as an exercise of his parens patriae powers. See Commonwealth ex rel. Minerd v. Margiotti, 325 Pa. 17, 23, 188 Atl. 524 (1936). These are the ancient powers of guardianship over persons under disability and of protectorship of the public interest which originally were held, by the Crown of England as the \u2018father of the country,\u2019 3 Blackstone, Commentaries 47; Fontain v. Ravenel, 58 U. S. (17 How.) 369 (1855), and:which as part of the common law devolved upon the states and federal government. Fontain v. Ravenel, supra. Specifically, these powers permitted the sovereign, wherever necessary, to see to the proper establishment of charities through his officer, the attorney general, and to exercise supervisory jurisdiction over all charitable trusts. 3 Blackstone, Commentaries 427. . .\n\u201cOur legislature recognized the historic interest of the attorney general in charitable trusts, as well, as-the benefits to be gained from his appearance in litigation affecting them, by requiring that he be given notice of proceedings for the application of cy pres. Act of April 24, 1947, P.L. 100, \u00a710, 20 P.S. ,\u00a7301.10. This enactment did not enlarge the powers' of. the attorney general in cy pres proceedings, but rather statutorily affirmed his responsibility in such actions. For, not only in actions involving the application of cy pres but in every proceeding which affects a charitable trust, whether the action concerns invalidation, administration, termination or enforcement, the attorney general must be made a party of record because the public as the real party in interest in the trust, is otherwise not properly represented.\n\u201cThis fundamental principle that the attorney gen: eral is an indispensable party in a proceeding. such as. the one before us should have compelled the orphans\u2019 court to refuse the present petition without considering the merits thereof, and any order granting relief to the petitioners would have been void.\u201d On this ground alone the Court below would have been justified in refusing to entertain this petition.\nIn addition, another necessary party \u2014 the County Poor District in which Shickshinny Borough is located. \u2014received no notice of these proceedings. As a possible recipient of income from the trust in the event of a disagreement between the parties over the expenditure of the income, it had a real interest in this proceeding. On that ground also the court below would have been justified in refusing to entertain this petition.\nAppellant bank takes the position that under the decedent\u2019s will it is now and has been for twenty-three years acting as a de facto trustee or co-trustee. With that position we disagree. Under the will the bank is a mere depository of the income turned over to it from time to time by the trustee, without any power of investment or discretion in the expenditure of the money which it receives. The decedent did not say in his will that the income was to be \u201cjudicially expended\u201d by the bank; rather, the expenditures are to be made by the directors of the bank and by the members of the Town Council of the borough. Decedent\u2019s choice of words in this carefully prepared will clearly indicates that the power of expenditures was placed in those individuals who occupied the status of bank directors and in those individuals who occupied the status of borough councilmen. Any doubt as to such conclusion is resolved by that clause of the will which refers to a possibility of disagreement between the \u201cdirectors\u201d and \u201cTown Council\u201d, not the bank and the \u201cTown Council\u201d. Even if it be construed that the decedent contemplated that the bank act through its board of directors in connection with the expenditures, the bank has not been acting any more as a trustee de facto than has the Town Council of the borough. The decedent placed the power of determining the manner and mode of expending the trust income in both the directors and the Town Council, each group having an equal voice.\n' Appellant bank takes the further position that it must be appointed trustee so that it can file regular accountings of its receipts and expenditures of the income with the court. It is self-evident that the directors and the Town Council and the bank are all accountable to the West Virginia trustee and such trustee has the right to come into our courts and require an accounting of these parties. Furthermore, even though the situs of the.trust be in West Virginia, the Attorney General, under his supervisory authority over the expenditures of this money for governmental purposes in Pennsylvania, could call upon all these parties to account for their expenditures.\nAppellant\u2019s authorities \u2014 Schoble Trust Estate, 346 Pa. 318, 30 A. 2d 316; Mathew\u2019s Trust Estate, 339 Pa. 219, 13 A. 2d 9; Welles\u2019s Estate, 161 Pa. 218, 28 A. 1116 \u2014 all deal with the jurisdiction of the Orphans\u2019 Court to make the appointment. The instant situation is one in which the court, while it did have the authority or jurisdiction to make this appointment, found no necessity to make the appointment. In the exercise of its discretion the court found no reason justifying or necessitating the appointment of the bank as a co-trustee or an additional trustee. A review of this record sustains the court\u2019s exercise of its discretion and its action must be upheld.\nThe type of trust with which we herein deal has been well described: \u201cBy the terms of the trust the legal title to the trust property may be vested in a designated trustee or in several trustees but the control of the administration of the trust may be conferred upon others. In such a case the trustees have no active duties. .So also, by the terms of the trust the financial administration of the trust may be committed to the trustee and the power to determine the purposes to which the trust property shall be applied may be vested in others. This method, of administering the trust, is that which is employed in the so-called \u2018community trusts.\u2019 The title to the trust property and the power to invest and reinvest is conferred upon a bank or trust company, but the charitable purposes to which the property shall be applied from time to time are determined by a group of persons selected in accordance with the terms of the trust instrument.\u201d\nDecree affirmed. Costs to be paid by appellant.\nBangor Park Association Case, 370 Pa. 442, 88 A. 2d 769; Abel et al, Trustees, Girard Trust Company, Trustee (et al.), 365 Pa. 34, 73 A. 2d 682; Fire Insurance Patrol v. Boyd, 120 Pa. 624, 15 A. 553; Restatement of the. Law, Trusts, \u00a7373; Scott on Trusts (2d ed.), Vol. IV, \u00a7\u00a7373, 373.1; Bogert, Trusts and Trustees, Vol. 2A, \u00a7378.\nHenceforth in proceedings involving \"charitable trusts, notice thereof must be given to the Attorney General. \"\nAlthough the County Poor District has been abolished, its successor is the Luzerne County Institution District.\nScott on Trusts (2d ed.), Vol. IV, \u00a7380, p. ,2737.",
+        "type": "majority",
+        "author": "Mr. Justice Benjamin B. Jones,"
+      }
+    ],
+    "attorneys": [
+      "G. W. Dickson, for appellant.",
+      "Thomas G. Moore, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Garrison Estate.\nArgued November 14, 1957. .\nBefore Jones, C. J., Bell, Chidsey,- Musmanno, Arnold,- Jones .and - Cohen, JJ.\nG. W. Dickson, for appellant.\nThomas G. Moore, for appellee.\nJanuary 8, 1958:"
+  },
+  "file_name": "0234-01",
+  "first_page_order": 254,
+  "last_page_order": 262
+}

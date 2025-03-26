@@ -1,0 +1,798 @@
+{
+  "id": 856788,
+  "name": "Floyd, Appellant, v. Philadelphia & Reading R. R.",
+  "name_abbreviation": "Floyd v. Philadelphia & Reading R. R.",
+  "decision_date": "1894-05-23",
+  "docket_number": "Appeal, No. 352",
+  "first_page": "29",
+  "last_page": "45",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "162 Pa. 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "90 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "89 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 Pa. 293",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        440494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/85/0293-01"
+      ]
+    },
+    {
+      "cite": "80 Pa. 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1042351
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/80/0373-01"
+      ]
+    },
+    {
+      "cite": "160 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        852200
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/160/0117-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842356
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0046-01"
+      ]
+    },
+    {
+      "cite": "153 Pa. 417",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        840353
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/153/0417-01"
+      ]
+    },
+    {
+      "cite": "152 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838183
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/152/0326-01"
+      ]
+    },
+    {
+      "cite": "160 Pa. 386",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        852143
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/160/0386-01"
+      ]
+    },
+    {
+      "cite": "148 Pa. 133",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981858
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/148/0133-01"
+      ]
+    },
+    {
+      "cite": "147 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        829803
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/147/0440-01"
+      ]
+    },
+    {
+      "cite": "139 Pa. 272",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        11251344
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/139/0272-01"
+      ]
+    },
+    {
+      "cite": "132 Pa. 563",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970638
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/132/0563-01"
+      ]
+    },
+    {
+      "cite": "180 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "126 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        968913
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/126/0244-01"
+      ]
+    },
+    {
+      "cite": "123 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/123/0487-01"
+      ]
+    },
+    {
+      "cite": "108 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539248
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/108/0349-01"
+      ]
+    },
+    {
+      "cite": "152 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838080
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/152/0425-01"
+      ]
+    },
+    {
+      "cite": "139 Pa. 522",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        11252256
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/139/0522-01"
+      ]
+    },
+    {
+      "cite": "126 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        968900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/126/0164-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444805
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/97/0450-01"
+      ]
+    },
+    {
+      "cite": "82 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/82/0198-01"
+      ]
+    },
+    {
+      "cite": "64 Pa. 201",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/64/0201-01"
+      ]
+    },
+    {
+      "cite": "44 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        484265
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/44/0375-01"
+      ]
+    },
+    {
+      "cite": "153 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        840319
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/153/0117-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 604",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452151
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0604-01"
+      ]
+    },
+    {
+      "cite": "102 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        502645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/102/0115-01"
+      ]
+    },
+    {
+      "cite": "130 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        568967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/130/0380-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063200
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/89/0059-01"
+      ]
+    },
+    {
+      "cite": "149 Pa. 6",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        832613
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/149/0006-01"
+      ]
+    },
+    {
+      "cite": "150 Pa. 187",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        834465
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/150/0187-01"
+      ]
+    },
+    {
+      "cite": "150 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        834411
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/150/0180-01"
+      ]
+    },
+    {
+      "cite": "127 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        565711
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/127/0297-01"
+      ]
+    },
+    {
+      "cite": "124 Pa. 572",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        563073
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/124/0572-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. 91",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444772
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/97/0091-01"
+      ]
+    },
+    {
+      "cite": "135 Pa. 357",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "131 Pa. 184",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810293
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/131/0184-01"
+      ]
+    },
+    {
+      "cite": "128 Pa. 308",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        567108
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/128/0308-01"
+      ]
+    },
+    {
+      "cite": "59 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "149 U. S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "159 Pa. 395",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850206
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/159/0395-01"
+      ]
+    },
+    {
+      "cite": "77 Iowa, 672",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Fed. R. 239",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "152 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838162
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/152/0331-01"
+      ]
+    },
+    {
+      "cite": "156 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        844878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/156/0175-01"
+      ]
+    },
+    {
+      "cite": "138 Pa. 506",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        11252257
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/138/0506-01"
+      ]
+    },
+    {
+      "cite": "113 Pa. 618",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Pa. 372",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539227
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/108/0372-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 512",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 Pa. 447",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057842
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/87/0447-01"
+      ]
+    },
+    {
+      "cite": "79 Pa. 387",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        438403
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/79/0387-01"
+      ]
+    },
+    {
+      "cite": "76 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038918
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/76/0157-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "118 Ind. 306",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Iowa, 55",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2281494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/29/0055-01"
+      ]
+    },
+    {
+      "cite": "4 Hun, 346",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Vroom, 530",
+      "category": "reporters:state",
+      "reporter": "Vroom",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 N. Y. 749",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 N. Y. 616",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 N. Y. 742",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "38 Fed. R. 15",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6715184
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/38/0015-01"
+      ]
+    },
+    {
+      "cite": "10 Allen, 368",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2117010
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/92/0368-01"
+      ]
+    },
+    {
+      "cite": "96 N. Y. 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "110 Pa. 231",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "127 Pa. 307",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 Pa. 413",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "153 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        840319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/153/0117-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 604",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452151
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/104/0604-01"
+      ]
+    },
+    {
+      "cite": "102 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        502645
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/102/0115-01"
+      ]
+    },
+    {
+      "cite": "149 Pa. 6",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        832613
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/149/0006-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1287,
+    "char_count": 38747,
+    "ocr_confidence": 0.472,
+    "pagerank": {
+      "raw": 3.686539741181866e-07,
+      "percentile": 0.8922746075157277
+    },
+    "sha256": "d9400076a3c8b43263fe1be7100570daddfb39780568fe1eeb98ae6b75981a5a",
+    "simhash": "1:7a463ed2908a8499",
+    "word_count": 7242
+  },
+  "last_updated": "2024-02-27T19:09:43.718607+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Sterrett, C. J., Green, Williams, Mitchell and Dean, JJ.",
+      "Mr. Chief Justice Sterrett, being of opinion that there was manifest error in not submitting the case to the jury, dissented."
+    ],
+    "parties": [
+      "Floyd, Appellant, v. Philadelphia & Reading R. R."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Green,\nThe direct and immediate cause of the injury of the plaintiff was the fright, and the running away, of the horse that was drawing the carriage in which the plaintiff and her friend were riding. There was no negligence alleged, or proved, in the running of the train, and there was no collision on the railroad. The fright of the horse was alleged by the plaintiff to have been occasioned by the act of warning by the flagman to prevent the ladies from driving across the main line immediately in front of an approaching train, and it was founded upon the negative testimony of the two husbands that they did not hear or see any train either approaching before the accident, or at rest at the station, after the accident. Charity requires that their testimony on this subject should be regarded as the result of the very high state of excitement into which they were naturally thrown by the occurrence of the accident. It was serious enough to distract the thoughts and the attention of the most self-possessed and cool-headed persons. As for the feebly pressed contention that there was no train there it is simply preposterous, because all the affirmative testimony in the case, including that of the plaintiff\u2019s disinterested witnesses, proved in the clearest and most indubitable manner, not only that there was an approaching train, but that it arrived, and stopped, and stood still, at the station, in full view of the husbands of the ladies, instantly after the happening of the accident. Thus the plaintiff\u2019s witness, Burgess Hoffman, testified: \u201cI was sitting there (on the porch of the Junction House) and I saw a carriage standing on one side and a carriage standing on the other; it stood there I suppose for a minute, as near as I could tell, and I saw the flagman come over waving his light from his box, and the ladies drive over, and as they got in front of the railroad, from here to that table, he threw his lantern right up in the horse\u2019s face, and that scared the horse and the horse shied off and ran up the Doylestown track through that branch there, and came over the Doylestown platform. That is where the accident happened. . . . Q. You say the train arrived shortly after or pretty soon after the horse ran over the platform? A. Yes, sir; I heard the signal myself. Q. What train ? A. An east train. Q. That is, you heard the whistle blown ? A. I heard a whistle blown. . . . Q. You say you heard that whistle blown? A. Yes, sir. Q. Where was the wagon when the whistle was blown ? A. The flagman then came across from his box waving his lantern and the ladies then started to come across. . . . Q. How long do you think it was before the train came that morning after the horse had run off this wuiy ? A. It might have been a minute. Q. You cannot give the time definitely ? A. No, sir; I couldn\u2019t give the tim\u00f3 definitely.\u201d\nThe foregoing was the testimony in chi\u00e9f of the witness. So that it was affirmatively proved by the plaintiff, by a witness who was disinterested, that there was a train approaching immediately before the accident, and that its warning whistle was distinctly heard by him. On cross-examination he further testified : \u201c Q. While sitting there you heard the whistle of the train blown ? A. Yes, sir. Q. When you heard the whistle blown where were the two men (the husbands) ? A. They were on the opposite side of me. I mean on the opposite side of the street from where I was. Q. They did cross over on the tracks ? A. Yes, sir. Q. Where were the two women ? A. The women at that time were on the other side, when the flagman walked out. Q. When you heard the whistle blow, the men had got over the main line ; had crossed over all the tracks ? A. Yes, sir. Q. Where were the women ; had they crossed over the Doylestown track ? A. When the whistle blew I don\u2019t think they had. I think they only started to come. Q. You were sitting on this hotel porch? A. Yes, sir. Q. The men were over ? A. Yes, sir. Q. And the whistle blew that the train was coming ? A. The whistle blew that the train was coming below Broad street. Q. The women had not yet started to cross over the Doylestown track ? A. No, sir; the flagman then came out. When the flagman came out with his lantern the women started to come on. . . . Q. When that whistle blew, they had not started to cross the track, had they? A. They had about started 1 think. The flagman came over and they about started with the flagman. When the flagman started they started. Q. All the time they were moving along this Main street the train was coming on the track, was it not ? A. The train was coming on the track ; I suppose so or it would not have blown. Q. The flagman immediately after the whistle blew came out ? . A. He was out. Q. He came out into the street ? A. Towards the street, yes, sir. Q. When they got to this point almost on the track, then it was he turned around and threw up the lantern, and then it was that the horse turned ? A. When the ladies got to the point of crossing the road, as close as \u00cd am to you, he was right up to them, or closer a good deal, then he turned around and appeared to be surprised and threw up his hands with the lantern. Q. Tim train was still coming on ? A. The train was still coming on.\u201d\nSupposing that Broad street crossing was 1200 feet distant, as this witness said, though the other witnesses said it was but 700, and supposing that the train was running at the rate of ten miles an hour, which was about the lowest rate named, it would take a minute and a half for the train to reach Main street crossing. During that time the women were crossing slowly from the opposite side of the Doylestown track, and passing along Main street over the distance which separated the Doylestown track from the main line. It can be readily understood how imminent was the danger, and how urgent was the action of the flagman to arrest the inevitable collision.\nAnother witness for the plaintiff, Schinleiver, testified : \u201c I noticed the two gentlemen on the opposite side of the main branch in an open top carriage, and I noticed them looking around; and in looking back to see what they were looking at I noticed a couple of ladies in a falling top, and I noticed that the flagman was standing there at his box and had the lantern, and whether he was swinging it I do not remember. I noticed the two ladies drive on, and just as they got in front of the flagman I noticed that he threw his lantern up, and the horse was frightened and turned to the right and crossed over the Doylestown platform. Q. Did he throw his hands up quickly or slowly with the lamp ? A. Pie threw them up as though he was excited. Q. How close was the flagman at that time to the horse\u2019s face ? A. He might have been, I judge, five or six feet. . . . Q. You did not notice any train at all at that time? A. Not at that time ; no, sir. Q. Could you say how soon after the train arrived ? A. I looked over a short three minutes afterwards, and I noticed the train standing there. I could not tell when it arrived.\u201d\nThis was the positive affirmative testimony given in evidence by the plaintiff. On cross-examination the same witness said lie had crossed over the moment he saw the horse rear to assist in caring for the women, and paid all his attention to them, and did not notice the arrival of the train, but that it was standing there at the station when he looked about three minutes later.\nAs a matter of course the negative testimony of the husbands that they heard no whistle, and saw no train, disappears from the case in the face of this positive testimony of the plaintiff, and it constitutes no element in the discussion.\nThe testimony of all of the defendant\u2019s witnesses on this subject fully corroborates that of the plaintiff. Thus Nathaniel Bickel, the engineer of the train, said: \u201c I was about half way between Broad and Main street, or nearer Main street than Broad, and I saw a carriage coming across there, and as I got a little closer, I saw the horse rear up, and the horse ran around to the right and jumped over the platform and by that time I got by the station and it hid my view. \u201d\nIt is manifest from this testimony that had the flagman not arrested the progress of the carriage it would inevitably have been run over and the death of both women would most prob- \u2022 ably have resulted.\nBloom, the flagman, after describing the manner of the accident, was asked: \u201c Q. How near, about, as far as you recollect, were you to the horse when you turned around? A. About twentjMive or thirty feet. Q. Somewheres there? A. Yes, sir. Q. Where was the train when you turned around? A. Right beyond the flag-box. Q. Coming right on to the crossing? A. Yes, sir. Q. Where were you standing? A. In Main street about six or seven feet from the track. Q. You were in the bed of Main street six or seven feet from the track ? A. Yes, sir. Q. And the train was coming on to the crossing? A. Yes, sir. \u201d These are the two men who had the best opportunity of observing the precise facts just as they occurred, and they both agree that the train was close to the crossing when the flagman slopped the horse.\nOther observers entirely disinterested and having the very best means of knowing just what took place, gave entirely similar accounts of the occurrence. Henry Clark said: \u201cIn the first place I stood between the main line and the flag-box ; and as the train was coming up about half way between Broad street and Main street, I stepped around to the front of the flag-box to clear myself of the danger; and, as I wheeled to the front, I spied those women coming. As quick as I spied them I hallooed. They hallooed to me, \u2018 catch the horse,\u2019 and quick as they hallooed the horse was on his hind feet. He then bore off to the right and went right across the platform of the Doylestown branch and threw the women out, tore loose and went out Walnut street. \u201d\nIsaiah L. Walker testified: \u201cI stood in the Junction House yard that evening about sixty feet from the main track watching for that up train to come. I had some teams in the stable and I expected the parties on to want their teams. I stood there and heard a whistle blow by the Broad street crossing. With that I had my eyes straight across Main street, the Doylestown crossing, and I saw a team standing there with two ladies in it and a child. Mr. Bloom was close to his watch-box, or near there, outside on the pavement. The whistle blew, Mr. Bloom walked leisurely towards the middle of the track, as he always did, swinging his lantern. As he started those ladies goes on; they got close to him and some one hallooed, and. Bloom turned around quickly and frightened this horse, the way it looked to me, and he ran away towards the Doylestown track. Q. Did the train come then? A. The train came. As the horse was about to jump I came out and I could not cross ahead of this engine. Q. When jmu saw the horse turn around you ran to help? A. I started to run, and get across the track. Q. You were at Longacre\u2019s Hotel ? A. I was about seventy feet away from the main track. Q. And by the time you started, and got here \u2014 A. I didn\u2019t start to run, right away. I started off to walk, and when I got nearly half way I started to run and I couldn\u2019t get across. I staid back until the train crossed and then I went over and got this wagon away. \u201d\nThis is a very precise and circumstantial account of the transaction showing the immediate succession of the events, and it proves beyond the possibility of a doubt that if the horse had not been stopped by the flagman he would have been on the track immediately in front of the locomotive. On cross-examination he was asked how near the flagman was to the horse when he threw up his hands, and he said, \u201cI judge he was not over seven or eight or nine feet. Something like that. He was not far awajn Some one hallooed and he turned around and threw up his hands, and with that the horse flew to one side, and when the horse was about ready to jump the platform the train passed by.\u201d\nSylvester Jenkins, another witness for defendant, said: \u201c The first I saw of the accident was the horse rearing on the street, turning to the right and running with the ladies over the platform and upset them. I saw nothing of the watchman. Q. Did you see the train come ? A. Yes, sir. Q. How soon after you saw the horse rear did the train come ? A. About half a minute. Q. Where was the carriage when the train came? A. About midway between the starting point and the track. It was running towards the Doylestown branch at the time that the train was about seventy-five feet below the watch-box.\u201d\nFrom this testimony it can easily be imagined what would have happened if the flagman had not succeeded in arresting the progress of the horse over the .track. To the same effect is the testimony of Frank W. Dickinson, another witness for defendant. He was on the ground at the time of the accident. He was asked: \u201c Q. What did you see and what did you hear ? A. Just as I was crossing between the Doylestown track and the main north bound track I heard the whistle blow. Q. That is while you were in the bed of Main street? A. Yes, sir; on Main street between the Doylestown branch and the main line. Q. You heard a whistle blown ? A. Yes, sir; I passed over and as I looked down I saw the train very close. I had to hurry to cross. As I looked around I saw the horse rear, and by that the train cut my view.\u201d\nAnother witness who was on the ground, Joseph Z. Kratz, testified: \u201cI had been in the post office and came out there and stood there and talked with Mr. Hartzell. He was standing there near that post when I came out. I paid no attention to the railroad nor to the team. I heard a train coming and I looked up, and as I looked I saw the train was very near Main street, and as I looked up I saw the train, and the instant I looked up I looked where Mr. Bloom was and he was at his post giving the signal for danger. By that time he turned around and kind of raised his hands, and by that time the horse ran to his right and ran over the Doylestown platform and tore away from the carriage and threw these ladies out. Q. When the horse started to turn around where was the train? A. It might have been one hundred feet more orless from Main street. Q. It was approaching Main street ? A. Yes, sir. . . . It was all in an instant, my looking up and the train coming, and I looked where Bloom was and he was at his station and by that time the horse turned to his right and ran away. It was all in an instant. ... It was done very quick as I say. The train coming and him turning around and raising his hands and the horse running away, it was done in a very short time.\u201d\nAnother witness, Michael H. Hartzel, said he was standing with Mr. Kratz at the hitching post and was facing Main street and the Doylestown track. He testified: \u201cI had my right hand on the post, talking the way some people talk, and I saw that train just crossing the Doylestown branch, but I paid no attention to them until they just about crossed the siding there; I heard somebody yell and that attracted my attention, and I looked, and I saw Mr. Bloom standing in the street with his lantern, somewheres in the middle of the street. I couldn\u2019t say exactly where, but in the middle of the street facing the main line; and when I heard that yell I looked up and I saw the horse rear around and I saw Bloom the flagman turn around, and just at that time the train passed along. ... I saw the train just as soon as the horse was rearing.\u201d\nEdwin K. Doulin, another witness for the defendant, after describing his position and what he saw of the men and their wives, testified: \u201c Just about the time they (the women) got cleverly about the Doylestown track, the flagman was standing across the middle of Main street swinging his lantern and I couldn\u2019t say whether he threw his lantern up or not. Any way there was a train came along and it came so suddenly that I couldn\u2019t be positive -what did happen. The first thing I saw the horse turned around to the right and ran up on the Doylestown platform and threw the ladies out and tore loose from the wagon and ran up Walnut street. Q. Did you see the train coming? A. Yes, sir. . . . It seemed to me that the train and the accident were both about together. I do not think the train was half a minute after the accident happened.\u201d\nPatrick McCloskey, having said he was between the two tracks when the accident happened, testified :\u2022 \u201c As I crossed the track I saw the two ladies coming in the buggy, and they got very near, almost between the two tracks, and at that time the train came and the horse reared up on his hind legs and turned to the right and the wheels of the carriage struck the platform of the Doylestown branch and the horse broke from the harness and ran out Walnut street and the ladies and boy were thrown out. Q. Did you hear or see the train come? A. I saw the train come, yes, sir. Q. When did you first see the train coming? A. Just before I crossed the main line track.\u201d\nTyson, another witness for the defence, testified substantially to the same effect. Amongst other things he said : \u201c The team was pretty close to him (the flagman) and about the same time there was an express train came north; the horse made a plunge like, he turned to his right, ran over to the Doylestown platform. . . . Q. When j'ou saw the horse rear where was the train ? A. The train was, to the best of my knowledge, crossing Main street.\u201d\nJohn Austey, having said he passed the ladies within three or four feet, and that he saw them pass the Doylestown road, said : \u201c I didn\u2019t see them stop. I didn\u2019t notice them stop but I looked the other way, and the train was coming, and of course I looked back to the ladies to see how they would drive across the road, whether they would or not, and they drove near the road and the flagman was swinging his lamp like this (illustrating) and then I began to think how are they going to cross, and just as the horse reared the train came and the horse reared and turned around and the train went right by. Q. The horse reared and the train went right by ? A. The horse reared and turned to the right; turned across before he got to the platform, and the train went bj- before he got half way I should judge.\u201d\nIt has been necessary to make these quotations from the testimony in order that we may consider intelligently the action of the learned court below in directing a verdict for the defendant. The case had been tried before and had resulted in a verdict for the plaintiff which had been set aside as being contrary to the evidence. The trial judge consulted with his colleagues and all were of opinion that there was no proof of negligence on the part of the defendant, that the injury was caused by the fright of the horse, and that the fright of the horse resulted from the action of the flagman in his effort to keep the horse from going on the track. They were also of the opinion that upon plaintiff\u2019s own testimony the flagman was strictly in the line of his duty in his attempt to stop the wagon, and was not responsible for the manner of his effort, even upon the theory that he was waving them to come on, and was not waving them to stop, as he alleged. Upon the whole testimony the court below was of opinion that there could be no recovery under the evidence, and hence if a verdict for the plaintiff should be rendered it would have been their duty to set it aside. In such cases, as we have many times held, it is the duty of the court to direct a verdict for the defendant.\nIn considering this subject it must be observed that there was only one question in the case, and that is whether the effort of the flagman to stop the wagon was an act of negligence? If it was not there is no ground of recovery. It is perfectly manifest that, upon a just review of the testimony, the peril of the women was immediate, that it threatened their lives, that it was of sudden origin and that the most extreme measures were necessary to avert it. The testimony of the women and their husbands is of no assistance in solving the question. They all say that they heard no whistle, saw no train, and had no knowledge of the approach of a train. Their testimoity is all negative and proves nothing against the entire bulk of all the rest of the testimony, both of the plaintiff and the defendant. If they neither heard nor saw, nor had any knowledge of an immediately approaching train, they have no qualification to speak or judge of the act of the flagman. To them with only their means of knowledge his act was simply an unnecessary act and therefore indefensible. It is for this reason that their testimony is of no value in considering the flagman\u2019s act. The entire mass of the testimony, on both sides, that was founded upon actual knowledge of the real facts of the situation, proves everything that was necessary, to not otdy justify the flagman\u2019s act, but to demand it most imperatively, and to convict him of the grossest, indeed, criminal negligence, if he had not done just what he did do. He knew suddenly what he and the other witnesses knew by the evidence of their senses, that a train was rapidly approaching the crossing, that the wagon if not stopped would in another instant be upon the track, and that three human lives would be in the most imminent peril. Of course it was his bounden duty to stop, instantly, the further progress of the horse by any means and at all hazards. There was no time to stop and consider about methods, for the delay of a few seconds might, and probably would, prove fatal. On this subject there was no contrariety in the evidence. Two witnesses for the plaintiff and twelve witnesses for the defendant testify to all the facts which establish the reality, the imminence and the suddenness of the impending danger. And on this subject which is the vital matter in controversy there is no contradiction in the testimony of the women and their husbands. For they, concurring quite entirely in their account of the actual facts of the accident itself, to wit, the act of the flagman, the rearing of the horse, his turning and running upon the platform and throwing out the occupants of the wagon, do not contradict the other witnesses, when they say they heard no whistle, saw no train, and had no knowledge of the presence of a train on the crossing or at the station. The fact that they neither saw nor heard these things does not at all disprove the fact that others did see them. There were very good reasons why all these things might occur and yet they be inattentive and fail to hear or see them. They were the immediate persons involved in the catastrophe. The whole force of their consciousness would naturally be absorbed by the vivid and intense incidents of the perilous situation. Hence there is no real contradiction in the whole mass of the testimony upon the vital facts which affect the character of the flagman\u2019s act. That it was essential to be done, that the occasion was one of extreme urgency, that no reflection upon methods was safe or was even eligible, are conclusions which immediately result upon a mere inspection of the testimony. They prove incontestably that the act of the flagman was in no sense a negligent act but an imperative duty. The functions of a jury are not needed to determine the rights of the parties in such a situation. The law determines them because the fundamental fact of negligence is absent from the case. Whether the act of the flagman be viewed as a matter of fact only, or whether it be regarded in its legal aspect as something done upon an emergency and therefore not a subject of criticism as to its methods, the result is the same. -For the law wisely holds that an act done upon a sudden emergency when life is apparently in peril, is not negligent, even though it is mistaken. Such is the long established rule of the law frequently enforced by this court.\nIn Brown v. French, 104 Pa. 604, we held that one who, in a sudden emergency, acts according to his best judgment, or who, because of want of time in which to form a judgment, omits to act in the most judicious manner, is not chargeable with negligence. Such an act or omission, if faulty, may be called a mistake, but not carelessness. Said Gojrdon, J., in delivering the opinion: \u201cUnder such circumstances as these we cannot agree that a mistake in judgment is an act of carelessness. No one can be charged with carelessness when he does that which his judgment approves, or where he omits to do that of which he has no time to judge. Such act, or omission, if faulty, may be called a mistake, but not carelessness.\u201d\nIn Sekerak v. Jutte, 153 Pa. 117, we held that a person who, without fault on his own part, finds himself in the presence of a sudden emergency which imperils the lives of others, and has but a moment of time in which to think and act,' cannot be charged with negligence if in acting he makes a mistake in judgment.\nOther illustrations of this principle will be found in Hestonville, etc. Pass. Ry. Co. v. Kelley, 102 Pa. 115, and Oberdorfer v. R. R. Co., 149 Pa. 6. Further reference to authorities is unnecessary. On the whole case we are clearly of opinion that it was rightly determined by the learned court below. The contention that the signal given by the flagman was an invitation to the women to come on is foreign to the vital question of the cause. The women testified that they so regarded it, but the flagman and others said it was a signal of danger. But it is immaterial which it was, since it would^ have bee.n just as much the duty of the flagman to stop them, whether he had previously signaled them to come on or not.\nJudgment affirmed.\nMr. Chief Justice Sterrett, being of opinion that there was manifest error in not submitting the case to the jury, dissented.",
+        "type": "majority",
+        "author": "Mr. Justice Green,"
+      }
+    ],
+    "attorneys": [
+      "John F. Lewis, F. C. Adler with him, for appellant.",
+      "Gavin W. Hart, for appellee.",
+      "John F. Leivis, F. O. Adler with him, for appellant, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Floyd, Appellant, v. Philadelphia & Reading R. R.\n[Marked to be reported.]\nNegligence \u2014 Railroads\u2014Grossing\u2014Watchman\u2014Fright of horse \u2014 Sudden peril \u2014 Nonsuit.\nIt is not negligence for a watchman at a railroad crossing to run in front of a horse and carriage, approaching on a highway, to arrest the progress of the carriage and to prevent its inevitable destruction and the probable death of its occupants by an approaching train.\nIn such a case if the horse takes fright, and in turning throws the occupants from the carriage and injures them, they cannot recover damages from the railroad company.\nIn an action to recover damages for personal injuries, it appeared that plaintiff, a married woman, with another woman, approached a railroad crossing in a small carriage drawn by one horse. The husbands of the women were driving in an open buggy in advance of their wives. The men crossed the track, and the horse in the other carriage was approaching very close to it, when the flagman ran out and waved his lantern in front of the horse, thereby frightening it, and causing it to overturn the carriage, and injure one of the occupants. The husbands and the two women testified that they neither saw nor heard nor had any knowledge of an approaching train. The women testified that the flagman waved for them to cross. Two witnesses for plaintiff and twelve witnesses for defendant testified that a train was approaching, and that the carriage would have been run over if the flagman had not stopped the progress of the horse. Held, that it was not error to withdraw the case from the jury.\nAn act done upon a sudden emergency when life is apparently in peril is not negligent even though it be mistaken.\nMr. Chief Justice Sterrett dissents.\nArgued April 5, 1894.\nAppeal, No. 352, Jan. T., 1894, by plaintiff, Gatharine Floj'd, from judgment of C. P. No. 4, Phila. Co., March T., 1892, No. 210\u2019, on verdict for defendant.\nBefore Sterrett, C. J., Green, Williams, Mitchell and Dean, JJ.\nAffirmed.\nTrespass for personal injuries.\nPlaintiff\u2019s evidence tended to establish: That the accident happened Aug. 8, 1891, about 7:80 P. M. as plaintiff was driv ing westward on Main street, Lansdale. The first crossing was that of the Doylestown branch. The crossing of the main line is some 60 feet further. The distance between the outside rails of both crossings is some 12,5 feet. Plaintiff testified that the flagman waved for her to cross. The further facts appear by the opinion of the Supreme Court\nThe court charged as follows, by Arnold, J.:\n\u201c This case has been tried before and the verdict was set aside on the ground that it was contrary to the evidence. I have consulted with my brethren on the subject and we are of the opinion that this is a case in which the verdict ought to be for the defendant; that there is no evidence of negligence on the part of this railroad company; that the accident was one of those unforeseeable and unavoidable accidents which will sometimes occur, and that persons who suffer injury from such accidents must bear their own losses. It is not a case of injury resulting from negligence of the watchman of the railroad company, but from the fright of the horse and his running away. Taking the case of the plaintiff as it is given by her witnesses, it shows that the watchman in the performance of his duty threw up his hands to stop her at a point of danger, and if the horse took fright and ran off and hurt her in consequence thereof, the horse was frightened by the- watchman in the performance of his duty. Certainly there wa& no fault of the railroad company or its employees.\n\u201c Taking the plaintiff\u2019s side of the case to be true, that the watchman waved the ladies on across the Doylestown track, instead of waving them to stop, as he alleges, and the plaintiff did not mistake the signal, nevertheless, it was a mistake which could be corrected at any time before they were in danger of being run over by the cars; and finding that the train was coming he did no more than his duty, when he turned around and threw up his hands to stop them, that being the usual way to stop people when there is an imminently impending danger. Therefore, in this case your verdict will be for the defendant.\u201d Verdict and judgment for defendant. Plaintiff appealed.\nError assigned was (1) charge of court, quoting it.\nJohn F. Lewis, F. C. Adler with him, for appellant.\nIf a person about to cross a public railroad crossing, stops and looks and listens, and sees and hears nothing, and the flagman in charge signals him to come on, he is justified in accepting that invitation as an assurance that the crossing is safe: R. R. v. Killips, 88 Pa. 413; R. R. v. Frantz, 127 Pa. 307; R. R. v. Horst, 110 Pa. 231.\nThe test which the court should apply to this case is the question whether the flagman\u2019s invitation to plaintiff was not such evidence of negligence as must go to the jury: Patterson\u2019s Ry. Accident Law, 164; 2 Redfield\u2019s Ry. Law, p. 596; Whart. Neg. 387; Glushing v. Sharp, 96 N. Y. 677; Sweeney v. R. R., 10 Allen, 368; R. R. v. Schneider, 35 A. & E. R. R. Cas. 337; Whelan v. R. R., 38 Fed. R. 15; Ry. v. Hutchinson, 11 N. E. R. 857; Kane v. R. R., 31 N. Y. 742; Richardson v. R. R., 40 N. Y. 616; Haywood v. R. R., 35 N. Y. 749; R. R. v. Toffey, 9 Vroom, 530; Borst v. R. R., 4 Hun, 346; Spencer v. R. R., 29 Iowa, 55; Pa. Co. v. Stegemeier, 118 Ind. 306; Longenecker v. R. R., 105 Pa. 333; R. R. v. Weber, 76 Pa. 157; Weiss v. R. R., 79 Pa. 387; R. R. v. Weiss, 87 Pa. 447.\nIf plaintiff had not been interfered with, there can be no doubt but that she would have crossed the track in safety: R. R. v. Carr, 99 Pa. 512.\nWhether plaintiff stopped at a proper place or not, was for the jury to say, and whether she stopped long enough: R. R. v. Garvey, 108 Pa. 372; R. R. v. Brandtmaier, 113 Pa. 618; Ellis v. R. R., 138 Pa. 506; Whitman v. R. R., 156 Pa. 175; McGill v. R. R., 152 Pa. 331.\nIt is impossible for this accident to be termed \u201c unforeseeable \u201d or \u201c unavoidable \u201d unless the fact that the flagman invited plaintiff to cross is eliminated from the case absolutely. That this invitation was given, the overwhelming weight of the evidence demonstrates. The acceptance of that invitation brought plaintiff into a position of danger, and the test of liability, the direct cause of the accident, was not the running off of her horse, but the negligent act of the flagman by which plaintiff was brought into danger: R. R. v. Horst, 110 Pa. 231; Peck v. R. R., 19 A. & E. R. R. Cas. 257; Ry. v. Prescott, 58 Fed. R. 239; Andrews v. R. R., 77 Iowa, 672; Haney v. Traction Co., 159 Pa. 395.\nNegligence is always a question for the jury when there is doubt as to the facts or inferences to be drawn from them: R. R. v. Powers, 149 U. S. 45; R. R. v. Barnett, 59 Pa. 264; R. R. v. Jones, 128 Pa. 308; McNeal v. R. R., 131 Pa. 184; Weiss v. R. R., 79 Pa. 390; Kohler v. R. R., 135 Pa. 357.\nGavin W. Hart, for appellee.\nTaking the testimony as it stood, it appeared affirmatively in plaintiff\u2019s case: (1) While traveling ninety feet with an unobstructed view of a coming train she did not stop; (2) she did not stop, look and listen on approaching the second crossing; (3) the accident did not occur from any negligent act on part of the railroad company, but was the result of an effort on part of their employee to save plaintiff from death. This does not excuse one from stopping, looking and listening: R. R. v. Killips, 88 Pa. 413; R. R. v. Horst, 110 Pa. 231; R. R. Co. v. Franz, 127 Pa. 307.\nIt was the duty of plaintiff to stop, look and listen, even though the gates were up or the flagman signaled: R. R. v. Boyer, 97 Pa. 91; Greenwood v. R. R., 124 Pa. 572; R. R. v. Franz, 127 Pa. 297; Ehrisman v. R. R., 150 Pa. 180; Wheelahan v. R. R., 150 Pa. 187.\nIt may be conceded that the flagman did what plaintiff alleges he did, and yet the fact remains that it was done in the effort to save her life. In such case there can be no recovery: Oberdorfer v. R. R., 149 Pa. 6.\nThe rule of Werner v. R. R., 89 Pa. 59, and Aiken v. R. R., 130 Pa. 380, as to sudden danger, applies in favor of the employees of a railroad: Ry. v. Kelley, 102 Pa. 115; Brown v. French, 104 Pa. 604; Sekerak v. Jutte, 153 Pa. 117.\nBefore there can be any recovery there must at least be either negligence affirmatively proved or facts proved from which the inevitable inference is that there was negligence: R. R. v. Hummell, 44 Pa. 375; Express Co. v. Wile, 64 Pa. 201; R. R. v. Shay, 82 Pa. 198; R. R. v. Schertle, 97 Pa. 450; Frazier Bros. v. Lloyd, 23 W. N. 178; Fox v. Borkey, 126 Pa. 164; Campbell v. Ry., 139 Pa. 522; Chilton v. Tract. Co., 152 Pa. 425; Weimer\u2019s Railroad Law, 468 et seq.\nPlaintiff was charged with knowledge of the coming train because it could have been seen: Carroll v. R. R., 12 W. N. 348; Moore v. R. R., 108 Pa. 349; Marland v. R. R., 123 Pa. 487; Mooney v. R. R., 126 Pa. 244; Aiken v. R. R., 180 Pa. 380; Irey v. R. R., 132 Pa. 563; Krause v. R. R., 139 Pa. 272; Hauser v. R. R., 147 Pa. 440; Ash v. R. R., 148 Pa. 133; Myers v. R. R., 160 Pa. 386; Urias v. R. R., 152 Pa. 326; Newhard v. R. R., 153 Pa. 417; Lees v. R. R., 154 Pa. 46; Smith v. R. R., 160 Pa. 117.\nThe fact that plaintiff said she did not see or hear is not sufficient evidence to send the case to the jury: Urias v. R. R., 152 Pa. 326; Newhard v. R. R., 153 Pa. 417.\nDoes the principle of two places to stop arise in this case ? This is a new doctrine in Pennsylvania, and is getting to be a source of gross perjury, as was the doctrine of \u201cstop, look and listen \u201d before the courts decided the case of Carroll v. R. R. It has now become the custom for a plaintiff to testify that he stopped at a point and then went on, and either stopped or slacked at another point, and although at the first point at which he stopped his looking would have disclosed a wall as high as the tower of Babel, jmt the fact that he so swears has induced the lower courts to send such cases to the jury. Two cases have been decided which upon first,blush seem to be in conflict, but which upon examination distinguish the circumstances under which the doctrine arises and clearly set out what the law is. They are Urias v. R. R., 152 Pa. 326, and the case immediately following it, McGill v. R. R., 152 Pa. 331. In Urias v. R. R., the evidence there disclosed the fact that at a point of perfect safety, and nearer to the railroad than that at which the plaintiff stopped, he could have seen an approaching train, and the court held that that place-was the one at which he must stop. In McGill v. R. R. Co., no such clearness of evidence was present. There was a conflict upon several points.\nJohn F. Leivis, F. O. Adler with him, for appellant, in reply.\nCounsel for plaintiff was asked, upon the argument, whether the flagman was not justified in stopping the horse. This question cannot be asked, without assuming that the train had arrived when plaintiff was essaying to cross the track, and this very point is the one about which the testimony is the most in conflict, and which a jury alone can decide. Plaintiff was not struck by the train. The evidence for plaintiff, standing by itself, given by six witnesses, is absolutely conclusive that the train had not arrived, and four of these witness especially looked 'and listened to see and hear whether any train -was approaching. They-made it their business so to look. Their very lives depended upon the evidence of their seuses. The testimony of appellee, on the other hand, is from witness.es who were talking to each other, or walking along the street, paying no special attention to the approach of the train.\nAnd if it be assumed that the train had arrived, or was dangerously near, the jury should say whether or not, in view of the signal to come on, the flagman was justified in stopping plaintiff and whether the method adopted was proper.\nAnd even if it be assumed that the train had arrived or was dangerously near, and that the flagman was justified in doing what he did to stop the horse (though it is respectfully submitted that such assumption can only be had by an absolute denial of plaintiff\u2019s right to the verdict of a jury upon material facts), it is then earnestly urged that defendant is responsible for plaintiff\u2019s injuries, because the flagman invited the ladies to come on.\nThe question of proximate and remote causes is one of fact for the jury: R. R. v. Hope, 80 Pa. 373; Hoag v. R. R., 85 Pa. 293; R. R. v. Lacey, 89 Pa. 456; R. R. v. McKeen, 90 Pa. 127; R. R. v. Garvey, 108 Pa. 372.\nAppellee\u2019s argument is based entirely upon the assumption that the train had reached the crossing, or was dangerously near it, and the cases he cites are those in which the plaintiff was struck by the train, and hence the fact that the train was there was established irrefutably.\nMay 23, 1894:"
+  },
+  "file_name": "0029-01",
+  "first_page_order": 53,
+  "last_page_order": 69
+}

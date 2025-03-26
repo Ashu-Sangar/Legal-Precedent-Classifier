@@ -1,0 +1,816 @@
+{
+  "id": 4208038,
+  "name": "SWB YANKEES LLC, Appellant v. Gretchen WINTERMANTEL and The Scranton Times Tribune, Appellees",
+  "name_abbreviation": "SWB Yankees LLC v. Wintermantel",
+  "decision_date": "2012-05-29",
+  "docket_number": "No. 44 MAP 2011",
+  "first_page": "640",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "615 Pa. 640"
+    },
+    {
+      "type": "parallel",
+      "cite": "45 A.3d 1029"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "833 A.2d 112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9081512,
+        587953,
+        9081446,
+        587951
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/833/0112-02",
+        "/pa/574/0661-02",
+        "/a2d/833/0112-01",
+        "/pa/574/0661-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 661",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587953,
+        587951
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0661-02",
+        "/pa/574/0661-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 670",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862636,
+        463533
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "671",
+          "parenthetical": "reflecting a narrower understanding of the concept of an essential governmental function"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/674/0670-01",
+        "/pa/544/0031-01"
+      ]
+    },
+    {
+      "cite": "544 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        463533
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "34",
+          "parenthetical": "reflecting a narrower understanding of the concept of an essential governmental function"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0031-01"
+      ]
+    },
+    {
+      "cite": "27 Fla. St. U.L.Rev. 825",
+      "category": "journals:journal",
+      "reporter": "Fla. St. U. L. Rev.",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "suggesting a categorization overlay for various open-records schemes"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "976 A.2d 609",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7295384
+      ],
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/976/0609-01"
+      ]
+    },
+    {
+      "cite": "215 A.2d 894",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "896"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "420 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1898587
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/420/0014-01"
+      ]
+    },
+    {
+      "cite": "983 A.2d 708",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196926,
+        7292959
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "717"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0292-01",
+        "/a2d/983/0708-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 292",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196926
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0292-01"
+      ]
+    },
+    {
+      "cite": "892 A.2d 897",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8989461
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/892/0897-01"
+      ]
+    },
+    {
+      "cite": "767 N.W.2d 751",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "761",
+          "parenthetical": "\"We agree with other courts that public records laws should not permit scrutiny of all a private party's records simply because it contracts with a government entity to provide services.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "278 Neb. 1",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We agree with other courts that public records laws should not permit scrutiny of all a private party's records simply because it contracts with a government entity to provide services.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "976 A.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196216,
+        7294924
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "483",
+          "parenthetical": "recognizing that an ambiguity exists when there are at least two reasonable interpretations of the text under review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0637-01",
+        "/a2d/976/0474-01"
+      ]
+    },
+    {
+      "cite": "601 Pa. 637",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196216
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "653",
+          "parenthetical": "recognizing that an ambiguity exists when there are at least two reasonable interpretations of the text under review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/601/0637-01"
+      ]
+    },
+    {
+      "cite": "13 A.3d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7288822
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/13/1025-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 75",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3698272,
+        7286771
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0484-02",
+        "/a2d/992/0075-01"
+      ]
+    },
+    {
+      "cite": "605 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3698272,
+        3697957
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "501-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0484-02",
+        "/pa/605/0484-01"
+      ]
+    },
+    {
+      "cite": "999 A.2d 672",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7288531
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "675"
+        },
+        {
+          "page": "675"
+        },
+        {
+          "page": "675-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/999/0672-01"
+      ]
+    },
+    {
+      "cite": "20 A.3d 490",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "504"
+        },
+        {
+          "page": "508",
+          "parenthetical": "Leadbetter, P.J., concurring"
+        },
+        {
+          "page": "510",
+          "parenthetical": "McCullough, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "610 Pa. 602",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "995 A.2d 496",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7289247
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "508",
+          "parenthetical": "Leadbetter, P.J., concurring"
+        },
+        {
+          "page": "508",
+          "parenthetical": "Leadbetter, P.J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/995/0496-01"
+      ]
+    },
+    {
+      "cite": "596 So.2d 1029",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7516700
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1031"
+        },
+        {
+          "page": "1031"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/596/1029-01"
+      ]
+    },
+    {
+      "cite": "25 A.2d 825",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "344 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1210971
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "458"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/344/0455-01"
+      ]
+    },
+    {
+      "cite": "88 A.2d 730",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "732",
+          "parenthetical": "\"Where words of a later statute differ from those of a previous one on the same subject they presumably are intended to have a different construction.\" (quoting Fidelity Trust Co., v. Kirk, 344 Pa. 455, 458, 25 A.2d 825, 827 (1942))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "370 Pa. 488",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1234554
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "492",
+          "parenthetical": "\"Where words of a later statute differ from those of a previous one on the same subject they presumably are intended to have a different construction.\" (quoting Fidelity Trust Co., v. Kirk, 344 Pa. 455, 458, 25 A.2d 825, 827 (1942))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/370/0488-01"
+      ]
+    },
+    {
+      "cite": "755 A.2d 1287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11219620,
+        225983
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1289-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/755/1287-01",
+        "/pa/562/0380-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225983
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0380-01"
+      ]
+    },
+    {
+      "cite": "15 A.3d 427",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4200354,
+        7338306,
+        4200899,
+        7338324
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0264-01",
+        "/a3d/15/0427-01",
+        "/pa/609/0265-01",
+        "/a3d/15/0427-02"
+      ]
+    },
+    {
+      "cite": "609 Pa. 265",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4200899
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0265-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 813",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7290660
+      ],
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/990/0813-01"
+      ]
+    },
+    {
+      "cite": "9 A.3d 1174",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7288266,
+        4200007
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "1177",
+          "parenthetical": "\"In light of ... material ambiguity, we refer to the tools of statutory construction, including consideration of the occasion and necessity for the statute, the object to be attained, and the consequences of a particular interpretation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/9/1174-01",
+        "/pa/608/0001-01"
+      ]
+    },
+    {
+      "cite": "608 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4200007
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "6",
+          "parenthetical": "\"In light of ... material ambiguity, we refer to the tools of statutory construction, including consideration of the occasion and necessity for the statute, the object to be attained, and the consequences of a particular interpretation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/608/0001-01"
+      ]
+    },
+    {
+      "cite": "75 Iowa L.Rev. 277",
+      "category": "journals:journal",
+      "reporter": "Iowa L. Rev.",
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "299-304",
+          "parenthetical": "discussing the historical development of the governmental/proprietary test"
+        },
+        {
+          "parenthetical": "\"The test under [Section 506(d)(1) ] is whether or not an agency has contracted out functions that it would otherwise have to perform[.]\" (emphasis in original)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "928 A.2d 1013",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3250122,
+        8357407
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1020",
+          "parenthetical": "explaining that \"the governmental-functions test was originally directed to bad faith efforts on the part of 'lame duck' governing bodies to 'handcuff their successors\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0184-01",
+        "/a2d/928/1013-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 184",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3250122
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "196",
+          "parenthetical": "explaining that \"the governmental-functions test was originally directed to bad faith efforts on the part of 'lame duck' governing bodies to 'handcuff their successors\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0184-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 538",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8362902
+      ],
+      "pin_cites": [
+        {
+          "page": "548"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/0538-01"
+      ]
+    },
+    {
+      "cite": "18 A.3d 1145",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4202950,
+        7284135,
+        4201845,
+        7284087,
+        4202808,
+        7284185
+      ],
+      "weight": 2,
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/610/0292-01",
+        "/a3d/18/1145-02",
+        "/pa/610/0293-01",
+        "/a3d/18/1145-01",
+        "/pa/610/0291-01",
+        "/a3d/18/1145-03"
+      ]
+    },
+    {
+      "cite": "610 Pa. 291",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4202808
+      ],
+      "weight": 2,
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/610/0291-01"
+      ]
+    },
+    {
+      "cite": "13 A.3d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7288822
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1036-39"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/13/1025-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2117,
+    "char_count": 74315,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 6.271686105620938e-07,
+      "percentile": 0.9578656902390834
+    },
+    "sha256": "a155be98054dde90fd5d3dfb8f089df02a73e4f64805994d375478d68d7da7b2",
+    "simhash": "1:9a3665e7647117d0",
+    "word_count": 11496
+  },
+  "last_updated": "2024-02-27T17:42:11.179141+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ.",
+      "Justice ORIE MELVIN did not participate in the decision of this case.",
+      "Justices EAKIN, BAER, TODD and McCAFFERY join the opinion.",
+      "Chief Justice CASTILLE files a concurring opinion."
+    ],
+    "parties": [
+      "SWB YANKEES LLC, Appellant v. Gretchen WINTERMANTEL and The Scranton Times Tribune, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice SAYLOR.\nThis appeal concerns the application of Pennsylvania\u2019s recently revamped Right-to-Know Law to certain documents in the possession of a private entity serving as the management agent for a municipal authority in the operation of a minor league baseball stadium.\nBackground\nIn 1985, the Board of Commissioners of Lackawanna County formed the Multi-Purpose Stadium Authority of Lackawanna County (the \u201cStadium Authority\u201d or the \u201cAuthority\u201d), invoking the Municipality Authorities Act of 1945. According to its Articles of Incorporation, the Authority\u2019s main purpose is:\nTo acquire, by gift, purchase, construction or in any other lawful manner, and to own, hold, manage, maintain, lease and operate a multi-purpose stadium situate in Lackawanna County, including but not limited to, real estate, rights of way, easements, equipment, personal property, both tangible and intangible, and any other asset deemed appropriate by the Authority to generate revenue to retire debt incurred by such Authority____\nCertif\u00edcate of Incorporation of Multi-Purpose Stadium Authority of Apr. 25,1985, at 3. The Stadium Authority subsequently acquired a minor league baseball team, renamed the Scranton/Wilkes-Barre Red Barons, which became affiliated with the Phillies of Major League Baseball\u2019s National League. After capital was raised via bonds and other public financing, the Authority constructed the Lackawanna County Stadium, now known as PNC Field (and hereinafter as the \u201cStadium\u201d), to serve as the home field for the franchise.\nFrom 1989 to 2006, the Authority managed all projects at the Stadium, including the day-to-day operations of the Red Barons. The Authority also entered into contracts with various food service providers for concessions at the Stadium. However, in 2006, the Phillies ended their affiliation with the Red Barons; a new one with the New York Yankees ensued; and the Red Barons became the Scranton/Wilkes-Barre Yankees.\nIn the same time period, the Authority consummated a management agreement with Mandalay Baseball Properties, LLC, a private entity, which vested Mandalay with the overall management and control of the day-to-day operations of the baseball club and the Stadium. Per the terms of the contract, Mandalay also assumed total responsibility for, inter alia, concessions and agreed to pay the Stadium Authority, for the duration of the agreement, the greater of $125,000 or 33.33% of the collected net income before income taxes each year.\nMandalay and the New York Yankees later formed a joint venture management company known as SWB Yankees LLC (\u201cAppellant\u201d), and the Stadium Authority and Appellant entered into a replacement management agreement. Under the contract, and as relevant here, Appellant became the sole and exclusive manager of all baseball operations and other entertainment activities and events conducted at the Stadium. In such functions, Appellant was made \u201can agent of [the Stadium Authority] for the purpose of [baseball operations and certain other activities]\u201d; furthermore, the agreement provided that \u201cthe actions of [Appellant] taken in accordance with such authority shall bind [the Authority] and the Team.\u201d Management Agreement of Apr. 4, 2007, \u00a7 1.2(a). Appellant also was given plenary authority over, among other things, concession sales, while accepting the obligation to make reasonable and prudent expenditures relating to baseball operations. See id. In addition, Appellant was required to make a yearly payment to the Stadium Authority in an \u201camount equal to one-third ... of the Collected Net Income attributable to such Fiscal Year (the \u2018Annual Payment\u2019); provided, however, that the amount of each Annual Payment shall not be less than ... [$125,000].\u201d Id. \u00a7 2.9 (emphasis in original).\nIn 2009, Appellant terminated a then-existing food service contract for concessions at the Stadium. After soliciting bids from various concessionaries and reportedly receiving competing proposals, Appellant contracted with Legends Hospitality LLC.\nShortly thereafter, Gretchen Wintermantel, a reporter for the Scranton Times Tribune (collectively \u201cAppellees\u201d), submitted a request to the Stadium Authority seeking \u201caccess to and copies of all names and the bids submitted to [Appellant] for a concessionaire contract at [the Stadium].\u201d Appellees invoked the Right-to-Know Law, which generally provides for access to \u201cpublic records,\u201d defined as non-exempt and non-privileged \u201crecords\u201d of a Commonwealth or local agency. The enactment, in turn, defines the term \u201crecord\u201d broadly to encompass:\nInformation, regardless of physical form or characteristics, that documents a transaction or activity of an agency and that is created, received or retained pursuant to law or in connection with a transaction, business or activity of the agency. The term includes a document, paper, letter, map, book, tape, photograph, film or sound recording, information stored or maintained electronically and a data-processed or image-processed document.\n65 P.S. \u00a7 67.102.\nOn behalf of the open-records officer, see 65 P.S. \u00a7 67.502, the Stadium Authority\u2019s solicitor denied the request, stating that the Authority did not possess such information. The solicitor recognized that the Right-to-Know Act applies to certain records in the possession of third parties, such as Appellant, as follows:\nA public record that is not in the possession of an agency but is in the possession of a party with whom the agency has contracted to perform a governmental function on behalf of the agency, and which directly relates to the governmental function and is not exempt under this act, shall be considered a public record of the agency for purposes of this act.\n65 P.S. \u00a7 67.506(d)(1) (emphasis added). According to the solicitor, however, Appellant was not performing a governmental function on behalf of the Stadium Authority. Thus, he concluded that the information was not considered a public record of the Authority for purposes of the Law.\nAppellees appealed to the Office of Open Records, taking the position that any action by Appellant as the Stadium Authority\u2019s agent is public business. See 65 P.S. \u00a7 67.1101. In response, the Authority argued that Appellant\u2019s function\u2014 baseball park management \u2014 was non-governmental, and thus, disclosure of its records under Section 506(d)(1) was not implicated. In this regard, the Authority referenced an area of the law which has evolved to determine whether contracts of a governmental entity are binding upon a successor governing body. See, e.g., Mun. Auth. of Borough of Edgeworth v. Borough of Ambridge Water Auth., 936 A.2d 538, 548 (Pa.Cmwlth.2007). In such context, a common-law distinction between \u201cgovernmental\u201d and \u201cproprietary\u201d functions has been employed to distinguish from ordinary contracts those particular agreements which are so intertwined with policymaking choices as to warrant the opening of an avenue for relief, so as not to impede succeeding government decision-makers. See Program Admin. Servs., Inc. v. Dauphin Cnty. Gen. Auth., 593 Pa. 184, 196, 928 A.2d 1013, 1020 (2007) (explaining that \u201cthe governmental-functions test was originally directed to bad faith efforts on the part of \u2018lame duck\u2019 governing bodies to \u2018handcuff their successors\u201d). See generally Janice C. Griffith, Local Government Contracts: Escaping from the Governmental/Proprietary Maze, 75 Iowa L.Rev. 277, 299-304 (1990) (discussing the historical development of the governmental/proprietary test).\nThe Office of Open Records granted the appeal and directed the Authority to provide Appellees with the requested information. In her opinion, the appeals officer explained that she regarded the governmental-proprietary distinction as inapposite to the open-records arena. In this regard, she observed that, under that test, the Stadium Authority\u2019s entire purpose {i.e., owning and running a baseball park) might also be considered non-governmental, although, indisputably, the Authority is a local governmental agency. Thus, the appeals officer reasoned that \u201c[t]he test in this case is not whether or not baseball or Stadium operations are governmental functions in a vacuum.\u201d In re Wintermantel v. Multi-Purpose Stadium Auth. of Lackawanna Cnty., No. AP 2009-0184, slip op. at 6 (OOR May 6, 2009). Rather, she explained, the work the Stadium Authority itself performs is \u201ca crucial aspect\u201d in considering whether Appellant performs a governmental function. Id. (\u201cThe test under [Section 506(d)(1) ] is whether or not an agency has contracted out functions that it would otherwise have to perform[.]\u201d (emphasis in original)). Highlighting the explicit agency relationship between the Authority and Appellant, the appeals officer\u2019s rationale proceeded as follows:\nThe OOR finds that the [Management] Agreement transfers essentially all functions to [Appellant], and is precisely the kind of arrangement the RTKL targets in [Section 506(d)(1) ] and that the records of [Appellant] are exactly the type required to be disclosed. To hold otherwise would permit a local agency, expressly subject to the RTKL, to contract away all of its functions to a private company and shield all of its operations from the public that funds them. We find the arguments advanced by the Authority, demonstrating the complete control of [Appellant] over operations, to support disclosure rather than protection.\nId. at 6-7.\nAppellant lodged an appeal in the common pleas court, see 65 P.S. \u00a7 67.1302, which affirmed per an opinion authored by the Honorable Terrence R. Nealon. See SWB Yankees, No. 09 CV 3691, slip op. at 19, 33.\nIn his opinion, Judge Nealon initially rejected Appellant\u2019s argument that the bids for a concessionaire contract are not \u201crecords\u201d for purposes of the Right-to-Know Law, since Appellees\u2019 request was phrased broadly such that it might be read as subsuming intangible information. According to the court, the request was centered on written concessionaire bids, which readily qualified as \u201crecords\u201d per the broad definition provided in the Law. See 65 P.S. \u00a7 67.102\nTurning to the conception of \u201cgovernmental function\u201d as used in Section 506(d)(1), Judge Nealon observed that, \u201c[r]egrettably,\u201d the statute does not provide a definition. SWB Yankees, No. 09 CV 3691, slip op. at 17. Nevertheless, he explained, the Municipality Authorities Act confirms that authorities operate \u201cfor the benefit of the people of this Commonwealth, for the increase of their commerce and prosperity and for the improvement of their health and living conditions.\u201d 53 Pa.C.S. \u00a7 5620. Moreover, the court highlighted, the Municipality Authorities Act authorizes the creation of authorities precisely to \u201cperform[ ] essential governmental functions in effectuating these [broader] purposes.\u201d Id. (emphasis added). Indeed, it is for this very reason, the court continued, that authorities are not required to pay taxes or assessments. See id. (\u201cSince authorities will be performing essential governmental functions in effectuating these purposes, authorities shall not be required to pay taxes or assessments upon property acquired or used by them for such purposes.\u201d). In light of this strong governmental nexus invoked to justify the Stadium Authority\u2019s very existence and tax-exempt status, see SWB Yankees, No. 09 CV 3691, slip op. at 21 (\u201cIt is undisputed that by virtue of 53 Pa.C.S. \u00a7 5620, the Authority has never paid property taxes with regard to the Stadium.\u201d), the court was skeptical of the claim that the Legislature regarded the Authority\u2019s activities in a contrary fashion for purposes of a remedial open-records law.\nJudge Nealon recognized that, when viewed more abstractly, the term \u201cgovernmental function\u201d is subject to varying interpretations according to the context in which it might be used. Nevertheless, he rejected Appellant\u2019s invitation to import the meaning ascribed to the term in determining the contractual duties of successor governing bodies into the open-records setting. In elaborating on this conclusion, the court invoked principles of statutory construction. See, e.g., Gontarchick v. City of Pottsville, 608 Pa. 1, 6, 9 A.3d 1174, 1177 (2010) (\u201cIn light of ... material ambiguity, we refer to the tools of statutory construction, including consideration of the occasion and necessity for the statute, the object to be attained, and the consequences of a particular interpretation.\u201d) (citing, inter alia, 1 Pa.C.S. \u00a7 1921(c)). In this regard, the court remarked that \u201c[t]he obvious intent of the new Right-to-Know Law is to provide broader and easier public access to records relating to the activities of government agencies and their contractors.\u201d SWB Yankees, No. 09 CV 3691, slip op. at 27. See generally Bowling v. OOR, 990 A.2d 813, 824 (Pa.Cmwlth.2010) (explaining that the Right-to-Know Law \u201cis remedial legislation designed to promote access to official government information in order to prohibit secrets, scrutinize the actions of public officials, and make public officials accountable for their actions\u201d), appeal granted, 609 Pa. 265, 15 A.3d 427 (2011) (per curiam). With this objective, the court contrasted the policy considerations underlying the governmental-proprietary distinction utilized in assessing the binding nature of government contract, explaining:\nThe obvious purpose of the rule [against binding a successor governmental body] is to permit a newly appointed governmental body to function freely on behalf of the public and in response to the governmental power or body politic by which it was appointed or elected, unhampered by the policies of the predecessors who have since been replaced by the appointing or electing power. To permit the outgoing body to \u201chamstring\u201d its successors by imposing upon them a policy implementing and to some extent, policy making machinery, which is not attuned to the new body or its policies, would be to most effectively circumvent the rule.\nSWB Yankees, No. 09 CV 3691, slip op. at 22 (quoting Lobolito, Inc. v. N. Pocono Sch. Dist., 562 Pa. 380, 385, 755 A.2d 1287, 1289-90 (2000)). Judge Nealon found such rationale to be very different from the aims of an open-records regime. Indeed, he expressed concern that, if courts were to impose a narrowing construction, municipal authorities could undermine the salutary purposes of the open-records law by the mere act of delegating their core functions to a private entity.\nIn this regard, Judge Nealon examined the previous incarnation of Pennsylvania\u2019s open-records law. See 1 Pa.C.S. \u00a7 1921(c)(5) (authorizing courts, in the face of an ambiguity, to consider \u201c[t]he former law, if any, including other statutes upon the same or similar subjects\u201d). He developed that such law applied to an \u201c[a]gency,\u201d which was defined as including \u201cany political subdivision ... or any State or municipal authority or similar organization created by or pursuant to a statute which declares in substance that such organization performs or has for its purpose the performance of an essential governmental function.\u201d 65 P.S. \u00a7 66.1(1) (repealed) (emphasis added). Judge Nealon found that this language reflected an appreciation \u2014 within the former open-records scheme itself and dovetailing with the Municipality Authorities Act \u2014 that authorities perform governmental functions. See SWB Yankees, No. 09 CV 3691, slip op. at 26.\nJudge Nealon also believed the omission of the \u201cessential\u201d modifier from Section 506(d)(1) of the 2009 Right to Know Law was yet a further manifestation of the Legislature\u2019s desire for greater public access. Id. at 30 (\u201cThe omission of the word \u2018essential\u2019 ... presumably reflects a legislative intent to create a broader and more liberal interpretation of the phrase \u2018governmental function\u2019 when considering requests for records in the possession of government contractors.\u201d). See generally Panik v. Didra, 370 Pa. 488, 492, 88 A.2d 730, 732 (1952) (\u201cWhere words of a later statute differ from those of a previous one on the same subject they presumably are intended to have a different construction.\u201d (quoting Fidelity Trust Co., v. Kirk, 344 Pa. 455, 458, 25 A.2d 825, 827 (1942))). The court expressed concern, however, that application of Appellant\u2019s restrictive construction would yield less, rather than more, openness.\nFrom a broader frame of reference, Judge Nealon indicated that the terms of the competing concessionaire contracts submitted to Appellant are matters of legitimate public interest, particularly in view of their impact on the annual payment to the Stadium Authority under the Management Agreement. In this regard, the court highlighted that the Stadium Authority owes Lackawanna County more than $13,000,000 for past indebtedness. Furthermore, the court stressed that the Authority had made Appellant its agent, with the ability to bind it. See SWB Yankees, No. 09 CV 3691, slip op. at 29 (\u201cBecause the functions that [Appellant] perform[s] on behalf of the Authority directly affect the Authority\u2019s revenue stream and its potential liability to aggrieved vendors of [Appellant], the taxpayers of Lackawanna County have a bona fide interest in scrutinizing [Appellant\u2019s] performance of those duties which were previously the responsibility of the Authority.\u201d).\nHaving rejected the invitation to import the governmental-proprietary litmus into the open-records context, Judge Neal-on looked to other jurisdictions for guidance as to the appropriate construction of Section 506(d)(l)\u2019s \u201cgovernmental function\u201d term. In doing so, he explained that a number of them employ a \u201ctotality of factors\u201d test to determine whether a private entity acting on behalf of a public agency is subject to the state\u2019s open records law. See, e.g., News and Sun-Sentinel Co. v. Schwab, Twitty & Hanser Architectural Group, Inc., 596 So.2d 1029, 1031 (Fla.1992). Upon such review, the court found that it was required to undertake a fact-sensitive inquiry. At a minimum, the court reasoned that \u201cgovernmental function\u201d should encompass activities:\n(1) that the agency is empowered to conduct; (2) that the agency previously performed prior to contractually delegating that function to the government contractor; (3) that are conducted on agency owned property; (4) in which the agency has a continuing financial interest; and (5) that affect the quality or cost of goods or services offered to the public on the agency owned property.\nSWB Yankees, No. 09 CV 3691, slip op. at 31-32.\nJudge Nealon had little difficulty in concluding that the confluence of such factors in the present circumstances yielded the conclusion that the services Appellant performs on the Stadium Authority\u2019s behalf constitute governmental functions. See id. at 33; see also id. at 2 (\u201cInasmuch as the contractor\u2019s plenary management of all events involving the Authority-owned Stadium and Triple-A Baseball team occurs on Authority property, represents a function that the Authority previously performed, serves as the sole means of revenue for the Authority and its corresponding ability to maintain the Stadium and repay its debt to the County, and affects the quality and cost of the goods and services offered to the public on the Authority\u2019s property, the work performed by the management company constitutes a \u2018governmental function\u2019 under the Right-to-Know Law.\u201d). Furthermore, the court found that the competing bids that Appellant received for the food service contracts directly relate to those functions.\nAfter Appellant lodged an appeal, the Commonwealth Court issued its decision in East Stroudsburg University Foundation v. OOR, 995 A.2d 496 (Pa.Cmwlth.2010) (en banc), appeal denied, 610 Pa. 602, 20 A.3d 490 (Table) (2011), determining, in relevant part, that \u201call contracts that governmental entities enter into with private contractors necessarily carry out a \u2018governmental function\u2019 [for purposes of Section 506(d)(1) ]\u2014 because the government always acts as the government.\u201d Id. at 504. Judge Nealon authored a supplemental opinion under Rule of Appellate Procedure 1925(a), in which he derived additional support from the East Stroudsburg decision.\nBefore the Commonwealth Court, Appellant argued that the common pleas court ignored the straightforward meaning of the term governmental function; proffered an interpretation of the phrase that contravened the legislative intent underlying the new Law; and erroneously rejected the governmental-proprietary test. In developing these contentions, Appellant asserted that Judge Nealon\u2019s decision implicates concerns raised by concurring jurists in East Stroudsburg, both in terms of the breadth of \u201cgovernmental functions,\u201d see id. at 508 (Leadbetter, P.J., concurring) (suggesting that the majority\u2019s interpretation of the term \u201cgovernmental function\u201d is \u201cfar too broad, for it renders the term \u2018governmental function\u2019 meaningless\u201d); id. at 510 (McCullough, J., concurring) (same), and in terms of the association with transactions or activities of municipal authorities. See id. at 508 n. 1 (Leadbetter, P.J., concurring) (faulting the majority for \u201csummarily assum[ing]\u201d that Section 506(d)(1) requires the \u201cproduction of documents created by third party contractors containing information about those contractors\u2019 activities in performance of the \u2018governmental function,\u2019 where such a contract is found to exist\u201d (emphasis in original)).\nThe intermediate court affirmed. See SWB Yankees LLC v. Wintermantel, 999 A.2d 672 (Pa.Cmwlth.2010). Its opening observations mirrored those of the common pleas court in that the Commonwealth Court drew substantial support from the understanding reflected in the Municipality Authorities Act that authorities perform \u201cessential governmental functions,\u201d and the absence of the \u201cessential\u201d qualifier from the new Right-to-Know Law. See id. at 675. The court reasoned:\nHere, we have an authority that was clearly created for the benefit of the people of the Commonwealth, and for the increase of their commerce and prosperity. The fact that it contracted out the operation of its baseball and other entertainment events at the Authority, is of no consequence as Section 506(d)(1) of the RTKL clearly puts a third party in the same position as an agency for purposes of the RTKL. Given the above, the fact that [Appellant] creates revenue for the Commonwealth and operates a public place for the benefit of the Commonwealth, the bids requested from [Appellant], which clearly affect the amount of revenue generated by the Authority, are public records. [Appellant] had the burden of proving otherwise by a preponderance of the evidence; the OOR and the trial court did not find that it met its burden. We agree, and hold that the facts, as presented, do not indicate otherwise.\nWintermantel, 999 A.2d at 675. Based on these considerations, the Commonwealth Court also indicated that that the case did not involve the concerns raised by the concurring judges in East Stroudsburg, and that the requested information qualified as a \u201crecord\u201d under the Law. See id. at 675-76.\nThe framework governing appellate review in matters arising under the Right-to-Know Law is presently under consideration elsewhere. See Bowling v. OOR, 609 Pa. 265, 15 A.3d 427 (2011) (per curiam). In this case, our review is limited to matters of statutory construction and, thus, is plenary. See, e.g., In re Erie Golf Course, 605 Pa. 484, 501-02, 992 A.2d 75, 85 (2010).\nArguments\nPresently, Appellant maintains that the Office of Open Records, Judge Nealon, and the Commonwealth Court reached an incongruous result in holding that exhibiting baseball games and selling concessions is a governmental function. In various passages, Appellant appears to recognize a need for guidance beyond the statutory term \u201cgovernmental function\u201d itself concerning exactly what was intended, but Appellant is emphatic in its position that, at the very least, \u201c[t]his Court can and should draw [the] line at beer and hot dogs.\u201d Brief for Appellant at 9.\nInvoking the East Stroudsburg concurrences, Appellant contends that the extension of \u201cgovernmental function\u201d to any and all revenue-raising activities strips the term of any role or function within the statutory scheme. See id. at 14 (\u201cThe General Assembly consciously and intentionally chose the phrase \u2018governmental function\u2019 as the linchpin of a limiting condition placed on requests made under the RTKL for records that are not in the possession of an agency.\u201d). According to Appellant, a greater nexus to acts of governance must be required, \u201cwhich at a minimum, requires the exercise of authoritative direction or control over a political or sovereign unit.\u201d Id. at 17. Appellant highlights that its approach aligns closely with the common law governmental-proprietary distinction. See, e.g., id. at 54 (\u201cThe governmental/proprietary distinction is a fundamental concept in Pennsylvania law and the only mechanism for giving \u00a7 506(d)(1) any meaning\u201d).\nAppellant acknowledges that the Legislature\u2019s main goal in implementing the new Right-to-Know Law was to substantially enlarge public access to government records. Appellant, however, discerns no similar purpose with regard to third-party records, since \u201cnone of the most significant objectives of the RTKL involve or entail exposing information held by private third party contractors to public disclosure.\u201d Brief for Appellant at 32. It is Appellant\u2019s position that the General Assembly intended to create a \u201climited, narrowly tailored class of third party records that may properly be considered agency records under the RTKL,\u201d thus addressing a void that existed under the previous open-records law. Id. at 30.\nAppellant also criticizes the prior reviewing courts\u2019 allusions to the phrase \u201cessential governmental function,\u201d appearing in the previous open-records law, explaining that, in that statute, the Legislature merely employed the phrase in defining an agency. Since the prior law did not contain any analogue to Section 506(d)(1), Appellant posits that \u201cit cannot be logically concluded that the reference to \u2018governmental function\u2019 in the new RTKL constitutes a purposeful omission of the word \u2018essential\u2019 from the previous RTKL, thereby somehow expanding the meaning of the phrase.\u201d Brief for Appellant at 37.\nAppellant also challenges the common pleas and intermediate courts\u2019 reliance upon the Municipality Authorities Act, asserting that such enactment does not pertain to third-party contractors and, in any event, cannot be read to mean that municipal authorities only perform essential governmental functions. See, e.g., Reply Brief for Appellant at 12 (\u201c[I]t is simply incredible for [Appellees] to argue that all functions of a municipal authority must be considered governmental, so that every function delegated by a municipal authority to a private entity must necessarily be a \u2018governmental function\u2019 under the RTKL.\u201d). In addition, Appellant argues that, were this Court to adopt the Commonwealth Court\u2019s interpretation of the term governmental function, it would chill business relations between government agencies and private parties, leaving the latter \u201cleft to speculate as to what effect \u00a7 506(d)(1) will have in a given case or, even worse, would simply be deterred altogether from entering into agreements with agencies.\u201d Brief for Appellant at 38. Lastly, Appellant alleges that the contemporaneous legislative history surrounding the new RTKL supports a narrow interpretation of the phrase. See 1 Pa.C.S. \u00a7 1921(c)(7).\nAs to the second issue on appeal, Appellant maintains that the requested information does not fall within the definition of a record. It claims the information sought does not \u201cdocument[ ] a transaction or activity of an agency,\u201d and was not \u201ccreated, received or retained pursuant to law or in connection with a transaction, business or activity of the agency.\u201d 65 P.S. \u00a7 67.102 (emphasis added). Rather, Appellant argues, the request pertained to bids that were created by prospective subcontractors and submitted to Appellant, thereby falling outside of that definition. Accord Brief for Amicus Pa. Sch. Bds. Ass\u2019n at 7 (\u201cBecause the requested records document only an activity of [Appellant], not the Authority, and because they were created, received or retained in connection with an activity of [Appellant], not the Authority, they are not records subject to disclosure under the RTKL.\u201d).\nAmicus, the Pennsylvania Foundations Association, expresses the concern that the broad interpretation of \u201cgovernmental function\u201d reflected in the Commonwealth Court\u2019s decisions has had the effect of converting private university foundations into public entities, stripping them of features which attract private-sector donations. The Association argues:\nBecause of the Commonwealth Court\u2019s overbroad and legally incorrect interpretation of the term \u201cgovernmental function\u201d in East Stroudsburg, all government contractors that perform any function for a State agency are now plainly within the purview of the RTKL____\n... The determination in East Stroudsburg and its application to the pending matter, have a detrimental and disproportionate effect on government contractors that perform proprietary business functions pursuant to a contract with a government agency. It is submitted that the term \u201cgovernmental function\u201d in the RTKL was not intended to have the effect of opening the records of each and every entity that contracts with the government, regardless of the nature of the actual contracted function performed, to public view and inspection. The Foundations Association submits that the definition of \u201cgovernmental function\u201d set forth in East Stroudsburg and subsequently applied and expanded in Yankees is contrary to Pennsylvania law and will only serve to diminish the availability of low cost private contractors to perform non-governmental functions for the State.\nBrief for Amicus Pa. Founds. Ass\u2019n at 5 (emphasis in original).\nAmicus, Pennsylvania School Boards Association, also seeks a determination that the concessionaire bids are not \u201cpublic records\u201d for purposes of Section 506(d)(1), effectively advocating review of the Commonwealth Court\u2019s decisions in Allegheny County Department of Administrative Services v. A Second Chance, Inc., 13 A.3d 1025 (Pa.Cmwlth.2011). Additionally, the Association stresses the burden imposed upon government agencies, in that they are:\nfaced with the prospect of seeking records from former contractors which parted on bad terms, from contractors engaged in litigation with the agency, from small companies with records in a shoebox to large corporations that just do not pay attention to an agency\u2019s request for cooperation. If an agency is not successful in securing these records, it is the agency, not the third party that faces sanctions under the RTKL.\nBrief for Amicus Pa. Sch. Bds. Ass\u2019n at 4.\nAppellees, on the other hand, credit the common pleas and intermediate courts\u2019 analyses, emphasizing the legislative policy of providing broader access to citizens concerning information about the affairs of government. Appellees agree with Judge Nealon that the most appropriate framework for ascertaining if a private contractor is performing a governmental function is to apply a flexible \u201ctotality of factors\u201d approach, not the government-proprietary litmus, and that the relevant factors weigh substantially in favor of public access in this case\nIn this same vein, amicus Pennsylvania Newspaper Association asserts that the governmental-proprietary rubric provides an unsuitable definition of a governmental function for purposes of the Right-to-Know Law. In this regard, the Association avers that adopting the common-law test would thwart the policy behind the new Law, since:\ngovernment agencies would be free to contract away the public access requirements of the RTKL while the public, the OOR and the court system would be mired in a confusing analytical morass trying to determine when public records could transform into non-public records by operation of contract under the governmental/proprietary function test.\nBrief for Amicus Pa. Newspaper Ass\u2019n at 12. The Newspaper Association thus urges this Court to hold that any function that would be performed by the Stadium Authority in the absence of a third-party contract is a governmental function for purposes of the Right-to-Know Law. See id. at 9 (\u201c[W]hen a contractor -willingly steps into the shoes of a government agency, and performs functions that would otherwise be performed by a government agency, accountability must accompany the contract and it is a legitimate aspect of doing business with the government.\u201d).\nAppellees also maintain that the requested information is a \u201crecord,\u201d since the Management Agreement between the Stadium Authority and Appellant documents a transaction or activity of the Authority, and the bids or proposals are \u201cintegral\u201d to that contract. Brief for Appellees at 34-35. The Newspaper Association, however, seems to acknowledge that, since the definition of a \u201crecord\u201d is couched in terms of information that documents a transaction or activity \u201cof an agency,\u201d Section 506(d)(1), on its face, might be read to exclude materials of a third party contractor. The Newspaper Association nonetheless argues that:\n[I]f the information fits the definition of \u201crecord\u201d and \u201cpublic record\u201d for a government agency that has not assigned a function to a third party contractor, it must likewise fit the definitions when the information is related to, generated, retained or received by a government contractor performing the agency\u2019s function pursuant to [a] contract.\nBrief for Amicus Pa. Newspaper Ass\u2019n at 14. Otherwise, the Newspaper Association posits, \u201cno third party records would be public because[,] by definition, they would not be records or public records \u2018of an agency[,]\u2019 \u201d thereby rendering Section 506(d)(1) meaningless relative to third-party contractors. Id. at 15-16.\nDiscussion\nHaving reviewed the relevant statutory scheme, the parties\u2019 arguments, and the record, we agree with the appeals officer, Judge Nealon, and the Commonwealth Court that the disclosure of any written concessionaire bids is required per Section 506(d)(1) of the Right-to-Know Law.\nA. Governmental function\nInitially, we find the term \u201cgovernmental function,\u201d as used in this statute, to be materially ambiguous. See generally Trizechahn Gateway LLC v. Titus, 601 Pa. 637, 653, 976 A.2d 474, 483 (2009) (recognizing that an ambiguity exists when there are at least two reasonable interpretations of the text under review). In modern times, the government has undertaken to operate various commercial enterprises, such as its systems of liquor stores and lottery games. Although in ordinary parlance it may seem incongruous to couch liquor and gambling ventures as \u201cgovernmental functions,\u201d they plainly are so in the sense that they are core activities assigned to and undertaken by government agencies. See 47 P.S. \u00a7 3-301 (requiring the Liquor Control Board to operate liquor stores); 72 P.S. \u00a7 3761-303(a) (tasking the Secretary of the Department of Revenue with the duty to operate and administer a state lottery). Moreover, this understanding\u2014 i.e., that some activities which conventionally may be couched as proprietary in nature are being undertaken as governmental functions \u2014 is consistent with a common definition of the term as \u201c[a] government agency\u2019s conduct that is expressly or impliedly mandated or authorized by constitution, statute, or other law and that is carried out for the benefit of the general public.\u201d Black\u2019s Law Dictionary 716 (8th ed.2004).\nSome municipal authorities have come to typify the phenomenon of line-blurring between public and private enterprise, with the Stadium Authority serving as an apt example. As developed above, the Authority\u2019s existence and tax exempt status are justified on the ground that it performs an \u201cessential governmental function,\u201d 53 Pa.C.S. \u00a7 5620, yet no one has identified any function it serves other than via its identity as the owner and principal operator of an amusement enterprise.\nWe do not see that the government\u2019s entry into areas which might more comfortably be associated with the private sector suggests diminished cause for openness. In this regard, it seems unlikely that that the Legislature would be naive about the potential for inappropriate influences which have become a risk attending such ventures. Rather, the nature of these activities, and the departures from the more conventional confines of government, appear to us to militate in favor of public scrutiny.\nMoreover, the Management Agreement governing the Stadium Authority\u2019s relationship with Appellant is framed in such a way as to afford the latter \u201cplenary\u201d powers over a primary function of a government agency, essentially deputizing Appellant as an \u201cagent\u201d of the Authority, and specifically prescribing that certain of Appellant\u2019s actions \u201cshall bind\u201d the agency. Management Agreement \u00a7 1.2(a). In this fashion, and through the income-sharing feature of the Management Agreement, the interests of the Stadium Authority and Appellant have become closely intertwined.\nIn line with these observations, we agree with Appellees and their amicus that a reasonably broad construction of \u201cgovernmental function\u201d best comports with the objective of the Right>-to-Know Law, which is to empower citizens by affording them access to information concerning the activities of their government. Furthermore, as ably developed by Judge Nealon, such policy is very different from that motivating the application of the governmental-proprietary distinction as it has evolved in other settings. Accordingly, and, in the absence of specific legislative guidance, we decline to infer that the General Assembly intended to transport such construct into the open-records arena merely by employing the term \u201cgovernmental function.\u201d Accord Griffith, Escaping from the Governmental/Proprietary Maze, 75 Iowa L.Rev. at 327 (\u201cIf courts apply the governmental/proprietary test without scrutinizing the actual interests at stake, they may import inappropriate standards[.]\u201d). Rather, we conclude that it is the delegation of some non-ancillary undertaking of government, and not a convention-based assessment of the governmental-versus-proprietary character of the activity, that should control.\nIn offering this conclusion, we realize there is ambiguity in our use of the term \u201cnon-ancillary.\u201d We have chosen it here, because we do agree with Appellant and its amici that the government-always-acts-as-government overlay of the East Stroudsburg majority is too broad for purposes of Section 506. We also believe the Legislature used the \u201cgovernmental\u201d function delimiter in Section 506 to narrow the category of third-party records subject to disclosure by some measure, see 1 Pa.C.S. \u00a7 1922(2) (embodying the principle, in statutory construction, that the General Assembly \u201cintends the entire statute to be effective and certain\u201d), presumably on account of the burden, expense, and other impositions attending wholesale disclosure. Accord East Stroudsburg, 995 A.2d at 508 (Leadbetter, P.J., concurring) (\u201cSurely, government agencies enter into some, if not many, contracts that do not implicate a governmental function.\u201d). While extrapolating from other jurisdictions in the open-records is difficult due to variances in the approaches taken in the governing statutes, such concern appears to be a recurrent one in the cases. See, e.g., Evertson v. City of Kimball, 278 Neb. 1, 767 N.W.2d 751, 761 (2009) (\u201cWe agree with other courts that public records laws should not permit scrutiny of all a private party\u2019s records simply because it contracts with a government entity to provide services.\u201d).\nTo account for this consideration, and in the absence of a specific statutory degree-nexus, we find that the non-ancillary threshold represents an appropriate opening inroad into establishing an interpretive one. In this respect, we observe that this is the type of conception that is most amenable to further development over time in the decisional law. Notably, President Judge Leadbetter expressed this point in her concurrence in East Stroudsburg, as follows:\nWe are here faced with a new statute which embodies not only new rules, but an entirely new conceptual and procedural framework. Many of these new concepts are provided in statutory language susceptible of multiple interpretations. Compounding the problem, the new Office of Open Records (OOR) is being overwhelmed by a deluge of requests which must be decided now. Under these circumstances, there is an understandable temptation to rush to fill in the details left blank in the new law and provide immediate interpretive guidance in the form of sweeping black letter rules. Nonetheless, I believe it is necessary to take our time and address these questions with a narrow focus on the facts presented in each case and avoid broad pronouncements which may prove unworkable or unwise in different circumstances.\nEast Stroudsburg, 995 A.2d at 508-09 n. 4 (Leadbetter, P.J., concurring).\nPresident Judge Leadbetter also correctly observed that Section 506 requires that the agency \u201chas contracted to perform a governmental function....\u201d Id. at 508 (Leadbetter, P.J., concurring) (quoting 65 P.S. \u00a7 67.506(d)(1) (emphasis added)). We read this to connote an act of delegation of some substantial facet of the agency\u2019s role and responsibilities, as opposed to entry into routine service agreements with independent contractors. Of course, in the myriad factual scenarios as they will arise in the cases going forward, courts will be confronted with many examples between the extremes.\nThe present circumstances, however, do not involve an independent contractor conducting some ancillary activity, nor do they lay in the boundaries. Rather, the Stadium Authority, having been formed to administer an amusement enterprise, generated substantial public indebtedness in such venture. Appellant has accepted delegation of the responsibility to operate the ball park for the public benefit as the Authority\u2019s agent. Consistent with all previous rulings in the appeal proceedings, we also have no difficulty holding that, where a government agency\u2019s primary activities are defined by statute as \u201cessential governmental functions,\u201d and such entity delegates one of those main functions to a private entity via the conferral of agency status, Section 506(d)(1) pertains on its terms to non-exempted records directly relating to the function.\nB. Records\nWe also hold that written concessionaire bids are \u201crecords\u201d for purposes of Section 506(d)(1). On this issue, we differ with Appellant\u2019s position that the bids have \u201cno connection whatsoever to any government agency,\u201d Brief for Appellant at 9, in light of its acceptance of the status of an agent in the performance of a primary public duty of the Stadium Authority, as reflected in the Authority\u2019s Certificate of Incorporation and in the Management Agreement. In this regard, we agree with the Newspaper Association that it would undermine the clear aim of Section 506(d)(1) \u2014 which recasts certain third-party records bearing the requisite connection to government as public records \u201cof the [government] agency,\u201d 65 P.S. \u00a7 67.506(d)(1) \u2014 to require that that the materials actually be \u201cof such agency\u201d in the first instance. 65 P.S. \u00a7 67.102 (definition of \u201crecord\u201d).\nWhile we have little doubt that the disclosure requirements pertaining to third-parties undertaking governmental functions may have bearing on their business decisions in dealing with agencies, this is within the range of considerations likely to have been taken into account in the General Assembly\u2019s open-records calculus.\nThe order of the Commonwealth Court is affirmed.\nJustice ORIE MELVIN did not participate in the decision of this case.\nJustices EAKIN, BAER, TODD and McCAFFERY join the opinion.\nChief Justice CASTILLE files a concurring opinion.\n. Act of May 2, 1945, P.L. 382, No. 164 (as amended 53 P.S. \u00a7\u00a7 301-322), recodified and superseded by Act of June 19, 2001, P.L. 287, No. 22 (as amended 53 Pa.C.S. \u00a7\u00a7 5601-5623).\n. Legends Hospitality LLC is owned, in part, by the New York Yankees. See N.T., Aug. 27, 2009, at 68.\n. Act of Feb. 14, 2008, P.L. 6, No. 3 (as amended 65 P.S. \u00a7\u00a7 67.101-67.3104) (the \"Right-to-Know Law\u201d or the \"Law,\u201d also referred to by the parties as the \"RTKL\u201d). This enactment repealed the prior open-records law which was in effect since 1957. See Act of June 21, 1957, P.L. 390, No. 212 (as amended 65 P.S. \u00a7\u00a7 66.1-66.9) (repealed 2009).\n. 65 P.S. \u00a7\u00a7 67.701 (\"Unless otherwise provided by law, a public record ... shall be accessible for inspection and duplication in accordance with this act.\u201d), 67.102 (providing definitions for \"public record\u201d and \"local agency,\u201d the latter of which includes municipal authorities); 67.302 (\"A local agency shall provide public records in accordance with this act.\u201d).\n. Although Appellant was not previously a party in the proceedings, it invoked Section 1101(c) of the RTKL as conferring standing to file the appeal. See 65 P.S. \u00a7 67.1101(c). While Section 1101(c) pertains to proceedings before the Office of Open Records, the common pleas court gleaned support for Appellant\u2019s standing from a line of Commonwealth Court decisions applying general principles of administrative agency law within the previous open-records regime. See SWB Yankees LLC v. Wintermantel, No. 09 CV 3691, slip op. at 10 n. 5 (C.P.Lackawanna, Sept. 9, 2009) (citing Hartman v. DCNR, 892 A.2d 897, 899 n. 3 (Pa.Cmwlth.2006)). The court also observed that the matter of standing had not been raised before it, and consideration was subject to issue preservation and presentation requirements. See generally Rendell v. Pa. State Ethics Comm'n, 603 Pa. 292, 307, 983 A.2d 708, 717 (2009).\n. Judge Nealon also observed that the Pennsylvania courts have recognized that \" \u2018[a] sports stadium is for the recreation of the public and is hence for a public purpose\u2019 even if it is primarily used by private enterprises to generate revenue.\u201d SWB Yankees, No. 09 CV 3691, slip op. at 24 (quoting Martin v. City of Phila., 420 Pa. 14, 17, 215 A.2d 894, 896 (1966), which concluded that a municipal stadium, which would be leased to private major league sports franchises, would nonetheless be used for public purposes).\n. In support of this observation, the court developed that the Act: establishes a presumption that any record possessed by an agency is a public record, see 65 P.S. \u00a7 67.305(a); creates a new administrative agency to hear citizens\u2019 open records challenges without the necessity of court action in the first instance, see id. \u00a7\u00a7 67.1101(a), 67.1102; expands the types of documents discoverable to include public records in the possession of government contractors, see id. \u00a7 67.506(d)(1); increases the civil penalties recoverable against an agency acting in bad faith, see id. \u00a7\u00a7 67.1304, 67.1305; and decreases the agency\u2019s response time in addressing a public records request. See id. \u00a7 67.901.\n. The court also noted that disclosure of certain documents in the possession of third-party contractors was required under the previous open-records regime. See, e.g., Lukes v. DPW, 976 A.2d 609, 624 (Pa.Cmwlth.2009) (holding that the Department of Public Welfare was required to produce provider agreements in the possession of third-party contractors, where the contractors performed duties which otherwise would have been undertaken by the government agency).\n. See also Reply Brief for Appellant at 19-20 (\"The General Assembly did not employ the phrase 'governmental function' by accident or without knowledge of the meaning it carried____The phrase ... necessarily implies a distinction between such a function and its opposite, a proprietary function. Therefore, the fact that the General Assembly did not expressly use the word \u2018proprietary\u2019 in the RTKL is not ... a valid reason for this Court not to apply the distinction in the context of \u00a7 506(d)(l).\u201d(citation omitted)).\n. Further, Appellant highlights that the term is used similarly in the current Law, within the definition of \"Commonwealth agency.\u201d See 65 Pa.S.A. \u00a7 67.102.\n. See, e.g., Brief for Appellant at 42 (\"The legislative history ... demonstrates that the General Assembly did not define \u2018governmental function' because it was wary of opening the floodgates to broad record requests directed to private third party contractors.\"); id. at 45 (\"[T]he General Assembly did not, and does not, wish to provide for access to a large class of third party records[.]\").\n. This appeal was not taken to evaluate the factual circumstances presented in East Stroudsburg, albeit we do address the concerns of Appellant and its amici regarding the breadth of the \"governmental function\" construct on more general terms, below.\n. The Second Chance decision downplays the Legislature\u2019s use of the term \"public record\u201d in its description of the range of third-party materials subject to open-records disclosure, since enforcement of a requirement that a record be a public one in the first instance would result in Section 506(d)(1) merely expressing a tautology. See id. at 1037. This appeal also was not allowed to consider the Second Chance decision, which presently serves as governing law on this subject matter.\n. Indeed, since the liquor and lottery enterprises are operated by the government as monopolies, they have no legal private-sector analogues.\n. The Municipality Authorities Act of 1945, under which the Stadium Authority was created, see supra note 1, contained materially identical language in all relevant regards. See 53 P.S. \u00a7 318 (superseded).\n. While Appellant quips about the incongruity of dubbing the sale of hot dogs and beer as public functions, it offers little accounting for the above sorts of risks (or for the centrality of amusement activities in the Authority\u2019s mission as a government agency in the first instance).\n. In terms of the particular factors discussed by Judge Nealon, it bears emphasis that he was careful to avoid couching these as an overarching test. Notably, the underlying criteria were developed in a different type of open-records scheme, which defines government \"agencies\u201d to in-elude business entities acting on behalf of public agencies. See News and Sun-Sentinel Co., 596 So.2d at 1031. See generally Craig D. Feiser, Protecting the Public's Right to Know: The Debate Over Privatization and Access to Government Information Under State Law, 27 Fla. St. U.L.Rev. 825 (2000) (suggesting a categorization overlay for various open-records schemes). Thus, consistent with Judge Nealon\u2019s reasoning, while application of the factors he derived from this line of authority does lend support to the decision that Section 506(d)(1) presently applies, these may not reliably reflect the Pennsylvania statute\u2019s reach as applied in other contexts.\n. Our conclusion is reinforced by the General Assembly\u2019s use of the term \"governmental function,\u201d as contrasted with \"essential governmental function,\u201d in Section 506(d)(1). Cf. Cmty. Coll, of Phila. v. Brown, 544 Pa. 31, 34, 674 A.2d 670, 671 (1996) (reflecting a narrower understanding of the concept of an essential governmental function).\n. Again, the definition of \"record\" contemplates, inter alia, information which \"documents a transaction or activity of an agency\u201d and is \"created, received or retained ... in connection with a transaction, business or activity of the agency.\u201d 65 P.S. \u00a7 67.102. Particularly in the context of a government agency's wholesale delegation of its own core governmental function to another entity, we find that a reasonably broad perspective concerning what comprises transactions and activities of the agency should be applied.\nNotably, the decision in Tribune-Review Publishing Company v. Westmoreland County Housing Authority, 574 Pa. 661, 833 A.2d 112 (2003) \u2014 holding that a settlement agreement generated and maintained by an insurance exchange on behalf of a local agency was subject to open-records disclosure under the predecessor to the RTKL \u2014 is consistent with our decision here, particularly when considering that the Legislature intended greater, not lesser, openness under the new open-records regime. The same can be said relative to the Commonwealth Court\u2019s decision in Lukes. See supra note 8.",
+        "type": "majority",
+        "author": "Justice SAYLOR."
+      },
+      {
+        "text": "Chief Justice CASTILLE,\nconcurring.\nI concur in the decision, and join much of the reasoning, of the Majority Opinion. The Majority affirms the decision of the Commonwealth Court, and holds that Section 506(d)(1) of the Right-to-Know Law requires disclosure to The Scranton Times Tribune and reporter Gretchen Wintermantel (\u201cappellees\u201d) of all the names of private parties and the written bids these private parties submitted to appellant SWB Yankees LLC (\u201cappellant\u201d) for the concessionaire contract at PNC Field in Scranton, where the SWB Yankees, a Triple-A affiliate of the New York Yankees, play their home games. I join this disposition given the narrowness of the issue framed for review.\nI write separately to address the foundational notion, not specifically challenged by appellant, that the type of information requested here amounts to a \u201cpublic record\u201d within the purview of Section 506(d)(1) and the Right-to-Know Law. The information at issue is in the possession of a private entity and documents the transactions or activities of that private entity in conducting business with other private parties. Although appellant addresses this point only obliquely and fails to develop a specific claim premised upon it, the concern is the primary focus of the amicus curiae brief filed by the Pennsylvania School Boards Association. I address the foundational issue because recognition of the limitation in the appeal, in my view, helps to explain what otherwise might appear to be a problematic result, and may be of some benefit in the resolution of further disputes under the Right-to-Know Law.\nAppellant, as the Majority relates, is a private entity and contractor for a local agency, the Multipurpose Stadium Authority of Lackawanna County (the \u201cAuthority\u201d). The Lackawanna County Board of Commissioners created the Authority in 1985 to own and operate an amusement enterprise, specifically operations related to the sport of baseball, at PNC Field. In 2007, the Authority and appellant entered into a management contract by which they agreed that appellant would assume the Authority\u2019s management responsibilities at PNC Field. In 2009, appellant terminated the pre-existing food service contract, and sought bids for a replacement provider. Appellant accepted the bid proposal of Legends Hospitality LLC, and rejected two other bids.\nAppellees filed a Right-to-Know Law request with the Authority, seeking disclosure of the names and written bids of all concessionaire candidates, on the premise that the information requested was a public record. See 65 P.S. \u00a7 67.506(d)(3) (\u201cA request for a public record in possession of a party other than the agency shall be submitted to the open records officer of the agency.\u201d). Appellant SWB Yankees did not receive notice and was not a party to the initial request. The Authority\u2019s open records officer denied the request on the ground that appellant was not performing a \u201cgovernmental function\u201d on behalf of the Authority and, therefore, any public records or private information in appellant\u2019s possession were not subject to disclosure. Appellees challenged the determination by filing an appeal with the Office of Open Records (the \u201cOOR\u201d). Again, appellant did not receive notice and was not a party to the appeal. The OOR agreed -with appellees that appellant performed a governmental function, and ordered disclosure of the information appellees had requested.\nSubsequently, appellant, after receiving notice to release the documents, intervened in the action, and filed an appeal from the OOR decision to the Lackawanna County Court of Common Pleas. Appellant raised several issues, including whether it was actually performing a governmental function as defined. Additionally, appellant argued that the information requested was not a \u201crecord,\u201d as that term is defined in the Righb-toKnow Law, Section 102. The trial court conducted de novo review of the matter and ordered disclosure. The Commonwealth Court affirmed. This Court accepted review of two issues: (1) whether appellant\u2019s operation of a professional baseball team and related concessions constitutes a \u201cgovernmental function\u201d and (2) whether the information requested by appellees constitutes a \u201crecord,\u201d within the meaning of the Righb-to-Know Law. See SWB Yankees LLC v. Wintermantel, 610 Pa. 291, 18 A.3d 1145 (2011). Both questions require interpretation of the Pennsylvania Righb-to-Know Law, in general, and of Section 506(d)(1), in particular.\nThe Majority construes Section 506(d)(1) of the Right-to-Know Law as a provision which recasts the information and internal records of a private entity/government contractor into public records of the governmental agency with which it has contracted. Majority Op. at 664, 45 A.3d at 1044. The Majority states that the governing definition of a \u201cpublic record\u201d is settled in this respect, and is not the subject of dispute in the present appeal. Majority Op. at 658 n. 13, 45 A.3d at 1040 n. 13 (citing Allegheny County Dep\u2019t of Admin. Servs. v. A Second Chance, Inc., 13 A.3d 1025 (Pa.Cmwlth.2011)). Accordingly, the Majority focuses its analysis on the controversy respecting the parties\u2019 various understandings of the term \u201cgovernmental function,\u201d and generally discounts appellant\u2019s secondary argument that the documents requested by appellees are not \u201crecords\u201d subject to Section 506(d)(1) in the first instance. Id.\nI agree that appellant does not pursue a specific challenge to what comprises a \u201cpublic record\u201d under the Right-to-Know Law. Nevertheless, I believe some discussion of this foundational notion is appropriate, given the likely broad impact that the Court\u2019s decision will have on government contractors and government agencies responding to record requests and the increased administrative burden that will arise as a result.\nThe Right-to-Know Law provides generally for the disclosure of non-exempt and non-privileged public records upon request to the appropriate governmental body, specifically any local, Commonwealth, legislative, or judicial agency. See, e.g., 65 P.S. \u00a7 67.302(a) (\u201cRequirement. \u2014 A local agency shall provide public records in accordance with this act.\u201d); accord 65 P.S. \u00a7\u00a7 67.301, 67.303-67.304. In addition to addressing the procedure by which a public record request may be made, the provisions of the Right-to-Know Law demarcate the scope of disclosure, primarily by identifying what is a public record and, among public records, which records are subject to disclosure. See, e.g., 65 P.S. \u00a7\u00a7 67.102, 67.305, 67.306, 67.506, 67.708.\nA \u201cpublic record\u201d is broadly defined as a \u201crecord, including a financial record, of a Commonwealth or local agency.\u201d 65 P.S. \u00a7 67.102. A \u201crecord,\u201d for the purposes of the Right>-to-Know Law, is \u201c[ijnformation, regardless of physical form or characteristics, that documents a transaction or activity of an agency and that is created, received or retained pursuant to law or in connection -with a transaction, business or activity of the agency.\u201d Id. An agency includes a local agency defined as \u201c[a]ny political subdivision, intermediate unit, charter school, cyber charter school or public trade or vocational school\u201d or \u201c[a]ny local, intergovernmental, regional or municipal agency, authority, council, board, commission or similar governmental entity.\u201d Id. Notably, an \u201cagency\u201d does not include a contractor, an agent of a local agency, or any other private entity.\nAny record \u201cin the possession\u201d of a local agency, like the Authority, is presumed to be a \u201cpublic record,\u201d and available for disclosure. 65 P.S. \u00a7 67.305(a). There is no similar presumption applicable to alleged public records that are not (or, as in this matter, never were) in the possession of the agency. The General Assembly addressed disclosure of public records not in the possession of an agency specifically, as follows:\n(1) A public record that is not in the possession of an agency but is in the possession of a party with whom the agency has contracted to perform a governmental function on behalf of the agency, and which directly relates to the governmental function and is not exempt under this act, shall be considered a public record of the agency for purposes of this act.\n65 P.S. \u00a7 67.506(d) (\u201cAgency possession\u201d). Access to the private contractor\u2019s other information is outside the scope of the Righi>-to-Know Law: \u201c[njothing\u201d in the Right-to-Know Law \u201cshall be construed to require access to any other record of the party in possession of the public record.\u201d 65 P.S. \u00a7 67.506(d)(2).\nSimilar to requests for a public record in the actual possession of the agency, a request for a \u201cpublic record in possession of a party other than the agency\u201d must be submitted to the open records officer of the relevant agency. See 65 P.S. \u00a7 67.506(d)(3); accord 65 P.S. \u00a7\u00a7 67.502(b) (\u201cOpen-records officer\u201d), 67.701-708 (\u201cProcedure\u201d). Unfortunately, the statute does not contemplate the role of a private entity. If the agency\u2019s open records officer asserts that a public record is exempt from disclosure by the Right-to-Know Law, whether the record is in the possession of the agency or of a third party, the burden of proving that the record is exempt is on the local or Commonwealth agency receiving the request. 65 P.S. \u00a7 67.708(a)(1).\nIn private entity cases such as this, there is a colorable argument to be made that the type of information requested should not be subject to disclosure. As a preliminary matter, I note that part of the difficulty in cases involving records exclusively in the control of private entities stems from circumstances related to the sort of procedure followed here. Appellant did not participate in the initial phases of the disclosure process; the Authority\u2019s open records officer decided the request in the first instance without notice to or advocacy from appellant, whose records and information were actually at issue. The open records officer denied the request, citing as the sole basis for refusal the fact that appellant was not performing a \u201cgovernmental function\u201d on behalf of the Authority. The OOR disagreed with the officer\u2019s assessment on the governmental function issue raised by the agency and reversed. Appellant, arguably the more appropriate party in interest given the stakes and the nature of the dispute, intervened only after the OOR ordered release of the records and thereafter appealed the decision to the Lackawanna County Court of Common Pleas.\nIt is unclear whether appellant considered itself limited upon intervention and on appeal by the specific issues raised by the Authority, or whether appellant granted due deference to the reasoning offered by the agency\u2019s open records officer. In any event, the open records officer\u2019s reasoning framed the dispute between appellant and appellees in subsequent phases of judicial review. Adding to this procedural difficulty, the present iteration of the Right-to-Know Law is relatively recent, constitutes a considerable departure from the previous version of the statute, and now includes the addition of the principle articulated in Section 506(d)(1). The court that interpreted Section 506(d)(1) most recently had expressly given the term \u201cpublic record\u201d little meaning, essentially reading it out of the provision. See A Second Chance, Inc., 13 A.3d at 1036-39; accord Majority Op. at 658 n. 13, 45 A.3d at 1040 n. 13. As a result, appellant\u2019s primary argument here poses a very narrow issue \u2014 that appellant does not perform a governmental function \u2014 pursuant to a distinction no court of this Commonwealth has yet to accept as valid in the context of the Right-to-Know Law. Against this background, the Majority offers a persuasive analysis of the parties\u2019 dispute regarding the phrase \u201cgovernmental function.\u201d\nIn an appropriate case, I believe this Court should closely consider whether and/or to what extent information of a private party contracting with an agency is in fact a \u201cpublic record\u201d under the Right-to-Know Law. It is clear that the General Assembly intended Section 506(d)(1) to provide access to certain information of an agency, which happens to be in the possession of a contractor; but, it is less clear whether the General Assembly intended to recast information peculiar to the contractor as a public record of the agency. See 65 P.S. \u00a7 67.506(d) (\u201cAgency possession\u201d). Section 506(d)(1) defines a public record subject to disclosure, see 65 P.S. \u00a7 67.302(a), to include a \u201cpublic record,\u201d which is not in the possession of the local agency but in the possession of a contractor performing a governmental function on behalf of the agency, and which directly relates to that governmental function. See 65 P.S. \u00a7 67.506(d)(1). For the first reference to a \u201cpublic record\u201d in Section 506(d)(1) to have any meaning, the term must be defined by reference to the general definition in Section 102 of the Right-to-Know Law, supra, and not in a circular fashion by reference to the second iteration of the term \u201cpublic record\u201d in Section 506(d)(1). See also 1 Pa.C.S. \u00a7 1922(1) (General Assembly does not intend result that is absurd). Moreover, the first reference to a \u201cpublic record\u201d in Section 506(d)(1) can neither be read out of the provision nor downplayed. See 1 Pa.C.S. \u00a7 1922(2) (General Assembly intends entire statute to be effective). The first reference to a \u201cpublic record\u201d in Section 506(d)(1) is a key normative phrase in the provision\u2019s scheme, which indicates an intention to limit disclosure to that information of the agency which is in the contractor\u2019s possession; access to the contractor\u2019s information is then subject to Section 506(d)(2). In this respect, Sections 506(d)(1) and 506(d)(2) are clear that information in the possession of a contractor, other than a public record, is not subject to disclosure. See 65 P.S. \u00a7 67.506(d)(l)-(2).\nThe term \u201cgovernmental function\u201d is a secondary normative phrase, which further narrows information subject to disclosure of any public record in any third party\u2019s possession to those public records in the possession of a contractor that performs a governmental function on behalf of the agency whose own records are being requested. Moreover, any public record disclosed must relate \u201cdirectly\u201d to the contractor\u2019s performance of that governmental function. See 65 P.S. \u00a7 67.506(d)(1).\nTo the extent that Section 506(d)(1) is ambiguous, the tools of statutory construction confirm this interpretation of the provision. The title of Section 506(d) \u2014 \u201cAgency possession\u201d\u2014 for example, strongly suggests that the purpose of the provision is to address possession of a public record, rather than to recast private information of a private entity as a public record. This interpretation of Section 506(d) is harmonious with the general statutory scheme: thus, Sections 301(a) and 302(a) provide access to non-exempt and non-privileged local and Commonwealth agency records, in the first instance, and Sections 305(a) and 506(d)(1) address agency possession of those records. In Section 305(a), the General Assembly offers the presumption that records of a local or Commonwealth agency in the possession of those agencies shall be disclosed and, in Section 506(d)(1), further addresses the limited disclosure of public records in the possession of certain types of contractors. As a corollary to these provisions, any other information is not subject to disclosure under the Right-to-Know Law. Section 708 further narrows the types of information that may be obtained pursuant to the Right-to-Know Law by listing thirty exemptions pursuant to which an agency may deny access to a public record. See 65 P.S. \u00a7 67.708(b). The assertion that a public record is exempt from disclosure must be substantiated by the agency, which carries the burden to prove the applicability of the exemption, whether the public record is in its own possession or in the possession of a contractor. See 65 P.S. \u00a7 67.708(a)(1). Thus, even among public records, a great number are exempt from disclosure under the Right-to-Know Law.\nThe statute offers no indication that, while access to certain public records is restricted, information of private entities/contractors is nonetheless subject to disclosure by simple association with a governmental agency \u2014 and with limited ability by the third party to participate in the disclosure process. Indeed, Section 506(d)(2) suggests the contrary, and expressly prohibits access to the private information of governmental or agency contractors, even if that contractor is also in possession of some public record. See 65 P.S. \u00a7 67.506(d)(2). Presumably, if the intention was to make records and information of private contractors subject to broad disclosure, the General Assembly would have placed the burden to prove entitlement to an exemption on the contractor, the actual party in interest and in possession of the relevant supporting documentation. Other procedural provisions of the Right-to-Know Law also suggest that the statute targets broad disclosure of information that actually documents activities or transactions of local or Commonwealth agencies, rather than private party information deemed a public record of such an agency by operation of law. These provisions outline the duties of the agency to disclose information, and impose sanctions on the agency for failure to comply. See, e.g., 65 P.S. \u00a7\u00a7 67.701-707 (\u201cProcedure\u201d), 901-905 (\u201cAgency Response\u201d), 1305 (\u201cCivil penalty\u201d). Notably, duties, including civil sanctions, are not aimed at enforcing the Right-to-Know Law against third party contractors.\nWhile the driving policy behind disclosure of public records, as defined in Section 102, is to ensure transparency in the operation of government, the calculus behind mandating disclosure of information from private contractors obviously is more nuanced. Private entities have more prominent privacy and proprietary interests, have more reticence to assume the costs of any information disclosure mechanism, and have a diluted interest in vindicating the public\u2019s right to know. These competing interests are evident in the lines that the General Assembly has drawn between public records and private entity information, as well as between public records in the possession of an agency and public records in the possession of other entities. Regardless of whether broad disclosure of a contractor\u2019s private information may be salutary, I am skeptical of the notion that the General Assembly drafted the Right-to-Know Law with the intent to recast information of a private entity as a public record.\nIn summary, while I concur in the Majority\u2019s decision to affirm, under the constraints faced here, I do not join the Opinion insofar as it can be read to foreclose consideration of what constitutes a \u201cpublic record\u201d in relation to information of a private entity, as that term is used in Section 506(d)(1) of the Right-to-Know Law.\n. I join the Opinion to the extent that the Majority rejects appellant\u2019s governmental/proprietary distinction and adopts a \"non-ancillary\" function test in resolving the parties\u2019 dispute over the term \"governmental function.\u201d I believe, however, that the issue of whether the General Assembly intended to recast the information of a private entity and agency contractor as a public record of the agency for the purposes of the Right-to-Know Law is a close one, which should be left open for consideration in an appropriate case. See Majority Op. at 664, 45 A.3d at 1044.\n. The issue I address, of whether the information appellees requested here was a \"public record\u201d for the purposes of Section 506(d)(1) is distinct from the issue that appellant raises, of whether the information requested is a \"record,\u201d as that term is defined in Section 102 of the Right-to-Know Law. \"Public record\u201d and \"record\u201d are separately defined and generally employed as terms of art by the Right-to-Know Law. Appellant framed the question for review as follows: \"Did the Commonwealth Court err by holding that the information requested in this matter constitutes a 'record\u2019 within the meaning of the [Right-to-Know Law]?\u201d SWB Yankees LLC v. Wintermantel, 610 Pa. 291, 18 A.3d 1145 (2011). Appellant argues that the information appellees requested was not a \"record\u201d because the bids for the concessions contracts did not document a transaction or activity of the agency, and were not created, received, or retained pursuant to law or in connection with a transaction, business, or activity of the agency. See 65 P.S. \u00a7 67.102.\n. It does not appear that appellant forwarded the same argument to the trial court as it does here on the issue of whether the information requested by appellees was a \"record.\u201d To the trial court, appellant argued that appellees' request \"was a factual inquiry seeking intangible information only\u201d and, therefore, not a \"document or other media\u201d request that could constitute a record. See Appellant\u2019s Brief at 61-66; Trial Court Op., 9/9/2009, at 17-19 (quoting appellant\u2019s trial court brief). Appellees, however, do not assert waiver on this ground.",
+        "type": "concurrence",
+        "author": "Chief Justice CASTILLE,"
+      }
+    ],
+    "attorneys": [
+      "Adam D. Brown, Joseph Kernen, Jayne Anderson Risk, DLA Piper US LLP, Philadelphia, for SWB Yankees, LLC.",
+      "Joseph Owen Haggerty Jr., John Timothy Hinton Jr., Haggerty, McDonnell, O\u2019Brien & Hinton, LLP, Scranton, for Gretchen Wintermantel and Scranton Times Tribune.",
+      "Emily J. Leader, PA School Boards Association, Inc., for Appellant Amicus Curiae PA School Board Association.",
+      "Jillian M. Petrosky, Robert J. Tribeck, Rhoads & Sinon, L.L.P., Harrisburg, for Appellant Amicus Curiae Pennsylvania Foundations Association.",
+      "Melissa Bevan Melewsky, Pennsylvania Newspaper Association, for Appellee Amicus Curiae PA Newspaper Association."
+    ],
+    "corrections": "",
+    "head_matter": "45 A.3d 1029\nSWB YANKEES LLC, Appellant v. Gretchen WINTERMANTEL and The Scranton Times Tribune, Appellees.\nSupreme Court of Pennsylvania.\nArgued Nov. 29, 2011.\nDecided May 29, 2012.\nAdam D. Brown, Joseph Kernen, Jayne Anderson Risk, DLA Piper US LLP, Philadelphia, for SWB Yankees, LLC.\nJoseph Owen Haggerty Jr., John Timothy Hinton Jr., Haggerty, McDonnell, O\u2019Brien & Hinton, LLP, Scranton, for Gretchen Wintermantel and Scranton Times Tribune.\nEmily J. Leader, PA School Boards Association, Inc., for Appellant Amicus Curiae PA School Board Association.\nJillian M. Petrosky, Robert J. Tribeck, Rhoads & Sinon, L.L.P., Harrisburg, for Appellant Amicus Curiae Pennsylvania Foundations Association.\nMelissa Bevan Melewsky, Pennsylvania Newspaper Association, for Appellee Amicus Curiae PA Newspaper Association.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "0640-01",
+  "first_page_order": 694,
+  "last_page_order": 729
+}

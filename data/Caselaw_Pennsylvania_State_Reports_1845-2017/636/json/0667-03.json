@@ -1,0 +1,80 @@
+{
+  "id": 12283890,
+  "name": "Com., Dept. of Transp., In re; Row-Row, LLC, In re",
+  "name_abbreviation": "In re Com., Dept. of Transp.",
+  "decision_date": "2016-08-03",
+  "docket_number": "55 EAL (2016)",
+  "first_page": "667",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 667"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 625",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6827084
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/131/0625-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 107,
+    "ocr_confidence": 0.849,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24917282822280373
+    },
+    "sha256": "fd37719336086b193acfddc0b778a932e6f41bdba85161f33ceb4e63ac3e2221",
+    "simhash": "1:a31fc4770f91021a",
+    "word_count": 19
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com., Dept. of Transp., In re; Row-Row, LLC, In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 625",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com., Dept. of Transp., In re; Row-Row, LLC, In re\n08/03/2016\n55 EAL (2016)"
+  },
+  "file_name": "0667-03",
+  "first_page_order": 719,
+  "last_page_order": 719
+}

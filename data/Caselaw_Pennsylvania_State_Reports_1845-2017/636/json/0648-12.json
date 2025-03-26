@@ -1,0 +1,108 @@
+{
+  "id": 12281442,
+  "name": "Com. v. Robinson",
+  "name_abbreviation": "Com. v. Robinson",
+  "decision_date": "2016-06-29",
+  "docket_number": "97 EAL (2016)",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 598",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485995,
+        12485996,
+        12485997,
+        12485998,
+        12485999,
+        12486000,
+        12486001,
+        12486002,
+        12486003,
+        12486004,
+        12486005,
+        12486006,
+        12486007,
+        12486008,
+        12486009,
+        12486010,
+        12486011
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0598-10",
+        "/a3d/141-2/0598-11",
+        "/a3d/141-2/0598-12",
+        "/a3d/141-2/0598-13",
+        "/a3d/141-2/0598-14",
+        "/a3d/141-2/0598-15",
+        "/a3d/141-2/0598-16",
+        "/a3d/141-2/0598-17",
+        "/a3d/141-2/0598-01",
+        "/a3d/141-2/0598-02",
+        "/a3d/141-2/0598-03",
+        "/a3d/141-2/0598-04",
+        "/a3d/141-2/0598-05",
+        "/a3d/141-2/0598-06",
+        "/a3d/141-2/0598-07",
+        "/a3d/141-2/0598-08",
+        "/a3d/141-2/0598-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.891,
+    "sha256": "63a6c48d9758e60ba364f340f73694f022f4494c4c2cfe429cbc838ea4d53966",
+    "simhash": "1:728c0246896b2966",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Robinson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 598",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Robinson\n06/29/2016\n97 EAL (2016)"
+  },
+  "file_name": "0648-12",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

@@ -1,0 +1,81 @@
+{
+  "id": 475039,
+  "name": "McRoberts, Appellant, v. Opfermann et al.",
+  "name_abbreviation": "McRoberts v. Opfermann",
+  "decision_date": "1948-11-08",
+  "docket_number": "Appeal, No. 185",
+  "first_page": "452",
+  "last_page": "453",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "360 Pa. 452"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "360 Pa. 341",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475018
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/360/0341-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 396,
+    "ocr_confidence": 0.577,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.01727938578658447
+    },
+    "sha256": "afe1a0b884d86d804fa92bcd896b46024cde4f64dbd7aed3c0db547124e0f4ca",
+    "simhash": "1:da074e0c0bd2caf2",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T23:35:10.430095+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ."
+    ],
+    "parties": [
+      "McRoberts, Appellant, v. Opfermann et al."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nFor the reasons stated in the opinion at No. 186, McRoberts v. Opfermann et al., 360 Pa. 341, the order of the court below is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Martin Croissant, for appellant.",
+      "Zeno Fritz, with him Albert B. Monaco, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "McRoberts, Appellant, v. Opfermann et al.\nArgued September 29, 1948.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ.\nMartin Croissant, for appellant.\nZeno Fritz, with him Albert B. Monaco, for appellees.\nNovember 8, 1948:"
+  },
+  "file_name": "0452-01",
+  "first_page_order": 476,
+  "last_page_order": 477
+}

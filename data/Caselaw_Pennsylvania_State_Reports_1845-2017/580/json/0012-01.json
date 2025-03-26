@@ -1,0 +1,101 @@
+{
+  "id": 1100708,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Miguel GARCIA, Petitioner",
+  "name_abbreviation": "Commonwealth v. Garcia",
+  "decision_date": "2004-09-17",
+  "docket_number": "Petition No. 225 EAL 2004",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "580 Pa. 12"
+    },
+    {
+      "type": "parallel",
+      "cite": "858 A.2d 1161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "637 A.2d 259",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1841601,
+        7353154
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0575-01",
+        "/a2d/637/0259-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 575",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841601
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0575-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 604,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03996680887572982
+    },
+    "sha256": "32c40b24478e69f47760f20fae2069cce257c96969860cb494d178c16feea622",
+    "simhash": "1:1cbc92c373a6974b",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T18:09:30.519212+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Miguel GARCIA, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of September 2004, we GRANT the Petition for Allowance of Appeal, LIMITED to the following issue:\n\u201cIs it error for the trial court to give a \u2018no adverse inference\u2019 instruction in a multiple-defendant trial where one defendant requests the instruction and the other defendant waives his or her right to the instruction?\u201d\nWe direct the parties to address the impact of Commonwealth v. Edwards, 535 Pa. 575, 637 A.2d 259, 261 (1993).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "858 A.2d 1161\nCOMMONWEALTH of Pennsylvania, Respondent v. Miguel GARCIA, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 17, 2004."
+  },
+  "file_name": "0012-01",
+  "first_page_order": 140,
+  "last_page_order": 140
+}

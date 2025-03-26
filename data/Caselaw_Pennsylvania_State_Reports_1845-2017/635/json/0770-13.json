@@ -1,0 +1,70 @@
+{
+  "id": 12287239,
+  "name": "Com. v. Holly",
+  "name_abbreviation": "Com. v. Holly",
+  "decision_date": "2016-04-20",
+  "docket_number": "021 MAL (2016)",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 770"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 654",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.766,
+    "sha256": "a86fbf260c36ba4bee5e287024089542a13264a3428c44fc5a59c5bba6dd971d",
+    "simhash": "1:6b46bac6a1cfba5c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Holly"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 654",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Holly\n04/20/2016\n021 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0770-13",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

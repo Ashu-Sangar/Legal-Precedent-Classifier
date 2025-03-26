@@ -1,0 +1,80 @@
+{
+  "id": 12280581,
+  "name": "Com. v. Kriegler",
+  "name_abbreviation": "Com. v. Kriegler",
+  "decision_date": "2016-06-15",
+  "docket_number": "3 MAL (2016)",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 639"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "127 A.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6836201
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/127/0840-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24902378478436388
+    },
+    "sha256": "11f89dd090bbafa7b26ab5f8cb9ad885a73d63e55bc36e89dd556333d05a6a82",
+    "simhash": "1:2f372a43a2effa8c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Kriegler"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 127 A.3d 840",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Kriegler\n06/15/2016\n3 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0639-05",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

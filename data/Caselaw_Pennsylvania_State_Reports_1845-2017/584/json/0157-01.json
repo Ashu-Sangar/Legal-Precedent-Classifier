@@ -1,0 +1,78 @@
+{
+  "id": 988576,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Darnell DAVIS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Davis",
+  "decision_date": "2005-08-25",
+  "docket_number": "Petition No. 618 EAL 2004",
+  "first_page": "157",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "584 Pa. 157"
+    },
+    {
+      "type": "parallel",
+      "cite": "882 A.2d 1001"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "870 A.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9019354,
+        650294
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0795-01",
+        "/pa/582/0164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 442,
+    "ocr_confidence": 0.66,
+    "sha256": "c37f9ce227c437849a3606790d0729f0555d24711ac68aa7691a8994f1cabd66",
+    "simhash": "1:6da55aaba1e106e0",
+    "word_count": 69
+  },
+  "last_updated": "2024-02-27T19:42:10.084196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Darnell DAVIS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of August, 2005, the Petition for Allowance of Appeal is hereby GRANTED; the Order of the Superior Court is hereby REVERSED; and the case is REMANDED for reinstatement of Petitioners entitlement to pursue a direct appeal. Commonwealth v. Halley, 870 A.2d 795 (Pa.2005).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "882 A.2d 1001\nCOMMONWEALTH of Pennsylvania, Respondent v. Darnell DAVIS, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 25, 2005."
+  },
+  "file_name": "0157-01",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

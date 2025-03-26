@@ -1,0 +1,96 @@
+{
+  "id": 270281,
+  "name": "Richard COSOM, v. Paul MARCOTTE, M.D. and Danek Medical, Inc., Petition of Paul Marcotte, M.D.",
+  "name_abbreviation": "Cosom v. Marcotte",
+  "decision_date": "2002-09-25",
+  "docket_number": "Appeal No. 665 EAL 2000",
+  "first_page": "78",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "570 Pa. 78"
+    },
+    {
+      "type": "parallel",
+      "cite": "808 A.2d 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "781 A.2d 101",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9476936,
+        706316
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/781/0101-01",
+        "/pa/566/0335-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 335",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706316
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0335-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 475,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.010845806068230233
+    },
+    "sha256": "94b0ac75578954fb8c557dc75a901054a2146d6e1dfb12a5fd95c5371038bccb",
+    "simhash": "1:1c8f53a5c5bb1532",
+    "word_count": 77
+  },
+  "last_updated": "2024-02-27T19:40:07.488126+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard COSOM, v. Paul MARCOTTE, M.D. and Danek Medical, Inc., Petition of Paul Marcotte, M.D."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of September 2002, the petition for allowance of appeal is GRANTED. The order of the Superior Court is VACATED and REMANDED to the Superior Court for reconsideration in light of Southard v. Temple University Hospital, 566 Pa. 335, 781 A.2d 101 (2001).\nJurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "808 A.2d 177\nRichard COSOM, v. Paul MARCOTTE, M.D. and Danek Medical, Inc., Petition of Paul Marcotte, M.D.\nSupreme Court of Pennsylvania.\nSept. 25, 2002."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 180,
+  "last_page_order": 181
+}

@@ -1,0 +1,154 @@
+{
+  "id": 438399,
+  "name": "Heeter et al. versus Glasgow",
+  "name_abbreviation": "Heeter v. Glasgow",
+  "decision_date": "1875-05-21",
+  "docket_number": "",
+  "first_page": "79",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "79 Pa. 79"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Wright 299",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Binn. 296",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793664
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "435, 438"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0296-01"
+      ]
+    },
+    {
+      "cite": "2 Wright 337",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Ill. 514",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5294813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/42/0514-01"
+      ]
+    },
+    {
+      "cite": "1 Binn. 470",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0470-01"
+      ]
+    },
+    {
+      "cite": "3 Wharton 469",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wharton 457",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Wright 299",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wright 337",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 649,
+    "char_count": 13588,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 6.498682013896786e-07,
+      "percentile": 0.9605755007338266
+    },
+    "sha256": "002ee624a8889ad8fb58c3541f787c688eb44d51ce62c096e6041daa9f774052",
+    "simhash": "1:8f5b86a12f0ac4cf",
+    "word_count": 2422
+  },
+  "last_updated": "2024-02-27T22:18:31.010578+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Agnew, O. J., Sharswood, Mercur, Gordon, Paxson and Woodward, JJ."
+    ],
+    "parties": [
+      "Heeter et al. versus Glasgow."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Paxson\ndelivered the opinion of the court, May 31st 1875.\nThe parol evidence offered to impeach the magistrate\u2019s certificate appears to have been received without objection. The learned judge of the court below, however, fell into error when he assumed that it was conclusive, and withdrew the question of fact from the jury. Opposed to the parol evidence was the official certificate of the magistrate, showing upon its face that Mrs. Glasgow had executed and acknowledged the mortgage in the manner required by law. No matter what the magistrate may have sworn to upon the trial, the plaintiffs were entitled to have his official act go to the jury-\nThe certificate of a justice of the peace of the acknowledgment of a deed or mortgage is a judicial act. It is conclusive of the facts certified to in the absence of fraud or duress. This is the current of all the authorities in this state: Jamison v. Jamison, 3 Wharton 457 ; Hall v. Patterson, 1 P. F. Smith 289; McCandless v. Engle, Id. 309. In the case first cited, it was held that parol evidence of what passed at the time of the acknowledgment was not admissible for the purpose of contradicting the certificate, except in cases of fraud and imposition. In a number of cases parol evidence has been freely admitted to overthrow the certificate, as in Michener v. Cavender, 2 Wright 337; Louden v. Blythe, 4 Harris 541; and Schrader v. Decker, 9 Barr 14. But in all these cases gross fraud and imposition had been practised, affecting the acknowledgment itself. There is another class of cases in which parol evidence has been admitted to show facts de hors the certificate, as in Keen v. Coleman, 3 Wright 299, where a married woman fraudulently represented that she was a widow. The true rule deducible from the authorities is, that the certificate of the justice of the acknowledgment of a deed or mortgage is a judicial act, and in the absence of fraud or duress, conclusive as to the facts therein stated. A purchaser, bond, fide, and without notice of the fraud, is protected against it; but as to all other persons parol evidence has been admitted to show fraud or duress connected with the acknowledgment.\nThere was not a particle of evidence in this case to indicate either fraud or duress in anything that occurred at the magistrate\u2019s office. That officer appears to have acted in entire good faith. If there was any fraud it was de hors the certificate, and the evidence leaves us in doubt as to whose door it should be laid.\nJudgment reversed, and a venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Mr. Justice Paxson"
+      }
+    ],
+    "attorneys": [
+      "R. M. Speer and R. B. JPetriken (with whom was W. IT. Woods), for plaintiffs in error.",
+      "J. Scott whom were S. J. Brown and J. M. Bailey), for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Heeter et al. versus Glasgow.\n1. The certificate by a magistrate of the acknowledgment of a deed or mortgage is a judicial act, and in the absence of fraud or duress is conclusive.\n2. A. purchaser bonS, fide and without notice of fraud is protected against it; as to all others, parol evidence is admissible to show fraud or duress connected with the acknowledgment.\n3. The certificate of the acknowledgment by a wife of a mortgage of her own property was in due form; at the time of the acknowledgment, she told the justice she had read the mortgage, but he did not make known its contents to her. This appeared by the testimony of the wife and the justice. The court below decided that this was conclusive against the validity of the mortgage. Held to be error; the whole was for the jury.\nMay 21st 1875.\nBefore Agnew, O. J., Sharswood, Mercur, Gordon, Paxson and Woodward, JJ.\nError to the Court of Common Pleas of Huntingdon county: Of May Term 1875, No. 60.\nThis was a scire facias sur mortgage, issued May 16th 1874, by Adam Heeter, A. L. Guss and J. F. Thompson, against Samuel L. Glasgow and Harriet N. Glasgow, his wife. The defendants pleaded payment, and Mrs. Glasgow pleaded beside, non est factum and coverture; she further pleaded, that she did not acknowledge said mortgage as required by the second section of the Act of February 28th 1770, and its supplements.\nThe land covered by the mortgage was the property of Mrs. Glasgow ; it was dated and acknowledged June 4th 1872; was made by the defendants to the plaintiffs, and was to secure the payment of several notes of the husband to different persons, amounting in all to the sum of $3500, for which the plaintiffs were his sureties. The acknowledgment was taken by P. H. Bence, a justice of the peace, and the certificate was in the usual form; the part relating to the wife was as follows :\u2014\n\u201c The said Harriet N., being of full age, and by me examined separate and apart from her said husband, and the contents of the foregoing indenture of mortgage being first made fully known to her, declared that she did voluntarily and of her own free will and accord seal, and as her act and deed, deliver the same without any coercion or compulsion of her said husband.\u201d\nThe case was tried November 17th 1874, before Dean, P. J.\nThe plaintiffs gave the mortgage in evidence, and proved that they had paid the notes recited in it.\nThe defendants gave evidence by Mrs. Glasgow, that prior to the execution of the mortgage Heeter informed her, in the presence of her husband, that he had been endorsing for her husband, and wished her to sign a paper securing him; she expressed an unwillingness to do so, and he told her it would never injure her in any way, &c.; she then consented. Some days afterwards her husband requested her to go before the justice and have the paper executed; they went; at the justice\u2019s the husband produced the paper and both signed it. When the justice was about signing the certificate of acknowledgment, he said he had not read the paper, and did not know what it was, but supposed she did; she replied that she did \u2014 she had read it; the husband was present all the time; she was not asked whether she executed the paper voluntarily \u2014 that if she had been so asked she would have said \u201cNo.\u201d The mortgage given in evidence was the paper, but at the time she read it it had no enumeration of notes in it; she did not know that' there was a mortgage on her property for a year afterwards ; she was not induced to sign by any threats or compulsion of her husband.\nThe husband testified substantially as his wife had done, as to the occurrences at the justice\u2019s office; also, that the clause about the notes was put in after she had executed it; that Heeter, plaintiff, had made the suggestion that he should do so.\nThe plaintiffs, in rebuttal, gave evidence by P. H. Bence, the justice, that the husband executed the mortgage and left the room. He then asked Mrs. Glasgow if she knew the contents of the paper ; said it was his duty to make them known to her if she did not understand them. She said she was acquainted with them, and signed the paper; he asked her, if she did it of her own free will and accord, and wdthout any coercion on the part of her husband; she said that she did; the justice was a subscribing witness ; no persons but the parties and the subscribing witnesses were present at the justice\u2019s; Laura Hampson, the other subscribing witness, testified substantially as the justice had done ; Heeter testified, contradicting Glasgow as to his suggesting that the mortgage'sbould be filled in by the insertion of the notes after it\u2019s execution by Mrs. Glasgow.\nThere was evidence by the defendants for the purpose of showing that Mrs. Glasgow had been deceived by Heeter and her husband into the execution of the mortgage; and evidence by the plaintiffs in contradiction of this.\nAfter referring to the testimony of Mrs. Glasgow and the justice, the court charged :\u2014\n\u201c There is also some evidence of Mr. Glasgow and Laura Hampson on the same subject, but it does not differ materially from the \u2019evidence of these two witnesses, Mrs. Glasgow and Esquire Bence; and it does not seem from this evidence that the justice either read or otherwise made known to Mrs. Glasgow the contents of this instrument ; or, in other words, it seems clear from this evidence that he did not. He asked her whether she knew the contents, and she answered that she did; he having stated to her also at the time that it was his duty to make known the contents, and, substantially, this was all that occurred; she answered that she did, that she had read it; but that is the extent to which he made an effort to make known the contents to her. Was it sufficient ? Was it a substantial performance on his part of his duty as an officer, under such circumstances in view of the nature of the duty he was performing ?\n\u201c The object of the Act of Assembly plainly is- to place as a barrier for the protection of the married woman, between her and her husband, when he seeks against her will to alien or encumber her estate, the justice of the peace or judge who takes the acknowledgment. Eor this purpose the act prescribes a certain form of acknowledgment, and enjoins upon the officer that he shall certify certain duties plainly and imperatively. If the form be observed by the officer, she must have knowledge of the effect of her act to some extent, if she has the capacity to execute an instrument of this kind. If she has the intelligence which makes her competent to execute the instrument, she must, if the act be followed out, as it plainly indicates and enjoins, have knowledge.\n\u201c Again, there must have been no compulsion on the part of her husband, and she must so declare to the officer; and that she be not coerced by his presence to make a false declaration of her voluntary action, her examination must be separate from her husband.\n\u201cIt is sufficient, as has been argued, and authorities cited to the point, if there be a substantial compliance with the form prescribed in the Act of Assembly. This brings us to the question, and it is a question for the court: What is a substantial compliance ? It is urged by the plaintiffs\u2019 counsel that the evidence here shows that she knew the contents, and that when she so, said to the justice that was sufficient, and a substantial compliance on his part when he certified the acknowledgment.\n\u201c Leaving out of view the dispute here on the evidence, the plaintiffs alleging that she knew the contents, and the defendants that she did not know, or had been deceived by her husband, one thing seems-undisputed, and that is that the justice assumed from her answers that she had knowledge, and considered himself relieved from the duty of reading it to her, or otherwise making the contents known to her. In so doing he failed to perform an essential act under such circumstances imposed upon him by law, one which the law considers necessary for her protection. If the mode followed in this case had been considered sufficient, the legislature could easily have said, when enacting this form: \u2018 or said justice shall otherwise satisfy himself that the said wife otherwise had knowledge of the contents.\u2019 But the act does not so read. It specifies that he shall read or otherwise make known the contents to her.\n\u201c Whatever may be the ruling in the case of innocent purchasers, in this ease we say that the plaintiffs in this issue, being the mortgagees, the parties to a defectively executed instrument, they are affected by its irregularities, or a substantial want of conformance to the statute.\n\u201c The uncontradicted evidence shows that the justice in this case neither read nor made known the contents to her, and you must so find. This was a substantial failure\u2018to conform to the requirements of the act, and your verdict therefore as to Harriet N. Glasgow must be for her, and as to Samuel L. Glasgow, as he does not defend, your verdict must be for the plaintiffs, for the amount named in the mortgage, with interest.\u201d * * *\nThe verdict was for the plaintiffs against S. L. Glasgow for $3914.82, and for Mrs. Glasgow, the other defendant.\nThe plaintiffs took a writ of error, and, amongst others, assigned for error the charge of the court.\nR. M. Speer and R. B. JPetriken (with whom was W. IT. Woods), for plaintiffs in error.\nThe evidence as to the acknowledgment of the mortgage should have been submitted to the jury: McCandless v. Engle, 1 P. F. Smith 312. The acknowledgment was in legal form: Act 11th of April 1856, sect. 1, Pamph. L. 315, 1 Br. Purdon 475, pl. 90; Miner v. Graham, 12 Harris 491; Haffey v. Carey, 23 P. F. Smith 431; Shinn v. Holmes, 1 Casey 142. In taking an acknowledgment, a justice acts judicially, and his certificate that the required forms have been observed, in the absence of fraud or collusion, is entitled to full faith and credit: Jamison v. Jamison, 3 Wharton 469; Loudon v. Blythe, 4 Harris 541; Watson v. Bailey, 1 Binn. 470 ; Graham v. Anderson, 42 Ill. 514; Hill v. Bacon, 43 Id. 477. Knowledge of the fraud or duress ought to be brought home to the grantee, or at least knowledge of such circumstances as would put him on inquiry: Michener and Wife v. Cavender, 2 Wright 337; McCandless v. Engle, 1 P. F. Smith 313; Hall v. Patterson, Id. 289. If it appears from the whole certificate that the contents of the deed were known to the wife, it is as effectual as if the magistrate, had certified that he read or otherwise made'them known to her. If she knew, it is not material that the justice communicated the knowledge: McIntire v. Ward, 5 Binn. 296; Shaller v. Brand, 6 Id. 435, 438; Jamison v. Jamison, 3 Wharton 469; Barnet v. Barnet, 15 S. & R. 73; Battin v. Bigelow, Peters C. C. 453; Jones v. Maffet, 5 S. & R. 534; Talbot v. Simpson, Peters C. C. 188.\nJ. Scott whom were S. J. Brown and J. M. Bailey), for defendant in error,\neited Keen v. Coleman, 3 Wright 299; Glidden v. Strupler, 2 P. F. Smith 400; Moore v. Cornell, 18 Id. 320."
+  },
+  "file_name": "0079-01",
+  "first_page_order": 79,
+  "last_page_order": 83
+}

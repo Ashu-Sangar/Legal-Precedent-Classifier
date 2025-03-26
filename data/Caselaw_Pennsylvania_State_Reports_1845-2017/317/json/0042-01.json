@@ -1,0 +1,81 @@
+{
+  "id": 8845200,
+  "name": "Moore's Estate",
+  "name_abbreviation": "Moore's Estate",
+  "decision_date": "1935-01-07",
+  "docket_number": "Appeal, No. 302",
+  "first_page": "42",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "317 Pa. 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "316 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1159040
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0553-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 290,
+    "char_count": 3222,
+    "ocr_confidence": 0.49,
+    "pagerank": {
+      "raw": 4.400479698708787e-08,
+      "percentile": 0.2759593319919424
+    },
+    "sha256": "aa15150e4c0865f5f40d016a2ce46c2f4090650c1a5ecd61166c380fbc9fce95",
+    "simhash": "1:10f64370ee74af76",
+    "word_count": 542
+  },
+  "last_updated": "2024-02-27T20:40:55.989141+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Fearer, C. J., Simpson, Kephart, Sohaeeer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Moore\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis appeal is from a decree of the Orphans\u2019 Court of Philadelphia County refusing an issue devisavit vel non, and affirming a decision of the Register of Wills admitting to probate the will and codicil of Alexander Moore, who died April 15,1932.\n\u201cWe have repeatedly held that in reviewing a chancellor\u2019s refusal of an issue devisavit vel non the question for the appellate court to decide is not whether it would have reached the same result had it been acting as chancellor, but rather whether a judicial mind, on due consideration of the evidence as a whole, could reasonably have reached the conclusion of the chancellor\u201d: Dible\u2019s Est., 316 Pa. 553. Tested by this principle, we find no reason for disturbing the action of the lower court in the present case.\nAppellant\u2019s main contention is that the uncontradicted medical testimony shows that decedent lacked testamentary capacity. This phase of the case was fully considered by Judge Henderson of the court below, who discussed in detail in his opinion the effect of the testimony given by the only doctor called as a witness. We, too, have carefully examined this testimony and agree with the learned judge\u2019s statement that \u201cnotwithstanding the doctor\u2019s testimony that the testator had no lucid intervals, his admission both before the register and the presiding judge that he might have remembered his brother and sister, that he might have entertained the idea of giving away his house, that he knew he had money in bank, and that he would have been able on some days to have known what he wanted to do with that property \u2018if his judgment was good\u2019 [convinces us] a verdict against this will could not be supported, and hence an issue is properly refused.\u201d\nAs to the contention that the will was procured by undue influence, the facts surrounding the execution of the instrument, and indeed the terms of the will and codicil themselves, negative such suggestion. The will was drawn by a reputable member of the bar whose integrity is not questioned. The testimony of this attorney, to which we necessarily attach great weight, shows that, at the time the will was executed, decedent had a clear understanding of the extent and value of his property and the disposition he desired made of it after his death. Testator was fully aware of the persons who were bound to him by love or affection, and his reasons for excluding his sister entirely from the will and for leaving merely a contingent life estate to his brother do not concern us here. The will is not unnatural or unreasonable in the circumstances, since the principal beneficiaries are those who had, as the record plainly shows, the confidence and esteem of testator, and had been chiefly instrumental in making the last years of his life comfortable.\nThe decree is affirmed at appellant\u2019s costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Albert Smith Fought, with him Franjo E. Gordon and Isaac G. Sutton, for appellant.",
+      "Francis Chapman, with him John J. Mitchell, Jr., for Catherine A. McQuillen, Daniel C. Donoghue, for St. Vincent\u2019s Home, and James B. Anderson, for Maggie Dougherty, appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Moore\u2019s Estate.\nArgued December 6, 1934.\nJanuary 7, 1935:\nBefore Fearer, C. J., Simpson, Kephart, Sohaeeer, Maxey, Drew and Linn, JJ.\nAlbert Smith Fought, with him Franjo E. Gordon and Isaac G. Sutton, for appellant.\nFrancis Chapman, with him John J. Mitchell, Jr., for Catherine A. McQuillen, Daniel C. Donoghue, for St. Vincent\u2019s Home, and James B. Anderson, for Maggie Dougherty, appellees."
+  },
+  "file_name": "0042-01",
+  "first_page_order": 72,
+  "last_page_order": 74
+}

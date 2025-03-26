@@ -1,0 +1,326 @@
+{
+  "id": 1024545,
+  "name": "Stevenson's Appeal",
+  "name_abbreviation": "Stevenson's Appeal",
+  "decision_date": "1871-05-18",
+  "docket_number": "",
+  "first_page": "101",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "68 Pa. 101"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Wright 512",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 227",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wright 446",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Ill. 105",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5285495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/24/0105-01"
+      ]
+    },
+    {
+      "cite": "22 Barb. 404",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        4982507
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/22/0404-01"
+      ]
+    },
+    {
+      "cite": "2 Wheat. 196",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1444868
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/15/0196-01"
+      ]
+    },
+    {
+      "cite": "3 Dall. 367",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Wend. 395",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2153306
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/22/0395-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 143",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007365
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/2/0137-01"
+      ]
+    },
+    {
+      "cite": "1 Md. 351",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1688915
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/1/0351-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 437",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2159612
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/9/0460-01"
+      ]
+    },
+    {
+      "cite": "20 Johns, 735",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2142414
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/20/0735-01"
+      ]
+    },
+    {
+      "cite": "15 Johns. 358",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2140938
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/15/0358-01"
+      ]
+    },
+    {
+      "cite": "10 Pick. 235",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2014329
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/27/0238-01"
+      ]
+    },
+    {
+      "cite": "20 Pick. 267",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2038853
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/37/0267-01"
+      ]
+    },
+    {
+      "cite": "3 Mass. 21",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pick. 284",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2017789
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/30/0284-01"
+      ]
+    },
+    {
+      "cite": "12 Mass. 530",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Gray 450",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2077137
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/69/0450-01"
+      ]
+    },
+    {
+      "cite": "8 Wright 206",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cush. 314",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1986131
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/58/0314-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 231",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0231-01"
+      ]
+    },
+    {
+      "cite": "4 Binn. 117",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1792427
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/4/0107-01"
+      ]
+    },
+    {
+      "cite": "4 Wright 29",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wheat. 252",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 771,
+    "char_count": 13328,
+    "ocr_confidence": 0.433,
+    "pagerank": {
+      "raw": 3.366526379331115e-07,
+      "percentile": 0.875569000354847
+    },
+    "sha256": "41b0cedc988bb2cf5b8da8d21de0eebcceed6aef390f2ec83ced85d12e7c0412",
+    "simhash": "1:2a8fa8b3a2193cd6",
+    "word_count": 2349
+  },
+  "last_updated": "2024-02-27T19:51:16.763883+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stevenson\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered,\nby Read, J.\nRosalia Cecilia Hunter, a widow, with several minor children, in contemplation of marriage with her present husband, Howard A. Stevenson, by deed dated 24th January 1870, conveyed all her property to Alexander Allen (her father) and William Unclerdown, upon certain trusts therein set forth, and amongst others for the sole and separate use of the said Rosalia Cecilia during her natural life.\nOn the 24th October 1870, the said Howard and Rosalia his wife filed their petition in the Court of Common Pleas, stating that she had chosen for trustees to execute the trust under the said deed, The Girard Life Insurance, Annuity and Trust Company of Philadelphia, and prayed the court to remove the acting trustees,, and to appoint the said company to execute the said trust. No misconduct of any kind was alleged against the trustees, who say in their answer, \u201c that they accepted the trust at her urgent and repeated solicitation, and with the expectation and understanding, that they should continue to act as such trustees during their good behavior.\u201d\nThe trustees aver, that the deed \u201c was executed by said Rosalia Cecilia Hunter in anticipation of her marriage, and with the design of protecting her property from her husband.\u201d \u201c They believe that the said Rosalia Cecilia Stevenson is completely under the control of her said husband, and that the said petition does not express her own free will, but is the result of said influence,\u201d and in the 6th and last paragraph of their answer they say, \u201c the said Howard A. Stevenson has said to one of the respondents, that the matter can be settled by the payment by trustees of a certain amount of money.\u201d\nOn the 81st December 1870, the court dismissed the petition.\nThis application was made under the Act of April 9th 1868, entitled \u201c An Act to authorize the Court of Common Pleas and Orphans\u2019 Court of the city of Philadelphia to appoint and remove trustees:\u201d Pamph. L. 785.\nThis title clearly expresses the object of the act and the will of the legislature, and has been carried out by the Court of Common Pleas in the construction placed upon it by them, as stated in the opinion of Judge Ludlow, which we adopt. It is impossible to suppose that the legislature intended practically to destroy trusts in the commercial metropolis of the state, where they are created every day by deeds and wills, and to leave them untouched in every other part of this great Commonwealth. If the construction contended for by the counsel for the petitioner is correct, what would be the consequence ? Trusts are created to protect and support minor children, weak and feeble-minded persons, men and women whose faculties have been weakened by drink or disease, deaf, dumb, blind, and incurably lame and decrepid persons, monomaniacs, partially insane persons and married women, and the trustees invested with the legal estate have been selected at the creation of the trusts for their honesty, integrity and capacity, and then the whole fabric is swept away at the mere whim of the cestui que trust, who never was trusted, but was intended to be protected against himself and his utter incapacity to manage his own affairs.\nThe legislature never intended so absurd an act, as to make a minor of tender years or a woman under the influence of her husband, anxious to grasp her property, the sole judge without appeal of who shall manage a trust created for the express purpose of preserving the property intact for the support and maintenance of the cestui que trust.\nDecree affirmed and appeal dismissed at the costs of the appellants.",
+        "type": "majority",
+        "author": "by Read, J."
+      }
+    ],
+    "attorneys": [
+      "/S'. /S'. Hollingsworth and Q-. W. Biddle, for appellants.",
+      "J. G-. Johnson (with whom was Charles Gribbons), for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Stevenson\u2019s Appeal.\n1. The Act of April 9th 1868, authorizing the Court of Common Pleas and Orphans\u2019 Court of Philadelphia to appoint and remove trustees, giving to the cestui que trusts or a majority of those having the life estate the right to choose trustees, is so far directory as to permit the court to judge of the existence of some cause of removal.\n2. A woman in contemplation of marriage conveyed all her estate in trust for her separate use; after her marriage, she with her husband petitioned the court under the Act of 1868 to remove the trustees named in the deed of trust and appoint another; the Court of Common Pleas under the circumstances dismissed the petition, and on appeal to the Supreme Court the decree of the Common Pleas was affirmed.\nFebruary 20fch 1871. Before Thompson, C. J., Bead, Agnew, Sharswood and Williams, JJ.\nAppeal from the Court of Common Pleas of Philadelphia: No. 298, to January Term 1871.\nProceedings were commenced on the petition of Howard A. Stevenson and Bosalia C. Stevenson his wife, under the Act of April 9th 1868, Pamph. Laws 785, to have Alexander Allen and William Underdown, trustees under a deed of trust made by Mrs. Stevenson while she was a feme sole, removed, and the Grirard Life Insurance, Annuity and Trust Company appointed in their place.\nThe petition set out that on the 24th day of January 1870, Bosalia C. Stevenson, one of the petitioners, she being then Mrs. Bosalia C. Hunter, executed a deed of trust, conveying all the property to Alexander Allen and William Underdown, upon certain trusts; that by the provisions of said deed the property wras limited for the sole and separate use of Bosalia C. Stevenson during life; that shortly after the execution of said deed Bosalia C. Hunter intermarried with Howard A. Stevenson, the other petitioner; that Mrs. Stevenson had chosen for trustees to execute the trusts under said deed the Grirard Life Insurance, Annuity and Trust Company of Philadelphia, and prayed the court to remove the trustees named in the deed, and appoint the trust company above mentioned to execute the trusts.\nThe act referred to provides: \u201c That where any trust now exists or is hereafter created, the cestui que trusts, or a majority of them having the life estate, shall have the right to elect or choose trustees to execute said trust; and upon petition of the cestui que trusts or parties in interest as aforesaid having such life estate, the Court of Common Pleas or Orphans\u2019 Court in and for the City of Philadelphia, having jurisdiction, shall remove the acting trustee or trustees, and appoint other or others, as chosen or elected by said parties.\u201d\nThe trustees answered, making the deed of trust part of their answer, and averring that the deed was executed by Bosalia C. Hunter, in anticipation of her marriage, and with the design of protecting her property from her husband; that they accepted the trust at her urgent solicitation; that they were ready, willing and anxious to perform the duties imposed upon them; that they believed that Mrs. Stevenson was completely under the control of her husband, and that her petition was the result of influence.\nThey denied that there was any good cause for their removal, and averred that Mrs. Stevenson had several children by her first marriage, minors, who did not join in the petition, and that Howard A. Stevenson had said to one of the respondents that the matter could be settled by the payment by the trustees of a certain amount of money.\nThe court dismissed'the petition, the opinion of the court being delivered by Ludlow, J.:\u2014\n\u201c This petition has been filed under the Act of Assembly, approved April 9th 1868, which provides a method by which a cestui que trust may, in Philadelphia county, choose new trustees. Two constructions may be put upon this law; one would oblige us at the mere whim of a cestui que trust, at any time, to appoint a new trustee of his selection; and the other, to make such an appointment when for any just cause the former trustee has been removed, dies or resigns.\n\u201c Surely we cannot adopt the first construction, because it could never have been the intention of the legislature to endanger or destroy trusts altogether. That such a result would follow in practice from such a construction is clear, for the new trustee would be placed under the control of the cestui que trust. If the power of right exists it may of right be exercised at any moment. The trustee appointed to-day, no matter how unexceptionable he may be, can be removed to-morrow on the mere petition of the cestui que trust, and so on from day to day, and week to week, and year to year.\n\u201c The moment a trustee, although exercising a just restraint, does a .thing which his cestui que trust does not approve, he may, \u2014yes, if we adopt the argument of the petitioners\u2019 counsel, \u2014 must be removed.\n\u201c Who is to be the master of the situation ? What is to become of the trust estate ? The person to be protected, under the supervision of the court, exercises a fatal control over the agent appointed to protect him, and even commands the court. One trustee must follow another, it may be in such rapid succession that the investments of a trust estate will hardly be known to one before his successor will be appointed; account after account-must be filed, thus opening the door to prejudicial litigation, with its inevitable cost. It is our duty to rescue this Act of Assembly from a construction which will produce such chaos as this. Fortunately we can do so by holding the act to be so far directory as to permit us to judge of the existence of some cause of removal. When such cause does in fact exist, and the cestui que trust may nominate, if we approve of his nominee we will appoint him. In the argument the counsel for the petitioner admitted that we were not bound to appoint an improper person as a trustee, even upon the nomination of the cestui que trust; by analogy, we think it just as reasonable not to remove a trustee without cause, and for the reasons we have already stated.\n\u201cWe do not now discuss the question of the constitutionality of the act; give to it our construction, and it is clearly constitutional. We only add that should the petitioners\u2019 construction be the true one, then it is very questionable how far any Act of Assembly which, if not in form, in fact destroys every substantial characteristic of a trust, can be consistent with our constitution.\n\u201c As this petition presents no reason why the present trustee should he removed, we decline to grant its prayer.\u201d\nThe petitioners appealed, and assigned for error the dismissal of the petition.\n/S'. /S'. Hollingsworth and Q-. W. Biddle, for appellants.\nA proper construction of the Act of 1868 makes it imperative upon the court to remove the acting trustee: Philpott v. St. George\u2019s Hospital, 6 H. L. Cas. 338; Fisher\u2019s Dig. vol. iv., 8207; Fordyce v. Bridges, 1 H. L. Cas. 1; Logan v. Earl of Courtown, 13 Beav. 22. The act is constitutional as to trusts created since its passage: Ogden v. Saunders, 12 Wheat. 252; Haldeman v. Haldeman, 4 Wright 29; Sedgwick on Statutory and Const. Law 167; Menges v. Dentler, 9 Casey 498; Act of March 29th 1832, Purd. 306, pl. 203, p. 278, pl. 33: Camfrauque v. Burnell, 1 Wash. C. C. R. 341; Smedley v. Erwin, 1 P. F. Smith 451; Erie and N. E. Railroad v. Casey, 2 Casey 301. A married woman being the only cestui que trust for life is entitled to choose a trustee under the Act of April 25th 1850, Purd. 700, pl. 17: Burson\u2019s Appeal, 10 Harris 167; Act of June 16th 1836, Paraph. L. 789, Purd. 409, pl. 1; Commonwealth v. Smith, 4 Binn. 117.\nJ. G-. Johnson (with whom was Charles Gribbons), for appellee,\nr \u2014 A married woman is not within the enabling provisions of the act: Lancaster v. Dolan, 1 Rawle 231; Rogers v. Smith, 4 Barr 93; 4 Fisher\u2019s Dig. 8207; Cope v. Doherty, 2 DeG. & J. 614; Staniels v. Raymond, 4 Cush. 314; Strouse v. Becker, 8 Wright 206; Commonwealth v. Hartnell, 3 Gray 450 ; Commonwealth v. Montrose, 2 P. F. Smith 391; Osgood v. Breed, 12 Mass. 530; Powell on Dev. 140; Dyer 354; Wilbur v. Crane, 13 Pick. 284; Bulkley v. Eckert, 3 Barr 368; City of Erie v. Knapp, 5 Casey 174.\nThe intention of the Act of 1868 is to confer upon cestuis que trustent the power formerly vested in the court, to elect new trustees in place of those removed by it: Anon., Lofft 398; Rex v. Palmer, 2 East P. C. 898; McWilliam v. Adams, 1 Macq. H. L. Cas. 120; Church v. Crocker, 3 Mass. 21; 20 Pick. 267, 407; 10 Pick. 235; People v. Utica Ins. Co., 15 Johns. 358; Rodgers v. Bradshaw, 20 Johns, 735; McCarter v. Asylum, 9 Cow. 437; Neff\u2019s Appeal, 9 Harris 243; Shaw v. Ruddin, 9 Irish C. L. R. 214; Mason v. Armitage, 13 Ves. 36; Hughes v. Railway Co., 1 Drew. & Smale 524; Bradford v. Jones, 1 Md. 351; Seidenbender v. Charles, 4 S. & R. 166; Denton v. Mannere, 4 Jur. N. S. 151; Swanton v. Goold, 9 Irish C. L. R. 234; Regina v. Mallow Union, 12 Id. 35; Anonymous, Lofft 438; Wales v. Stetson, 2 Mass. 143; Langdon v. Potter, 3 Id. 215; Ayers v. Knox, 7 Id. 306; Donaldson v. Wood, 22 Wend. 395; Brown v. Barry, 3 Dall. 367; Vanhorne v. Dorrance, 2 Id. 316 ; Knabb v. Drake, 11 Harris 490; Rutherford v. Greene, 2 Wheat. 196; Esterly\u2019s Appeal, 4 P. F. Smith 192; McMullin v. McCreary, Id. 230 ; In re Bridgman, 1 Drew & Sm. 164; Rex v. Flockwold, 2 Chitty 251; Newport Bridge, 2 El. & El. 377 ; People v. Council, 22 Barb. 404; Wheeler v. Chicago, 24 Ill. 105; Commonwealth v. Halloway, 6 Wright 446 ; O\u2019Conner v. Warner, 4 W. & S. 227; Bagg\u2019s Appeal, 7 Wright 512; Menges v. Dentler, 9 Casey 495; DeChastellux v. Fairchild, 3 Harris 18; Ervine\u2019s Appeal, 4 Id. 260; Brown v. Hummel, 6 Barr 86.\nMay 18th 1871,"
+  },
+  "file_name": "0101-01",
+  "first_page_order": 101,
+  "last_page_order": 105
+}

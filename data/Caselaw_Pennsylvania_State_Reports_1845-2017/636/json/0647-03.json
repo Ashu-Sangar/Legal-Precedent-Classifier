@@ -1,0 +1,104 @@
+{
+  "id": 12281265,
+  "name": "Com. v. Jackson",
+  "name_abbreviation": "Com. v. Jackson",
+  "decision_date": "2016-06-22",
+  "docket_number": "66 EAL (2016)",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 647"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 595",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485952,
+        12485953,
+        12485954,
+        12485955,
+        12485956,
+        12485957,
+        12485958,
+        12485959,
+        12485960,
+        12485961,
+        12485947,
+        12485948,
+        12485949,
+        12485950,
+        12485951
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0595-15",
+        "/a3d/141-2/0595-01",
+        "/a3d/141-2/0595-02",
+        "/a3d/141-2/0595-03",
+        "/a3d/141-2/0595-04",
+        "/a3d/141-2/0595-05",
+        "/a3d/141-2/0595-06",
+        "/a3d/141-2/0595-07",
+        "/a3d/141-2/0595-08",
+        "/a3d/141-2/0595-09",
+        "/a3d/141-2/0595-10",
+        "/a3d/141-2/0595-11",
+        "/a3d/141-2/0595-12",
+        "/a3d/141-2/0595-13",
+        "/a3d/141-2/0595-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.835,
+    "sha256": "c4efaa1ae35cee98715cf02ac4e5c2f8543982ac16a4610cbb9e6683ad96b9b8",
+    "simhash": "1:46644076ad742b13",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jackson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 595",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jackson\n06/22/2016\n66 EAL (2016)"
+  },
+  "file_name": "0647-03",
+  "first_page_order": 699,
+  "last_page_order": 699
+}

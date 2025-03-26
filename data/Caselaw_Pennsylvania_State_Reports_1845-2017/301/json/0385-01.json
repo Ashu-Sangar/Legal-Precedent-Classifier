@@ -1,0 +1,81 @@
+{
+  "id": 1126402,
+  "name": "Taggart, Appellant, v. Ward",
+  "name_abbreviation": "Taggart v. Ward",
+  "decision_date": "1930-11-24",
+  "docket_number": "Appeal, No. 169",
+  "first_page": "385",
+  "last_page": "386",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "301 Pa. 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "300 Pa. 52",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1125950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/300/0052-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 99,
+    "char_count": 805,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04112537062971625
+    },
+    "sha256": "2e7480ced14143f1e8c5a146a7ae94534e2a74d1d823dbee2a63872346752673",
+    "simhash": "1:e7d4b215eb851e4e",
+    "word_count": 137
+  },
+  "last_updated": "2024-02-27T21:43:26.565736+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ."
+    ],
+    "parties": [
+      "Taggart, Appellant, v. Ward."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis is an appeal from an order refusing judgment for want of a sufficient affidavit of defense; since we cannot say that it is \u201cclear and free from doubt\u201d that the court below erred in sending this case to trial, we shall not disturb the order appealed from, nor shall we discuss or determine the applicable rules of law or the merits of the case until the facts are more fully developed: Easter v. Pennsylvania Fuel Supply Co., 300 Pa. 52.\nThe order is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "C. A. Fagan, Jr., of Fagan, Dillon & Fagan, with him Robert E. Lamberton, of Lamberton & Moffett, for appellant.",
+      "J. Roy Dickie, of Dickie, Kier & McCamey, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Taggart, Appellant, v. Ward.\nNovember 24, 1930:\nArgued October 2, 1930.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ.\nC. A. Fagan, Jr., of Fagan, Dillon & Fagan, with him Robert E. Lamberton, of Lamberton & Moffett, for appellant.\nJ. Roy Dickie, of Dickie, Kier & McCamey, for appellee."
+  },
+  "file_name": "0385-01",
+  "first_page_order": 409,
+  "last_page_order": 410
+}

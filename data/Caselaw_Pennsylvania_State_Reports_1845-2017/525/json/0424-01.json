@@ -1,0 +1,1466 @@
+{
+  "id": 1823759,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. William GREEN, Appellant",
+  "name_abbreviation": "Commonwealth v. Green",
+  "decision_date": "1990-09-19",
+  "docket_number": "No. 41 Eastern District Appeal Docket 1987",
+  "first_page": "424",
+  "last_page": "466",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "525 Pa. 424"
+    },
+    {
+      "type": "parallel",
+      "cite": "581 A.2d 544"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "461 U.S. 945",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11327459,
+        11326789,
+        11326920,
+        11326985,
+        11327311,
+        11327024,
+        11327601,
+        11327153,
+        11327247,
+        11327093,
+        11327381,
+        11326843
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0945-11",
+        "/us/461/0945-01",
+        "/us/461/0945-03",
+        "/us/461/0945-04",
+        "/us/461/0945-09",
+        "/us/461/0945-05",
+        "/us/461/0945-12",
+        "/us/461/0945-07",
+        "/us/461/0945-08",
+        "/us/461/0945-06",
+        "/us/461/0945-10",
+        "/us/461/0945-02"
+      ]
+    },
+    {
+      "cite": "335 U.S. 834",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176677,
+        6177353,
+        6177692,
+        6176942,
+        6177839,
+        6177970,
+        6176790,
+        6177079,
+        6177562,
+        6177212
+      ],
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/335/0834-01",
+        "/us/335/0834-06",
+        "/us/335/0834-08",
+        "/us/335/0834-03",
+        "/us/335/0834-09",
+        "/us/335/0834-10",
+        "/us/335/0834-02",
+        "/us/335/0834-04",
+        "/us/335/0834-07",
+        "/us/335/0834-05"
+      ]
+    },
+    {
+      "cite": "345 U.S. 959",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        372385,
+        372897,
+        372648,
+        372786,
+        372886,
+        372726,
+        372607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/345/0959-01",
+        "/us/345/0959-03",
+        "/us/345/0959-05",
+        "/us/345/0959-06",
+        "/us/345/0959-02",
+        "/us/345/0959-07",
+        "/us/345/0959-04"
+      ]
+    },
+    {
+      "cite": "468 U.S. 1250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11357802,
+        11357899,
+        11358156,
+        11357967,
+        11358063,
+        11358270
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/1250-01",
+        "/us/468/1250-02",
+        "/us/468/1250-05",
+        "/us/468/1250-03",
+        "/us/468/1250-04",
+        "/us/468/1250-06"
+      ]
+    },
+    {
+      "cite": "776 F.2d 1170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1516386
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/776/1170-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1304",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 2124",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "693 F.2d 954",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10592706
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/693/0954-01"
+      ]
+    },
+    {
+      "cite": "769 F.2d 595",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        361341
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/769/0595-01"
+      ]
+    },
+    {
+      "cite": "354 U.S. 449",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6160449
+      ],
+      "weight": 3,
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/354/0449-01"
+      ]
+    },
+    {
+      "cite": "318 U.S. 332",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        364464
+      ],
+      "weight": 3,
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/318/0332-01"
+      ]
+    },
+    {
+      "cite": "705 S.W.2d 19",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9959061
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/705/0019-01"
+      ]
+    },
+    {
+      "cite": "629 F.Supp. 1184",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3837310
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/629/1184-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3501",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "521 Pa. 423",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817459
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0423-01"
+      ]
+    },
+    {
+      "cite": "82 L.Ed.2d 942",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 52",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "468 U.S. 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340969
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0897-01"
+      ]
+    },
+    {
+      "cite": "728 S.W.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9969684
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/728/0382-01"
+      ]
+    },
+    {
+      "cite": "78 L.Ed.2d 697",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 508",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 U.S. 1002",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6492641,
+        6492556,
+        6492461,
+        6492371,
+        6492759,
+        6492700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/1002-04",
+        "/us/464/1002-03",
+        "/us/464/1002-02",
+        "/us/464/1002-01",
+        "/us/464/1002-06",
+        "/us/464/1002-05"
+      ]
+    },
+    {
+      "cite": "685 F.2d 1227",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        525657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/685/1227-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124278
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0349-01"
+      ]
+    },
+    {
+      "cite": "271 Pa. Superior Ct. 552",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        133040
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/271/0552-01"
+      ]
+    },
+    {
+      "cite": "494 Pa. 388",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1769071
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/494/0388-01"
+      ]
+    },
+    {
+      "cite": "126 A.2d 720",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "386 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1268316
+      ],
+      "year": 1956,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/386/0513-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12814
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0001-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817450
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0188-01"
+      ]
+    },
+    {
+      "cite": "541 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1811659,
+        1811622
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0120-01",
+        "/pa/518/0121-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 120",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811659
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0120-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798703
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0001-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 303",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781062
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0303-01"
+      ]
+    },
+    {
+      "cite": "526 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 U.S. 486",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8298732
+      ],
+      "weight": 3,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "page": "498"
+        },
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/165/0486-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 80",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173878
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "86"
+        },
+        {
+          "page": "1334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0080-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298734
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1044"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0001-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 471",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804489,
+        1804579
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0471-01",
+        "/pa/514/0471-02"
+      ]
+    },
+    {
+      "cite": "469 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1722085
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/469/0333-01"
+      ]
+    },
+    {
+      "cite": "309 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "453 Pa. 427",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        577561
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/453/0427-01"
+      ]
+    },
+    {
+      "cite": "311 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "626"
+        },
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "454 Pa. 215",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        579896
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "219"
+        },
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/454/0215-01"
+      ]
+    },
+    {
+      "cite": "82 L.Ed. 595",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 S.Ct. 477",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "302 U.S. 766",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177675,
+        6177805,
+        6178453,
+        6178295,
+        6178174
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/302/0766-01",
+        "/us/302/0766-02",
+        "/us/302/0766-05",
+        "/us/302/0766-04",
+        "/us/302/0766-03"
+      ]
+    },
+    {
+      "cite": "194 A. 653",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "327 Pa. 465",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1176745
+      ],
+      "weight": 3,
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "467"
+        },
+        {
+          "page": "467-468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/327/0465-01"
+      ]
+    },
+    {
+      "cite": "88 S.Ct. 2277",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6175261
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0647-02"
+      ]
+    },
+    {
+      "cite": "392 U.S. 647",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175113,
+        6175261
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0647-01",
+        "/us/392/0647-02"
+      ]
+    },
+    {
+      "cite": "234 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "427 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1910385
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/427/0284-01"
+      ]
+    },
+    {
+      "cite": "41 A.2d 556",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 Pa. 521",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        462703
+      ],
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/351/0521-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 806",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9431
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0806-01"
+      ]
+    },
+    {
+      "cite": "510 F.2d 58",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        147051
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/510/0058-01"
+      ]
+    },
+    {
+      "cite": "132 Misc.2d 444",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        851563
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/132/0444-01"
+      ]
+    },
+    {
+      "cite": "503 N.Y.S.2d 955",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Cal.Rptr. 234",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Cal.App.3d 726",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2092547
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/133/0726-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed. 387",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 S.Ct. 24",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 P.2d 112",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Wash.2d 52",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2497402
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/31/0052-01"
+      ]
+    },
+    {
+      "cite": "39 Ala.App. 24",
+      "category": "reporters:state",
+      "reporter": "Ala. App.",
+      "case_ids": [
+        1701575
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala-app/39/0024-01"
+      ]
+    },
+    {
+      "cite": "288 Minn. 530",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        301456
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/288/0530-01"
+      ]
+    },
+    {
+      "cite": "291 A.2d 694",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Md.App. 446",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "case_ids": [
+        2243894
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md-app/15/0446-01"
+      ]
+    },
+    {
+      "cite": "157 Mont. 479",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        5275921
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/157/0479-01"
+      ]
+    },
+    {
+      "cite": "610 S.W.2d 757",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9953618
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/610/0757-01"
+      ]
+    },
+    {
+      "cite": "189 N.J.Super. 257",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        924680
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/189/0257-01"
+      ]
+    },
+    {
+      "cite": "459 A.2d 1209",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1212",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 F.2d 161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1084085
+      ],
+      "weight": 4,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/527/0161-01"
+      ]
+    },
+    {
+      "cite": "411 P.2d 897",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.Rptr. 801",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.2d 357",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        12126966
+      ],
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/64/0357-01"
+      ]
+    },
+    {
+      "cite": "412 P.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.Rptr. 284",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.2d 419",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        12127971
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/64/0419-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.Rptr. 600",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Cal.2d 295",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2331179
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/66/0295-01"
+      ]
+    },
+    {
+      "cite": "494 A.2d 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7912110
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/494/0085-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed. 1379",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 S.Ct. 944",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 A.2d 691",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "372 Pa. 266",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1238014
+      ],
+      "year": 1953,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/372/0266-01"
+      ]
+    },
+    {
+      "cite": "408 A.2d 965",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8002402
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "966-967",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/408/0965-01"
+      ]
+    },
+    {
+      "cite": "528 A.2d 601",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "515 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 Pa.Super. 444",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        649870
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/351/0444-01"
+      ]
+    },
+    {
+      "cite": "524 F.Supp. 499",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5620395
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/524/0499-01"
+      ]
+    },
+    {
+      "cite": "229 N.W.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        8672824
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/68/0662-01"
+      ]
+    },
+    {
+      "cite": "193 Conn. 270",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        557031
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/193/0270-01"
+      ]
+    },
+    {
+      "cite": "477 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "319 Pa.Super. 531",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        92658
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/319/0531-01"
+      ]
+    },
+    {
+      "cite": "151 N.J.Super. 106",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        312381
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/151/0106-01"
+      ]
+    },
+    {
+      "cite": "376 A.2d 580",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 U.S. 433",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716395
+      ],
+      "weight": 3,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0433-01"
+      ]
+    },
+    {
+      "cite": "439 U.S. 282",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11329864
+      ],
+      "weight": 4,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/0282-01"
+      ]
+    },
+    {
+      "cite": "528 F.2d 929",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1079689
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "930-931",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/528/0929-01"
+      ]
+    },
+    {
+      "cite": "420 U.S. 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11642843
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/420/0103-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 396",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792364
+      ],
+      "weight": 3,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0396-01"
+      ]
+    },
+    {
+      "cite": "491 Pa. 402",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1765645
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/491/0402-01"
+      ]
+    },
+    {
+      "cite": "468 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1719682
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/468/0487-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 590",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9639
+      ],
+      "weight": 6,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "604"
+        },
+        {
+          "page": "2262"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0590-01"
+      ]
+    },
+    {
+      "cite": "371 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2343,
+    "char_count": 76374,
+    "ocr_confidence": 0.808,
+    "pagerank": {
+      "raw": 3.800950654323412e-07,
+      "percentile": 0.8974310857505592
+    },
+    "sha256": "f86bfdbc7b42a2355f303bccbce3cdc2adf821b2830bf8bb4dad8d77b129428c",
+    "simhash": "1:3e7ac7b693248f0b",
+    "word_count": 12492
+  },
+  "last_updated": "2024-02-27T23:49:21.920470+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NIX, C.J., and LARSEN, FLAHERTY, McDermott, zappala and papadakos, jj.",
+      "\u00d1\u00cdX, C.J., and ZAPPALA, J., concur in the result."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. William GREEN, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPAPADAKOS, Justice.\nOn November 12, 1982, Appellant, William Green, was found guilty by a Philadelphia County Common Pleas Court jury of murder in the first degree for the killing of Angelo D\u2019Antonio. Appellant was also convicted of robbery, criminal conspiracy and possession of an instrument of crime. As a consequence of the first degree murder conviction, a sentencing hearing was held as required by 42 Pa.C.S. \u00a7 9711(a)(1) and the jury determined that Appellant be sentenced to death. This case is now before us on automatic appeal pursuant to 42 Pa.C.S. \u00a7 9711(h)(1). The facts of the case, viewed in a light most favorable to the Commonwealth, the verdict winner at the trial court level, are as follows:\nAt a little after noon on January 11, 1982, a robbery occurred at Pat's Bar located at Passyunk and Christian Streets in Philadelphia. Mr. D\u2019Antonio, the owner of Pat\u2019s Bar, was shot and killed during the course of the robbery. At trial, two patrons of the bar testified that they were both present in the bar shortly after noon on January 11 when two males in stocking masks entered. An initial shot was fired. One of the masked men then jumped over the bar with gun in hand, at which time Mr. D\u2019Antonio moved towards him and grabbed him with two hands on both shoulders, this having the effect of turning both men around. As they turned, the gunman shot Mr. D\u2019Antonio in the stomach and killed him. He then directed everyone in the bar to lay on the floor at which time he went to a cash register and attempted to open it. The second masked man, who was observed in the doorway with a gun, went to the rear of the bar and then went to a register where he took something out. Pat\u2019s Bar apparently had two cash registers. Neither eyewitness could identify either of the assailants because both were wearing stocking masks during the incident. Both witnesses testified, however, that the gun used to kill Mr. D\u2019Antonio appeared to be a .32 caliber, a fact later confirmed by a ballistics expert.\nThe only other eyewitness presented by the Commonwealth to testify as to the events in Pat\u2019s Bar that led to the killing of Mr. D\u2019Antonio was one Ronald Garner. Garner agreed to testify against Appellant pursuant to a plea bargain with the Commonwealth. He had been charged with murder, robbery, conspiracy and possession of instruments of crime in connection with the killing of Mr. D\u2019Antonio at Pat\u2019s Bar. In exchange for testifying against Appellant, he was allowed to plead guilty to third degree murder, robbery and conspiracy and was promised that his sentence would not exceed a term of 20 to 40 years. Garner testified that on January 10, 1982, Appellant, one Florence Stanley and Garner himself met and agreed to commit the robbery in question. Garner testified that the idea for the robbery was Appellant\u2019s, and that Appellant supplied two guns and stockings to be used as face masks. Garner testified that on January 11, 1982, he, along with Appellant and Florence Stanley, went to Pat\u2019s Bar to rob it and that Appellant entered the bar first, and fired a shot into the air, and that it was Appellant who had jumped over the bar while he, Garner, waited at the entrance. Garner then stated that he himself subsequently came into Pat\u2019s Bar, at Appellant\u2019s direction. By this time, Mr. D\u2019Antonio had been shot. He stated that he then stood on a stool, jumped over the bar and removed money from a cash register.\nAlso introduced at trial were two confessions given by Appellant to Philadelphia Homicide Detectives shortly after his apprehension. Both statements had been the subject of a Motion to Suppress which had been heard and denied by Judge Latrone prior to the trial itself. The evidence presented at the suppression hearing established that on April 9, 1982, Philadelphia police obtained a warrant for Appellant\u2019s arrest signed by a Philadelphia Municipal Court judge, the Honorable Edward Mekel, and based on a written affidavit of probable cause. On April 16,1982, pursuant to information received by a Philadelphia homicide detective from a confidential informant, Philadelphia police and Camden, New Jersey, police went to a residence at 501 Newton Avenue in Camden, New Jersey, to look for Appellant. Shortly before 5:00 p.m., the police knocked on the door at that residence and initially received no response, although they observed Appellant\u2019s girlfriend looking out of a window. After waiting at the scene for approximately ten minutes, the door opened from the inside and Appellant appeared in the doorway. Mr. Green raised his hands and said words to the effect that \u201cthere will be no trouble, I\u2019m willing to go with you.\u201d\nThe two Philadelphia homicide detectives who were presented by the Commonwealth at the Motion to Suppress, Sgt. Daniel Rosenstein and Detective Frank Digel, testified that as Mr. Green stepped into the front doorway he was taken into custody and taken back into the house inside the living room. The Philadelphia detectives testified that after being in the living room for approximately two to three minutes with Appellant standing in front of the sofa, his girlfriend pointed to a plastic bag on the floor near Mr. Green and stated, \u201cIf you are going to take him, then you might as well take this bag, because his clothes are in there. It belongs to him.\u201d Detective Digel picked up the bag and felt and retrieved a gun from amongst the clothing in the bag. Detective Rosenstein testified at the suppression hearing that as Appellant observed the gun removed from the bag he spontaneously stated, \u201cThat\u2019s not the gun you want.\u201d\nAt the Motion to Suppress, Appellant\u2019s defense counsel called Camden Police Officers Charles Woodward and Joseph Rubino, two uniformed officers who had effectuated this arrest in New Jersey at 5:05 p.m. Officer Woodward testified that he and his partner (Rubino) responded to a radio call to meet Philadelphia detectives at the 501 Newton Avenue address in Camden. After their arrival at that location, Appellant came to the front door from inside the house, at which time Officer Woodward and Camden Detective Ivan Holmes immediately apprehended him on the outside of the building on the left hand side of the doorway. Detective Holmes and Officer Woodward then handcuffed Mr. Green outside of the residence and placed him in the rear of Officer Woodward\u2019s patrol vehicle. Officer Woodward testified that from the time the door first opened and Mr. Green was handcuffed outside the building and placed in the patrol car, Mr. Green never left Officer Woodward\u2019s presence and neither Officer Woodward nor Mr. Green ever went back into the residence at 501 Newton Avenue. He testified that the Philadelphia detectives entered the house only after Mr. Green was outside and in his custody and that during the entire time the detectives were inside the house Mr. Green was with Officer Woodward in his patrol car. Officer Woodward\u2019s testimony concerning the immediate arrest of Appellant was corroborated by Police Officer Rubino and, of course, contradicts that of the Philadelphia detectives with respect to the finding of the gun.\nAppellant was then transported to Camden Police Department Headquarters by Officers Woodward and Rubino at which time he was placed in an interrogation room, where he was informed of the charges against him and advised of his right to oppose his return to Pennsylvania. Appellant thrice indicated his desire to return voluntarily to Pennsylvania without formal extradition proceedings as soon as possible. The New Jersey police attempted to locate a New Jersey judge to schedule an immediate extradition hearing. Detective Rosenstein spoke to a New Jersey Superior Court judge, the Honorable Judy Yaskin, over the telephone and advised her of Appellant\u2019s name, the charges against him, the details of the case, and the fact that the Appellant wished to waive extradition and return to Pennsylvania. Detective Rosenstein testified that Judge Yaskin instructed him over the telephone to advise Appellant of his rights concerning extradition and instructed the detective to draw up a form which explained Appellant\u2019s rights and on which Appellant could indicate by his answers that he understood those rights. Before Appellant was further advised of his right to fight extradition, and before the form was drawn up, Appellant was given his Miranda warnings. Appellant then executed what the Suppression Court found to be a voluntary, knowing and intelligent waiver of his rights under Miranda. Appellant was then questioned for a period of one hour and thirty-five minutes (concluding at 8:00 p.m.) by the Philadelphia detectives regarding the killing of Mr. D\u2019Antonio. Appellant\u2019s statement was reduced to ten pages of writing and signed by Appellant on each page. In this statement, Appellant admitted his participation in the robbery at Pat\u2019s Bar, but stated that it was Ronald Garner who had jumped over the bar and shot Mr. D\u2019Antonio during the robbery. Appellant was thereafter advised both orally and in writing of his extradition rights and he executed the form prepared by Detective Rosenstein at the direction of Judge Yaskin waiving those rights. Without ever having physically appeared before, or having spoken with a New Jersey judge, Mr. Green was returned to Pennsylvania in the custody of the Philadelphia detectives.\nAfter being returned to Pennsylvania and taken to the Philadelphia Police Administration Building at approximately 8:40 p.m., Appellant was again given Miranda warnings, and again, after knowingly, voluntarily and intelligently waiving these rights, he gave a second statement to the detectives (a written copy of which was also signed by him) in which he admitted his involvement in this crime and his participation as the shooter. This further damaging admission occurred after Appellant was shown statements taken from Ronald Garner and Florence Stanley naming Appellant as the shooter. Appellant was arraigned before a judge in Philadelphia between 10:35 and 10:40 p.m.\nAt trial, the Commonwealth introduced both the statement obtained from Appellant by the Philadelphia detectives at the Camden Police Headquarters and the subsequent statement obtained from him after his return to Philadelphia.\nThe Commonwealth did not introduce any evidence in their case-in-chief concerning the seizure of the gun inside 501 Newton Avenue. The defense introduced evidence regarding this matter at trial, calling Officer Woodward of the Camden Police Department to testify as to the arrest of Appellant outside of 501 Newton Avenue and to testify to the effect that Appellant was never inside the building with the Philadelphia detectives. The defense then called Detective Rosenstein to relate his version of the incident that allegedly occurred to the effect that the gun was seized while Appellant was present in that residence. The defense used this evidence to argue to the jury that the Philadelphia detectives were fabricating the incident which they alleged occurred inside 501 Newton Avenue and therefore that the Commonwealth evidence regarding Appellant\u2019s inculpatory statements should similarly be rejected because that evidence came from the same Philadelphia homicide detectives.\nFollowing the jury\u2019s verdict of guilty of murder in the first degree, a penalty hearing was held in which the Commonwealth introduced evidence of Appellant\u2019s two prior robbery convictions arising out of a single incident and the Commonwealth argued that as an additional aggravating circumstance, this killing occurred during the perpetration of a felony. Appellant did not testify at the penalty hearing after the court ruled on defense counsel\u2019s motion in limine that if he took the stand he could be cross-examined as to the underlying facts of this incident, his prior robbery convictions in 1973, and a 1977 burglary conviction which otherwise would not have been placed before the jury. The defense did present evidence of mitigation through the testimony of Philadelphia Prison Correctional Officer Brian Carroll and Captain Harry E. Moore. Both of these correctional officers testified that since the time of Appellant\u2019s incarceration up to the time of trial, he had provided a great deal of information to prison officials regarding drugs and weapons possessed by inmates within the prison system. Officer Carroll testified that the information given by Appellant had led to the prevention of injury both to inmates as well as to guards and officers in the prison, and that he assisted guards in resolving physical altercations within the prison. They testified that much of the information provided by Appellant placed his own life in jeopardy. . Captain Moore testified that in his fourteen years in the institution, he had never encountered another inmate who had been as valuable to prison authorities or had given as much information and prevented as much potential damage as had Appellant.\nThe trial court then permitted the Commonwealth, over defense objection, to present uncorroborated hearsay testimony regarding an alleged incident involving Appellant as rebuttal to defense evidence of Appellant\u2019s assisting the authorities in prison. The Commonwealth called Philadelphia Deputy Sheriff Daniel Boyer who testified that on the day prior to the penalty phase hearing, an unidentified inmate in the City Hall cell block \u201cpointed out Mr. Green to me in the cell block, and he informed me that Mr. Green was recruiting other inmates to help take hostages on the cell block.\u201d Sheriff Boyer had no personal knowledge of this incident and did not know the name or the whereabouts of the inmate who had allegedly related this information to him. The Commonwealth then successfully argued that this testimony negated the evidence presented by the defense as to the mitigating circumstance of Appellant\u2019s helpful conduct in the prison setting. The jury thereafter found two aggravating circumstances and no mitigating circumstances and returned a sentence of death.\nAt the time of Appellant\u2019s formal sentencing on March 5, 1987, Assistant District Attorney Roger King testified on behalf of Appellant that since the time of his conviction in this case, Appellant had provided information and testified for the Commonwealth, \u201cwith considerable risk to himself,\u201d in connection with two separate homicides.\nSufficiency of the Evidence\nWe have carefully reviewed the record in this case and conclude that there is substantial evidence to convict Appellant of the crimes charged. Appellant\u2019s convictions rest upon his two confessions (which we have determined were properly admitted, see below) and upon belief in the credibility of a single accomplice witness, Ronald Garner. We think that there was more than enough evidence here such that if the jury believed either the second confession or Garner\u2019s testimony that they could find Appellant guilty beyond a reasonable doubt.\nAppellant presents six arguments in his current appeal to this Court which we next consider.\nI.\nAppellant first argues that the trial court improperly denied his motion to suppress the two signed confessions read into evidence at his trial in the presence of the jury because they were obtained from Appellant in violation of his constitutional and statutory rights. The gist of Appellant\u2019s argument is that he was placed in the custody of the Philadelphia detectives while still in New Jersey in violation of New Jersey\u2019s Extradition Act; that his first confession should have been suppressed because it was the fruit of this illegal custody and was tainted thereby; that his subsequent custody in Philadelphia was likewise the direct result of violations of New Jersey\u2019s Extradition Act for the reason that, inter alia, his waiver of extradition was illegally obtained; that his second confession should have been suppressed because it too was the tainted fruit of this illegal custody; and that these statutory violations rose to the level of a deprivation of constitutional rights requiring suppression. We cannot agree.\nBoth confessions themselves were made knowingly, intelligently and voluntarily. The suppression court so found and these findings are not contested. Each confession was made only after Appellant was fully informed of his Fifth Amendment right against self-incrimination and his Sixth Amendment right to assistance of counsel as required by Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). Appellant likewise effectively waived these rights in both instances after receiving his full Miranda warnings and this too is not contested.\nA.\nThe confessions might have to be suppressed, however, if either were tainted by being the \u201cfruit of a poisonous tree,\u201d as Appellant argues that they are here. Under the exclusionary rule of Wong Sun v. United States, 371 U.S. 471, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963), any evidence acquired by the police through the exploitation of, or by means of, conduct unlawful under the Fourth Amendment is inadmissible in a criminal prosecution. This includes not only physical evidence seized improperly, but a confession that is the product of an illegal arrest, for example, where an arrest was without a warrant and without probable cause. See, Brown v. Illinois, 422 U.S. 590, 95 S.Ct. 2254, 45 L.Ed.2d 416 (1975). This Court has held that:\nEvidence obtained following an illegal arrest must be suppressed unless the Commonwealth can establish that the evidence is sufficiently purged of any taint from the illegal arrest.\u201d Commonwealth v. Farley, 468 Pa. 487, 364 A.2d 299 (1976) ...\nCommonwealth v. Harris, 491 Pa. 402, 408, 421 A.2d 199 (1980). We think that the same rule must apply whether the police misconduct entails an invalid arrest or other misconduct rising to the level of being a serious constitutional violation. As we have stressed previously, however, suppression or exclusion of evidence is a most extreme remedy that is justified only when necessary to vindicate fundamental rights and to correct or deter police abuse. Commonwealth v. Mason, 507 Pa. 396, 490 A.2d 421 (1985). In Brown v. Illinois, supra, the Court catalogued factors which might tend to dissipate the taint of illegality from a confession: (1) whether Miranda warnings were given; (2) the \u201ctemporal proximity\u201d of the illegal police conduct to the confession; (3) the presence of intervening circumstances or events; (4) the \u201cpurpose and flagrancy of the official misconduct.\u201d 422 U.S. at 604, 95 S.Ct. at 2262. With these governing principles in mind, a review of the facts demonstrates that suppression is not required in this case.\nAppellant\u2019s arrest by New Jersey police here, without a New Jersey fugitive warrant, was perfectly proper under the Uniform Criminal Extradition Act which is fully applicable in New Jersey, N.J.S.A. 2A:160-6 to 2A:160-35. N.J.S.A. 2A:160-22 provides:\nArrest of accused without warrant\nThe arrest of a person may be lawfully made also by any peace officer or a private person, without a warrant, upon reasonable information that the accused stands charged in the courts of a state with a crime punishable by death or imprisonment for a term exceeding 1 year, but when so arrested the accused must be taken before a judge or magistrate with all practicable speed and complaint must be made against him under oath setting forth the ground for the arrest as in section 2A: 160-21 of this title; and thereafter his answer shall be heard as if he had been arrested on a warrant.\nThe critical question is whether the New Jersey police violated that part of section 2A:160-22 which states that \u201cthe accused must be taken before a judge or magistrate with all practicable speed\u201d and if so, whether Appellant\u2019s confession in New Jersey (the bulk of which was given prior to his written waiver of extradition) was tainted thereby. We think that a negative answer must be given to both questions. Under the circumstances of this case, the New Jersey police acted in a prudent, reasonable and diligent manner, in good faith, and without unnecessary delay. Upon their return to the Camden Police Station, and in the face of Appellant\u2019s oral statements that he wished to waive extradition, the New Jersey police acted sensibly\u2014 they attempted to locate a New Jersey judge! Upon locating Judge Yaskin by phone and informing her of the situation, her instructions to draw up a written explanation of Appellant\u2019s rights so that his waiver of extradition would be explicit and in writing were scrupulously followed. For reasons set forth below, we find that Appellant\u2019s subsequent written waiver of extradition was perfectly valid and legal under the Uniform Criminal Extradition Act, and that no actual judicial hearing was therefore necessary. In that light, we know of no legal principle that, so soon after his arrest, would bar Appellant\u2019s \u201cpre-arraignment\u201d interrogation while the police were in the process of preparing a written waiver of extradition which Appellant had in substance voluntarily requested. If Appellant had changed his mind, he could then have been \u201carraigned\u201d under section 2A:160-22 \u201cwith all practical speed,\u201d but where Appellant chose to waive extradition, we find that no statutory violation occurred here.\nB.\nEven if we were to agree that however reasonable the actions of the New Jersey police were here, they were innocently diverted from the prompt performance of their appointed task to take the accused before a judge or magistrate with all practical speed, suppression of Appellant\u2019s confessions would still not be required. As already noted, suppression or exclusion of evidence is justified only when necessary to vindicate fundamental rights, Commonwealth v. Mason, supra. Any unnecessary delay here in bringing Appellant before a judge or magistrate prior to his written waiver of extradition, was at most a de minimus violation. No fundamental or constitutional rights of Appellant were violated thereby that would justify suppression of his first confession. The United States Supreme Court has held that the Fourth Amendment requires a timely independent determination of probable cause as a prerequisite to pre-trial detention or custody. It is essential that the probable cause determination be made by someone independent of the police or prosecution. Gerstein v. Pugh, 420 U.S. 103, 95 S.Ct. 854, 43 L.Ed.2d 54 (1975). Appellant does not challenge the fact that such an independent judicial determination of probable cause occurred in this case when Judge Mekel signed the arrest warrant issued in Philadelphia. See, Appellant\u2019s brief at p. 18. Any delay in bringing Appellant before a New Jersey judge could not be construed as a denial of his Fourth Amendment right to a prompt probable cause determination by a forum independent of the police or prosecution because that determination had already been made in Pennsylvania, here \u2014 the demanding state. As the First Circuit held in Ierardi v. Gunter, 528 F.2d 929 (1976):\nRespondents seem to assume that if a judicial determination of probable cause must precede extradition, it must be provided by the courts of the asylum state, where the fugitive is held. This is not so. Gerstein explicitly rejected the need for adversarial procedures; it required only the neutral and detached judgment of a judicial officer or tribunal, and contemplated that this could be provided before as well as shortly after arrest. Thus nothing in Gerstein prevents the demanding state from providing the requisite pre-rendition determination of probable cause.\n528 F.2d at 930-931 (footnote omitted).\nIndeed, under Michigan v. Doran, 439 U.S. 282, 99 S.Ct. 530, 58 L.Ed.2d 521 (1978), no further judicial inquiry may be had in the asylum state on the probable cause issue where that issue was determined in the demanding state. Hence, under no construction of these facts can Appellant\u2019s Fourth Amendment rights be said to have been violated.\nAn extradition hearing under these circumstances in the asylum state is of necessity summary in nature. Absent unusual circumstances, the hearing is limited to determining whether the extradition documents on their face are in order and whether the petitioner has been charged with a crime in the demanding state; whether the petitioner is the person sought by the demanding state (and perhaps whether he was present in the demanding state at the time the crime was committed); and whether the petitioner is a fugitive from justice. Cuyler v. Adams, 449 U.S. 433, 101 S.Ct. 703, 66 L.Ed.2d 641 (1981); Michigan v. Doran, supra; State v. Sinacore, 376 A.2d 580, 151 N.J.Super. 106 (1977); Commonwealth v. Jacobs, 319 Pa.Super. 531, 466 A.2d 671 (1983). See also, Parks v. Bourbeau, 477 A.2d 636, 193 Conn. 270 (1984); State of Wisconsin v. Hughes, 229 N.W.2d 655, 68 Wis.2d 662 (1975); United States ex rel. McInery v. Shelley, 524 F.Supp. 499 (N.D.Ill.1981). N.J.S.A. 2A:160-23 provides:\nCommitment to jail of person arrested before requisition made, to await requisition; bail\nIf from the examination before the judge or magistrate it appears that the person held is the person charged with having committed the crime alleged, and, except in cases arising under section 2A:160-14 of this title, that he has fled from justice, the judge or magistrate must, by a warrant reciting the accusation, commit him to the county jail for such a time not exceeding 30 days and specified in the warrant, as will enable the arrest of the accused to be made under a warrant of the governor on a requisition of the executive authority of the state having jurisdiction of the offense, unless the accused give bail as provided in section 2A:160-24 of this title, or until he shall be legally discharged.\nN.J.S.A. 2A:160-24 provides:\nBail of accused for appearance, when authorized; bond or undertaking; surrender of accused to be arrested on warrant\nUnless the offense with which the prisoner is charged is shown to be an offense punishable by death or life imprisonment under the laws of the state in which it was committed, a judge or magistrate in this sate may admit the person arrested to bail by bond or undertaking, with sufficient sureties, and in such sum as he deems proper, conditioned for his appearance before him at a time specified in such bond or undertaking, and for his surrender, to be arrested upon the warrant of the governor of this state.\nRealistically, it is difficult to see how Appellant was deprived of any \u201cliberty\u201d interest under the Due Process Clause here because if he had chosen to go to a hearing before a New Jersey judge, his choices would have been to either waive extradition at that point and return to Philadelphia or be committed to jail to await the issuance of a warrant from the Governor of New Jersey and formal extradition to Pennsylvania. Bail would not have been authorized under these circumstances. In short, we can find no significant deprivation of rights here, constitutional or otherwise, that would taint the confession given by Appellant in New Jersey.\nFurthermore, we find no abusive, coercive, or otherwise unlawful police activity here designed to prolong custodial interrogation that would taint the confession here obtained. See, Commonwealth v. Diggs, 351 Pa.Super. 444, 506 A.2d 431, allocatur denied, 515 Pa. 592, 528 A.2d 601 (1986); State of Wisconsin v. Hughes, supra.\nC.\nAppellant argues that his written waiver of extradition was invalid, because he was not brought before a judge in New Jersey to waive his right to fight extradition, and therefore that his subsequent return to custody in Pennsylvania and his second confession made during that time was tainted by the illegally obtained waiver. We conclude that this argument must be rejected as well.\nN.J.S.A. 2A:160-30 provides:\nWaiver of extradition proceedings; procedure; effect Any person arrested in this state charged with having committed any crime in another state or alleged to have escaped from confinement, or broken the terms of his bail, probation or parole, may waive the issuance and service of the warrant provided for in section 2A:160-15 and 2A:160-16 of this title and all other procedure incidental to extradition proceedings, by executing or subscribing in the presence of a judge of any criminal court of record within this state a writing which states that he consents to return to the demanding state. Before such waiver shall be executed or subscribed by such person it shall be the duty of such judge to inform such person of his rights to the issuance and service of a warrant of extradition and to obtain a writ of habeas corpus as provided for in section 2A:160-18 of this title.\nIf and when such consent has been duly executed it shall forthwith be forwarded to the office of the governor of this state and filed therein. The judge shall direct the officer having such person in custody to deliver forthwith such person to the duly accredited agent or agents of the demanding state, and shall deliver or cause to be delivered to such agent or agents a copy of such consent. Nothing in this section shall be deemed to limit the rights of the accused person to return voluntarily and without formality to the demanding state, nor shall this waiver procedure be deemed to be an exclusive procedure or to limit the powers, rights or duties of the officers of the demanding state or of this state.\nAppellant argues that his waiver here was illegal and of no effect because it violated \u00a7 2A:160-30 as quoted directly above. Not only was the \u201cwaiver\u201d attempted here not executed \u201cin the presence of a judge,\u201d but Appellant also contends that he was not advised by the police \u00f3f \u201chis rights to the issuance and service of a warrant of extradition and to obtain a writ of habeas corpus\u201d as required by the Act. Appellant argues that the Commonwealth should not be heard to argue that the required warnings and waiver could be satisfactorily executed before police officers in the bowels of the station house, albeit following an alleged telephone conversation with a judge, any more than such argument would justify a police supervised \u201cwaiver\u201d of arraignment without a defendant\u2019s personal appearance before the court. In holding that Appellant\u2019s right to an appearance before a court to execute his waiver of extradition was not violated, the suppression court relied heavily upon the language of \u00a7 2A:160-30 which provides that \u201cNothing in this section shall be deemed to limit the rights of the accused person to return voluntarily and without formality to the demanding state, nor shall this waiver procedure be deemed to be an exclusive procedure or to limit the powers, rights or duties of the officers of the demanding state or of this state.\u201d This provision, which Appellant suggests has received little appellate interpretation in any of the states subscribing to the Uniform Extradition Act, has been interpreted in other states, he argues, as referring to defendants who are not otherwise in custody in the asylum state. Brief for Appellant, p. 20. Our research belies Appellant\u2019s contentions.\nFirst, as already noted, Appellant did not waive a probable cause determination here. Probable cause had already been determined by an independent judicial officer in Pennsylvania. As also noted, any appearance before a judge in New Jersey would have been a summary type of proceeding held for very limited purposes. Appellant was later arraigned in Philadelphia within six hours of his arrest in New Jersey. This was not a waiver of arraignment in any meaningful sense. Moreover, and in spite of Appellant\u2019s pejorative reference to the bowels of the police station, we can find no constitutional requirement than when Miranda rights are given and waived, waiver of extradition can only be made in front of a judge and not a police officer. In Hagans v. United States, 408 A.2d 965 (D.C.App.1979), the court reviewed the validity of the arrest in Maryland of the appellant therein pursuant to a warrant issued by the D.C. Superior Court. The court stated:\nAppellant\u2019s reliance on the Maryland extradition statute is misplaced. As the government correctly points out, any person arrested on a Superior Court warrant outside the District of Columbia is treated, for purposes of removal to the District, as if the warrant had been issued by the United States District Court for the District of Columbia. Therefore, appellant\u2019s removal to the district was governed by Fed.R.Crim.P. 40(a), rather than by Maryland law. Under Rule 40(a), appellant was entitled to be taken before \u201cthe nearest available federal magistrate\u201d for a preliminary hearing (to be conducted in accordance with Fed.R.Crim.P. 5 and 5.1) in order to determine whether there was probable cause to hold him to answer the charges in the Superior Court____ the federal rules do not require that a waiver of an arrestee\u2019s right to such a hearing be executed in the presence of a magistrate. See Fed.R.Crim.P. 5(a) and (c). Thus, appellant\u2019s waiver does not fail simply because it was accomplished at a police station rather than before a magistrate.\n408 A.2d at 966-967 (footnote omitted).\nIf the federal rules themselves do not require that waiver of extradition only be accomplished in open court before a judge, then clearly there was no constitutional violation that occurred in the instant case.\nNor do we think that there is but scant authority to support the suppression court\u2019s interpretation of the non-exclusivity clause (set forth at the end of \u00a7 2A:160-30) permitting Appellant\u2019s return to Pennsylvania without a formal hearing. As early as Commonwealth v. Johnson, 372 Pa. 266, 93 A.2d 691 (1953), cert. denied, 345 U.S. 959, 73 S.Ct. 944, 97 L.Ed. 1379, this Court read the non-exclusivity clause of the same section of the Uniform Act to permit a defendant\u2019s voluntary return to Pennsylvania from South Carolina under a voluntary waiver made without an appearance before a judge in the asylum state. More recently, the Supreme Court of Rhode Island reached the identical conclusion in State v. Hughes, \u2014 R.I. -, 494 A.2d 85 (1985), on facts strikingly similar to those involved in this case, while interpreting the New York Code of Criminal Law Procedure, \u00a7 570.50 (McKinvey 1984) which is also from the Uniform Act and virtually identical to \u00a7 2A:160-30, at issue here. In Hughes, the defendant has also been properly given his Miranda warnings.\nAppellant cites three California cases in support of his position: In Re Schoengarth, 66 Cal.2d 295, 57 Cal.Rptr. 600, 425 P.2d 200 (1967); In Re Satterfield, 64 Cal.2d 419, 50 Cal.Rptr. 284, 412 P.2d 540 (1966); and In Re Patterson, 64 Cal.2d 357, 49 Cal.Rptr. 801, 411 P.2d 897 (1966). However, those cases deal with a subordinate question. The two earlier cases prohibit a California prisoner from signing a written waiver of extradition prior to his transfer to another state\u2019s prison for purposes of serving an out-of-state sentence and a California sentence concurrently. The theory of these decisions is that absent a separate statute, a person in custody under the Uniform Act can only waive extradition by appearing before a judge in the asylum state. The most recent case, In Re Schoengarth, supra, contains dicta to the same effect but is distinguishable on its facts. These cases represent a distinct minority view of what in New Jersey is \u00a7 2A:160-30 of the Uniform Act. These cases were expressly rejected by the Eighth Circuit in Pierson v. Grant, 527 F.2d 161 (C.A.Iowa, 1975) where the court held that a pre-release waiver of extradition executed as a condition of parole need not conform to what they described as the non-exclusive procedures requiring appearance before a judge or magistrate as set forth in the Uniform Criminal Extradition Act (under the same section as is at issue here). Authorities in support of this position are cited from Maryland, New Jersey, and the Eighth Circuit itself. Further authorities are cited in a recent New Jersey opinion, State v. Maglio, 459 A.2d 1209, 189 N.J.Super. 257 (1983), where the court discussed the issue as follows:\nOpinions from other jurisdictions support my conclusion that waivers which are executed as a condition of either parole or probation will be enforced by the state in which an absconding defendant is arrested. Ex Parte Johnson, 610 S.W.2d 757 (Tex.Cr.App.1980). The majority rule throughout the country is that formal extradition proceedings are not necessary to compel the return of absconding probationers or parolees who have signed previously a pre-release waiver. Schwartz v. Woodahl, 157 Mont. 479, 487 P.2d 300 (Sup.Ct.1971); White v. Hall, 15 Md.App. 446, 291 A.2d 694 (Ct.Spec.App.1972); State ex rel. Swyston v. Hedman, 288 Minn. 530, 179 N.W.2d 282 (Sup.Ct.1970); Madden v. Simmons, 39 Ala.App. 24, 92 So.2d 922 (Ct.App.1957); Pierce v. Smith, 31 Wash.2d 52, 195 P.2d 112 (Sup.Ct.1948), cert. den. 335 U.S. 834, 69 S.Ct. 24, 93 L.Ed. 387 (1948).\nThis is so even if the advance waiver of extradition does not conform to the procedures outlined in the waiver section of the Uniform Act. Pierson v. Grant, 527 F.2d 161 (8 Cir.1975). The waiver section construed in the Pierson opinion, which is identical to N.J.S.A. 2A:160-30, explicitly states that the statutory procedure is not exclusive. Consequently, so long as the waiver is explained to defendant and his consent is not coerced, the waiver is valid. Requiring the execution of a waiver as a condition precedent of probation will not render the waiver involuntary absent a specific showing of coercion in a particular case. Id. at 164. This should be the New Jersey rule as well.\nA few jurisdictions, California for example, will not always enforce an advance waiver agreement. In re Patterson, 64 Cal.2d 357, 49 Cal.Rptr. 801, 411 P.2d 897 (Sup.Ct.1966). In Patterson the California Supreme Court interpreted the waiver section of the Uniform Act, a provision identical to N.J.S.A. 2A:160-30, to require that a waiver be effected in front of a judge in the state in which the absconder is arrested. A recent decision by the California Court of Appeals questioned the waiver provision construction in Patterson and urged its Supreme Court to reexamine its underpinning. In re Klock, 133 Cal.App.3d 726, 184 Cal.Rptr. 234 (D.Ct.App.1982). The minority rule, exemplified by the Patterson opinion, is not only less persuasive to this court but also, apparently, to courts which are constrained to follow it. 459 A.2d at 1212 (footnote omitted).\nSee also, People v. Corder, 503 N.Y.S.2d 955, 132 Misc.2d 444 (1986).\nThe vast majority of the decisions we have found reject the view that a waiver before a judge or magistrate is the exclusive and only way in which extradition can be waived. We agree in their rejection of the California approach and think that logic, common sense, and a plain and simple reading of the statute permits knowing, intelligent and voluntary and non-coercive waivers of extradition without a formal appearance before a judge in the asylum state. We might add that what occurred here is also much less coercive, in reality, than a waiver extracted as a condition of release on probation or parole. Our conclusion is also supported by the Commissioners on Uniform State Laws. Their official comment to \u00a7 2-103 of the newly drafted \u201cUniform Extradition and Rendition Act\u201d reads as follows:\nThis section and the other sections of this Act that refer to waivers do not set forth the exclusive procedures by which waiver of extradition may occur. For example, a waiver of extradition may occur as a condition to parole or probation. The validity of these waivers is determined by the developing case law on \u201ccontractual\u201d waivers. See Pierson v. Grant, 527 F.2d 161 (8th Cir.1975) and Forester v. California Adult Authority, 510 F.2d 58 (8th Cir.1975). See, also, Comment to Section 1-103.\nIt is intended that the standards generally applicable to waivers of constitutional rights in criminal proceedings be applicable to waivers of the right to require a judicial hearing under this Section. The waiver must be \u201cmade voluntarily, knowingly and intelligently.\u201d See, e.g., Faretta v. California, 422 U.S. 806, 95 S.Ct. 2525, 45 L.Ed.2d 562 (1975).\nIn short, we see nothing illegal or unconstitutional about Appellant\u2019s waiver of extradition in the instant case.\nII\nAs already noted, the Commonwealth did not introduce any evidence in their case-in-chief concerning the seizure of the .32 caliber gun inside the house in Camden, New Jersey, at the time that Appellant was arrested. The defense raised the issue by first calling New Jersey Police Officer Woodward whose testimony indicated that Appellant had never been inside the building at the same time as the police. Philadelphia Detective Rosenstein was then called by the defense and he was questioned on direct examination about the same incident, as follows:\nBY MR. FRANZEL [defense attorney]:\nQ. Without telling us what anybody else said besides yourself and Mr. Green, tell us what happened, sir, what Mr. Green allegedly said.\nA. Well, as a result of words uttered by his girl friend we confiscated a loaded .32 revolver from a plastic bag in the immediate area of Mr. Green.\nQ. All right. Who physically first obtained \u2014 allegedly first obtained possession of the plastic bag?\nA. Detective Diegel.\nQ. Did you observe that take place?\nA. Yes, sir.\nQ. And where was Mr. Green, allegedly, at the time that you found \u2014 that this plastic bag was obtained by Detective Diegel?\nA. Still in the building, in the process of getting ready to leave the building, and in the company with the police.\nQ. How far were you from Mr. Green inside that living room, detective?\nA. Within a few feet.\nQ. And how far were you from Detective Diegel when he obtained possession of this plastic bag with the .32?\nA. Also within a few feet.\nQ. And upon his obtaining that bag and \u2014 how was it determined that there was an alleged .32 caliber pistol inside?\nA. Detective Diegel, when picking up the bag, apparently placed his hand under the bag to pick it up, and grabbed the gun which was in the bag under the clothing that was in the bag, and stated, \u201cI have a gun.\u201d\nHe then withdrew the gun from the bag, and Mr. Green said words to the effect of, \u201cThat\u2019s not the gun you want,\u201d or, \u201cThat\u2019s not the right gun.\u201d I think it was, \u201cThat\u2019s not the gun you want\u201d \u2014 or \u201cThe gun you are looking for.\u201d Something along those lines. (N.T. 651-653).\nThis testimony was offered to cast doubt on Appellant\u2019s confessions and was in direct contrast to testimony of the Camden Police Officer, that Appellant was never inside the house after he appeared and was arrested at the front door of the residence and was therefore never in the position to have made the statement relating- to this gun. The sole purpose of this testimony, a somewhat risky strategy at best, was to raise doubts in the minds of the jury with respect to their credibility determination as to whether the confessions were ever made by Appellant and to suggest the idea that they might have been fabricated by the Philadelphia homicide detectives. During cross-examination of Detective Rosenstein, the court permitted the Commonwealth to elicit the out of court statement of Appellant\u2019s girlfriend which attributed ownership of the bag and the gun to Appellant. Detective Rosenstein testified, over defense objection, that as the police were leaving the house with Appellant, the girlfriend stated that \u201cif you are going to take him, you might as well take that bag because that\u2019s his bag, that\u2019s his clothes in there.\u201d In the bag was the .32 caliber gun in question. Ballistics tests on the spent bullets found in Pat\u2019s bar after the shooting could not link those bullets to any specific .32 caliber weapon including the one recovered from the house in New Jersey, and the jury was made aware of this on cross-examination of Detective Rosenstein by the Commonwealth.\nAppellant argued that the trial court erred in permitting the Commonwealth to elicit from Detective Rosenstein the exact statement of Appellant\u2019s girlfriend because said statement constituted inadmissible hearsay. The trial court rejected this argument on the grounds 1) that the scope of proper cross-examination not only extends to subjects covered on direct examination, but also includes a companion right to examine on facts tending to refute inferences or deductions arising from the direct examination; and 2) that the challenged evidence was not hearsay because it fell under the \u201cexcited utterance\u201d exception to the hearsay rule. Appellant renews his argument on appeal claiming that it was error to introduce inadmissible hearsay to establish a connection between Appellant and the possible murder weapon. We find that no such error occurred.\nAppellant, on defense, raised the question of the credibility of the Philadelphia Police detectives and in doing so, took the risk that the jury would credit additional damaging evidence against him if they believed Detective Rosenstein. The Detective\u2019s testimony that Appellant said words to the effect that, \u201cthat\u2019s not the gun you want,\u201d or \u201cthat\u2019s not the right gun\u201d would likely be taken to mean that Appellant was on terms of intimate familiarity with this gun and that he either had guilty knowledge of where the right gun might be or that his words evinced a desperate attempt to divert the police away from what was in fact the right gun. It would not take too great a leap of imagination for the jury to conclude that it was Appellant's gun and clothes that were seized at the scene of the arrest \u2014 if Detective Rosenstein\u2019s testimony was believed. Subsequent events showed that the jury treated the question of credibility of the Philadelphia detectives with appropriate seriousness. During the midst of their deliberations they sent a question to the trial judge in which they inquired whether the Camden police were present during the taking of either confession. (N.T. 1057-1060). In that light, we think it was perfectly proper to allow the jury to hear, on cross-examination, the girlfriend\u2019s exact words that had been referred to only indirectly on direct examination (\u201cas a result of words uttered by his girlfriend ..., etc.,\u201d see above). As a general rule, it is elementary that a party is entitled on cross-examination to bring out every circumstance relating to a fact which an adverse witness is called to prove. Peters v. Shear, 351 Pa. 521, 41 A.2d 556 (1945). In criminal cases, the right of cross-examination extends beyond the subjects testified to in direct testimony and includes the right to examine a witness on any facts tending to refute inferences or deductions arising from matters testified to on direct examination Commonwealth v. Lopinson, 427 Pa. 284, 234 A.2d 552 (1967), vacated on other grounds, 392 U.S. 647, 88 S.Ct. 2277, 20 L.Ed.2d 1344 (1968). In Kaplan v. Loev, 327 Pa. 465, 194 A. 653 (1937), cert. denied, 302 U.S. 766, 58 S.Ct. 477, 82 L.Ed. 595, we cited 70 C.J.S. 813, 1020 with approval as follows:\nAs bearing on his credibility, a witness may be cross-examined as to inconsistent acts or conduct generally, acts or conduct inconsistent with his testimony, or omissions on his part which tend to discredit him.\n327 Pa. at 467, 194 A. 653.\nIt follows, of course that eliciting admissions from a witness who had been called on direct to show he was lying, all for the purpose of reestablishing the truth of his testimony (as the Commonwealth was trying to do here), is also generally permissible. In Kaplan v. Loev we added the following, however:\nBut we think in the proper administration of justice it would not be proper under the cover of this principle to permit the vehicle of cross-examination to be used to convey to the jury a circumstance highly prejudicial to one of the parties which could not directly be placed before the trier of fact. Such an impropriety in the use of cross-examination should be within the control of the trial judge, in the exercise of his impartial judicial discretion.\n327 Pa. at 467-468, 194 A. 653.\nIt is clear that the girlfriend\u2019s words were elicited here for the purposes of bolstering the credibility of Detective Rosenstein, the issue initially raised by Appellant in so dramatic a way. They add verisimilitude to a narrative abbreviated in detail. In this context it is clear they were introduced for the purpose of showing that these words were in fact uttered, and not for the purpose of establishing their underlying truth (as to whether the gun and clothes really belonged to Appellant). Hence, they were not hearsay. \u201cTestimony as to an out-of-court statement is not hearsay if offered to prove, not that the content of the statement was true, but that the statement was made.\u201d Commonwealth v. Sampson, 454 Pa. 215, 219, 311 A.2d 624, 626 (1973). However, because they might have had the indirect effect of prejudicing Appellant by conveying to the jury hearsay evidence that Appellant was the owner of the gun seized (hearsay because the girlfriend was not called to testify), it was the job of the trial court to weigh the potentially prejudicial effect of this testimony on Appellant against the need of the Commonwealth to introduce the statement to reestablish Detective Rosenstein\u2019s credibility. Evidence which is logically relevant should be excluded where the trial court determines, in its discretion, that its probative value is outweighed by unfair prejudice that would result from its admission. Commonwealth v. Hickman, 453 Pa. 427, 309 A.2d 564 (1973). Based on our review of the record, we think that the trial judge did weigh these competing factors and properly concluded, in a sound exercise of discretion, that the minimal prejudicial effect on Appellant was outweighed by the Commonwealth\u2019s need to fully explore the credibility issue raised by Appellant himself. We agree with the trial judge and we will not disturb his conclusion on this point. The issue of Appellant\u2019s likely connection with this gun was first opened-up by Appellant\u2019s trial strategy. Any additional harm generated by having his girlfriend\u2019s words repeated before the jury was minimal at best.\nIll\nAppellant next cites two incidents of prosecutorial misconduct which he contends were so prejudicial and inflammatory that a new trial is required. We do not agree.\nA\nThe first incident of prosecutorial misconduct arose in connection with the testimony of Detective Rosenstein relating to the incident which he said occurred in the residence in Camden during which a .32 caliber gun was found and Appellant made contemporaneous declarations relating to it. As discussed above, the defense had presented this evidence in order to contrast it with the testimony of the Camden police officer who indicated that this entire incident could not have occurred. It was thereby suggested to the jury that the story of the seizure of the gun was fabricated by the same Philadelphia homicide detectives who claimed Appellant subsequently gave two confessions admitting his participation in this crime. In the defense\u2019s closing argument to the jury, counsel argued that the jury should consider the fact that the Commonwealth did not introduce this information concerning the finding of the .32 caliber gun and Appellant\u2019s alleged comments because it was clear from independent evidence of the Camden police officer that the incident never occurred. Appellant\u2019s counsel invited the prosecutor to explain why he did not introduce this important evidence if it was for some other reason than that the Philadelphia detective\u2019s account was a fabrication which would impact on his credibility, not only as to the gun incident, but as to the confessions as well. Defense counsel stated: \u201cBut he didn\u2019t present it to you, maybe he\u2019ll tell you why he didn\u2019t.\u201d (N.T. 818) The prosecutor responded to the defense challenge not by giving affirmative reasons for withholding evidence of the gun and its seizure, but rather argued that he had told defense counsel and the judge his reasons for not introducing this evidence during a sidebar conference and that the reasons he had given at sidebar were other than the reasons suggested by defense counsel. The prosecutor\u2019s (Mr. McGill\u2019s) exact comments were as follows:\nAs a result, ladies and gentlemen, also of what Mr. Franzel [defense counsel] \u2014 and this is something that I should point out, and this is something that he knows very well \u2014 is that there was a lengthy side-bar conference, when we go back there and you are walking around in back, in the other room \u2014 he asked why did you not put in the circumstances surrounding the arrest? Well, part and parcel of the circumstances around the arrest was the seizure of this loaded .32 caliber nickel-plated silver small weapon. And clearly made as a matter of record by me in the presence of Mr. Franzel and Judge Latrone was that I would not put in my case anything to do with the particular weapon, that I would not put the weapon in my case. I made that a matter of record and very clear \u2014 for reasons other than the reasons suggested by Mr. Franzel.\nMR. FRANZEL: Objection.\nMR. McGILL: It was a question of evidence.\nMR. FRANZEL: Objection.\nMR. McGILL: He asked for a response and he is going to get it\nTHE COURT: All right. Get up and take a little walk around.\n(A short recess was taken.)\n(N.T. 865-6)\nDefense counsel immediately objected to this argument and moved for a mistrial. The court denied the Motion for Mistrial but did strenuously instruct the jury on two separate occasions to disregard the prosecutor\u2019s comment. The prosecutor never returned to this precise issue during his closing. Appellant contends that this argument by the prosecutor was clearly improper and that the prejudice created thereby would not be cured by instructions from the court. We disagree.\nIn his decision rejecting Appellant\u2019s post-trial motions, the trial court judge explained that at prior sidebar conferences the prosecutor had stated that he had made a strategic decision not to offer Detective Rosenstein as a witness in order to explain the facts and circumstances of Green\u2019s arrest and the confiscation of the handgun. The reason for this omission was that there was insufficient ballistics evidence to establish that the two spent bullets confiscated from the deceased\u2019s body and the crime scene wall had been fired from the confiscated handgun. Our review of the record also reveals that in a part of Appellant\u2019s signed statement taken after his second confession in Philadelphia, he was asked what he could tell the detectives about the gun taken from the house in Camden, and he replied, \u201cI didn\u2019t know you got that gun. It ain\u2019t mine. It\u2019s my niece\u2019s. I have been holding it for her.\u201d (N.T. 538). This section of the confession was not introduced into evidence by the Commonwealth at trial and the whole matter was discussed at a side bar conference during the Commonwealth\u2019s presentation of their case-in-chief (N.T. 538). The prosecutor obviously made his strategic decision based either on the inability to directly link the seized gun to the crime, or in anticipation of credibility problems with the two Philadelphia detectives, or both. This was his right.\nIt is clear that the challenged prosecutorial comments quoted above were invited responses to earlier comments from defense counsel\u2019s summation. The trial court concluded that, as a consequence, it would have been perfectly proper for the prosecutor to have argued that he had not presented the evidence alluded to in defense summation because he had made a strategic decision that it was weak or unimportant. The trial court concluded, however, that the summation comments that such reasons had been presented by the prosecutor at a sidebar conference were inappropriate and improper since reference was being made to facts outside the record. ABA Standards for Criminal Justice, Prosecution Function, 5.9 (Approved Draft, 2d Ed.1982), See, Id., 5.8(a); Commonwealth v. Joyner, 469 Pa. 333, 365 A.2d 1233 (1976). Consequently, the trial court ruled that the invited response argument could not be used as a justification for the denial of a mistrial. Nonetheless, the trial court judge ruled that he had properly denied the defense mistrial motion since he had delivered prompt and adequate cautionary instructions which negated and eradicated any possible prejudice which could have arisen from the challenged prosecutorial comments.\nPrior to the presentation of evidence in this case, the Court delivered its accustomed preliminary instructions which advised the jury that sidebar conferences were conducted for specific purposes, that they were not to concern themselves with the time and frequency of such conferences, and that matters discussed in such conferences pertained to legal issues with which they were not to be concerned. Furthermore, in two separate instances following the prosecutor\u2019s comments at issue here, the Court cautioned and advised the jury that they were to ignore and disregard the prosecutor\u2019s summation comments regarding the matters discussed at the sidebar conference to which he had referred. Finally, almost identical instructions concerning sidebar conferences were included in the court\u2019s final charge. The trial judge concluded that, clearly, all of these preliminary, interim, and final charge instructions served to eradicate any possible prejudice which might have arisen from the challenged remarks of the prosecutor. After a review of the whole record, we are constrained to agree.\nAs we held in Commonwealth v. D'Amato, 514 Pa. 471, 526 A.2d 300 (1987), \u201cnot every intemperate or uncalled for remark by the prosecutor requires a new trial.\u201d 526 A.2d at 309. \u201cFurthermore, the prejudicial effect of the prosecutor\u2019s remarks must he evaluated in the context in which they occurred.\u201d Id. Like D\u2019Amato, there was some overzealousness on both sides here in the \u201cheat of battle\u201d incident to the adversarial system, but the trial judge properly instructed the jury in every instance to ignore improprieties. In that connection, we again must cite with approbation observations made by Chief Justice Burger in United States v. Young, 470 U.S. 1, 105 S.Ct. 1038, 1044, 84 L.Ed.2d 1 (1985), wherein he states for the court:\n[Our] standards reflect a consensus of the profession that the courts must not lose sight of the reality that \u201c[a] criminal trial does not unfold like a play with actors following a script.\u201d Geders v. United States, 425 U.S. 80, 86, 96 S.Ct. 1330, 1334, 47 L.Ed.2d 592 (1976). It should come as no surprise that \u201cin the heat of argument, counsel do occasionally make remarks that are not justified by the testimony, and which are, or may be, prejudicial to the accused.\u201d Dunlop v. United States, 165 U.S. 486, 498, 17 S.Ct. 375, 379, 41 L.Ed. 799 (1897).... Nevertheless, a criminal conviction is not to be lightly overturned on the basis of a prosecutor\u2019s comments standing alone, for the statement or conduct must be viewed in context; only by so doing can it be determined whether the prosecutor\u2019s conduct affected the fairness of the trial.\n526 A.2d 310.\nThe remarks of the prosecutor here were invited. They were somewhat confusing, and the jury could just as easily infer that the prosecutor had something contrary to his interests to hide as something beneficial. The error was an isolated error, unlike Commonwealth v. Joyner, supra, and was quickly and vigorously corrected, more than once, by the court. The decision whether a mistrial should be granted as a result of improper prosecutorial comments during closing is within the sound discretion of the trial court. Commonwealth v. D\u2019Ambro, 500 Pa. 303, 456 A.2d 140 (1983). Based on our review of the totality of the circumstances of this trial, we do not believe that the unavoidable effect of the prosecutor\u2019s comments was prejudicial to Appellant such that it was an abuse of discretion not to grant a mistrial.\nB\nA second allegation of misconduct arises from the prosecutor\u2019s closing argument at the guilt stage where he argued the finality of an acquittal and the reviewability of a conviction. During his closing argument, the Assistant District Attorney stated:\nThe power that you have, extraordinary and important. Acquit: he goes. Again, if convicted \u2014 obviously there is a certain amount of finality. There is always the possibility that on appeal it may be reversed and a new trial, but there is a certain amount of finality to that also.\n(N.T. 829).\nThese remarks were relatively mild compared to those made at the guilt stage in Commonwealth v. Baker, 511 Pa. 1, 511 A.2d 777 (1986), where we found that no prejudicial error had occurred. To the same effect are our decisions in Commonwealth v. West, 518 Pa. 120, 541 A.2d 739 (1988); Commonwealth v. Abu-Jamal, 521 Pa. 188, 555 A.2d 846 (1989). Abu-Jamal, in particular, leaves no doubt that these comments are not a basis for relief. The prosecutor in that case was the same person as as here and used almost identical words at the guilt phase. There, as here, the defense did not object to the comments. There, as here, the trial court nonetheless gave the jury instructions that the arguments of counsel were not evidence or statements of law and that the Commonwealth labored under the burden of proving guilt beyond a reasonable doubt or the jury was to acquit. Accordingly, the comments were not prejudicial, and we find no reversible error here either that would require a new trial.\nIV\nAt the sentence portion of trial, the defense presented the testimony of Prison Correctional Officer Brian Carroll and Captain Harry E. Moore. They testified as to their personal contact with Appellant in prison during the six months prior to his trial and about a number of occasions on which Appellant had acted to improve prison life for other inmates and that he had been instrumental in securing the safety of both guards and inmates. They testified that Appellant had provided valuable information to prison officials that resulted in the confiscation of weapons and drugs and that he provided advance information which enabled prison officials to abort inmate planned riots and other acts of violence, and which led to the uncovering of extortion within the prison inmates. Officer Carroll testified that on several occasions when physical confrontations occurred inside the prison, Appellant had come to the assistance of correction officers in separating the individuals involved and in resolving the problem. Both officials testified that in rendering this assistance, Appellant placed his own life in danger within the institution, and that his actions were valuable, rare and exceptional in comparison with those of most inmates. The testimony of these two witnesses was the sole evidence in mitigation presented by Appellant and, of course, it was proper and relevant under 42 Pa.C.S.A. \u00a7 9711(e)(8). See also, Skipper v. South Carolina, 476 U.S. 1, 106 S.Ct. 1669, 90 L.Ed.2d 1 (1986), where the Court vacated a death sentence because at the penalty phase testimony was excluded from two jailers and a visitor to the jail to the effect that the defendant had made a good adjustment during his time in jail. The U.S. Supreme Court reasoned that the exclusion of evidence bearing on a defendant\u2019s behavior in jail, and hence, upon his likely future behavior in prison, might affect a jury\u2019s decision to impose a death sentence.\nAs rebuttal evidence at the penalty stage, and over repeated defense objections, the trial court permitted the Commonwealth to introduce the testimony of Philadelphia Deputy Sheriff Daniel Boyer who testified to a conversation he had allegedly had with an unidentified inmate in the Sheriffs cellroom on the day prior to the sentencing hearing. Sheriff Boyer stated that he had been working the City Hall cellroom and was approached by an inmate who \u201cpointed out Mr. Green [Appellant] to me in the cell block and he informed me that Mr. Green was recruiting other inmates to help take hostages on the cell block.\u201d (N.T. 1208). Appellant\u2019s motion for a mistrial was denied.\nWe find that this hearsay evidence was improperly admitted at the sentencing hearing and that it improperly prejudiced Appellant by providing a basis for the jury to reject Appellant\u2019s sole mitigation evidence and a basis to decline to find a mitigating circumstance in Appellant\u2019s favor under our sentencing statute.\nRegardless of whether this accusation from the unnamed inmate was relevant rebuttal evidence (as the trial court held), and regardless of whether it constituted proper contradictory reputation evidence admissible in rebuttal (as the trial court also held), it was blatantly unreliable hearsay. As we indicated earlier in this opinion, \u201cTestimony as to an out-of-court statement is not hearsay if offered to prove, not that the content of the statement was true, but that the statement was made.\u201d Commonwealth v. Sampson, 454 Pa. 215, 219, 311 A.2d 624, 626 (1973). The opposite is also obviously true, that testimony of an out-of-court statement is hearsay if offered to prove that the content of the statement was true. See, Johnson v. Peoples Cab Co., 386 Pa. 513, 126 A.2d 720 (1956). Commonwealth v. Baez, 494 Pa. 388, 431 A.2d 909 (1981). Here, it is obvious that this testimony was introduced to prove that Appellant actually was planning to take hostages and disrupt the jail facilities as the alleged inmate allegedly charged. It was obviously hearsay evidence, and improperly admitted under our long standing and well recognized rules of evidence. It does not come under any of the exceptions to the hearsay rule. Hearsay of this sort is unreliable for three reasons: 1) the out-of-court declarant was not under oath; 2) the jury did not have the opportunity to observe the demeanor of the out-of-court declarant; and 3) the out-of-court declarant was not subject to cross-examination. Commonwealth v. White, 271 Pa. Superior Ct. 552, 414 A.2d 391 (1979). The inability of Appellant to cross-examine this inmate was particularly blatant error here because Appellant\u2019s right to confront and cross-examine witnesses against him, as guaranteed by the Sixth Amendment and Article 1, Section 9, of the Pennsylvania Constitution, was effectively denied. On this point, see, Gardner v. Florida, 430 U.S. 349, 97 S.Ct. 1197, 51 L.Ed.2d 393 (1987); Proffitt v. Wainwright, 685 F.2d 1227 (11th Cir.1982), cert. denied, 464 U.S. 1002, 104 S.Ct. 508, 78 L.Ed.2d 697; Beltran v. State, 728 S.W.2d 382 (Tex.Cr. App.1987).\nIn short, we conclude that this evidence was improperly admitted and may have led the jury into determining that no mitigating circumstances were present. Had the jury found a mitigating circumstance, it might have found that it outweighed the two aggravating circumstances found and returned a life sentence. Because of this error, we cannot know how the jury would have found and the sentence of death must be vacated and the matter remanded for a new sentencing hearing pursuant to 42 Pa.C.S. \u00a7 9711(h)(4).\nIt is so ordered.\n\u00d1\u00cdX, C.J., and ZAPPALA, J., concur in the result.\n. 42 Pa.C.S. \u00a7 9711(a)(1) provides:\n(a) Procedure in jury trials\u2014\n(1) After a verdict of murder of the first degree is recorded and before the jury is discharged, the court shall conduct a separate sentencing hearing in which the jury shall determine whether the defendant shall be sentenced to death or life imprisonment.\n. At all times relevant to this case, 42 Pa.C.S. \u00a7 9711(h) has provided:\n(h) Review of death sentence\u2014\n(1) A sentence of death shall be subject to automatic review by the Supreme Court of Pennsylvania pursuant to its rules.\n. The jury was informed of this plea bargain prior to Garner\u2019s testimony.\n. When instructing the jury, the trial judge, the Honorable Robert A. Latrone, properly pointed out that as an accomplice Garner\u2019s testimony was to be disfavored because it came from a corrupt and polluted source.\n. The warrant was subsequently provided to the New Jersey police before Appellant\u2019s arrest in New Jersey.\n. While the reasons are not clear from this record, we find it incredible and scandalous that Appellant was not formally sentenced for more than four years after his trial and conviction. This kind of delay makes a mockery of the criminal justice system and undermines the deterrent effect of criminal sentencing.\n. The Act is also adopted in Pennsylvania at 42 Pa.C.S. \u00a7\u00a7 9121-9148.\n. This section is based on \u00a7 14 of the Uniform Criminal Extradition Act, 11 Uniform Laws Annotated, Master Ed., and is virtually identical to 42 Pa.C.S. \u00a7 9135.\n. See, United States v. Leon, 468 U.S. 897, 104 S.Ct. 3405, 82 L.Ed.2d 677 (1984), reh. den., 468 U.S. 1250, 105 S.Ct. 52, 82 L.Ed.2d 942.\n. New Jersey Rules Governing Criminal Procedure, Section 3:4-l(a) requires that a \"person making an arrest without a warrant shall take the arrested person, without unnecessary delay, before the nearest available committing judge____\u2019\u2019 The same \"without unnecessary delay\" language can be found in Pa.R.Crim.P. 122 and 130. We have interpreted our rules to mean that even if arraignment takes place more than six hours after arrest, any confession not coerced or obtained through any other illegality is admissible if it was obtained within the first six hours following the arrest. Commonwealth v. Hughes, 521 Pa. 423, 555 A.2d 1264 (1989). The principles explained at some length in Harris, supra, dealing with unnecessary delay obviously were not violated here. See also, 18 U.S.C. \u00a7 3501(c).\n. The Pennsylvania police detectives, of course, bore no responsibility for the events that occurred in New Jersey. See, Smith v. Lamm, 629 F.Supp. 1184 (D.C.Col., 1986).\n. To the effect that waiver of extradition rights in New Jersey must be explicit, see, State v. Maglio, 459 A.2d 1209, 189 N.J.Super. 257 (1983).\n. What occurred here is analogous to what happened in State v. Jones, 705 S.W.2d 19 (Mo. banc 1986) where a defendant voluntarily entered an Illinois police station and was thereupon detained. He confessed and was then extradited to Missouri. The confession was held not be have been tainted by an arrest without probable cause because none was necessary under those circumstances for the detention and questioning.\n. There is no requirement that arraignment occur before any interrogation is initiated. Compare with McNabb v. United States, 318 U.S. 332, 63 S.Ct. 608, 87 L.Ed. 819 (1943); and Mallory v. United States, 354 U.S. 449, 77 S.Ct. 1356, 1 L.Ed.2d 1479 (1957).\n. Section 15 of the Uniform Criminal Extradition Act; 42 Pa.C.S. \u00a7 9136 is virtually identical.\n. Section 16 of the Uniform Criminal Extradition Act; 42 Pa.C.S. \u00a7 9137 is virtually identical.\n. Section 25-A of the Uniform Criminal Extradition Act; 42 Pa.C.S. \u00a7 9146 is virtually identical.\n. See also, United States v. Binder, 769 F.2d 595 (C.A.Ariz., 1985); and see other cases decided under Fed.R.Crim.P. 5 to the effect that waiver of Miranda rights constitutes waiver of the right to be promptly brought before a magistrate, e.g., U.S. v. Barlow, 693 F.2d 954 (C.A.Mich., 1982), cert. denied, 461 U.S. 945, 103 S.Ct. 2124, 77 L.Ed.2d 1304.\n. 11 Uniform Laws Annoted, Master Ed., 1989 Supp. This draft statute is designed to replace the Uniform Criminal Extradition Act under discussion, but, to date, has only been adopted in South Dakota.\n. Even if we were to reach the opposite result and rule that the Uniform Act had been violated because of a failure to have Appellant waive his rights before a judge, it is difficult to see how Appellant\u2019s second confession would be tainted thereby. As noted above, such a hypothetical statutory dereliction would not be unconstitutional or a deprivation of a fundamental right in our view. The Pennsylvania authorities were not responsible for a New Jersey\u2019s police derelictions. Smith v. Lamm, supra. Once in Pennsylvania, Appellant was properly under the jurisdiction of the Pennsylvania authorities. Shack v. Attorney General of State of Pennsylvania, 776 F.2d 1170 (C.A.Pa., 1985). There, interrogation of appellant in Pennsylvania was perfectly proper in and of itself. We can conceive of no theory under which Appellant\u2019s confession in Pennsylvania was the tainted fruit of illegal police action.\n. (e) Mitigating circumstances \u2014 Mitigating circumstances shall include the following: ...\n(8) Any other evidence of mitigation concerning the character and record of the defendant and the circumstances of his offense.\n. The full text of the transcript setting forth this \"rebuttal evidence\u201d reveals the following:\n... DEPUTY SHERIFF DANIEL C. ROYER, NO. 152, Philadelphia, Pa., sworn ...\nDIRECT EXAMINATION\nBY MR. McGILL [Prosecutor]:\nQ. Sheriff, what are your present duties?\nA. Transporting inmates from county to county and from prison to City Hall.\nQ. Have you had occasion to see this defendant?\nA. Yes.\nQ. I am now referring to this Wednesday, the Wednesday of this week, which would be November 10th.\nDid you have occasion to have a conversation with an inmate regarding this defendant?\nA. Yes.\nQ. Would you tell the jury the substance of that conversation?\nMR. FRANZEL [Defense Counsel]: Objection. Hearsay. Clear hearsay, inadmissible hearsay, improper hearsay.\nTHE COURT: Sustained. Just let him explain as the result of what he was told, what actions\u2014\nMR. McGILL: Everything yesterday was hearsay and he was permitted\u2014\nMR. FRANZEL: Objection.\nTHE COURT: All right. Don\u2019t argue.\nBY MR. McGILL:\nQ. Sheriff, do you know other people that know this defendant?\nA. Yes.\nQ. And do you know, based on what they have said to you, what his reputation is for being cooperative, of assistance, orderly, and interested in the safeguard and precautions of everyone in the cell block and the guards?\nMR. FRANZEL: Objection. Improperly framed character question.\nTHE COURT: The same evidence you introduced. Overruled.\nMR. FRANZEL: Directly from the witnesses who saw it and observed Mr. Green.\nTHE COURT: All right. This is evidence that you introduced. All right. Overruled.\nA. Bad.\nQ. And tell the jury on what that is based.\nA. Well, Wednesday morning, Wednesday just past\u2014\nMR. FRANZEL: Objection. Hearsay.\nTHE COURT: I don\u2019t even know what he is going to say.\nMR. FRANZEL: I\u2019m objecting to the answer as hearsay, telling what somebody else told him.\nTHE COURT: All right. I will hold it under advisement.\nI will strike it if it is improper. I don\u2019t know what it is.\nA. Should I continue?\nBY MR. McGILL:\nQ. You may answer.\nA. I was assigned to the cell block, Room 759, City Hall.\nI was working on the block, which we house the majority of the inmates that are brought in county prison and out of county prison. I was approached by an inmate approximately 9:10, 9:15 a.m., and this inmate, in turn, pointed out Mr. Green to me in the cell block, and he informed me that Mr. Green was recruiting other inmates to help take hostages on the cell block.\nI immediately reported this to my captain, and we subsequently moved Mr. Green to another area, where he was by himself.\nMR. McGILL: Cross-examine.\nCROSS-EXAMINATION\nBY MR. FRANZEL:\nQ. Sheriff Boyer, do you even know the name of this person who told you these things?\nA. No.\nQ. Did you see Mr. Green doing anything, yourself?\nA. No.\nQ. In fact, you don\u2019t know, yourself, whether or not what you were told was true or not, do you?\nA. No.\nQ. You don\u2019t know, yourself, whether the other inmate had some interest in getting to Mr. Green or having action taken against Mr. Green, do you?\nA. No.\nMR. FRANZEL: Thank you, sir.\nMR. McGILL: Nothing further.\n(Witness excused)\nMR. McGILL: Commonwealth rests, Your Honor, on rebuttal.\nMR. FRANZEL: I move for a mistrial based on the hearsay that was just introduced.\n. In view of our conclusion that a new sentencing hearing is required, it is unnecessary for us to consider the two additional issues raised by Appellant challenging the sentencing procedure.",
+        "type": "majority",
+        "author": "PAPADAKOS, Justice."
+      }
+    ],
+    "attorneys": [
+      "Bruce A. Franzel, Philadelphia, for appellant.",
+      "Gaele McLaughlin Barthold, Deputy Dist. Atty., Ronald Eisenberg, Chief, Appeals Div., Alan Sacks, Robert A. Graci, Chief, Deputy Atty. Gen., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "581 A.2d 544\nCOMMONWEALTH of Pennsylvania, Appellee, v. William GREEN, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 23, 1989.\nDecided Sept. 19, 1990.\nBruce A. Franzel, Philadelphia, for appellant.\nGaele McLaughlin Barthold, Deputy Dist. Atty., Ronald Eisenberg, Chief, Appeals Div., Alan Sacks, Robert A. Graci, Chief, Deputy Atty. Gen., for appellee.\nBefore NIX, C.J., and LARSEN, FLAHERTY, McDermott, zappala and papadakos, jj."
+  },
+  "file_name": "0424-01",
+  "first_page_order": 672,
+  "last_page_order": 714
+}

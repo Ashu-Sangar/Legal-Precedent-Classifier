@@ -1,0 +1,106 @@
+{
+  "id": 12278501,
+  "name": "Daryl COOK, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Cook v. Commonwealth",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 140 EM 2016",
+  "first_page": "760",
+  "last_page": "760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "638 Pa. 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "158 A.3d 1239"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "27 A.3d 994",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4203144,
+        7280770
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that hybrid presentation is not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/611/0437-01",
+        "/a3d/27/0994-01"
+      ]
+    },
+    {
+      "cite": "611 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4203144
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that hybrid presentation is not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/611/0437-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 564,
+    "ocr_confidence": 0.551,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2489473324506564
+    },
+    "sha256": "979d0609924636b53ee202c35e1131f5d6c839f48d12d1fd35f03a424e47e4c1",
+    "simhash": "1:880c31ad63118524",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T18:13:35.762268+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daryl COOK, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent"
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 11th day of October, 2016, the Application for Leave to File Original Process, the Petition for Writ of Habeas Corpus or Writ of Mandamus, and the Motion for Speedy Release or Relief are DISMISSED. See Commonwealth v. Cooper, 611 Pa. 437, 27 A.3d 994 (2009) (explaining that hybrid presentation is not permitted). The Prothonotary is DIRECTED to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "158 A.3d 1239\nDaryl COOK, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent\nNo. 140 EM 2016\nSupreme Court of Pennsylvania.\nOctober 11, 2016"
+  },
+  "file_name": "0760-01",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

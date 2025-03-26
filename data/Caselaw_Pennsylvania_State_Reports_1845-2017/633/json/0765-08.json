@@ -1,0 +1,70 @@
+{
+  "id": 12283447,
+  "name": "Com. v. McBride",
+  "name_abbreviation": "Com. v. McBride",
+  "decision_date": "2015-09-29",
+  "docket_number": "228 EAL (2015)",
+  "first_page": "765",
+  "last_page": "765",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 765"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1065",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.888,
+    "sha256": "9b2652fe0d5cfeeae1120fdb80f36558dcf1d3bf5979d4b34bf2245ebce95d09",
+    "simhash": "1:2a0260308a784170",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. McBride"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1065",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. McBride\n09/29/2015\n228 EAL (2015)"
+  },
+  "file_name": "0765-08",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

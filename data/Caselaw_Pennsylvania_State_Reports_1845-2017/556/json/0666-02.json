@@ -1,0 +1,106 @@
+{
+  "id": 607223,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Maurice PRICE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Price",
+  "decision_date": "1999-05-28",
+  "docket_number": "Petition No. 592 E.D. Alloc. Dkt. 1998",
+  "first_page": "666",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "556 Pa. 666"
+    },
+    {
+      "type": "parallel",
+      "cite": "730 A.2d 959"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "672 A.2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461476,
+        461606,
+        7359343,
+        461590,
+        7359095,
+        7359165
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0449-01",
+        "/pa/543/0447-01",
+        "/a2d/672/0769-03",
+        "/pa/543/0448-01",
+        "/a2d/672/0769-01",
+        "/a2d/672/0769-02"
+      ]
+    },
+    {
+      "cite": "543 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461476
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 528,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.02152635153632509
+    },
+    "sha256": "3974df177e294c350bb547691d2b252cf4ca8f0c20d048ad0c66721c784f4d4c",
+    "simhash": "1:d5aa32a0f1ff0d76",
+    "word_count": 88
+  },
+  "last_updated": "2024-02-27T17:54:55.560527+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice CASTILLE dissents."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Maurice PRICE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "AMENDED ORDER\nPER CURIAM.\nAND NOW, this 28 th day of May 1999, the petition for allowance of appeal is granted. The order of the Superior Court is reversed and the judgment of sentence is vacated because the common pleas court erred in failing to grant the motion to suppress filed on behalf of Maurice Price. See Commonwealth v. Matos, 543 Pa. 449, 672 A.2d 769 (1996).\nJustice CASTILLE dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "730 A.2d 959\nCOMMONWEALTH of Pennsylvania, Respondent, v. Maurice PRICE, Petitioner.\nSupreme Court of Pennsylvania.\nMay 28, 1999."
+  },
+  "file_name": "0666-02",
+  "first_page_order": 786,
+  "last_page_order": 787
+}

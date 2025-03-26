@@ -1,0 +1,97 @@
+{
+  "id": 1817502,
+  "name": "COMMONWEALTH of Pennsylvania, BOARD OF PROBATION & PAROLE, Petitioner, v. Gary G. POUNDS, Respondent",
+  "name_abbreviation": "Commonwealth v. Pounds",
+  "decision_date": "1989-05-18",
+  "docket_number": "Petition No. 158 M.D.Alloc.Dkt.1987",
+  "first_page": "541",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "521 Pa. 541"
+    },
+    {
+      "type": "parallel",
+      "cite": "558 A.2d 859"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Pa. 182",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815596
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0182-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 180",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1360346
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/106/0466-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 575,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06758328381307173
+    },
+    "sha256": "2c0d938d4abef7465ec6b5604abd1cec871ea6c7a096e20e601440247e949451",
+    "simhash": "1:bd9ea095ab09b98a",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T17:56:34.143528+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "STOUT, J., did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, BOARD OF PROBATION & PAROLE, Petitioner, v. Gary G. POUNDS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition of the Board of Probation and Parole is granted; the decision of the Commonwealth Court, 106 Pa.Cmwlth. 466, 527 A.2d 180, is vacated in light of this Court\u2019s decision in Commonwealth v. Threats, 520 Pa. 182, 553 A.2d 906 (1989); and the matter is remanded to the Commonwealth Court for reconsideration.\nSTOUT, J., did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "558 A.2d 859\nCOMMONWEALTH of Pennsylvania, BOARD OF PROBATION & PAROLE, Petitioner, v. Gary G. POUNDS, Respondent.\nSupreme Court of Pennsylvania.\nMay 18, 1989."
+  },
+  "file_name": "0541-01",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

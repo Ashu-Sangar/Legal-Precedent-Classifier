@@ -1,0 +1,70 @@
+{
+  "id": 12281134,
+  "name": "Com. v. Baer",
+  "name_abbreviation": "Com. v. Baer",
+  "decision_date": "2015-12-29",
+  "docket_number": "373 WAL (2015)",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 69",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 137,
+    "ocr_confidence": 0.741,
+    "sha256": "d40da9bc0bafae46ed0b457010b3f18220550f2ce3e29672db7fb8e9654df5c7",
+    "simhash": "1:6f5b23cdbb0fb3c6",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Baer"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 69",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Baer\n12/29/2015\n373 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0732-02",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

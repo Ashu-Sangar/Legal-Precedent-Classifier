@@ -1,0 +1,108 @@
+{
+  "id": 1723878,
+  "name": "COMMONWEALTH of Pennsylvania v. Alphonso JACKSON, Appellant",
+  "name_abbreviation": "Commonwealth v. Jackson",
+  "decision_date": "1977-04-28",
+  "docket_number": "Appeal No. 69",
+  "first_page": "218",
+  "last_page": "219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "470 Pa. 218"
+    },
+    {
+      "type": "parallel",
+      "cite": "368 A.2d 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "460 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482932
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/460/0031-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 138,
+    "char_count": 1216,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06486343412299327
+    },
+    "sha256": "a3c6f7680a987679facf1f872c6dfbdc86ef10cb68799078da4a7ae457e9a0db",
+    "simhash": "1:fba7eae8c24973f9",
+    "word_count": 186
+  },
+  "last_updated": "2024-02-27T22:33:10.457235+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ.",
+      "JONES, former C. J., did not participate in the consideration or decision of this case.",
+      "ROBERTS, J., filed a concurring opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Alphonso JACKSON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nPER CURIAM:\nJudgment of sentence affirmed.\nJONES, former C. J., did not participate in the consideration or decision of this case.\nROBERTS, J., filed a concurring opinion.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      },
+      {
+        "text": "ROBERTS, Justice,\nconcurring.\nAppellant raises the following claims: (1) his admissions to the police after his arrest should have been suppressed because (a) they were obtained in violation of Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966) and (b) they were involuntary; and (2) the evidence was insufficient to support the verdict of voluntary manslaughter.\nHis first claim has been waived because it was not raised in written post-trial motions. Commonwealth v. Blair, 460 Pa. 31, 331 A.2d 213 (1975). The record demonstrates that the second claim is without merit. Therefore, I agree that judgment of sentence should be affirmed.",
+        "type": "concurrence",
+        "author": "ROBERTS, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Richard E. Johnson, Philadelphia, for appellant.",
+      "F. Emmett Fitzpatrick, Dist. Atty., Steven H. Goldblatt, Asst. Dist. Atty., Chief, Appeals Div., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "368 A.2d 271\nCOMMONWEALTH of Pennsylvania v. Alphonso JACKSON, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted Jan. 10, 1977.\nDecided April 28, 1977.\nRichard E. Johnson, Philadelphia, for appellant.\nF. Emmett Fitzpatrick, Dist. Atty., Steven H. Goldblatt, Asst. Dist. Atty., Chief, Appeals Div., for appellee.\nBefore EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0218-01",
+  "first_page_order": 258,
+  "last_page_order": 259
+}

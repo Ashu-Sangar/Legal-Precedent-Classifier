@@ -1,0 +1,96 @@
+{
+  "id": 706315,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Norman WALKER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Walker",
+  "decision_date": "2001-08-29",
+  "docket_number": "Petition No. 156 E.D. Allocatur Docket 2001",
+  "first_page": "235",
+  "last_page": "235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 235"
+    },
+    {
+      "type": "parallel",
+      "cite": "780 A.2d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "766 A.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11137112,
+        1276731
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/766/0342-01",
+        "/pa/564/0219-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 219",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276731
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0219-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 535,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.02578393566574731
+    },
+    "sha256": "1b7a58777a9ef6df87b1709d89dcdbfe437b7fc8c31b001ad609ed129bf43b83",
+    "simhash": "1:777d479385f92cb6",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Norman WALKER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 29th day of August, 2001, the Petition for Allowance of Appeal is hereby GRANTED, LIMITED to the issue of whether the Superior Court\u2019s analysis was in accord with the standard enunciated in Commonwealth v. Torres, 564 Pa. 219, 766 A.2d 342 (2001), the Order of the Superior Court is VACATED, and the matter is REMANDED for reconsideration in light of the Torres decision.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "780 A.2d 603\nCOMMONWEALTH of Pennsylvania, Respondent, v. Norman WALKER, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 29, 2001."
+  },
+  "file_name": "0235-02",
+  "first_page_order": 345,
+  "last_page_order": 345
+}

@@ -1,0 +1,694 @@
+{
+  "id": 1072911,
+  "name": "Kinter, Appellant, v. Commonwealth Trust Co., Exr., et al.",
+  "name_abbreviation": "Kinter v. Commonwealth Trust Co.",
+  "decision_date": "1922-05-25",
+  "docket_number": "Appeal, No. 10",
+  "first_page": "436",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "274 Pa. 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "199 Pa. 486",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        922727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/199/0486-01"
+      ]
+    },
+    {
+      "cite": "152 U. S. 547",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3574734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/152/0547-01"
+      ]
+    },
+    {
+      "cite": "106 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3498981
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/106/0391-01"
+      ]
+    },
+    {
+      "cite": "101 U. S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Pa. 173",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032330
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/73/0173-01"
+      ]
+    },
+    {
+      "cite": "198 Pa. 173",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        920254
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/198/0173-01"
+      ]
+    },
+    {
+      "cite": "244 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1003448
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/244/0228-01"
+      ]
+    },
+    {
+      "cite": "167 Pa. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        866795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/167/0136-01"
+      ]
+    },
+    {
+      "cite": "252 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/252/0283-01"
+      ]
+    },
+    {
+      "cite": "160 U. S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701161,
+        5701625
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/160/0171-01",
+        "/us/160/0171-02"
+      ]
+    },
+    {
+      "cite": "179 Pa. 146",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        887021
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/179/0146-01"
+      ]
+    },
+    {
+      "cite": "143 U. S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138766
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/143/0224-01"
+      ]
+    },
+    {
+      "cite": "269 Pa. 332",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/269/0332-01"
+      ]
+    },
+    {
+      "cite": "173 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        875935
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/173/0001-01"
+      ]
+    },
+    {
+      "cite": "269 Pa. 225",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063523,
+        1063549
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/269/0225-01",
+        "/pa/269/0225-02"
+      ]
+    },
+    {
+      "cite": "158 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        848193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/158/0204-01"
+      ]
+    },
+    {
+      "cite": "10 Pa. Dist. R. 59",
+      "category": "reporters:state",
+      "reporter": "Pa. D.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Pa. 20",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        969058
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/18/0020-01"
+      ]
+    },
+    {
+      "cite": "139 Pa. 534",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        11252278
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/139/0534-01"
+      ]
+    },
+    {
+      "cite": "203 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994659
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/203/0102-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9504969
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/24/0429-01"
+      ]
+    },
+    {
+      "cite": "120 U. S. 377",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3469395
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/120/0377-01"
+      ]
+    },
+    {
+      "cite": "155 U. S. 448",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3581581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/155/0448-01"
+      ]
+    },
+    {
+      "cite": "173 U. S. 38",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8297636
+      ],
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/173/0038-01"
+      ]
+    },
+    {
+      "cite": "268 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061530
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/268/0228-01"
+      ]
+    },
+    {
+      "cite": "101 U. S. 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5631229
+      ],
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/101/0135-01"
+      ]
+    },
+    {
+      "cite": "12 Pa. Superior Ct. 577",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        823346
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/12/0577-01"
+      ]
+    },
+    {
+      "cite": "69 U. S. 87",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299905
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/69/0087-01"
+      ]
+    },
+    {
+      "cite": "13 Pa. Superior Ct. 316",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        825511
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/13/0316-01"
+      ]
+    },
+    {
+      "cite": "187 Pa. 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        900281
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/187/0186-01"
+      ]
+    },
+    {
+      "cite": "100 Md. 672",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2067035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/100/0672-01"
+      ]
+    },
+    {
+      "cite": "52 S. E. 635",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Va. 826",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        8697715
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/104/0826-01"
+      ]
+    },
+    {
+      "cite": "230 Fed. 658",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6742290
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/230/0658-01"
+      ]
+    },
+    {
+      "cite": "166 U. S. 637",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3592774
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/166/0637-01"
+      ]
+    },
+    {
+      "cite": "244 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        983314
+      ],
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/155/0349-01"
+      ]
+    },
+    {
+      "cite": "10 Pa. Superior Ct. 61",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        819412
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/10/0061-01"
+      ]
+    },
+    {
+      "cite": "29 Pa. Superior Ct. 142",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        860190
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/29/0142-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. Superior Ct. 339",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        849804
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/24/0339-01"
+      ]
+    },
+    {
+      "cite": "77 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        436279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/77/0228-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 173",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Pa. Superior Ct. 546",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        643300
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/73/0546-01"
+      ]
+    },
+    {
+      "cite": "215 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        927453
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/204/0053-01"
+      ]
+    },
+    {
+      "cite": "263 Pa. 521",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047432
+      ],
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/263/0521-01"
+      ]
+    },
+    {
+      "cite": "93 U. S. 55",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645785
+      ],
+      "pin_cites": [
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/93/0055-01"
+      ]
+    },
+    {
+      "cite": "152 U. S. 547",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3574734
+      ],
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/152/0547-01"
+      ]
+    },
+    {
+      "cite": "106 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3498981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/106/0391-01"
+      ]
+    },
+    {
+      "cite": "252 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021617
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/252/0283-01"
+      ]
+    },
+    {
+      "cite": "160 U. S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701161,
+        5701625
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/160/0171-01",
+        "/us/160/0171-02"
+      ]
+    },
+    {
+      "cite": "173 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        875935
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/173/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 829,
+    "char_count": 13927,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 1.2059408629598092e-06,
+      "percentile": 0.987800253991642
+    },
+    "sha256": "72d6db99d661e60fa1a1e57aa7210c6b0f039854d6fa1c7d614969fc979797dd",
+    "simhash": "1:37b02fc464963b08",
+    "word_count": 2435
+  },
+  "last_updated": "2024-02-27T20:47:24.669427+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, Walling, Simpson, Kephart, Sadler and Schaefer, JJ."
+    ],
+    "parties": [
+      "Kinter, Appellant, v. Commonwealth Trust Co., Exr., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Walling,\nThis action in equity is to set aside a sale of corporate stock, on the ground of fraud, and for an accounting. The Harrisburg Pipe and Pipe Bending Company is a manufacturing corporation located at Harrisburg, in which the plaintiff, J. Carroll Kinter, became a stockholder in 1908, to the extent of twenty shares of common stock of the par value of $50 a share. It was then and for seven years thereafter a going concern but paid no dividends on such stock and became badly involved. From prior to 1914, to 1920 the defendant D. E. Tracy, was president, the defendant William T. Hildrup, Jr., was secretary, treasurer and general manager, and the defendant William P. Starkey, was general superintendent, of the company; they were also directors and large stockholders. In February, 1915, its agent in London secured a large war contract, and the effect of plaintiff\u2019s averment is, inter alia, that on receipt of this contract, with prospects of additional like contracts, the three corporate officers above named conspired to keep from the other stockholders knowledge of this important business while they secured options on as much as possible of the outstanding common stock. To that end Hildrup sent a circular letter to the stockholders containing certain false and misleading statements, and also a blank agreement for a one-year option upon the stock, at par value, which, induced by the false statements, plaintiff executed and returned to Hildrup, for his twenty shares of stock. Hildrup having elected to take the stock under the option, it was formally transferred to him on December 22, 1915. Plaintiff further avers that his stock was in fact bought for the joint interest of Hildrup, Tracy and Starkey, who received thereon as dividends, from May 16, 1916, to December, 1918, sums amounting in all to $9,500. Hildrup died in May, 1920, and on March 3,1921, this bill was filed jointly against his executor, and Tracy and Starkey, praying for a decree ordering the return to plaintiff of his stock and the $9,500 received as dividends thereon, less the $1,000 paid him for the stock, averring ignorance, until October, 1920, of the fraud practiced upon him. Defendant\u2019s demurrer to plaintiff\u2019s bill interposing laches, inter alia, as a defense, was sustained by the court below and a final decree entered dismissing the bill; from which plaintiff brought this appeal.\nThe decree must be affirmed on the ground of laches and it is unnecessary to consider other questions. He who would rescind a contract by reason of fraud must act promptly (Grymes v. Sanders, 93 U. S. 55, 62; Wood v. Wood, 263 Pa. 521, 526; Hilliard et al. v. Wood Carving Co., 173 Pa. 1; Dunn v. Columbia Nat. Bank, 204 Pa. 53; Muehlhof v. Boltz, 215 Pa. 125; Automobile Finance Co. v. Rosenheim, 73 Pa. Superior Ct. 546), and when the facts are not disputed the question of an unreasonable delay is one of law: Leaming et al. v. Wise et al., 78 Pa. 173; Morgan v. McKee, 77 Pa. 228; Spiegelberg v. Karr, 24 Pa. Superior Ct. 339; Scale Co. v. Woodward, 29 Pa. Superior Ct. 142; Acetylene Co. v. Smith, 10 Pa. Superior Ct. 61. A contract induced by fraud is valid unless the party defrauded elects to rescind it within a reasonable time: Howard, Receiver, v. Turner, 155 Pa. 349, 357. In the instant case, for nearly six years after plaintiff gave the option and five years after he transferred the stock, he remained silent and inert. Meantime the situation of the parties had entirely changed by the death of Hildrup, who transacted the business with plaintiff and was conversant with all the facts. As to this, the trial court pertinently says: \u201cThe death of Hildrup materially changed the conditions so far as Tracy and Starkey are concerned. The dealings between the plaintiff and the defendants were all through Hildrup. He would necessarily be a most important witness. His mouth is sealed by death. He is not here either to defend himself, or the others, against the charges of fraud. His evidence is denied to the defendants because of the delay of the plaintiff in bringing his bill. The condition of the defendants has become so changed that it cannot be restored and it is extremely doubtful whether they could produce evidence necessary to a fair presentation of the case on their part.\u201d Equity will not lend its aid to one who has slept upon his rights until the original transaction is obscured by lapse of years and death of parties: see Dalzell v. Lewis, 252 Pa. 283; Taylor v. Coggins, 244 Pa. 229; Whitney v. Fox, 166 U. S. 637; Naylor v. Foreman Blades Lumber Co., 230 Fed. 658; Selden\u2019s Exr. v. Kennedy, 104 Va. 826; s. c. 52 S. E. 635; Ripple v. Kuehne, 100 Md. 672, s. c. Atl. 464. Or as cogently stated by Lord Campbell, in Bright v. Legerton, 2 D. F. & J. p. 617, \u201cA court of equity will not allow a dormant claim to be set up when the means of resisting it, if unfounded, have perished\u201d: and see Inlew v. Christy, 187 Pa. 186.\nBut plaintiff avers lie did not discover the fraud until October, 1920. This general averment is insufficient, he is not only chargeable with what he knew but also with what he could have discovered by reasonable diligence. \u201cNothing can call a court of chancery into activity but conscience, good faith and reasonable diligence\u201d: Rice, P. J., in Goggins v. Risley, 13 Pa. Superior Ct. 316. \u201cIt is an inherent doctrine of equity jurisprudence that nothing less than conscience, good faith, and reasonable diligence can call courts of equity into activity, and that they will not grant aid to a litigant who has negligently slept on his rights and suffered his demand to become stale where injustice would be done by granting the relief asked. It is therefore a general rule that laches or staleness of demand constitutes a defense to the enforcement of the right or demand so neglected......The doctrine is based in part on' the injustice that might result from the enforcement of long neglected rights, and the difficulty, if not the impossibility of ascertaining the truth of the matters in controversy and doing justice between the parties, and in part on grounds of public policy, its aim being the discouragement, for the peace and repose of society, of stale and antiquated demands\u201d: 21 C. J. 212, 214. Such has ever been the English rule. In Smith v. Clay (3 Bro. C. C. 639, n.), Lord Camden said (1767) : \u201cA court of equity, which is never active in relief in matters against conscience or public convenience, has always refused its aid to stale demands, where the party has slept upon his rights and acquiesced for a great length of time. Nothing can call forth this court into activity but conscience, good faith, and reasonable diligence; where these are wanting the court is passive and does nothing. Laches and neglect are always discountenanced, and therefore, from the beginning of this jurisdiction, there was always a limit to suits in this court.\u201d\nThe burden here was upon plaintiff to set out such facts as would excuse his laches; yet he does not attempt to do so. He makes no claim that he sought information from any officer, stockholder or employee of the company or from any other source. Furthermore, he does not inform us how he came to the belated knowledge of the fraud, or why he could not have discovered it before, or what means were taken to conceal it; these are fatal omissions: see Badger v. Badger, 69 U. S. 87. \u201cIt is well settled that a party who seeks to avoid the consequences of an apparently unreasonable delay in the assertion of his rights on the ground of ignorance must allege and prove, not merely the fact of ignorance, but also when and how knowledge was obtained, in order that the court may determine whether reasonable effort was made by him to ascertain the facts\u201d: Hardt v. Heidweyer, 152 U. S. 547, 558. A bare allegation of ignorance is not sufficient: Marble Co. v. Wiggins, 12 Pa. Superior Ct. 577. The gravamen of plaintiff\u2019s complaint is the fraudulent concealment of munition contracts; yet at the annual meeting on December 11, 1915, a statement was delivered to him and other stockholders showing that the projectile department of the company, for the year ending October 31, 1915, had made sales to the amount of $1,280,790.25. This knowledge came to plaintiff eleven days before he delivered his stock and was ample to put him on notice that the company had war contracts (see Wood v. Carpenter, 101 U. S. 135, 141). The same statement showed net earnings for the year of over $378,000. With these facts and more before him and living in the locality, it was plaintiff\u2019s own fault if he was ignorant of what the company was doing, even if the officers failed to put the war contracts upon the books. In the language of the lower court: \u201cWhen he (plaintiff) learned, he investigated; but he did not investigate, to learn; and he did not learn until October, 1920, what an investigation might have disclosed long before. This [averment in the bill] amounts to nothing more than a general allegation of ignorance at one time and knowledge at another. He states when he learned, but does not state how or what he learned, or in what manner or by what inquiries the knowledge first came to him. He gives no facts or circumstances and does not show why the discovery could not have been made sooner. \u2018He was put upon inquiry as to the bona fides of the sale by the open and notorious facts of the case\u2019 shown by the report and the activity of the plant.\u201d As stated by Chief Justice Brown in Edwards v. Western Maryland Ry. Co., 268 Pa. 228, 230: \u201cThe question of laches does not depend, as does the statute of limitations, upon the fact that a certain definite time has elapsed since the cause of action accrued, but whether, under the circumstances of the particular case, plaintiff is chargeable with want of due diligence in failing to institute or prosecute his proceeding: Townsend v. Vanderwerker, 160 U. S. 171\u201d; and see McIntire v. Pryor, 173 U. S. 38, 59; Alsop v. Riker, 155 U. S. 448.\nWhere, as here, the facts appear upon the face of the bill, the question of laches is properly raised by demurrer : Speidel v. Henrici, 120 U. S. 377; Lansdale v. Smith, 106 U. S. 391.\nThe decree is affirmed and the appeal is dismissed at the costs of appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Walling,"
+      }
+    ],
+    "attorneys": [
+      "J. W. Swartz, of Swartz, Swartz & Swartz, with him Beidleman & Hull, for appellant.",
+      "Owen J. Roberts and Charles L. Bailey, Jr., with them William S. Snyder and Charles II. Bergner, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Kinter, Appellant, v. Commonwealth Trust Co., Exr., et al.\nEquity \u2014 Laches \u2014 Contract \u2014 Fraud \u2014 Discovery \u2014 Pleading\u2014 Averment of concealment, etc. \u2014 Demurrer.\n1. A contract induced by fraud is valid unless the party elects to rescind it -within a reasonable time; when the facts are undisputed, the question of an unreasonable delay, is one of law.\n2. Where a person is fraudulently induced by three others to sell his stock in a.corporation and remains silent and inert for nearly six years after he gave his option and five years after he transferred his stock, he is, under the facts of this case, guilty of such laches as will bar him from relief in equity; and this is especially so where one of the three purchasers has in the meantime died, and it appears that he would have been an important witness for himself and the survivors.\n3. In such case a mere general averment by plaintiff that he did not discover the fraud until a year before he filed his bill is insufficient. He must go further and show whether he took any steps to secure information, how he came to the belated knowledge of the fraud, why he could not have discovered it before, or what means were taken to conceal it.\n4. Nothing can call a court of equity into activity, but conscience, good faith and reasonable diligence.\n5. The question of laches does not depend, as does the statute of limitations, upon the fact that a certain definite time has elapsed since the cause of action occurred, but whether, under the circumstances of the particular case, plaintiff is chargeable with want of due diligence in failing to institute or prosecute his proceeding.\n6. Where the facts appear on the face of the bill, the question of laches is properly raised by demurrer.\nArgued April 19,1922.\nAppeal, No. 10, May T., 1922, by plaintiff, from decree of C. P. Daupbin Co., No. 684, Equity Docket, dismissing bill in equity, in case of J. Carroll Kinter y. Commonwealth Trust Co., Executor of William T. Hildrup, Jr., deceased, D. E. Tracy and William P. Starkey, and St. Stephen\u2019s Protestant Episcopal Church of Harrisburg, Pa., Florence Nightingale Hildrup, and Commonwealth Trust Co., Trustee.\nBefore Frazer, Walling, Simpson, Kephart, Sadler and Schaefer, JJ.\nAffirmed.\nDemurrer to bill in equity to set aside sale of corporate stock, and for accounting. Before Hargest, P. J.\nThe opinion of the Supreme Court states the facts.\nBill dismissed. Plaintiff appealed.\nError assigned, inter alia, was decree, quoting it.\nJ. W. Swartz, of Swartz, Swartz & Swartz, with him Beidleman & Hull, for appellant.\nPlaintiff is not guilty of laches in bringing his suit: Todd\u2019s App., 24 Pa. 429; Altoona, etc., R. C. v. R. R., 203 Pa. 102; Phila. Trust, etc. Ins. Co. v. Coal, etc., Co., 139 Pa. 534; Hamilton v. Hamilton, 18 Pa. 20; Corbett\u2019s Est., 10 Pa. Dist. R. 59; Sutton v. Morgan, 158 Pa. 204; Wilson v. Brown, 269 Pa. 225; Hilliard v. Wood Carving Co., 173 Pa. 1; Montgomery Bros. v. Montgomery, 269 Pa. 332; Hammond v. Hopkins, 143 U. S. 224; Bennett v. McMillin, 179 Pa. 146; Townsend v. Vanderwerker, 160 U. S. 171; Dalzell v. Lewis, 252 Pa. 283.\nOwen J. Roberts and Charles L. Bailey, Jr., with them William S. Snyder and Charles II. Bergner, for appellees.\nBill shows plaintiff is debarred of any relief by his gross laches: Scranton Gas & Water Co. v. Iron & Coal Co., 167 Pa. 136; Taylor v. Coggins, 244 Pa. 228; Smith v. Blachley, 198 Pa. 173; Leaming v. Wise, 73 Pa. 173; Wood v. Carpenter, 101 U. S. 140; Landsdale v. Smith, 106 U. S. 391; Hardt v. Heidweyer, 152 U. S. 547; Nerve Food Co. v. Robertson, 199 Pa. 486; Hammond v. Hopkins, 143 U. S. 224.\nMay 25, 1922:"
+  },
+  "file_name": "0436-01",
+  "first_page_order": 460,
+  "last_page_order": 467
+}

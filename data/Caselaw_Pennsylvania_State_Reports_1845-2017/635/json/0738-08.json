@@ -1,0 +1,70 @@
+{
+  "id": 12282923,
+  "name": "Com. v. Brown",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2016-03-22",
+  "docket_number": "653 EAL (2015)",
+  "first_page": "738",
+  "last_page": "738",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 738"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 493",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.854,
+    "sha256": "35536069937eacc4870c74b29c9f19b9696fe1e066f40623fd1eb2a754d9ad0c",
+    "simhash": "1:8207aaaa816a4881",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Brown"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 493",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Brown\n03/22/2016\n653 EAL (2015)"
+  },
+  "file_name": "0738-08",
+  "first_page_order": 798,
+  "last_page_order": 798
+}

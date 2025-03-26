@@ -1,0 +1,70 @@
+{
+  "id": 12281343,
+  "name": "Com. v. Battle",
+  "name_abbreviation": "Com. v. Battle",
+  "decision_date": "2015-09-23",
+  "docket_number": "693 MAL (2014)",
+  "first_page": "747",
+  "last_page": "747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 747"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "106 A.3d 168",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.853,
+    "sha256": "2ddef5d60c552852aba46c786e6b39ab4b9c3694ed9242f7ec910be79e441037",
+    "simhash": "1:1a84668c1deec03b",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Battle"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 106 A.3d 168",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Battle\n09/23/2015\n693 MAL (2014)"
+  },
+  "file_name": "0747-08",
+  "first_page_order": 801,
+  "last_page_order": 801
+}

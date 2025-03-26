@@ -1,0 +1,592 @@
+{
+  "id": 1734089,
+  "name": "COMMONWEALTH of Pennsylvania v. Jason BHILLIPS a/k/a John Joseph Gergel, Appellant",
+  "name_abbreviation": "Commonwealth v. Bhillips",
+  "decision_date": "1977-12-01",
+  "docket_number": "No. 71",
+  "first_page": "427",
+  "last_page": "441",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "475 Pa. 427"
+    },
+    {
+      "type": "parallel",
+      "cite": "380 A.2d 1210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "464 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1710349
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/464/0117-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174728
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/390/0570-01"
+      ]
+    },
+    {
+      "cite": "465 Pa. 529",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1712662
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "539-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/465/0529-01"
+      ]
+    },
+    {
+      "cite": "274 U.S. 220",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        81134
+      ],
+      "weight": 3,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/274/0220-01"
+      ]
+    },
+    {
+      "cite": "368 U.S. 487",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173883
+      ],
+      "weight": 3,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/368/0487-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 238",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1771759
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0238-01"
+      ]
+    },
+    {
+      "cite": "400 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12045986
+      ],
+      "weight": 7,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "31"
+        },
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/400/0025-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 742",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058257
+      ],
+      "weight": 12,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "747"
+        },
+        {
+          "page": "1468"
+        },
+        {
+          "page": "756"
+        },
+        {
+          "page": "748"
+        },
+        {
+          "page": "1468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0742-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 510",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767501
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/391/0510-01"
+      ]
+    },
+    {
+      "cite": "254 A.2d 22",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 1
+    },
+    {
+      "cite": "434 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1922621
+      ],
+      "year": 1969,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/434/0393-01"
+      ]
+    },
+    {
+      "cite": "272 A.2d 182",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 1
+    },
+    {
+      "cite": "441 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1933900
+      ],
+      "year": 1971,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/441/0255-01"
+      ]
+    },
+    {
+      "cite": "290 A.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "447 Pa. 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1942972
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/447/0186-01"
+      ]
+    },
+    {
+      "cite": "282 A.2d 266",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 1
+    },
+    {
+      "cite": "444 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1938618
+      ],
+      "year": 1971,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/444/0588-01"
+      ]
+    },
+    {
+      "cite": "90 S.Ct. 1474",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "1483"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "397 U.S. 798",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "816"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "397 U.S. 790",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058675
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/397/0790-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 510",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1968,
+      "opinion_index": 1
+    },
+    {
+      "cite": "475 Pa. 343",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1734123
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/475/0343-01"
+      ]
+    },
+    {
+      "cite": "382 A.2d 442",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1736920
+      ],
+      "year": 1977,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/476/0223-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 759",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058501
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "769"
+        },
+        {
+          "page": "1448"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/397/0759-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C.A. \u00a7 1201",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "168 U.S. 532",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141481
+      ],
+      "weight": 6,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "page": "542-43"
+        },
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/168/0532-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174728
+      ],
+      "weight": 13,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "583"
+        },
+        {
+          "page": "1217"
+        },
+        {
+          "page": "582"
+        },
+        {
+          "page": "1216"
+        },
+        {
+          "page": "581"
+        },
+        {
+          "page": "1216"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/390/0570-01"
+      ]
+    },
+    {
+      "cite": "465 Pa. 529",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1712662
+      ],
+      "weight": 4,
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/465/0529-01"
+      ]
+    },
+    {
+      "cite": "400 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12045986
+      ],
+      "weight": 7,
+      "year": 1970,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/400/0025-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 742",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058257
+      ],
+      "weight": 13,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "752-53"
+        },
+        {
+          "page": "1471",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "751-52"
+        },
+        {
+          "page": "1471"
+        },
+        {
+          "page": "753"
+        },
+        {
+          "page": "1471"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/397/0742-01"
+      ]
+    },
+    {
+      "cite": "400 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12045986
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/400/0025-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 742",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058257
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/397/0742-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1118,
+    "char_count": 31157,
+    "ocr_confidence": 0.772,
+    "pagerank": {
+      "raw": 2.746875086133934e-07,
+      "percentile": 0.8324160983902923
+    },
+    "sha256": "73795f3762e7434066244e3bbd29da9b36e1c48f1564cb76aa36559815a6a6cd",
+    "simhash": "1:378ae5fcaf29bff6",
+    "word_count": 5218
+  },
+  "last_updated": "2024-02-27T19:16:18.997843+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ.",
+      "ROBERTS, J., files a dissenting opinion in which MANDERINO, J., joins.",
+      "MANDERINO, J., files a dissenting opinion.",
+      "JONES, former C. J., took no part in the consideration or decision of this case.",
+      "MANDERINO, J., joins in this dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Jason BHILLIPS a/k/a John Joseph Gergel, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nO\u2019BRIEN, Justice.\nAppellant, John Joseph Gergel, was tried by a judge and convicted of murder in the first degree, criminal attempt-escape and aggravated assault. Post-verdict motions were denied and appellant was sentenced to life imprisonment for the murder conviction, with concurrent terms of three and one-half to seven years for the other convictions. This appeal followed.\nThe facts are as follows. On December 15,1974, appellant was arrested in connection with a burglary investigation and placed in the Monroe County Jail. A recent escapee from a New Jersey prison, appellant had used an alias of Jason Bhillips. On December 16, appellant asked to be allowed to make a phone call. Once out of his cell, he pulled a large steel mop bucket handle from his trousers and began beating the two guards accompanying him. One of the guards, Samuel VanAuken, died of a skull fracture.\nAppellant raises one issue on this appeal. He claims that he was denied his right to trial by jury under the provisions of the Sixth Amendment to the federal constitution because \u00a7 1311 of the Crimes Code provided for the imposition of the death penalty in a jury trial under certain circumstances, but no such provision was applicable to either nonjury trials or guilty pleas. Assuming this to be correct, we do not agree with appellant\u2019s position.\nThe Crimes Code provides, inter alia:\n\u201c(d) Aggravating and mitigating circumstances. \u2014 If a murder of the first degree is accompanied by at least one of the following aggravating circumstances and none of the following mitigating circumstances, the person convicted shall be sentenced to death. If a murder of the first degree is not accompanied by any of the following aggravating circumstances or is accompanied by at least one of the following mitigating circumstances the person convicted shall be sentenced to life imprisonment:\n\u201c(1) Aggravating circumstances:\n\u201c(i) The victim was a fireman, peace officer or public servant concerned in official detention as defined in section 5121 of this title (relating to escape), who was killed in the performance of his duties.\n\u201c(ii) The defendant paid or was paid by another person or had contracted to pay or be paid by another person or had conspired to pay or be paid by another person for the killing of the victim.\n\u201c(in) The victim was being held by the defendant for ransom or reward, or as a shield or hostage.\n\u201c(iv) The death of the victim occurred while defendant was engaged in the hijacking of an aircraft.\n\u201c(v) The victim was a witness to a murder or other felony committed by the defendant and was killed for the purpose of preventing his testimony against the defendant in any grand jury or criminal proceeding involving such offenses.\n\u201c(vi) The defendant committed a killing while in the perpetration of a felony.\n\u201c(vii) In the commission of the offense the defendant knowingly created a grave risk of death to another person in addition to the victim of the offense.\n\u201c(viii) The offense was committed by means of torture.\n\u201c(ix) The defendant has been convicted of another Federal or State offense, committed either before or at the time of the offense at issue, for which a sentence of life imprisonment or death was imposable or the defendant was undergoing a sentence of life imprisonment for any reason at the time of the commission of the offense. \u201c(2) Mitigating circumstances:\n\u201c(i) The age, lack of maturity, or youth of the defendant at the time of the killing.\n\u201c(ii) The victim was a participant in or consented to the defendant\u2019s conduct as set forth in section 1311(d) of this title or was a participant in or consented to the killing.\n\u201c(iii) The defendant was under duress although not such duress as to constitute a defense to prosecution under section 309 of this title (relating to duress).\n\u201c(e) Guilty pleas and non-jury trials. \u2014 In cases of pleas of guilty, or trial by court, the court shall impose sentence in accordance with Rules of Criminal Procedure as promulgated by the Supreme Court of Pennsylvania.\u201d Act of December 6, 1972, P.L. 1482, No. 334, amended December 30,1974, P.L. 1052, No. 345, 18 P.S. \u00a7 1311. (Emphasis added.)\nBecause appellant killed a \u201cpublic servant concerned in official detention,\u201d while no mitigating circumstances were present, appellant could very well have been sentenced to death for the murder. This fact, however, is of no moment to appellant.\nIn Brady v. United States, 397 U.S. 742, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970) and North Carolina v. Alford, 400 U.S. 25, 91 S.Ct. 160, 27 L.Ed.2d 162 (1970), the United States Supreme Court dealt with arguments identical with that which is raised by appellant. In both cases, the defendants argued that their guilty pleas were coerced by a fear of death. In Alford, 400 U.S. at 31, 91 S.Ct. at 164, the court stated:\n\u201cWe held in Brady v. United States, 397 U.S. 742, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970), that a plea of guilty which would not have been entered except for the defendant\u2019s desire to avoid a possible death penalty and to limit the maximum penalty to life imprisonment or a term of years was not for that reason compelled within the meaning of the Fifth Amendment. Jackson established no new test for determining the validity of guilty pleas. The standard was and remains whether the plea represents a voluntary and intelligent choice among the alternative courses of action open to the defendant. See Boykin v. Alabama, 395 U.S. 238, 242, 89 S.Ct. 1709, 23 L.Ed.2d 274 (1969); Machibroda v. United States, 368 U.S. 487, 493, 82 S.Ct. 510, 7 L.Ed.2d 473 (1962); Kercheval v. United States, 274 U.S. 220, 223, 47 S.Ct. 582, 71 L.Ed. 1009 (1927). That he would not have pleaded except for the opportunity to limit the possible penalty does not necessarily demonstrate that the plea of guilty was not the product of a free and rational choice, especially where the defendant was represented by competent counsel whose advice was that the plea would be to the defendant\u2019s advantage. . . . \u201d\nThis court, in Commonwealth v. Melton, 465 Pa. 529, 539-40, 351 A.2d 221 (1976), adhered to the reasoning of Brady, supra, and Alford, supra :\n\u201cThat U. S. v. Jackson, 390 U.S. 570, 88 S.Ct. 1209, 20 L.Ed.2d 138 (1968), is entitled to no broader reading is evident from the Supreme Court\u2019s decision in Brady v. U. S. [supra]. The Court there declined to order the vacation of a guilty plea shown to have been induced by fear of the jury-imposed death penalty permitted under the provision of the Federal Kidnapping Act and found unconstitutional in Jackson. The Court stressed that Jackson \u2018neither fashioned a new standard for judging the validity of guilty pleas nor mandated a new application of the test theretofore fashioned by courts and since reiterated that guilty pleas are valid if both \u201cvoluntary\u201d and \u201cintelligent.\u201d \u2019 397 U.S. at 747, 90 S.Ct. at 1468, 25 L.Ed.2d at 756. Again, in North Carolina v. Alford, [supra], the Court said:\n\u2018That [a defendant] would not have pleaded except for the opportunity to limit the possible penalty does not necessarily demonstrate that the plea of guilty was not the product of a free and rational choice, especially where the defendant was represented by competent counsel whose advice was that the plea would be to the defendant\u2019s advantage.\u2019\n\u201cWe believe the present case to be controlled by these decisions. Appellant has failed to demonstrate that his confession was not voluntary and intelligent; the mere fact that he alleges that it was induced by fear of the imposition of the death penalty by a supposedly \u2018hanging jury\u2019 is, by itself, insufficient to vitiate the plea.\u201d\nHere, appellant argues only that his waiver of his Sixth Amendment right to trial by jury was coerced because of the fear of a possible death sentence. Brady and Alford establish, however, that this alone is insufficient to show that a waiver was unknowing or involuntary, the standard test to be used when the waiver of a constitutional right is involved.I. ***\nJudgment of sentence affirmed.\nROBERTS, J., files a dissenting opinion in which MANDERINO, J., joins.\nMANDERINO, J., files a dissenting opinion.\nJONES, former C. J., took no part in the consideration or decision of this case.\n. Only the murder conviction has been appealed.\n. Pa.R.Crim.P. 352 was promulgated to handle possible death sentences when a plea of guilty is entered. Rule 353 was likewise promulgated for those instances where jury trial was waived. Neither rule, however, was in effect at the time of appellant\u2019s trial.\n. See footnote 2, supra.\n. Although Brady and Alford dealt with guilty pleas as opposed to a waiver of jury trial, we believe their reasoning is persuasive. In Brady, 397 U.S. at 748, 90 S.Ct. at 1468, the court stated:\n\u201cThat a guilty plea is a grave and solemn act to be accepted only with care and discernment has long been recognized. Central to the plea and the foundation for entering judgment against the defendant is the defendant\u2019s admission in open court that he committed the acts charged in the indictment. He thus stands as a witness against himself and he is shielded by the Fifth Amendment from being compelled to do so \u2014 hence the minimum requirement that his plea be the voluntary expression of his own choice. But the plea is more than an admission of past conduct; it is the defendant\u2019s consent that judgment of conviction may be entered without a trial \u2014 a waiver of his right to trial before a jury or a judge. Waivers of constitutional rights not only must be voluntary but must be knowing, intelligent acts done with sufficient awareness of the relevant circumstances and likely consequences.\u201d (Footnotes omitted.) (Emphasis added.)\nAs the court has demonstrated, a guilty plea contains a waiver of jury trial plus much more. Any reasoning concerning a guilty plea would thus be applicable to a situation where fewer constitutional rights are involved.\n. As appellant has advanced only one theory to challenge the constitutionality of our sentencing procedure, only that theory need be considered. Commonwealth v. Mitchell, 464 Pa. 117, 346 A.2d 48 (1975).",
+        "type": "majority",
+        "author": "O\u2019BRIEN, Justice."
+      },
+      {
+        "text": "ROBERTS, Justice,\ndissenting.\nAppellant\u2019s decision to be tried by a judge, rather than a jury, was coerced by an unconstitutional sentencing scheme which exposed appellant to the possibility of a mandatory death sentence if, and only if, he exercised his constitutional right to trial by jury. Such a sentencing scheme constitutes \u201can impermissible burden upon the assertion of a constitutional right.\u201d United States v. Jackson, 390 U.S. 570, 583, 88 S.Ct. 1209, 1217, 20 L.Ed.2d 138 (1968). Because appellant\u2019s decision was in fact the result of this improper influence, it cannot be held voluntary as required by the United States Constitution. Bram v. United States, 168 U.S. 532, 18 S.Ct. 183, 42 L.Ed. 568 (1897). Accordingly, judgment of sentence should be reversed and appellant granted a new trial.\nI.\nAppellant was indicted for criminal homicide as a result of the December 16, 1974, death of Samuel VanAuken. The victim was a prison guard at the Monroe County Jail and was allegedly killed by appellant, who was incarcerated in the jail on a burglary charge, in an escape attempt. The Crimes Code requires a sentence of death upon conviction of murder of the first degree and a finding that the victim was a peace officer killed in the performance of his duties and that no mitigating circumstances exist. 18 Pa.C.S.A. \u00a7 1311(d)(1)(i) (Supp.1977). However, at the time appellant was brought to trial no rules existed which would authorize imposition of a sentence of death after a guilty plea or a waiver of the right to trial by jury. See 18 Pa.C.S.A. \u00a7 1311(e) (Supp.1977). Consequently, appellant could only receive a sentence of death if he exercised his constitutional right to a trial by jury.\nThe majority does not dispute that it was with this fact in mind that appellant waived his right to trial by jury. Appellant contends that the death penalty sentencing scheme as it existed when he pleaded guilty on March 31, 1975, under which a defendant could only be sentenced to death if the defendant elected to be tried by a jury, placed an unconstitutional pressure upon him to waive his right to trial by jury. See United States v. Jackson, 390 U.S. 570, 88 S.Ct. 1209, 20 L.Ed.2d 138 (1968). Because this unconstitutional scheme coerced appellant to waive his right to trial by jury, he asserts that his waiver was not truly voluntary and must be set aside.\nThe majority, without contending that the sentencing scheme as it existed when appellant was brought to trial was constitutional, nevertheless holds that appellant\u2019s waiver of his constitutional right to a trial by jury was voluntary. The majority relies upon cases which hold that a plea of guilty is not rendered involuntary when it may have been induced in part by fear of receiving a sentence of death after trial, even if the statute authorizing a sentence of death is later held unconstitutional. See North Carolina v. Alford, 400 U.S. 25, 91 S.Ct. 160, 27 L.Ed.2d 162 (1970); Brady v. United States, 397 U.S. 742, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970). See also Commonwealth v. Melton, 465 Pa. 529, 351 A.2d 221 (1976). Even if this Court feels compelled to follow Brady and Alford, they do not support the result reached by the majority. Many factors enter into a decision by a defendant to enter a plea of guilty, and important reasons exist for not disturbing such a plea, particularly when the defendant has been represented and advised by competent counsel. When, however, a defendant is unwilling to admit his guilt and exercises his undoubted right to put the Commonwealth to its proof, there can be no justification for holding as \u201cvoluntary\u201d the waiver of the right to trial by jury when that waiver was admittedly compelled by a patently unconstitutional sentencing scheme. The decision of the majority reflects an insensitive regard for the basic principle that the waiver of a constitutional right must be voluntary, and not the result of impermissible coercion.\nII.\nThere can be little doubt that the sentencing scheme for determining when a defendant could be sentenced to death was unconstitutional as it existed at the time appellant came to trial. In United States v. Jackson, supra, the United States Supreme Court held unconstitutional the sentencing scheme of the Federal Kidnapping Act, 18 U.S.C.A. \u00a7 1201(a) (1966), which permitted a jury, but not a judge, to impose a sentence of death upon conviction. The Court held that such a scheme needlessly chilled the assertion of the Fifth Amendment right not to plead guilty and the Sixth Amendment right to a trial by jury. To the argument that this effect was merely incidental to a scheme intended to mitigate the severity of the punishment, the Court responded: \u201cThe question is not whether the chilling effect is \u2018incidental\u2019 rather than intentional; the question is whether that effect is unnecessary and therefore excessive.\u201d Id. 390 U.S. at 582, 88 S.Ct. at 1216. It is clear that our sentencing scheme, at the time appellant came to trial, suffered the same constitutional infirmity. Indeed, if anything, our sentencing scheme had a more chilling effect than the Federal Kidnapping Act because, under our statute, the death penalty was mandatory rather than permissive. See 18 Pa.C.S.A. \u00a7 1311 (Supp.1977). As the above quote indicates, it is of no constitutional moment that the unavoidable chilling effect of the scheme was unintended.\nIII.\nNeither the majority nor the Commonwealth contend that appellant\u2019s decision to waive his right to trial by jury was not in fact the result of the precise chilling effect which renders the sentencing scheme unconstitutional. Nonetheless, the majority holds that appellant\u2019s decision, compelled by the statutory scheme in effect at the time, was voluntary. I cannot agree. In my view, the waiver of a constitutional right cannot be truly voluntary when it is induced by a patently unconstitutional factor.\nThe majority relies on North Carolina v. Alford, supra, and Brady v. United States, supra, in holding that appellant\u2019s waiver of the trial by jury was voluntary. Although I question whether we should follow Brady and Alford as a matter of state law in cases involving guilty pleas actually coerced by an unconstitutional sentencing scheme, see note 2, supra, neither compels the result of the majority. Many factors enter into a defendant\u2019s decision whether to enter a plea of guilty, and many judicial policies are implicated by guilty pleas, which are not involved in or affected by the decision whether to be tried by a judge or a jury. These factors and policies appear to have been uppermost in the Court\u2019s mind when Brady and Alford were decided.\nIn Brady, the Court was clearly concerned that a decision that the fear of a possibly greater sentence after trial would render guilty pleas involuntary would seriously disrupt the entire criminal justice system. The Court stated:\n\u201c[A]t present well over three-fourths of the criminal convictions in this country rest on pleas of guilty, a great many of them no doubt motivated at least in part by the hope or assurance of a lesser penalty than might be imposed if there were a guilty verdict after trial to judge or jury.\n\u201cOf course, that the prevalence of guilty pleas is explainable does not necessarily validate those pleas or the system which produces them. But we cannot hold that it is unconstitutional for the State to extend a benefit to a defendant who in turn extends a substantial benefit to the State and who demonstrates by his plea that he is ready and willing to admit his crime and to enter the correctional system in a frame of mind that affords hope for success in rehabilitation over a shorter period of time than might otherwise be necessary.\n\u201cA contrary holding would require the States and Federal Government to forbid guilty pleas altogether, to provide a single invariable penalty for each crime defined by the statutes, or to place the sentencing function in a separate authority having no knowledge of the manner in which the conviction in each case was obtained. In any event, it would be necessary to forbid prosecutors and judges to accept guilty pleas to selected counts, to lesser included offenses, or to reduce charges. The Fifth Amendment does not reach so far.\u201d\n397 U.S. at 752-53, 90 S.Ct. at 1471 (footnote omitted). Alford, which applied Brady without further analysis, involved an explicit plea bargain, pursuant to which Alford entered a plea of guilty to murder of the second degree, thus foreclosing the possibility of a death sentence after conviction.\nWhether or not one agrees that a contrary result in Alford would compel forbidding guilty pleas altogether, it is apparent that the same considerations do not apply when the question is whether a defendant who insists on his right to trial has been impermissibly coerced to waive his right to trial by jury. Compared to a guilty plea, the Commonwealth has considerably less interest in whether a defendant is tried by a judge or a jury. Most importantly, the decision whether to be tried by a judge or a jury in no way implicates the plea bargaining system, which, as Brady recognized, may be essential to the present criminal justice system. See 397 U.S. at 751-52, 90 S.Ct. at 1471.\nMoreover, a defendant who waives the right to jury trial, but who does not plead guilty, does not \u201cdemonstrates by his plea that he is ready and willing to admit his crime.\u201d Id. 397 U.S. at 753, 90 S.Ct. at 1471. Given the emphasis the Supreme Court placed on the defendant\u2019s admission of guilt, I do not believe Brady can be applied where a defendant does not admit his guilt, but insists on trial before a judge.\nThe criminal process often requires \u201cthe making of difficult judgments.\u201d McMann v. Richardson, 397 U.S. 759, 769, 90 S.Ct. 1441, 1448, 25 L.Ed.2d 763 (1970). This does not mean, however, that the state can force a decision on a defendant by improper means. The United States Supreme Court has stated that a free and voluntary waiver of fifth amendment rights \u201cmust not be extracted by any sort of threats or violence, nor obtained by any direct or implied promises, however slight, nor by the exertion of any improper influence. \u201d Bram v. United States, 168 U.S. 532, 542-43, 18 S.Ct. 183, 187, 42 L.Ed. 568 (emphasis added). I believe the same standard applies here. The sentencing scheme as it existed when appellant was brought to trial \u201chad no other purpose or effect than to chill the assertion of constitutional rights by penalizing those who [chose] to exercise them . .\u201d United States v. Jackson, 390 U.S. at 581, 88 S.Ct. at 1216. Since the record clearly demonstrates that the scheme had its impermissible effect in coercing appellant to waive his right to trial by jury, appellant\u2019s waiver was obtained through \u201cthe exertion of . improper influence\u201d and should be set aside. I dissent.\nMANDERINO, J., joins in this dissenting opinion.\n. The majority concedes that there were no mitigating circumstances. We have recently held that the limited mitigating circumstances recognized by the Crimes Code render the death penalty statute unconstitutional. Commonwealth v. Moody, - Pa. -, 382 A.2d 442 (1977); Commonwealth v. White, 475 Pa. 343, 380 A.2d 753 (1977). Although I did not participate in those cases, I agree with their disposition, and note that I would reach same result under the Pennsylvania Constitution.\n. Brady v. United States, 397 U.S. 742, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970) was the first case in which the Supreme Court considered the effect of United States v. Jackson, 390 U.S. 510, 88 S.Ct. 1209, 20 L.Ed.2d 138 (1968) in relation to the voluntariness of a guilty plea. The Court stated that \u201cJackson ruled neither that all pleas of guilty encouraged by the fear of a possible death sentence are involuntary pleas nor that such encouraged pleas are invalid whether involuntary or not.\u201d 397 U.S. at 747, 90 S.Ct. at 1468. The first part of this holding \u2014 that all pleas motivated by fear of the death penalty are not per se involuntary \u2014 I agree with. The second part, however, seems merely to beg the question regarding the effect of an unconstitutional encouragement on the voluntariness of a guilty plea. The result in Brady appears to be correct, in that the district court had found that Brady\u2019s plea was motivated by considerations other than the unconstitutional sentencing scheme. See Parker v. North Carolina, 397 U.S. 790, 90 S.Ct. 1458, 25 L.Ed.2d 785 (1970) and Brady v. United States, supra (dissenting and concurring opinions of Brennan, J., joined by Douglas and Marshall, JJ.), 397 U.S. 798, 816, 90 S.Ct. 1474, 1483 (1970). Thus, to the extent the language in Brady supports the proposition that even an unconstitutional inducement to plead guilty, which in fact results in a plea, does not render that plea involuntary, it would appear to be dictum. Moreover, the dictum does not appear to be supported by the rationale of the Court in Brady. The majority reasoned:\n\u201cInsofar as the voluntariness of his plea is concerned, there is little to differentiate Brady from (1) the defendant, in a jurisdiction where the judge and jury have the same range of sentencing power, who pleads guilty because his lawyer advises him that the judge will very probably be more lenient than the jury; (2) the defendant, in a jurisdiction where the judge alone has sentencing power, who is advised by counsel that the judge is normally more lenient with defendants who plead guilty than with those who go to trial; (3) the defendant who is permitted by prosecutor and judge to plead guilty to a lesser offense included in the offense charged; and (4) the defendant who pleads guilty to certain counts with the understanding that other charges will be dropped. In each of these situations, as in Brady\u2019s case, the defendant might never plead guilty absent the possibility or certainty that the plea will result in a lesser penalty than the sentence that could be imposed after a trial and a verdict of guilty. We decline to hold, however, that a guilty plea is compelled and invalid under the Fifth Amendment whenever motivated by the defendant\u2019s desire to accept the certainty or probability of a lesser penalty rather than face a wider range of possibilities extending from acquittal to conviction and a higher penalty authorized by law for the crime charged.\u201d\n397 U.S. at 751, 90 S.Ct. at 1470 (footnote omitted) (emphasis added). All of these examples involve situations where the motivating factor in entering a plea agreement, or pleading guilty, is to avoid the possibility of greater punishment which the state could legitimately impose after trial. The rationale may legitimately extend to the situation where a defendant pleads guilty to avoid greater punishment which might result after trial, but, because of an unanticipated change in the law, it later appears that the likelihood of such greater punishment would have been remote. But see Commonwealth v. Wright, 444 Pa. 588, 282 A.2d 266 (1971). However, in my view the comparisons offered by the Court in Brady are not apposite to the situation where a statutory scheme has a direct and unconstitutional coercive effect on the decision whether to stand trial, and it is shown that this impermissible coercive effect did in fact result in the decision to plead guilty. It seems ironic, at least, to hold that the very factor which renders such a statutory scheme unconstitutional \u2014 the needless chilling of the exercise of constitutional rights \u2014 will be ignored when it has in fact had its impermissible effect.\nNonetheless, Brady was uncritically applied to such situations in Parker v. North Carolina, supra, and North Carolina v. Alford, 400 U.S. 25, 91 S.Ct. 160, 27 L.Ed.2d 162 (1970). My research indicates that this Court has never applied Brady and Alford to the situation where an unconstitutional sentencing scheme has in fact induced a waiver of constitutional rights. Commonwealth v. Reagen, 447 Pa. 186, 290 A.2d 241 (1972) and Commonwealth v. Henderson, 441 Pa. 255, 272 A.2d 182 (1971), relied on Brady and Alford only for the proposition that a decision to plead guilty motivated in part by fear of the death penalty is not per se involuntary. In neither case was it alleged that the decision to plead guilty was compelled by a statutory scheme which needlessly chilled the exercise of the right to stand trial, or that the death penalty could not legitimately have been imposed if that right had been exercised. See also, Commonwealth v. Hargrove, 434 Pa. 393, 254 A.2d 22 (1969). Commonwealth v. Melton, 465 Pa. 529, 351 A.2d 221 (1976), relied on by the majority, is also inapposite. In Melton, this Court rejected the argument that a guilty plea was coerced as a result of an allegedly unconstitutional jury selection system which tended to make juries more conviction-prone. This allegation, based on a change in the law after appellant\u2019s guilty plea regarding jury selection, see Witherspoon v. Illinois, 391 U.S. 510, 88 S.Ct. 1770, 20 L.Ed.2d 776 (1968), was not based on a claim that an inherently coercive statutory scheme had its constitutionally prohibited effect in inducing the plea. The speculative concern of the defendant in Melton cannot be compared to the situation of the defendant squarely faced with a statutory scheme which declares that he must risk the possibility of death if he wishes to exercise his right to stand trial, but ensures him that no greater penalty than life imprisonment can be imposed if he foregoes his rights.\nHowever, because there are significantly different considerations involved in the decision whether to plead guilty and the decision whether to proceed by jury or bench trial when the defendant elects to put the Commonwealth to its proof, I do not consider it necessary to decide whether, as a matter of state constitutional law, this Court should decline to follow Brady and Alford when an unconstitutional sentencing scheme has in fact coerced a plea of guilty.\n. As I have indicated in note 2, supra, I would have no difficulty reaching the same result as the majority in Brady, since the district court expressly found that Brady\u2019s guilty plea was not appreciably motivated by the unconstitutional sentencing scheme.\n. This is reflected by our rules concerning waiver of the right to trial by jury. Although the trial court may have authority to refuse to accept a waiver of the right to a jury trial, the Commonwealth does not. See Pa.R.Crim.P. 1101-02.\n. The Commonwealth asserts another basis for finding the state\u2019s interests are compromised by a holding that the appellant\u2019s waiver was invalid because induced by the sentencing scheme. The Commonwealth argues that defendants would, in effect, be given the right to two trials, one before a judge, and one before a jury, and that, in the second, death could not be imposed because of the original life sentence. This argument has little merit. It overlooks the basic fact that the sentencing scheme, as it existed when appellant was tried, was patently unconstitutional and, thus, a sentence of death could not legally have been imposed. U. S. v. Jackson, supra. Once the unconstitutional system has been remedied, there is no longer any basis for setting aside the waiver of a defendant who elected to be tried by a judge. The fact that appellant will receive a new trial can hardly be a basis for denying him relief, once it is determined that his waiver of a trial by jury was in fact unconstitutionally coerced.",
+        "type": "dissent",
+        "author": "ROBERTS, Justice,"
+      },
+      {
+        "text": "MANDERINO, Justice,\ndissenting.\nI join in the dissenting opinion of Mr. Justice Roberts. The majority opinion is wholly unresponsive to the issue raised in this appeal. Appellant contends that \u00a7 1311 of the Criminal Code, which at the time of the trial provided for the death penalty in jury trials but did not provide for the death penalty in non-jury trials and cases of guilty pleas, impermissibly infringed on the Sixth Amendment right to trial by jury. He contends, in effect, that the then-existing statutory scheme deterred him from going the jury route because if he did so, he would be running the gauntlet and could have received the death penalty, whereas no such possibility existed had he waived a jury trial.\nBrady v. United States, 397 U.S. 742, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970), and North Carolina v. Alford, 400 U.S. 25, 91 S.Ct. 160, 27 L.Ed.2d 162 (1970), obviously do not control this case. Those cases held that a guilty plea motivated by a desire to avoid the death penalty was not compelled within the meaning of the Fifth Amendment. Those cases did not deal with a Sixth Amendment claim that appellant was entitled to freely choose whether to be tried by a jury.",
+        "type": "dissent",
+        "author": "MANDERINO, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Jerome P. Cheslock, William H. Robinson, Jr., Stroudsburg, for appellant.",
+      "James F. Marsh, Dist. Atty., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "380 A.2d 1210\nCOMMONWEALTH of Pennsylvania v. Jason BHILLIPS a/k/a John Joseph Gergel, Appellant.\nSupreme Court of Pennsylvania.\nArgued Jan. 17, 1977.\nDecided Dec. 1, 1977.\nJerome P. Cheslock, William H. Robinson, Jr., Stroudsburg, for appellant.\nJames F. Marsh, Dist. Atty., for appellee.\nBefore EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0427-01",
+  "first_page_order": 457,
+  "last_page_order": 471
+}

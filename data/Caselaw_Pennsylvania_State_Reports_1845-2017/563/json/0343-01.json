@@ -1,0 +1,100 @@
+{
+  "id": 1366938,
+  "name": "Frank J. MAZUREK, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Mazurek v. Commonwealth",
+  "decision_date": "2000-11-01",
+  "docket_number": "Petition No. 642 Western District Allocatur Docket 1998",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "563 Pa. 343"
+    },
+    {
+      "type": "parallel",
+      "cite": "760 A.2d 848"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "758 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11196913,
+        11196965,
+        1366942,
+        1366957
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/758/1155-01",
+        "/a2d/758/1155-02",
+        "/pa/563/0145-01",
+        "/pa/563/0146-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 146",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366957
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0146-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 520,
+    "ocr_confidence": 0.66,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0514429605741493
+    },
+    "sha256": "1a47ac50c423829eba1829d73ca590d38703c2821504dde10b32295e6d816e34",
+    "simhash": "1:55eea3f583276df6",
+    "word_count": 78
+  },
+  "last_updated": "2024-02-27T16:15:34.925696+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frank J. MAZUREK, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 1st day of November, 2000, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Commonwealth Court is reversed and the case is remanded for proceedings consistent with Commonwealth of Pennsylvania, Department of Transportation v. McCafferty, 563 Pa. 146, 758 A.2d 1155 (2000).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "760 A.2d 848\nFrank J. MAZUREK, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 1, 2000."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 541,
+  "last_page_order": 541
+}

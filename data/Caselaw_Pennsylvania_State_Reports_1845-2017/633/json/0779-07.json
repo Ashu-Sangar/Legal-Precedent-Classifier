@@ -1,0 +1,70 @@
+{
+  "id": 12285729,
+  "name": "Com. v. Wallace",
+  "name_abbreviation": "Com. v. Wallace",
+  "decision_date": "2015-11-17",
+  "docket_number": "381 EAL (2015)",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 779"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1126",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.904,
+    "sha256": "155a79e436d5640e1804a15a5afa841ec797080f4890f3975df29b013064fbfa",
+    "simhash": "1:9988201ef2f04143",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Wallace"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1126",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Wallace\n11/17/2015\n381 EAL (2015)"
+  },
+  "file_name": "0779-07",
+  "first_page_order": 833,
+  "last_page_order": 833
+}

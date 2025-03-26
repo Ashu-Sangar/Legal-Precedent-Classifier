@@ -1,0 +1,70 @@
+{
+  "id": 12283601,
+  "name": "Herman v. Russo",
+  "name_abbreviation": "Herman v. Russo",
+  "decision_date": "2016-03-09",
+  "docket_number": "618 MAL (2015)",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 169,
+    "ocr_confidence": 0.67,
+    "sha256": "5c7312cffc3fdd436a9b8495e0e22557708b23a708874a6541f009e18ed52777",
+    "simhash": "1:0517a8cabf8ef05e",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herman v. Russo"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1139",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Herman v. Russo\n03/09/2016\n618 MAL (2015)\n. Justice EAKIN and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0744-01",
+  "first_page_order": 804,
+  "last_page_order": 804
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12287347,
+  "name": "Com. v. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-05-11",
+  "docket_number": "11 WAL (2016)",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 771"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "82 A.3d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 159,
+    "ocr_confidence": 0.782,
+    "sha256": "ee720715863088f901ecf6889e535d4679b97acfebc2c0ac658acf03cf9f29f3",
+    "simhash": "1:5f5ae2d8b2efe2c6",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 82 A.3d 1069",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Johnson\n05/11/2016\n11 WAL (2016)\n. Justice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0771-05",
+  "first_page_order": 831,
+  "last_page_order": 831
+}

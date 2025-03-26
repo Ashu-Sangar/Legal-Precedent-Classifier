@@ -1,0 +1,63 @@
+{
+  "id": 12284421,
+  "name": "Thomas v. Pennsylvania Bd. of Probation and Parole",
+  "name_abbreviation": "Thomas v. Pennsylvania Bd. of Probation & Parole",
+  "decision_date": "2015-11-10",
+  "docket_number": "459 MAL (2015)",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 772"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 84,
+    "ocr_confidence": 0.833,
+    "sha256": "bbb6384525b2d55a68895fbc3b51613fe435848422dcd4eedfd7f5028b1a6bc0",
+    "simhash": "1:c1989591d66557ef",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T17:19:09.940441+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas v. Pennsylvania Bd. of Probation and Parole"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thomas v. Pennsylvania Bd. of Probation and Parole\n11/10/2015\n459 MAL (2015)"
+  },
+  "file_name": "0772-01",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

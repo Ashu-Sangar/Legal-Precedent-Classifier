@@ -1,0 +1,70 @@
+{
+  "id": 12283635,
+  "name": "Knoll v. Uku",
+  "name_abbreviation": "Knoll v. Uku",
+  "decision_date": "2016-08-02",
+  "docket_number": "70 WAL (2016)",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1033",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 155,
+    "ocr_confidence": 0.733,
+    "sha256": "4f9c070b91372ae3b720c9e8f95013cd88a11dacc0cbc133d2409ec6b23c2a7a",
+    "simhash": "1:7f5470c7bf7b79d6",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Knoll v. Uku"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 1033",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Knoll v. Uku\n08/02/2016\n70 WAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0665-02",
+  "first_page_order": 717,
+  "last_page_order": 717
+}

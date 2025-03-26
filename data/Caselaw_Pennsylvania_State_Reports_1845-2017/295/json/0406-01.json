@@ -1,0 +1,86 @@
+{
+  "id": 1115114,
+  "name": "Mallory's Estate",
+  "name_abbreviation": "Mallory's Estate",
+  "decision_date": "1929-02-04",
+  "docket_number": "Appeal, No. 84",
+  "first_page": "406",
+  "last_page": "408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "295 Pa. 406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "242 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998805
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/242/0269-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3042,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 5.135834020314662e-08,
+      "percentile": 0.32433493226825194
+    },
+    "sha256": "99a152c404494fb0bb3995f74435d98cebac8e8df578879b7f6698acbbbf609c",
+    "simhash": "1:79752a80cc95c245",
+    "word_count": 518
+  },
+  "last_updated": "2024-02-27T21:47:02.268753+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ."
+    ],
+    "parties": [
+      "Mallory\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe widow of decedent claimed to participate in the distribution of his estate; her claim was contested on the ground that, for more than one year prior to the death of her husband, she was a deserting wife, barred by the Act of May 3, 1915, P. L. 234, and section 68 of the Act of June 7, 1917, P. L. 429, 435, from claiming any rights in his estate. The matter was referred to an auditor, who, after elaborately finding a series of facts, apparently fully sustaining his ultimate finding, stated that these facts and the evidence on which they were based \u201coverwhelmingly supported the finding that she [the wife] deserted decedent,\u201d not that he had deserted her, and, therefore, that she was not entitled to participate in his estate. Prior to this conclusion by the auditor, the widow\u2019s claim for the $500 exemption, allowed by our law, was before the court below, and that tribunal formally found against her claim on the ground, inter alia, that she had not been compelled to withdraw from her husband\u2019s household and was not waiting, ready to resume her place in it, at the time of his death. When the auditor\u2019s report came before the court below on exceptions, that tribunal, in a memorandum opinion, without disturbing any of the findings of fact depended upon by the auditor, stated that,' in its judgment, he had \u201carrived at a wrong conclusion on the question of the willful and malicious desertion of one year and upwards on the part of Nellie Mallory,\u201d the widow, and hence she was \u201centitled to participate in the distribution of this estate.\u201d\nWe shall not now decide whether the court below was right or wrong in this conclusion; what we do decide is that it should not have allowed the case to come to us on appeal without filing of record an opinion stating \u201cthe reasons for\u201d its ruling that the auditor had arrived at a wrong conclusion on the question indicated: see Rule 58 of this court. Moreover, no court, after appointing an auditor, who states specific findings of fact, should \u201csatisfy itself by stating conclusions different from those of the auditor [when the court\u2019s] conclusion are......unsupported by the underlying findings of fact made by the auditor.\u201d If the court is not satisfied with the auditor\u2019s findings of fact, it should reverse them and state its own findings, briefly giving the reasons for so doing; and if satisfied with the findings, as such, but drawing different conclusions therefrom than those stated by the auditor, it should give reasons for reaching such different conclusions: Tenth Nat. Bank v. Smith Construction Co., 242 Pa. 269, 276.\nThe record is remitted to the court below, with instructions to state of record the reasons for its conclusions contrary to those of the auditor, as indicated in this opinion.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "G. H. Ruhl, with him Orris & Zerby, for appellants.",
+      "Joseph R. Dickinson, with him Spangler & Walker, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Mallory\u2019s Estate.\nArgued February 4, 1929.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ.\nFebruary 4, 1929:\nG. H. Ruhl, with him Orris & Zerby, for appellants.\nJoseph R. Dickinson, with him Spangler & Walker, for appellee."
+  },
+  "file_name": "0406-01",
+  "first_page_order": 432,
+  "last_page_order": 434
+}

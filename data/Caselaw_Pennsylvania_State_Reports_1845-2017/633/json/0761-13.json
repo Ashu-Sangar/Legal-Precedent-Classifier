@@ -1,0 +1,70 @@
+{
+  "id": 12282792,
+  "name": "Com. v. Burton",
+  "name_abbreviation": "Com. v. Burton",
+  "decision_date": "2015-09-28",
+  "docket_number": "163-167 MAL (2015)",
+  "first_page": "761",
+  "last_page": "761",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 761"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 375",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 76,
+    "ocr_confidence": 0.844,
+    "sha256": "86e2fa27c51b4808d6a8f10cf1f40bcf91c9eeea045804f3b8f6a86f5543c6a0",
+    "simhash": "1:383df5bcd0f269f8",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Burton"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 375",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Burton\n09/28/2015\n163-167 MAL (2015)"
+  },
+  "file_name": "0761-13",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

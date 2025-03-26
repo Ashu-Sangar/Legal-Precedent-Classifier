@@ -1,0 +1,87 @@
+{
+  "id": 473150,
+  "name": "Sivak Estate",
+  "name_abbreviation": "Sivak Estate",
+  "decision_date": "1948-04-22",
+  "docket_number": "Appeal, No. 49",
+  "first_page": "194",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "359 Pa. 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "53 A. 2d 858",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Pa. Superior Ct. 323",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        461243
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/161/0323-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 619,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 1.380468677369425e-07,
+      "percentile": 0.6404135916804417
+    },
+    "sha256": "c90bbcc7c7ee38043bdab7ba407b2aa7bf3def286634d2114b546f6b06070e0c",
+    "simhash": "1:da328be18b8f5d0a",
+    "word_count": 109
+  },
+  "last_updated": "2024-02-27T22:13:07.854586+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ."
+    ],
+    "parties": [
+      "Sivak Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe facts and the questions raised are stated and disposed of in the opinion of the Superior Court: Sivak Estate, 161 Pa. Superior Ct. 323, 53 A. 2d 858. We allowed an appeal on the petition of Julia Suvak, appellant at No. 79, and now affirm the order appealed from on the opinion of the Superior Court; costs of this appeal to be equally divided between Julia Suvak and Michael Sivack, Jr.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Paul N. Barna, for appellant.",
+      "William L. Jacob, with him 0. W. Pypniewshi, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sivak Estate.\nArgued March 23,1948.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ.\nApril 22, 1948:\nPaul N. Barna, for appellant.\nWilliam L. Jacob, with him 0. W. Pypniewshi, for appellee."
+  },
+  "file_name": "0194-01",
+  "first_page_order": 216,
+  "last_page_order": 217
+}

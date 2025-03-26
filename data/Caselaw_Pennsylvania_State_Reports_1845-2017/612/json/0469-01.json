@@ -1,0 +1,106 @@
+{
+  "id": 4204490,
+  "name": "Charles ONLEY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Philadelphia County Post Conviction Relief Act (PCRA) Unit, Respondent",
+  "name_abbreviation": "Onley v. Court of Common Pleas",
+  "decision_date": "2011-10-03",
+  "docket_number": "No. 42 EM 2011",
+  "first_page": "469",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 469"
+    },
+    {
+      "type": "parallel",
+      "cite": "31 A.3d 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 577,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1385999724308251
+    },
+    "sha256": "a49fe883874959a87005e63e6cae423fac0e433ded8843e6ad30c071974836fe",
+    "simhash": "1:643cc330c0d1242f",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles ONLEY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Philadelphia County Post Conviction Relief Act (PCRA) Unit, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of October, 2011, the Application for Leave to File Original Process and the Petition for Writ of Mandamus and/or Extraordinary Relief are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation improper). The Prothonotary is directed to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "31 A.3d 284\nCharles ONLEY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Philadelphia County Post Conviction Relief Act (PCRA) Unit, Respondent.\nNo. 42 EM 2011.\nSupreme Court of Pennsylvania.\nOct. 3, 2011."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 513,
+  "last_page_order": 514
+}

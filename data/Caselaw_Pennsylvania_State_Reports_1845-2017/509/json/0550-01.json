@@ -1,0 +1,82 @@
+{
+  "id": 1795292,
+  "name": "Charles H. HORTON, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE",
+  "name_abbreviation": "Horton v. Commonwealth, Pennsylvania Board of Probation & Parole",
+  "decision_date": "1986-01-13",
+  "docket_number": "Petition No. 94 W.D. Allocatur Dkt. 1985",
+  "first_page": "550",
+  "last_page": "551",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "509 Pa. 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "506 A.2d 861"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Pa. 248",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1795390
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/509/0248-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 561,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06685544215126056
+    },
+    "sha256": "c7b64c619faf6e5c25b760b314602ff87e67ac8742a3fa7279ae5a705c676281",
+    "simhash": "1:358a3b9180ab297b",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T18:13:32.590987+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles H. HORTON, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 13th day of January, 1986, the Petition for Allowance of Appeal is granted. The Order of the Commonwealth Court entered on January 25, 1984, at No. 763 C.D.1984 is reversed and the matter is remanded to the Board of Probation and Parole for proceedings consistent with our opinion in Rivenbark v. Commonwealth of Pennsylvania, 509 Pa. 248, 501 A.2d 1110 (1985).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "506 A.2d 861\nCharles H. HORTON, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE.\nSupreme Court of Pennsylvania.\nJan. 13, 1986."
+  },
+  "file_name": "0550-01",
+  "first_page_order": 618,
+  "last_page_order": 619
+}

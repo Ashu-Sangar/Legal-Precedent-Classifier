@@ -1,0 +1,65 @@
+{
+  "id": 1002250,
+  "name": "Clymer v. The Commonwealth",
+  "name_abbreviation": "Clymer v. Commonwealth",
+  "decision_date": "1866",
+  "docket_number": "",
+  "first_page": "189",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Pa. 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 307,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 8.800652134307456e-08,
+      "percentile": 0.49633665900984963
+    },
+    "sha256": "16db09618a7ef0d5010828d768d6d19c0be3d2c4d5322356abf3406707a010b7",
+    "simhash": "1:7d08bc7aa5ac36b5",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T17:04:42.120194+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Read, J., dissented."
+    ],
+    "parties": [
+      "Clymer v. The Commonwealth."
+    ],
+    "opinions": [
+      {
+        "text": "This is another case like the above upon the Collateral Inheritanee Law, and we so entirely approve of the ruling of the learned judge, that we do not deem it necessary to add to his reasoning anything more than we have said above.\nThe judgment is affirmed.\nRead, J., dissented.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Clymer v. The Commonwealth."
+  },
+  "file_name": "0189-01",
+  "first_page_order": 189,
+  "last_page_order": 190
+}

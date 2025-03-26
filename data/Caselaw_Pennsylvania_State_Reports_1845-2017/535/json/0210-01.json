@@ -1,0 +1,864 @@
+{
+  "id": 1841472,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Stephen Rex EDMISTON, Appellant",
+  "name_abbreviation": "Commonwealth v. Edmiston",
+  "decision_date": "1993-11-10",
+  "docket_number": "No. 30 Capital Appeal Docket",
+  "first_page": "210",
+  "last_page": "240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "535 Pa. 210"
+    },
+    {
+      "type": "parallel",
+      "cite": "634 A.2d 1078"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "475 U.S. 412",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204292
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0412-01"
+      ]
+    },
+    {
+      "cite": "504 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787710
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "443"
+        },
+        {
+          "page": "707-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0428-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 516",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829811
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0516-01"
+      ]
+    },
+    {
+      "cite": "472 Pa. 259",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1727744
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "278"
+        },
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/472/0259-01"
+      ]
+    },
+    {
+      "cite": "499 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1778893
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/499/0282-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1806092
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "515 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806001,
+        1806092
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-01",
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "507 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792370
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0440-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804591
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "280"
+        },
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0262-01"
+      ]
+    },
+    {
+      "cite": "526 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825928
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/526/0458-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813570
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0571-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 512",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823722
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0512-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5514
+      ],
+      "weight": 4,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/0299-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736904
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "408-14"
+        },
+        {
+          "page": "164-66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0391-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813571
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "184"
+        },
+        {
+          "page": "594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0175-01"
+      ]
+    },
+    {
+      "cite": "82 L.Ed.2d 850",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 3547",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "467 U.S. 1256",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6357159,
+        6357930,
+        6358158,
+        6357423,
+        6357685,
+        6358394
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/1256-01",
+        "/us/467/1256-04",
+        "/us/467/1256-05",
+        "/us/467/1256-02",
+        "/us/467/1256-03",
+        "/us/467/1256-06"
+      ]
+    },
+    {
+      "cite": "502 Pa. 474",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1784536
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "499"
+        },
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/502/0474-01"
+      ]
+    },
+    {
+      "cite": "305 A.2d 715",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "717"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 Pa. 171",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574191
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/452/0171-01"
+      ]
+    },
+    {
+      "cite": "568 A.2d 590",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1820357,
+        1820309
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0556-01",
+        "/pa/523/0555-01"
+      ]
+    },
+    {
+      "cite": "523 Pa. 556",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820357
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0556-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 531",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736849
+      ],
+      "weight": 4,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0531-01"
+      ]
+    },
+    {
+      "cite": "475 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1734104
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/475/0331-01"
+      ]
+    },
+    {
+      "cite": "314 A.2d 242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "455 Pa. 303",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        582186
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/455/0303-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818950
+      ],
+      "weight": 4,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "274"
+        },
+        {
+          "page": "707"
+        },
+        {
+          "page": "277"
+        },
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0256-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792334
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "224"
+        },
+        {
+          "page": "1301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0204-01"
+      ]
+    },
+    {
+      "cite": "501 Pa. 15",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1782483
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/501/0015-01"
+      ]
+    },
+    {
+      "cite": "533 Pa. 24",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1837418
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/533/0024-01"
+      ]
+    },
+    {
+      "cite": "299 A.2d 213",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 113",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947071
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0113-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 471",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804489,
+        1804579
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "481"
+        },
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0471-01",
+        "/pa/514/0471-02"
+      ]
+    },
+    {
+      "cite": "532 Pa. 62",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1835945
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/532/0062-01"
+      ]
+    },
+    {
+      "cite": "498 Pa. 665",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776268
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/498/0665-01"
+      ]
+    },
+    {
+      "cite": "371 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "479 Pa. 551",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1742078
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/479/0551-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822795
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0282-01"
+      ]
+    },
+    {
+      "cite": "504 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787796
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0455-01"
+      ]
+    },
+    {
+      "cite": "462 Pa. 43",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        485206
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/462/0043-01"
+      ]
+    },
+    {
+      "cite": "490 Pa. 303",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1763814
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0303-01"
+      ]
+    },
+    {
+      "cite": "301 A.2d 837",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "451 Pa. 250",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948574
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/451/0250-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 564",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822831
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "567"
+        },
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0564-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "63"
+        },
+        {
+          "page": "961"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1727,
+    "char_count": 45116,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 1.2706531196279985e-06,
+      "percentile": 0.9889265744836861
+    },
+    "sha256": "2360ecc4ea2c8b7255b13bf4a638ed5ddbb1c86a234764b1e43de1b5e28a063d",
+    "simhash": "1:e66bf38e3b2f49d0",
+    "word_count": 7312
+  },
+  "last_updated": "2024-02-27T16:39:54.475491+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NIX, C.J., LARSEN, FLAHERTY, ZAPPALA, CAPPY, and MONTEMURO, JJ.",
+      "LARSEN, J., did not participate in the decision of this case.",
+      "PAPADAKOS, J., did not participate in the consideration or decision of this case."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Stephen Rex EDMISTON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nFLAHERTY, Justice.\nFollowing a non-jury trial in the Court of Common Pleas of Cambria County, the appellant, Stephen Rex Edmiston, was convicted of murder of the first degree, rape, statutory rape, and involuntary deviate sexual intercourse with a two-year-old female child. A sentencing jury concluded that a sentence of death was appropriate. The Court of Common Pleas of Cambria County imposed the death sentence in addition to a consecutive sentence of 10 to 20 years for rape, a consecutive sentence of 10 to 20 years for involuntary deviate sexual intercourse, and a concurrent sentence of 5 to 10 years for statutory rape. The present direct appeal ensued. We affirm.\nAppellant first argues that the evidence was insufficient to support a verdict of guilty of first-degree murder because there was insufficient evidence to support a finding of an intentional killing. This court is required in capital cases to review the sufficiency of the evidence. Commonwealth v. Zettlemoyer, 500 Pa. 16, 26 n. 3, 454 A.2d 937, 942 n. 3 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983). The applicable standard of review is whether, viewing all the evidence in the light most favorable to the Commonwealth as verdict winner, a jury could find every element of the crime beyond a reasonable doubt. Commonwealth v. Bryant, 524 Pa. 564, 567, 574 A.2d 590, 592 (1990).\nAn \u201cintentional killing\u201d for the purposes of first-degree murder is defined as a \u201cwillful, deliberate and premeditated killing.\u201d 18 Pa.C.S. \u00a7 2502(d). The element of specific intent to kill is one that may be proven by the circumstances surrounding the event, such as the seriousness and type of the injuries. Commonwealth v. Paquette, 451 Pa. 250, 301 A.2d 837 (1973). If a deadly force is knowingly applied by the actor to another, the intent to take life is as evident as if the actor stated the intent to kill at the time the force was applied. Commonwealth v. Meredith, 490 Pa. 303, 416 A.2d 481 (1980).\nThe record reflects that appellant committed the heinous acts designed to produce death and intended to commit those acts. Here, a two-year-old girl, weighing thirty-four pounds and standing thirty-six inches tall, suffered the following serious injuries: scalping, blunt force to her torso, obliteration of her genital area, burning of her body and a skull fracture. She was scalped by being cut with a sharp knife-like instrument from the ear up across the front hair line of her forehead and down to the other ear. Her scalp was then peeled back to the nape of her head exposing the entire skull. Blunt force trauma to her chest and stomach was so forceful that it caused the tearing of her liver and lungs. This force was also one of two possible causes of two feet of the infant\u2019s intestines to protrude from her genital area. (The other possible cause was pulling the intestines out of the genital area). The genital area of the two-year-old child was completely obliterated and ripped to such an extent that there was only one large and bloody cavity where there originally were the anal and vaginal orifices. There were also areas of burning of the infant\u2019s body, many other lacerations and abrasions and a skull fracture.\nAll of these separate and gruesome injuries occurred while the child was living. Expert medical testimony by Dr. Jasnosz stated the cause of death was a combination of the scalping, blunt force injuries to the torso causing internal injuries, and the trauma to the genital area. The separate inflictions of these injuries demonstrate a methodical step-by-step process of killing, i.e., a willful, premeditated, deliberate, and intentional killing by a fully developed adult man of a helpless two-year-old infant girl. Any reasonable human being would realize these injuries will cause death to such an infant. The fact that appellant took this infant to an isolated area of a state forest in Cambria County and hid the body further demonstrated his intent to kill. The evidence is more than sufficient to demonstrate that appellant had, at the time of the killing, a specific intent to kill the infant and to support the conclusion that appellant committed an intentional killing.\nAppellant first claims that his statements and confession were too ambiguous to imply an intentional killing. Appellant admitted to the state police that he killed a little girl in an isolated area in state game lands. He stated to the troopers that \u201cyou will find a dead, raped little girl\u201d and that \u201cshe was a brave little girl.\u201d He detailed some of his actions, e.g., \u201cwhile in the pick-up truck, I hit her with my fist four or five times until she stopped moving.\u201d He drew a map with an X showing the exact location where the incident occurred, and where the body was located and explained how the body was covered with leaves and twigs and dirt. Appellant has failed to demonstrate any ambiguity in his confessions.\nAppellant next claims that the testimony of Dr. Jasnosz was qualified and, therefore, insufficient to support a finding of an intentional killing. Appellant claims that because the witness used words such as \u201cconsistent with\u201d and \u201cappear to be,\u201d her testimony was qualified. A medical opinion is sufficient to support a finding when given with a reasonable degree of medical certainty. Commonwealth v. Stoltzfus, 462 Pa. 43, 337 A.2d 873 (1975).\nAppellant has failed to demonstrate that Dr. Jasnosz\u2019s testimony was qualified in any respect. Dr. Jasnosz testified during the trial phase and by videotape for the sentencing phase. She was cautioned by defense counsel and the court to render her opinions within the requisite reasonable degree of medical certainty. During the course of her testimony, she prefaced her opinions with the standard of a reasonable degree of medical certainty. The trial court did not err when it found that Dr. Jasnosz\u2019s medical opinions proved that both the anus and vaginal tracts had been penetrated by a penis to prove rape and involuntary deviate sexual intercourse and that the necessary medical testimony had been given within a reasonable degree of medical certainty.\nAppellant next claims that the Commonwealth did not prove the requisite specific intent for murder of the first degree because of the evidence concerning his intoxication. Appellant claims as a defense that he was so intoxicated at the time of the killing that he did not possess the specific intent to kill as required for first-degree murder. 18 Pa.C.S. \u00a7 308 provides that voluntary intoxication can reduce a murder-one conviction to a murder-three conviction. Commonwealth v. Stoyko, 504 Pa. 455, 475 A.2d 714 (1984). The critical inquiry is whether the defendant was overwhelmed by an intoxicant to the point of losing his rationality, faculties, or sensibilities so as to negate or lower the specific intent to kill. Commonwealth v. Breakiron, 524 Pa. 282, 571 A.2d 1035 (1990). The trier of fact can believe all, part or none of the testimony of a witness. Commonwealth v. Hinchcliffe, 479 Pa. 551, 388 A.2d 1068 (1978).\nThe Commonwealth disproved the asserted defense beyond a reasonable doubt. The Pepper Tree Inn bartender testified that appellant was in control of his faculties when he exited the bar. Appellant himself conceded that he was under control at that time and was drinking in a conservative fashion at the bar. He also navigated a pickup truck approximately thirty to forty miles over narrow, twisting, mountainous roads at night and drove approximately two miles over game land roads that were less passable than logging roads as they consisted of very narrow terrain with rutted and gutter areas inclusive of low streams, watery areas, and severe hills. Appellant presented a series of witnesses on the issue of intoxication but, since most of those who testified to an alleged severe impairment of appellant were individuals who had definable motives and bias by way of established relationships to appellant, the court properly could disbelieve them. The court did not err in concluding that, despite appellant\u2019s ingestion of intoxicants on the evening in question, appellant was capable of forming, and did indeed form, the specific intent to kill by way of a willful, deliberate, and premeditated design.\nFinally, appellant claims that the evidence demonstrated appellant\u2019s intent to commit rape with the victim\u2019s death being an unexpected result of the rape. The evidence detailed above demonstrates otherwise and the trial court did not err in concluding that the seriousness of the injuries inflicted which caused the death clearly demonstrated an intent to kill and substantially more than an intent to rape.\nWhen the totality of the evidence is reviewed, and despite what appellant claims above, the evidence was clearly sufficient to support the finding of an intentional killing, as required for a conviction of murder of the first degree.\nAppellant\u2019s second argument is that the trial court erred in denying appellant\u2019s motion to suppress evidence consisting primarily of tangible items from appellant\u2019s truck and residence, the confession and other inculpatory statements by appellant, and a map drawn by appellant depicting the scene of the crime and location of the victim\u2019s body. When reviewing the denial of a suppression motion, this court should consider only evidence of the prosecutor\u2019s witnesses and so much of the evidence for the defense as, fairly read in context of the record as a whole, remains uncontradicted.\nAppellant argues that he was detained illegally and, therefore, that all of the evidence is tainted and should be suppressed in accordance with the \u201cfruit of the poisonous tree\u201d doctrine. In Wong Sun v. United States, 371 U.S. 471, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963), the United States Supreme Court held that where the police detained and arrested a person without probable cause, the detention and arrest were illegal and all statements and evidence collected as a result of the illegality must be suppressed as the \u201cfruit of the poisonous tree.\u201d The critical questions here are whether appellant was illegally detained and arrested, whether the confession was voluntary and knowing, and whether probable cause to arrest existed when he was arrested.\nFormal arrest requires probable cause. An arrest is any act that indicates an intention to take a person into custody and subject him to the actual control and will of the person making the arrest. Commonwealth v. Lovette, 498 Pa. 665, 450 A.2d 975 (1982). See also, Commonwealth v. Rodriquez, 532 Pa. 62, 614 A.2d 1378 (1992). The standard for determining whether police have initiated a custodial interrogation or an arrest is an objective one, with due consideration given to the reasonable impression conveyed to the person interrogated rather than the strictly subjective view of the troopers or the person being seized. Whether an encounter is deemed \u201ccustodial\u201d must be determined with reference to the totality of the circumstances.\nNo illegal detention occurred in appellant\u2019s case because the detention was not \u201ccustodial\u201d until the troopers formally arrested appellant. The victim was reported missing to the state troopers by her family who gave them information and a description of a person who was observed in the family\u2019s residence in Clearfield County in the early morning of the disappearance. The description resembled that of appellant. Based on the information, the troopers contacted appellant to see if he would voluntarily appear at the barracks to answer questions relating to the disappearance of the child. At that time, the authorities were looking into the disappearance of a two-year-old female child and did not know whether she had wandered away from her home or whether criminal activity was involved.\nAppellant agreed to appear the next day of his own volition for questioning. After his arrival at the barracks and prior to any questioning concerning the missing child, appellant was advised of his Miranda rights even though appellant could not be linked to any criminal wrongdoing at the start of the interview. Following an item-by-item explanation of the waiver form, appellant indicated that he understood his rights by affirmative gestures, including numerous head shakes, and by his statements and signed a waiver of these rights. Appellant also acknowledged that he came to the barracks because the telephoning trooper told him that they, the state police, wanted to talk to him about a little girl disappearing on the mountain.\nAs the interview proceeded and the troopers gathered information, a discussion of appellant\u2019s vehicle arose. Pursuant to that discussion, appellant voluntarily signed a search waiver to search the truck. The search was conducted and completed at approximately one and one-half hours after questioning began. The search revealed blood at various locations in the cab of the truck, a white blanket with blond hairs covering it, a towel with blood stains, a pair of hemostats with blood on them and a pair of small shorts.\nSeveral times after completing the search, the troopers advised appellant that he was not under arrest and was free to go. Appellant replied that he wanted to stay to resolve the matter. While the troopers continued to question appellant, one trooper verified that the shorts found in appellant\u2019s truck matched the description of the victim\u2019s shorts given by the victim\u2019s family. At the end of the questioning, appellant drew a map leading to the location of the victim\u2019s remains. Thereafter, appellant explained that the troopers would find there a \u201cdead, raped little girl.\u201d He was left alone and unsupervised in the room for a period of five minutes. He was then informed that he was under arrest for kidnapping and murder and arrangements were made to transport him to the magistrate\u2019s office for arraignment. Sometime during this time, appellant\u2019s mother appeared at the barracks and appellant was advised that she was there; however, he indicated that he did not want to speak to her.\nInitially, the interaction with the appellant was a mere encounter in which he was under no official compulsion to respond. During the entire interview, appellant did not ask for the assistance of an attorney. He was not told he did not need an attorney and was not denied such assistance. After appellant handed over the hand-drawn map and gave his confession, appellant was in \u201ccustodial detention\u201d because he was subject to an accusatory interrogation and was not at liberty to leave the state police supervision. He was then formally put under arrest. An objective review of the record indicates that the circumstances were not the functional equivalent of an arrest until appellant was arrested and, therefore, no illegal detention occurred.\nThe second question is whether appellant\u2019s confession was knowing and voluntary. The test for determining the voluntariness of a confession and the validity of the waiver of the right to remain silent is the totality of the attending circumstances. Commonwealth v. D\u2019Amato, 514 Pa. 471, 526 A.2d 300 (1987). One looks at the duration and methods of interrogation, the conditions of detention, the manifest attitude of the police toward the accused, the accused\u2019s physical and psychological state, and all other conditions present which may serve to drain one\u2019s powers of resistance to suggestion and undermine his self-determination. Id., 514 Pa. at 481, 526 A.2d at 305.\nNothing in the record indicates that appellant was held in a coercive environment or a custodial detention status by the troopers prior to his confession. The questioning was not conducted in a coercive atmosphere and no promises or threats were made in return for information. The room used for the questioning of the appellant was approximately ten feet by twelve feet, of average comfortable temperature, and equipped with bathroom facilities. Appellant was permitted to smoke and was provided with coffee. There was no force or compulsion of any type used on the appellant by the authorities. The appellant was not handcuffed or shackled until after he was informed of his arrest prior to transport to the magistrate. Even appellant admitted that the troopers were cordial and polite until after the search of the truck. The trial court did not err in concluding that the confession was voluntary.\nThe final question is whether probable cause existed to arrest appellant. The test for determining probable cause is whether the facts and circumstances within the knowledge of an arresting officer are reasonably trustworthy and sufficient in themselves to warrant a man of reasonable caution to believe that the person to be arrested has committed an offense. Commonwealth v. Jackson, 450 Pa. 113, 117, 299 A.2d 213, 215 (1973). The trial court did not err in concluding that probable cause to arrest appellant was provided by the items found incident to the search, the condition in which the interior of the truck was found, the verification of a matching description of the child\u2019s shorts found in the appellant\u2019s truck, and appellant\u2019s voluntary confession and hand-drawn map depicting the location of the child\u2019s remains.\nAppellant argues that the troopers essentially tricked him into coming to the barracks by allegedly asking him to come to the station to talk about an altercation with his brother so that his waiver of his Miranda rights and for the search of the car was illegally obtained. He claims that: the troopers knew where the girl\u2019s body was before he came to the barracks for questioning; he asked for an attorney and was told he did not need an attorney; he drew a map purely for hunting and fishing purposes and that the troopers substituted another map; the search of the truck produced adult women\u2019s panties as opposed to the victim\u2019s shorts; and, all of the troopers conspired together collectively to frame him.\nThe record supports the trial court\u2019s conclusion that appellant\u2019s version is unbelievable. Appellant did not ask to leave, did not request the assistance of trained legal counsel, was not told he did not need an attorney, was not illegally detained at any time during the interview process and voluntarily, knowingly, and intelligently gave his confession and his consent to search. The collusion claim was deemed unbelievable because appellant did not know any of the troopers involved in the questioning, two of the veteran troopers had not met each other until a few minutes before the questioning of appellant began, and no definable motive for the alleged conspiratorial action of the troopers was demonstrated.\nIn conclusion, appellant\u2019s initial encounter with the troopers constituted a \u201cmere encounter.\u201d Probable cause to arrest existed following the appellant\u2019s voluntary consent to search his truck and the subsequent discovery of incriminating evidence in the truck, even though the troopers did not formally detain the appellant until the conclusion of the interrogation. Neither the physical surroundings nor the actions of the troopers could be deemed \u201ccoercive\u201d so as to taint the confession. Appellant\u2019s argument fails because appellant was not illegally detained or arrested.\nAppellant\u2019s third argument is that the trial court erred in failing to recuse itself sua sponte or on appellant\u2019s motion to recuse. He claims that recusal was mandated because he was not made aware of a past professional relationship between the trial judge and the prosecuting attorney prior to deciding to waive his right to jury trial in the guilt phase of the case. A trial judge should recuse himself when a reasonable question concerning his impartiality is raised, even though actual prejudice is not found. In Interest of Anthony McFall, 533 Pa. 24, 617 A.2d 707 (1992). A trial judge\u2019s determination regarding recusal will stand absent an abuse of discretion or bias. Commonwealth v. Darush, 501 Pa. 15, 459 A.2d 727 (1983). No recusal is required where the judge was the district attorney when the offenses were committed, he took a statement from the Commonwealth\u2019s primary -witness and had previously prosecuted the defendant on an unrelated charge. Id. Once a trial is complete with entry of a verdict or judgment, a party is deemed to have waived his right to have a judge disqualified unless he can meet the standard regarding after-acquired evidence, i.e., the evidence could not have been brought to the attention of the trial court in the exercise of due diligence and the existence of the evidence would have compelled a different result in the case. Reilly by Reilly v. Southeastern Pennsylvania Transportation Authority, 507 Pa. 204, 224, 489 A.2d 1291, 1301 (1985).\nAppellant had actual knowledge of the prior relationships and failed to take any action until nine months after sentence was imposed. Appellant possessed actual knowledge of the prior professional relationship in advance of the start of the guilt phase of his trial in June, 1989, by virtue of a stipulation executed by the prosecuting attorney. The stipulation stated that all prior professional associations between the trial judge and the prosecutor were dissolved prior to the assumption by the trial judge of the office of judge in 1986. Further, appellant\u2019s defense counsel, prior to the waiver of a jury trial and the commencement of the guilt phase, stated that he had discussed the possibility of recusal with the appellant and saw no reason why the judge should be disqualified. Despite such knowledge and discussions with counsel, appellant filed no formal motion for recusal until nine months after conviction and imposition of the death penalty. Appellant has failed to demonstrate that he has met the after-acquired evidence standard.\nThe trial judge also properly made no sua sponte recusal. Appellant\u2019s case was randomly assigned to the trial judge by the court administrator as a routine matter and not as a matter of choice by the prosecutor. Also, a period of three and one-half years elapsed from the time of the prior relationship and the time of appellant\u2019s trial. Moreover, the record reflects that the trial judge harbored no bias or prejudice against the appellant in favor of the prosecutor. Thus, the record contradicts the appellant\u2019s assertion.\nAppellant\u2019s fourth argument is that the court erroneously admitted into evidence a pair of girl\u2019s shorts and a drawing without proper foundation. Admission of evidence is largely within the discretion of the trial judge as long as a proper foundation is laid to show the relevance of proffered evidence, and the question becomes what weight should be assigned to it by the fact finder. See Commonwealth v. Thomas, 522 Pa. 256, 274, 561 A.2d 699, 707 (1989). Testimony positively identifying the item is unnecessary. See Commonwealth v. Yount, 455 Pa. 303, 316, 314 A.2d 242, 249 (1974). Discrepancies concerning the evidence affect the weight of the evidence given by the trier of fact but do not affect the admissibility of such evidence. Commonwealth v. Martinez, 475 Pa. 331, 380 A.2d 747 (1977). One means of identifying the authenticity of a document is by testimony of a witness with knowledge of its preparation. Commonwealth v. Colbert, 476 Pa. 531, 383 A.2d 490 (1978).\nThe shorts were properly admitted into evidence. Danielle Burns, the victim\u2019s babysitter, testified that she placed these shorts on the victim late in the day of her disappearance and that she saw the victim wearing the same shorts when Ms. Burns went to bed at 9:15 p.m. She also positively identified the shorts introduced into evidence as the shorts that she had placed on the victim. The shorts were relevant because the victim wore them prior to her disappearance and because the police subsequently discovered them in the appellant\u2019s truck along with other incriminating evidence. The time gap between bedtime of 9:15 p.m. and abduction at 3:00 a.m. does not affect admissibility but, rather, goes to the weight to be assigned to the evidence. Appellant has demonstrated no error regarding the admission of the shorts.\nThe hand-drawn map was likewise properly admitted into evidence. A witness with knowledge of the preparation of a document may identify it to satisfy the authentication requirement for the introduction of that document into evidence. Commonwealth v. Colbert, 476 Pa. 531, 383 A.2d 490 (1978). Two troopers testified they were present and saw appellant draw the map that was offered into evidence. The map was, therefore, identified and authenticated by them. The map was relevant since it showed exactly where the infant\u2019s body was buried and that appellant knew this information. The discrepancy of whether the map was drawn in pencil or pen goes to the weight of the evidence. Appellant has demonstrated no error regarding the admission of the map.\nAppellant\u2019s fifth argument is that the district attorney exceeded the permissible bounds of cross-examination by allegedly asking prejudicial and argumentative questions. The manner of cross-examination rests within the discretion of the trial judge and improper comments by a prosecutor require reversal only when the comments create a \u201cfixed bias or hostility\u201d toward the defendant. Commonwealth v. Marshall, 523 Pa. 556, 570, 568 A.2d 590, 597 (1989).\nThe comments were not so inflammatory that they created a fixed hostility toward the appellant. The challenged comments were questions phrased in conclusory terms and the trial judge sustained defense counsel\u2019s objections on every question except one. There is no indication that the comments prevented the fact finder, a judge in a non-jury trial, from rendering a proper verdict. Appellant has not met his burden.\nAppellant\u2019s sixth argument is that the references by the district attorney during the Commonwealth\u2019s opening statement in the penalty phase about appellant\u2019s possible testimony forced a waiver of appellant\u2019s rights under the fifth amendment. An accused\u2019s right not to incriminate himself is infringed where a prosecutor states that an accused should testify or that an unfavorable inference of guilt is to be drawn from a failure of the accused to testify. Commonwealth v. Davis, 452 Pa. 171, 174, 305 A.2d 715, 717 (1973). U.S.C. Const.Amend. 5; 42 Pa.C.S. \u00a7 5941(a). The privilege against self incrimination has no direct application to a determination of the proper sentence to be imposed because the presumption of innocence which accompanies the accused throughout the proceedings to determine his guilt has no direct application to the sentencing determination. Commonwealth v. Travaglia, 502 Pa. 474, 499, 467 A.2d 288, 300 (1983), cert. den. mb nom. Travaglia v. Pennsylvania, 467 U.S. 1256, 104 S.Ct. 3547, 82 L.Ed.2d 850 (1984). In the context of a trial, prompt and effective curative instructions may remove prejudice resulting from improper comments by a prosecutor. Commonwealth v. Lawson, 519 Pa. 175, 184, 546 A.2d 589, 594 (1988). Likewise, in the context of a trial, the harmless error rule applies and the inquiry becomes whether the prejudicial effect of the error is so insignificant by comparison to properly admitted evidence of guilt that it is clear beyond a reasonable doubt that the error could not have contributed to the verdict. Commonwealth v. Story, 476 Pa. 391, 408-14, 383 A.2d 155, 164-66 (1978); Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967).\nAppellant has demonstrated no improper conduct. The prosecutor\u2019s opening statements related solely to the appellant\u2019s admissions to the troopers about his alleged intoxication and did not relate to his decision to testify in the penalty phase. Even if the statements did relate to the appellant\u2019s decision to testify, the judge\u2019s curative instructions removed any prejudice resulting from the statements. Further, even if some prejudice resulted, the harmless error rule applies with the result that the prejudicial effect of the error is so insignificant by comparison to the other evidence that it is clear beyond a reasonable doubt that the error could not have contributed to the jury\u2019s decision regarding the death penalty. Therefore, assuming the self-incrimination privilege applies at all to the penalty phase, appellant has failed to meet his burden.\nAppellant\u2019s seventh argument is that the trial court erred during the penalty phase in admitting into evidence a picture of the victim in a white dress standing near a tree at Easter time, six months prior to her death. The photograph was offered by the Commonwealth as evidence to give scale to the relative sizes of the infant victim and the appellant and to prove the aggravating circumstances of a killing committed by means of torture. It provided visual evidence of the victim\u2019s height and weight and her small size so that the jury could better comprehend the extent of the injuries described by the pathologist, Dr. Jasnosz. Appellant has not demonstrated how the probative value of the photograph was outweighed by its corresponding alleged prejudicial impact on the sentencing jury. Further, assuming some prejudice resulted, the harmless error rule applies with the result that the prejudicial effect of the error is so insignificant by comparison to the other evidence that it is clear beyond a reasonable doubt that the error could not have contributed to the jury\u2019s decision regarding the death penalty.\nAppellant\u2019s eighth argument is that the trial court erred in instructing the jury under 42 Pa.C.S. \u00a7 9711(d)(6) because the death penalty statute is deficient under the Eighth and Fourteenth Amendments to the United States Constitution. According to \u00a7 9711(d)(6), an aggravating circumstance occurs when the intentional killing occurs during the perpetration of a felony. Appellant argues that the term \u201cfelony\u201d is unconstitutionally vague because the term \u201cfelony\u201d is not limited to dangerous felonies and because every murder by definition is committed in the perpetration of a felony, namely aggravated assault. The constitutionality of Pennsylvania\u2019s death penalty statute was upheld in Blystone v. Pennsylvania, 494 U.S. 299, 110 S.Ct. 1078, 108 L.Ed.2d 255 (1990), where the United States Supreme Court approved a scheme which mandated the imposition of death when aggravating circumstances outweigh mitigating circumstances.\nThe term \u201cfelony\u201d is not vague on these facts. This court will not entertain arguments against the death penalty statute which are abstract in nature and are not relevant to the facts in the particular case. Commonwealth v. Basemore, 525 Pa. 512, 582 A.2d 861 (1990). Here, the intentional killing occurred during dangerous felonies, i.e., the rape and involuntary sexual deviate intercourse of the child victim. Also, these felonies are not lesser included offenses of the murder, as is aggravated assault, but are separate and distinct from the crime of murder. The language used in the statute is specific and does not enable an arbitrary or capricious decision by a jury.\nAppellant\u2019s ninth argument is that the trial court erred in instructing the jury on 42 Pa.C.S. \u00a7 9711(d)(6) in the penalty phase because the murder occurred after the felony ended. The challenged instruction permitted the jury to find that this aggravating circumstance included \u201cacts before and acts after the intercourse [rape] that are so close in time and space to be considered part of the felony.\u201d\nAppellant has not demonstrated that the challenged instruction was improper. A jury can properly consider this aggravating circumstance even though the killing occurred following the felony as long as the killing occurred so close in time and space to the felony that it could be considered part of the felony. Commonwealth v. Yarris, 519 Pa. 571, 549 A.2d 513 (1988). There, the defendant raped a woman and then stabbed her to death with the rape occurring less than three hours before the victim\u2019s death. This court held that the jury could properly consider this aggravating circumstance even though the murder occurred following the rape. See also Commonwealth v. Blystone, supra. Here, the record reflects that an issue of fact existed as to whether the killing occurred so close in time and space to the felonies of rape and involuntary deviate sexual intercourse that it could be considered part of one or both of the felonies. The judge properly submitted to the sentencing jury the issue of fact of whether the killing occurred in the perpetration of a felony.\nAppellant\u2019s tenth argument is that the trial court erred in its instructions to the sentencing jury on 42 Pa.C.S. \u00a7 9711(d)(8). Section 9711(d)(8) states that an aggravating circumstance is a killing by means of torture. Torture is the intentional infliction of a considerable amount of pain and suffering on a victim which is unnecessarily heinous, atrocious or cruel, manifesting exceptional depravity. Commonwealth v. Thomas, 522 Pa. 256, 277, 561 A.2d 699, 709 (1989). See also Commonwealth v. Heidnik, 526 Pa. 458, 587 A.2d 687 (1991). There must be an indication that the killer was not satisfied with the killing alone. Commonwealth v. Nelson, 514 Pa. 262, 280, 523 A.2d 728, 737 (1987).\nAppellant claims that the instruction should have clearly set out that the perpetrator of the torture-murder must have had both the intent to kill and an additional specific intent to inflict pain. Here, the trial court\u2019s charge was almost identical to the language approved by this court in Thomas and clearly stated that the jury had to find that appellant had the intent to cause pain or suffering to the victim in addition to the killing of the victim. The jury here was properly charged on the necessity of making an additional finding of the intent to torture the child.\nAppellant\u2019s eleventh argument is that it was error to preclude him from filing supplemental pro se post-verdict motions prior to the appointment of post-trial counsel even though he had not adhered to the scheduling deadline. Defendant must choose to represent himself or be represented by his counsel; otherwise, the representation is a hybrid representation and inappropriate. Commonwealth v. Colson, 507 Pa. 440, 490 A.2d 811 (1985).\nAppellant filed his pro se motions during a time when he was represented by trial counsel. Through his trial counsel, appellant filed timely motions for a new trial and in arrest of judgment after the guilty phase, reserving the right to supplement said motions after transcription of the notes of testimony, and filed timely supplemental motions following the penalty phase of the trial, with a similar reservation. On the day the death sentence was imposed, appellant was specifically advised of his rights to file post-trial motions or to request new counsel to file said motions. Trial counsel subsequently filed briefs seven months later.\nAppellant then filed the first of twelve pro se post-trial motions, while he was still represented by trial counsel. The content of the pro se motions was characterized by the trial court as an attempt to retry the case, difficult, unwieldy, conflicting and not congruent with the post-trial motions filed by trial counsel. The trial court, in a limited exercise of discretion, heard some of the motions, i.e., a motion to recuse, and a claim regarding the waiver of right to a jury trial. The judge did so in order to vindicate his ability to preside in the case in accord with the law and the dictates of the Code of Judicial Conduct.\nAppellant did not direct his trial counsel to request an extension of the deadline, for leave of the court to entertain later filings or additional motions, or to represent himself pro se. Appellant was not at all precluded from filing supplemental pro se post-verdict motions prior to the appointment of post-trial counsel even though he had not adhered to the scheduling deadline. Appellant was at all relevant times represented by trial counsel and was not permitted to have a hybrid representation. Appellant has demonstrated no error.\nAppellant, for the first time in his supplemental brief to this court, argues fifteen separate allegations of ineffective assistance of counsel during the trial and penalty phases. He claims that he is entitled to an evidentiary hearing on these allegations. According to Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987), and its progeny, the defendant must demonstrate the following in order to be successful on an ineffectiveness of counsel claim: 1) that the underlying claim is of arguable merit; 2) that counsel\u2019s performance was unreasonable; and, 3) that counsel\u2019s ineffectiveness prejudiced defendant. Where it can not be determined from the record whether a satisfactory basis for counsel\u2019s action exists, an evidentiary hearing is usually needed to allow counsel to explain his or her actions so that we can resolve the issue of whether counsel\u2019s performance was unreasonable and, if so, prejudicial. See Commonwealth v. Davis, 499 Pa. 282, 453 A.2d 309 (1982). However, no evidentiary hearing is mandated where the record reflects either that the underlying claim is of no arguable merit or that no prejudice resulted. See Commonwealth v. Hubbard, 472 Pa. 259, 278, 372 A.2d 687, 696 (1977).\nBased on a review of the record, appellant has not demonstrated in any of his claims any violation of his right to effective assistance of counsel in the context of the circumstances of this case, e.g., appellant\u2019s voluntary appearance at the police barracks, the evidence found in appellant\u2019s truck following the consented-to search, his statements and confession, and the map. He has failed to demonstrate that any of his claims has arguable merit. He has further failed to support his claims by appropriate references to the record or by citations to legal authority. Assuming a claim has arguable merit, he has failed to demonstrate, in any instance, that the result of the case would have been different, i.e., that prejudice resulted. There is no need on the facts of this case to remand for an evidentiary hearing since the record supports no claim of arguable merit or no possibility that prejudice occurred. Appellant has not met any of the burdens under Pierce and its progeny.\nFinally, appellant argues that all of his statements to authorities should have been suppressed pursuant to Commonwealth v. Santiago, 528 Pa. 516, 599 A.2d 200 (1991). There, this court held that where a suspect subject to custodial interrogation invokes his right to counsel under the Fifth Amendment, interrogation must cease and the suspect may not be re-interrogated, even concerning an unrelated offense, without the presence of counsel. Appellant claims that, at the time of his questioning concerning the disappearance of the infant, he had been arrested and charged with molesting his daughters in Clearfield County and had retained an attorney. The record reflects no indication that appellant ever invoked his Fifth Amendment right to counsel concerning the other charges. Further, appellant gave his statements before he could be deemed to be in custodial interrogation. Santiago does not apply.\nWe now comply with our duty under 42 Pa.C.S. \u00a7 9711 (h)(3)(iii) to review sentences of death from the standpoint of the proportionality to sentences imposed in similar cases. Commonwealth v. Zettlemoyer, 500 Pa. 16, 63, 454 A.2d 937, 961 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983). We have reviewed the sentence imposed on appellant in light of sentencing data compiled and monitored by the Administrative Office of Pennsylvania Courts. See Commonwealth v. Frey, 504 Pa. 428, 443, 475 A.2d 700, 707-08 (1984). We perceive no excess or disproportionality in the sentence imposed. Further, the record does not provide any basis for belief that the sentence of death was the \u201cproduct of passion, prejudice or any other arbitrary factor.\u201d See 42 Pa.C.S. \u00a7 9711(h)(3)(i). Also, the evidence supports the finding of at least one aggravating circumstance specified in 42 Pa.C.S. \u00a7 9711(d) and of no mitigating circumstances. See 42 Pa.C.S. \u00a7 9711(h)(3)(h). Accordingly, the sentences must be affirmed.\nThe order of the Court of Common Pleas of Cambria County is affirmed.\nLARSEN, J., did not participate in the decision of this case.\nPAPADAKOS, J., did not participate in the consideration or decision of this case.\n. Appellant attempts to establish a denial of his right to effective legal representation through asserted action of his mother, June Patterson. She alleges that she was forbidden to call an attorney for the appellant while she was at the Huntingdon Barracks. The Supreme Court of the United States in Moran v. Burbine, 475 U.S. 412, 106 S.Ct. 1135, 89 L.Ed.2d 410 (1986), held that events occurring outside of the presence of a suspect and entirely unknown to him can have no bearing on the capacity to comprehend and knowingly relinquish his constitutional rights. After a determination that a suspect's decision not to rely on his rights was uncoerced, that he knew he could remain silent and request counsel, and that he was aware of the state's intention to use any statements or evidence to obtain a subsequent conviction, then a waiver is valid as a matter of law. Here, any right to the presence of legal counsel belonged solely to appellant and may not be assumed by third parties. He was informed that his mother was present and stated he did not want to see her. Any actions by her outside of the appellant's presence have no bearing upon an analysis relating to a waiver of his rights. Therefore, the issue is peripheral and irrelevant.\n. The troopers concluded that appellant was average to above-average intelligence with a average to above-average vocabulary and was not under the influence of drugs or alcohol.\n. Appellant also \u201cincorporates by reference\u201d claims in his post-trial motions as though set forth in his brief at length and requests this court to consider them in terms of ineffectiveness of trial counsel. We refuse to do so in that all claims appellant wishes us to consider must be set out in his brief and not merely incorporated by reference.\n. Appellant's unsubstantiated claims are that counsel allegedly failed to: investigate or cross-examine Trooper Lavelle regarding the difference between the times recorded on the search warrant for appellant\u2019s house and the receipt-inventory sheet completed subsequent to the search; cross-examine thoroughly for impeachment purposes the three witnesses who identified appellant as the person seen in the victim's bedroom at the time in question; call, as a witness, Cindi Snyder, who would have testified that appellant was at her home for two 15-minute intervals on the night in question; call other witnesses who would have testified to the sensitive demeanor of the victim; pursue appellant\u2019s claim that a helicopter search was conducted and something was found in the strip mine before appellant was called in for questioning; introduce evidence of Budweiser beer bottles found in the same area as the victim; call, as a witness, the victim\u2019s babysitter who would have testified that the victim's family had abused the child and were involved in a satanic cult, even though no testimony to this effect was deemed probative by the trial court; pursue the absence of a shoe allegedly found at the crime scene even though the record shows that it was used in another case against appellant; impeach a Commonwealth witness concerning her alleged (but not proven) statement that appellant was not the perpetrator and concerning the time of her arrival at her home; object, under the best evidence rule, to the introduction of a photocopy of a map drawn by a trooper from the map drawn by appellant, even though appellant\u2019s map was introduced into evidence; pursue the DNA testing of evidence and records at the Child and Youth Agency of Clearfield County, even though all scientific test results and reports and opinions were provided to the appellant; and, review the Children and Youth records of Clearfield County to see if there was any evidence helpful to his defense even though the trial judge reviewed the appropriate records from Clearfield County in chambers, found nothing exculpatory or that would aid the appellant in his case and, therefore, refused to turn them over to appellant. His other claims of ineffectiveness have been dealt with herein on the merits. Since the underlying claims have been deemed meritless, the ineffectiveness claims must also fail.\n. The Prothonotary of the Supreme Court is directed to transmit the complete record in this case to the Governor, 42 Pa.C.S. \u00a7 971 l(i).",
+        "type": "majority",
+        "author": "FLAHERTY, Justice."
+      }
+    ],
+    "attorneys": [
+      "Arthur T. McQuillan, Robert Davis Gleason, Gleason, DiFrancesco, Shahade, Barbin & Markovitz, Johnstown, John Elash, Pittsburgh, for appellant.",
+      "David J. Tulowitzki, Dist. Atty., J. Dennis Previte, Christian A. Fisanick, Asst. Dist. Attys., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "634 A.2d 1078\nCOMMONWEALTH of Pennsylvania, Appellee, v. Stephen Rex EDMISTON, Appellant.\nSupreme Court of Pennsylvania.\nArgued March 8, 1993.\nDecided Nov. 10, 1993.\nArthur T. McQuillan, Robert Davis Gleason, Gleason, DiFrancesco, Shahade, Barbin & Markovitz, Johnstown, John Elash, Pittsburgh, for appellant.\nDavid J. Tulowitzki, Dist. Atty., J. Dennis Previte, Christian A. Fisanick, Asst. Dist. Attys., for appellee.\nBefore NIX, C.J., LARSEN, FLAHERTY, ZAPPALA, CAPPY, and MONTEMURO, JJ."
+  },
+  "file_name": "0210-01",
+  "first_page_order": 400,
+  "last_page_order": 430
+}

@@ -1,0 +1,773 @@
+{
+  "id": 356270,
+  "name": "PAP'S A.M. t/d/b/a Kandyland, Appellant, v. The CITY OF ERIE, Joyce A. Savocchio, Chris E. Maras, Mario S. Bagnoni, Robert C. Brabender, Denise Robinson, and James N. Thompson, in Their Official Capacities, Appellees",
+  "name_abbreviation": "Pap's A.M. v. City of Erie",
+  "decision_date": "1998-10-21",
+  "docket_number": "Nos. 016 and 017 W.D. Appeal Docket 1997",
+  "first_page": "348",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "553 Pa. 348"
+    },
+    {
+      "type": "parallel",
+      "cite": "719 A.2d 273"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "471 Pa. 471",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1725171
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/471/0471-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 267",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827686
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0267-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 853",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195861
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "n. 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0853-01"
+      ]
+    },
+    {
+      "cite": "665 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        458972,
+        7880612
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0124-01",
+        "/a2d/665/1167-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 124",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458972
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0124-01"
+      ]
+    },
+    {
+      "cite": "2 A.2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 Pa. 342",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1186560
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "352-353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/332/0342-01"
+      ]
+    },
+    {
+      "cite": "502 U.S. 105",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6219760
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "118"
+        },
+        {
+          "page": "509-510"
+        },
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0105-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481018
+      ],
+      "weight": 13,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "127"
+        },
+        {
+          "page": "2399"
+        },
+        {
+          "page": "109"
+        },
+        {
+          "page": "134"
+        },
+        {
+          "page": "2403"
+        },
+        {
+          "page": "113-114"
+        },
+        {
+          "page": "134"
+        },
+        {
+          "page": "2403"
+        },
+        {
+          "page": "114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0123-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122537
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "193"
+        },
+        {
+          "page": "993"
+        },
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0188-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298296
+      ],
+      "weight": 6,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "177",
+          "parenthetical": "content-based restrictions will be upheld only if they are narrowly drawn to accomplish a compelling governmental interest."
+        },
+        {
+          "page": "1707",
+          "parenthetical": "content-based restrictions will be upheld only if they are narrowly drawn to accomplish a compelling governmental interest."
+        },
+        {
+          "page": "744",
+          "parenthetical": "content-based restrictions will be upheld only if they are narrowly drawn to accomplish a compelling governmental interest."
+        },
+        {
+          "page": "177"
+        },
+        {
+          "page": "1707"
+        },
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0171-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 367",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767540
+      ],
+      "weight": 6,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "377"
+        },
+        {
+          "page": "1679"
+        },
+        {
+          "page": "680"
+        },
+        {
+          "page": "377"
+        },
+        {
+          "page": "1679"
+        },
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0367-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 560",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107753
+      ],
+      "weight": 41,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "565-566"
+        },
+        {
+          "page": "2460"
+        },
+        {
+          "page": "511",
+          "parenthetical": "Rehnquist, C.J., authoring the opinion announcing the judgment of Court, joined by O'Connor and Kennedy, JJ."
+        },
+        {
+          "page": "581"
+        },
+        {
+          "page": "2468"
+        },
+        {
+          "page": "521",
+          "parenthetical": "Souter, J., concurring"
+        },
+        {
+          "page": "587"
+        },
+        {
+          "page": "2471"
+        },
+        {
+          "page": "525",
+          "parenthetical": "White, J., dissenting, joined by Marshall, Blackmun, and Stevens, JJ."
+        },
+        {
+          "page": "568"
+        },
+        {
+          "page": "2461"
+        },
+        {
+          "page": "512"
+        },
+        {
+          "page": "572"
+        },
+        {
+          "page": "2463"
+        },
+        {
+          "page": "515",
+          "parenthetical": "Scalia, J. concurring"
+        },
+        {
+          "page": "580"
+        },
+        {
+          "page": "2468"
+        },
+        {
+          "page": "520"
+        },
+        {
+          "page": "582"
+        },
+        {
+          "page": "2469"
+        },
+        {
+          "page": "522",
+          "parenthetical": "Souter, J., concurring"
+        },
+        {
+          "page": "587"
+        },
+        {
+          "page": "2471"
+        },
+        {
+          "page": "525",
+          "parenthetical": "White, J., dissenting"
+        },
+        {
+          "page": "591"
+        },
+        {
+          "page": "2473"
+        },
+        {
+          "page": "527"
+        },
+        {
+          "page": "594"
+        },
+        {
+          "page": "2475"
+        },
+        {
+          "page": "529"
+        },
+        {
+          "page": "592"
+        },
+        {
+          "page": "2474"
+        },
+        {
+          "page": "528",
+          "parenthetical": "White, J. dissenting"
+        },
+        {
+          "page": "594"
+        },
+        {
+          "page": "2475"
+        },
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0560-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 397",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6214891
+      ],
+      "weight": 12,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "403-406",
+          "parenthetical": "act of desecrating flag is not critical point in determining whether actor is engaging in expressive conduct; rather, the question to be answered is whether the actor intended to convey a particularized message"
+        },
+        {
+          "page": "2539-2540",
+          "parenthetical": "act of desecrating flag is not critical point in determining whether actor is engaging in expressive conduct; rather, the question to be answered is whether the actor intended to convey a particularized message"
+        },
+        {
+          "page": "352-354",
+          "parenthetical": "act of desecrating flag is not critical point in determining whether actor is engaging in expressive conduct; rather, the question to be answered is whether the actor intended to convey a particularized message"
+        },
+        {
+          "page": "403"
+        },
+        {
+          "page": "2539"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "403"
+        },
+        {
+          "page": "2539"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "403"
+        },
+        {
+          "page": "2539"
+        },
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0397-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 922",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9513
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/422/0922-01"
+      ]
+    },
+    {
+      "cite": "501 F.2d 18",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        93716
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/501/0018-01"
+      ]
+    },
+    {
+      "cite": "403 U.S. 15",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026621
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/403/0015-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811649
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/518/0210-01"
+      ]
+    },
+    {
+      "cite": "512 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800490
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "37"
+        },
+        {
+          "page": "1338"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/512/0023-01"
+      ]
+    },
+    {
+      "cite": "495 Pa. 158",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1770779
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "174"
+        },
+        {
+          "page": "1390"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/495/0158-01"
+      ]
+    },
+    {
+      "cite": "482 Pa. 377",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1749714
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "383"
+        },
+        {
+          "page": "1158"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/482/0377-01"
+      ]
+    },
+    {
+      "cite": "7 L.Ed.2d 93",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1961,
+      "opinion_index": 1
+    },
+    {
+      "cite": "82 S.Ct. 174",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1961,
+      "opinion_index": 1
+    },
+    {
+      "cite": "368 U.S. 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6324032,
+        6323297,
+        6324265,
+        6324503,
+        6323550
+      ],
+      "year": 1961,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/368/0897-03",
+        "/us/368/0897-01",
+        "/us/368/0897-04",
+        "/us/368/0897-05",
+        "/us/368/0897-02"
+      ]
+    },
+    {
+      "cite": "173 A.2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "61"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "405 Pa. 83",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1303597
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/405/0083-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 560",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107753
+      ],
+      "weight": 18,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "569",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "586"
+        },
+        {
+          "page": "575"
+        },
+        {
+          "page": "579"
+        },
+        {
+          "page": "590-592"
+        },
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/0560-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1567,
+    "char_count": 41526,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.493685606995669e-07,
+      "percentile": 0.922715571448374
+    },
+    "sha256": "b87993b4360fc47f6050b2de4a538229268964ca5b8fe175e06dd74d78dee8c0",
+    "simhash": "1:268e2f0aa68e5fe1",
+    "word_count": 6634
+  },
+  "last_updated": "2024-02-27T19:48:13.813802+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE and NIGRO, JJ.",
+      "NEWMAN, J., did not participate in the consideration or decision of this matter.",
+      "CASTILLE, J., files a concurring opinion in which ZAPPALA, J., joins.",
+      "ZAPPALA, J., joins this concurring opinion."
+    ],
+    "parties": [
+      "PAP\u2019S A.M. t/d/b/a Kandyland, Appellant, v. The CITY OF ERIE, Joyce A. Savocchio, Chris E. Maras, Mario S. Bagnoni, Robert C. Brabender, Denise Robinson, and James N. Thompson, in Their Official Capacities, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nCAPPY, Justice.\nThis is an appeal by allowance from the order of the Commonwealth Court reversing the trial court\u2019s order permanently enjoining the enforcement of the City of Erie\u2019s Ordinance 75-1994 (\u201cOrdinance\u201d), and striking the Ordinance in its entirety. For the following reasons, we now reverse.\nOn September 28, 1994, the City Council for the City of Erie (\u201cCity Council\u201d) enacted the Ordinance. The Ordinance states, inter alia, that it is a summary offense to appear in a \u201cstate of nudity\u201d. In order to avoid being in a \u201cstate of nudity,\u201d a female person over the age of ten years of age would have to wear, at a minimum, what are commonly known as \u201cpasties\u201d and a \u201cG-string\u201d. The effective date for the Ordinance was October 12, 1994.\nPap\u2019s A.M. (\u201cAppellant\u201d) is the operator of an establishment known as \u201cKandyland\u201d which features nude erotic dancing performed by women. On October 14, 1994, Appellant filed a complaint in equity, naming the City of Erie, the mayor for the City of Erie, and the members of the City Council (\u201cAppellees\u201d) as defendants. In its complaint, Appellant requested a declaratory judgment declaring the Ordinance unconstitutional as well as injunctive relief and attorney\u2019s fees.\nThe Court of Common Pleas of Erie County held hearings on this matter. On January 18, 1995, the trial court determined that the Ordinance was unconstitutionally overbroad on its face. It therefore granted the permanent injunction and struck down the Ordinance. The trial court, however, denied Appellant\u2019s request for attorney fees.\nAppellant and Appellees cross-appealed to the Commonwealth Court. The Commonwealth Court determined that the trial court erred when it held that the Ordinance was unconstitutionally overbroad. Furthermore, it determined that Appellant\u2019s additional claim that the Ordinance impermissibly infringed upon Appellant\u2019s right to freedom of expression as guaranteed by the United States and Pennsylvania Constitutions was not borne out. It therefore reversed the trial court\u2019s order striking the Ordinance and awarding Appellant injunctive relief.\nAppellant then filed a petition for allowance of appeal with this court. We granted review, limited to the issues of whether the Ordinance violates the right to freedom of expression as guaranteed by the United States and Pennsylvania Constitutions and whether the Ordinance is unconstitutionally overbroad.\nIn examining whether the Ordinance violates Appellant\u2019s freedom of expression as guaranteed by the First Amendment, we must initially determine whether nude dancing constitutes expressive conduct which is within the First Amendment\u2019s protective ambit. The act of being in the nude is not, in and of itself, entitled to First Amendment protection because no message is being conveyed. Cf. Texas v. Johnson, 491 U.S. 397, 403-406, 109 S.Ct. 2533, 2539-2540, 105 L.Ed.2d 342, 352-354 (1989) (act of desecrating flag is not critical point in determining whether actor is engaging in expressive conduct; rather, the question to be answered is whether the actor intended to convey a particularized message). Yet the act of dancing nude, with its attendant erotic message, is an expressive act entitled to First Amendment protection. We can say this with certainty because a majority of the United States Supreme Court recently endorsed such a view in Barnes v. Glen Theatre, Inc., 501 U.S. 560, 111 S.Ct. 2456, 115 L.Ed.2d 504 (1991). Although Barnes was an otherwise hopelessly fragmented decision, eight of the nine members of the Court agreed that nude dancing, as it portrayed an erotic message, is expressive conduct and is entitled to some quantum of protection under the First Amendment. Id. at 565-566, 111 S.Ct. at 2460, 115 L.Ed.2d at 511 (Rehnquist, C.J., authoring the opinion announcing the judgment of Court, joined by O\u2019Connor and Kennedy, JJ.); id. at 581, 111 S.Ct. at 2468, 115 L.Ed.2d at 521 (Souter, J., concurring); id. at 587, 111 S.Ct. at 2471, 115 L.Ed.2d at 525 (White, J., dissenting, joined by Marshall, Blackmun, and Stevens, JJ.)\nAs we have determined that nude dancing is entitled to some First Amendment protection, we must next decide whether the Ordinance is related to the suppression of expression. Johnson, 491 U.S. at 403, 109 S.Ct. at 2539, 105 L.Ed.2d at 352. In making this determination, we determine whether the governmental interest in enacting the Ordinance was a content-neutral one. See United States v. O\u2019Brien, 391 U.S. 367, 377, 88 S.Ct. 1673, 1679, 20 L.Ed.2d 672, 680 (1968). Resolution of this inquiry is critical to our analysis for if the Ordinance is related to the suppression of expression, then the onerous strict scrutiny test applies. Johnson, 491 U.S. at 403, 109 S.Ct. at 2539, 105 L.Ed.2d at 352; see also United States v. Grace, 461 U.S. 171, 177, 103 S.Ct. 1702, 1707, 75 L.Ed.2d 736, 744 (1983) (content-based restrictions will be upheld only if they are narrowly drawn to accomplish a compelling governmental interest.) If, however, the governmental interest is content-neutral, and therefore is unrelated to the suppression of expression, \u201cthen the less stringent standard ... announced in United States v. O\u2019Brien for regulations of noncommunicative conduct controls.\u201d Johnson, 491 U.S. at 403, 109 S.Ct. at 2539, 105 L.Ed.2d at 352.\nIn determining whether the Ordinance is related to the suppression of free expression, the Commonwealth Court below turned for guidance to the United States Supreme Court\u2019s decision in Barnes, supra, a case which presented a situation very similar to the one presented in the matter sub judice. After engaging in the difficult task of determining what, if any, holding could be gleaned from the hopelessly fragmented Barnes Court, the Commonwealth Court determined that the concurring opinion authored by Justice Souter was dispositive.\nWe, too, begin our analysis of whether the Ordinance is content-based by reviewing the Barnes decision. The Court in Barnes analyzed an Indiana statute, which is strikingly similar to the Ordinance we are examining, to determine whether that statute violated the First Amendment. Unfortunately for our purposes, the Barnes Court splintered and produced four separate, non-harmonious opinions. We must review each of the opinions to see if any holding can be gleaned from them.\nThe Chief Justice, in his opinion announcing the judgment of court, concluded that nude dancing is expressive conduct within the peripheral boundaries of First Amendment protection. He determined that the statute in question was a content-neutral restriction on speech since the governmental interest in protecting societal order and morality was unrelated to the suppression of free expression. Id. at 568, 111 S.Ct. at 2461, 115 L.Ed.2d at 512. He went on to conclude that the statute met the less stringent standard of O\u2019Brien.\nJustice Scalia authored a separate concurring opinion. Barnes, 501 U.S. at 572, 111 S.Ct. at 2463, 115 L.Ed.2d at 515 (Scalia, J. concurring). Although he agreed with the Chief Justice\u2019s conclusion that the statute was constitutional, Justice Scalia arrived at this conclusion by a radically different route. Disagreeing with the other eight members of the Court, he would have found that nude dancing is entitled to no First Amendment protection, and that only a rational basis for the statute need exist for the statute to be found constitutional. Id. at 580, 111 S.Ct. at 2468, 115 L.Ed.2d at 520.\nJustice Souter also agreed with the result reach by the Chief Justice, but wrote separately to express his view that the content-neutral governmental interest forwarded by the statute was prevention of the negative secondary effects (such as prostitution, sexual assault, and other criminal acts) which are associated with nude dancing establishments. Id. at 582, 111 S.Ct. at 2469, 115 L.Ed.2d at 522 (Souter, J., concurring).\nJustice White\u2019s dissenting opinion, which was joined by Justices Marshall, Blackmun, and Stevens, garnered the most votes of any of the Barnes opinions. Id. at 587, 111 S.Ct. at 2471, 115 L.Ed.2d at 525 (White, J., dissenting). Justice White expressed the opinion that the purpose of the statute was \u201cto protect the viewers from what the State believes is the harmful message that nude dancing communicates.\u201d Id. at 591, 111 S.Ct. at 2473, 115 L.Ed.2d at 527. Thus, since the statute was content-based, it was subject to analysis under the strict scrutiny test, a test which the dissenters believed the statute could not pass because the statute was not narrowly tailored. Id. at 594, 111 S.Ct. at 2475, 115 L.Ed.2d at 529.\nFrom this hodgepodge of opinions, the Commonwealth Court selected the concurring opinion authored by Justice Souter as expressing the position of the Court and accorded it the status of binding precedent. In arriving at this conclusion, the Commonwealth Court quoted the United States Supreme Court\u2019s dictate that where \u201ca fragmented Court decides a case and no single rationale explaining the result enjoys the assent of five Justices, the holding of the Court may be viewed as that position taken by those Members who concurred in the judgments on the narrowest grounds....\u201d Marks v. United States, 430 U.S. 188, 193, 97 S.Ct. 990, 993, 51 L.Ed.2d 260, 266 (1977). Applying Marks to the Barnes opinions, the Commonwealth Court concluded that Justice Souter\u2019s opinion provided those \u201cnarrowest grounds\u201d and therefore accorded it precedential effect.\nWhile we empathize with the Commonwealth Court\u2019s plight when faced with trying to make sense out of Barnes, we cannot agree that Justice Souter\u2019s concurring opinion is binding precedent. We agree that it is possible to cobble together a holding out of a fragmented decision. Yet, in order to do so, a majority of the Court must be in agreement on the concept which is to be deemed the holding. It is certainly permissible to find that a Justice\u2019s opinion which stands for the \u201cnarrowest grounds\u201d is precedential, but only where those \u201cnarrowest grounds\u201d are a sub-set of ideas expressed by a majority of other members of the Court. The mere finding that one Justice expressed a narrower belief than others does not dispense with the requirement that a majority of the Court need agree on a concept before that concept can be treated as binding precedent.\nIt is simply not possible to find that Justice Souter\u2019s position in Barnes commanded five votes. Even if we were to assume arguendo that his concurring opinion provided an approach which was \u201cnarrower\u201d than, and yet still encompassed by and consistent with, the one taken by the Chief Justice, such a concession would provide only four votes for Justice Souter\u2019s position. The fifth vote for Justice Souter\u2019s position is not forthcoming. It cannot be provided by Justice Scalia, who believed that restrictions on nude dancing are not to be analyzed pursuant to the First Amendment. Nor can it be said that the dissenters, who rejected -the notion that the state\u2019s goal of combating secondary effects via the statute rendered the statute content-neutral, were in agreement with Justice Souter.\nWe find that the Commonwealth Court\u2019s determination that Justice Souter\u2019s \u201csecondary effects\u201d rationale represents the \u201cholding\u201d of Barnes is simply not borne out. In fact, aside from the agreement by a majority of the Barnes Court that nude dancing is entitled to some First Amendment protection, we can find no point on which a majority of the Barnes Court agreed. Thus, although we may find that the opinions expressed by the Justices prove instructive, no clear precedent arises out of Barnes on the issue of whether the Ordinance in the matter sub judice passes muster under the First Amendment.\nHaving determined that there is no United States Supreme Court precedent which is squarely on point, we turn to our own independent examination of the Ordinance itself to determine whether it is related to the suppression of free expression. The City Council stated plainly in the Ordinance that it was adopting this regulation\nfor the purpose of limiting a recent increase in nude live entertainment within the City, which activity adversely impacts and threatens to impact on the public health, safety and welfare by providing an atmosphere conducive to violence, sexual harassment, public intoxication, prostitution, the spread of sexually transmitted diseases and other deleterious effects.\nWe acknowledge that one of the purposes of the Ordinance is to combat negative secondary effects. That, however, is not its only goal. Inextricably bound up with this stated purpose is an unmentioned purpose that directly impacts on the freedom of expression: that purpose is to impact negatively on the erotic message of the dance. We find that Justice White expressed this position most eloquently in his dissenting opinion in Barnes when he declared that\nit cannot be [said] that the statutory prohibition is unrelated to expressive conduct. Since the State permits the dancers to perform if they wear pasties and G-strings but forbids nude dancing, it is precisely because of the distinctive, expressive content of the nude dancing performances at issue in this case that the State seeks to apply the statutory prohibition. It is only because nude dancing performances may generate emotions and feelings of eroticism and sensuality among the spectators that the State seeks to regulate such expressive activity, apparently on the assumption that creating such thoughts and ideas in the minds of the spectators may lead to increased prostitution and the degradation of women. But generating thoughts, ideas, and emotions is the essence of communication.\nBarnes, 501 U.S. at 592, 111 S.Ct. at 2474, 115 L.Ed.2d at 528 (White, J. dissenting). We believe that Justice White\u2019s analysis is directly applicable to the situation before us now, and that the stated purpose for promulgating the Ordinance is inextricably linked with the content-based motivation to suppress the expressive nature of nude dancing.\nWe find further support for our rationale in the United States Supreme Court\u2019s holding in Forsyth County, Georgia v. Nationalist Movement, 505 U.S. 123, 112 S.Ct. 2395, 120 L.Ed.2d 101 (1992). In Forsyth County, a county ordinance imposed a fee for the issuance of parade permits. The administrator responsible for setting the fee was directed to take into account, among other things, the possible costs of police protection needed at certain events. Id. at 127, 112 S.Ct. at 2399, 120 L.Ed.2d at 109. \u201cThe fee assessed will depend on the administrator\u2019s measure of the amount of hostility likely to be created by the speech based on its content. Those wishing to express views unpopular with bottle throwers, for example, may have to pay more for their permit.\u201d Id. at 134, 112 S.Ct at 2403, 120 L.Ed.2d at 113-114.\nAs in the matter sub judice, the governmental entity in Forsyth declared that the ordinance permitting the adjustable fee was content-neutral because it was \u201caimed only at a secondary effect\u2014 the cost of maintaining public order.\u201d Id. at 134, 112 S.Ct. at 2403, 120 L.Ed.2d at 114. The Court flatly rejected this argument, stating that the secondary effects rationale was inextricably linked with the suppression of speech for the negative secondary effects were related to the content of the expressive message conveyed by the marchers. The Court cogently stated that \u201c[l]isteners\u2019 reaction to speech is not a content-neutral basis for regulation.\u201d Id.\nSimilarly, the negative secondary effects associated with nude dancing are inextricably linked to the erotic message of the dance. Thus, as in Forsyth County, we find that a content-neutral reason is insufficient to save the Ordinance since it is inextricably linked with a content-based motivation for the restriction.\nSince the Ordinance\u2019s restrictions are content-based, we must now determine if the Ordinance passes the strict scrutiny test. Grace, 461 U.S. at 177, 103 S.Ct. at 1707, 75 L.Ed.2d at 744. In order to pass the strict scrutiny test, the burden is on Appellees to establish that the Ordinance is narrowly drawn to accomplish a compelling governmental interest. Simon & Schuster, Inc. v. Members of N.Y. State Crime Victims Bd., 502 U.S. 105, 118, 112 S.Ct. 501, 509-510, 116 L.Ed.2d 476, 488 (1991).\nWe begin our review of this issue by noting that Appellees have not presented us with a strict scrutiny analysis as part of their brief. Establishing that the Ordinance passes the strict scrutiny test is a burden for Appellees to bear. Simon & Schuster, supra. Appellees\u2019 utter failure to carry their burden on this point would be a sufficient reason to find that the strict scrutiny test was not met here.\nFurthermore, our own independent analysis of this issue leads us to conclude that the strict scrutiny test cannot be satisfied. The most compelling governmental interest which could be articulated in connection with the Ordinance is the interest in deterring sex crimes. It is beyond cavil that curbing crimes such as prostitution and rape is a compelling governmental interest.\nYet, that determination satisfies only one half of the strict scrutiny test. It still must be established that the Ordinance is narrowly tailored to meet this compelling interest. On this front, we come to the inescapable conclusion that the Ordinance must fail. We agree with Justice White\u2019s statement in Barnes that there are several ways to combat these social ills without banning the expressive activity of nude dancing. Justice White suggested that \u201cthe State could perhaps require that, while performing, nude performers remain at all times a certain minimum distance from spectators, that nude entertainment be limited to certain hours, or even that establishments providing such entertainment be dispersed throughout the city.\u201d Barnes, 501 U.S. at 594, 111 S.Ct. at 2475, 115 L.Ed.2d at 529. These restrictions, unlike the restrictions found in the Ordinance, could be viewed as content-neutral restrictions on the time, place, and manner in which nude dancing could be conducted, and, if so, would not trigger the strict scrutiny test.\nFurthermore, we also find it highly circuitous to prevent rape, prostitution, and other sex crimes by requiring a dancer in a legal establishment to wear pasties and a G-string before appearing on stage. We believe that imposing criminal and civil sanctions on those who commit sex crimes such as prostitution or rape would be a far narrower way of achieving the compelling governmental interest.\nNow that we have determined that the Ordinance places an unconstitutional burden on Appellant\u2019s freedom of expression, we next consider Appellees\u2019 claim that we may sever the unconstitutional portions rather than striking the Ordinance in its entirety. In support of their position, Appellees\u2019 rely upon 1 Pa.C.S. \u00a7 1925 and the \u201cConstruction and Severability\u201d clause of the Ordinance.\nWhen we determine that an ordinance is unconstitutional, we sever the unconstitutional portions if \u201cthe remainder of the [Ordinance] ... shall not be affected thereby....\u201d 1 Pa.C.S. \u00a7 1925. Yet, we are specifically directed that we may not sever the unconstitutional portions of an ordinance where \u201cthe valid provisions of the [Ordinance] are so essentially and inseparably connected with, and so depend upon, the void provision or application, that it cannot be presumed the [City Council] would have enacted the remaining valid provisions without the void one....\u201d Id.\nAppellees assert that this court may \u201csever\u201d the Ordinance by merely \u201csevering] only the necessary \u2018expressive\u2019 nudity from the ordinance....\u201d Appellees\u2019 Brief at 13. As there is no language in the Ordinance which separates non-expressive nudity from expressive nudity, we presume that Appellees would have this court draft such language and insert it into the Ordinance.\nSuch a position shows a fundamental misunderstanding of the mechanics of severing void portions of a statute as\nwell as the constitutional doctrine of separation of powers. In severing void portions of a statute or ordinance, a court is empowered merely to strike existing language; the judiciary is given no authority to draft its own language and insert it into the statute or ordinance.\nLimitations on the power to sever statutes and ordinances are consistent with the constitutional doctrine of the separation of powers, a doctrine which has been at the heart of our governmental system since the 1776 Plan or Form of Government for the Commonwealth or State of Pennsylvania. Dauphin County Grand Jury Investigation Proceedings (No. 2), 332 Pa. 342, 352-353, 2 A.2d 804, 807 (1938). By this doctrine, the legislative branch, and not the judicial branch, is given the power to promulgate legislation. The Federalist No. 17 (James Madison). To aggregate to ourselves the power to write legislation would upset the delicate balance in our tripartite system of government. We therefore decline Appellees\u2019 invitation.\nYet another option for severing the Ordinance would be to remove \u00a7\u00a7 1(c) and 2, the provisions which concern the bar to public nudity. We find this option to be tenable. In severing those portions of the Ordinance, we would remove but one of the four prohibitions. The other three forbidden activities are independent of the public nudity ban, and striking \u00a7\u00a7 1(c) and 2 would in no fashion render those other provisions inoperative. The other three prohibitions are thus not so \u201cessentially and inseparably connected with\u201d the public nudity ban that we could conclude that the City Council would have opted not to enact the valid provisions without \u00a7\u00a7 1(c) and 2. We thus find that severance is appropriate pursuant to 1 Pa.C.S. \u00a7 1925, and sever \u00a7\u00a7 1(c) and 2 from the Ordinance.\nThe order of the Commonwealth Court below is reversed.\nNEWMAN, J., did not participate in the consideration or decision of this matter.\nCASTILLE, J., files a concurring opinion in which ZAPPALA, J., joins.\n. We have jurisdiction over this matter pursuant to 42 Pa.C.S. \u00a7 724.\n. The Ordinance states in relevant part:\n1. A person who knowingly or intentionally in a public place:\na. engages in sexual intercourse;\nb. engages in deviate sexual intercourse as defined by the Pennsylvania Crimes Code;\nc. appears in a state of nudity, or\nd. fondles the genitals of himself, herself or another person commits Public Indecency, a Summary Offense.\n2. \"Nudity\u201d means the showing of the human male or female genital (sic), pubic area or buttocks with less than a fully opaque covering; the showing of the female breast with less than a fully opaque covering of any part of the nipple; the exposure of any device, costume, or covering which gives the appearance of or simulates the genitals, pubic hair, natal cleft, perineum anal region or pubic hair region; or the exposure of any device worn as a cover over the nipples and/or areola of the female breast, which device simulates and gives the realistic appearance of nipples and/or areola.\n3. \"Public Place\u201d includes all outdoor places owned by or open to the general public, and all buildings and enclosed places owned by or open to the general public, including such places of entertainment, taverns, restaurants, clubs, theaters, dance halls, banquet halls, party rooms or halls limited to specific members, restricted to adults or to patrons invited to attend, whether or not an admission charge is levied.\n4. The prohibition set forth in subsection 1(c) shall not apply to:\na. Any child under ten (10) years of age; or\nb. Any individual exposing a breast in the process of breastfeeding an infant under two (2) years of age.\n6. CONSTRUCTION AND SEVERABILITY\u2014It is the intention of the City of Erie that the provisions of this ordinance be construed, enforced and interpreted in such a manner as will cause the least possible infringement of the constitutional rights of free speech, free expression, due process, equal protection or other fundamental rights consistent with the purposes of this ordinance. Should a court of competent jurisdiction determine that any part of this ordinance, or any application or enforcement of it is excessively restrictive of such rights or liberties, then such portion of the ordinance, or specific application of the ordinance, shall be severed from the remainder, which shall continue in full force and effect.\n. Since the Commonwealth Court found that the Ordinance was constitutional, it saw no need to address Appellant\u2019s claim that it was entitled to attorney's fees.\n. In reviewing the determination of the court below, our scope of review is plenary as the issues presented in this case are questions of law. See Phillips v. A-Best Products Co., 542 Pa. 124, 130, 665 A.2d 1167, 1170 (1995).\n. The First Amendment is made applicable to the states by the Due Process Clause of the Fourteenth Amendment. Board of Education, Island Trees Union Free School Dist. No. 26 v. Pico, 457 U.S. 853, 855 n. 1, 102 S.Ct. 2799, 2802 n. 1, 73 L.Ed.2d 435, n. 1 (1982).\n. The O\u2019Brien Court stated that the \"government regulation is sufficiently justified\u201d if it meets all factors of the following four-part test:\n1) Promulgation of the regulation is within the constitutional power of the government;\n2) The regulation furthers an important or substantial governmental interest;\n3) The governmental interest is unrelated to the suppression of free expression; and\n4) The incidental restriction on First Amendment freedoms is no greater than essential to the furtherance of that interest.\nUnited States v. O'Brien, 391 U.S. 367, 377, 88 S.Ct. 1673, 1679, 20 L.Ed.2d 672, 680 (1968).\n. In fact, we have done so in this opinion at page 276, supra.\n. Section 1925 is part of the Statutory Construction Act (\"Act\u201d). In construing an ordinance, we follow the dictates of the Act even though the Act applies specifically to statutes and is not expressly applicable to local ordinances. Patricca v. Zoning Bd. of Adjustment of the City of Pittsburgh, 527 Pa. 267, 590 A.2d 744 (1991).\n. See footnote 1, supra, for the full text of the \"Construction and Severability\u201d clause of the Ordinance.\n. Appellees' citation to Commonwealth, Dept. of Education v. First School, 471 Pa. 471, 370 A.2d 702 (1977) for the proposition that we may rewrite the Ordinance is unavailing. In First School, this court merely excised all portions of a statute which referred to giving financial aid to sectarian schools, leaving all those provisions which gave financial aid to non-sectarian schools. No portion of First School endorsed this court violating the separation of powers by engaging in the legislative function of drafting legislation.\n. Those three activities are: publicly engaging in sexual intercourse; publicly engaging in deviate sexual intercourse; and, publicly fondling genitalia. Footnote 2, supra.\n. As we have determined that the Ordinance violates Appellant\u2019s freedom of expression as guaranteed by the United States Constitution, there is no need for us to determine whether the comparable provision found in Article I, \u00a7 7 of the Pennsylvania Constitution is also violated. Furthermore, we need not address either Appellant's claim that the Ordinance is unconstitutionally overbroad, or Appellees' claim that Appellant lacks standing to raise this overbreadth challenge.",
+        "type": "majority",
+        "author": "CAPPY, Justice."
+      },
+      {
+        "text": "CASTILLE, Justice,\nconcurring.\nI agree with the majority that Sections 1(c) and 2 of the ordinance at issue must be stricken. However, because a majority of the United States Supreme Court has upheld the constitutionality of a virtually identical ordinance under the First Amendment to the Federal Constitution, and because this Court is bound by the United States Supreme Court\u2019s interpretations of the Federal Constitution, I must disagree with the majority\u2019s conclusion that the provisions of the ordinance at issue fail under the First Amendment to the Federal Constitution. Instead, I believe that the provisions of the ordinance at issue here must be stricken under Article I, \u00a7 7 of the Pennsylvania Constitution. Accordingly, I concur only in the result reached by the majority in this matter.\nThe United States Supreme Court case which lies at the crux of this matter is Barnes v. Glen Theatre, Inc., 501 U.S. 560, 111 S.Ct. 2456, 115 L.Ed.2d 504 (1991). In Barnes, the United States Supreme Court reviewed a statute which was, as the majority herein states, \u201cstrikingly similar\u201d to the ordinance sub judice. The critical issue in Barnes was the characterization of the purpose of the statute, for if the purpose of a statute is the suppression of protected expression, then under prevailing First Amendment precedent, the strict scrutiny test applies.\nAccording to the majority in the instant matter, there was \u201cno point on which a majority of the Barnes Court agreed,\u201d aside from agreeing that nude dancing is expressive conduct for First Amendment purposes. Maj. Op. at 278. Thus, the majority gleans that Barnes is not binding precedent on the issue of whether the ordinance sub judice can be characterized as relating to the suppression of free expression under the First Amendment. Finding no such binding precedent in Barnes, the majority proceeds to determine that the ordinance at issue here is related to the suppression of free expression, and further finds that the ordinance fails to pass constitutional muster under the strict scrutiny test. I believe that the majority herein strains to find discord in Barnes where none exists. In so doing, the majority circumvents binding United States Supreme Court precedent.\nMy disagreement with the majority centers on the fact that five Justices, and thus a majority, voted to uphold the ordinance in Barnes on the basis that the ordinance at issue in Barnes could not be characterized as relating to the suppression of free expression for purposes of the First Amendment. Therefore, a five-justice majority declined to apply the strict scrutiny test.\nThe plurality opinion, authored by Chief Justice Rehnquist and joined by Justices Kennedy and O\u2019Connor, stated: \u201c... the public indecency statute furthers a substantial government interest in protecting order and morality. This interest is unrelated to the suppression of free expression.\u201d Barnes, supra, 501 U.S. at 569 (emphasis added).\nIn a separate concurrence, Justice Souter agreed with the majority that the statute was not aimed at the suppression of free expression, and therefore also declined to apply strict scrutiny. Id. at 586, 111 S.Ct. 2456 (Souter, J., concurring) (\u201cthe [state\u2019s] interest is unrelated to the suppression of free expression\u201d) (emphasis added). Justice Souter simply disagreed with the majority as to what purpose the statute was in fact serving, believing that purpose to be the prevention of prostitution, sexual assaults and other criminal activity, rather than the general interest in morality asserted by the majority. Id.\nFinally, in another separate concurrence, Justice Scalia agreed with the plurality and Justice Souter that the purpose of the statute was not the suppression of protected free expression. Justice Scalia wrote separately because he did not believe that the \u201cpublic nudity\u201d proscribed by the statute was entitled to any First Amendment protection at all since it was not \u201cexpressive\u201d behavior which would fall within the protective ambit of the First Amendment. However, Justice Scalia agreed with the plurality regarding the underlying purpose of the statute:\nThe purpose of the Indiana statute, as both its text and the manner of enforcement demonstrate, is to enforce the traditional moral belief that people should not expose their private parts indiscriminately, regardless of whether those who see them are disedified. Since that is so, the dissent has no basis for positing that, where only thoroughly edified adults are present, the purpose must be repression of communication.\nId. at 575, 111 S.Ct. 2456 (Scalia, J., eoncurring)(emphasis added). Thus, while Justice Scalia did not entirely endorse the plurality\u2019s reasoning, he also did \u201cnot think the plurality\u2019s conclusions differ greatly from my own.\u201d Id. at 579, 111 S.Ct. 2456.\nThus, the basic premise upon which five Justices of the United States Supreme Court agreed is that the purpose of a statute virtually identical to the one at issue here cannot be characterized as the suppression of protected expression. Accordingly, none of these five Justices believed that the strict scrutiny test was appropriate. The majority herein overlooks this fact, deems the Barnes Court \u201chopelessly fragmented\u201d and discerns no binding common ground in Barnes. Consequently, the majority adopts the position of the Barnes dissenters, finds the ordinance at issue a content-based ordinance which is aimed at the suppression of protected expression and applies the strict scrutiny test. By applying the First Amendment strict scrutiny test in spite of Barnes, the majority here defies binding precedent.\nAlthough I believe that Sections 1(c) and 2 of the Ordinance at issue here do not fail under the First Amendment in light of Barnes, I nevertheless concur in the result reached by the majority since I believe that those provisions must be stricken under Article I, \u00a7 7 of the Pennsylvania Constitution, which provides: \u201c... The free communication of thoughts and opinions is one of the invaluable rights of man, and every citizen may freely speak, write and print on any subject, being responsible for the abuse of that liberty ... \u201d. Pa. Const. Art. 1. \u00a7 7. This Court has repeatedly determined that Article I, \u00a7 7 affords greater protection to speech and conduct in this Commonwealth than does its federal counterpart, the First Amendment. See William Goldman Theatres, Inc. v. Dana, 405 Pa. 83, 87, 173 A.2d 59, 61, cert. denied, 368 U.S. 897, 82 S.Ct. 174, 7 L.Ed.2d 93 (1961); Willing v. Mazzocone, 482 Pa. 377, 383, 393 A.2d 1155, 1158 (1978); Commonwealth v. Tate, 495 Pa. 158, 174, 432 A.2d 1382, 1390 (1981); Western Pennsylvania Socialist Workers v. Connecticut Gen. Life Ins., 512 Pa. 23, 37, 515 A.2d 1331, 1338 (1986); Insurance Adjustment Bureau v. Insurance Commissioner, 518 Pa. 210, 542 A.2d 1317 (1988).\nI believe that the dissent authored by Justice White in Barnes is persuasive and that this Court should adopt it for purposes of interpreting Article I, \u00a7 7 of the Pennsylvania Constitution. As Justice White pointed out in Barnes, the position of the Barnes plurality\u2014that the purpose served by the ordinance at issue was to protect morals and public order rather than to suppress free expression\u2014is patently erroneous. Justice White wrote:\nThe purpose of forbidding people to appear nude in parks, beaches, hot dog stands and like public places is to protect others from offense. But that could not possibly be the purpose of preventing nude dancing in theatres and barrooms since the viewers are exclusively consenting adults who pay money to see these dances. The purpose of the proscription in these contexts is to protect the viewers from what the State believes is the harmful message that nude dancing communicates.\nThis being the case, it cannot be that the statutory prohibition is unrelated to expressive conduct. Since the state permits the dancers to perform if they wear pasties and G-strings but forbids nude dancing, it is precisely because of the distinctive, expressive content of the nude dancing performances in this case that the State seeks to apply the statutory prohibition. It is only because nude dancing performances may generate emotions and feelings of eroticism and sensuality among the spectators that the State seeks to regulate such expressive activity, apparently on the assumption that creating or emphasizing such thoughts or ideas in the minds of the spectators may lead to increased prostitution and the degradation of women. But generating thoughts, ideas, and emotions is the essence of communication. The nudity element of nude dancing performances cannot be pigeonholed as mere \u201cconduct\u201d independent of any expressive component of the dance.\nBarnes, supra, 501 U.S. at 590-592, 111 S.Ct. 2456 (White, J., dissenting).\nJustice White\u2019s dissent forcefully articulates the position which I believe that this Court should adopt for purposes of our interpretation of Article I, \u00a7 7 of the Pennsylvania Constitution. If the purpose of the ordinance, as the plurality and Justice Scalia believed, was merely to \u201cenforce the traditional moral belief that people should not expose their private parts indiscriminately,\u201d then the ordinance presumably would not allow people to display indiscriminately their private parts to innumerable relatives, friends, and others whom they care to invite into their homes. Since the ordinance does not prohibit such behavior, the moral justification must be deemed illusory. The true purpose of the ordinance, as applied to appellant and others similarly situated, is to prevent the customers in appellant\u2019s and like establishments from being exposed to the distinctive communicative aspects of nude dancing. One might call this a moral justification, insofar as the drafters of the ordinance seem to be expressing their moral condemnation of those citizens of the Commonwealth who are attracted to this distinct form of communication, but lawmakers cannot invoke the sword of morality specifically to attack a form of protected expression. The fact that this particular form of protected expression may not ascend to the level of a high art form is irrelevant. Lawmakers may not categorically proscribe any form of protected expression simply because they are not at ease with its content.\nAccordingly, for purposes of Article I, \u00a7 7 of the Pennsylvania Constitution, I believe that the strict scrutiny test is appropriately applied in this case. I concur in the majority\u2019s application of the strict scrutiny test, as well as the remainder of the majority\u2019s disposition of this case.\nZAPPALA, J., joins this concurring opinion.\n. The ordinance in Barnes provided:\nSec. 1. (a) A person who knowingly or intentionally, in a public place:\n(1) engages in sexual intercourse;\n(2) engages in deviate sexual conduct;\n(3) appears in a state of nudity; or\n(4) fondles the genitals of another person; commits public indecency, a Class A misdemeanor.\n(b) \u2018Nudity\u2019 means the showing of the human male or female genitals, pubic area or buttocks with less than a fully opaque covering, the showing of the female breast with less than a fully opaque covering of any part of the nipple, or the showing of the covered male genitals in a discernibly turgid state.\nThe ordinance at issue in the matter sub judice is excerpted in footnote two of the Majority Opinion.\n. Notwithstanding Justice Scalia\u2019s belief that his own concurrence did not depart significantly from the plurality\u2019s position, the majority of this Court confidently asserts that Justice Scalia arrived at his conclusion by a \"radically different route\u201d than that taken by the Barnes plurality. Regardless of whether Justice Scalia\u2019s concurrence is to be interpreted in accordance with Justice Scalia\u2019s clearly stated intent or interpreted as the majority herein characterizes it, the important point is that Justice Scalia, like the plurality and Justice Souter, clearly did not believe that the statute was aimed at the suppression of protected expression.\n. The majority acknowledges that binding precedent can emanate from a fragmented Court when that Court can be said to be in agreement on a given concept. See Maj. Slip Op. at 278.\n. Barnes, supra, 501 U.S. at 575, 111 S.Ct. 2456 (Scalia, J., concurring).\n. This concept was eloquently articulated by Justice Harlan: \u201cIt is largely because government officials cannot make principled decisions in this area that the Constitution leaves matters of taste and style so largely to the individual.\u201d Cohen v. California, 403 U.S. 15, 25, 91 S.Ct. 1780, 29 L.Ed.2d 284 (1971). Or, put another way: \"While the entertainment afforded by a nude ballet at Lincoln Center to those who can pay the price may differ vastly in content (as viewed by judges) or in quality (as viewed by critics), it may not differ in substance from the dance viewed by the person who ... wants some \u2018entertainment\u2019 with his beer or shot of rye.\u201d Salem Inn, Inc. v. Frank, 501 F.2d 18, 21 n. 3 (2d Cir.1974), aff'd in part sub nom. Doran v. Salem Inn, Inc., 422 U.S. 922, 95 S.Ct. 2561, 45 L.Ed.2d 648 (1975).",
+        "type": "concurrence",
+        "author": "CASTILLE, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Philip B. Friedman, Erie, for PAP\u2019s A.M. t/d/b/a Kandyland.",
+      "Carl Max Janavitz, Pittsburgh, Michael Murray, Norris-town, Stephen D. Shafron, Paul J. Cambria, Jr., Buffalo, NY, for Golden Triangle News, Inc., a Delaware Corp. t/d/b/a Golden Triangle News and Mello News; Monroeville News, Inc.; Fairview Books, Inc. t/d/b/a Good N Plenty; B.L.V.D. News; and North Hills News, Inc. (Amici Curiae).",
+      "Gregory A. Karle, Gerald J. Villella, Erie, for the City of Erie, Joyce A. Savocchio, Chris E. Maras, Mario S. Bognoni, Robert C. Brabender, Denise Robinson and James N. Thompson.",
+      "Kerry A. Fraas, George M. Janocsko, Michael McAuliffe, Pittsburgh, Robert Colville, Dist. Atty., for Allegheny County (Amicus Curiae)."
+    ],
+    "corrections": "",
+    "head_matter": "719 A.2d 273\nPAP\u2019S A.M. t/d/b/a Kandyland, Appellant, v. The CITY OF ERIE, Joyce A. Savocchio, Chris E. Maras, Mario S. Bagnoni, Robert C. Brabender, Denise Robinson, and James N. Thompson, in Their Official Capacities, Appellees.\nSupreme Court of Pennsylvania.\nArgued Sept. 16, 1997.\nDecided Oct. 21, 1998.\nReargument Denied Jan. 13, 1999.\nPhilip B. Friedman, Erie, for PAP\u2019s A.M. t/d/b/a Kandyland.\nCarl Max Janavitz, Pittsburgh, Michael Murray, Norris-town, Stephen D. Shafron, Paul J. Cambria, Jr., Buffalo, NY, for Golden Triangle News, Inc., a Delaware Corp. t/d/b/a Golden Triangle News and Mello News; Monroeville News, Inc.; Fairview Books, Inc. t/d/b/a Good N Plenty; B.L.V.D. News; and North Hills News, Inc. (Amici Curiae).\nGregory A. Karle, Gerald J. Villella, Erie, for the City of Erie, Joyce A. Savocchio, Chris E. Maras, Mario S. Bognoni, Robert C. Brabender, Denise Robinson and James N. Thompson.\nKerry A. Fraas, George M. Janocsko, Michael McAuliffe, Pittsburgh, Robert Colville, Dist. Atty., for Allegheny County (Amicus Curiae).\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE and NIGRO, JJ."
+  },
+  "file_name": "0348-01",
+  "first_page_order": 528,
+  "last_page_order": 550
+}

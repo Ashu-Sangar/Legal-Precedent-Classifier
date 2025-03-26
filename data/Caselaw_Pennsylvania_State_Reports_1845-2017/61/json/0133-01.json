@@ -1,0 +1,108 @@
+{
+  "id": 428575,
+  "name": "Barwell versus Wirth",
+  "name_abbreviation": "Barwell v. Wirth",
+  "decision_date": "1869-02-17",
+  "docket_number": "No. 140",
+  "first_page": "133",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "61 Pa. 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Jones 264",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "275"
+        },
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wright 516",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wright 333",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 507",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854658
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0507-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 506,
+    "char_count": 9881,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 8.441905112787e-08,
+      "percentile": 0.4846145470257146
+    },
+    "sha256": "6e398b075ba2ea12c35dc82e8c0a75daad2bbebceadc921f5c10d5c6d4f77b64",
+    "simhash": "1:b8e5d6e5927c8e4a",
+    "word_count": 1778
+  },
+  "last_updated": "2024-02-27T19:58:23.514592+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Thompson, C. J., Read, Sharswood and Williams, JJ. Agnew, J., at Nisi Prius."
+    ],
+    "parties": [
+      "Barwell versus Wirth."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, February 23d 1869, by\nSharswood, J.\nThe 1st assignment of error is to the admission in evidence of the bills produced by the witness, Genther. He testified that he had shown them to the defendant, and said \u201c when we had gone through the bills, defendant assented said bills were correct.\u201d It is difficult to understand how, after such distinct evidence of an admission by the defendant of their correctness, they could have been excluded. It was'further objected to their admission that the bill, of particulars did not give any notice whatever of an offer to prove a new promise, based on the accounts which the witness said he had presented to the defendants. But a party who has to meet a defence of the Statute,of Limitations is bound in the first instance to prove his original claim, and he can prove it by an admission though made at the same time with his alleged new promise. If the ground here stated was a valid objection to the admission of evidence of the new promise, it did not apply to the papers as instruments to prove the original debt. There was no objection made or exception taken to the evidence of the new promise. The 2d assignment of error, that the court erred in admitting evidence of the alleged new promise, in the absence of special notice to that effect, either in the pleadings or the bill of particulars, has nothing whatever to support it. It is not necessary by any rule of our practice, where the parties go to trial upon the short plea of non assumpsit infra sex annos, and the replication assumpsit infra sex annos as in this case, that there should be any special notice by the bill of particulars or otherwise of an intention by the plaintiff to prove a new promise. The 3d error assigned is that the court erred in entering judgment for the plaintiff below on the point reserved. The power conferred on the District Court, and subsequently on the other courts of the Commonwealth, of reserving questions of law, arising on the trial of a cause, for the consideration of the court in bane is a very valuable one, as it prevents in many cases the delay and costs of a second trial to the parties and the public; but it is a power to be exercised with great caution and prudence, and the questions reserved should be stated on the bill of exceptions with precision. We recently had occasion to consider this subject in Wilde v. Trainor, at the last term in the Western District (9 P. F. Smith 439). Two rules were laid down in that case: First, that the reserved question must be one of pure law, and second, it must be such as, if decided in one way, would justify a binding direction to the jury for the one party or the other. Neither of the questions reserved in this case will stand the test of the first of these rules. They were, 1. \u201c Whether under all the testimony offered by the plaintiff she was entitled to recover.\u201d That necessarily included questions of fact for the jury. Whether there is any evidence at all is a pure question of law for the court; whether it is sufficient to entitle the plaintiff to recover is a mixed question of fact and law, to be submitted to the jury under instructions. The language of this reserved point is open to this further criticism that it is confined to the testimony offered by the plaintiff. A deficiency in the plaintiff\u2019s evidence may however often he supplied by that of the defendant. 2. \u201c Whether any new promise was proven sufficient in law to take the claim out of the bar of the Statute of Limitations.\u201d This is evidently liable to the same objection. It reserves not the competency of the evidence to go to the jury, hut.whether the new promise was sufficiently proved. Had the judgment on these reserved points been entered for the defendant non obstante veredicto, it must have been reversed, because the court had assumed to reserve and decide questions which are the proper province of the jury, and which it was not the intention of the law to permit to be withdrawn from them. Here, however, the case was submitted to the jury, and their verdict being for the plaintiff, judgment was entered thereon. We might in strictness affirm the judgment without more, but we may say that on the evidence we think there was enough to go to the jury. There was evidence of a promise to pay, but whether on the w'hole it was an absolute or conditional one was a question of fact. The defendant below referred to the source from which she expected to obtain the funds with which to pay. This was followed by a promise in terms absolute. The court could not say that there was any condition annexed to the promise. It is altogether unlike the case where the party promises to pay when able. There then would be nothing to leave to the jury, without some evidence of ability in the promissor.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sharswood, J."
+      }
+    ],
+    "attorneys": [
+      "W. Ernst, for plaintiff in error.",
+      "H. G. Hartranft, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Barwell versus Wirth.\n1. A party who has to meet the Statute of Limitations is hound in the first instance to prove his original claim, which he can do by an admission though made at the same time with th,e new promise.\n2. When parties go to trial on the plea non assumpsit infra sex annos and the replication assumpsit infra sex annos, it is not necessary that there should be any special notice in a bill of particulars or otherwise that the plaintiff intended to prove a new promise.\n3. The power to reserve questions of law is a valuable one, but should be exercised with great caution and prudence, and the questions should be stated on the bill of exceptions with great precision.\n4. Under the plea of the Statute of Limitations, there was evidence that the defendant said she had no money, but a friend who was absent would give her means to pay; and that she would pay the debt. This was unlike a promise to pay when able and was properly submitted to the jury.\nFebruary 17th 1869.\nBefore Thompson, C. J., Read, Sharswood and Williams, JJ. Agnew, J., at Nisi Prius.\nError to the District Court- of Philadelphia: No. 140, to July Term 1868.\nThis was an action of assumpsit, commenced April 27th 1866, by Maria Wirth against Cordelia Barwell.\nThe declaration contained the common counts, and the defendant called for a bill of particulars; the plaintiff furnished a bill of goods sold and delivered. The pleas were non assumpsit, and non assumpsit infra sex annos. The replication was assumpsit infra sex annos.\nOn the trial the plaintiff examined Frederick Gentner, who testified: \u201c I called on the defendant about the bill of plaintiff. These papers are the bills. I tried to explain. When we had gone through the bills defendant assented \u2014 said bills were correct. It was in the year 1860. She said as soon as she had money she would pay plaintiff. I did not see defendant after that for four or five years. In August or September 1865 called on defendant again with this bill and told her that the plaintiff was in need of money, and complained that she had given only $13 or $14 since he was there last. I showed her this bill, and directed her attention to the $13 paid by her, which she said was right, and was very sorry she could not pay more. Defendant said she could give me no money. She had a friend who would give her means to pay the debt. But as he was absent she would pay her as well as she had paid my note some years before. I told her plaintiff was ever so much in need. Defendant said she would pay not only principal and lawful interest, but something extra.\u201d\nPlaintiff then offered in evidence the bills used by the witness.\nThe defendant objected to the offer; the objection was overruled, the bills admitted and a bill of exceptions was sealed.\nThe defendant asked the court to charge the jury,\u2014\n1. That under the testimony, which was too vague and indefinite, and the alleged new promise a mere qualified and conditional one, the plaintiff was not entitled to recover.\n2. That no sufficient promise was shown to prevent the bar of the Statute of Limitations.\nThe court submitted the ease to the jury, reserving the questions,\u2014\n1. Whether, under all the testimony offered by the plaintiff, she was entitled to recover.\n2. Whether any new promise was proven sufficient in law to take the claim out of the bar of the Statute of Limitations.\nThe verdict was for the plaintiff for $548.09, for which the court afterwards entered judgment.\nThe defendant took a writ of error and assigned for error, that the court erred,\u2014\n1. In admitting in evidence the bills made out by Frederick Gentner, and presented by him to the defendant below.\n2. In admitting evidence of the alleged new promise in the absence of special notice to that effect, either in the pleadings or the bill of particulars.\n3. In entering judgment for the plaintiff below on the points reserved.\nW. Ernst, for plaintiff in error.\nThe bills were not proof of original indebtedness, and therefore no consideration to support a new promise: Haydock v. Tracy, 3 W. & S. 507; Yaw v. Kerr, 11 Wright 333. The admission of indebtedness was not specific, and therefore no answer to the plea of the Statute of Limitations: Shitler v. Bremer, 11 Harris 413; Suter v. Sheeler, 10 Id. 308; Wolfensberger v. Young, 11 Wright 516; Morgan v. Walton, 4 Barr 322. A promise to pay when able is not sufficient: Nelson v. Von Bonnhorst, 5 Casey 352; Kensington Bank v. Patton, 2 Harris 479; Emerson v. Miller, 3 Casey 278; Weaver v. Weaver, 4 P. F. Smith 152. The promise must be made to the plaintiff or his agent: Kyle v. Wells, 5 Harris 286; Gillingham v. Gillingham, Id. 302; Chandler v. Glover, 8 Casey 509.\nH. G. Hartranft, for defendant in error.\nA direct acknowledgment of debt will take a case out of the statute although the amount is left in uncertainty: Hazlebaker v. Reeves, 2 Jones 264; Henwood v. Cheeseman, 3 S. & R. 500; Fries v. Boisselet, 9 S. & R. 131; Suter v. Sheeler, 10 Harris 310; Davis v. Steiner, 2 Id. 275; Huff v. Richardson, 7 Id. 388."
+  },
+  "file_name": "0133-01",
+  "first_page_order": 133,
+  "last_page_order": 136
+}

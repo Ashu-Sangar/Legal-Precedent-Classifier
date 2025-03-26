@@ -1,0 +1,96 @@
+{
+  "id": 1806086,
+  "name": "COMMONWEALTH of Pennsylvania v. Walter SANDERS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Sanders",
+  "decision_date": "1987-06-17",
+  "docket_number": "Appeal No. 299 E.D. Allocatur Docket 1985",
+  "first_page": "306",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "515 Pa. 306"
+    },
+    {
+      "type": "parallel",
+      "cite": "528 A.2d 576"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "522 A.2d 1050",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1804616,
+        1804562
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0045-01",
+        "/pa/514/0046-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804562
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0046-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 350,
+    "ocr_confidence": 0.741,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06720005683729051
+    },
+    "sha256": "690612d3c10ba37f517ff1f59876fda94ba4e307e3c31ad0a2f0b0e5ea9b9ded",
+    "simhash": "1:e6b72a36e72b2d72",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T22:38:43.238776+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Walter SANDERS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted. The case is remanded to the Philadelphia Court of Common Pleas for additional proceedings in light of Commonwealth v. Weddington, 514 Pa. 46, 522 A.2d 1050 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "528 A.2d 576\nCOMMONWEALTH of Pennsylvania v. Walter SANDERS, Petitioner.\nSupreme Court of Pennsylvania.\nJune 17, 1987."
+  },
+  "file_name": "0306-02",
+  "first_page_order": 492,
+  "last_page_order": 493
+}

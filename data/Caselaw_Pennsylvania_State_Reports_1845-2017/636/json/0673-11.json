@@ -1,0 +1,70 @@
+{
+  "id": 12284825,
+  "name": "Com. v. McDade",
+  "name_abbreviation": "Com. v. McDade",
+  "decision_date": "2016-08-17",
+  "docket_number": "25 MAL (2016)",
+  "first_page": "673",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 93",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.893,
+    "sha256": "f8c180bf196d860881f30ce55b9a3092f4cf3c58b81511ada698dc3a62d3846d",
+    "simhash": "1:98802418d52e4221",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. McDade"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 93",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. McDade\n08/17/2016\n25 MAL (2016)"
+  },
+  "file_name": "0673-11",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

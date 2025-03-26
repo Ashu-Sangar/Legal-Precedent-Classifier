@@ -1,0 +1,88 @@
+{
+  "id": 1370994,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Gregory H. KING, Respondent",
+  "name_abbreviation": "Commonwealth v. King",
+  "decision_date": "2004-09-28",
+  "docket_number": "Appeal No. 185 MAL 2003",
+  "first_page": "560",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "579 Pa. 560"
+    },
+    {
+      "type": "parallel",
+      "cite": "857 A.2d 1291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "849 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9243953,
+        1329337,
+        9243925,
+        1329395
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/849/1152-02",
+        "/pa/578/0071-01",
+        "/a2d/849/1152-01",
+        "/pa/578/0070-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 559,
+    "ocr_confidence": 0.62,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.05076685595675316
+    },
+    "sha256": "357093a7d708c068013916330b422a6b9ea5ee81ee8d63f5fc1eb994e21b017a",
+    "simhash": "1:150a0f6260c13d3f",
+    "word_count": 90
+  },
+  "last_updated": "2024-02-27T19:11:10.599912+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice RUSSELL M. NIGRO notes his dissent to the per curiam order as he would deny the petition."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Gregory H. KING, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of September, 2004, the Petition for Allowance of Appeal is hereby GRANTED. The order of the Superior Court is VACATED, and this matter is REMANDED to that court for reconsideration in light of our decision in Commonwealth v. Young, 849 A.2d 1152 (Pa.2004). Jurisdiction relinquished.\nJustice RUSSELL M. NIGRO notes his dissent to the per curiam order as he would deny the petition.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "857 A.2d 1291\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Gregory H. KING, Respondent.\nSupreme Court of Pennsylvania.\nSept. 28, 2004."
+  },
+  "file_name": "0560-01",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

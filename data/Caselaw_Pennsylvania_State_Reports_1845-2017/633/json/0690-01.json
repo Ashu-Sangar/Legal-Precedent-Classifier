@@ -1,0 +1,106 @@
+{
+  "id": 12280761,
+  "name": "ESTATE OF Isabel WILNER, Deceased. Petition of Linda Baker",
+  "name_abbreviation": "Estate of Wilner",
+  "decision_date": "2014-11-26",
+  "docket_number": "No. 390 MAL 2014",
+  "first_page": "690",
+  "last_page": "690",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 690"
+    },
+    {
+      "type": "parallel",
+      "cite": "127 A.3d 1286"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "913 A.2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8436588,
+        3852270
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "noting standing in Pennsylvania is nonjurisdictional and therefore waivable (citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/913/0178-01",
+        "/pa/590/0431-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3852270
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "noting standing in Pennsylvania is nonjurisdictional and therefore waivable (citation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0431-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 122,
+    "char_count": 1154,
+    "ocr_confidence": 0.572,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.3034970378581917
+    },
+    "sha256": "aaca7ba70bd1eece274168cfa2e73a068502e17a79f66e648d96a31fea9adf5b",
+    "simhash": "1:d0262b0d0a222fa8",
+    "word_count": 185
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ESTATE OF Isabel WILNER, Deceased. Petition of Linda Baker."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of November, 2014, the Petition for Allowance of Appeal is GRANTED. The issue is:\nWhether this Court should accept jurisdiction to determine if it should overrule the rigid application of the irrebutable \u201ctwo witness\u201d rule, particularly in cases where a disinterested scrivener, an officer of the [cjourt, testifies credibly concerning the contents of the [w]ill and where[,] based on the overwhelming evidence in the case as determined by the trier of fact[,] application of the rule would create the very injustice that it was intended to avoid[,]\nPetitioner\u2019s Application for Leave to File a Reply to Answer to address her standing in this matter is DENIED, as respondent waived the issue of petitioner\u2019s standing by failing to raise it in the Superior Court. See Pa.R.A.P. 302(a); In re Condemnation by Urban Redevelopment Authority of Pittsburgh, 590 Pa. 431, 913 A.2d 178, 181 n. 6 (2006) (noting standing in Pennsylvania is nonjurisdictional and therefore waivable (citation omitted)).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "127 A.3d 1286\nESTATE OF Isabel WILNER, Deceased. Petition of Linda Baker.\nSupreme Court of Pennsylvania.\nNov. 26, 2014."
+  },
+  "file_name": "0690-01",
+  "first_page_order": 744,
+  "last_page_order": 744
+}

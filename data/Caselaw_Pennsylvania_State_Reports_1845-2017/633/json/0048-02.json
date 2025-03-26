@@ -1,0 +1,63 @@
+{
+  "id": 12280124,
+  "name": "COURT OF COMMON PLEAS PHILADELPHIA COUNTY, Respondent v. Anton COCHRAN, Petitioner",
+  "name_abbreviation": "Court of Common Pleas Philadelphia County v. Cochran",
+  "decision_date": "2015-09-29",
+  "docket_number": "No. 96 EM 2015",
+  "first_page": "48",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 48"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 360,
+    "ocr_confidence": 0.606,
+    "sha256": "ec965a2147d1fc6fa5b066d5a60fe8ecc43b56d6942c88f12ebed858494cec1e",
+    "simhash": "1:4c07436e43d02c0c",
+    "word_count": 58
+  },
+  "last_updated": "2023-07-14T17:19:09.940441+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COURT OF COMMON PLEAS PHILADELPHIA COUNTY, Respondent v. Anton COCHRAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 29th day of September, 2015, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus and/or Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "123 A.3d 328\nCOURT OF COMMON PLEAS PHILADELPHIA COUNTY, Respondent v. Anton COCHRAN, Petitioner.\nNo. 96 EM 2015.\nSupreme Court of Pennsylvania.\nSept. 29, 2015."
+  },
+  "file_name": "0048-02",
+  "first_page_order": 102,
+  "last_page_order": 103
+}

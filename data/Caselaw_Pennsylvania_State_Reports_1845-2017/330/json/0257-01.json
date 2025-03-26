@@ -1,0 +1,829 @@
+{
+  "id": 1182966,
+  "name": "Ebbert et al. v. Philadelphia Electric Company, Appellant",
+  "name_abbreviation": "Ebbert v. Philadelphia Electric Co.",
+  "decision_date": "1938-03-31",
+  "docket_number": "Appeals, Nos. 259 and 260",
+  "first_page": "257",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 Pa. 257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "161 A. 362",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "307 Pa. 272",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1138134
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/307/0272-01"
+      ]
+    },
+    {
+      "cite": "170 A. 139",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 Pa. 99",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1154642
+      ],
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/314/0099-01"
+      ]
+    },
+    {
+      "cite": "111 N. E. 1050",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 N. Y. 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        75756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/217/0382-01"
+      ]
+    },
+    {
+      "cite": "51 L. R. A. 781",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 N. E. 657",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Mass. 232",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3480650
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/178/0232-01"
+      ]
+    },
+    {
+      "cite": "120 U. S. 630",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3468890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/120/0630-01"
+      ]
+    },
+    {
+      "cite": "156 A. 537",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Pa. Superior Ct. 515",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        695554
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/102/0515-01"
+      ]
+    },
+    {
+      "cite": "155 A. 103",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "304 Pa. 18",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1132409
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/304/0018-01"
+      ]
+    },
+    {
+      "cite": "164 A. 602",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141639
+      ],
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0460-01"
+      ]
+    },
+    {
+      "cite": "167 N. E. 235",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "267 Mass. 501",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        844192
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/267/0501-01"
+      ]
+    },
+    {
+      "cite": "121 N. Y. S. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7661454
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/121/0442-01"
+      ]
+    },
+    {
+      "cite": "136 App. Div. 815",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2537571
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/136/0815-01"
+      ]
+    },
+    {
+      "cite": "123 So. 384",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 La. App. 405",
+      "category": "reporters:state",
+      "reporter": "La. App.",
+      "case_ids": [
+        3340452
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/la-app/12/0405-01"
+      ]
+    },
+    {
+      "cite": "147 S. E. 119",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 A. 965",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        920351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/198/0180-01"
+      ]
+    },
+    {
+      "cite": "140 A. 877",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "292 Pa. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1109690
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/292/0200-01"
+      ]
+    },
+    {
+      "cite": "136 A. 223",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 Pa. 443",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100765
+      ],
+      "pin_cites": [
+        {
+          "page": "456"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0443-01"
+      ]
+    },
+    {
+      "cite": "162 A. 687",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Pa. Superior Ct. 474",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        703137
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/106/0474-01"
+      ]
+    },
+    {
+      "cite": "73 Pa. Superior Ct. 180",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        643351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/73/0180-01"
+      ]
+    },
+    {
+      "cite": "191 A. 384",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Pa. Superior Ct. 351",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        998330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/126/0351-01"
+      ]
+    },
+    {
+      "cite": "303 Pa. 555",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1130027
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/303/0555-01"
+      ]
+    },
+    {
+      "cite": "34 Pac. (2d) 481",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "261 Fed. 878",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3539413
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f/261/0878-01"
+      ]
+    },
+    {
+      "cite": "69 Atl. 120",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "74 N. H. 435",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        1308535
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nh/74/0435-01"
+      ]
+    },
+    {
+      "cite": "207 S. W. 58",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "136 Ark. 456",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1569995
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/136/0456-01"
+      ]
+    },
+    {
+      "cite": "147 Ill. App. 241",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        2648970
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill-app/147/0241-01"
+      ]
+    },
+    {
+      "cite": "28 S. E. 73",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "100 Ga. 163",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        584957
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ga/100/0163-01"
+      ]
+    },
+    {
+      "cite": "46 Utah 588",
+      "category": "reporters:state",
+      "reporter": "Utah",
+      "case_ids": [
+        8874141
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/utah/46/0588-01"
+      ]
+    },
+    {
+      "cite": "89 App. Div. 219",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        7705087
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nys/85/0973-01"
+      ]
+    },
+    {
+      "cite": "103 N. W. 890",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Ill. 58",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5504827
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill/164/0058-01"
+      ]
+    },
+    {
+      "cite": "143 N. W. 48",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "177 Mich. 45",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1665685
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/177/0045-01"
+      ]
+    },
+    {
+      "cite": "290 Pac. 919",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "224 Mass. 413",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        44383
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/224/0413-01"
+      ]
+    },
+    {
+      "cite": "44 Am. Law Reg. (N. S.) 209",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg. (N.S.)",
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "134 S. E. 588",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "145 Va. 448",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        470446
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/va/145/0448-01"
+      ]
+    },
+    {
+      "cite": "270 N. W. 807",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "278 Mich. 615",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1786038
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/278/0615-01"
+      ]
+    },
+    {
+      "cite": "135 N. E. 223",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "241 Mass. 322",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3809571
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/241/0322-01"
+      ]
+    },
+    {
+      "cite": "146 S. W. 770",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "148 Ky. 265",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4405235
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ky/148/0265-01"
+      ]
+    },
+    {
+      "cite": "44 Am. Law Reg. (N. S.) 308",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg. (N.S.)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "262 Fed. 331",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6733102
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f/262/0331-01"
+      ]
+    },
+    {
+      "cite": "169 La. 1156",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        8505194
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/la/169/1155-01"
+      ]
+    },
+    {
+      "cite": "39 Ga. App. 355",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1441134
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ga-app/39/0355-01"
+      ]
+    },
+    {
+      "cite": "111 N. E. 1050",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "217 N. Y. 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        75756
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/217/0382-01"
+      ]
+    },
+    {
+      "cite": "167 N. E. 235",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "267 Mass. 501",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        844192
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/267/0501-01"
+      ]
+    },
+    {
+      "cite": "121 N. Y. S. 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7661454
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nys/121/0442-01"
+      ]
+    },
+    {
+      "cite": "136 App. Div. 815",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2537571
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad/136/0815-01"
+      ]
+    },
+    {
+      "cite": "123 So. 384",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "12 La. App. 405",
+      "category": "reporters:state",
+      "reporter": "La. App.",
+      "case_ids": [
+        3340452
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/la-app/12/0405-01"
+      ]
+    },
+    {
+      "cite": "147 S. E. 119",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "95 Minn. 114",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1709140
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/minn/95/0114-01"
+      ]
+    },
+    {
+      "cite": "45 N. E. 486",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1540,
+    "char_count": 34582,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 1.3557662066735837e-06,
+      "percentile": 0.9901362975215929
+    },
+    "sha256": "81c999fea67bba8f0aef8abadd12398fa8c68be4b87766dac3a108142f221b33",
+    "simhash": "1:31214d065f36372c",
+    "word_count": 5992
+  },
+  "last_updated": "2024-02-27T16:21:13.587988+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, Drew, Linn, Steen and Baenes, JJ."
+    ],
+    "parties": [
+      "Ebbert et al. v. Philadelphia Electric Company, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Maxey,\nThis is an action in trespass for damages arising from personal injuries. The victim was Esther E. Ebbert; the instrumentality was an electrically driven wringer attached to an electric washing machine. The two rollers of the wringer were equipped with a \u201crelease bar\u201d marked at each end \u201cTouch Release,\u201d which when pushed doAvn by human touch was designed to cause the rollers to spring apart four or five inches to release anything caught therein. Its status in this case is that of a \u201csafety device.\u201d Mrs. Ebbert\u2019s finger tips were drawn between the rollers while she was \u201cfeeding\u201d a bathrobe into the rollers. She pressed the release but the \u201csafety device\u201d failed to function and her entire hand was drawn between the rollers and severely injured. She and her husband then brought this suit against the defendant, a retail dealer, the wringer\u2019s vendor. The jury returned a verdict in favor of Mrs. Ebbert in the sum of $1,000 and in favor of the husband in the sum of $108. A motion for judgment for defendant n. o. v. was refused. Appeals were taken to the Superior Court and there the judgments were affirmed (126 Pa. Superior Ct. 351, 191 A. 384). Appeals to this court were then allowed.\nIn plaintiff\u2019s statement of claim it is set forth that the defendant expressly warranted the washing machine and wringer to he free from \u00e1ll mechanical defects, and that \u201cby a light sharp blow or touch,\u201d the safety device would release the rollers instantly. The negligence charged was (a) \u201cin selling . . . a washing machine and wringer which was mechanically and inherently dangerous, in that the shuttle in the safety device . . . was bent, out of line, so that it did not engage one arm of the device which released the rollers; (b) in failing to inspect the wringer . . . for . . . easily discoverable mechanical defects before delivering the same to the plaintiffs; (c) . . .; (d) . . .; (e) in inducing plaintiffs to purchase the machine and wringer by making unfounded and false warranties and representations as to its mechanical perfection and safety upon which . . . the plaintiff, Esther E. Ebbert, had the right to and did rely.\u201d\nThe defendant by affidavit filed denied the alleged warranting of the machine as free from all mechanical defects and that any salesman had authority so to warrant that the wringer could be operated without danger' to anyone who inserted their fingers into the roller. It was averred further that the washer and wringer were not manufactured by the defendant, but the defendant was merely engaged in its sale as a dealer and that if there were any defects these were of manufacture and not the result of any negligence on defendant\u2019s part.\nThe written contract of sale dated September 25,1934, provided, inter alia, that \u201cthe defendant guaranteed the appliance against defects of manufacture for a period of one year from date . . . and will replace free, any part which an examination by the company shall disclose to be defective.\u201d Between the time of delivery, September 25th and December 12, 1934, Mrs. Ebbert used this machine once a week, during which eleven weeks, until on the latter date, she had no occasion to attempt to use the release bar. On December 12th, when to save her hand from injury she put the release bar to the test, it failed her.\nA witness who had been a washing machine service man for eighteen years testified in behalf of the plaintiffs that the safety device did not work because the cam shaft operated by the \u201ctouch release bar\u201d was bent in such a way that it engaged only one of the release bars which held the \u201csafety catches\u201d but that it did not engage the other. The machine contained two of these bars, each connected with a safety catch at opposite ends of the enclosed chamber. If the device functioned properly the cam shaft would draw these bars towards the center releasing the safety catch at each end, which in turn removed the pressure from the top roller and as a result the roller sprang upward. But as on one end the cam shaft was \u201cbent so far away that it did not engage with the rod\u201d the pressure was released from only one end of the roller and as a result this end sprang up one-half inch while the other end remained tight against the lower roller. The witness stated further that it would not be possible to bind the cam shaft into the improper position it was in without the use of tools. No tool marks were visible on the cam shaft. He said the defect he found \u201clooked to\u201d him \u201cas though it is a defect in the manufacture.\u201d He was asked on cross-examination to account for the fact that the safety device worked at the time of the sale demonstration but did not work on the date of the accident. He replied: \u201cThat is possible. If you hit it hard, it might jar it loose on one side.\u201d He was asked as to \u201cthe possibility that there was some wear in there and it would release at one time and not at a subsequent time.\u201d He answered: \u201cI do not believe it, but you might hit it there and it not being engaged, and the next time it would be pulled down.\u201d\nDefendant called as a witness its director of the electric appliance sales who testified that they bought the washers direct from the factory to sell at retail to customers, that they have employees who \u201cservice\u201d these washers, and that the washers are inspected only for appearance to make sure they are not damaged by the railroad. He was asked: \u201cWhat instruction do you give the salesmen? A. We ask the salesmen to instruct the customer, the buyer of every washer, about its use, and that includes the touch release.\u201d There was offered no testimony as to whether or not the washer in question was in proper working order when it was sold to the plaintiffs. Judge Brown in refusing defendant\u2019s motion for judgment n. o. v. said: \u201cThe chamber containing the safety device was open at the bottom and a mere glance at the cam shaft would have disclosed the imperfect condition.\u201d\nThis record presents these questions: (1) Were there factual issues requiring submission to a jury? (2) If there were and if the jury resolved those issues in favor of the plaintiffs, did an action lie against the vendor of the wringer or should it have been brought against the manufacturer? (3) Is there any legal basis for recovery in this case?\nAs to No. 1, both the trial judge and the Superior Court held that there were sufficiently supported issues of fact. Speaking for the Superior Court, Judge Parker aptly said: \u201cWhile the salesman demonstrated the action of the safety device when he installed the machine and it then worked, he demonstrated from the opposite side of the wringer from that on which the wife plaintiff was standing when she was injured. . . . Proof of the factum probandum . . . may not be based upon mere conjecture or guess work (Freedman v. Wagner & Karpeles, 73 Pa. Superior Ct. 180), yet it was not necessary to exclude every other possible cause which the ingenuity of counsel might suggest: Madden v. Great A. & P. Tea Co., 106 Pa. Superior Ct. 474, 162 A. 687; Gallinas v. Work Co., 288 Pa. 443, 456, 136 A. 223. . . . The test to be applied was whether the circumstances shown were such as would satisfy a reasonable and well balanced mind that the defective condition of the cam existed when the machine was delivered to plaintiffs: Strobel v. Park, 292 Pa. 200, 207, 140 A. 877. Taking into account the fact that the defendant offered no evidence in contradiction of plaintiffs\u2019 evidence we are convinced that the evidence was sufficient to meet the legal requirements for such proof.\u201d\nHe also held that the question of Mrs. Ebbert\u2019s contributory negligence was for the jury. We agree with both of these conclusions.\nAs to question No. 2, appellant contends for the acceptance of a rule that the vendor of a manufactured article has no obligation to the vendee, in respect to that article, other than an obligation expressly undertaken, unless the article is inherently dangerous. Appellant says: \u201cA washer and wringer are not appliances that are inherently dangerous and injury results only when the user fails in precaution.\u201d The phrase \u201cinherently dangerous\u201d is found in many reported cases, but there are situations like that now presented to us, in which the phrase is of little practical use.\nAs modern mechanisms multiply, the futility of invoking this phrase in the adjudication of cases becomes increasingly apparent. Machines whose normal functions are not to injure, possess harmful potencies when constructed defectively or operated carelessly. An automobile is such a machine. Old-fashioned wringers excited no apprehensions of danger. While they occasionally pinched fingers and while their functions were exactly the same as modern electrically driven wringers, their dangerous potentialities were far less. When in the rollers of the former, the operator\u2019s fingers were enmeshed, she could immediately \u201cshut off the power\u201d (which came from her other arm) or quickly put the wringer \u201cin reverse.\u201d With an electrically driven wringer, the operator must rely on a \u201csafety device,\u201d such as failed in the instant case. Likewise (hv way of example), the old-fashioned icebox contained no mechanism or chemicals which presented any possibilities of danger to persons using it. Yet electrically and chemically equipped modern refrigerators may, as is well known, become dangerous instrumentalities when they fail to function. The difference in the possible dangers lurking respectively in two different mechanisms whose functions are identical is, like most differences, one of degree.\nA vendor \u201cdemonstrating\u201d an old-fashioned wringer would not need to be as skillful or as careful as a vendor \u201cdemonstrating,\u201d to promote a sale, an electrically driven wringer. A \u201cdemonstration\u201d of a simple old-fashioned wringer was probably not necessary. Since there are many varieties of machines used for work normally not dangerous, and since many machines used for such work become dangerous when not constructed with care, each case must be decided on its own special facts, and verbal formulas which were useful in solving the legal problems in the era of the \u201csimple life\u201d cannot now be judicially accorded their former importance. The public safety and security against the fatal or injurious consequences of negligence in demonstrating and testing mechanical devices for common public use and in which lurk obvious possibilities of danger is a consideration to which courts cannot be indifferent. An imperative social duty requires a vendor of a mechanical device to take at least such easily available precautions as are reasonably likely to prevent serious injury to those who by using such a device may be exposed to dangers arising from its defective construction.\nAppellant in support of its position cites cases which are distinguishable from the case at bar. One of these is West v. Emanuel, 198 Pa. 180, 47 A. 965. In that case recovery was sought against a druggist because he sold a proprietary headache powder in an original package to a customer who apparently died from the effects of taking it. It was held that there was no cause of action since a druggist is not required to analyze the contents of each bottle or package he receives. It would, for example, be utterly impracticable and unreasonable to require grocers to open and analyze the contents of every can of food they sell. The purchaser in such cases does not expect any such precaution to he taken and relies wholly upon the integrity, good faith and care of the person who put up the food in the cans. The rule of the nonliability of vendors in \u201coriginal package\u201d cases is firmly established in the law. It is expressly recognized in section 401 of the Restatement of the Law of Torts, which declares that dealers of goods sold in original packages are not liable for \u201cdefective condition\u201d unless such condition would be disclosed by \u201ceven a cursory inspection.\u201d\nAppellant quotes section 402 (page 1089) of the Restatement of the Law of Torts, in which it is said that \u201ca wholesale or retail dealer who sells in their original packages goods bought from reputable manufacturers, acts as a conduit through which the goods pass from manufacturer to consumer, who buys them in reliance upon the manufacturer\u2019s reputation for competence and care. A vendor of such goods is therefore under no duty to subject them to rigid inspection or tests before selling.\u201d The inapplicability of that statement to the state of facts before us is obvious. By no sanctioned verbal license could the defendant in the instant case be considered a \u201cmere conduit\u201d from the manufacturer to the buyer. It did not sell the wringer in the \u201coriginal packageIt took upon itself the duty of subjecting the wringer to \u25a0 \u201cinspection and tests\u201d before selling. It is a legitimate inference that the cost of such inspection and tests was added to the price of the equipment. Defendant\u2019s director of appliance sales testified: \u201cWe have service men to take care of appliances, something over 100 of them, but they take care of all appliances, refrigerators, washers and all.\u201d We must assume that the work of these service men, i. e., testing and demonstrating appliances is essential work, that their salaries and wages are absorbed in the purchase price and that therefore a purchaser having paid the vendor for these tests and demonstrations, has a right to recover from the vendor for injuries resulting from inadequately tested machines the latter sold. To the question propounded: \u201cHad defendant a duty to inspect the article for defects?\u201d the answer is: The defendant assumed this duty and was paid for discharging it. This is one of those cases in which the action was properly brought against the vendor. The purchaser did not have to look to the manufacturer for redress. The vendor may call upon the manufacturer to answer to it for the manufacturer\u2019s default, if it sees fit to do so.\nIn King Hardware Co., v. Ennis (Ga.), 147 S. E. 119, a dealer sold a gasoline stove to plaintiff\u2019s husband. It was \u201cdemonstrated\u201d and warranted \u201csafe.\u201d There was a defective pipe, permitting a leakage of gas, and an explosion occurred. For resulting injuries plaintiff sued. A verdict for plaintiff was sustained. The Supreme Court of Georgia said: \u201cWe think it may be reasonably inferred from all the facts alleged that the defect was one which a reasonably prudent dealer should have, discovered before placing, it upon the market and delivering it to a customer. . . . It is a matter of common knowledge that cooking stoves do not come in sealed packages, but are readily subject to be exposed, and usually are exposed, if not demonstrated, in the process of selling. It is well known that dealers selling such articles do as a matter of fact pretend to know something of their construction, and of the manner of their manipulation, and the case is different from those instances where the dealer receives and transmits an article in an unbroken package, with no occasion to investigate or to become acquainted with its character [citing cases].\u201d To the same effect are Moore v. Jefferson Distilling Co., 12 La. App. 405, 123 So. 384; Garvey v. Namm, 136 App. Div. 815, 121 N. Y. S. 442; Guinan v. Famous Players-Lasky Corp., 267 Mass. 501, 167 N. E. 235.\nSection 388 of the Restatement of the Law of Torts reads as follows: \u201cOne who supplies directly or through a third person a chattel for another to use, is subject to liability to those whom the supplier should expect to use the chattel with the consent of the other or to be in the vicinity of its probable use, for bodily harm caused by the use of the chattel in the manner for which and by a person for whose use it is supplied, if the supplier (a) . . . (b) . . . (c) fails to exercise reasonable care to inform them of its dangerous condition or of the facts which make it likely to be so.\u201d\nOn page 1041, \u201csuppliers\u201d are defined as including \u201cvendors, lessors, donors or lenders irrespective of whether the chattel is made by them or by a third person.\u201d We think that a \u201csupplier\u201d who under the situation presented by this case fails to determine by adequate tests (for which it was compensated as heretofore noted) whether or not an electrically driven wringer was in a dangerous condition for use, is as responsible morally and legally to one who is injured because of such failure as is a supplier who \u201cfails to exercise reasonable care to inform them [i. e., the vendees] of its dangerous condition.\u201d\nOur decision is that the instant case is not one in which the wronged party\u2019s only redress for a defect in the manufacture of an article is in an action against the manufacturer. The vendor here is not a mere commercial \u201cconduit\u201d with no legal responsibility for the condition of the goods it \u201cchannels.\u201d\nClosely related to question No. 2, as to the liability of a vendor to a vendee under the circumstances present here for injuries resulting from a defect in manufacture, is question No. 3, which, as is well expressed by Judge Parker in his opinion, follows: \u201cIs an action in trespass available to the plaintiffs to remedy the wrongs alleged to have been suffered by them?\u201d\nThe trial court and the Superior Court predicated defendant\u2019s liability on breach of the warranty pleaded. Appellant contends that \u201cunder this guarantee there was only one obligation upon the defendant and that was [a qualified] obligation to replace defective parts.\u201d If we concede that this guarantee is open to the interpretation appellant puts upon it, it must be conceded that it is equally open to the interpretation appellee puts upon it, and \u201cit is an elementary proposition that a written contract should in case of doubt be interpreted against the party who has drawn it\u201d: Hempfield Twp. Sch. Dist. v. Cavalier et al., 309 Pa. 460, 463, 164 A. 602. This means that whatever doubt there may be in this guarantee, the benefit of it belongs to appellee. The Superior Court held that \u201cwe have here an express warranty against mechanical defects and the dealer thereby assumed the responsibilities of the manufacturer for the working conditions of the wringer. . . . It was clearly within the contemplation of the parties that the machine would so operate that it would, upon a mere touch, release the rollers and avoid serious injury.\u201d The Superior Court\u2019s opinion clearly distinguishes the instant case from Hill & MacMillan, Inc., v. Taylor, 304 Pa. 18, 155 A. 103, cited by appellant. It quotes from 2 Williston on Sales, section 614a, page 1545, in support of the proposition that the plaintiffs were entitled to recover consequential damages for personal injuries for breach of the warranty that was a part of the contract of sale. Reference is also made in Judge Parker\u2019s opinion to the case of Node v. Coca-Cola Bottling Works, 102 Pa. Superior Ct. 515, 156 A. 537. Williston on Sales, Vol. 1, section 197, page 373, expresses the following: \u201c. . . The action upon a warranty was in its origin a pure action of tort. There is no doubt that to-day the obligation of a warrantor is generally conceived of as contractual, and there can be no doubt also that a seller may expressly promise to be answerable for some alleged quality of the articles sold, or that if he makes such a promise for good consideration he enters into a contract. This, however, does not either upon authority or reason exhaust the possibilities of express warranties. It should not be the law, and by the weight of modern authority, it is not the law that a seller who by positive affirmation induces a buyer to enter into a bargain can escape from liability by denying that his affirmation was an offer to contract. A positive representation of fact is enough to render him liable. The distinction between warranty and representation which is important in some branches of the law is not appropriate here. The representation of fact which induces a bargain is a warranty.\u201d In Dushane v. Benedict, 120 U. S. 630 (cited in the Superior Court\u2019s opinion), the Supreme Court of the United States said: \u201cThe damages recoverable for a breach of warranty, or for a false representation, include all damages, which, in the contemplation of the parties, or according to the natural or usual course of things may result from the wrongful act.\u201d In Boston Woven Rose & Rubber Co. v. Kendall, 178 Mass. 232, 59 N. E. 657, 51 L. R. A. 781, Chief Justice Holmes (then of the Supreme Judicial Court of Massachusetts) said: \u201cWhether the false warranty be called a tort or a breach of contract the consequence which ensued must be taken to have been contemplated, and was not too remote.\u201d\nWhile not differing with the trial court and the Superior Court in basing defendant\u2019s liability on breach of warranty, we think an equally solid basis for recovery is defendant\u2019s inadequate performance of the duty of inspection and demonstration; The jury found this inadequate performance on evidence which (it is true) was none too persuasive, but which, nevertheless, we must, in view of the verdict, accept as a fact. This duty, thus inadequately performed, defendant assumed, and its assured and expected thorough discharge was doubtless one of the inducements for the purchase of the washing machine and wringer.\nThe test to determine whether there is liability in an action of tort is in the answer to the question whether the defendant by an act or omission injured another by disregarding a duty imposed by law in respect to that other. Judge Cardozo said in MacPherson v. Buich Motor Co., 217 N. Y. 382, 111 N. E. 1050, 1053 : \u201cWe have put aside the notion that the duty to safeguard life and limb, when the consequences of negligence may be foreseen, grows out of contract and nothing else. We have put the source of the obligation where it ought to be. We have put its source in the law.\u201d\nOne duty imposed by law is to use due diligence to avoid causing harm which an individual has no legal right to inflict upon another. This duty is breached by any legally harmful act or omission which might have been foreseen and avoided, especially when the person injured is one for whose safety and protection the defendant was at the time under some special obligation to act with due foresight. Holmes in \u201cThe Common Law,\u201d page 145, says: \u201cMost liabilities in tort . . . are founded on the infliction of harm which the defendant had a reasonable opportunity to avoid at the time of the acts or omissions which were its proximate cause.\u201d\nIn the instant case the defendant took upon itself for a consideration the duty of demonstrating and adequately testing an electric wringer, whose failure to function in an emergency, as the defendant had given plaintiff reason to believe it would, indicates that the test was negligently made and that this negligence was the proximate cause of the proven injuries. In Bisson v. Kelly, 314 Pa. 99, 110, 170 A. 139, we said: \u201cThe duty defendant breached was a duty imposed by law, not a duty self-imposed by contract. It is a primary social duty of every person to take thought and have a care lest his action result in injuries to others. This social duty the law recognizes and enforces, and for any injury resulting from any person\u2019s lack of elementary forethought, the law holds that person accountable. A normal human being is held to foresee those injuries which are the consequence of his acts of omission or commission which he, as a reasonable human being, should have foreseen.\u201d.\nThe judgments are affirmed.\nWe pointed out in Silveus v. Grossman, 307 Pa. 272, 276, 161 A. 362, the impracticability of the test of \u201cinherently dangerous\u201d as applied to work entrusted to an independent contractor and as determinative of the liability of the man who so entrusts such work to another.",
+        "type": "majority",
+        "author": "Mr. Justice Maxey,"
+      },
+      {
+        "text": "Dissenting opinion by\nMr. Justice Drew:\nWhat duty, if any, is imposed by law on vendors to inspect goods they sell? If I read the opinion of the majority correctly, it imposes the duty of inspection upon vendors of all articles not sold in sealed packages, wherever a defect would make the article sold dangerous for use. I think this holding goes far beyond the warrant of any satisfactory authority anywhere. As a general rule the vendor of an article manufactured by another has no obligation other than that in contract, expressly undertaken or implied by law. There are, of course, exceptions. Most common is the situation where the vendor knows or from indications obvious without inspection ought to know that the article he sells is likely to cause harm. This is the rule stated in section 388, Restatement of Torts, cited in the majority opinion. That section is here quoted in full to show the significance of subparagraphs (a) and (b) which are omitted in the quotation appearing in the pi*evailing opinion:\n\u201cOne who supplies directly or through a third person a chattel for another to use, is subject to liability to those whom the supplier should expect to use the chattel with the consent of the other or to be in the vicinity of its probable use, for bodily harm caused by the use of the chattel in the manner for which and by a person for whose use it is supplied, if the supplier\n\u201c(a) knows, or from facts known to him should realize, that the chattel is or is likely to be dangerous for the use for which it is supplied;\n\u201c(b) and has no reason to believe that those for whose use the chattel is supplied will realize its dangerous condition; and\n\u201c(c) fails to exercise reasonable care to inform them of its dangerous condition or of the facts which make it likely to be so.\u201d\n\u25a0 Tlie section can liave no application to the case before us. There is no evidence that the defect in the wringer, if it existed at the time of the sale, was either known or recognizable without inspection; indeed, it is not even so alleged.\nThe instances of liability remaining that might be considered exceptional have a common thread. They are all cases where the vendor has done more than make a sale. In each he has affirmatively done something and to his action negligence can be traced. Thus he is liable where he has undertaken to install the article and does so negligently, *where he negligently sells the wrong article, where the defect has arisen in the course of the vendor\u2019s storage of the article, where the article sold is a compound of others, the compounding having been done by the vendor, or where the purchaser relies on the vendor\u2019s tacit or express assurance that the article is safe. But here defendant has done nothing but sell a washing machine and demonstrate generally how to use it. I can find no act of defendant that could be said to have been negligently performed. The demonstration was accurate. It did not disclose the defect, it is true. But it must be remembered that it was a demonstration, not an inspection, that was being conducted. A demonstration, is for the purpose of instruction by means of a sample display of operation. No representation inheres in it. It is not an inspection and the customer does not understand it as such, nor does the vendor by demonstrating assume to make an inspection. And the fact that the vendor employs 100 service men has nothing to do with inspection. Service men make repairs after the machines are put to use. Salesmen sell and demonstrate as was the case here. Service men have no duty to perform until the machines sold are out of order; they then make repairs, free for a year after sale in this case, and for a charge thereafter. Consequently, I can find nothing in the case to indicate that the vendor or its demonstrator did or said anything that could have been negligent or that could have misled the plaintiff to her detriment. Defendant cannot, therefore, be held liable for any affirmative misconduct.\nBut the majority goes further and finds liability in the failure to act, in the failure to make an inspection for the defect that made the article dangerous. This is the rule as applied to manufacturers. But I cannot agree that it should be imposed on vendors, and I see no limitation upon it in the opinion of the majority. The situations of vendor and manufacturer are entirely different. The manufacturer creates the instrumentality. He has it within his power to do so carefully. If he is careless he is in the position of having affirmatively acted in a manner to set up new risks to those-who use his products. The vendor, however, who does nothing but sell, does not create hazards. He does no more than pass them on unwittingly. He is not even aware of any particular need for caution. To hold him to a duty to inspect for defects that might make the article dangerous in use would put his liability on a parity with that of the manufacturer and would to all intents completely abrogate the rule of nonliability of vendors. Every case in which a plaintiff has been injured by a defective article is one where it could be said defects made it dangerous. Hence, in every case a vendor would be bound to search for defects not known to him, not of his creation, and in circumstances which would not suggest any need for inspection.\nAs precedent for fastening this far-reaching duty upon vendors, the majority cite meager authority: King Hardware Co. v. Ennis, 39 Ga. App. 355, 147 S. E. 119; Moore v. Jefferson Distilling Co., 12 La. App. 405, 123 So. 384; Garvey v. Hamm, 136 App. Div. 815, 121 N. Y. S. 442; Guinan v. Famous Players-Lasky Corp., 267 Mass. 501, 167 N. E. 235. King Hardware Co. v. Ennis, supra, not a decision of a court of final resort, while discussing the duty of the vendor to inspect, can well rest on the conclusive ground that the vendor expressly represented the article sold to be safe for use. Moore v. Jefferson Distilling Co., supra, was subsequently reversed on appeal to the Supreme Court of Louisiana: 169 La. 1156, 126 So. 691. Garvey v. Hamm, supra, also not the decision of the highest court of its jurisdiction, without analysis or citation of authority, holds a department store liable for injuries caused the plaintiff by a needle concealed in the lining of a coat purchased. Guinan v. Famous Players-Lasky holds defendant liable for injuries suffered by plaintiff when highly inflammable moving picture film caught fire. Plaintiff took delivery of the film at defendant\u2019s place of business; defendant gave it over in a cotton sack when it should have been enclosed in a fireproof container. Plainly liability did not rest on a failure to inspect.\nFor the reasons outlined, I think defendant violated no duty to plaintiff and that this decision to the contrary is not supported by any satisfactory authority. It seems to me to place an unfair burden on business. Nor do I agree that recovery can be found on breach of warranty. The agreement to replace defective parts for the period of one year, is in no sense a warranty. It is a guarantee that defective parts will be replaced without charge and the interpretation of its plain meaning needs the aid of no precedent. If such aid is necessary it may be found in Kress & Co. v. Lindsey, 262 Fed. 331, 335. Accordingly I dissent from both grounds upon which recovery has been allowed.\nI would reverse the judgment for plaintiff and enter judgment for defendant n. o. v.\nLongmeid v. Holliday, 6 Exch. 761 [regarded by Bohlen, 44 Am. Law Reg. (N. S.) 308, as a case where defendant was vendor merely] ; Peaslee-Gandbert Co. v. McMath's Admr., 148 Ky. 265, 146 S. W. 770; Pitman v. Lynn Gas Co., 241 Mass. 322, 135 N. E. 223; Camden Fire Ins. Co. v. Peterman, 278 Mich. 615, 270 N. W. 807; Belcher v. Goff Bros., 145 Va. 448, 134 S. E. 588; Bohlen, Affirmative Obligations in the Law of Tort, 44 Am. Law Reg. (N. S.) 209, 305.\nBaker v. Sears, Roebuck & Co., 16 Fed. Supp. 925; Siler v. Morgan Motor Co., 15 Fed. Supp. 468; see Kusick v. Thorndike & Mix Inc., 224 Mass. 413. The rule that a vendor cannot be liable for defects in goods sold in original cartons is based on the fact that he cannot then know of the defect: Toarte v. Morton Mfg. Co., 290 Pac. 919 (Cal. App.). The rule is not inflexible. If from past experience with articles of the same sort he ought to know of defects he is liable even though the article was sold in a sealed carton: Clark v. Army & Navy Co-operative Society [1903], 1 3L B. 155. Similarly, if by his special training as a dealer in certain articles he ought to be alert to recognize their defects, he is liable if he does not: Restatement, Torts, section 402.\nClarke v. Army & Navy Co-operative Society [1903], 1 K. B. 155-; see Gerkin v. Brown, Co., 177 Mich. 45, 60, 143 N. W. 48; Restatement, Torts, section 388.\nEmpire Laundry Machine Co. v. Brady, 164 Ill. 58, 45 N. E. 486; Crandall v. Boutell, 95 Minn. 114, 103 N. W. 890; Cox v. Mason, 89 App. Div. 219, 85 N. Y. S. 973.\nWright v. Howe, 46 Utah 588, 150 Pac. 956; Smith v. Clarke Hardware Co., 100 Ga. 163, 28 S. E. 73; Atkiss v. New Staunton Coal Co., 147 Ill. App. 241.\nHeinemann v. Barfield, 136 Ark. 456, 207 S. W. 58; see Restatement, Torts, section 401, comment (a).\nGeorge v. Skivington, L. R. 5 Exch. 1.\nLangridge v. Levy, 2 M. & W. 519; Cunningham v. Pease House Furnishing Co., 74 N. H. 435, 69 Atl. 120; King Hardware Co. v. Ennis, 39 Ga. App. 355, 147 S. E. 119; see Restatement, Torts, section 401: \u201cA vendor of a chattel made by a third person which is' bought as safe for use in reliance upon the vendor\u2019s profession of competence and care is subject to liability. . . .\u201d\nDonoghue v. Stevenson (1932) A. C. 562; Johnson v. Cadillac Motor Co., 261 Fed. 878; Kalash v. Los Angeles Ladder Co., 1 Cal. (2d.) 229, 34 Pac. (2d) 481; MacPherson v. Buiclc Motor Co., 217 N. Y. 382, 111 N. E. 1050; Stultz v. Benson Lumber Co., 49 Pac. (2d;) 848, (Cal. App.); see Grodstein v. McGivern, 303 Pa. 555.\nThe expansive possibility and tendency of the rule imposing this duty on manufacturers is pointed out in his book, The Growth of the Law, (1924 ed.) p. 77, by Mr. Justice Caedozo, the author of the opinion in MacPherson v. Buick Co., 217 N. Y. 382, 111 N. E. 1050, which gave the rule great currency in recent times. It is interesting to note that the rule is stated in the Restatement of Torts, section 395, as applicable to manufacturers, but no analogous rule is announced for vendors.",
+        "type": "dissent",
+        "author": "Mr. Justice Drew:"
+      }
+    ],
+    "attorneys": [
+      "Richm-d A. Smith, with him Louis Wagner and Thomas J. Clary, for appellant.",
+      "William N. Trinkle, with him Frank F. Truscott, of Truscott, Trinkle & Wright, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Ebbert et al. v. Philadelphia Electric Company, Appellant.\nArgued December 10, 1937; reargued January 25, 1938.\nBefore Maxey, Drew, Linn, Steen and Baenes, JJ.\nRichm-d A. Smith, with him Louis Wagner and Thomas J. Clary, for appellant.\nWilliam N. Trinkle, with him Frank F. Truscott, of Truscott, Trinkle & Wright, for appellees.\nMarch 31, 1938:"
+  },
+  "file_name": "0257-01",
+  "first_page_order": 291,
+  "last_page_order": 309
+}

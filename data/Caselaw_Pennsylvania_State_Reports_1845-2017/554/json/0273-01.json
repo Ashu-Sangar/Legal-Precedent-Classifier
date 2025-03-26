@@ -1,0 +1,98 @@
+{
+  "id": 765968,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. David Joseph CESSNA, Petitioner",
+  "name_abbreviation": "Commonwealth v. Cessna",
+  "decision_date": "1998-12-10",
+  "docket_number": "Petition No. 717 W.D. Allocatur Docket 1997",
+  "first_page": "273",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "554 Pa. 273"
+    },
+    {
+      "type": "parallel",
+      "cite": "721 A.2d 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "718 A.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        356265,
+        11690730
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01",
+        "/a2d/718/1242-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356265
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 555,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.027780577168784744
+    },
+    "sha256": "988f01a5bb4aa7802d7f4df7a0ecc010c07b1fa4b7a97e69cb9c692339e116f5",
+    "simhash": "1:1da12b84238f3d54",
+    "word_count": 90
+  },
+  "last_updated": "2024-02-27T17:22:54.622856+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice SAYLOR did not participate in the consideration or decision of this case."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. David Joseph CESSNA, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 10th day of December 1998, the petition for allowance of appeal is GRANTED, the order of the Superior Court is VACATED pursuant to Commonwealth v. Randolph, 553 Pa. 224, 718 A.2d 1242 (1998) and the matter is REMANDED to the Court of Common Pleas for proceedings consistent with our decision in Randolph.\nJustice SAYLOR did not participate in the consideration or decision of this case.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "721 A.2d 55\nCOMMONWEALTH of Pennsylvania, Respondent, v. David Joseph CESSNA, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 10, 1998."
+  },
+  "file_name": "0273-01",
+  "first_page_order": 337,
+  "last_page_order": 337
+}

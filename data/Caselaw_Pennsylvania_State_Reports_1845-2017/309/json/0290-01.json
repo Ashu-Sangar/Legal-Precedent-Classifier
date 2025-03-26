@@ -1,0 +1,98 @@
+{
+  "id": 1141699,
+  "name": "Weiss v. Pittsburgh Railways Co., Appellant",
+  "name_abbreviation": "Weiss v. Pittsburgh Railways Co.",
+  "decision_date": "1932-11-28",
+  "docket_number": "Appeal, No. 170",
+  "first_page": "290",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "309 Pa. 290"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "307 Pa. 287",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1138170
+      ],
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/307/0287-01"
+      ]
+    },
+    {
+      "cite": "301 Pa. 539",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126398
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/301/0539-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 171,
+    "char_count": 1516,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04178448241577019
+    },
+    "sha256": "3d7f3042c58446676bf4624b72d469efc60ac8add61f803626f86854bb88b175",
+    "simhash": "1:92cc6f97033cd69c",
+    "word_count": 274
+  },
+  "last_updated": "2024-02-27T23:35:06.362216+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Simpson, Kephart, Schaefer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Weiss v. Pittsburgh Railways Co., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThose interested in the facts of this case will find them detailed in our opinion on the previous appeal, in 301 Pa. 539. We there held that the proofs regarding defendant\u2019s liability were such as to require their submission to the jury. They are substantially the same on this appeal, and hence we must dismiss all of the assignments of error except the one which alleges that the verdict of $6,500 is excessive. If we thought this was the case, it would call for no action by us, unless we were also of opinion that it was so excessive as to show a clear abuse of discretion in sustaining it: King v. Equitable Gas Co., 307 Pa. 287, 295. A brief statement of the relevant facts will show why we cannot so conclude. At the time he was killed, decedent had a life expectancy of ten and one-fourth years. He had long been steadily employed at a wage of $30 a week. The expenses incurred by reason of the accident were about $450. True, it was highly probable that, as he grew older, his capacity for steady work would decrease, as would also his weekly wage; but if he was only able to average half the $30 per week during his expectancy, this, with the expenses above stated, would amount to $7,832.75.\nThe judgment of the court below is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "D. H. McConnell, with him J. R. McNary, for appellant.",
+      "L. J. Ritter, with him N. J. Lippard, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Weiss v. Pittsburgh Railways Co., Appellant.\nArgued October 7, 1932.\nBefore Simpson, Kephart, Schaefer, Maxey, Drew and Linn, JJ.\nD. H. McConnell, with him J. R. McNary, for appellant.\nL. J. Ritter, with him N. J. Lippard, for appellee.\nNovember 28, 1932:"
+  },
+  "file_name": "0290-01",
+  "first_page_order": 316,
+  "last_page_order": 317
+}

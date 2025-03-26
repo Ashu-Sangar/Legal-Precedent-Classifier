@@ -1,0 +1,80 @@
+{
+  "id": 12286468,
+  "name": "Egan v. Egan",
+  "name_abbreviation": "Egan v. Egan",
+  "decision_date": "2016-04-12",
+  "docket_number": "812, 813 MAL (2015)",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6844317
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/125/0792-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.814,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2493799831573192
+    },
+    "sha256": "12073649bd7a9c9dc62cbccae8437c87d04e103b31052f3fda08b11f7cb3e234",
+    "simhash": "1:734ce08cc6fad5ef",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Egan v. Egan"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 792",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Egan v. Egan\n04/12/2016\n812, 813 MAL (2015)"
+  },
+  "file_name": "0764-06",
+  "first_page_order": 824,
+  "last_page_order": 824
+}

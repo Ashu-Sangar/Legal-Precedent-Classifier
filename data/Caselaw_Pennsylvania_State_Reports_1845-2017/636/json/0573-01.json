@@ -1,0 +1,96 @@
+{
+  "id": 12280356,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Monroe YOUNG, Petitioner",
+  "name_abbreviation": "Commonwealth v. Young",
+  "decision_date": "2016-09-06",
+  "docket_number": "No. 551 EAL 2014",
+  "first_page": "573",
+  "last_page": "573",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 573"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "140 A.3d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6794555,
+        12279979
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/140/0651-01",
+        "/pa/636/0037-01"
+      ]
+    },
+    {
+      "cite": "636 Pa. 37",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        12279979
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/636/0037-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 630,
+    "ocr_confidence": 0.59,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2490166415107599
+    },
+    "sha256": "3847f61f2fa45178681d3cd62bc031f77016c78bbc5b97a48ebd1998b47a9586",
+    "simhash": "1:3d8fa60ec3652efa",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Monroe YOUNG, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 6th day of September, 2016, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues. The issue, rephrased for clarity, is:\nWhether the mandatory sentence imposed by the trial court was illegal pursuant to Alleyne ?\nThe judgment of sentence is VACATED, and the matter is REMANDED to the Superior Court for reconsideration in light of Commonwealth v. Wolfe, 636 Pa. 37, 140 A.3d 651 (2016).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "145 A.3d 1155\nCOMMONWEALTH of Pennsylvania, Respondent, v. Monroe YOUNG, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 6, 2016."
+  },
+  "file_name": "0573-01",
+  "first_page_order": 625,
+  "last_page_order": 625
+}

@@ -1,0 +1,104 @@
+{
+  "id": 466638,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Calvin HART, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hart",
+  "decision_date": "1996-10-22",
+  "docket_number": "",
+  "first_page": "210",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "546 Pa. 210"
+    },
+    {
+      "type": "parallel",
+      "cite": "683 A.2d 1205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "672 A.2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461476,
+        461606,
+        7359343,
+        461590,
+        7359095,
+        7359165
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0449-01",
+        "/pa/543/0447-01",
+        "/a2d/672/0769-03",
+        "/pa/543/0448-01",
+        "/a2d/672/0769-01",
+        "/a2d/672/0769-02"
+      ]
+    },
+    {
+      "cite": "543 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461476
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 420,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.017148297062878955
+    },
+    "sha256": "3e7f70cc6c7bc3d8293124e081306af7cf2f3b8ba9412d37f626b86b548baf4d",
+    "simhash": "1:57b92264e1c30d66",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T19:23:05.732246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Calvin HART, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of October, 1996, the Petition for Allowance of Appeal is granted. The Order of the Superior Court is vacated and the Order of the common pleas court dated October 5, 1993, is reinstated. See Commonwealth v. Matos, 543 Pa. 449, 672 A.2d 769 (1996).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "683 A.2d 1205\nCOMMONWEALTH of Pennsylvania, Respondent, v. Calvin HART, Petitioner.\nSupreme Court of Pennsylvania.\nOct. 22, 1996."
+  },
+  "file_name": "0210-01",
+  "first_page_order": 334,
+  "last_page_order": 335
+}

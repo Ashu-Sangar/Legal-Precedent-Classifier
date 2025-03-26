@@ -1,0 +1,802 @@
+{
+  "id": 706329,
+  "name": "ROHM AND HAAS COMPANY and Rohm and Haas Delaware Valley Inc., Appellants, v. CONTINENTAL CASUALTY COMPANY, et al., and The Home Insurance Company, Appellees; Rohm nd Haas Company and Rohm and Haas Delaware Valley Inc., Appellants, v. Continental Casualty Company, et al., and Certain Underwriters at Lloyd's, London and Certain London Market Insurance Companies, Appellees",
+  "name_abbreviation": "Rohm & Haas Co. v. Continental Casualty Co.",
+  "decision_date": "2001-10-18",
+  "docket_number": "Nos. 7 and 8 E.D. Appeal Docket 2000",
+  "first_page": "464",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 464"
+    },
+    {
+      "type": "parallel",
+      "cite": "781 A.2d 1172"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "42 U.S.C. \u00a7 9601",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "472 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1727725
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/472/0066-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827670
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "682"
+        },
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0157-01"
+      ]
+    },
+    {
+      "cite": "373 Pa.Super. 41",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        695998
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/373/0041-01"
+      ]
+    },
+    {
+      "cite": "186 A. 133",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "322 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1167886
+      ],
+      "year": 1936,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/322/0547-01"
+      ]
+    },
+    {
+      "cite": "76 A.2d 753",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "366 Pa. 30",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8844931
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/366/0030-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827729
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0393-01"
+      ]
+    },
+    {
+      "cite": "172 A. 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "316 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1158975
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0218-01"
+      ]
+    },
+    {
+      "cite": "43 A. 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1899,
+      "opinion_index": 0
+    },
+    {
+      "cite": "191 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907006
+      ],
+      "year": 1899,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/191/0484-01"
+      ]
+    },
+    {
+      "cite": "46 A. 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1900,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Pa. 314",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        916777
+      ],
+      "year": 1900,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/196/0314-01"
+      ]
+    },
+    {
+      "cite": "124 F.3d 508",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11904130
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/124/0508-01"
+      ]
+    },
+    {
+      "cite": "896 F.Supp. 362",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "375",
+          "parenthetical": "a case in which the federal district court predicted Pennsylvania law"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 A.2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa. 367",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279721
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/393/0367-01"
+      ]
+    },
+    {
+      "cite": "472 Pa. 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1727741
+      ],
+      "weight": 4,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/472/0373-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831163
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1007",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0394-01"
+      ]
+    },
+    {
+      "cite": "665 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        458972,
+        7880612
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0124-01",
+        "/a2d/665/1167-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 124",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458972
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0124-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 1236",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11553781
+      ],
+      "pin_cites": [
+        {
+          "page": "1245"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/732/1236-01"
+      ]
+    },
+    {
+      "cite": "763 A.2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11170160,
+        1366909
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/763/0394-01",
+        "/pa/563/0579-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 579",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366909
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/563/0579-01"
+      ]
+    },
+    {
+      "cite": "1995 WL 606317",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "*2"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "14 A. 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "120 Pa. 504",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559739
+      ],
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/120/0504-01"
+      ]
+    },
+    {
+      "cite": "142 S.E.2d 551",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "if no inquiry made by insurer as to status of property, insured cannot, after loss has occurred, defeat recovery because insured did not volunteer certain information"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "206 Va. 263",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4200140
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "if no inquiry made by insurer as to status of property, insured cannot, after loss has occurred, defeat recovery because insured did not volunteer certain information"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/va/206/0263-01"
+      ]
+    },
+    {
+      "cite": "142 N.W.2d 844",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "parenthetical": "no duty to volunteer information beyond scope of questions asked"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "31 Wis.2d 351",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8671138
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "parenthetical": "no duty to volunteer information beyond scope of questions asked"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/31/0351-01"
+      ]
+    },
+    {
+      "cite": "109 A. 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "633"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "266 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056012
+      ],
+      "year": 1920,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/266/0394-01"
+      ]
+    },
+    {
+      "cite": "998 P.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "although insured failed to advise insurers about known pollution damage to its property, policies were not void where pollution damage was not material factor in insurers' decision to insure"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "140 Wash.2d 517",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119555
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "although insured failed to advise insurers about known pollution damage to its property, policies were not void where pollution damage was not material factor in insurers' decision to insure"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/140/0517-01"
+      ]
+    },
+    {
+      "cite": "770 A.2d 403",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11101454
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "415"
+        },
+        {
+          "page": "415"
+        },
+        {
+          "page": "416"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/770/0403-01"
+      ]
+    },
+    {
+      "cite": "646 N.E.2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "397"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "419 Mass. 528",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        823649
+      ],
+      "year": 1995,
+      "opinion_index": 2,
+      "case_paths": [
+        "/mass/419/0528-01"
+      ]
+    },
+    {
+      "cite": "726 A.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1999,
+      "opinion_index": 2
+    },
+    {
+      "cite": "158 N.J. 73",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "74"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "316 N.J.Super. 351",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        340352
+      ],
+      "weight": 2,
+      "opinion_index": 2,
+      "case_paths": [
+        "/nj-super/316/0351-01"
+      ]
+    },
+    {
+      "cite": "913 P.2d 878",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "905-06",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "42 Cal.Rptr.2d 324",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "year": 1995,
+      "opinion_index": 2
+    },
+    {
+      "cite": "10 Cal.4th 645",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1992355
+      ],
+      "year": 1995,
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-4th/10/0645-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 9601",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "472 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1727725
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "196-97"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/472/0066-01"
+      ]
+    },
+    {
+      "cite": "124 F.3d 508",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11904130
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "518"
+        },
+        {
+          "page": "518",
+          "parenthetical": "certainty of legal liability for damage, rather than certainty of damage, is required to trigger application of known loss doctrine"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f3d/124/0508-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 1236",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11553781
+      ],
+      "pin_cites": [
+        {
+          "page": "1258"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/732/1236-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1807,
+    "char_count": 56666,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.4985254237641226e-07,
+      "percentile": 0.9228524520155422
+    },
+    "sha256": "ee2d94d0c6df6fe28155e54e55bef438fa0316f5a4926656b3d2d98973b215b9",
+    "simhash": "1:8f8cd3a89d9cdb65",
+    "word_count": 8986
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ.",
+      "Mr. Justice NIGRO files a concurring opinion.",
+      "Mr. Justice CASTILLE files a dissenting opinion in which Mr. Justice CAPPY and Mr. Justice SAYLOR join.",
+      "Justices CAPPY and SAYLOR join this dissenting opinion."
+    ],
+    "parties": [
+      "ROHM AND HAAS COMPANY and Rohm and Haas Delaware Valley Inc., Appellants, v. CONTINENTAL CASUALTY COMPANY, et al., and The Home Insurance Company, Appellees. Rohm nd Haas Company and Rohm and Haas Delaware Valley Inc., Appellants, v. Continental Casualty Company, et al., and Certain Underwriters at Lloyd\u2019s, London and Certain London Market Insurance Companies, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION ANNOUNCING THE JUDGMENT OF THE COURT\nFLAHERTY, Chief Justice:\nThis is an appeal by allowance from the judgment of the superior court reversing the trial court\u2019s grant of judgment notwithstanding the verdict (JNOV) in favor of appellants, Rohm & Haas. In this case involving comprehensive general liability coverage (CGL) for the cleanup of serious environmental pollution of the soil, groundwater and surface water of a manufacturing site formerly owned and operated by appellants, appellants present three issues for this court\u2019s review. The first issue is whether JNOV was properly entered with respect to the appellee insurance companies\u2019 defense via the \u201cknown loss\u201d doctrine, a matter of first impression before this court. The second is whether JNOV was properly granted with respect to appellees\u2019 defense of fraud. The final issue is whether JNOV was properly granted with respect to appellees\u2019 defense of late notice.\nAppellants are manufacturers of specialty chemicals headquartered in Philadelphia. In June 1964, appellants, through a wholly owned subsidiary, purchased Whitmoyer Laboratories, a small veterinary pharmaceuticals company, and continued operations. Shortly thereafter, appellants discovered that the site was extensively polluted with arsenic waste, a byproduct of Whitmoyer\u2019s and appellants\u2019 manufacturing processes. Although appellants undertook remedial measures to clean up the site, arsenic waste continued to be produced as a result of appellants\u2019 operations. In 1978, appellants sold the site to Smith-Kline Beecham.\nIn December 1964, appellants added the Whitmoyer site to existing CGL insurance coverage it held with appellee insurers. Appellants periodically purchased from appellees additional policies that covered Whitmoyer throughout the time that they operated the site and were aware of the contamination. Although appellants disclosed the problem to their primary coverage insurer and to their insurance broker as well as to the proper commonwealth authorities, there is no evidence that the excess insurers were ever notified of the pollution problem.\nIn 1980, Congress enacted the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA). This act retroactively imposes strict liability for environmental cleanup costs on present and former owners or operators of polluting facilities without regard to fault. Subsequently, the Environmental Protection Agency notified appellants that they were strictly liable for the cleanup costs associated with the Whitmoyer site. In 1988, twenty-four years after becoming aware of the severe pollution at Whitmoyer, appellants notified their excess insurers that they were asserting a claim to cover the Whitmoyer cleanup costs, more than twenty-one million dollars. Appellees denied the claim and appellants brought suit.\nThe parties agreed to a bifurcated trial, with the liability trial before a jury and any subsequent damages trial to be held before the bench. After a nine-and-one-half week liability trial, the trial court directed a verdict in appellants\u2019 favor on the issue of appellees\u2019 late notice defense and submitted a verdict form containing seven questions for the jury\u2019s consideration. The jury, in response to the special verdict interrogatories, determined that no coverage existed as it found in favor of appellees on, inter alia, the following questions\nby answer to Jury Verdict Question No. 7: That Rohm & Haas failed to disclose material facts about the arsenic pollution at Whitmoyer when it purchased the excess policies [the fraud issue]; [and]\nby answer to Jury Verdict Question No. 3: That at the time it contracted with the excess liability insurers, Rohm & Haas knew of damage or injury for which there would be legal liability large enough to reach the excess policies [the known loss issue]....\nRohm and Haas Co. v. Continental Casualty Co., 732 A.2d 1236, 1245 (Pa.Super.1999). After post-trial motions were filed, the court entered JNOV on the jury\u2019s verdict with respect to questions 3 and 7, among others. Superior Court reversed the trial court with respect to both questions and with respect to the late notice defense, and a timely appeal to this court followed.\nOur scope of review with respect to whether JNOV is appropriate is plenary, as with any review of questions of law. Phillips v. A-Best Products Co., 542 Pa. 124, 665 A.2d 1167, 1170 (1995). It is axiomatic that, \u201c[t]here are two bases upon which a judgment n.o.v. can be entered: one, the movant is entitled to judgment as a matter of law, and/or two, the evidence was such that no two reasonable minds could disagree that the outcome should have been rendered in favor of the movant.\u201d Moure v. Raeuchle, 529 Pa. 394, 604 A.2d 1003, 1007 (1992) (citations omitted). To uphold JNOV on the first basis, we must review the record and conclude \u201cthat even with all the factual inferences decided adverse to the movant the law nonetheless requires a verdict in his favor, whereas with the second [we] review the evidentiary record and [conclude] that the evidence was such that a verdict for the movant was beyond peradventure.\u201d Id.\nWhen we review a motion for JNOV, we must consider the evidence in the light most favorable to the verdict winner, who must receive \u201cthe benefit of every reasonable inference of fact arising therefrom, and any conflict in the evidence must be resolved in his favor.\u201d Id. (citing Broxie v. Household Finance Co., 472 Pa. 373, 372 A.2d 741, 745 (1977)). Any doubts must be resolved in favor of the verdict winner, and JNOV should only be entered in a clear case. Id. Finally, \u201ca judge\u2019s appraisement of evidence is not to be based on how he would have voted had he been a member of the jury, but on the facts as they come through the sieve of the jury\u2019s deliberations.\u201d Id. (citing Brown v. Shirks Motor Express, 393 Pa. 367, 143 A.2d 374, 379 (1958)).\nAs it raises a matter of first impression before this court, we will first turn our attention to the entry of JNOV with respect to question no. 3. As Superior Court observed, \u201c[t]he \u2018known loss\u2019 doctrine has not been tested in the state courts of Pennsylvania, [but] has been recognized by the courts of other states.\u201d Rohm and Haas, supra, at 1256 (quoting UTI Corp. v. Fireman\u2019s Fund Ins. Co., 896 F.Supp. 362, 375 (D.N.J. 1995) (a case in which the federal district court predicted Pennsylvania law)). Superior Court described the known loss doctrine as follows:\nThe known loss doctrine is a common law concept that derives from the fundamental requirement of fortuity in insurance law. Essentially, the doctrine provides that one may not obtain insurance for a loss that either has already taken place or is in progress. As we have recognized, the rule is based on the realization that the purpose of insurance is to protect insureds against unknown risks. State courts are divided as to the scope of the known loss doctrine. Some have construed it quite narrowly, barring coverage only when the insured knew of certainty of damages and liability. Others have refused to find coverage when the insured was substantially aware of a risk of loss.\nRohm and Haas, supra at 1256 (quoting Pittston Co. Ultramar America Ltd. v. Allianz Ins. Co., 124 F.3d 508, 517 3d Cir.1997) (citations and quotations omitted). The questions presented here are whether this doctrine is recognized in Pennsylvania, and if so, how broadly or narrowly should it be construed.\nAppellants argue that if it exists at all, courts should employ a narrow construction of the doctrine. They urge that its application requires the existence of certain knowledge of a particular legal liability large enough to reach the excess layers of insurance at the time of contracting; for example, an entry of judgment on a claim by a third party against the insured that exceeds the CGL threshold. Appellees, on the other hand, argue that courts should employ a broad construction of the doctrine. That is, an insured\u2019s mere awareness of a substantial probability of liability large enough to reach the excess layers of insurance at the time of contracting is sufficient to satisfy the requirements of the doctrine.\nWhile the known loss doctrine has not been formally adopted in Pennsylvania, this court has long required insurance applicants to make full and fair disclosure of all things material to the insurable risk. Smith v. Northwestern Mut. Ins. Co., 196 Pa. 314, 46 A. 426 (1900), See also American Union Life Ins. Co. v. Judge, 191 Pa. 484, 43 A. 374 (1899). On their faces these cases seemingly support the proposition that when an insured knows of an insurable harm incurred prior to the purchase of an insurance policy, the insured has suffered a \u201cknown loss\u201d and the damage is no longer a mere risk and is deemed uninsurable. However, these cases are distinguishable from the matter sub judice given that in both Smith and Judge the courts were confronted with insureds who had given less than candid answers to explicit and specific questions on their insurance applications. In the present case, appellants were never explicitly asked whether a pollution problem existed and never volunteered such information. Nonetheless, this distinction is one of little moment, particularly where, as here, we are presented with a sophisticated insured, possessed of its own experienced legal and insurance departments, \u201cfaced with mounting evidence that it will likely incur responsibilities to the extent of the insurance which is sought.\u201d Rohm and Haas, supra at 1258. We agree, therefore, with Superior Court\u2019s conclusion that the standard for the known loss defense in this case should be \u201cwhether the evidence shows that the insured was charged with knowledge which reasonably shows that it was, or should [have been], aware of a likely exposure to losses which would reach the level of coverage.\u201d Id.\nFurthermore, even if we were to employ the standard urged by appellants it appears that they would not prevail on this issue. No matter which standard is applied, the question of whether JNOV was properly entered with respect to question no. 3 lies at the heart of this issue. That question reads as follows:\nHave the insurers proven that, at the time of contracting any of the following CGL excess policies, Rohm and Haas had certain knowledge of damage or injury for which there would be legal liability that was large enough to exceed the underlying insurance layers and would reach the excess layer of any of the following CGL excess policies?\nVerdict Form for Whitmoyer Laboratories Site, Question No. 3 (emphasis added). Relying upon the evidence introduced at trial by both sides, the jury answered affirmatively with regard to each policy at issue.\nThat evidence included, inter alia: undisputed testimony that Rohm & Haas first became aware of catastrophic levels of arsenic pollution at the Whitmoyer site in 1964; testimony that Rohm & Haas faced liability under the 1937 Clean Streams Law; evidence that Rohm & Haas\u2019 legal department was concerned with the potential legal liability arising out of the situation at Whitmoyer; testimony that Rohm & Haas supplied water and paid the medical bills of its neighbors to avert potential liability; and testimony that Rohm & Haas considered the situation at Whitmoyer to be a grave emergency. Viewing this evidence in the light most favorable to the insurers (the verdict winner), resolving conflicts in the evidence in their favor, and allowing them the benefit of all reasonable inferences of fact, the evidence easily supports the jury\u2019s conclusion that Rohm & Haas certainly knew of damage or injury for which there would be legal liability large enough to reach the excess layers of insurance. Consequently, we cannot conclude either that the law requires a verdict in Rohm & Haas\u2019 favor or that no two reasonable minds could disagree that Rohm & Haas should have prevailed. This is not a sufficiently clear case to mandate the entry of JNOV; thus Superior Court correctly resolved this issue.\nThe next issue deals with fraud and is closely related to the known loss issue. We must decide whether JNOV was properly granted with respect to question no. 7, which reads:\nDo you find that, as to [the policies at issue], the insurer issuing the policy has proven the following facts by clear and convincing evidence:\nA. That in connection with buying the specific insurance policy, Rohm and Haas\u2019 employees or agents of Rohm and Haas who were in contact with the issuing insurer intentionally failed to disclose material information about Whitmoyer, and, if so,\nB. That Rohm and Haas employees or agents deliberately concealed material information with the intent to deceive the CGL excess insurer; or, that other persons at Rohm and Haas, as part of an intentional plan to conceal and deceive, kept material information from the employees or agents in contact with the insurer so that the information would not be disclosed?\nThe jury answered affirmatively with respect to each policy. The trial court entered JNOV with respect to the three policies already in existence at the time Rohm & Haas acquired Whitmoyer on the basis that Rohm & Haas could not have been aware of the problem prior to acquiring Whitmoyer when it contracted for those policies, and thus, could not have had an intent to deceive or conceal material information from the insurers. That court further granted JNOY with respect to the remaining policies on the basis that the evidence presented at trial was insufficient for the jury to find a \u201cdeliberate, fraudulent intent to deceive.\u201d Rohm and Haas, supra at 1251.\nWhen an insured secures an insurance policy by means of fraudulent misrepresentations, the insurer may avoid that policy. New York Life Ins. Co. v. Brandwene et ux., 316 Pa. 218, 172 A. 669 (1934). See also Smith and Judge, supra. The burden of proving fraud must be established by clear and convincing evidence and rests with the party alleging it. Id. The clear and convincing standard requires evidence that is \u201cso clear, direct, weighty, and convincing as to enable the jury to come to a clear conviction, without hesitancy, of the truth of the precise facts of the issue.\u201d Lessner v. Rubinson, 527 Pa. 393, 592 A.2d 678, 681 (1991). This court has previously observed that fraud \u201cis never proclaimed from the housetops nor is it done otherwise than surreptitiously with every effort usually made to conceal the truth of what is being done. So fraud can rarely if ever be shown by direct proof. It must necessarily be largely inferred from the surrounding circumstances.\u201d Shechter v. Shechter, 366 Pa. 30, 76 A.2d 753, 755 (1950).\nIn an insurance fraud case, the insurer must prove that the fraudulent misrepresentations were material to the risk assumed by the insurer. Evans v. Penn Mutual Life Ins. Co. of Philadelphia, 322 Pa. 547, 186 A. 133 (1936). When knowledge or ignorance of certain information would influence the decision of an insurer in the issuance of a policy, assessing the nature of the risk, or setting premium rates, that information is deemed material to the risk assumed by the insurer. A.G. Allebach, Inc. v. Hurley, 373 Pa.Super. 41, 540 A.2d 289 (1988). Furthermore, \u201cfraud consists of anything calculated to deceive, whether by single act or combination, or by suppression of truth, or suggestion of what is false, whether it be by direct falsehood or by innuendo, by speech or silence, word of mouth or look or gesture.\u201d Moser v. DeSetta, 527 Pa. 157, 589 A.2d 679, 682 (1991). That is, there must be a deliberate intent to deceive. Evans, supra. Finally, \u201cthe concealment of a material fact can amount to a culpable misrepresentation no less than does an intentional false statement.\u201d Moser, supra at 682\nIn the present case, evidence was adduced at trial regarding the calamitous nature of the pollution at Whitmoyer. It is undisputed that Rohm & Haas learned of this problem shortly after purchasing the site. Rohm & Haas did not disclose the problem to the insurers either when adding Whitmoyer to the policies in existence or when purchasing subsequent coverage. Indeed, the insurers were not made aware of the problem until some twenty-four years later when Rohm & Haas filed a claim for coverage. Furthermore, evidence was introduced at trial which showed that the pollution at Whitmoyer was material to the insurers\u2019 decision to provide coverage.\nThe insurers presented a chronology of events showing that as Rohm & Haas increasingly became aware of the pervasiveness of the problem, with its concomitant risk of liability, the company purchased increasing amounts of excess coverage. Evidence was also adduced of the company\u2019s awareness of the potential liability to its neighbors. Furthermore, while Rohm & Haas cooperated fully and openly with the appropriate commonwealth agencies to address the problems at Whitmoyer, the company also deliberately undertook to keep the situation from becoming public knowledge.\nExamining this evidence under the standard required in a review of JNOV, we conclude that there is sufficient support for the jury\u2019s answer to question no. 7. Rohm & Haas argues that their evidence shows that the failure to disclose was unintentional and that the purchases of excess insurance were unrelated to the situation at Whitmoyer. Essentially they are asking this court to reexamine the evidence and substitute our findings for those of the jury. However, factual determinations are the sole province of the jury and it was for the jury to decide how the evidence should be interpreted. Here, the jury weighed the evidence and, drawing permissible inferences, concluded that the failure to disclose was not merely inadvertent and unrelated to Whitmoyer, but knowing and deliberate. The jury determined that at the times that Whitmoyer was added to existing policies or included in newly purchased policies Rohm & Haas deliberately withheld information it knew would be material to the insurers\u2019 decision to provide coverage. We therefore conclude that Superior Court appropriately reversed the entry of JNOV on this issue.\nThe final issue is whether JNOV was properly entered with respect to the insurers\u2019 \u201clate notice\u201d defense. We have stated in the past that when an insurance policy contains provisions requiring timely written notice of claims under that policy, the breach of that provision releases the insurer from the obligations imposed by the policy. Brakeman v. Potomac Ins. Co., 472 Pa. 66, 371 A.2d 193 (1977). The timeliness of such notice depends on the facts and circumstances of each case. Id, The purpose of these provisions is to\nprevent the insurer from being prejudiced, not to provide a technical escape-hatch by which to deny coverage in the absence of prejudice nor to evade the fundamental protective purpose of the insurance contract to assure the insured and the general public that liability claims will be paid up to the policy limits for which the premiums were collected. Therefore, unless the insurer is actually prejudiced by the insured\u2019s failure to give notice immediately, the insurer cannot defeat its liability under the policy because of the non-prejudicial failure of its insured to give immediate notice of an accident or claim as stipulated by a policy provision.\nId. at 197.\nIn the present case the trial court properly observed that dissipation and disappearance of evidence occurs over the passage of time and that witnesses become unavailable and memories fade. These are some of the prejudicial effects sought to be mitigated by notice provisions. Nonetheless, the trial court directed the verdict in Rohm & Haas\u2019 favor on this issue claiming that the insurers failed to present sufficient evidence demonstrating how they had been prejudiced by a twenty-four year delay in notification of the problems at Whitmoyer.\nTwenty-four years had elapsed between the acquisition of the site and the claim for coverage; thirty-three years had elapsed by the time the case went to trial. At trial, evidence was adduced that many of the Rohm & Haas employees involved in the purchase and operation and cleanup of Whitmoyer were deceased. In all likelihood, those who had survived to trial had experienced some diminution of their recollection of the events thirty-three years earlier. Finally, by the time Rohm & Haas gave notice of the claim to its insurers, relevant documents had been lost or destroyed. Therefore, we agree with Superior Court that disputed issues of fact existed as to whether the insurers were prejudiced by the delay. This presented a triable issue of fact that should have been presented to the jury.\nFor the foregoing reasons the judgment of Superior Court is affirmed in all respects.\nMr. Justice NIGRO files a concurring opinion.\nMr. Justice CASTILLE files a dissenting opinion in which Mr. Justice CAPPY and Mr. Justice SAYLOR join.\n. CGL policies provide coverage above a certain threshold and are meant to supplement coverage provided by primary liability policies.\n. The pervasiveness of the problem caused appellants to supply drinking water to several neighbors and to pay the hospitalization costs of one farmer who fell ill. No legal claims were ever filed against appellants.\n. 42 U.S.C. \u00a7 9601 et seq. (1995).\n. Among these post-trial motions were motions by the appellees seeking the trial judge\u2019s recusal from both ruling on the post-trial motions and from presiding over the damages trial. The recusal motions were based upon a post-trial meeting that the judge held with the jury where it is alleged that, among other things, he informed the jurors that they had made the wrong decision; that appellees had lost a similar trial in Pittsburgh; that. Rohm & Haas is a very good company; and that he had seen evidence that they had not, which would have changed their verdict. The motions were denied. Superior Court, while admitting that the recusal nrotions might have been handled differently, concluded that the trial judge\u2019s disavowal of any bias was sufficient and that he objectively determined the post-trial motions; this matter has not been appealed.\n. 35 P.S. \u00a7 691.1 et seq.; section 3 of which provided:\nThe discharge of sewage or industrial waste or any noxious and deleterious substances into the waters of this Commonwealth, which is or may become inimical and injurious to the public health, or to animal or aquatic life, or to the uses of such waters for domestic or industrial consumption, or for recreation, is hereby declared not to be a reasonable or natural use of such water, to be against public policy and to be a public nuisance.\nSection 3 was amended in 1970 as follows:\nThe discharge of sewage or industrial waste or any substance into the waters of this Commonwealth which causes or contributes to pollution as herein defined or creates a danger of such pollution is hereby declared not to be a reasonable or natural use of such waters, to be against public policy and to be a public nuisance.\nWhile there was no private right of action at the time, the act did and still does provide for abatement of the nuisance; in 1964 the act gave the Chief Environmental Administrator the power to compel companies to clean up pollution and remedy environmental damage caused by their operations. See e.g., 35 P.S. \u00a7\u00a7 691.5, 691.316, 691.501, 691.503, 691.601, 691.602, 691.604, 691.605, and 691.610. Notwithstanding any liability that might arise as a result of state or federal statutory enactments, Rohm & Haas certainly should have realized that the gross contamination of the Whitmoyer site would likely have constituted a public nuisance, a long recognized source of common law liability.\n. One of the reasons the trial judge entered JNOV was that he believed the jury had improperly utilized post hoc ergo propter hoc reasoning (after this and therefore in consequence of this; the fallacy of false cause) when it inferred fraudulent intent from the chronology of events presented showing that Rohm & Haas coincidentally purchased increasing amounts of CGL coverage as its awareness of the magnitude of the problem grew. While a single isolated incident of some event followed by a second event may render tenuous an inference that the first event caused the second, a series of such incidents accompanied by other circumstantial evidence may result in a much more compelling conclusion. Here, the jury\u2019s review of all the evidence led them to the permissible inference that Rohm & Haas intentionally undertook to withhold the material information.",
+        "type": "majority",
+        "author": "FLAHERTY, Chief Justice:"
+      },
+      {
+        "text": "NIGRO, Justice,\nconcurring.\nI agree with the majority that the Superior Court properly reversed the trial court\u2019s grant of judgment notwithstanding the verdict in favor of Appellants because the evidence clearly supported the jury\u2019s verdict with respect to Appellees\u2019 defense of fraud, i.e., that Appellants fraudulently concealed the pollution at Whitmoyer. Given that Appellees demonstrated that they were not responsible for indemnifying Appellants on the basis of fraud, however, I see no need for the majority to address the merits of Appellees\u2019 additional defenses of known loss and late notice. Lindstrom v. Corry, 563 Pa. 579, 763 A.2d 394, 395 (2000).",
+        "type": "concurrence",
+        "author": "NIGRO, Justice,"
+      },
+      {
+        "text": "CASTILLE, Justice,\ndissenting.\nI respectfully dissent.\nThe excess comprehensive general liability insurers here sought to avoid their obligation to indemnify appellants for environmental cleanup costs which resulted from the retroactive application of a new federal statute, the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), 42 U.S.C. \u00a7 9601 et seq. The insurers raised three affirmative defenses that are the subject of this appeal. One defense, late notice, derives from the actual insurance agreement between the parties. The other two defenses, \u201cknown loss\u201d (which has not been previously recognized by this Court) and fraud (which has been recognized), do not; they are extra-contractual doctrines. Known loss and fraud both focus on alleged misrepresentations or failures to disclose by the insured. This appeal presents important questions concerning not only the proper resolution of the three affirmative defenses in this case, but also broader questions concerning the proper contours of the defenses under Pennsylvania law.\nNotwithstanding its overall factual complexity, the resolution of this case turns on the perceived legal consequences of a single fact crucial both to the insurers\u2019 argument and the majority\u2019s affirmance, and to a single federal statute crucial to appellants\u2019 argument. That fact consists of appellants\u2019 failure to volunteer information in the 1960s to their excess insurers concerning arsenic pollution at the Whitmoyer facility, which they purchased in 1964. It is undisputed that appellants made no misrepresentations in this regard: The insurers never asked about environmental pollution in approving and issuing the excess comprehensive liability policies, and appellants did not tell. The insurers\u2019 legal theory, accepted by the Superior Court, was that, notwithstanding the insurers\u2019 failure to condition their excess comprehensive liability coverage upon the disclosure of this particular kind of information, appellants should be charged with an extra-contractual, de jure obligation to volunteer it.\nThe federal statute crucial to appellants\u2019 claim that they are entitled to judgment as a matter of law on the three affirmative defenses is CERCLA, which was enacted in 1980. Appellants note that their liability for the environmental clean-up costs at issue here did not arise at any time even remotely near to the period when they failed to volunteer that there was arsenic contamination at the Whitmoyer facility. Instead, the environmental clean-up liability arose only after the passage and retroactive application of CERCLA. It was this fortuity which made appellants, as former owners of Whitmoyer, retroactively and strictly liable to remediate the contamination at the Whitmoyer facility, the majority of which had occurred before their purchase of the facility. Appellants no longer even owned the Whitmoyer site when CERCLA was enacted in 1980, much less by the time the Environmental Protection Agency (EPA) notified them in 1986 that they were a potentially responsible party under CERCLA.\nIn my view, as a matter of law, appellants\u2019 mere failure to volunteer unrequested information concerning the contamination at Whitmoyer when they secured excess comprehensive coverage against a risk of liability, such as the massive environmental cleanup costs that were retroactively mandated by the subsequent passage and interpretation of CERCLA, provides no basis for finding an extra-contractual forfeiture of coverage. The majority overlooks the insurers\u2019 failure to make the mere fact of contamination relevant to issuing the coverage and also fails to factor in the controlling importance of CERCLA. Because I disagree with the majority\u2019s approach here, and because I believe that a deeper inquiry commands a different result, I respectfully dissent.\nI. Known Loss\nThe majority summarily concludes that the extra-contractual \u201cknown loss\u201d doctrine is now a viable defense to an otherwise valid insurance claim in Pennsylvania separate from the \u201cclosely related\u201d and well-defined defense of fraud. The majority also approves of a formulation of known loss adopted by Superior Court that permits the new defense to swallow and even expand the well-settled fraud doctrine. Simply quoting from the Superior Court opinion without elaboration, the majority articulates a broad known loss standard as follows: \u201cwhether the evidence shows that the insured was charged with knowledge which reasonably shows that it was, or should [have been], aware of a likely exposure to losses which would reach the level of coverage.\u201d Majority Op. at 1177, quoting Rohm and Haas Co. v. Continental Casualty Co., 732 A.2d 1236, 1258 (Pa.Super.1999). The majority rejects, without explanation, the prevailing standard among those courts recognizing known loss. This formulation permits a forfeiture of coverage under third-party liability insurance policies \u201conly where, at the time of contracting, the legal liability for which coverage is sought (rather than the property damage or occurrence that may later give rise to liability) is a certainty, i.e., a \u2018legal obligation to pay\u2019 third-party claims for damages has been established before the inception of the policy.\u201d Brief of Appellant, 25-26 & n. 15 (emphasis in original), citing, inter alia, Montrose Chem. Corp. of California v. Admiral Ins. Co., 10 Cal.4th 645, 42 Cal.Rptr.2d 324, 913 P.2d 878 (1995); Pittston Co. Ultramar Am. Ltd. v. Allianz Ins. Co., 124 F.3d 508, 518 (3d Cir.1997) (predicting New Jersey law); CPC Int\u2019l, Inc. v. Hartford Acc. & Indem. Co., 316 N.J.Super. 351, 720 A.2d 408 (App.Div.1998), appeal denied, 158 N.J. 73, 74, 726 A.2d 937 (1999). See also Amicus Brief of United Policyholders, 19-25 (discussing cases).\nThe questions of whether Pennsylvania should recognize the known loss doctrine at all as an additional, extra-contractual, affirmative defense and, if so, what \u201cconstruction of the doctrine\u201d should be adopted, are more difficult than the majority\u2019s treatment reveals. The fraud defense is subject to a settled, exacting standard befitting a doctrine that would undo the actual agreement between the parties because of wrongdoing by one of the parties. The insurer must prove by clear and convincing evidence: (1) a fraudulent misrepresentation, (2) made with a \u201cdeliberate intent to deceive,\u201d and (3) which is material to the risk contractually assumed by the insurer. See Majority Op. at 1179. Although the only principled basis for a known loss defense is a similar concern with fraud, the Superior Court construction of it, approved by the majority here, is far less exacting. This novel formulation apparently would not be subject to the clear and convincing evidence standard of fraud, nor would it require a misrepresentation made with a deliberate intent to deceive. Instead, the standard, such as it is, is one of multiple laxity: The insurer need merely \u201cshow\u201d (assumedly by a preponderance of the evidence) that the insured \u201cwas charged with knowledge\u201d that \u201creasonably shows\u201d that the insured \u201cwas or should have been aware\u201d of a mere \u201clikely exposure\u201d to losses that would reach the level of coverage. There is no requirement under this formulation that the insured have knowledge of an existing legal liability to a third party, which is the actual risk being insured against in this sort of coverage. Instead, the majority focuses on mere \u201closses,\u201d and then requires only a \u201clikelihood\u201d of exposure to the level of coverage. The majority does not explain why it embraces these multiple vacillations to undo the parties\u2019 agreement, rather than reasoning from our actual experience with fraud cases in the insurance area.\nAppellants accurately argue that the formulation of the known loss doctrine embraced by the majority simply \u201cbypasses\u201d the fraud standard, permitting a forfeiture of coverage pursuant to a lesser standard of proof, and \u201cwithout proof of a false statement or statement made in bad faith, an intent to deceive, or detrimental reliance.\u201d Brief of Appellants, 29. Appellants further accurately note that the majority\u2019s new rule is contrary to the well-established law and policy in this Commonwealth, which disfavors rules of general application that result in the forfeiture of insurance coverage. See, e.g., Brakeman v. Potomac Ins. Co., 472 Pa. 66, 371 A.2d 193, 196-97 (1977). Appellants also argue that this formulation is \u201cunprecedented\u201d in Pennsylvania (as it certainly is), and is far out of step with decisions of other courts nationwide (as it most certainly is). When such an unprecedented new doctrine resulting in a forfeiture of coverage is applied retroactively, as the majority does here, appellants rightly note that it \u201cstrike[s] at the heart of the settled expectations under many existing third-party liability insurance contracts in the Commonwealth.\u201d, Brief of Appellants, 29-30. The majority does not address these legitimate concerns. The Court should come to terms with these ably argued realities and, at a minimum, make some attempt to justify the n\u00e9w course, before approving such a radical change in the law and applying it retroactively to the insurance agreements in this case.\nFor my part, I would recognize the known loss doctrine, if at all, only in conjunction with our settled fraud standard. Since the defense sounds in the same sort of misconduct/misrepresentation as fraud, and also involves a forfeiture of a contractual right by judicial intervention, I believe it should be evaluated similarly, including its being subject to a clear and convincing evidence standard of proof. With respect to the elements of the defense, I would require that the undisclosed knowledge that triggers the defense should consist of actual (not imputed) knowledge of the existing legal liability, which is the subject of the later claim for indemnification \u2014 here, the liability retroactively arising after CERCLA\u2019s enactment. It is this legal liability which is the risk of loss being insured against; thus, it is only a nondisclosure as to this existing loss that could be said to amount to a material misrepresentation.\nThe very purpose of insurance is to protect against identifiable, known risks of varying degrees of predictability. Indeed, perception of a risk is an ineluctable element of the desire for insurance. Recognizing the risk of a specific peril, both the insurer and insured wager against an occurrence or nonoccurrence; the carrier is thus insuring against the risk of an occurrence, not the certainty thereof. See SCA Services, Inc. v. Transportation Ins. Co., 419 Mass. 528, 646 N.E.2d 394, 397 (1995). This insurable risk is eliminated only where the insured knows and fails to disclose, when it purchases the policy, that it already \u201chas suffered the threat of an immediate economic loss, as a result of some event, and that the reality of that loss occurring is a certainty.\u201d Insurance Co. of North America v. Kayser-Roth Corp., et al., 770 A.2d 403, 415 (R.I.2001), citing 3 Eric Mills Holmes, Holmes\u2019s Appleman on Insurance 2d, \u00a7 16.4, at 290 (1998) (known loss doctrine \u201capplies only where the insured is aware of a threat of loss so immediate that it might be stated that the loss was already in progress and such was known at the time of application or issuance of the policy since this doctrine is designed to prevent fraud when coverage is sought to be misused to insure a certainty rather than a fortuity\u201d).\nThe risk of economic loss at issue in the context of third party insurance should remain insurable, under any intelligible version of the known loss doctrine, whenever \u201cthere is uncertainty about the imposition of liability and no \u2018legal obligation to pay yet established.\u201d Kayser-Roth, quoting Montrose, 42 Cal.Rptr.2d 324, 913 P.2d at 905-06 (emphasis in original). See also Pittston, 124 F.3d at 518 (certainty of legal liability for damage, rather than certainty of damage, is required to trigger application of known loss doctrine). Knowledge of a mere risk cannot and should not be enough to negate a policy of insurance. See Aluminum Co. of America v. Aetna Cas. & Sur. Co., 140 Wash.2d 517, 998 P.2d 856 (2000) (although insured failed to advise insurers about known pollution damage to its property, policies were not void where pollution damage was not material factor in insurers\u2019 decision to insure); Montrose (\u201cknown loss\u201d will not defeat coverage as long as there remains uncertainty about damage that may occur during policy period).\nBy permitting an insurer to avoid its explicit contractual obligation where there is a mere awareness of a \u201clikely exposure to losses\u201d of a certain magnitude, the majority misapprehends the very nature of third party liability insurance. It is that very risk of loss, of varying degrees of likelihood, which creates the market for this insurance in the first place. And the insurer, a powerful and sophisticated party, well knows that. The peril being insured against by the policies here was not the certain arsenic damage at the Whitmoyer site, but rather the attenuated risk of third party legal liability \u2014 here for government-ordered remediation of the contamination \u2014 later arising ex-post facto from that pollution. That loss, and its catastrophic extent, was not at all \u201cknown\u201d or knowable at the time these policies were issued. I believe that appellants were entitled to prevail against the known loss defense as a matter of law.\nIt is undisputed that, as early as 1965, appellants voluntarily disclosed to Commonwealth authorities the arsenic contamination at Whitmoyer and conducted an extensive cleanup program at their own expense. Appellants also disclosed the contamination in 1965 to their primary insurance carrier and their insurance broker. Although it is unclear whether the environmental contamination, which was of public record, was specifically relayed to the excess carriers, it was indisputably not hidden by appellants. At the times appellants secured their excess coverage \u2014 with appellants failing to volunteer the fact of contamination and their insurers failing to ask about or condition the issuance of the policies upon the absence of contamination \u2014 appellants were not faced with any actual lawsuits or other existing bases of liability that threatened to trigger the various excess insurance policies. Nor was there any evidence to suggest that appellants had actual knowledge or \u201ccould be charged with knowledge\u201d that the pollution they discovered was at that time remotely likely to result in third party liability that would exhaust their primary insurance coverage and trigger their various and escalating excess comprehensive liability policies. In point of fact, throughout appellants\u2019 ownership of the facility, no claim arose from the arsenic contamination to trigger the excess coverage. The notion that the mere fact of pollution at Whitmoyer would inevitably lead to a legal liability reaching the excess carriers is so attenuated that it cannot be said that appellants \u201cknew\u201d of that \u201closs.\u201d\nTo borrow an apt phrase from Justice Holmes\u2019 view of the First Amendment, the mere fact of pollution in the instant situation presented no \u201cclear and present danger\u201d that the actual harm being insured against was already in existence such as to render that harm uninsurable. Nor does it lead to the conclusion that there was no insurable risk. The costly environmental remediation loss here was not something that existed all along, known to and undisclosed by appellants, and then sprung upon their sophisticated, but understandably unsuspecting, insurers. Instead, the controlling fact is one that the majority inexplicably deems to be irrelevant: the unforeseeable passage, years later, of CERCLA. It was CERCLA\u2019s strict liability provisions and its retroactive application alone that created the liability for which appellants sought coverage. The passage and effect of CERCLA was not known or knowable to appellants any more than it was to their insurers. The majority simply fails to grasp that, under the law and state of affairs existing at the times of purchase, appellants had suffered no known relevant loss that would implicate their excess coverage. Passage of CERCLA was the controlling event.\nThe majority in essence \u201ccharges\u201d appellants with knowledge of a revolutionary environmental statute that was not passed until many years later, and with knowledge that CERCLA not only would affect its potential liability for cleanup, but that it would also result in a liability of sufficient magnitude as to reach the substantial thresholds of the excess policies. Unlike the majority, I would not casually adopt, and retroactively apply, an extra-contractual judicial doctrine that would fault appellants in retrospect for failing to foresee the passage and unprecedented implications of CERCLA. This was, in my view, precisely the sort of uncertain risk that appellants rightly insured themselves against. The courts should not interfere with that contract.\nIt should be noted that ours is not the only court to confront the known loss doctrine in connection with CERCLA liability. For instance, in Kayser-Roth, swpra, the Rhode Island Supreme Court addressed the unforeseeable pecuniary impact of CERCLA. The insured there purchased insurance coverage before it received any indication that the federal government would seek to hold it liable for the costs of CERCLA remediation. The court noted that nothing that occurred before the receipt by the insured of possible responsible party notification from the EPA alerted the insured that it would be liable for environmental cleanup on such a grand scale, or, for that matter, on any scale. 770 A.2d at 415. If not for the strict liability imposed under CERCLA, the insured may never have been involved in an EPA cleanup action. The Rhode Island Supreme Court concluded, as I would here, that although the insured was aware that it potentially could be subjected to suits for property damage, it had no reason to know that it could be subjected to a suit from the government for massive cleanup costs and, therefore, the insurer\u2019s \u201cknown loss defense\u201d was properly denied as a matter of law. Id. at 416.\nFor these reasons, I would affirm the trial court\u2019s grant of JNOY on the known loss issue.\nII. Fraud\nThe majority, again following the lead of the Superior Court, finds sufficient evidence to sustain the fraud verdict in favor of the insurers on the basis that appellants failed to volunteer to the excess insurers the contamination at Whitmoyer. The majority apparently deems this failure to disclose clear and convincing evidence of a \u201cfraudulent misrepresentation\u201d that was deliberately intended to deceive the insurers on issues material to the decision to issue the insurance in the first place. I disagree with the majority\u2019s judgment in this regard.\nAppellants accurately argue that the Superior Court imposed upon it an \u201cunprecedented duty to volunteer unrequested information.\u201d They claim that is has long been the law in Pennsylvania that \u201cmere silence is not fraud absent a duty to speak.\u201d Brief of Appellants, 14, citing, Morrow v. Wilson, 266 Pa. 394, 109 A. 632, 633 (1920). Appellants further cite cases from other jurisdictions recognizing, as a general proposition, that information not requested by the insurer is presumptively not material and, thus, need not be volunteered. See, e.g., Southard v. Occidental Life Ins. Co., 31 Wis.2d 351, 142 N.W.2d 844 (1966) (no duty to volunteer information beyond scope of questions asked); Greensboro Nat\u2019l Life Ins. Co. v. Southside Bank, 206 Va. 263, 142 S.E.2d 551 (1965) (if no inquiry made by insurer as to status of property, insured cannot, after loss has occurred, defeat recovery because insured did not volunteer certain information).\nAlthough the majority adopts the Superior Court approach criticized by appellants, the majority does not squarely address appellants\u2019 arguments. Furthermore, the cases the majority cites in outlining fraud merely recognize the general proposition that \u201cconcealment\u201d or \u201csuppression\u201d of a material fact, no less than, an affirmative misrepresentation of material fact, can amount to fraud. But the question of the duty a prospective insured has to identify on its own material facts in areas the insurer has not inquired into, and then to volunteer those facts to an insurer, has not been addressed in these cases. I would address the properly preserved point directly.\nIt is undisputed that the insurers here never asked about environmental contamination, much less did they condition issuance of the excess comprehensive general liability policies upon the presence or absence of environmental contamination \u2014 merely one of countless possible bases of liability under the policies at issue. It is inequitable to retroactively impose a duty upon appellants to disclose information concerning the contamination at Whitmoyer when such information of pollution or contamination was never requested by the insurer. Although appellants may be \u201csophisticated\u201d purchasers of insurance, the insurers here certainly were no less sophisticated or powerful. More importantly, an insurer is the only party in a position to fully know, and in fact dictate, what is material to its decision to issue coverage.\nOn the other hand, the prospective insured is, as a general matter, in no position to know with any kind of certainty what unidentified information an insurer might later deem relevant to its decision to insure. Hence, the insured should be under no extra-contractual, judicial obligation to speculate as to what its insurer might later deem relevant and to volunteer that information. As this Court stated over 100 years ago in Niagara Fire Ins. Co. of New York v. Miller, 120 Pa. 504, 516, 14 A. 385, 386 (1888): \u201cunless the [insured] has knowledge that a particular fact will increase the risk, [the insured] is not bound to report such fact to the [insurer].\u201d \u201cIt is a very simple matter for the [insurer] to inform the [insured], by the terms of its policy or otherwise, what it regards as an increase of risk.\u201d Id.\nI cannot join in the majority\u2019s unprecedented loosening of the fraud standard by creating an extra-contractual requirement that the insured speculate as to what its insurer might later deem relevant and material. The insurer is fully equipped to protect its own interests in the application process. I would not use the imprimatur of the judiciary to absolve an insurer for its failure to adequately protect its interests.\nIn any event, even if I could agree with the majority\u2019s new requirement that insureds in this Commonwealth are now required to speculate as to what their insurers might someday claim is material, and then volunteer information relevant to those speculations, I would still hold that appellants were entitled to judgment as a matter of law on the fraud defense. In my view, the proof here does not support a finding, by clear and convincing evidence, that the failure to volunteer here concerned \u201cmaterial\u201d information or was motivated by a \u201cdeliberate, fraudulent intent to deceive.\u201d\nAs the trial court noted, there was no direct evidence that appellants planned to deceive their insurers. \u201cNotably, in the vast amount of documents produced throughout the over nine weeks of trial, there was not one exhibit introduced into evidence which demonstrated that any Rohm and Haas supervisory or executive employee was involved in a plan to deceive the ... insurers.\u201d Trial Court Opinion, 36. Furthermore, the circumstantial evidence belied any claim of intent to deceive. Without external prompting, Rohm and Haas immediately disclosed the existence of the Whitmoyer contamination to Commonwealth authorities (who promptly made it public), to its neighbors, to its primary insurer and to its insurance broker who arranged the excess coverage with appellees. The fact that their primary insurer did not reject coverage after the disclosure is objective proof that appellants had no reason to believe that the fact of pollution was material to issuance of the excess coverage. Nor did appellants ever fail to answer accurately any question actually posed by their insurers respecting the facility; the insurers simply failed to ask. This objective evidence hardly constitutes conduct warranting a jury finding of clear and convincing evidence of an intent to deceive.\nFurthermore, in my view, any accurate assessment of appellants\u2019 alleged intent to deceive must account for the change that CERCLA wrought in the liability scheme for environmental contamination. If CERCLA had existed in 1965, the failure to volunteer information of the contamination would be exponentially more suspicious \u2014 but still less suspicious than would be a failure of the insurers even to inquire into the existence of such pollution. But CERCLA did not then exist. It is also a fact that, throughout the period when appellants were purchasing and increasing their excess general liability policies, they were never faced with any non- or pre-CERCLA claim that remotely implicated their excess coverage. It is also a fact that, at the time the insurers issued these policies, they were not concerned enough with environmental contamination as a possible basis for third-party liability as to make specific inquiries into the existence of environmental pollution. The indisputable landscape existing at the times the policies were issued, as contrasted with the abrupt change in the risk of liability occasioned by passage and application of CERCLA, are further objective facts, unaccounted for in the majority opinion, that preclude any finding of an intent to deceive the insurers as to any material fact.\nAll that is left is the post hoc ergo propter hoc (fallacy of false cause) inference arising from the equivocal fact that appellants increased their coverage as time went by. As the majority itself recognizes, Majority op. at 1179 n. 6, that alone is insufficient to uphold the jury\u2019s verdict on this issue. Accordingly, I would affirm the trial court\u2019s grant of JNOY on the fraud issue.\nIII. Late Notice\nFinally, the majority finds that the trial court erred in directing a verdict on the insurers\u2019 late notice defense. The majority states that twenty-four years elapsed between the acquisition of Whitmoyer and appellants\u2019 claim for coverage and that there was sufficient evidence of prejudice resulting from this delay (in that certain potential witnesses had died, memories had likely dimmed, and relevant documents allegedly had been lost or destroyed) as to warrant its presentation to the jury.\nIn my view, the majority\u2019s analysis in this regard is flawed because, once again, it fails to account for the importance of CERCLA. The specific contractual notice clause at issue reads as follows:\nNotification of Claims \u2014 The Assured upon knowledge of any occurrence likely to give rise to a claim hereunder shall give immediate written advice thereof to the person(s) or firm named for the purpose in the Schedule. (Emphasis supplied.)\nThe majority\u2019s focus upon the contamination, as opposed to the prospect of third party liability, which was the actual risk being insured against, betrays the same misapprehension of the policies that renders its known loss analysis flawed. The mere fact of contamination did not ineluctably suggest that there would be a third party liability claim at all, much less a claim that was likely to reach the excess policies. In point of fact, there was no prospect of a claim under the policy until after 1986 at the very earliest, which is when the EPA notified appellants that they were potentially responsible parties for the costs associated with a cleanup at the site, under the retroactive application of the strict liability provisions of CERCLA. Before that time, there was no basis to conclude that there was likely to be a claim that would reach the excess policies.\nThe speculative prejudice identified by the majority accrued in the time period before Rohm and Haas had any basis or duty to notify the insurers that there was likely to be a claim implicating the excess coverage. Accordingly, the trial court properly directed a verdict on this claim.\nIn summary, the majority not only has erroneously decided the three issues on this appeal, but, what is more troubling, in the process has summarily approved unwise expansions of extra-contractual defenses that will result in the unforeseeable forfeiture of otherwise legitimately bargained-for coverage in countless other cases. Accordingly, I respectfully dissent.\nJustices CAPPY and SAYLOR join this dissenting opinion.\n. I use the term \"majority\u201d for ease of reference only. Justice Nigro\u2019s concurring opinion does not join in the lead opinion; rather, it agrees that the Superior Court should be affirmed on the fraud theory alone and would not address the additional two theories of late notice and known loss. Consequently, there is, strictly speaking, no true majority opinion.\n. This conclusion is particularly compelling where, as here, the insurer has raised several defenses to the enforcement of the insurance contract rather than seeking equitable relief in the form of reformation. Cf. Travelers Indemnity Co. v. Reynolds Metals Co., 1995 WL 606317, *2 (Del. Ct. Chancery Oct. 2, 1995) (Chancery Court does not have jurisdiction where insurer failed to state cognizable claim for equitable relief predicated on notion that, \"the contracting parties did not intend, and could not have intended, to insure against future liabilities arising under an entirely new, unprecedented statutory scheme (CERCLA)....\u201d).\n. The insurers argue that they did require, as a condition of coverage, that appellants affirm in writing that there were \"no known losses\" and that appellants\u2019 subsequent affirmation to that effect was false since they knew of the contamination at Whitmoyer. Brief of Appellees, 39. The inquiry into \"known losses,\" for purposes of excess third party liability coverage, hardly encompassed an inquiry into whether there was then mere environmental pollution at any of appellants\u2019 facilities.",
+        "type": "dissent",
+        "author": "CASTILLE, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Steven Andrew Reed, Arlin M. Adams, John G. Harkins, Nancy J. Gellman, William J. O\u2019Brien, Philadelphia, Paul H. Titus, Pittsburgh, for Rohm and Haas Company and Rohm and Haas Delaware Valley, Inc.",
+      "Dale G. Larrimore, Philadelphia, for Pennsylvania Trial Lawyers Ass\u2019n.",
+      "Marc J. Sonnenfeld, Philadelphia, for Pennsylvania Chamber of Business and Industry.",
+      "John J. Walliser, Glenshaw, for Pennsylvania Environmental Council.",
+      "John Alexander MacDonald, Philadelphia, for United Policyholders.",
+      "William J. Brennan, Philadelphia, for Home Insurance Co.",
+      "Frank Elugene Noyes, Judith Nichols Renzulli, Philadelphia, for Insurance Environmental Litigation Ass\u2019n.",
+      "Gary Westerberg, Chicago, II., Elit R. Felix, Jerome J. Shestack, Philadelphia, for Certain Underwriters at Lloyd\u2019s, London."
+    ],
+    "corrections": "",
+    "head_matter": "781 A.2d 1172\nROHM AND HAAS COMPANY and Rohm and Haas Delaware Valley Inc., Appellants, v. CONTINENTAL CASUALTY COMPANY, et al., and The Home Insurance Company, Appellees. Rohm nd Haas Company and Rohm and Haas Delaware Valley Inc., Appellants, v. Continental Casualty Company, et al., and Certain Underwriters at Lloyd\u2019s, London and Certain London Market Insurance Companies, Appellees.\nSupreme Court of Pennsylvania.\nArgued Oct. 17, 2000.\nDecided Oct. 18, 2001.\nSteven Andrew Reed, Arlin M. Adams, John G. Harkins, Nancy J. Gellman, William J. O\u2019Brien, Philadelphia, Paul H. Titus, Pittsburgh, for Rohm and Haas Company and Rohm and Haas Delaware Valley, Inc.\nDale G. Larrimore, Philadelphia, for Pennsylvania Trial Lawyers Ass\u2019n.\nMarc J. Sonnenfeld, Philadelphia, for Pennsylvania Chamber of Business and Industry.\nJohn J. Walliser, Glenshaw, for Pennsylvania Environmental Council.\nJohn Alexander MacDonald, Philadelphia, for United Policyholders.\nWilliam J. Brennan, Philadelphia, for Home Insurance Co.\nFrank Elugene Noyes, Judith Nichols Renzulli, Philadelphia, for Insurance Environmental Litigation Ass\u2019n.\nGary Westerberg, Chicago, II., Elit R. Felix, Jerome J. Shestack, Philadelphia, for Certain Underwriters at Lloyd\u2019s, London.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+  },
+  "file_name": "0464-01",
+  "first_page_order": 574,
+  "last_page_order": 604
+}

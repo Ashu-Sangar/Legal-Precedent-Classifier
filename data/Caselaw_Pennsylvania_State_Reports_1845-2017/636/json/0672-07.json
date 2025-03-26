@@ -1,0 +1,63 @@
+{
+  "id": 12284588,
+  "name": "Com. v. Hendel",
+  "name_abbreviation": "Com. v. Hendel",
+  "decision_date": "2016-09-06",
+  "docket_number": "212 EAL (2016)",
+  "first_page": "672",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 672"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 48,
+    "ocr_confidence": 0.933,
+    "sha256": "3bf8114e40f60b570388fbdda0dee394fa5f98b949a761436985d457bef17e3e",
+    "simhash": "1:2214943cc1ff8189",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T15:51:24.577639+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hendel"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hendel\n09/06/2016\n212 EAL (2016)"
+  },
+  "file_name": "0672-07",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

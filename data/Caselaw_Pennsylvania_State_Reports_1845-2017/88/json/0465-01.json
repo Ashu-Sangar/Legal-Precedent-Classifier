@@ -1,0 +1,178 @@
+{
+  "id": 1061180,
+  "name": "Samuel versus Peyton",
+  "name_abbreviation": "Samuel v. Peyton",
+  "decision_date": "1879-03-03",
+  "docket_number": "",
+  "first_page": "465",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "88 Pa. 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Watts 104",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840135
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0104-01"
+      ]
+    },
+    {
+      "cite": "3 Grant 281",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        229145
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/3/0281-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 163",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. N. C. 545",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wright 448",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 182",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/6/0182-01"
+      ]
+    },
+    {
+      "cite": "2 Wright 322",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "330"
+        },
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 36",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477997
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0036-01"
+      ]
+    },
+    {
+      "cite": "13 Wright 518",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 60",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841271
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0060-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 661,
+    "char_count": 14556,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 1.261030017219239e-07,
+      "percentile": 0.6124600314535712
+    },
+    "sha256": "ab13dbb46b3434c50b27f0af65ccaa40a53da087740f7fa0e3af95141ce8d268",
+    "simhash": "1:fa32906dd39dd9cd",
+    "word_count": 2567
+  },
+  "last_updated": "2024-02-27T21:26:28.588934+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stiarswood, C. J., Mercur, Gordon, Paxson, Woodward, Trunkey and Sterrett, JJ."
+    ],
+    "parties": [
+      "Samuel versus Peyton."
+    ],
+    "opinions": [
+      {
+        "text": "Chief Justice Siiarswood\ndelivered the opinion of the court, March 3d 1879.\nIn Moore\u2019s Appeal, ante, 450, which has just been decided, it has been held by this court that the conveyance of land \u201cunder and subject\u201d to a mortgage or other encumbrance, is of itself a covenant of indemnity only for the protection of the vendor. It was shown in that case, on a review of the authorities, that it was only where there was an express agreement to pay the encumbrance, or where such agreement might be implied from the circumstances that there was liability to the encumbrancer or that he could sue in the name of the vendor to his use. The vendor must sue, and must show that he \u2022 has been damnified, or at least must show that his danger of damnification is imminent. The special pleas in this case, not only expressly denied any agreement by the defendant to pay the mortgage, but averred a state of things which showed that his vendor never could be damnified. If it was expressly agreed that the first \u2022 grantee from the party creating the encumbrance should not be personally liable \u2014 it is evident that no subsequent grantee could become so without his own express agreement. The first link in the chain, by w'hich a subsequent grantee might be called upon to indemnify his vendor would be wanting. On the demurrer to the special pleas of the defendant we think he was entitled to judgment.\nJudgment reversed, and now judgment for the defendant on the demurrer.",
+        "type": "majority",
+        "author": "Chief Justice Siiarswood"
+      }
+    ],
+    "attorneys": [
+      "John Samuel, for plaintiff in error.",
+      "William 0. Hannis, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel versus Peyton.\nWhere by an agreement between the first grantee of. premises with the original mortgagee, said grantee was not to be personally liable on the mortgage, a subsequent- grantee is not made so by reason of the \u201c under and subject\u201d clause in the mortgage.\nJanuary 27th 1879.\nBefore Stiarswood, C. J., Mercur, Gordon, Paxson, Woodward, Trunkey and Sterrett, JJ.\nError to the Court of Common Pleas, No. 4, of Philadelphia county: Of January Term 1878, No. 273.\nAssumpsit by Hugh Peyton against Edward Samuel, The narr. set forth that on January 24th 1870, John G. Pierie made his bond for \u00a7800, payable five years after date, to John II. Wheeler and assigns, with interest half yeai'ly, and to secure said bond, on same day mortgaged to said Wheeler a house and lot in York street; that plaintiff, by divers assignments, is the owner of the bond and mortgage, and after intermediate conveyances, Robert A. Brownfield and wife, by indenture of October 27th 1871, granted and conveyed the said house and lot in York street to defendant, in fee, under and subject to the payment of said mortgage debt of \u00a7800; that defendant entered into possession of said premises, and thereupon promised plaintiff to pay said mortgage; that plaintiff issued a writ of scire facias on said mortgage, obtained judgment thereon for \u00a7885.60; a writ of levari facias was issued thereon, and the mortgaged premises sold by the sheriff, and that after the payment of taxes and costs, the balance remaining in the sheriff\u2019s hands, to be appropriated to payment of said mortgage debt, was \u00a7356.34, which was paid to plaintiff, leaving balance due plaintiff from defendant \u00a7527.26, for which this suit was brought.\nThe defendant pleaded specially: 1. That Wheeler, prior to the date of the mortgage, was the owner of a large lot of ground, of which the premises in dispute were a part; that before said date he had agreed with one Kressler to sell said large lot for \u00a77500, and to make advances to Kressler to the amount of $35,700, for the building of fifty houses on part of said lot, which sums were to be secured, to Wheeler by fifty bonds for the aggregate sum of $43,200, and fifty mortgages to secure the same on the fifty houses and lots. And it was further agreed that each house should exclusively and alone be liable for the amount of the bond for the securing the payment of which it was mortgaged; that in pursuance of this agreement, Wheeler conveyed the large lot to one Pierie, who was a man of straw, for the nominal consideration of $7500, and that on the same day, Pierie executed the fifty bonds and mortgages, of which the mortgage in question is one, and four days thereafter, for a consideration of $1, conveyed said premises to Kressler.\n2. That it was agreed between the said Wheeler and said Kressler, that Kressler and his assigns should not be personally liable for any of the sums of money so secured by the bonds and mortgages aforesaid, and that in order to carry out said agreement, and so that Kressler and his assigns should not be personally responsible for any of the debts for which the said bonds and mortgages were given, the said Wheeler and Kressler had procured the said Pierie, who was a man of straw and without means, to take the title and to execute the bonds and mortgages, and to make the conveyance to Kressler.\n3. That the defendant, had conveyed the premises to one Sylvester, which was followed by several mesne conveyances to one Brownfield, who granted and conveyed the said property to Edward Samuel (the plaintiff in error), in fee, for a cash consideration of $500, and \u201cunder and subject to' the payment of the said mortgage debt of $800, with interest when and as the same shall become due and payable.\u201d\nAll the interest due on said bond was paid up to July 24th 1874.,\nTo these pleas the plaintiff demurred, and the court, Thayer, P. J., sustained the demurrer in an opinion, saying:\n\u201c By the pleadings it appears that the plaintiff became the owner of the mortgage by assignment on the same day on which the defendant became the owner of the land by a deed of conveyance from Brownfield, \u2018 under and subject to the payment\u2019 of this mortgage. By receiving such a conveyance the grantee, according to the decisions in this state, makes the mortgage debt his own, both as regards the grantor and the mortgagee: Campbell v. Shrum, 3 Watts 60; Blank v. German, 5 W. k S. 36; Hoff\u2019s Appeal, 12 Harris 200; Burke v. Gummey, 13 Wright 518;. Woodward\u2019s Appeal, 2 Id. 322 ; Lennig\u2019s .Estate, 2 P. F. Smith 135; Metzgar\u2019s Appeal, 21 Id. 330; Taylor v. Preston, 29 Id. 436. In Hoff\u2019s Appeal it was held that the liability incurred by the grantee in such \u00e1 transaction is not only a liability to the grantor by reason of the covenant, but that it is also a liability which .the owner of the mortgage may enforce by an action in his own name. \u2018 It is of no consequence,\u2019 said Woodward, C. J., in that casq, \u2018 that -the mortgagee was not a party to the dealings between Hoff and Reynolds, for it is a rudimental principle that a party may sue on a promise made on a sufficient consideration for his use and benefit, though it be made to another and not to himself.\u2019 And again, \u2018the money belonged to the mortgagee, and I hold he might have recovered it in assumpsit if not in covenant.\u2019 This doctrine was expressly recognised in Lennig\u2019s Estate, 2 P. F. Smith 135, where the present chief justice, in his opinion, quotes it with approval. The ruling in McCracken\u2019s Estate, 5 Casey 426, proceeded upon precisely the same principle. In that case the estate of the grantee who had taken subject to an encumbrance was decreed to pay the amount of the encumbrance to the owners of it, although the grantee had devised the land and his devisees had sold it.\n\u201c The plaintiff then being the owner of the mortgage when the defendant took a conveyance of the land from Brownfield, \u2018subject to the payment of the mortgage,\u2019 the defendant is within these decisions, and he was not only bound by his covenant to his grantor, Brownfield, but he also came under a duty to the present plaintiff, the holder of the mortgage, for which, by the doctrine of the cases already referred to, the latter may maintain an action of assumpsit against him, which, under such circumstances, according to the authorities, is an equitable remedy to enforce a promise made upon sufficient consideration for his benefit. It makes no difference that here the consideration for the mortgage was not, according to the special pleas filed, a part of the purchase-money of the land originally, but certain advances made for building purposes, for which Brownfield, by his own previous covenants in the deed of conveyance made to him, had made himself responsible to his grantor, Keller, and to the Spring Garden Building Association, No. 2, which held the mortgage at the time of Keller\u2019s conveyance to Brownfield. The principle is the same whatever the consideration of the mortgage may have been. There is, however, a well-settled distinction between taking subject to a mortgage and subject to a ground-rent: American Academy of Music v. Smith, 4 P. F. Smith 130; Walker v. Physick, 5 Barr 193. In the latter case the grantee\u2019s liability continues no longer than the tenancy of the freehold, unless, indeed, he conveys with a fraudulent intent to avoid the payment of the ground-rent: 4 P. F. Smith 132. In the present case the mortgaged premises have by several mesne conveyances passed through several hands, each grantee in turn taking it under and subject to the payment of this mortgage. According to the principle of the cases cited every such grantee by taking a conveyance in this form incurred an immediate liability, which might be enforced, either by his immediate grantor in relief of his own precedent liability, or by the then holder of the mortgage for whose benefit the promise was made.\n\u201c This is a liability in the present case not founded on privity of estate, but upon the express promise arising out of the words of the deed. It is plain, then, that the defendant cannot relieve himself from this promise.by a conveyance of the land, and for this reason his third special plea is bad. In Burke v. Gummey the defendant had done this and the title of his alienee, as in the present case, had been altogether divested by a sheriff\u2019s sale at the time when his responsibility was enforced.\n\u201c The pleas which set up a parol agreement between Wheeler and Kressler, even if that agreement could be proved in contradiction of Kressler\u2019s express covenant to pay the mortgage debt, are clearly bad, for the .reason that this is altogether an immaterial allegation, and is no answer to the plaintiff\u2019s action, which is on the defendant\u2019s express promise to pay off the mortgage which the present plaintiff then held, and. for which the defendant\u2019s grantor, Brownfield, was then responsible, upon his previous covenant to Keller, as well as to the Spring Garden Building Association, No. 2, who were owners of the mortgage debt at the time of Brownfield\u2019s covenant with Keller, and who as such owners might have sued him for the debt in pursuance of the doctrine laid down in Hoff\u2019s Appeal, Lennig\u2019s Estate, and McCracken\u2019s Estate, already cited.\n\u201cMoreover,- the agreement setup between Wheeler and Kressler in the pleas, was a fraudulent and void agreement as regarded the subsequent holders of the mortgage. A conveyance to a man of straw with intent to evade a personal responsibility for an encumbrance is a fraud so far as it affects the owner of the encumbrance, although it may be good between the parties: American Academy of Music v. Smith, 4 P. F. Smith 139. And so is an agreement made to avoid responsibility for an encumbrance which is about to-be imposed upon the property, and which is to pass into the hands of third persons under forms which clearly fix upon the grantee of the estate a personal responsibility for it.\n\u201c Judgment for the plaintiff on the demurrer.\u201d\nThis entry of judgment was assigned for error by defendant, who took this writ.\nJohn Samuel, for plaintiff in error.\nThe words of the deed from Brownfield to defendant do not import a promise by him to pay the debt secured by the mortgage: Campbell v. Shrum, 3 Watts 60; Blank v. German, 5 W. & S. 36; Walker v. Physick, 5 Barr 193; Keim v. Robeson, 11 Harris 456; Morris v. Oakford, 9 Barr 498; Hoff\u2019s Appeal, 12 Harris 200; Woodward\u2019s Appeal, 2 Wright 322; Lennig\u2019s Appeal, 2 P. F. Smith 135.\nBut whether the words \u201cunder and subject,\u201d in the deed, are words of contract or qualification; or whether the liability of the grantee arises from the deduction of the amount of the encumbrance from the price, it follows that if the grantee did not in point of fact-c.ontract, or if his grantor is not liable, then he is not liable: Metzgar\u2019s Appeal, 21 P. F. Smith 330; Girard Insurance Co. v. Stewart, 5 Norris 89. All of the cases cited show the liability to be to the vendor, and for his benefit; there was no privity of contract between plaintiff and defendant, they were total strangers and the former cannot recover: Beach v. Morris, 12 S. & R. 16 ; Blymire v. Boistle, 6 Watts 182; Morrison v. Beckey, 6 Id. 349; Finney v. Finney, 4 Harris 380; Kness v. Lehmer, 7 Id. 445; Campbell v. Lacock, 4 Wright 448; Winter\u2019s Appeal, 11 P. F. Smith 307; Torrens v. Campbell, 24 Id. 470; Pittsburgh Coal Co. v. Otterson, 4 W. N. C. 545; Guthrie v. Kerr, 4 Norris 303; Kountz v. Holthouse, 4 Id. 235.\nWilliam 0. Hannis, for defendant in error.\nThe evidence for the defendant in error showed a clear case of personal liability for the payment of the mortgage debt by the plaintiff in error, under the principle adopted and decided in the cases of Campbell v. Shrum, 3 Watts 60; Blank v. German, 5 W. & S. 36; Keim v. Taylor, 1 Jones 163; Hoff\u2019s Appeal, 12 Harris 200 ; Woodward\u2019s Appeal, 2 Wright 322 ; Burke v. Gummey, 13 Id. 518 ; Lennig\u2019s Appeal, 2 P. F. Smith 135; Metzgar\u2019s Appeal, 21 Id. 330; Taylor v. Preston, 29 Id. 436.\nIt is submitted that while the defendant in error took this bond and mortgage subject to whatever defence existed against the payment of the same, yet he took it clear and discharged of all secret equities and agreements of persons other than the mortgagor, of which ho had no notice, and of which he could not be informed by application to the obligor or present owner: Mott v. Clark, 9 Barr 399; Wethrill\u2019s Appeal, 3 Grant 281; Downey v. Tharp, 13 P. F. Smith 322. Where property was put into the hands of the person sought to be charged, at the time of his agreement, to pay the debt due to a third person, the third person may maintain the action in his own name: Hind v. Holdship, 2 Watts 104 ; Beers v. Robinson, 9 Barr 229 ; Vincent v. Watson, 6 Harris 96; Bellas v. Fagely, 7 Id. 273; Townsend v. Long, 27 P. F. Smith 143; Justice v. Tallman, 5 Norris 147. That defendant has parted with his title makes no difference and he is still liable: Burke v. Gummey, 13 Wright 518; Keim v. Taylor, 1 Jones 163; McCrackin\u2019s Estate, 5 Casey 426.\nSee Moore\u2019s Appeal, ante, 450. \u2014 Rep."
+  },
+  "file_name": "0465-01",
+  "first_page_order": 463,
+  "last_page_order": 468
+}

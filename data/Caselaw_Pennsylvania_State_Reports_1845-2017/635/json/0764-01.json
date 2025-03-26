@@ -1,0 +1,70 @@
+{
+  "id": 12286403,
+  "name": "Com. v. Williams",
+  "name_abbreviation": "Com. v. Williams",
+  "decision_date": "2016-03-29",
+  "docket_number": "616 EAL (2015)",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.807,
+    "sha256": "7a812faa7e6dbecaae90ae352d38fe316e5c4976654a51e804f942e579091906",
+    "simhash": "1:a00b288a034c4ac9",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Williams"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 95",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Williams\n03/29/2016\n616 EAL (2015)"
+  },
+  "file_name": "0764-01",
+  "first_page_order": 824,
+  "last_page_order": 824
+}

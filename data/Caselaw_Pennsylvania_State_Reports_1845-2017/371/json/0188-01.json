@@ -1,0 +1,806 @@
+{
+  "id": 1237058,
+  "name": "Matson, Appellant, v. Margiotti",
+  "name_abbreviation": "Matson v. Margiotti",
+  "decision_date": "1952-05-27",
+  "docket_number": "Appeal, No. 6",
+  "first_page": "188",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "371 Pa. 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "183 F. 2d 986",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1238217
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/183/0986-01"
+      ]
+    },
+    {
+      "cite": "75 A. 2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "865 Pa. 330",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 A. 2d 809",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 Pa. 358",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1186569
+      ],
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/332/0358-01"
+      ]
+    },
+    {
+      "cite": "2 A. 2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1186565
+      ],
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/332/0289-01"
+      ]
+    },
+    {
+      "cite": "309 Pa. 486",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141701,
+        1141614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0486-02",
+        "/pa/309/0486-01"
+      ]
+    },
+    {
+      "cite": "81 A. 2d 891",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 Pa. 259",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230338
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/368/0259-01"
+      ]
+    },
+    {
+      "cite": "188 A. 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "325 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1172312
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "30, 31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/325/0017-01"
+      ]
+    },
+    {
+      "cite": "181 A. 763",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 Pa. 219",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/320/0219-01"
+      ]
+    },
+    {
+      "cite": "11 A. 2d 884",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 Pa. 26",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1199936
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/338/0026-01"
+      ]
+    },
+    {
+      "cite": "182 A. 518",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "321 Pa. 28",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165892
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/321/0028-01"
+      ]
+    },
+    {
+      "cite": "200 A. 41",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184372
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/331/0405-01"
+      ]
+    },
+    {
+      "cite": "196 A. 2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "329 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1181437
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/329/0041-01"
+      ]
+    },
+    {
+      "cite": "110 A. 167",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "267 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/267/0310-01"
+      ]
+    },
+    {
+      "cite": "83 A. 2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230318
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/368/0283-01"
+      ]
+    },
+    {
+      "cite": "41 A. 2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 Pa. 634",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        462729
+      ],
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/351/0634-01"
+      ]
+    },
+    {
+      "cite": "134 A. 486",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "287 Pa. 78",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1099628
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/287/0078-01"
+      ]
+    },
+    {
+      "cite": "51 A. 2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 Pa. 307",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/356/0307-01"
+      ]
+    },
+    {
+      "cite": "2 A. 513",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Pa. 404",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        545346
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/111/0404-01"
+      ]
+    },
+    {
+      "cite": "85 A. 2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "369 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1232392
+      ],
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/369/0349-01"
+      ]
+    },
+    {
+      "cite": "99 P. 2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 F. 2d 273",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        476724
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/117/0273-01"
+      ]
+    },
+    {
+      "cite": "177 F. 2d 579",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1166269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/177/0579-01"
+      ]
+    },
+    {
+      "cite": "97 F. 2d 339",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        994541
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/97/0339-01"
+      ]
+    },
+    {
+      "cite": "107 F. 2d 139",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1046417
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/107/0139-01"
+      ]
+    },
+    {
+      "cite": "172 F. 2d 95",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1182152
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/172/0095-01"
+      ]
+    },
+    {
+      "cite": "175 F. 2d 914",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1173930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/175/0914-01"
+      ]
+    },
+    {
+      "cite": "18 F. 2d 168",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1694981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/18/0168-01"
+      ]
+    },
+    {
+      "cite": "275 U.S. 503",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6145162,
+        6145220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/275/0503-01",
+        "/us/275/0503-02"
+      ]
+    },
+    {
+      "cite": "12 F. 2d 396",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1644561
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/12/0396-01"
+      ]
+    },
+    {
+      "cite": "38 App. D. C. 413",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1771316
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/38/0413-01"
+      ]
+    },
+    {
+      "cite": "24 App. D.C. 167",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1341264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/24/0167-01"
+      ]
+    },
+    {
+      "cite": "72 F. 2d 557",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        259439
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/72/0557-01"
+      ]
+    },
+    {
+      "cite": "121 F. 2d 40",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        463365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/121/0040-01"
+      ]
+    },
+    {
+      "cite": "161 U.S. 483",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701729
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/161/0483-01"
+      ]
+    },
+    {
+      "cite": "79 A. 2d 657",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1228401
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/367/0117-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Superior Ct. 130",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        270683
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/2/0130-01"
+      ]
+    },
+    {
+      "cite": "14 A. 51",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Pa. 584",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        558121
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/119/0584-01"
+      ]
+    },
+    {
+      "cite": "341 U. S. 494",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1148067
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/341/0494-01"
+      ]
+    },
+    {
+      "cite": "84 A. 2d 571",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 Pa. 26",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 A. 2d 425",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "369 Pa. 72",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1232338
+      ],
+      "pin_cites": [
+        {
+          "page": "81, 91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/369/0072-01"
+      ]
+    },
+    {
+      "cite": "365 Pa. 330",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1225552
+      ],
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/365/0330-01"
+      ]
+    },
+    {
+      "cite": "75 A. 2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "83 A. 2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "368 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230318
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/368/0283-01"
+      ]
+    },
+    {
+      "cite": "41 A. 2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "351 Pa. 634",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        462729
+      ],
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/351/0634-01"
+      ]
+    },
+    {
+      "cite": "117 F. 2d 273",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        476724
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/117/0273-01"
+      ]
+    },
+    {
+      "cite": "161 U.S. 483",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701729
+      ],
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/161/0483-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1545,
+    "char_count": 42485,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 1.504201192259729e-06,
+      "percentile": 0.9918022247629109
+    },
+    "sha256": "ce439760121c8bd271a95f8622951166d97ac6ff1ff9582e36285ae15fa8127e",
+    "simhash": "1:3867aad21113b3f1",
+    "word_count": 7028
+  },
+  "last_updated": "2024-02-27T23:35:25.408756+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Drew, C. J., Stearne, Jones, Bell and Chidsey, JJ.",
+      "Mr. Justice Chidsey joins in this dissent."
+    ],
+    "parties": [
+      "Matson, Appellant, v. Margiotti."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Bell,\nPlaintiff filed a complaint in libel, the basis of her action being a letter written by Charles J. Margiotti as Attorney General of the Commonwealth of Pennsylvania, to William S. Rahauser, District Attorney of Allegheny County. This letter was written upon the official stationery of the Attorney General of Pennsylvania, the heading on said letter being, \u201cCommonwealth of Pennsylvania, Office of the Attorney General, Harrisburg.\u201d The letter follows:\n\u201cJanuary 5, 1951.\n\u201cWilliam S. Rahauser, Esquire,\nDistrict Attorney of Allegheny County,\nPittsburgh, Pennsylvania.\nDear Bill:\nAs a result of an investigation conducted by the Pennsylvania State Police, I have ascertained the following facts with regard to Marjory Hanson Matson, an assistant district attorney on your staff:\n1. While Mrs. Matson was a student at the University of Pittsburgh Law School, she had the reputation among her fellow-students of having Communistic tendencies. I am reliably informed that she attended school at the Young Communist League and that she was one of the principal demonstrators against General MacArthur when he came to Pittsburgh to deliver the commencement address at the University of Pittsburgh in 1932.\n2. I am informed that Mrs. Matson is on the Executive Board of American-Soviet Friendship and was one of the organizers of the Progressive Citizens Party, which is now the Progressive Party, and which as you may recall was the organization which undertook to force the Board of Public Education of the City of Pittsburgh to permit it to use a high school auditorium for its meeting. This matter was litigated in the United States District Court in Pittsburgh, and in its opinion the Court stated that the Progressive Party was a Communist Organisation.\n3. There is no doubt that Mrs. Matson undertook to act as Counsel for Bernard Salis in the County Court on an appeal from a conviction of Salis for violation of a McKeesport ordinance forbidding the passing out of literature without a permit. The literature which Salis was distributing was signed by the Communist Party of Western Pennsylvania. Mrs. Matson was requested to withdraw from the case by you. She claims she was representing the American Civil Liberties Union in appearing on behalf of Salis.\n4. I am also informed that Mrs. Matson sat in the courtroom with counsel, who was defending Nathan Alberts in the Highland Park Biot Case. Alberts is Secretary of the Pittsburgh Branch of the Communist Party and was convicted of inciting to riot; and recently his conviction was sustained by the Superior Court. My information is that Judge Montgomery spoke to you with reference to this conduct of Mrs. Matson and she was then requested to leave the courtroom.\n5. In the Post Gazette of August 6, 1948, the following appears:\n\u2018The Pittsburgh Chapter of the American Civil Liberties Union, in a letter to President Truman, has protested prosecution of 12 leading Communists \u201cfor holding beliefs and opinions rather than committing overt acts.\u201d \u201cEven in a period of near-hysteria, which this admittedly is, no restrictions should be placed upon the competition of ideas in the market-place of public opinion,\u201d Mrs. Marjorie Hanson Matson wrote the President. Mrs. Matson, local ACLU representative and an assistant district attorney, was careful to point out that her organization bars Communists, Bundists and other supporters of dictatorships from serving in its high offices!\n6. Mrs. Matson has been associated with the following activities:\nAmerican-Soviet Friendship\nExecutive Board Progressive Citizens Party-\nWomen\u2019s Organizer Principal Speaker in Grant Street Bally\nDuquesne Light Strike\nClosely associated with Bryngold Havde & Dr. Marion Hathaway.\nWe have other information with regards to Mrs. Matson\u2019s communistic activities.\nSome of these matters have already been brought to your attention. As Attorney General and head of the Department of Justice of the Commonwealth of Pennsylvania I am writing this letter to demand that Mrs. Matson be dismissed from her position as Assistant District Attorney in Allegheny County, as it appears obvious that her Communistic associations render her unfit to hold this position. Her future retention obstructs justice and becomes dangerous to the security of our people in Pennsylvania.\nI am making this demand on the basis of information furnished me by the Pennsylvania State Police.\nSincerely yours,\n(signed) Charles J. Margiotti,\nAttorney General.\u201d\nThe complaint averred that the statements were false and were made by the defendant wickedly and maliciously; and that the libelous communication was released to the newspapers. Plaintiff also claimed special damages.\nDefendant filed preliminary objections in the nature of a demurrer in which he claimed immunity or absolute privilege by reason of the fact that the letter was an official act of the Attorney General in a matter within his jurisdiction, and consequently did not constitute actionable libel. Defendant also averred that the statements set forth in the letter were not libelous per se. Plaintiff appealed from the Order of the Court of Common Pleas of Allegheny County sustaining defendant\u2019s preliminary objections.\nWe shall first dispose of defendant\u2019s contention that the statements in question were not libelous per se.\nCourts have at long last taken judicial notice of the fact that Communism is a political movement which is dedicated to the overthrow of the government of the United States and incidentally of each state, by force and violence: Com. v. Truitt, 369 Pa. 72, 81, 91, 85 A. 2d 425; Milasinovich v. Serbian Progressive Club, Inc., 389 Pa. 26, 84 A. 2d 571; Dennis v. United States, 341 U. S. 494. We are therefore unanimously of the opinion that the statements contained in the Attorney General\u2019s letter regarding Mrs. Matson\u2019s communistic activities and her membership in a communist organization, which he alleged rendered her unfit to hold her position as Assistant District Attorney, and dangerous to the security of the people of Pennsylvania, are libelous per se.\nThe defendant would nevertheless have two possible defenses: (a) Truth (Press Co. v. Stewart, 119 Pa. 584, 14 A. 51; Oles v. Pittsburg Times, 2 Pa. Superior Ct. 130; Kilian v. Doubleday & Co., Inc., 367 Pa. 117, 79 A. 2d 657) and (b) Privilege. He did not plead \u201ctruth\u201d, and his counsel stated at the bar of the Court that a committee of the Allegheny County Bar Association had cleared Mrs. Matson of any charge of Communism.\nPrivilege has been divided into two kinds, (1) absolute or unlimited, and (2) conditional or limited.\nDefendant contends he is entitled to \u201cabsolute privilege\u201d and hence absolute immunity from civil suit. Absolute privilege, as its name implies, is unlimited, and exempts a high public official from all civil suits for damages arising out of false defamatory statements and even from statements or actions motivated by malice, provided the statements are made or the actions are talcen in the course of the official\u2019s duties or powers and within the scope of his authority, or as it sometimes expressed, within his jurisdiction: Spaulding v. Vilas, 161 U.S. 483; Jones v. Kennedy, 121 F. 2d 40; Standard Nut Margarine Co. v. Mellon, 72 F. 2d 557; DeArnaud v. Ainsworth, 24 App. D.C. 167; Farr v. Valentine, 38 App. D. C. 413; Yaselli v. Goff, 12 F. 2d 396, Aff. Per Curiam 275 U.S. 503; Mellon v. Brewer, 18 F. 2d 168 (C.C.D.C.) ; Springfield v. Carter, 175 F. 2d 914 (C.C.A. 8); Gibson v. Reynolds, 172 F. 2d 95 (C.C.A. 8); Adams v. Home Owners\u2019 Loan Corp., 107 F. 2d 139 (C.C.A. 8); Phelps v. Dawson, 97 F. 2d 339 (C.C.A. 8); Adams v. Home Owners\u2019 Loan Corp., 107 F. Gregoire v. Biddle et al., 177 F. 2d 579; Glass v. Ickes, 117 F. 2d 273; Restatement, Torts, \u00a7591, p. 238; 53 C.J.S. Libel and Slander, \u00a7\u00a799, 100 and 103, pages 157, 158, 166.\nIn the leading case of Spaulding v. Vilas, 161 U.S. 483, plaintiff sued a Postmaster General for maliciously representing plaintiff as a common swindler, causing him to lose several thousand clients and otherwise disgracing him. Plaintiff secured several thousand powers of attorney from United States Postmasters and alleged that he caused to be introduced a bill in Congress for payment of certain claims; that the Postmaster General, after the passage of the bill, endeavored to obtain legislation by Congress to destroy plaintiff\u2019s contracts of employment; that the Postmaster General, in order to further harass plaintiff and with malicious intent, sent, with the payment checks to plaintiff\u2019s clients, a letter stating that no attorney\u2019s services were necessary and that any power of attorney to collect payments for them was null and void. The plaintiff was undoubtedly seriously damaged both financially and with respect to his reputation. The Supreme Court held that this declaration did not state a valid cause of action because the United States Postmaster General was entitled to absolute privilege, and even if his statements were falsely and maliciously made, he was nevertheless exempt from suit and his demurrer must be sustained. The Court in its opinion said, page 498: \u201cWe are of opinion that the same general considerations of public policy and convenience which demand for judges of courts of superior jurisdiction immunity from civil suits for damages arising from acts done by them in the course of the performance of their judicial functions, apply to a large extent to official communications made by heads of Executive Departments when engaged in the discharge of duties imposed upon them by law. The interests of the people require that due protection be accorded to them in respect of their official acts. As in the case of a judicial officer, we recognize a distinction between action taken by the head of a Department in reference to matters which are manifestly or palpably beyond his authority, and actions having [a legitimate or proper] connection with the general matters committed by law to his control or supervision. ... In exercising the functions of his office, the head of an Executive Department, keeping within the limits of Ms authority, should not be under an apprehension that the motives that control his official conduct may, at any time, become the subject of inquiry in a civil suit for damages. It would seriously cripple the proper and effective administration of public affairs as entrusted to the executive branch of the government, if he were subjected to any such restraint.\u201d\nThis absolute privilege applied originally to only three classes (1) proceedings of legislative bodies, (2) judicial proceedings, (3) communications by military and naval officers: 53 C.J.S., section 102, page 164; Newell, Slander and Libel, 3rd ed., section 506.\nCommencing in 1895 with Spalding v. Yilas, 161 U.S. 483, this absolute privilege has gradually been extended to the official statements and acts of the President of the United States and his cabinet and other high federal officials as well as to the Governor of a State, and necessarily to his cabinet.\nThere is no doubt, as appellant concedes, that the Attorney General, when acting officially, and within the scope of his authority, has absolute privilege, protection and immunity from civil liability with respect to Ms official communications and his official acts. But the plaintiff contends, and correctly so, that his privilege may be abused and lost, and that it becomes unavailable if and when the Attorney General (or other high public official) acts in matters outside his jurisdiction or beyond the scope of his powers or duties: Spalding v. Vilas, 161 U.S. 483; Cooper v. O\u2019Connor, 99 P. 2d 135 (C.A.D.C.); 67 C.J.S., Section 126; Restatement, Torts, \u00a7591, p. 238.\nPlaintiff further specifically contends that under the facts disclosed by this record, defendant is entitled only to a conditional privilege. This raises a difficult and very important issue. A defendant in a libel suit who relies upon the defense of conditional privilege has the burden of proving that the communication was published on a conditionally privileged or proper occasion, from a proper motive, in a proper manner and was based upon reasonable and probable cause: Morgan v. Bulletin Co., 369 Pa. 349, 353, 85 A. 2d 369; Briggs v. Garrett, 111 Pa. 404, 2 A. 513; O\u2019Donnell v. Phila. Record Co., 356 Pa. 307, 51 A. 2d 775; Hartman v. Hyman & Lieberman, 287 Pa. 78, 134 A. 486; Bausewine v. Norristown Herald, 351 Pa. 634, 645, 41 A. 2d 736.\nThe difficulty is not with the law, but with its application to the facts in each particular case. The plaintiff argues that since the Attorney General was authorized by this Court to supersede the District Attorney of Allegheny County only in a special matter he had no right or power to interfere with the District Attorney in any matter in which the latter had not been superseded; hence no right to demand that she be dismissed from her position; and consequently no privilege to write the libelous letter of January 5, 1951. In other words, the Attorney General was acting outside of his jurisdiction as well as beyond the scope of his authority. This poses the basic question in this case.\nWe are all unanimously of the opinion that the Attorney General has no right or power to discharge or to compel a district attorney to discharge an assistant district attorney from her official position or from duties, matters or cases outside of the case or matter in which the Attorney General has superseded the district attorney: Cf. Matson v. Jackson, 368 Pa. 283, 83 A. 2d 134; Constitution of Pennsylvania, Art. VI, \u00a74; Com. ex rel. v. Likeley, 267 Pa. 310, 110 A. 167; Com. ex rel. Kelley v. McBride, 329 Pa. 41, 196 A. 2d 80; Com. ex rel. Smith v. Glark, 331 Pa. 405, 200 A. 41. However, this is not a complete answer to the question of whether the Attorney General has a right or duty, in his official capacity to notify a district attorney of Pennsylvania that one of the latter\u2019s assistants was, according to reports from the State Police, a member of a communist organization and engaged in communistic activities, and that her retention in an official position was dangerous to the security of the people of Pennsylvania. In other words, the Attorney General might have no right to discharge plaintiff, but might have had a right and a duty to notify the District Attorney of facts which he believed justified her discharge. In this connection, although the letter shows on its face that it was based upon reasonable and probable cause\u2014 and although an official act of a public official is presumed to have been performed in accordance with the law and in good faith and with a proper motive, i.e., for the purpose of promoting the public good and protecting the public interest: 31 C.J.S., Sec. 146, pages 798, 804-806; Fleming v. Adamson, 321 Pa. 28, 182 A. 518; Hill v. Alexander, 338 Pa. 26, 11 A. 2d 884; Glesenkamp v. Pittsburgh, 320 Pa. 219, 181 A. 763 \u2014 plaintiff alleged the charges were not only false but were maliciously made. If the Attorney General was entitled to absolute privilege, his personal or political motives are immaterial as is the presence of malice or want of reasonable and probable cause: Spalding v. Vilas, 161 U.S. 483. With reference to exactly the same situation as here exists, the Supreme Court said, page 499: \u201cBut if he acts, having authority, his conduct cannot be made the foundation of a suit against him personally for damages, . . . The motive that impelled him to do that of which the plaintiff complains is, therefore, wholly immaterial. If we were to hold that the demurrer admitted, for the purposes of the trial, that the defendant acted maliciously, that could not change the law.\u201d This well illustrates the danger of extending the principle of absolute privilege. On the other hand, if, as plaintiff contends, the privilege was merely conditional, she would be entitled to prove actual malice which would defeat any claim of conditional privilege; and hence defendant\u2019s demurrer could not be sustained. For this reason it becomes pertinent and important to review some of the powers and duties of an Attorney General together with some of the limitations thereon which have been analyzed and discussed in several recent cases.\nThe Attorney General of Pennsylvania is the chief law enforcement officer of the Commonwealth, and as such is charged with the over-all duty of seeing that the law throughout the Commonwealth is enforced. Cf. Com. ex rel. Minerd v. Margiotti, 325 Pa. 17, 188 A. 524; Com. ex rel. Margiotti v. Orsini, 368 Pa. 259, 81 A. 2d 891; Margiotti Appeal, 365 Pa., supra. He has both the power and the duty \u201c \u2018(a) To investigate any violations, or alleged violations, of the laws of the Commonwealth which may come to [his] notice; [and] (b) To take such steps, and adopt such means, as may be reasonably necessary to enforce the laws of the Commonwealth.\u201d\u2019 [Section 904, Article IX, of The Administrative Code of 1929, P.L. 177]; Matson v. Jackson, 368 Pa. 283, 288, 83 A. 2d 134.\nIn a very able and comprehensive opinion, Mr. Justice (later Chief Justice) Schaffer, speaking for this Court in Com. ex rel. Minerd v. Margiotti, 325 Pa. 17, 30, 31, 188 A. 524, reviewed the powers of the Attorney General both in England and from the earliest days in Pennsylvania, and said: \u201cWe quite recently had occasion to consider the prerogatives of the Attorney General in Com. v. Lehman, 309 Pa. 486, where the defendant objected to the superseding of the district attorney by a special prosecutor appointed by the Attorney General. Speaking through Mr. Justice Linn, we observed: \u2018Prior to the Act of May 3, 1850, P. L. 654, 16 P.S. sec. 1691, the attorney general was represented in each county by his deputy who conducted criminal prosecutions; by that statute the office of district attorney was created and that officer was charged with the performance of the duties theretofore performed by the deputy attorney general. Thereafter the prosecutor was elected instead of appointed, hut the power of general supervision vested in the attorney general over the performance of a district attorney\u2019s duties in the county was not taken away; that power remained, and it is matter of general information that the power had been exercised from time to time when necessary. . .\n\u201cWe conclude from the review of decided cases and historical and other authorities that the Attorney General of Pennsylvania is clothed with the powers and attributes which enveloped Attorneys General at common law, including the right to investigate criminal acts, to institute proceedings in the several counties of the Commonwealth, to sign indictments, to appear before the grand jury and submit testimony, to appear in court and to try criminal cases on the Commonwealth\u2019s behalf, and, in any and all these activities to supersede and set aside the district attorney when in the Attorney General\u2019s judgment such action may be necessary.\u201d\nThese vast powers of the Attorney General were further recognized in our opinions in Dauphin County Grand Jury Proceedings No. 1, 332 Pa. 289, 298, 2 A. 2d 783; in Dauphin County Grand Jury Proceedings No. 8, 332 Pa. 358, 382, 2 A. 2d 809; in Margiotti Appeal, 365 Pa., supra, and in Com. ex rel. Margiotti v. Orsini, 368 Pa., supra, in each of which we reiterated that the Attorney General may supplement and supervise a grand jury and may under proper circumstances supersede or act in conjunction with a district attorney; and then said: . . and it is his duty to do so if he believes the government is to be hindered in the lawful conduct of its affairs to the detriment of the security, peace and good order of the State. . .\u201d\nIt is obvious therefore that the powers and duties of an Attorney General as chief law enforcement officer of the Commonwealth, derived as they are from both statute and the common law, are wide and vast. However, as Mr. Justice Stern pointed out in Matson v. Jackson, 868 Pa., supra, these powers do not include the right \u201cto examine into the general qualifications and views and competence of a duly elected district attorney or one of his assistants as a basis for supplanting him and thenceforth conducting the office by his own deputies.\u201d This quotation and this case are one of the main, if not the most important grounds upon which plaintiff bases her contention that the Attorney General acted beyond his jurisdiction, so it may be well to review exactly what was decided in that case. The Attorney General in that case attempted to conduct a public hearing into the \u201calleged communistic leanings, sympathies and utterances\u201d of an assistant district attorney, in which hearing the Attorney General would be the prosecutor, judge and jury. Pointing out that no crime was charged, this Court held that the Attorney General had no such power either under the Administrative Code or under any other authority. However, neither the case itself nor the quoted excerpt therefrom supports plaintiff\u2019s position in this case. The objection in this case goes not to her general qualifications, views or competence, but whether she was a member of a communist organization or engaged in communistic activities in behalf of an organization, one of whose major purposes is to undermine, sabotage and destroy the government whose laws she was sworn to uphold and protect. As the chief law enforcement officer of this Commonwealth, it was the right, privilege and we believe the duty of the Attorney General to call to the attention of the District Attorney of any county facts or charges which disclose that one of the assistant district attorneys was, for example, a dangerous criminal or as in this case, was allegedly engaged in communistic activities and request or demand his or her dismissal.\nWe have no doubt, therefore, that the Attorney General, qua Attorney General, had a right to write the letter dated January 5, 1951, to the District Attorney of Allegheny County concerning his assistant, Mrs. Mats on; and to give him information which the Attorney General had obtained from the Pennsylvania State Police as to Mrs. Matson\u2019s supposed communistic activities. We specifically hold that this official letter, being written by a public official in the course and within the scope of his powers, was \u201cabsolutely privileged\u201d; and that even if the allegations were erroneous and false, and were maliciously made, this privilege was absolute and constituted a complete defense to Mrs. Matson\u2019s action of libel.\nIt seems only fair to answer several further arguments of the plaintiff.\nMrs. Matson, believing she has been maliciously libeled by the false charges of a public official, very naturally wants him to pay for the suffering and the damage he has caused her. There is much to be said for her contentions. However, a myriad of cases have pointed out what every lawyer and nearly every layman, after some reflection, knows, viz., that neither freedom of speech nor freedom to protect one\u2019s property and reputation \u2014 each of which is guaranteed by the Constitution \u2014 is unlimited, and it is obvious that they must sometimes be competing and conflicting. The recent practice of some high public officials to slander and vilify innocent people who have little or no chance to defend themselves or their reputation has shocked our nation and nearly every respectable citizen would like to see mud-slinging and unjustifiable character assassination by public officials and candidates for public office stopped or abolished. One\u2019s sympathies are almost invariably on the side of the person who is, often with little or no justification, falsely accused. Yet the authorities almost universally hold, as herein-above stated, that statements or acts of high public officials which are made in the course of and within the scope of their official powers or duties give them complete immunity from legal redress. Even though the innocent may sometimes suffer irreparable damage, it has been found to be in the public interest and therefore sounder and wiser public policy to \u201cimmunize\u201d public officials, for to permit slander, or libel, or malicious prosecution suits, where the official\u2019s charges turn out to be false, would be to deter all but the most courageous or the most judgment-proof public officials from performing their official duties and would thus often hinder or obstruct justice and allow many criminals to go unpunished.\nOne other point has given us grave concern: Was the immediate delivery to the press by the Attorney General of a copy of his letter, prior to its delivery, to the District Attorney \u2014 a regrettable practice pursued by high ranking officials whose victims first learn their fate by radio or press \u2014 incidental to and hence entitled to the same absolute privilege as the letter, or was it outside the scope of the Attorney General\u2019s official duties or powers and therefore entitled only to a conditional privilege? Here once again we have competing rights: the right of the individual to be protected in her property and reputation,' and the right of the public to be kept informed of the official actions of their public officials. We have found only two cases on this point in this virtually unexplored field.\nIn Spalding v. Vilas, 161 U. S. 483, the Supreme Court sustained the right of a Postmaster General to write a notice to all claimants calling their attention to the provisions of an Act of Congress and giving his own interpretation thereof, even though it resulted in serious damage to the plaintiff, and even though plaintiff alleged it was maliciously made. The Court held that the principle of absolute immunity from civil suits should (page 498) \u201c. . . apply to a large extent to official communications made by heads of Executive Departments when engaged in the discharge of duties imposed upon them by law.\u201d\nAn even closer case is Glass v. Ickes, Secretary of the Interior, 117 F. 2d 273. In that case Glass brought an action of defamation against Ickes, alleging that Ickes had maliciously issued a false and defamatory press memorandum or release in which he said that the plaintiff had been barred from practice from the Department of the Interior, and that all oil operators should look into the matter \u201cbefore they kicked in to the plaintiff\u2019s proposed one-man lobby.\u201d The Court held the press release was an absolutely privileged communication and consequently the motive or the malice of the defendant was immaterial. Justice Vinson, now Chief Justice of the Supreme Court of the United States, said in a footnote on page 278: \u201cThe practice of cabinet officers to issue public statements in \u2022 respect to the activity of their departments is \u25a0 too- well known to require comment. Indeed, such announcements serve a useful if not essential role in the functioning of the democratic processes of government.\u201d\nWe believe it is in the public interest to permit an Attorney General to keep the public advised of his official acts and conduct where such actions are in the course of and within the scope of his official duties or powers. We therefore hold that under the facts in this case the delivery to the public press of the letter of the Attorney General to the District Attorney of Allegheny County dated January 5, 1951, was within the protection of the absolute privilege accorded in this case to the Attorney General.\nJudgment affirmed.\nItalics throughout, ours.\nSee Margiotti Appeal, 865 Pa. 330, 75 A. 2d 465.\nCompare also Fay, U. S. Atty., v. Miller, 183 F. 2d 986, where the Court of Appeals said, page 988: \u201cThe authority of the United States Attorney to make the request [to disconnect a telephone used allegedly to aid gambling] is not challenged. Nor do we think successful challenge could be made, for the United States Attorney is vested with broad discretion to protect the public from crime, such discretion being derived both from statutory grant and the authority of the Attorney General at common law. In the discharge of his duty to the citizens of the District of Columbia, it is proper for him to call to the attention of the Maryland Company the fact that he has evidence that its instruments are being used to violate District of Columbia laws.\u201d\nConstitution of Pennsylvania, Art. I, \u00a7\u00a7i, 7; Cf. United Stales Constitution, Amendment-1.",
+        "type": "majority",
+        "author": "Mr. Justice Bell,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Jones:\nThe members of the court who heard this appeal are unanimous that the defendant\u2019s letter of January 5, 1951, to William S. Kahauser, District Attorney of Allegheny County, concerning the plaintiff, was libelous per se. We are also unanimous as to the law of privilege which the defendant pleads. As the majority opinion states it, \u201c. . . the Attorney General, when acting officially, and within the scope of his authority, has absolute privilege, protection and immunity from civil liability with respect to his official communications and official acts. . . . this [privilege] . . . becomes unavailable if and when the Attorney General . . . acts in matters outside his jurisdiction or beyond the scope of his powers or duties.\u201d The cases, which the majority cite and analyze in support of the above-quoted legal proposition, are not open to question. My difference with the majority lies alone in their conclusion that, under the facts of this case, the defendant is entitled to absolute privilege as a defense to his libel. It is my opinion that the Attorney General, in writing and posting his letter of January 5th to Bahauser, acted \u201coutside his jurisdiction and beyond the scope of his powers or duties\u201d and that, consequently, he is entitled to no more than conditional privilege.\nJust twelve days after publication of the libelous letter of January 5th, the defendant as Attorney General undertook to conduct a public hearing in a courtroom of the Court of Common Pleas of Allegheny County \u201cinto the alleged communistic leanings, sympathies and utterances of Mrs. Marjorie Hanson Mat-son, Assistant District Attorney of Allegheny County.\u201d On the day fixed for the Attorney General\u2019s hearing, the Court of Common Pleas of Allegheny County, upon the complaint of Mrs. Matson, issued a preliminary injunction enjoining the deputies, by whom the Attorney General was then acting, from conducting the scheduled hearing. On appeal, we affirmed: Matson v. Jackson, 368 Pa. 283, 83 A. 2d 134.\nThat the inquiry into Mrs. Matson\u2019s alleged \u201ccommunistic leanings, sympathies and utterances\u201d by means of the proposed hearing was not within the scope of the Attorney General\u2019s powers or duties, we unmistakably confirmed in Matson v. Jackson, supra. First, we upheld the Allegheny County court\u2019s jurisdiction of the injunction suit. Had the Attorney General been proceeding within the scope of his official duties, only the Court of Common Pleas of Dauphin County would have had jurisdiction of the suit against his deputies: Act of May 26, 1931, P.L. 191. Second, in a well-considered opinion by Mr. Justice Stern, we held on the merits that conducting such a hearing was not within the powers or duties of the Attorney General under \u201cany of the provisions of the-Administrative Code\u201d- or under the common- law.- This -latter conclusion is implicit in our answer (p. 289 ) to the argument- then being made for the Attorney General that the power to hold such a hearing was but a preliminary to a possible exercise of his power to supersede the District Attorney, which power this court had theretofore held (Margiotti Appeal, 365 Pa. 330, 332, 75 A. 2d 465) to be derived from the common law. With reference to the power of super-session Mr. Justice Steen pertinently said, \u2014 \u201cCertainly it was never, by the broadest stretch of imagination, regarded as including the right of the Attorney General to examine into the general qualifications, views and competence of a duly elected District Attorney, or one of his assistants, as a basis for supplanting him and thenceforth conducting the office by his own deputies.\u201d\nThe majority\u2019s conclusion in the instant case that the Attorney General\u2019s letter of January 5th to District Attorney Rahauser was within his official powers or duties ignores the necessary implications and effect of our decision in Matson v. Jackson, supra. If the Attorney General was without power, as we there decided, to hold a hearing on the alleged \u201ccommunistic leanings, sympathies and utterances\u201d of Mrs. Matson, it was equally no part of his official powers or duties to write the letter containing the charges concerning which he proposed to hold the hearing.\nThe letter of January 5, 1951, here involved, was no more an exercise or discharge of a poAver or duty reposed in the Attorney General by law than was his attempted hearing which Matson v. Jackson enjoined. In the Attorney General\u2019s succeeding letter to District Attorney Bahauser on January 17, 1951, announcing the hearing which he had scheduled, he said \u201cThe purpose behind this hearing is to clarify the issues that have previously been presented to you [see letter of January 5, 1951] and to develop any further evidence on this subject\u201d (Emphasis supplied). We directly held, however, that \u201cThe proposed hearing in this case was wholly without legal power or authority on the part of the Attorney General.\u201d Since the Attorney General \u201cwas wholly without legal power or authority\u201d to clarify the charges of his letter of January 5th or to develop \u201cfurther evidence\u201d in regard thereto, a fortiori, he was not acting within his jurisdiction and duties when he made the charges. He, of course, had a right, like any other citizen, to inform the district attorney of anything he knew concerning the former\u2019s assistants or office that he deemed harmful to the public service. But, in so doing, he was not acting because of any official duty devolving upon him.\nMoreover, the charges in the letter of January 5th were made for the purpose, as the letter itself reveals, of supporting the Attorney General\u2019s \u201cdemand that Mrs. Matson be dismissed from her position as Assistant District Attorney in Allegheny County,\u201d \u2014 a power which he did not possess. The majority opinion frankly concedes that \u201cWe are all unanimously of the opinion that the Attorney General has no right or power to discharge or to compel a district attorney to discharge an assistant district attorney from her official position or from duties, matters or cases outside of the case or matter in which the Attorney General has superseded the district attorney,\u201d citing Matson v. Jackson and other authority. Admittedly, the exception noted is not present in this case. Since the purpose of the letter of January 5th was to bring about Mrs. Matson\u2019s dismissal as an assistant district attorney and since the Attorney General had no legal power to effect such a result, it was likewise no part of his official powers or duties to make the charges in substantiation of the \u201cdemand\u201d which he did not have legal authority to make.\nNor can the letter be otherwise justified as an official act. It was no more in aid of an execution of the laws of the Commonwealth than was the proposed hearing. The plain purpose of the letter of January 5th being, as already stated, to compel Mrs. Matson\u2019s dismissal as an assistant district attorney, the reason for the Attorney General\u2019s effort to that end becomes relevant. He did not charge that she had violated any law; nor did he purport to be investigating violations of the law. He gave as his reason for demanding Mrs. Matson\u2019s dismissal that \u201cit appears obvious that her Communistic associations render her unfit to hold this position.\u201d This reason is referable alone to the \u201c'qualifications, views and competence\u201d of the assistant district attorney, \u2014 -a field not open to the Attorney General even in a case where he has superseded the district attorney: see Matson v. Jackson, supra, at p. 289.\nFurthermore, the Attorney General cannot be thought to have been acting within the scope of his powers and duties when he independently published the libel contained in his letter of January 5th before he had put it in due course of transmission for the accomplishment of any legitimate purpose. If that be not so, then the doctrine of absolute privilege will be extended far beyond any conscionable limits and become an aid to persecution in the hands of the unscrupulous. I well recognize that, where a public officer, acting within the scope of his lawful authority, libels another, the fact that he acts maliciously does not deprive him of absolute privilege: see, e.g., Spalding v. Vilas, 161 U.S. 483, 499; and Glass v. Ickes, 117 F. 2d 273, 276 (C.A.D.C.). In other words, when an officer acts within the scope of his powers and duties, his motive does not become a material consideration. But, that does not mean that a public official can deliberately publish a libel and then obtain absolute privilege by subsequently subjoining an official act in the same connection. The difference between cases such as the Spalding and Glass cases, supra, and the present is that in the former the officer acted first in performance of his official duty and the alleged libel was an incidental concomitant. In the latter, he libels first and then acts in respect of what he asserts is official.\nNotwithstanding that the letter of January 5th cannot, on the basis of any of our prior cases (especially Matson v. Jackson), be found to be an official act of the Attorney General, the majority appear content to reiterate dicta to the effect that the powers of the Attorney General are \u201cwide and vast\u201d and, on the basis of this broad generality, hold that the libelous letter was \u201cwritten [by the Attorney General] in the course and within the scope of his powers.\u201d I readily agree that the powers and duties of the Attorney General are many and important. But, merely describing them by expansive adjectives should not be availed of to make an official act out of conduct which, under our decisions, should be found not to be within the powers or duties of the Attorney General.\nTo say that the Attorney General\u2019s powers are \u201cwide and vast\u201d puts no limitation whatsoever on them. It is tantamount to saying that they are limitless. That being so, with the current decision of this court extant, the Attorney General (a mere appointive officer) will henceforth enjoy absolute privilege for any and all of his writings so long as he uses his official stationery and signs himself with descriptive designation of his office. He can even libel Ms appointor, the Governor, with impunity. What Mr. Justice Steen further said in Matson v. Jackson (at p. 288) is apposite here,\u2014 \u201c. . . we have already pointed out that the proposed hearing cannot be justified as an aid to the execution or enforcement of the laws. Indeed a contrary view would be equivalent to holding that the Attorney General is vested with the power to conduct hearings as to the political, economic and social views of every public officer in the Commonwealth entrusted with the execution of the laws, from the Governor himself down to the least important officials, including even those duly elected, in order to ascertain whether, in his opinion, they are fit and competent to perform their respective duties in enforcing the laws, \u2014 a proposition the very statement of which illustrates its inherent absurdity.\u201d The vice of overextending by court decision the powers of the Attorney General would be bad enough if the possible harm were confined to acts of that officer, but what the majority opinion now construes to be within his powers will, to a relative degree, be among the powers of every prosecuting officer in the Commonwealth within the territorial confines of his jurisdiction. It is disturbing, to say the least, to contemplate the potential evils.\nBut, more disquieting still is the evident facility with which the majority virtually repudiate the well-considered unanimous opinion for the full membership of this court in Matson v. Jackson, supra, of a little less than a year ago. That case and the present are not distinguishable in principle so far as the scope of the Attorney General\u2019s official duties is concerned. Nor does the majority opinion attempt any serious differentiation of the two cases. When read in conjunction with the decision in Matson v. Jackson, the majority opinion in the instant case places this court in the anomalous position of holding that the Attorney General lacks official power to inquire into and investigate what the majority now say he had an official duty to charge.\nIt was, of course, the Attorney General\u2019s right to communicate to the District Attorney anything he knew; in relation to his assistants or the conduct of his office which the Attorney General thought might be inimical to the public interest. It is equally the right of every other public official and of every private citizen, for that matter, to do likewise. But, in so acting, such persons (including the Attorney General) enjoy only conditional privilege as a defense to their incidental libels. Once the libel is established prima facie, it becomes the duty of the person charged therewith to allege and prove that the \u201cpublication [was made] upon a proper occasion, from a proper motive, in a proper manner and [was] based upon reasonable or probable cause\u201d: see Bausewine v. Norristown Herald, Inc., 351 Pa. 634, 645, 41 A. 2d 736, and cases there cited. The letter in question being libelous per se and the defendant enjoying only conditional privilege in the circumstances, it was error for the court below to sustain the preliminary objections and dismiss the complaint.\nI would reverse with a procedendo.\nMr. Justice Chidsey joins in this dissent.\nMatson v. Jackson, supra, was handed, down June 27, 1951. The learned court below did not, therefore, have the benefit of that decision when, on May 29, 1951, it sustained the defendant\u2019s preliminary objections to the plaintiff\u2019s complaint in the instant case. Both the majority and concurring opinions in the court below drew the requisite all-embraeive \u201cpowers\u201d of the Attorney General from his power of supersession, \u2014 a proposition which we flatly rejected in Matson v. Jackson.",
+        "type": "dissent",
+        "author": "Mr. Justice Jones:"
+      }
+    ],
+    "attorneys": [
+      "Marjorie Hanson Matson, appellant, in propria persona.",
+      "Robert L. Kunzig, Deputy Attorney General, with him Robert E. Woodside, Attorney General and Margiotti & Gasey, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Matson, Appellant, v. Margiotti.\nArgued March 25, 1952.\nBefore Drew, C. J., Stearne, Jones, Bell and Chidsey, JJ.\nMarjorie Hanson Matson, appellant, in propria persona.\nRobert L. Kunzig, Deputy Attorney General, with him Robert E. Woodside, Attorney General and Margiotti & Gasey, for appellee.\nMay 27, 1952:"
+  },
+  "file_name": "0188-01",
+  "first_page_order": 216,
+  "last_page_order": 240
+}

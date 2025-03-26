@@ -1,0 +1,105 @@
+{
+  "id": 1216492,
+  "name": "Koleff Estate",
+  "name_abbreviation": "Koleff Estate",
+  "decision_date": "1943-03-22",
+  "docket_number": "Appeal, No. 111",
+  "first_page": "478",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "346 Pa. 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Sadler 579",
+      "category": "reporters:state",
+      "reporter": "Sadler",
+      "case_ids": [
+        246375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sadler/8/0579-01"
+      ]
+    },
+    {
+      "cite": "16 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        410255
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/16/0151-01"
+      ]
+    },
+    {
+      "cite": "340 Pa. 423",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1203353
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/340/0423-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 171,
+    "char_count": 1815,
+    "ocr_confidence": 0.472,
+    "pagerank": {
+      "raw": 5.251380158042016e-08,
+      "percentile": 0.3302928085768707
+    },
+    "sha256": "e10206bb43ea0661f46ff354a5ecd0e6f275ff969e045aa63dddca9c7c458fc3",
+    "simhash": "1:57213c26362aa728",
+    "word_count": 308
+  },
+  "last_updated": "2024-02-27T16:07:55.066799+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, C. J.; Maxey, Drew, Linn, Stern, Patterson and Parker, JJ."
+    ],
+    "parties": [
+      "Koleff Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nAt the audit of the administrator\u2019s account, Peter and Mary Montso\u00f1, appellees, presented their claim on a judgment note given them by decedent in the sum of f8,000. The claim was allowed by the Orphans\u2019 Court and by this Court on appeal: Koleff\u2019s Estate, 340 Pa. 423. Henry A. Jones, Esquire, the administrator, has since paid or tendered the face amount of the award (less an agreed sum to provide for a possible inheritance tax liability) but refused payment of interest claimed by appellees from the final confirmation of the award by the Orphans\u2019 Court. The matter was submitted to the court below on petition and answer, and a decree ivas entered in favor of appellees from which the administrator appeals.\nThe sole question, as stated by the court below, is as follows: \u201cDoes an award by the auditor of an administrator\u2019s account, affirmed by the Orphans\u2019 Court, bear interest from the date of the decree of the Orphans\u2019 Court until the award is paid, if meanwhile an unsuccessful appeal is taken from such decree to the Supreme Court?\u201d It ivas decided by the court below, and rightly so, that this question must be answered in the affirmative. As said in Wither\u2019s Appeal, 16 Pa. 151, 153: \u201cThat an administrator is chargeable with interest from the decree cannot be doubted. In that respect a decree is like a judgment, to which interest, in this State, is a necessary incident.\u201d See also Wilson\u2019s Appeal, 8 Sadler 579.\nDecree affirmed at appellant\u2019s cost.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "J ohn O. Bane, Jr., with him Elder W. Marshall, Reed, Smith, Shaw <\u00a3 McGlay and Henry A. Jones, for appellant.",
+      "Martin E. Gusick, of Service, McNeal, Gusick & Isenberg, with him L. N. Dilley, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Koleff Estate.\nArgued September 30,1942.\nBefore Schaffer, C. J.; Maxey, Drew, Linn, Stern, Patterson and Parker, JJ.\nJ ohn O. Bane, Jr., with him Elder W. Marshall, Reed, Smith, Shaw <\u00a3 McGlay and Henry A. Jones, for appellant.\nMartin E. Gusick, of Service, McNeal, Gusick & Isenberg, with him L. N. Dilley, for appellee.\nMarch 22, 1943:"
+  },
+  "file_name": "0478-01",
+  "first_page_order": 500,
+  "last_page_order": 501
+}

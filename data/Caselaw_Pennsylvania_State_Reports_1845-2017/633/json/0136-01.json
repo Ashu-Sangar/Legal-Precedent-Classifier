@@ -1,0 +1,96 @@
+{
+  "id": 12280232,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. William Craig CARNELL, Respondent",
+  "name_abbreviation": "Commonwealth v. Carnell",
+  "decision_date": "2015-10-14",
+  "docket_number": "No. 1210 MDA 2012",
+  "first_page": "136",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 136"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 1063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "115 A.3d 1284",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6789460,
+        6872319
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/631/0692-01",
+        "/a3d/115/1284-01"
+      ]
+    },
+    {
+      "cite": "631 Pa. 692",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        6789460
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/631/0692-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 474,
+    "ocr_confidence": 0.622,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24901104272874597
+    },
+    "sha256": "3aeba8f421a7ea1e6754802187a49e46de175074f427f4114cb57854b5d5f36d",
+    "simhash": "1:751368a4c28306ae",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. William Craig CARNELL, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 14th day of October, 2015, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is VACATED, and the case is REMANDED to the Superior Court for further consideration in light of Commonwealth v. Carrasquillo, 631 Pa. 692, 115 A.3d 1284 (2015). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "123 A.3d 1063\nCOMMONWEALTH of Pennsylvania, Petitioner v. William Craig CARNELL, Respondent.\nSupreme Court of Pennsylvania.\nOct. 14, 2015."
+  },
+  "file_name": "0136-01",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

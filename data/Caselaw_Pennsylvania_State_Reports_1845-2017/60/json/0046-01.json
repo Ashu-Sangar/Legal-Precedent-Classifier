@@ -1,0 +1,122 @@
+{
+  "id": 1014442,
+  "name": "Moore versus Marsh et al.",
+  "name_abbreviation": "Moore v. Marsh",
+  "decision_date": "1869-02-23",
+  "docket_number": "",
+  "first_page": "46",
+  "last_page": "48",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "60 Pa. 46"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Watts 414",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wright 464",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 72",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844090
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0072-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 463",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Watts 72",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844090
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/5/0072-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 363,
+    "char_count": 6223,
+    "ocr_confidence": 0.463,
+    "pagerank": {
+      "raw": 1.6412505891534877e-07,
+      "percentile": 0.6911572836871956
+    },
+    "sha256": "fd0ac69ff12f50a636cc80b634f8ba8601e8432ef6a5f8a9813e54307f49d0ce",
+    "simhash": "1:336aabf95275b8ae",
+    "word_count": 1106
+  },
+  "last_updated": "2024-02-27T16:37:51.913678+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Thompson, C. J., Agnew and SnARSWooD, JJ. Read and Williams, JJ., absent."
+    ],
+    "parties": [
+      "Moore versus Marsh et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nThompson, C. J.\n\u2014 Since the case of Parsons v. Allison, 5 Watts 72, and Baskin et al. v. Koontz & Hummell, Id. 76, it has never been supposed that a collector\u2019s warrant is a lien on property for unpaid taxes, before actual seizure. These cases settle conclu\u00ed sively that it is not, and that it is unlike a fi. fa. in this particular.\nIn the case in hand, the collector had no lien when the sheriff levied on Longenecker\u2019s property, about which this controversy has arisen.\nBut it is claimed that because the purchaser at sheriff\u2019s sale did not immediately remove the property from the premises, the collector was justified in levying on it under the 46th section of the Act of 15th April 1839, which authorizes collectors to levy on the goods and chattels liable to distress for taxes due on the real estate of the occupier of the same. But the property in- this instance was not the property of the occupier of the real estate. It belonged to the plaintiffs below as vendees of the sheriff. They were not occupiers of the real estate at all, and of all this the collector was notified. His distress and sale was a trespass on the plaintiffs\u2019 property,- the right to immediate possession of which was in them by virtue of their legal title, and this was all that was. necessary in order to enable them to maintain trespass: 3 Harris 31; 10 Watts 463.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Thompson, C. J."
+      }
+    ],
+    "attorneys": [
+      "S. P. Wolverton, for plaintiff in error."
+    ],
+    "corrections": "",
+    "head_matter": "Moore versus Marsh et al.\n1. The warrant of a collector of taxes is not a lien on property before seizure.\n2. After taxes had been assessed the personal property of the tax-payer was sold by the sheriff; before its removal from the premises the collector seized and sold it for the taxes. Held, that he was liable to the purchasers in trespass.\n3. The purchasers were not occupiers of. the real estate and the property therefore was not within the Act of April 15th 1834, \u00a7 46 (Taxes).\nJanuary 25th 1869,\nat Philadelphia.\nBefore Thompson, C. J., Agnew and SnARSWooD, JJ. Read and Williams, JJ., absent.\nError to the Court of Common Pleas of Northumberland county: to October Term 1868.\nThis was an action of trespass by James J. Marsh and others, trading as Beaver, Marsh & Co., against William H. Moore: the writ was issued to November Term 1865.\nOn the l'lth of March 1868 a case stated was filed presenting the following facts. In the spring of 1865 Jerome Longenecker, an iron master at Shamokin Furnace, owned and was in possession of a number of articles of personal property which were specified in the case.\nBorough, county, school and poor taxes for 1865, to the aggregate amount of $604.78, had been assessed against Longenecker, who had had notice of the assessment and payment had been demanded from him by W. H. Moore, the defendant, who was the collector. Afterwards, to August Term 1865, a number of writs of fieri facias were issued against Longenecker; the earliest came into the sheriff\u2019s hands May 2d. Under these writs the sheriff sold the above-mentioned personal property to Beaver, Marsh & Co., the plaintiffs. When the plaintiffs were about to remove the property, Moore, having the duplicate in his hands and the property being yet on Longenecker\u2019s premises, seized and levied upon the property and sold it on the 9th of September 1865, the plaintiffs having given written notice to him and others at the sale that the property belonged to them. The property was sold for $670.78, to George Slifer, who sold it to the plaintiffs for the same price. By the case it was agreed: \u201c If the court be of opinion that the said sheriff\u2019s sale passed the legal title and ownership of the said personal property to the plaintiffs in this case, clear of all liens for taxes, and that the said collector of taxes had no lien on the said property by virtue of the assessment of said taxes, and that he became a trespasser by seizing, levying upon and selling the same for the payment of the said taxes, after the same had been sold by the sheriff as aforesaid to the plaintiffs, notwithstanding they, the said plaintiffs, suffered it to remain for a month on the premises, then judgment to be entered for the plaintiffs for $670.78, with interest from the said 9th day of September 1865; but if not, then judgment to be entered for the defendant.\u201d\nThe court entered judgment for the plaintiffs for $774.28, Jordan, P. J., delivering the following opinion:\u2014\n\u201c The warrant in the hands of Moore, the tax collector, was not a lien: Parsons v. Allison, 5 Watts 72; Baskin v. Koontz, Id. 76. The fi. fas. placed in the hands of the sheriff were liens on the property from the time he received them, and the purchasers of the property at the sale made by the sheriff, held it discharged of any lien for taxes.\n\u201cThe Act of 1834, 15th of April, \u00a7 46, relied on by the defendant\u2019s counsel, does not meet this case. The act declares that the goods and chattels of any person occupying any real estate, shall be liable to distress and sale for the non-payment of any taxes assessed upon such real estate during his possession or occupancy and remaining unpaid, in like manner as if they were the goods and chattels of the owner of such real estate. The plaintiffs in this case were the owners of the goods purchased at sheriff\u2019s sale: they were not the occupiers of the real estate charged with the payment of the taxes, and suffering the goods to remain on the premises for nearly a month did not justify their seizure for taxes.\u201d\nThe defendant took a writ of error, assigning for error the entering of judgment for the plaintiffs.\nS. P. Wolverton, for plaintiff in error.\n\u2014 To enable the plaintiffs to recover in trespass they must have been deprived of the property by the tortious act of the defendant: Weitzel v. Marr, 10 Wright 464; not if he came into possession lawfully, though he afterwards unlawfully converted the goods: Bradley v. Davis, 2 Shepley 44; Dick v. Cooper, 12 Harris 220; Waldron v. Haupt, 2 P. F. Smith 408. A tax collector is a public officer and should be protected: McGregor v. Montgomery, 4 Barr 241; Act of April 15th 1834, \u00a7 46, Pamph. L. 518, Purd. 943, pl. 84; Henry v. Horstick, 9 Watts 414.\nThere was no paper-book or argument for the defendants in error.\nFebruary 23d 1869,"
+  },
+  "file_name": "0046-01",
+  "first_page_order": 46,
+  "last_page_order": 48
+}

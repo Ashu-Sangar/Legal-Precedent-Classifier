@@ -1,0 +1,80 @@
+{
+  "id": 12282712,
+  "name": "Parker Ave., L.P. v. City of Philadelphia",
+  "name_abbreviation": "Parker Ave., L.P. v. City of Philadelphia",
+  "decision_date": "2016-03-01",
+  "docket_number": "507 EAL (2015)",
+  "first_page": "736",
+  "last_page": "736",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 736"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 483",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6843006
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/122/0483-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 168,
+    "ocr_confidence": 0.812,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24910911794471416
+    },
+    "sha256": "190f875f23d28fd05b9ea97d874d4a62f8d8cec946b2d66f0b28de1401b67b18",
+    "simhash": "1:ed76a1589aab9604",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Parker Ave., L.P. v. City of Philadelphia"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 122 A.3d 483",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Parker Ave., L.P. v. City of Philadelphia\n03/01/2016\n507 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0736-02",
+  "first_page_order": 796,
+  "last_page_order": 796
+}

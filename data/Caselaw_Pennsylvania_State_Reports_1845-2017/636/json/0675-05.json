@@ -1,0 +1,70 @@
+{
+  "id": 12285115,
+  "name": "Com. v. Rugg",
+  "name_abbreviation": "Com. v. Rugg",
+  "decision_date": "2016-08-25",
+  "docket_number": "117 WAL (2015)",
+  "first_page": "675",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 387",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.911,
+    "sha256": "aa140ed28fddf0a025c21c73d027424fbeb28c2350ab7354c1b16f2b617a023d",
+    "simhash": "1:7c17a022d7e241c0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Rugg"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 387",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Rugg\n08/25/2016\n117 WAL (2015)"
+  },
+  "file_name": "0675-05",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

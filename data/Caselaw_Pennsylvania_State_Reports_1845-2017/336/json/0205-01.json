@@ -1,0 +1,76 @@
+{
+  "id": 1195656,
+  "name": "Commonwealth ex rel. Billings v. Ashe, Warden",
+  "name_abbreviation": "Commonwealth ex rel. Billings v. Ashe",
+  "decision_date": "1938-12-09",
+  "docket_number": "",
+  "first_page": "205",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "336 Pa. 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "132 Pa. Superior Ct. 405",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1010301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/132/0405-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 117,
+    "char_count": 1172,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 4.436057418262789e-08,
+      "percentile": 0.27785017582106136
+    },
+    "sha256": "5524e739a580a4870303e5a62ba511605d9ac5a090380f1d83eba50b10a96efc",
+    "simhash": "1:d9dcb763a3479fe2",
+    "word_count": 203
+  },
+  "last_updated": "2024-02-27T23:35:15.015595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth ex rel. Billings v. Ashe, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nBill of Indictment No. 52, April Sessions, 1931, in the Oyer and Terminer Court of Allegheny County, charged the relator with robbery, being armed with an offensive weapon. The court imposed a sentence of ten to forty years, but the maximum sentence for the offense is twenty years, and the maximum part of the sentence is therefore illegal. However, this does not entitle relator to be discharged. In June, 1936, he was placed on parole, for violation of which he was sentenced on December 31, 1936, to serve the unexpired portion of the forty-year sentence, amounting to 34 years, 9 months and 5 days. This sentence should be amended to conform with the maximum provided by statute: Commonwealth ex rel. Flory v. Ashe, 132 Pa. Superior Ct. 405.\nAnd now, December 9, 1938, it is ordered and adjudged that the relator be remanded and that the record be remitted to the Court of Oyer and Terminer of Allegheny County to the end that the proper process may be issued to bring him into court for a re-sentence in accordance with law, talcing into consideration the time that he has already served.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Billings v. Ashe, Warden.\nDecember 9, 1938:"
+  },
+  "file_name": "0205-01",
+  "first_page_order": 255,
+  "last_page_order": 256
+}

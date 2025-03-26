@@ -1,0 +1,70 @@
+{
+  "id": 12286863,
+  "name": "Com. v. Bass",
+  "name_abbreviation": "Com. v. Bass",
+  "decision_date": "2016-04-20",
+  "docket_number": "686 EAL (2015)",
+  "first_page": "768",
+  "last_page": "768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 768"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.855,
+    "sha256": "b05485529d776d4801ae046023376aa209134162663697021ce271a0e1fd5e5a",
+    "simhash": "1:7842a290921e60d0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Bass"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 102",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Bass\n04/20/2016\n686 EAL (2015)"
+  },
+  "file_name": "0768-08",
+  "first_page_order": 828,
+  "last_page_order": 828
+}

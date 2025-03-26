@@ -1,0 +1,1034 @@
+{
+  "id": 1732146,
+  "name": "COMMONWEALTH of Pennsylvania v. Robert Clyde RIGGINS, Appellant",
+  "name_abbreviation": "Commonwealth v. Riggins",
+  "decision_date": "1977-08-17",
+  "docket_number": "No. 40",
+  "first_page": "115",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "474 Pa. 115"
+    },
+    {
+      "type": "parallel",
+      "cite": "377 A.2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "401 U.S. 983",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11757056,
+        11757216,
+        11756899,
+        11756840,
+        11756972,
+        11757138,
+        11756723,
+        11756788
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0983-06",
+        "/us/401/0983-08",
+        "/us/401/0983-04",
+        "/us/401/0983-03",
+        "/us/401/0983-05",
+        "/us/401/0983-07",
+        "/us/401/0983-01",
+        "/us/401/0983-02"
+      ]
+    },
+    {
+      "cite": "449 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1945648
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/449/0297-01"
+      ]
+    },
+    {
+      "cite": "300 A.2d 78",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947038
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0310-01"
+      ]
+    },
+    {
+      "cite": "326 A.2d 272",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "458 Pa. 418",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479736
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/458/0418-01"
+      ]
+    },
+    {
+      "cite": "28 L.Ed.2d 334",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 1198",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 F.2d 26",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216565
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/435/0026-01"
+      ]
+    },
+    {
+      "cite": "315 F.Supp. 253",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3139898
+      ],
+      "pin_cites": [
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/315/0253-01"
+      ]
+    },
+    {
+      "cite": "1973 Duke L.J. 1357",
+      "category": "journals:journal",
+      "reporter": "Duke L.J.",
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "1375"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Yale L.J. 1453",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Wash.L.Rev. 103",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Miss.LJ. 782",
+      "category": "journals:journal",
+      "reporter": "Miss. L.J.",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Harv.L.Rev. 1281",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Wash.L.Rev. 607",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Iowa L.Rev. 205",
+      "category": "journals:journal",
+      "reporter": "Iowa L. Rev.",
+      "weight": 5,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "212"
+        },
+        {
+          "page": "208",
+          "parenthetical": "\"[I]f the criminal justice system punishes in a fair and impartial manner, there will be less likelihood of the criminal's resentment and therefore greater likelihood of his rehabilitation.\""
+        },
+        {
+          "page": "209-10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Wash.L.Rev. 529",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "479 F.2d 1170",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1310604
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "1173"
+        },
+        {
+          "page": "1172-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/479/1170-01"
+      ]
+    },
+    {
+      "cite": "432 F.2d 809",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2224264
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "818"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/432/0809-01"
+      ]
+    },
+    {
+      "cite": "462 F.2d 243",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1338659
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/462/0243-01"
+      ]
+    },
+    {
+      "cite": "404 U.S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174368
+      ],
+      "weight": 3,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0443-01"
+      ]
+    },
+    {
+      "cite": "92 L.Ed. 1690",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "334 U.S. 736",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159179
+      ],
+      "weight": 2,
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/334/0736-01"
+      ]
+    },
+    {
+      "cite": "277 A.2d 803",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "443 Pa. 96",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1937036
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/443/0096-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 711",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772134
+      ],
+      "weight": 5,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "725-26"
+        },
+        {
+          "page": "2080-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0711-01"
+      ]
+    },
+    {
+      "cite": "402 U.S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11733438
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "252-87",
+          "parenthetical": "Brennan, J., dissenting"
+        },
+        {
+          "page": "1489-1508",
+          "parenthetical": "Brennan, J., dissenting"
+        },
+        {
+          "parenthetical": "Brennan, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0183-01"
+      ]
+    },
+    {
+      "cite": "25 Rutgers L.Rev. 207",
+      "category": "journals:journal",
+      "reporter": "Rutgers L. Rev.",
+      "weight": 5,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "218"
+        },
+        {
+          "page": "217",
+          "parenthetical": "\" 'Sentencing' opinions would stimulate the process of rehabilitating the particular defendant and thereby, hopefully, bring about a significant dimunition in the tremendous social and financial costs of the present system.\""
+        },
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "466 Pa. 118",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1714943
+      ],
+      "weight": 27,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "130"
+        },
+        {
+          "page": "656"
+        },
+        {
+          "page": "131"
+        },
+        {
+          "page": "657"
+        },
+        {
+          "page": "129"
+        },
+        {
+          "page": "656"
+        },
+        {
+          "page": "135"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "135"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "129-132"
+        },
+        {
+          "page": "656-57"
+        },
+        {
+          "page": "131"
+        },
+        {
+          "page": "657"
+        },
+        {
+          "page": "127"
+        },
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/466/0118-01"
+      ]
+    },
+    {
+      "cite": "332 A.2d 521",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "4-3"
+        },
+        {
+          "page": "523, 525, 525",
+          "parenthetical": "dissenting opinion of Hoffman, J."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 Pa.Super. 32",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6770755
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "4-3"
+        },
+        {
+          "page": "36, 40, 40",
+          "parenthetical": "dissenting opinion of Hoffman, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/232/0032-01"
+      ]
+    },
+    {
+      "cite": "154 A.2d 322",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Pa.Super. 401",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        745808
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/190/0401-01"
+      ]
+    },
+    {
+      "cite": "182 A.2d 261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Pa.Super. 595",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        758544
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/198/0595-01"
+      ]
+    },
+    {
+      "cite": "195 A.2d 171",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 Pa.Super. 129",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        766845
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/202/0129-01"
+      ]
+    },
+    {
+      "cite": "297 A.2d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947064
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0001-01"
+      ]
+    },
+    {
+      "cite": "310 A.2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "453 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        577580
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/453/0349-01"
+      ]
+    },
+    {
+      "cite": "317 A.2d 250",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 Pa. 550",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        584435
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/456/0550-01"
+      ]
+    },
+    {
+      "cite": "40 F.R.D. 55",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Wis.2d 263",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8670786
+      ],
+      "weight": 4,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "280"
+        },
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/49/0263-01"
+      ]
+    },
+    {
+      "cite": "14 Washburn L.J. 241",
+      "category": "journals:journal",
+      "reporter": "Washburn L.J.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "243",
+          "parenthetical": "\"[Ujnless it is explained and justified ... [a sentence] is a source of resentment on the part of the incarcerated offenders and the public.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Harv.L. Rev. 1281",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "482 F.2d 139",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1322660
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/482/0139-01"
+      ]
+    },
+    {
+      "cite": "472 F.2d 652",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1517
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/472/0652-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782797
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "481"
+        },
+        {
+          "page": "2600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0471-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124278
+      ],
+      "weight": 4,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "358",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "1205",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0349-01"
+      ]
+    },
+    {
+      "cite": "257 F.2d 293",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        454569
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/257/0293-01"
+      ]
+    },
+    {
+      "cite": "51 Wash.L. Rev. 607",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 A.2d 649",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Pa.Super. 79",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        767857
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/203/0079-01"
+      ]
+    },
+    {
+      "cite": "69 A.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "363 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1221678
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/363/0141-01"
+      ]
+    },
+    {
+      "cite": "275 A.2d 81",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "442 Pa. 208",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1935421
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/442/0208-01"
+      ]
+    },
+    {
+      "cite": "275 A.2d 78",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "442 Pa. 201",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1935391
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/442/0201-01"
+      ]
+    },
+    {
+      "cite": "299 A.2d 640",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 152",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947029
+      ],
+      "weight": 2,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0152-01"
+      ]
+    },
+    {
+      "cite": "161 A. 733",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 4,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "735"
+        },
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "307 Pa. 507",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1138207
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "514"
+        },
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/307/0507-01"
+      ]
+    },
+    {
+      "cite": "326 A.2d 398",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "458 Pa. 26",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479680
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/458/0026-01"
+      ]
+    },
+    {
+      "cite": "297 A.2d 127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1760,
+    "char_count": 49559,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 9.546937135449694e-06,
+      "percentile": 0.9995536419304755
+    },
+    "sha256": "c1a82286a07c51d368732c259eb5a7925302ec967cfba35d0c829e7016638ce2",
+    "simhash": "1:2eaba62eb60c1de8",
+    "word_count": 7926
+  },
+  "last_updated": "2024-02-27T21:31:33.353074+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ.",
+      "MANDERINO, J., joins this opinion and files a concurring opinion.",
+      "POMEROY, J., files a concurring and dissenting opinion.",
+      "EAGEN, C. J., and NIX, J., concur in the result.",
+      "POMEROY, Justice,"
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Robert Clyde RIGGINS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nROBERTS, Justice.\nAppellant was arrested for possession of 53.9 grams (approximately 1.9 ounces) of marijuana. After a jury trial in the Court of Common Pleas of Lancaster County, appellant was convicted of possession of a controlled substance with intent to deliver. He was sentenced to serve two to five years imprisonment, fined $100 and ordered to pay the costs of prosecution. Appellant appealed to the Superior Court which affirmed judgment of sentence. Commonwealth v. Riggins, 232 Pa.Super. 32, 332 A.2d 521 (1974) (4-3) (separate dissenting opinions were filed by Hoffman, Cercone and Spaeth, JJ.). We granted allocatur.\nAppellant contends that his sentence should be vacated and the. case remanded to the trial court for resentencing because the trial court did not state its reasons for the particular sentence imposed. We agree. We therefore vacate judgment of sentence and remand for resentencing.\nI\nAfter the jury returned its verdict of guilty, appellant\u2019s counsel informed the court that appellant was waiving his right to file motions for a new trial and in arrest of judgment. The trial court then proceeded to sentence appellant. The trial court did not request a presentence report.\nDuring the trial, testimony established that appellant was 21 years old, married and the father of three young children. He had been employed at a carwash, but was laid off a month before trial when the carwash was closed for repairs. Appellant had no prior criminal record.\nDuring sentencing, the following colloquy occurred:\n\u201cTHE COURT: Can I see the Indictment, please.\n[Whereupon, the Indictment was presented to the Court at this point.]\nTHE COURT: All right, does he have any prior record officer?\nTHE POLICE OFFICER: No, sir, no prior record.\nTHE COURT: All right, Mr. Haynes. [Defense counsel]\nMR. HAYNES: Mr. Riggins is here before you for sentencing. We do not wish to make any motions.\nAs was brought out at the trial, he is twenty-one years old. He is married. He is not currently working because of the place he was employed at had to undergo repairs.\nOther than that, I have nothing to add.\nTHE COURT: Now, I don\u2019t suppose you knew this, Mr. Riggins, but this offense that you have been convicted of calls' for a maximum sentence of fifteen years in the Penitentiary and a fine up to Two Hundred and Fifty Thousand Dollars [$250,000.00].\nMR. HAYNES: Your Honor, excuse me; I thought it was a maximum sentence of five years. I may be wrong on that.\nTHE COURT: He is indicted under Section 30. It is a felony.\nNow, this is classified under Classification Number One.\nMR. HAYNES: I don\u2019t have a copy of the Act in front of me.\nTHE COURT: Well, you can look at mine, if you wish. I didn\u2019t tell the Defendant that I am going to give him fifteen years. I have no intention of it.\nMR. HAYNES: Your Honor, I was under the impression that for sale it is the maximum sentence of fifteen years and a maximum fine of Two Hundred and Fifty Thousand Dollars [$250,000.00].\nTHE COURT: Yes.\nMR. HAYNES: And for this offense I was under the impression that the maximum sentence was five years in jail.\nTHE COURT: But he is charged under Section 30 which is the Manufacture, Delivery and Possession with Intent to Manufacture or Deliver a Controlled Substance.\nYou. say that the only question is whether this is classified as a narcotic drug, and Schedule One includes marijuana. Of course, Schedule One includes opium and any derivatives of it.\nMR. HAYNES: Yes, sir, I know that marijuana appears in Schedule One.\nTHE COURT: It is set out alone.\nAll right, he has been indicted and found guilty of Section 30.\nAll right, I am going to sentence him under Section 30[(f)(2)].\nThe sentence of the Court is that you pay to the Commonwealth for the use of the County a fine of One Hundred Dollars [$100.00], pay the costs of prosecution and undergo imprisonment in the State Correctional Institution at Huntingdon for a period of not less than two nor more than five years.\nStand committed.\u201d\nII\nAppellant asserts that his sentence should be vacated and the case remanded for resentencing because the trial court did not state its reasons on the record for the imposition of its sentence. We agree. When a trial court imposes judgment of sentence, its reasons for the imposition of. sentence should appear on the record.\nA. Pennsylvania has a system of indeterminate sentencing, which carries with it \u201can implicit adoption of the philosophy of individual sentencing.\u201d Commonwealth v. Martin, 466 Pa. 118, 351 A.2d 650 (1976). This system of indeterminate sentencing \u201cnecessitates the granting of broad discretion to the trial judge, who must determine, among the sentencing alternatives and the range of permis.sible penalties, the proper sentence to be imposed.\u201d Id. 466 Pa. at 130, 351 A.2d at 656. The exercise of this discretion is \u201cone of the most important, and most easily abused powers vested in the trial court.\u201d Id. 466 Pa. at 131, 351 A.2d at 657. Traditionally, appellate courts have left sentences undisturbed on appeal because of the view that the trial court is in a far better position to weigh the factors involved in sentencing determinations. Commonwealth v. Martin, 466 Pa. at 129, 351 A.2d at 656; Coburn, Disparity in Sentences and Appellate Review of Sentencing, 25 Rutgers L.Rev. 207, 218 (1971).\n\u201cWe have . . . granted the sentencer almost totally unlimited, unstructured and unreviewable discretion to impose punishment after conviction.\u201d\nBerger, Reducing Sentencing Disparity: Structured Discretion and the Sentencing Judge, 32 J.Miss.B. 414, 415 (1976).\nThis \u201cunlimited, unstructured and unreviewable discretion\u201d has been the focus of much critical commentary of our criminal justice system.\nThe sentencing decision is of enormous consequence. It is the culmination of an elaborate and complicated system of procedural and substantive law whose ultimate rationale is the efficient and reliable identification of persons who have committed criminal harms. At the sentencing stage, the decision must finally be made as to what sanction should be. imposed, a decision whose total social impact is equalled only by its import to the individual, whose life and liberty are at stake. The American Bar Association, Project on Minimum Standards for Criminal Justice, Standards Relating to Sentencing Alternatives and Procedures (Approved Draft, 1968) notes quite accurately the very delicate balance required in sentencing:\n\u201cThe consequences of a sentence are of' the highest order. If too short or of the wrong type, it can deprive the law of its effectiveness and result in the premature release of a dangerous criminal. If too severe or impropT erly conceived, it can reinforce' the criminal tendencies of the defendant and lead to a new offense by one who otherwise might not have offended so seriously again. . .. .A sentence which is not in some fashion limited in accordance with the particular offense can lead to a system of incomparable brutality. Per contra, a sentence or pattern of sentences which fails to take due account of the gravity of the offense can seriously undermine respect for law.\u201d\nThe American Bar Association has noted that the absence of standards for determining the proper sentence to impose is particularly discordant in a system that is otherwise committed to the rule of law:\n\u201cAmong the ironies of the law, there are many surrounding the manner in which sentences are imposed in the majority of our jurisdictions. One of the most striking involves a comparison of the methods for determining guilt and the methods for determining sentence. The guilt-determining process is hedged in with many rules of evidence; with many tight procedural rules, and, most importantly for present purposes, with a carefully structured system of appellate review designed to ferret out the slightest error. Yet in the vast majority of criminal convictions in this country \u2014 90% in some jurisdictions; 70% in others \u2014 the issue of guilt alone is not disputed.\nWhat is disputed and, in many more than the guilty-plea cases alone, what is the only real issue at stake, is the question of the appropriate punishment. But by comparison to the care with which the less-frequent problem of guilt is resolved, the protections in most jurisdictions surrounding the determination of sentence are indeed miniscule. . . . It is not an overstatement to say of these jurisdictions that in no other area of our law does one man exercise such unrestricted power.\u201d\nAmerican Bar Association Project on Minimum Standards for Criminal Justice, Standards Relating to Appellate Review of Sentences, Introduction at 1-2 (Approved Draft, 1968); see McGautha v. California, 402 U.S. 183, 252-87, 91 S.Ct. 1454, 1489-1508, 28 L.Ed.2d 711 (1971) (Brennan, J., dissenting).\nAppellant maintains that requiring the trial court to state its reasons for the imposition of sentence will help rationalize the sentencing process. In certain contexts, courts have recognized the value of requiring a statement of reasons for the imposition of a particular sentence to prevent improper considerations from affecting the sentence imposed. In North Carolina v. Pearce, 395 U.S. 711, 89 S.Ct. 2072, 23 L.Ed.2d 656 (1969), the defendant received an increased sentence following a new trial. He then alleged that the increased sentence violated due process because it penalized him for attempting to vindicate his constitutional rights which were violated in his first trial. The United States Supreme Court reasoned that due process does not permit vindictiveness against a defendant who has successfully attacked his conviction to play a part in the sentence he receives after a new trial. The Court recognized that fear of such vindictiveness may unconstitutionally deter a defendant from attacking his first conviction. The Court therefore held that:\n\u201cIn order to assure that absence of such a motivation, we have concluded that whenever a judge imposes a more severe sentence upon a defendant after a new trial, the reasons for his doing so must affirmatively appear. Those reasons must be based upon objective information concerning identifiable conduct on the part of the defendant occurring after the time of the original sentencing proceeding. And the factual data upon which the increased sentence is based must be made part of the record, so that the constitutional legitimacy of the increased sentence may be fully reviewed on appeal.\u201d\nId. at 725-26, 89 S.Ct. at 2080-81; accord, Commonwealth v. Allen, 443 Pa. 96, 277 A.2d 803 (1971).\nCourts have also been required to articulate reasons for the imposition of sentence when the original sentence may have been based upon:\n\u201c(1) misinformation of constitutional magnitude, such as an inaccurate criminal record, Townsend v. Burke, 334 U.S. 736, 741, 68 S.Ct. 1252, 92 L.Ed. 1690 (1948), (2) a record comprising prior unconstitutional convictions, e.g. United States v. Tucker, 404 U.S. 443, 92 S.Ct. 589, 30 L.Ed.2d 592 (1972), (3) the effect of a simultaneous sentence and conviction upon a more serious count of the indictment, which was later invalidated, McGee v. United States, 462 F.2d 243 (2d Cir. 1972), or (4) failure of the court to receive and consider mitigating circumstances, United States v. Malcolm, 432 F.2d 809, 818 (2d Cir. 1970).\u201d\nUnited States v. Brown, 479 F.2d 1170, 1173 (2d Cir. 1973).\nJudges, lawyers, scholars and other observers of the criminal justice system, have recognized the problem of unfettered judicial discretion in the sentencing process, and have almost uniformly called for the requirement that a trial court articulate the reasons for its sentence. E.g., K. Davis, Discretionary Justice (1969); M. Frankel, Criminal Sentences, Law Without Order (1973); Bayley, Good Intentions Gone Awry \u2014 A Proposal for Fundamental Change in Criminal Sentencing, 51 Wash.L.Rev. 529 (1976); Berger, Reducing Sentencing Disparity: Structured Discretion and the Sentencing Judge, 32 J.Miss.B. 414 (1976); Berger, Equal Protection and Criminal Sentencing: Legal and Policy Considerations, 71 Nw.Univ.L.Rev. 29 (1976); Berkowitz, The Constitutional Requirement for a Written Statement of Reasons and Facts in Support of the Sentencing Decision: A Due Process Proposal, 60 Iowa L.Rev. 205 (1974); Coburn, Disparity in Sentences and Appellate Review of Sentencing, 25 Rutgers L.Rev. 207 (1971); Frankel, Lawlessness in Sentencing, 41 Univ.Cinn.L.Rev. 1 (1972); Horowitz, Improving the Criminal Justice System: The Need for a Commitment, 51 Wash.L.Rev. 607 (1976); Kutak and Gottschalk, In Search of a Rational Sentence: A Return to the Concept of Appellate Review, 53 Nebraska L.Rev. 463 (1974); Wyzanski, A Trial Judge\u2019s Freedom and Responsibility, 65 Harv.L.Rev. 1281 (1952); Comment, Criminal Sentencing: An Overview of Procedures and Alternatives, 45 Miss.LJ. 782 (1974); Comment, Appellate Review of Sentences: A Survey, 17 St. Louis Univ.LJ. 221 (1972); Comment, Sentencing Study, 52 Wash.L.Rev. 103 (1976); Comment, Appellate Review of Primary Sentencing Decisions: A Connecticut Case Study, 69 Yale L.J. 1453 (1960); Note, Appellate Review of Sentences and the Need for a Reviewable Record, 1973 Duke L.J. 1357 (1973); Note, Toward Lawfulness in Sentencing: Thank You Professor Dworkin, 5 Rutgers-Camden L.Rev. 80 (1973); Note, Criminal Law \u2014 Authority and Scope of Appellate Review of Criminal Sentences Within the Statutorily Prescribed Maximum, 22 Univ.Kansas L.Rev. 606 (1974).\nIn addition, the American Bar Association, the National Advisory Commission, and the Model Sentencing Code all support the requirement that a trial court articulate the reasons for its sentence.\nThe benefits of requiring the trial court to state its reasons for the imposition of its sentence are manifold: First, requiring the trial court to articulate its reasons for selecting a sentence will promote more thoughtful consideration of relevant factors and will help rationalize the sentencing process. It will safeguard against arbitrary decisions and prevent consideration of improper and irrelevant factors. It will minimize the risk of reliance upon inaccurate information contained in the presentence report. A statement of reasons may aid correction authorities if the sentence results in a commitment, and may have therapeutic value if the sentencing judge explains his or her reasons to the defendant. Requiring a trial court to provide a reasoned basis for the sentence imposed may enhance the court\u2019s legitimacy as perceived by judges themselves and participants in the criminal justice system. It will aid courts in attaining their institutional objective of dispensing equal and impartial justice and will demonstrate to society that these goals are being met. Reasoned sentencing decisions may encourage the development of sentencing criteria and reduce disparity in sentences \u2014 decreasing the number of unusually lenient as well as unusually harsh sentences. Finally, a statement of reasons will be invaluable in aiding appellate courts to ascertain whether the sentence imposed was based upon accurate, sufficient and proper information.\nCritics of the requirement that a trial court articulate the reasons for its sentence assert that sentencing is not amenable to structured decision making and that requiring a statement of reasons will be an unwarranted burden upon the trial court. We are convinced that these arguments are without merit:\n\u201cTwo major arguments have been advanced in support of the general rule that . . . judges need not justify their sentences. One is that sentencing is not amenable to structured decision-making: \u2018Frequently, the decision will rest on the application of unarticulated principles and factors lying at the threshold of-the conscious.\u2019 [United States v. Schipani, 315 F.Supp. 253, 259 (E.D.N.Y.), aff\u2019d 435 F.2d 26 (2d Cir. 1970), cert. denied, 401 U.S. 983, 91 S.Ct. 1198, 28 L.Ed.2d 334 (1971)]. Presumably, those \u2018unarticulated principles\u2019 have to do with the ultimate goals of rehabilitation, deterrence, and punishment. Although it has been argued that trial and appellate courts should more closely analyze sentences as possible means of attaining those goals, it should be noted that certain less cosmic \u2018reaso\u00f1s\u2019 for severe sentences have been designated as improper. For example, the fact that the defendant stood trial or refused to admit his guilt should in most jurisdictions be irrelevant to the sentencing decision. Such reasons now become part of the record only if the sentencing judge is unusually frank or if he blunders. To say that recorded reasons will not necessarily be honest overlooks the potentially benign, standardizing effect of appellate instruction as to proper reasoning in sentencing.\nThe other principal argument for the present system is that the recording of sentence justification would place a useless burden on the . . . judge\u2019s time. But the importance of reasoned sentencing clearly warrants the burden.\n[W]e apply [the requirement that decisions be justified] . to affairs of clearly less consequence, yet we place no burden of explanation upon the judge who decides that the defendant before him must be locked up for ten years rather than five or one.\u201d\nNote, Appellate Review of Sentences and the Need for a Reviewable Record, 1973 Duke L.J. 1357, 1375 (1973).\n. As Judge Friendly noted in McGee v. United States, 462 F.2d 243, 247 (2d Cir. 1972):\n\u201cCourts, which have so rightly imposed a requirement of the statement of reasons on local draft boards . and on administrative agencies . . . are not exempt from this duty in appropriate circumstances.\u201d (citations omitted)\nAfter evaluating the various arguments, we are persuaded that the sentencing process will be improved by requiring a trial court to state, on the record, the reasons for the sentence imposed. Such a procedure is consistent with our Rules of Appellate Procedure which provide:\n\u201cUpon receipt of the notice of appeal the judge who entered the order appealed from, if the reasons for the order do not already appear of record, shall forthwith file of record at least a brief statement, in the form of an opinion, of the reasons for the order for the rulings or other matters complained of, or shall specify in writing the place in the r\u00e9cord where such reasons may be found.\u201d\nPa.R.A.P. 1925.\nThe Legislature, in recognizing the need for sentencing guidelines, has enacted the Sentencing Code. Section 1321(a) of the Code provides for five possible dispositions-probation, guilt without further penalty, partial confinement, total confinement, and a fine. The Legislature has adopted the following basic policy to guide the trial court in imposing sentence: \u201c[T]he sentence imposed should call for the minimum amount of confinement that is consistent with the protection of the public, the gravity of the offense, and the rehabilitative need of the defendant.\u201d The Legislature has also enumerated specific factors which the trial court should consider in determining which of the five possible dispositions is appropriate for a particular defendant. These factors provide the sentencing court with guidelines for the articulation of the reasons for its sentencing decision. Absent a statement of reasons, the record will not reveal whether the legislatively mandated factors have been considered.\nB. Now that a trial court is to articulate the reasons for its sentence, it follows that a defendant who seeks to challenge the propriety of his or her sentence should first present his or her claim to the trial court. This practice will afford the trial court an opportunity to reconsider its sentence and will give an appellate court the benefit of the trial court\u2019s views. See Commonwealth v. Clair, 458 Pa. 418, 326 A.2d 272 (1974). We request the Criminal Procedural Rules Committee to prepare a recommendation for the Court which provides rules of procedure consistent with this opinion. See Commonwealth v. Martin, 466 Pa. 118, 135, 351 A.2d 650, 659 (1976); Commonwealth v. Milliken, 450 Pa. 310, 300 A.2d 78 (1973); Commonwealth v. Hamilton, 449 Pa. 297, 297 A.2d 127 (1972).\nIll\nAppellant received a sentence of two to five years imprisonment, was fined $100 and ordered to pay the costs of prosecution. Although the trial court did not order a presentence report, the record reveals that appellant was 21 years old, married and the father of three small children. He was laid off from his job approximately one month before his trial because his place of employment was closed for repairs. Appellant had no prior criminal record. The trial court imposed the maximum sentence for conviction of possession of marijuana with intent to deliver. However, no reasons appear on the record supporting the imposition of this sentence. Pursuant to Pa.R.A.P. 1925, we vacate the judgment of sentence and remand the case to afford the trial court an opportunity to resentence appellant and to include a statement of reasons for the sentence imposed.\nJudgment of sentence vacated and the case remanded for resentencing.\nMANDERINO, J., joins this opinion and files a concurring opinion.\nPOMEROY, J., files a concurring and dissenting opinion.\nEAGEN, C. J., and NIX, J., concur in the result.\nPOMEROY, Justice,\nconcurring and dissenting.\nI fully agree with the decision of the Court that the time has come when we should require that a trial court, when it imposes judgment of sentence, place on the record its reasons for the imposition of the particular sentence chosen. The multiple reasons for such a practice and the benefits which should accrue from it are cogently catalogued by Mr. Justice ROBERTS in his plurality opinion. Accordingly, I join in the request that the Criminal Procedural Rules Committee prepare a recommendation to this Court setting forth the procedures for implementing such a requirement. In doing so, I express the hope that this new departure does not signal a general expansion of the limited scope of appellate review of sentences which has heretofore prevailed in this jurisdiction.\nI cannot agree, however, with what I understand to be the disposition of the instant case. One of the issues raised by appellant, and the issue upon which the Superior Court divided, is the excessiveness of the sentence received by appellant. The trial court did not give a statement of reasons at the time of sentencing, nor, when the appeal was taken, did it comply with Rule 1925(a) of the Rules of Appellate Procedure. As a result the present record contains insufficient information upon which to resolve the issue of whether appellant\u2019s sentence was excessive. This being the case, the proper procedure is to remand the case to the trial court with directions that it comply with the mandate of Pa.R.A.P. 1925(a). See Commonwealth v. Whitest, 458 Pa. 26, 326 A.2d 398 (1974); see also Commonwealth v. Garramone, 307 Pa. 507, 514, 161 A. 733, 735 (1932). Both parties to this appeal, of course, would be allowed to file new or supplemental briefs following the trial court\u2019s compliance with our order.\nRather than follow the procedure outlined above, however, the Court has chosen, in the words of the plurality opinion, to \u201cvacate the judgment of sentence and remand the case to afford the trial court an opportunity to resentence appellant and to include a statement of reasons for the sentence imposed.\u201d Opinion of the Court, ante at 151. At this point, however, I see no reason to suggest to the trial court that it might wish to resentence appellant. Undoubtedly the trial court believed that the sentence it imposed was proper, and the only issue now is whether it was correct in its belief. Moreover, by vacating the judgment of sentence and remanding for resentencing it appears that the Court is either deciding sub silentio that appellant\u2019s sentence was indeed excessive, or is giving this appellant the benefit of a totally prospective ruling. See note 1, supra. In my view, either result would be improper. Accordingly, I dissent from the Court\u2019s disposition of this case.\n. Controlled Substance, Drug, Device and Cosmetic Act, Act of April 14, 1972, P.L. 233, \u00a7 13, as amended, 35 P.S. \u00a7 780-113(a)(30) (Supp.1977).\n. We hear this appeal pursuant to the Appellate Court Jurisdiction Act, Act of July 31, 1970, P.L. 673, art. II, \u00a7 204(a), 17 P.S. \u00a7 211.204(a) (Supp.1977).\n. Because we vacate the judgment of sentence and remand for resentencing, we need not reach appellant\u2019s claims that (1) appellate courts. should review sentences even if the sentence imposed is within statutory limits; (2) the proper standard of review of a sentence should be \u201cas the [appellate court] may think to be just;\u201d and (3) the sentence of two to five years imprisonment imposed here was manifestly excessive.\n. In Commonwealth v. Martin, 466 Pa. 118, 351 A.2d 650 (1976), this Court directed the Criminal Procedural Rules Committee to amend Pa.R.Crim.P. 1403 to require that, whenever a. sentencing court fails to order a presentence report where (1) incarceration for one year or more is a possible disposition; (2) the defendant is less than twenty-one years old; or (3) the defendant is a first offender, it must place in the record its reasons for dispensing with such a report. Id. 466 Pa. at 135, 351 A.2d at 659. See Pa.R.Crim.P. 1403.\n. Section 13(a)(30) of the Controlled Substance, Drug, Device and Cosmetic Act proscribes the following:\n\u201c[T]he manufacture, delivery, or possession with intent to manufacture or deliver, a controlled substance by a person not registered under this act . . .\u201d\nSection 13(f) of the Controlled Substance, Drug, Device and Cosmetic Act provides:\n\u201cAny person who violates clause (30) of subsection (a) with respect to: (1) A controlled substance . . classified in Schedule I . which is a narcotic drug, is guilty of a felony and upon conviction thereof shall be sentenced to imprisonment not exceeding fifteen years or to pay a fine not exceeding two hundred fifty thousand dollars ($250,000), or both or such larger amount as is sufficient to exhaust the assets utilized in and the profits obtained from the illegal activity.\u201d 35 P.S. \u00a7 780-113(f)(1) (Supp.1977). The trial court was incorrect in stating that the maximum penalty\nfor a conviction of possession of marijuana with intent to deliver is fifteen years and a fine of $250,000. Section 13(f) which authorizes a fifteen year sentence and a $250,000 fine, refers to \u201c[a] controlled substance . . classified in Schedule I . . . which is a narcotic drug . . . .\u201d 35 P.S. \u00a7 789 113(f)(1) (Supp.1977). Although marijuana appears in Schedule I, it is not included as a \u201cnarcotic drug.\u201d \u201cNarcotic\u201d is defined in the Act as \u201c(i) opium, (ii) any opiate . . . , (iii) any . . preparation of opium or any opiate, and (iv) any substances referred to in (i), (ii) or (iii).\u201d 35 P.S. \u00a7 789 102(b) (Supp.1977). \u201cMarijuana\u201d is defined as \u201call parts of the plant Cannabis sativa L.\u201d Id. Marijuana is not an opiate. The possible sentence for possession of marijuana with intent to deliver is contained in 35 P.S. \u00a7 789-113(f)(2):\n\u201cAny person who violates . . . clause (30) of subsection (a) with respect to:\n\u201c(2) Any other controlled substance . . . classified in Schedule I ... is guilty of a felony and upon conviction thereof shall be sentenced to imprisonment not exceeding five years, or to pay a fine not exceeding fifteen thousand dollars ($15,000), or both.\u201d\nThe trial court may have realized its error when it stated that it was sentencing appellant pursuant to section (30)(f)(2). We cannot presume that the court recognized its mistake, however, because no reasons appear in the record supporting the court\u2019s imposition of the maximum sentence and the court never acknowledged its error in stating that the maximum sentence was fifteen years and $250,000.\n. The Act of June 19, 1911, P.L. 1055, \u00a7 6, as amended, 19 P.S. \u00a7 1057 (1964), provides in pertinent part:\n\u201cWhenever any person, convicted in any court of this Commonwealth of any crime punishable by imprisonment in a State penitentiary, shall be sentenced to imprisonment therefor in any penitentiary or other institution of this State, or in any county or municipal institution, the court, instead of pronouncing upon such convict a definite or fixed term of imprisonment, shall pronounce upon such convict a sentence of imprisonment for an indefinite term: Stating in such sentence the minimum and maximum limits thereof; and the maximum limit shall never exceed the maximum time now or hereafter prescribed as a penalty for such offense; and the minimum limit shall never exceed one-half of the maximum sentence prescribed by any court.\u201d\nSee generally, Commonwealth v. Martin, 466 Pa. 118, 129-132, 351 A.2d 650, 656-57 (1976).\nIndeterminate sentencing has been the subject of much criticism on the grounds that it is inherently unfair. Se\u00e9, e.g., Struggle for Justice: A Report on Crime and Punishment in America, Prepared for the American Friends Service Committee, 147-48 (1971); Dershowitz, Indeterminate Confinement: Letting the Therapy Fit the Harm, 123 Univ.Pa.L.Rev. 297 (1974); Frankel, Lawlessness in Sentencing, 41 Univ.Cin.L.Rev. 1 (1972).\n. See, e. g., Commonwealth v. Lee, 450 Pa. 152, 299 A.2d 640 (1973); Commonwealth v. Wrona, 442 Pa. 201, 275 A.2d 78 (1971); Commonwealth v. Marks, 442 Pa. 208, 275 A.2d 81 (1971); Commonwealth v. Givens, 363 Pa. 141, 69 A.2d 142 (1949); Commonwealth v. Davis, 203 Pa.Super. 79, 198 A.2d 649 (1964); see generally, Pennsylvania Bar Association and Pennsylvania Conference of State Trial Judges, Appellate Review of Sentences 16-12 (1976).\n. Presently, \u201c[t]he power of judges to sentence is one of the best examples of unstructured discretionary power that can and should be structured.\u201d K. Davis, Discretionary Justice 133 (1969).\n. Commentators have recognized that one of the reasons that appellate courts have been reluctant to review the broad discretion vested in trial courts is that appellate courts do not have access to a meaningful record. Often no record is made of the sentencing proceedings, and the presentence report is not included. See, e. g., Note, Appellate Review of Sentences and the Need for a Reviewable Record, 1973 Duke L.J. 1357 (1973).\n. See, e. g., K. Davis, Discretionary Justice (1969); Frankel, Criminal Sentences, Law Without Order (1973); American Bar Association Project on Minimum Standards for Criminal Justice, Standards Relating to Appellate Review of Sentences (Approved Draft, 1968); Baylay, Good Intentions Gone Awry \u2014 A Proposal for Fundamental Change in Criminal Sentencing, 51 Wash.L.Rev. 529 (1976); Berkowitz, The Constitutional Requirement for a Written Statement of Reasons and Facts in Support of the Sentencing Decision: A Due Process Proposal, 60 Iowa L.Rev. 205 (1974); Frankel, Lawlessness in Sentencing, 41 Univ.Cin.L.Rev. 1 (1972); Horowitz, Improving the Criminal Justice System: The Need for a Commitment, 51 Wash.L. Rev. 607 (1976).\n. Mr. Justice Stewart, while a judge on the Sixth Circuit Court of Appeals, observed:\n\u201cJustice is measured in many ways, but to a convicted criminal its surest measure lies in the fairness of the sentence he receives. It is an anomaly that a judicial system which has developed so scrupulous a concern for the protection of a criminal defendant throughout every other stage of the proceedings against him should have so neglected this most important dimension of fundamental justice.\u201d\nShepard v. United States, 257 F.2d 293, 294 (6th Cir. 1958).\n. It is clear, however, that the sentencing process is subject to the due process clause. In Gardner v. Florida, 430 U.S. 349, 358, 97 S.Ct. 1197, 1205, 51 L.Ed.2d 393 (1977) (plurality opinion), Mr. Justice Stevens noted:\n\u201c[I]t is now clear that the sentencing process, as well as the trial itself, must satisfy the requirements of the Due Process Clause. Even though the defendant has no substantive right to a particular sentence within the range authorized by statute, the sentencing is a critical stage of the criminal proceeding at which he is entitled to the effective assistance of counsel. The defendant has a legitimate interest in the character of the procedure which leads to the imposition of sentence . . . . (citations omitted)\nMr. Justice Stevens went on to note that while due process applies, it \u201cdoes not implicate the entire panoply of criminal trial procedural rights.\u201d Id. See generally Morrissey v. Brewer, 408 U.S. 471, 481, 92 S.Ct. 2593, 2600, 33 L.Ed.2d 484 (1972).\n. Section 2.3(c) of the American Bar Association Project on Minimum Standards for Criminal Justice, Standards Relating to Appellate Review of Sentences (Approved Draft, 1968) provides:\n\u201cThe sentencing judge should be required in every case to state his reasons for selecting the particular sentence proposed.\u201d\n. The National Advisory Commission has adopted the following standards:\n\u201cSentencing Court immediately should adopt the policy and practice of basing all sentencing decisions on an official record of the sentencing hearing. The record should be similar in form to the trial record but in any event should include the following:\n\u201c2. Specific findings by the court on all controversial issues of fact and on all factual questions required as a prerequisite to the selection of the sentence imposed.\u201d\n\u201c3. The reasons for selecting the particular sentence imposed.\u201d\n. Section 10 of the Model Sentencing Act provides:\n\u201cThe sentencing judge shall, in addition to making the findings of fact required by this Act, make a brief statement of the reasons for the sentence he imposes.\u201d Model Sentencing Act, 9 Crime and Delinquency 339 (1973), quoted in K. Davis, Discretionary Justice 137 (1969).\n. The Court of Appeals for the Second Circuit has ably summarized the benefits of requiring a statement of reasons:\n\u201c[It] would be a \u2018powerful safeguard against rash and arbitrary decisions\u2019 at this crucial stage of the criminal process where the defendant\u2019s liberty is at stake. M. Frankel, Criminal Sentences\u2014 Law Without Order 41 (Hill end Wang 1972). It would serve \u2018to promote thought by the decider, to compel him to cover the relevant points, to help him eschew irrelevancies \u2014 and, finally, to make him show that these necessities have been served.\u2019 Id. at 40. It would also promote fairness by minimizing the risk that the sentencing court might rely on misinformation or on inaccuracies in the presentence report. See United States v. Needles, 472 F.2d 652 (2d Cir. 1973). If a misapprehension on the court\u2019s part occurs, the defendant and his counsel would then have the opportunity to answer and explain, pointing out the error. A sphinx-like silence on the court\u2019s part precludes anyone (including the parties, the judge and an appellate tribunal) from learning whether he acted in error. Furthermore, a statement of reasons by the court could prove to be of considerable assistance to prison and parole authorities in later determining the type of institution in which the defendant should be incarcerated and the time and conditions of parole.\u201d\nUnited States v. Brown, 479 F.2d 1170, 1172-73 (1973); see United States v. Velasquez, 482 F.2d 139, 142 (2d Cir. 1973).\n. \u201cEminent and wise judges have warned me against . . . [requiring a statement of reasons]. Our judgment, they say, is better than our reasons. And, it is vain to attempt to explain the exact proportions attributable to our interest in punishment, retribution, reform, deterrence, even vengeance. But are these arguments valid? For there is a grave danger that a sentencing judge will allow his emotions or other transient factors to sway him. The strongest safeguard is for him to act only after formulating a statement of the considerations which he allows himself to take into account.\u201d\nWyzanski, A Trial Judge\u2019s Freedom and Responsibility, 65 Harv.L. Rev. 1281, 1292 (1952).\n. Berkowitz, The Constitutional Requirement For a Written Statement of Reasons and Facts in Support of the Sentencing Decision: A Due Process Proposal, 60 Iowa L.Rev. 205, 212 (1974).\n. Berkowitz, The Constitutional Requirement For a Written Statement of Reasons and Facts in Support of the Sentencing Decision: A Due Process Proposal, 60 Iowa L.Rev. 205, 208 (1974) (\u201c[I]f the criminal justice system punishes in a fair and impartial manner, there will be less likelihood of the criminal\u2019s resentment and therefore greater likelihood of his rehabilitation.\u201d); Coburn, Disparity in Sentences and Appellate Review of Sentencing, 25 Rutgers L.Rev. 207, 217 (1971) (\u201c \u2018Sentencing\u2019 opinions would stimulate the process of rehabilitating the particular defendant and thereby, hopefully, bring about a significant dimunition in the tremendous social and financial costs of the present system.\u201d); Menninger and Menninger, The Senselessness of Sentencing, 14 Washburn L.J. 241, 243 (1975) (\u201c[Ujnless it is explained and justified ... [a sentence] is a source of resentment on the part of the incarcerated offenders and the public.\u201d).\n. \u201cWhen judges regard their decisions as controlled by principles and standards, and not by their subjective preference, impersonality and impartiality in the application of(! the law, which underlies the legitimacy of courts ... is maintained. Erosion in the judges\u2019 minds of the concept of judicial subordination to controlling principles therefore undermines the courts\u2019 self-respect, the respect of the bar and academe, and ultimately society\u2019s acceptance of the authority of the courts. Reflecting, perhaps, the uneasiness felt generally by the bench, some of the most eloquent criticism of judicial discretion in sentencing has been penned by judges themselves.\u201d\nBerkowitz, The Constitutional Requirement for a Written Statement of Reasons and Facts in Support of the Sentencing Decision: A Due Process Proposal, 60 Iowa L.Rev. 205, 209-10 (1974).\n. In McCleary v. State, 49 Wis.2d 263, 182 N.W.2d 512 (1971), the Wisconsin Supreme Court adopted the requirement that a trial court must articulate its reasons at the time the sentence is imposed.\n\u201cIn all Anglo-American jurisprudence a principal obligation of the judge is to explain the reasons for his actions. His decisions will not be understood by the people and cannot be reviewed by the appellate courts unless the reasons for decisions can be examined. It is thus apparent that requisite to a prima facie valid sentence is a statement by the trial judge detailing his reasons for selecting the particular sentence imposed.\u201d\nId. at 280, 182 N.W.2d at 521.\n. \u201cOne major reason our legal system has failed to produce meaningful guides for sentencing is the absence of a satisfactory system of reasoned opinions and precedents.\u201d K. Davis, Discretionary Justice at 140 (1969).\n. Disparity in sentencing is one of the most criticized aspects of the sentencing process. Requiring trial courts to articulate their reasons in selecting a particular sentence, may substantially contribute to uniformity in sentences. See Cobum, Disparity in Sentences and Appellate Review of Sentencing, 25 Rutgers L.Rev. 207 (1971). But see Rubin, Disparity and Equality of Sentences \u2014 A Constitutional Challenge, 40 F.R.D. 55 (1966).\n. \u201c[A] sentence should be tailored to fit the criminal and ... a defendant should not be prejudiced by the sentencing judges\u2019 consideration of constitutionally invalid or erroneous information. Appellate courts cannot make a sound and informed decision as to whether the above standards have been met without requiring a sentencing judge to reveal in some way his rationale for imposing a particular sentence.\u201d\nNote, Criminal Law-Authority and Scope of Appellate Review of Criminal Sentences Within the Statutorily Prescribed Maximum, 22 Univ.Kan.L.Rev. 606, 617 (1974); accord, Kutak and Gottschalk, In Search of a Rational Sentence: A Return to the Concept of Appellate Review, 53 Nebraska L.Rev. 463, 499 (1974).\nIt should be noted that in those jurisdictions which have adopted appellate review of sentences, the \u201cavailability of sentence review has actually precipitated a general decrease in the number of overall appeals in criminal cases.\u201d Cobum, Disparity in Sentences and Appellate Review of Sentencing, 25 Rutgers L.Rev. 207, 218 (1971). (emphasis in original)\n. This Court has previously recognized the value of requiring trial courts to state their reasons on the record. In Commonwealth v. Garramone, 307 Pa. 507, 161 A. 733 (1932), the trial court sentenced the defendant to death immediately after the trial \u201cwithout argument of counsel on either side.\u201d This Court stated:\n\u201cWe are all of the opinion that the gravity of and duty to be performed in such cases requires that the judge who hears the evidence on a plea of guilty should at least make and file a brief memorandum which will reveal the reasons for the sentence imposed. That procedure will not only facilitate review to determine whether the legislative mandate had been complied with, but will also make it unnecessary for this court to return the record for a written opinion pursuant to rule 58.\u201d\nId. 307 Pa. at 514, 161 A. at 735.\nWithout a statement of reasons on the record, it is difficult to perceive how an appellate court can discern whether the trial court has exercised its discretion \u201cwithin certain procedural limits including the consideration of sufficient and accurate information.\u201d Commonwealth v. Martin, 466 Pa. at 131, 351 A.2d at 657.\nMoreover, in Martin, this Court vacated the sentences because the trial court failed to give individualized consideration to the defendants prior to imposing sentence. We noted that \u201c[n]o meaningful inquiry was made into . [defendants\u2019] backgrounds, individual characteristics, relative culpability or prospects for rehabilitation . . . .\u201d Id. 466 Pa. at 127, 351 A.2d at 655. This Court held that a trial court must at least consider the particular circumstances of the offense and the character of the defendant before imposing sentence. Absent a statement of reasons, this Court will not be able to ensure that trial courts comply with the requirements of Pennsylvania\u2019s system of individualized sentencing.\n. 18 Pa.C.S.A. \u00a7\u00a7 1301 et seq. (Supp.1977).\n. Id. \u00a7 1321(a).\n. Id. \u00a7 1321(b).\n. \u00a7 1322. Order of probation\nThe following grounds, while not controlling the discretion of the court, shall be accorded weight in favor of an order of probation:\n(1) The criminal conduct of the defendant neither caused nor threatened serious harm.\n(2) The defendant did not contemplate that his conduct would cause or threaten serious harm.\n(3) The defendant acted under a strong provocation.\n(4) There were substantial grounds tending to excuse or justify the criminal conduct of the defendant, though failing to establish a defense.\n(5) The victim of the criminal conduct of the defendant induced or facilitated its commission.\n(6) The defendant has compensated or will compensate the victim of his criminal conduct for the damage or injury that he sustained.\n(7) The defendant has no history of prior delinquency or criminal activity or has led a law-abiding life for a substantial period of time before the commission of the present crime.\n(8) The criminal contract of the defendant was the result of circumstances unlikely, to recur.\n(9) The character and attitudes of the defendant indicate that he is unlikely to commit another crime. (10) The defendant is particularly likely to respond affirmatively to probationary treatment.\n(11) The confinement of the defendant would entail excessive hardship to him or his dependents.\n(12) Such other grounds as indicate the desirability of probation. \u00a7 1323. Determination of guilt without further penalty\nIf in the light of all the circumstances, probation would be appropriate under section 1322 of this title (relating to order of probation), but it appears that probation is unnecessary, the court may impose a sentence of guilty without further penalty.\n\u00a7 1324. Partial confinement\nIf in the light of all the circumstances, and when facilities are available, probation would be inappropriate, but it further appears that a sentence of total confinement would not be required in accordance with the criteria established in section 1325 of this title (relating to total confinement), the court may impose a sentence involving partial confinement.\n\u00a7 1325. Total confinement\nThe court shall impose a sentence of total confinement if, having regard to the nature and circumstances of the crime and the history, character, and condition of the defendant, it is of the opinion that the total confinement of the defendant is necessary because:\n(1) there is undue risk that during a period of probation or partial confinement the defendant will commit another crime;\n(2) the defendant is in need of correctional treatment that can be provided most effectively by his commitment to an institution; or\n(3) a lesser sentence will depreciate the seriousness of the crime of the defendant.\n\u00a7 1326. Fine\n(a) Fine only. \u2014 The court may, as authorized by law, sentence the defendant only to pay a fine, when having regard to the nature and circumstances of the crime and to the history and character of the defendant, it is of the opinion that the fine alone suffices.\n(b) Fine as additional sentence. \u2014 The court may sentence the defendant to pay a fine in addition to another sentence, either involving total or partial confinement or probation, when:\n(1) the defendant has derived a pecuniary gain from the crime; or\n(2) the court is of the opinion that a fine is specially adapted to deterrence of the crime involved or to the correction of the defendant.\n(c) Exception. \u2014 The court shall not sentence a defendant to pay a fine unless it appears of record that:\n(1) the defendant is or will be able to pay the fine; and\n(2) the fine will not prevent the defendant from making restitution or reparation to the victim of the crime. (d) Financial resources. \u2014 In determining the amount and method of payment of a fine, the court shall take into account the financial resources of the defendant and the nature of the burden that its payment will impose.\n18 Pa.C.S.A. \u00a7\u00a7 1322-1326 (Supp.1977).\n. See note 4 infra.\n. This appeal highlights the necessity for a statement of reasons. The sentencing colloquy indicates that the trial court may have sentenced appellant under the misapprehension that the maximum sentence was fifteen years and a fine of $250,000. If so, the trial court may have thought that in light of the maximum sentence, the sentence imposed was reasonable. Moreover, this record does not contain sufficient information to determine whether the sentence imposed was proper or whether as three judges of the Superior Court found the sentence was \u201cmanifestly excessive.\u201d Commonwealth v. Riggins, 232 Pa.Super. 32, 36, 40, 40, 332 A.2d 521, 523, 525, 525 (1974) (dissenting opinion of Hoffman, J.) (dissenting opinion of Cercone, J.) (dissenting opinion of Spaeth, J.).\n. This holding, being founded upon the supervisory authority of this Court, is of course totally prospective and hence not applicable to the appellant in this case. See Commonwealth v. Milliken, 450 Pa. 310, 315, 300 A.2d 78, 81 (1973).\n. See, e.g., Commonwealth v. Williams, 456 Pa. 550, 317 A.2d 250 (1974); Commonwealth v. Hill, 453 Pa. 349, 310 A.2d 88 (1973); Commonwealth v. Lee, 450 Pa. 152, 299 A.2d 640 (1973); Commonwealth v. Person, 450 Pa. 1, 297 A.2d 460 (1972); Commonwealth v. Wrona, 442 Pa. 201, 275 A.2d 78 (1971); Commonwealth v. Zelnick, 202 Pa.Super. 129, 195 A.2d 171 (1963); Commonwealth v. Pouls, 198 Pa.Super. 595, 182 A.2d 261 (1962); Commonwealth v. Bilinski, 190 Pa.Super. 401, 154 A.2d 322 (1959).\n. Pa.R.A.P. 1925(a) provides as follows:\n\u201c(a) General rule. Upon receipt of the notice of appeal the judge who entered the order appealed from, if the reasons for the order do not already appear of record, shall forthwith file of record at least a brief statement, in the form of an opinion, of the reasons for the order, or for the rulings or other matters complained of, or shall specify in writing the place in the record where such reasons may be found.\u201d\n. I do not share Mr. Justice ROBERTS\u2019 concern that the trial judge, at the time sentence was imposed, might still have been laboring trader a misapprehension as to what penalty the offense of possessing marijuana with intent to deliver carried. See opinion of the Court, ante at pp. 142-143, n.5; p. 151, n.30. When the judge, after colloquy and looking at the pertinent provisions of the statute, announced that he would sentence the defendant under section 30(f)(2) of the Controlled Substance, Drug, Device and Cosmetic Act, 35 P.S. \u00a7 780-113(f)(2) (Supp.1977), the correct section, I see no reason to suppose that he meant anything different. Thus the legality of the sentence is not in issue, only its propriety.",
+        "type": "majority",
+        "author": "ROBERTS, Justice."
+      },
+      {
+        "text": "MANDERINO, Justice,\nconcurring.\nI join in the majority opinion of Mr. Justice Roberts. I add, however, that the appellant, who had no prior criminal record, has already suffered more punishment than can possibly be justified under the circumstances. On remand, the trial court should promptly order appellant discharged.",
+        "type": "concurrence",
+        "author": "MANDERINO, Justice,"
+      }
+    ],
+    "attorneys": [
+      "William C. Haynes, Asst. Public Defender, Arlene R. Pop-kin, Craig Currie, Philadelphia, for appellant.",
+      "D. Richard Eckman, Dist. Atty., James R. Leonard, Jr., Asst. Dist. Atty., Joe C. Madenspacher, Lancaster, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "377 A.2d 140\nCOMMONWEALTH of Pennsylvania v. Robert Clyde RIGGINS, Appellant.\nNo. 40.\nSupreme Court of Pennsylvania.\nArgued April 14, 1977.\nDecided Aug. 17, 1977.\nWilliam C. Haynes, Asst. Public Defender, Arlene R. Pop-kin, Craig Currie, Philadelphia, for appellant.\nD. Richard Eckman, Dist. Atty., James R. Leonard, Jr., Asst. Dist. Atty., Joe C. Madenspacher, Lancaster, for appellee.\nBefore EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0115-01",
+  "first_page_order": 167,
+  "last_page_order": 191
+}

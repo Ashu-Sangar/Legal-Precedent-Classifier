@@ -1,0 +1,120 @@
+{
+  "id": 3851852,
+  "name": "In re ADOPTION OF D.T.P. Petition of G.J.P.",
+  "name_abbreviation": "In re Adoption of D.T.P.",
+  "decision_date": "2006-12-20",
+  "docket_number": "Appeal No. 328 WAL 2006",
+  "first_page": "89",
+  "last_page": "90",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "590 Pa. 89"
+    },
+    {
+      "type": "parallel",
+      "cite": "912 A.2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "390 Pa.Super. 564",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        475900
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/390/0564-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 229",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357416,
+        940000
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0229-01",
+        "/pa-super/432/0286-01"
+      ]
+    },
+    {
+      "cite": "432 Pa.Super. 286",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        940000
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/432/0286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 95,
+    "char_count": 887,
+    "ocr_confidence": 0.634,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.11534784460406765
+    },
+    "sha256": "1eac5ad0930cb1889dda889695f125b6da10bdadf4e3e6e74d2bc0ce369bf443",
+    "simhash": "1:5013dba600cb0ca4",
+    "word_count": 151
+  },
+  "last_updated": "2024-02-27T21:15:09.294121+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re ADOPTION OF D.T.P. Petition of G.J.P."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of December, 2006, it is hereby ordered that Petitioner G.J.P.\u2019s Petition for Allowance of Appeal is granted. The order entered on May 15, 2006 by the Superior Court is vacated. Petitioner may file a Notice of Appeal with the Superior Court nunc pro tunc, appealing the April 21, 2005 order entered by the Court of Common Pleas of Potter County, within forty-five days of the date of this order. The provision of incorrect information by the court in its decree regarding the filing of exceptions constituted a breakdown in the court\u2019s operation that warrants an allowance of appeal nunc pro tunc. See Commonwealth v. Smirga, 432 Pa.Super. 286, 638 A.2d 229, 232 (1994); Commonwealth v. Bassion, 390 Pa.Super. 564, 568 A.2d 1316, 1319 (1990).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "912 A.2d 201\nIn re ADOPTION OF D.T.P. Petition of G.J.P.\nSupreme Court of Pennsylvania.\nDec. 20, 2006."
+  },
+  "file_name": "0089-01",
+  "first_page_order": 315,
+  "last_page_order": 316
+}

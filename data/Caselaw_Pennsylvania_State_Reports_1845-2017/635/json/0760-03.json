@@ -1,0 +1,63 @@
+{
+  "id": 12285740,
+  "name": "Com. v. Frey",
+  "name_abbreviation": "Com. v. Frey",
+  "decision_date": "2016-04-18",
+  "docket_number": "028 MAL (2016)",
+  "first_page": "760",
+  "last_page": "760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "ocr_confidence": 0.753,
+    "sha256": "33b5d3882d8a329b8044630ff95995652eb037be747003eecfac6e1a5384f1b5",
+    "simhash": "1:0776bac9aadffa94",
+    "word_count": 21
+  },
+  "last_updated": "2023-07-14T19:50:36.015484+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Frey"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Frey\n04/18/2016\n028 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0760-03",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

@@ -1,0 +1,756 @@
+{
+  "id": 885511,
+  "name": "Henry C. Musser, Appellant, v. Samuel D. Stauffer",
+  "name_abbreviation": "Musser v. Stauffer",
+  "decision_date": "1896-10-05",
+  "docket_number": "Appeal, No. 383",
+  "first_page": "99",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Pa. 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "70 Pa. 83",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028228
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/70/0083-01"
+      ]
+    },
+    {
+      "cite": "5 Wharton, 265",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts, 297",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850961
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0297-01"
+      ]
+    },
+    {
+      "cite": "3 P. & W. 453",
+      "category": "reporters:state",
+      "reporter": "Pen. & W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038905
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/76/0273-01"
+      ]
+    },
+    {
+      "cite": "4 Pa. 493",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        401867
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/4/0493-01"
+      ]
+    },
+    {
+      "cite": "71 Pa. 462",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1031205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/71/0462-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 519",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/100/0519-01"
+      ]
+    },
+    {
+      "cite": "148 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981774
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/148/0503-01"
+      ]
+    },
+    {
+      "cite": "132 Pa. 40",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970528
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/132/0040-01"
+      ]
+    },
+    {
+      "cite": "158 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        848201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/158/0071-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 43",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842339
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0043-01"
+      ]
+    },
+    {
+      "cite": "103 Pa. 37",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        449091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/103/0037-01"
+      ]
+    },
+    {
+      "cite": "96 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        494670
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/96/0192-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 314",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063215
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/89/0314-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        549986
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/114/0035-01"
+      ]
+    },
+    {
+      "cite": "160 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        852183
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/160/0180-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 435",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9504991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/24/0435-01"
+      ]
+    },
+    {
+      "cite": "110 Pa. 478",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        543721
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/110/0478-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. 85",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        951438
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/2/0085-01"
+      ]
+    },
+    {
+      "cite": "163 Pa. 252",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Allen, 395",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2123000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/89/0395-01"
+      ]
+    },
+    {
+      "cite": "163 Pa. 638",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        859068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/163/0638-01"
+      ]
+    },
+    {
+      "cite": "158 Pa. 604",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "147 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        829808
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/147/0045-01"
+      ]
+    },
+    {
+      "cite": "135 Pa. 568",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        817433
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/135/0568-01"
+      ]
+    },
+    {
+      "cite": "162 Pa. 324",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pa. C. C. 81",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Pa. C. C. 51",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Pa. C. C. 251",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "128 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "155 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        983222
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/155/0405-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 170",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "112 Pa. 203",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        546831
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/112/0203-01"
+      ]
+    },
+    {
+      "cite": "130 Pa. 76",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        568946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/130/0076-01"
+      ]
+    },
+    {
+      "cite": "15 Pa. C. C. 161",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 W. N. C. 47",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "92 Pa. 424",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        490963
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0424-01"
+      ]
+    },
+    {
+      "cite": "85 Pa. 369",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        440522
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/85/0369-01"
+      ]
+    },
+    {
+      "cite": "12 W. N. C. 191",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1022556
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/67/0459-01"
+      ]
+    },
+    {
+      "cite": "11 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/11/0233-01"
+      ]
+    },
+    {
+      "cite": "7 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        957796
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/7/0117-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        951255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/2/0013-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 96",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483374
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0096-01"
+      ]
+    },
+    {
+      "cite": "3 W. N. C. 313",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. N. C. 569",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. N. C. 313",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Pa. 93",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032315
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/73/0093-01"
+      ]
+    },
+    {
+      "cite": "52 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002184
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/52/0356-01"
+      ]
+    },
+    {
+      "cite": "142 Pa. 286",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "128 Pa. 217",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        567017
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/128/0217-01"
+      ]
+    },
+    {
+      "cite": "101 U. S. 93",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5633068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/101/0093-01"
+      ]
+    },
+    {
+      "cite": "79 Va. 442",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        62416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/79/0442-01"
+      ]
+    },
+    {
+      "cite": "88 Va. 512",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1874840
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/88/0512-01"
+      ]
+    },
+    {
+      "cite": "85 Va. 648",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4370461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/85/0648-01"
+      ]
+    },
+    {
+      "cite": "77 Va. 265",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4388508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/77/0265-01"
+      ]
+    },
+    {
+      "cite": "86 Va. 346",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1879125
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/86/0346-01"
+      ]
+    },
+    {
+      "cite": "83 Va. 504",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4371810
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/83/0504-01"
+      ]
+    },
+    {
+      "cite": "2 Leigh. (Va.) 684",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        834396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/150/0164-01"
+      ]
+    },
+    {
+      "cite": "110 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/81/0464-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. 253",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028171
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/70/0253-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle, 386",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819227
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/1/0386-01"
+      ]
+    },
+    {
+      "cite": "131 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810259
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/131/0137-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 828,
+    "char_count": 16827,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 2.863205126751994e-07,
+      "percentile": 0.8415645082010573
+    },
+    "sha256": "af3ed7441cb3bf3d8bb8c07cbc2d08e3f1f676568b8be949afdc13eb93646e9d",
+    "simhash": "1:693332d2184496ef",
+    "word_count": 2979
+  },
+  "last_updated": "2024-02-27T19:42:00.583745+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Williams, McCollum, Mitchell, Dean and Fell, JJ."
+    ],
+    "parties": [
+      "Henry C. Musser, Appellant, v. Samuel D. Stauffer."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice McCollum,\nThe question presented by this appeal is whether the affidavits interposed as a defense to the plaintiff\u2019s claim are sufficient to prevent judgment upon it. In deciding the question, we, like the learned court below, are limited to a consideration of the averments in the statement of claim and in the affidavits filed in answer to it. Matters of fact which are not included in these cannot be appealed to in aid of the contention of either party. Testimony for or against a motion or rule for judgment for want of a sufficient affidavit of defense is not admissible. \u201c On the hearing of a rule for judgment for want of a sufficient affidavit of defense the court may not go outside of the case as presented by the claim and affidavit to consider extraneous facts either in support of or against the fine of defense disclosed:\u201d Allegheny City v. McCaffery, 131 Pa. 137. With this familiar principle in view we must consider and dispose of the question raised by the appeal in the case before us.\nThe laws of another state of the Union are to be proved as those of a foreign country: Ripple v. Ripple, 1 Rawle, 386; The law of another state will be presumed to be the same as that of the forum, in the absence of evidence to the contrary: Bennett v. Cadwell, 70 Pa. 253, and Van Auken v. Dunning, 81 Pa. 464. There is nothing in the claim or the affidavits we are considering which affects this presumption, and it therefore logically follows that the party who asserts that matters which constitute a valid defense to the action under the laws of Pennsylvania are not available as a defense to it under the laws of Virginia must sustain his assertion by evidence adjudged to be competent. The time and place for the introduction of such evidence in a case like the one before us is on the trial of it. As we have already seen no extraneous facts or evidence of them can be considered on a motion or rule for judgment for want of a sufficient affidavit of defense.\nThe notes and agreement on which the plaintiff\u2019s claim is based were made in Virginia and the parties to them are the parties to the suit. The defendant admits that he executed the notes and entered into the agreement as claimed, but says in substance that he did so on the faith of a contemporaneous parol agreement with the plaintiff, the performance of which by the latter was a condition precedent to the payment of the notes, and the nonperformance of which relieved the defendant from all liability upon them. This agreement appears in the affidavits of defense together with the averments of the defendant that he was induced by it to sign the notes, and that the plaintiff has failed to perform it. We think these affidavits fully justified the learned court below in discharging the rule for judgment.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice McCollum,"
+      }
+    ],
+    "attorneys": [
+      "JE. JD. North, with him L. N. Spencer, for. appellant.",
+      "W. U. Sensei, with him J. Say Brown, for appellee.",
+      "JE. D. North, with him L. N. Spencer, for appellant, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Henry C. Musser, Appellant, v. Samuel D. Stauffer.\n\u25a0 Affidavit of defense \u2014 The court cannot consider extraneous facts.\nOn the hearing of a rule for judgment for want of a sufficient affidavit of defense the court may not go outside of the case as presented by the claim and affidavit to consider extraneous facts either in support of or against the line of defense disclosed.\nEvidence \u2014 Laws of other states.\nThe laws of another state of the Union are to be proved as those of a foreign country; and the law of another state will be presumed to be the same as that of the lex fori, in the absence of evidence to the contrary.\nAffidavit of defense \u2014 Laws of other states.\nOn a rule for judgment for want of a sufficient affidavit of defense, where the plaintiff\u2019s statement shows that the contract for which suit was brought was made and was to be executed in another state, the court cannot consider the laws of the state of the contract, inasmuch as such laws must be proved, and this can only be done at the trial.\nOn a rule for judgment for want of a sufficient affidavit of defense the plaintiffs statement showed that the contract upon which suit was brought was made and was to be executed in Virginia. The defendant in his affidavit of defense averred that he had executed the instrument on the faith of a contemporaneous parol agreement with the plaintiff, the performance of which by the latter was a condition precedent to payment, and the nonperformance of which relieved the defendant from all liability. Held, that the affidavit justified the court in discharging the rule for judgment.\nArgued May 22, 1896.\nAppeal, No. 383, Jan. T., 1896, by plaintiff, from judgment of C. P. Lancaster Co., June T., 1895, No. 49, discharging rule for judgment for want of a sufficient affidavit of defense.\nBefore Williams, McCollum, Mitchell, Dean and Fell, JJ.\nAffirmed.\nAssumpsit upon promissory notes. Before Brubaker, J.\nThe plaintiff\u2019s statement shows that on the 11th day of November, 1890, he sold the defendant at Roanoke, Va., eight lots of ground in the city of Roanoke in the state of Virginia, in consideration of which the defendant assumed and agreed to pay as part of the purchase money twelve notes of $83.33 and four of $83.34, which notes had been made by the plaintiff and were payable to and held by the Melrose Land Company of Roanoke, Va., amounting in the aggregate to $1,333.32, and in further consideration for the sale of said lots, the defendant gave the plaintiff sixteen promissory notes, dated said 11th. day of November, 1890, for $83.83 each, eight of which were payable in one year from date and eight in two years from date; that defendant having neglected and refused to pay eleven of the notes assumed by him plaintiff was compelled to pay them; and plaintiff claimed for the amount of said eleven notes which he had been compelled to pay to the Melrose Land Company and for the sixteen notes which defendant had given him. The notes were executed in Virginia, and were to be paid in Virginia.\nDefendant filed an affidavit of defense, and also a supplemental affidavit of defense. The latter is as follows:\n1. At the time of the execution of the notes upon which this suit is brought and which are set forth in the plaintiff\u2019s statement, Samuel D. Stauffer was the owner and holder of one-fourth of the capital stock of the Monitor Steam Generator Manufacturing Company of Lancaster city, and had from it authority to enter into contracts with the Monitor Steam Gen erator Manufacturing Company of Roanoke, and with Henry C. Musser, its secretary, the plaintiff in this action.\n2. At or about the time of the execution of the said notes and as part of the consideration of the same, the plaintiff, Henry C. Musser, made an oral agreement with Samuel D. Stauffer that his company, the said Monitor Steam Generator Manufacturing Company of Roanoke, would pay to the Monitor Steam Generator Manufacturing Company of Lancaster, eighty thousand dollars ($80,000) for the transfer and assignment of the territorial rights under patent No. 382,863, issued by the United States, which promise made to the said Monitor Steam Generator Manufacturing Company of Lancaster, was of value to defendant in that he owned one-fourth of the stock of the said company and would therefore be entitled to one-fourth of the profits arising from the sale of said patent, and it was part of the consideration of the notes upon which this suit is brought that said money should be paid to the said Monitor Steam Generator Manufacturing Company, of Lancaster, Pennsylvania. Said agreement between said two companies was dated on the second day of October, 1890. Its terms and conditions are set forth in the record book of the Monitor Steam Generator Manufacturing Company, of Roanoke, of which plaintiff is secretary and to which he has access, and of which defendant has no copy but will be able to produce by subpoena on the trial of this cause. But the defendant avers that when he executed said notes the said Henry C. Musser had knowledge of said agreement and was interested in the same as a stockholder of the said company, of Roanoke, and expressly made said agreement and the advantages resulting to defendant from the execution thereof a part of the consideration of said notes, without which consideration said notes would not have been given, and it was expressly agreed by and on behalf of plaintiff that if said consideration failed, said notes need not be paid, and this on the trial of this - cause defendant expects to be able to prove by another witness than himself and by corroborating circumstances the exact nature of which he is advised he need not at this stage of the case disclose.\n3. Defendant notified the Monitor Steam Generator Manufacturing Company, of Lancaster, of the alleged agreement; the said company had knowledge of, ratified and adopted it, and in making partial payment to the said company of Lancaster, the said company of Roanoke, through its secretary, the plaintiff in this case, deducted a portion of the moneys due from defendant to plaintiff on the contract out of which this suit arose and in which the notes on which this suit is founded were given.\n4. The defendant had power and authority from the Monitor Steam Generator Manufacturing Company, of Lancaster, to make an arrangement by which there might be deducted from the moneys payable to it the amount of said notes.\n5. The defendant was not bound to demand or to have demand made upon plaintiff or his company of Roanoke for the payment of said forty-five thousand dollars ($45,000) to the Monitor Steam Generator Manufacturing Company, of Lancaster, but inasmuch as the payment of said moneys was part of the consideration of said notes, the plaintiff and his company of Roanoke were bound to comply with all their undertakings and agreements before they had a right to collect said notes, and the consideration of said notes having failed, defendant is not bound to pay them.\n6. The defendant alleges that the Monitor Steam Generator Manufacturing Company, of Lancaster, was owner and had the right and power to sell and convey to the said company, of Roanoke, all the patents and property for which it had made agreements.\n7. Said rights and patents were of great value, to wit, of the whole amount which plaintiff\u2019s company had agreed to pay for them.\n8. The defendant alleges that he expects to be able to prove upon the trial of the said cause, by his own evidence, by the testimony of another witness whose name he is advised he is not bound to disclose, and by corroborating circumstances the exact nature of which he is advised he is not bound to disclose, that a part of the consideration of the notes on which this suit was brought was the promise and undertaking of plaintiff to see that said forty-five thousand dollars ($45,000) was paid by the company of which he, plaintiff, was a large stockholder and was an officer, to the company of which defendant was a large stockholder, which consideration having failed, said notes were not to be paid by, and cannot in law be collected from, the defendant.\n9. Defendant alleges and is advised that he was not bound to disaffirm the contract set forth in plaintiff\u2019s statement, but that before plaintiff could collect the moneys of said obligations, he was bound to furnish the consideration upon which they were given, by reason of the failure of which he is further advised there can be no recovery in this case.\nThe court discharged a rule for judgment for want of a sufficient affidavit of defense.\nJError assigned was above order. .\nJE. JD. North, with him L. N. Spencer, for. appellant.\nThe written contracts set forth in plaintiff\u2019s statement, and upon which this action was brought, were made, and were to be performed in Virginia, and the land is situated in Virginia, and the law of that state must govern in determining their validity, obligation and construction; therefore, if under the laws of Virginia, the allegations contained in the defendant\u2019s affidavit and supplemental affidavit of defense would be no defense to a suit' brought in that state, they can be no defense in this suit: Tenant v. Tenant, 110 Pa. 484; Baum v. Birchall, 150 Pa. 164; Story on Conflict of Laws, 424. The law of Virginia will not admit parol evidence to vary or contradict the terms of these contracts : Crawford v. Jarrett, 2 Leigh. (Va.) 684; Watson v. Hurt, 6 Grattan, 633; Leas v. Eidson, 9 Grattan, 277; Carter v. McArtor, 28 Grattan, 356; Barnett v. Barnett, 83 Va. 504; Towner v. Lucas, 13 Grattan, 705; Woodward, Baldwin & Co. v. Foster, 18 Grattan, 200; Shenandoah Valley R. R. v. Dunlop, 86 Va. 346; Sangston v. Gordon & Riely, 22 Grattan, 755; Colhoun & Cowan v. Wilson, 27 Grattan, 639; Johnson v. Mann, 77 Va. 265; Miller v. Fletcher, 27 Grattan, 403; Redd v. Com., 85 Va. 648; Bonsack v. Woodrum, 88 Va. 512; Shirley v. Rice, 79 Va. 442; Bast v. Bank, 101 U. S. 93.\nDecisions of the courts of one state upon the commercial or any other branch of the common law prevailing therein, are as binding upon the courts of another state as are decisions based upon statutes: Forepaugh, v. D. L. & W. R. R., 128 Pa. 217.\nThe defendant does not allege that anything was omitted from the written contracts by fraud, accident, or mistake, or that there was any fraud, accident, or mistake in the making of the contracts; therefore,\u2019 if anything was omitted therefrom it was purposely omitted: Irvin v. Irvin, 142 Pa. 286; Anspach v. Bast, 52 Pa. 356; Hacker v. The Nat. Oil Refining Co., 73 Pa. 93.\nW. U. Sensei, with him J. Say Brown, for appellee.\nParol evidence may be given to prove the existence of any separate parol agreement constituting a condition precedent to the attaching of any obligation under a written instrument; or to show a consideration different from or additional to that expressed : 17 Am. & Eng. Ency. of Law, 436; Shue v. Fuheman, 1 York Leg. Reg. 62; Caley v. Phila. & Chester County R. R., 2 W. N. C. 313; Flood v. Park, 2 W. N. C. 569; Lippincott v. Whitman, 3 W. N. C. 313; Christ v. Diffenbach, 1 S. & R. 464; Iddings v. Iddings, 7 S. & R. 111; Miller v. Henderson, 10 S. & R. 290; Parke v. Chadwick, 8 W. & S. 96; Clark v. Partridge, 2 Pa. 13; Renshaw v. Gans, 7 Pa. 117; Rearich v. Swinehart, 11 Pa. 233; Martin v. Berens, 67 Pa. 459; Burk v. Kerr, 12 W. N. C. 191; Greenawalt v. Kohne, 85 Pa. 369; Keough v. Leslie, 92 Pa. 424; Iowa Gulch Mining Co. v. Work & Co., 13 W. N. C. 47; Hardwick v. Pollock, 15 Pa. C. C. 161; Sidney School Furniture Co. v. Warsaw School District, 130 Pa. 76; Walker v. France, 112 Pa. 203; Cullmans v. Lindsay, 114 Pa. 170; Mich. Mut. Life Ins. Co. v. Williams, 155 Pa. 405; Ferguson v. Rafferty, 128 Pa. 356.\nForeign laws must be proved as facts : Story on Conflict of Laws, secs. 637 638; Rorer on Inter-State Law, 163; 1 Randolph on Commercial Paper, 34; Male v. Robert, 3 Esp. 163; 1 Daniels on Negotiable Instruments, 890; Braintrim Twp. v. Windham Twp., 10 Pa. C. C. 251; Harlan\u2019s Est., 16 Pa. C. C. 51; Coleman\u2019s Est., 13 Pa. C. C. 81; Perlman & Co. v. Sartorius & Co., 162 Pa. 324.\nThis court will not lightly reverse for refusal to enter judgment for want of sufficient affidavit of defense: Radcliffe v. Herbert, 135 Pa. 568; Murphy v. Cappean, 147 Pa. 45; \u00c6tna Ins. Co. v. Confer, 158 Pa. 604; Ensign v. Kindred, 163 Pa. 638.\nJE. D. North, with him L. N. Spencer, for appellant, in reply.\nThe unwritten or common law of another state may be proved by the books of reports adjudged in its courts, and the proof is to the court and not to the jury: Rorer on International State Law, 2d ed. p. 165; Cragin v. Lamkin, 7 Allen, 395; Bollinger v. Gallagher, 163 Pa. 252; Mullin v. Morris, 2 Pa. 85; Tenant v. Tenant, 110 Pa. 478; Bock v. Lauman, 24 Pa. 435; Haynes v. Synnott, 160 Pa. 180.\nParol evidence is only admissible under certain circumstances to vary, change or reform a written instrument, where fraud, accident or mistake at the time of the execution of the instrument is alleged and proved, and the alleged parol agreement must be shown by evidence that is clear, precise and indubitable, and tins can only be done by the testimony of two witnesses, or of one witness corroborated by circumstances equivalent to another: Thomas v. Loose, 114 Pa. 35; Spencer v. Colt, 89 Pa. 314; Rowand v. Finney, 96 Pa. 192; Murray v. N. Y., L. E. & W. R. R., 103 Pa. 37; Stull v. Thompson, 154 Pa. 43; Jessop v. Ivory, 158 Pa. 71; Clarke v. Allen, 132 Pa. 40; Anspach v. Bast, 52 Pa. 356; Hacker v. Nat. Oil Refining Co., 73 Pa. 93; Wodock v. Robinson, 148 Pa. 503; Thorne v. Warfflein, 100 Pa. 519; Coughenour v. Suhre, 71 Pa. 462; Hill v. Gaw, 4 Pa. 493; Wharton v. Douglass, 76 Pa. 273; Lighty v. Shorb, 3 P. & W. 453; Stroop v. Ransom, 10 Watts, 297; Black v. Halstead, 39 Pa. 71; Comly v. Bryan, 5 Wharton, 265; Ogden v. Offerman, 2 Miles, 40; Peck v. Jones, 70 Pa. 83; Wayman v. Ochse, 3 Pittsburgh, 163; Endlich on Aff. of Def. sec. 363.\nOctober 5, 1896 :"
+  },
+  "file_name": "0099-01",
+  "first_page_order": 119,
+  "last_page_order": 126
+}

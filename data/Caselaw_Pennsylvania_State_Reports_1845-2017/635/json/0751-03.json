@@ -1,0 +1,70 @@
+{
+  "id": 12284434,
+  "name": "Com. v. Lucabaugh",
+  "name_abbreviation": "Com. v. Lucabaugh",
+  "decision_date": "2016-03-23",
+  "docket_number": "948 MAL (2015)",
+  "first_page": "751",
+  "last_page": "751",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 751"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 491",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 162,
+    "ocr_confidence": 0.815,
+    "sha256": "ba06a4f3f7b2c0db9964849968d83047282c79cc69f991697e5d4fd299e9bf11",
+    "simhash": "1:9373ea8eb3ae7a96",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Lucabaugh"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 491",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Lucabaugh\n03/23/2016\n948 MAL (2015)\n. Justice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0751-03",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

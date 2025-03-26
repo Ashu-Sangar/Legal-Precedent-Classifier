@@ -1,0 +1,103 @@
+{
+  "id": 4345023,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Justin Lamar CULVER, Respondent",
+  "name_abbreviation": "Commonwealth v. Culver",
+  "decision_date": "2013-12-19",
+  "docket_number": "No. 516 MAL 2012",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "623 Pa. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "82 A.3d 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5827034",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 A.3d 57",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7301243,
+        4280719
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/81/0057-01",
+        "/pa/622/0636-01"
+      ]
+    },
+    {
+      "cite": "622 Pa. 636",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4280719
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/622/0636-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 569,
+    "ocr_confidence": 0.695,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14754701915053733
+    },
+    "sha256": "1a3fbeb5479e544641b6bfbd75dddd25ad2508f17595a655c8425b935c437514",
+    "simhash": "1:f82d7b96c0f90db8",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T20:51:12.816068+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Justin Lamar CULVER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of December 2013, the Petition for Allowance of Appeal is GRANTED, the decision of the Superior Court is VACATED, and the matter is REMANDED to the Court of Common Pleas of Pike County to conduct a new forfeiture hearing in accordance with Commonwealth v. Hann, 622 Pa. 636, 81 A.3d 57, 2013 WL 5827034 (2013).\nThe Application to File Supplement to Petition for Allowance of Appeal is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "82 A.3d 429\nCOMMONWEALTH of Pennsylvania, Petitioner v. Justin Lamar CULVER, Respondent.\nSupreme Court of Pennsylvania.\nDec. 19, 2013."
+  },
+  "file_name": "0245-01",
+  "first_page_order": 281,
+  "last_page_order": 281
+}

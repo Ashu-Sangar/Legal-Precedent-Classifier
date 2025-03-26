@@ -1,0 +1,82 @@
+{
+  "id": 3991066,
+  "name": "Glenn WIGGINS, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Wiggins v. Commonwealth",
+  "decision_date": "2008-08-27",
+  "docket_number": "Petition No. 23 EM 2008",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "598 Pa. 206"
+    },
+    {
+      "type": "parallel",
+      "cite": "955 A.2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "393 U.S. 374",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11316280
+      ],
+      "weight": 3,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0374-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 776,
+    "ocr_confidence": 0.654,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12444374170077097
+    },
+    "sha256": "801ad7679144209918473c05cbf924d93e7fb239bf007b20f57830a255d34e7e",
+    "simhash": "1:41fb03fef3d23da1",
+    "word_count": 128
+  },
+  "last_updated": "2024-02-27T16:20:31.388494+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glenn WIGGINS, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of August, 2008, the Application for Leave to File Original Process and the Petition for Writ of Habeas Corpus are both GRANTED. The Court of Common Pleas of Philadelphia County is directed to issue, within 30 days of this order, a rule to show cause upon the District Attorney of Philadelphia County as to why the August 25, 2001 charges against Petitioner docketed at MC-51-CR-0828431-2001 should not be dismissed. See Smith v. Hooey, 393 U.S. 374, 89 S.Ct. 575, 21 L.Ed.2d 607 (1969). The rule to show cause shall be returnable within 45 days of the trial court\u2019s order. Jurisdiction is relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "955 A.2d 1012\nGlenn WIGGINS, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent.\nSupreme Court of Pennsylvania.\nAug. 27, 2008."
+  },
+  "file_name": "0206-01",
+  "first_page_order": 268,
+  "last_page_order": 268
+}

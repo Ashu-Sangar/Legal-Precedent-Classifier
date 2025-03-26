@@ -1,0 +1,206 @@
+{
+  "id": 1781091,
+  "name": "Edward M. MEZVINSKY, Petitioner, v. William R. DAVIS, Secretary of the Commonwealth of Pennsylvania, and Richard Anderson, Commissioner of the Bureau of Elections, Commissions and Legislation for the Commonwealth of Pennsylvania, Respondents",
+  "name_abbreviation": "Mezvinsky v. Davis",
+  "decision_date": "1983-04-26",
+  "docket_number": "No. 3 M.D. Misc. Dkt. 1983",
+  "first_page": "564",
+  "last_page": "571",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "500 Pa. 564"
+    },
+    {
+      "type": "parallel",
+      "cite": "459 A.2d 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "485 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1755626
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/485/0431-01"
+      ]
+    },
+    {
+      "cite": "564 F.Supp. 526",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        136327
+      ],
+      "year": 1983,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/564/0526-01"
+      ]
+    },
+    {
+      "cite": "191 A.2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "411 Pa. 263",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1885980
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/411/0263-01"
+      ]
+    },
+    {
+      "cite": "460 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482903
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "16"
+        },
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/460/0001-01"
+      ]
+    },
+    {
+      "cite": "321 U.S. 649",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        301825
+      ],
+      "weight": 3,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "669",
+          "parenthetical": "Roberts, J., dissenting"
+        },
+        {
+          "page": "766",
+          "parenthetical": "Roberts, J., dissenting"
+        },
+        {
+          "parenthetical": "Roberts, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/321/0649-01"
+      ]
+    },
+    {
+      "cite": "485 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1755626
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/485/0431-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 615,
+    "char_count": 11607,
+    "ocr_confidence": 0.767,
+    "pagerank": {
+      "raw": 7.682524327565526e-08,
+      "percentile": 0.45273836428301417
+    },
+    "sha256": "cd82e87266e95a73ee33d26735fe8b9ffdf9680298759b9c55a59bbff1ee67ea",
+    "simhash": "1:94b093aef3c40256",
+    "word_count": 1853
+  },
+  "last_updated": "2024-02-27T23:49:15.316484+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before ROBERTS, C.J., and NIX, LARSEN, FLAHERTY, McDERMOTT, HUTCHINSON and ZAPPALA, JJ.",
+      "ZAPPALA, J., files a concurring opinion.",
+      "ROBERTS, C.J., files a dissenting opinion in which McDERMOTT, and HUTCHINSON, JJ., join.",
+      "McDERMOTT and HUTCHINSON, JJ., join in this dissenting opinion."
+    ],
+    "parties": [
+      "Edward M. MEZVINSKY, Petitioner, v. William R. DAVIS, Secretary of the Commonwealth of Pennsylvania, and Richard Anderson, Commissioner of the Bureau of Elections, Commissions and Legislation for the Commonwealth of Pennsylvania, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nFLAHERTY, Justice.\nPursuant to 42 Pa.C.S.A. \u00a7 726 (1981), we assumed extraordinary jurisdiction of this petition for review brought by Edward M. Mezvinsky in the Commonwealth Court. Petitioner challenges the constitutionality of the limited voting provision of 42 Pa.C.S.A. \u00a7 3133 (1981) as in derogation of his constitutional right as an elector to elect the judges of the Commonwealth Court.\n42 Pa.C.S.A. \u00a7 3133 (1981) provides:\nWhenever two or more judges of the Commonwealth Court are to be elected pursuant to section 3131(c) (relating to selection of judicial officers for regular terms) at the same election, each qualified elector shall vote for no more than:\n(1) one-half of the number of judges to be elected, if the total number to be elected is even; or\n(2) the smallest number constituting a majority of the total number of judges to be elected, if the total number to be elected is odd.\nThe persons having the highest number of votes, up to the total number of judges to be elected, shall be elected. This provision has been held to require limited voting in the primary election and in the selection of judges in the municipal election. Thiemann v. Allen, supra. Although there are three vacancies on Commonwealth Court to be filled in the municipal election of 1983, by operation of Section 3133 each political party would be limited to nominations of only two candidates, and each voter, in both the primary and municipal elections, would be limited to voting for only two candidates. Thus, as noted by Mr. Justice Nix, dissenting, in Thiemann, Section 3133 would preclude two-thirds of the voters from participating in selection of the candidate who will fill one vacancy. 485 Pa. at 448, 402 A.2d at 1356.\nPa. Const. Art. 6, \u00a7 1 provides: \u201cAll officers, whose selection is not provided for in this Constitution, shall be elected or appointed as may be directed by law.\u201d The Commonwealth Court was created by the Constitution of 1968, Pa. Const. Art. 5, \u00a7 4, and the manner of selecting its membership is prescribed by the Constitution, Art. 5, \u00a7 13(a), as follows: \u201c[Jjudges . . . shall be elected ... by the electors of the Commonwealth. .. . \u201d The meaning of this latter provision is clear: all judges, including judges of the Commonwealth Court, are to be elected by the electors who are to be served. Where electors are precluded by operation of Section 3133 from voting for candidates to fill all the vacant seats, the right of suffrage of those electors, granted in Pa. Const. Art. 5, \u00a7 13(a), is impermissibly infringed. The constitutional right to vote in a judicial election must embrace the right to participate in the selection of all judicial offices. Thus, the legislatively prescribed system requiring election of judges to the Commonwealth Court and precluding all of the electors from participating in the selection of the candidates for each vacancy on that court is contrary to the mandate of Section 13(a).\nAs further noted by Mr. Justice Nix in his dissent, Section 3133 could operate to frustrate the clear constitutional preference for election of judicial officers over appointment to fill vacancies. Id. 485 Pa. at 446 n. 4, 402 A.2d at 1356 n. 4. (Citations omitted.)\nWhen we consider that there are principally two major political parties in this state offering a slate of candidates for election and that frequently they comprise the only candidates seeking election, coupled with the fact that we permit group filing in judicial elections, it is possible that the same two candidates will be nominated on both the Democratic and Republican tickets. Thus, we could be faced with a situation where the third seat could not be filled through the election process. Such a possibility would frustrate the recognized preference in our constitu-. tional scheme for judicial officers to be selected through the election process.\nThe guarantee of participation in selection of judgeships found in Art. 5, \u00a7 13(a) may not permissibly be eroded by the legislative scheme embodied in Section 3133. To the extent that Thiemann v. Allen conflicts with this proposition, it is hereby expressly overruled.\nIt has been argued the legislature\u2019s attempt to prescribe limited voting in selection of judges for Commonwealth Court may be justified by that Court\u2019s limited jurisdiction and the legislature\u2019s perception of a need to balance the representation of each political party on that court. See Thiemann v. Allen, supra, 485 Pa. at 444, 402 A.2d at 1355; respondent\u2019s brief at 23.\nImplicit in this reasoning is the assumption that the candidate, once elected, will continue to reflect a particular political philosophy in the discharge of his judicial responsibilities. I for one do not share such a jaundice view of the judiciary in this Commonwealth. While I agree that the bench should be reflective of the various cultural, ethnic and religious groups of our society, I do not accept that this goal is realistically fostered by mandating representation by political minorities....\nId. 485 Pa. at 446 n. 4,402 A.2d at 1356 n. 4 (Mr. Justice Nix, dissenting). It is the function of the judiciary at every level to decide cases impartially and without regard to political considerations. Furthermore, although judges are chosen in a political forum, a judge\u2019s further participation in party politics is forbidden expressly by Pa. Const. Art. 5, \u00a7 17(a), which proscribes a judge\u2019s holding office in political parties or organizations, and implicitly by \u00a7 17(b), which proscribes activity violative of the canons of judicial conduct, as Canon 7 of the Code of Judicial Conduct admonishes jurists to abstain from political activity. Thus any legislative regulation of membership on a court according to political party affiliation must necessarily involve a useless purpose. Any suggestion that jurists decide matters before them based on party politics is an affront to the dignity and integrity of the Judiciary; and any encouragement to judicial officers to actively participate in political activities is condemned.\nAccordingly, 42 Pa.C.S.A. \u00a7 3133 (1981) is held to be in violation of the Constitution of Pennsylvania. William R. Davis, Secretary of the Commonwealth of Pennsylvania, and Richard Anderson, Commissioner of the Bureau of Elections, Commissions and Legislations of the Commonwealth of Pennsylvania are directed to notify all County Boards of Elections and every other party entitled to notice that each political party may nominate three candidates for the office of judge of the Commonwealth Court in the primary election of 1983, and each elector in the primary election of 1983 and in the municipal election of 1983 may vote for three candidates for judge of the Commonwealth Court.\nZAPPALA, J., files a concurring opinion.\nROBERTS, C.J., files a dissenting opinion in which McDERMOTT, and HUTCHINSON, JJ., join.\n. The constitutionality of this provision was previously addressed by this Court at Thiemann v. Allen, 485 Pa. 431, 402 A.2d 1348 (1979).",
+        "type": "majority",
+        "author": "FLAHERTY, Justice."
+      },
+      {
+        "text": "ZAPPALA, Justice,\nconcurring.\nI concur in the determination that 42 Pa.C.S.A. \u00a7 3133 is unconstitutional. The Commonwealth Court was constitutionally mandated in 1968, Pa. Const. Art. 5, \u00a7 4, as a part of the unified judicial system, Pa. Const. Art. 5, \u00a7 1. The implementing legislation necessary to create the court, Act of January 6, 1970, 1969 P.L. 434, No. 185, provided a method of gubernatorial appointment of the initial seven judges in a manner guaranteeing minority party representation on the Court. The legislative history of the Act, however, is totally void of any basis, for continued minority party representation. The constitutional provision prescribing the manner of election of judges, Pa. Const. Art. 5 \u00a7 13(a) makes no distinction among the statewide courts. I think it is abundantly clear that according to the constitution the manner of election of judges to the Commonwealth Court is to differ in no way from the manner of election of the members of the other courts of this Commonwealth, thus retaining the integrity of a unified judicial system. The attempt by the legislature in Section 3133 to carry the minority party representation \u201cguarantee\u201d of the initial appointment over to later elections runs contrary to the constitutional mandates of Art. 5, Sections 1, 4, arid 13, and is an infririgement on the independence of the judiciary.\nWithout disputing the merits of the plurality\u2019s discussion of the integrity of the judiciary and the irrelevance of party politics to judicial decision making, I find such discussion unnecessary to the decision of this matter.",
+        "type": "concurrence",
+        "author": "ZAPPALA, Justice,"
+      },
+      {
+        "text": "ROBERTS, Chief Justice,\ndissenting.\nBy arbitrarily discarding recent precedent and substituting its judgment for the considered judgment of the Legislature, the majority \u201cbring[s] adjudications of this tribunal into the same class as a restricted railroad ticket, good for this day and this train only.\u201d Smith v. Allwright, 321 U.S. 649, 669, 64 S.Ct. 757, 766, 88 L.Ed. 987 (1944) (Roberts, J., dissenting). I must dissent.\nAn enactment of the Legislature may not be declared unconstitutional \u201cunless it clearly, palpably, and plainly violates the Constitution.\u201d Tosto v. Pennsylvania Nursing Home Loan Agency, 460 Pa. 1, 16, 331 A.2d 198, 205 (1975), quoting Daly v. Hemphill, 411 Pa. 263, 271, 191 A.2d 835, 840 (1963). In 1979, this Court upheld the constitutionality of 42 Pa.C.S. \u00a7 3133, the statutory provision challenged in this proceeding. Thiemann v. Allen, 485 Pa. 431, 402 A.2d 1348 (1979). In the four years since this Court\u2019s determination of constitutionality there has been no constitutional or statutory change which justifies the majority\u2019s reaching a contrary result. Indeed, only three weeks ago the constitutionality of section 3133 was sustained by the United States District Court for the Middle District of Pennsylvania in a case in which petitioner Mezvinsky was permitted to intervene and presented arguments similar to those advanced here. Orloski v. Davis, 564 F.Supp. 526 (1983).\nAlthough the opinion of Mr. Justice Flaherty perceives that the challenged statute \u201cerodes\u201d \u201c[t]he guarantee of participation in selection of judgeships,\u201d the legislative judgment embodied in section 3133 in fact furthers the legitimate goal of promoting the elector\u2019s exercise of his franchise. The statutory provision not only encourages bipartisan participation but also discourages the practice of \u201cweighted\u201d voting, the casting of only a single vote in order to enhance a single candidate\u2019s chances of success, and thus advances the likelihood that the candidates chosen will have the backing of a substantial portion of the electorate.\nAs 42 Pa.C.S. \u00a7 3133 is as legitimate an exercise of the Legislature\u2019s authority to regulate the electoral process today as it was four years ago, when the constitutionality of the statute was sustained, section 3133 should again be sustained, and the petition for review denied.\nMcDERMOTT and HUTCHINSON, JJ., join in this dissenting opinion.",
+        "type": "dissent",
+        "author": "ROBERTS, Chief Justice,"
+      }
+    ],
+    "attorneys": [
+      "Karen M. Balaban, Harrisburg, A. Richard Gerber, Penllyn, Nancy J. Hopkins, Oreland, for petitioner.",
+      "LeRoy S. Zimmerman, Atty. Gen., Mollie McCurdy, Deputy Atty. Gen., for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "459 A.2d 307\nEdward M. MEZVINSKY, Petitioner, v. William R. DAVIS, Secretary of the Commonwealth of Pennsylvania, and Richard Anderson, Commissioner of the Bureau of Elections, Commissions and Legislation for the Commonwealth of Pennsylvania, Respondents.\nSupreme Court of Pennsylvania.\nArgued April 18, 1983.\nDecided April 26, 1983.\nKaren M. Balaban, Harrisburg, A. Richard Gerber, Penllyn, Nancy J. Hopkins, Oreland, for petitioner.\nLeRoy S. Zimmerman, Atty. Gen., Mollie McCurdy, Deputy Atty. Gen., for respondents.\nBefore ROBERTS, C.J., and NIX, LARSEN, FLAHERTY, McDERMOTT, HUTCHINSON and ZAPPALA, JJ."
+  },
+  "file_name": "0564-01",
+  "first_page_order": 614,
+  "last_page_order": 621
+}

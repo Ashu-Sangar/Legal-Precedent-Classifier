@@ -1,0 +1,82 @@
+{
+  "id": 1776314,
+  "name": "COMMONWEALTH of Pennsylvania v. Robert COSTIGAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Costigan",
+  "decision_date": "1981-05-04",
+  "docket_number": "Petition No. 18",
+  "first_page": "530",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "498 Pa. 530"
+    },
+    {
+      "type": "parallel",
+      "cite": "448 A.2d 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "460 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482793
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/460/0105-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 343,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06643012777965047
+    },
+    "sha256": "5431c4d96498dae372246dd729ef8e4431a6e85015773ad50297a250bcb29818",
+    "simhash": "1:c597c5e8696b37d3",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T16:30:58.270390+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Robert COSTIGAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nPetition granted, judgment of sentence vacated, and record remanded for hearing on petitioner\u2019s allegation of ineffective assistance of counsel. See Commonwealth v. Twiggs, 460 Pa. 105, 331 A.2d 440 (1975).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "448 A.2d 535\nCOMMONWEALTH of Pennsylvania v. Robert COSTIGAN, Petitioner.\nSupreme Court of Pennsylvania.\nMay 4, 1981."
+  },
+  "file_name": "0530-01",
+  "first_page_order": 596,
+  "last_page_order": 596
+}

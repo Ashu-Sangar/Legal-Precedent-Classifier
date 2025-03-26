@@ -1,0 +1,96 @@
+{
+  "id": 281130,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Rodney COLLINS, Appellant",
+  "name_abbreviation": "Commonwealth v. Collins",
+  "decision_date": "1998-03-26",
+  "docket_number": "No. 128 Capital Appeal Docket",
+  "first_page": "511",
+  "last_page": "511",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "550 Pa. 511"
+    },
+    {
+      "type": "parallel",
+      "cite": "707 A.2d 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "702 A.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        18272,
+        11891091
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0593-01",
+        "/a2d/702/0540-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 593",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18272
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0593-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 440,
+    "ocr_confidence": 0.621,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.011481750480433416
+    },
+    "sha256": "8ad68413ca9bd213f3bd5f4a8af12744d3f2374c086d8a6ffb1eec089aa2ab05",
+    "simhash": "1:57af091486250d1f",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T19:01:34.236353+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Rodney COLLINS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 26th day of March, 1998, the Emergency Motion for Stay of Execution is granted pending final disposition by the United States Supreme Court of any timely filed petition for writ of certiorari from this Court\u2019s ruling in Commonwealth v. Collins, 549 Pa. 593, 702 A.2d 540 (1997).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "707 A.2d 509\nCOMMONWEALTH of Pennsylvania, Appellee, v. Rodney COLLINS, Appellant.\nSupreme Court of Pennsylvania.\nMarch 26, 1998."
+  },
+  "file_name": "0511-01",
+  "first_page_order": 775,
+  "last_page_order": 775
+}

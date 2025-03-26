@@ -1,0 +1,76 @@
+{
+  "id": 459482,
+  "name": "Commonwealth v. Solop, Appellant",
+  "name_abbreviation": "Commonwealth v. Solop",
+  "decision_date": "1944-05-22",
+  "docket_number": "Appeal, No. 113",
+  "first_page": "567",
+  "last_page": "567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "349 Pa. 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "349 Pa. 560",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        459179
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/349/0560-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 78,
+    "char_count": 665,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.01698265033984607
+    },
+    "sha256": "c57df64191820fff3d718666c134ecb01571b2ec363053eac0d41e969d650a1d",
+    "simhash": "1:07954bf5da3cbc36",
+    "word_count": 122
+  },
+  "last_updated": "2024-02-27T22:56:39.230105+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth v. Solop, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Hughes,\nThis case was tried with the case of Commonwealth v. Kostan, 349 Pa. 560, resulting in a verdict of.guilty of voluntary manslaughter. It was argued jointly with the above stated case and the same reasons were assigned for asking for a new trial. A new trial was refused.\nThe judgment is affirmed and it is ordered that the defendant appear in the court below at such time as he may be there called and that he be by that court committed until he has complied with the sentence, or any part of it, which had not been performed at the time the appeal in this case was made a supersedeas.",
+        "type": "majority",
+        "author": "Mr. Justice Hughes,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Solop, Appellant.\nMay 22, 1944:"
+  },
+  "file_name": "0567-01",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

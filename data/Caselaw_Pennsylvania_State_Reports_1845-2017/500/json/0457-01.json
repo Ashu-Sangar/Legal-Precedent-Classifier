@@ -1,0 +1,106 @@
+{
+  "id": 1781112,
+  "name": "Robert A. WICKER, Petitioner, v. Camerino ESPOSITO, Respondent",
+  "name_abbreviation": "Wicker v. Esposito",
+  "decision_date": "1983-01-06",
+  "docket_number": "No. 8 E.D. Allocatur Docket 1983",
+  "first_page": "457",
+  "last_page": "458",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "500 Pa. 457"
+    },
+    {
+      "type": "parallel",
+      "cite": "457 A.2d 1260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "454 A.2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        205368,
+        205404,
+        205430,
+        205567
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/308/0604-01",
+        "/pa-super/308/0605-01",
+        "/pa-super/308/0603-01",
+        "/pa-super/308/0603-02"
+      ]
+    },
+    {
+      "cite": "275 A.2d 318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "442 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1935434
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/442/0434-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 97,
+    "char_count": 842,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.055506656262273e-07,
+      "percentile": 0.9079141293565763
+    },
+    "sha256": "64be38cb488f0b05280b29fd1049fb127c27b8e380e98910554d37aa815c0709",
+    "simhash": "1:bc2f1b41c349d5ec",
+    "word_count": 141
+  },
+  "last_updated": "2024-02-27T23:49:15.316484+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert A. WICKER, Petitioner, v. Camerino ESPOSITO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAnd now to wit this 24th day of March, 1983, the Petition for Allowance of Appeal is granted.\nHaving reviewed the record, we are satisfied that the right party was sued under a wrong designation. Thus, the permission of amendment in this case does not constitute the substituting of another and distinct party after the statute of limitations has run. Paulish v. Bakaitis, 442 Pa. 434, 275 A.2d 318 (1971).\nAccordingly, the order of the Superior Court,-Pa. Super. -, 454 A.2d 160, affirming the order of the Court of Common Pleas is reversed. The matter is remanded to the trial court with direction that the petitioner be allowed to amend the complaint to correct the name, of the defendant therein.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "457 A.2d 1260\nRobert A. WICKER, Petitioner, v. Camerino ESPOSITO, Respondent.\nSupreme Court of Pennsylvania.\nJan. 6, 1983."
+  },
+  "file_name": "0457-01",
+  "first_page_order": 507,
+  "last_page_order": 508
+}

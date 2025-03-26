@@ -1,0 +1,93 @@
+{
+  "id": 1136915,
+  "name": "Derbyshire's Estate",
+  "name_abbreviation": "Derbyshire's Estate",
+  "decision_date": "1932-02-03",
+  "docket_number": "Appeal, No. 167",
+  "first_page": "278",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "306 Pa. 278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "239 Pa. 389",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        995934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/239/0389-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 525",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/99/0525-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 152,
+    "char_count": 1469,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 9.517604042668364e-08,
+      "percentile": 0.5242657004327279
+    },
+    "sha256": "510152867a3bd47fc2b31803fba95fb1c285f482032f17f085768d0db1be41c3",
+    "simhash": "1:e26fa3740c74bc6e",
+    "word_count": 241
+  },
+  "last_updated": "2024-02-27T17:15:14.174985+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaffer, Maney and Drew, JJ."
+    ],
+    "parties": [
+      "Derbyshire\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis estate has been before this court on two previous occasions (99 Pa. 525, and 239 Pa. 389), both under entirely different circumstances from those now prevailing; consequently the cases referred to do not control here. Since the decisions in those cases, three of the four annuitants have died and the fourth has, by deed duly executed and recorded, released her annuity to the Contributors to the Pennsylvania Hospit\u00e1l, to which institution the remainder of the estate passes under decedent\u2019s will after termination of the trust to secure payments of the annuities. By the deaths of the three annuitants and transfer of the interest of the other to the hospital, the duties of appellant cease to be active and become passive, or dry, with no duty to perform except to deliver the property to the beneficiary. Appellant\u2019s counsel admitted this at the argument, and stated unequivocally that appellant, as trustee, had no personal or fiduciary interest in the result of the appeal. It follows that the trust company cannot be heard to appeal from the decree of the court below (Hehringer\u2019s Est., 265 Pa. Ill); and, it being the only appellant,\nThe appeal must be quashed at costs of appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Howard H. Yocum, of Biddle, Paul, Dawson & Yocum, for appellant.",
+      "George Wharton Pepper, with him Thomas Stohes, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Derbyshire\u2019s Estate.\nArgued January 26, 1932.\nBefore Frazer, C. J., Simpson, Kephart, Schaffer, Maney and Drew, JJ.\nFebruary 3, 1932:\nHoward H. Yocum, of Biddle, Paul, Dawson & Yocum, for appellant.\nGeorge Wharton Pepper, with him Thomas Stohes, for appellee."
+  },
+  "file_name": "0278-01",
+  "first_page_order": 300,
+  "last_page_order": 302
+}

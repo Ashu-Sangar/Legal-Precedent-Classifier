@@ -1,0 +1,114 @@
+{
+  "id": 1901697,
+  "name": "Commonwealth v. Butler, Appellant",
+  "name_abbreviation": "Commonwealth v. Butler",
+  "decision_date": "1966-06-24",
+  "docket_number": "Appeal, No. 84",
+  "first_page": "153",
+  "last_page": "155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "422 Pa. 153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "378 U.S. 368",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166505
+      ],
+      "weight": 2,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0368-01"
+      ]
+    },
+    {
+      "cite": "159 A. 2d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "398 Pa. 442",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1289139
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/398/0442-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 218,
+    "char_count": 2991,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.39233329819614965
+    },
+    "sha256": "312b7f77285fcd15081e0cca9df61b16c887b1013cd9cb4006d17640adfd4fec",
+    "simhash": "1:9e66ead267505f2d",
+    "word_count": 473
+  },
+  "last_updated": "2024-02-27T23:35:32.208511+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Eagen, O\u2019Brien and Roberts, JJ.",
+      "Mr. Justice Cohen took no part in the consideration or decision of this case."
+    ],
+    "parties": [
+      "Commonwealth v. Butler, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Roberts,\nIn December 1957, appellant was convicted in a trial by jury of murder in the first degree and sentenced to life imprisonment. No appeal was taken from the judgment of conviction or sentence.\nThereafter, appellant filed a petition for a writ of habeas corpus in the Court of Common Pleas of Chester County. The petition was denied and we affirmed. Commonwealth ex rel. Butler v. Banmiller, 398 Pa. 442, 159 A. 2d 212 (1960) (per curiam).\nSubsequently, appellant filed a petition for a writ of habeas corpus in the United States District Court for the Western District of Pennsylvania challenging his conviction on the ground that a constitutionally tainted confession was admitted into evidence at his trial. Since the issue of the voluntary nature of appellant\u2019s confession had been left to the jury at his trial, in accordance with the then prevailing practice, the district court concluded that under the decision of the Supreme Court of the United States in Jackson v. Denno, 378 U.S. 368, 84 S. Ct. 1774 (1964), appellant was entitled to an independent determination of the question and remanded the case to the trial court with appropriate directions.\nIn accordance with the directive of the district court, the trial court held a hearing on the question of the voluntariness of appellant\u2019s confession. Appellant was present at the hearing, was represented by court appointed counsel, and testified in support of the allegations contained in his federal habeas corpus petition that the confession had been obtained through the use of coercion. The allegations were controverted by the Commonwealth which produced testimony in support of its contention that the confession had been obtained in a manner consistent with the requirements of due process. At the conclusion of the hearing, the court determined that the confession had been freely and voluntarily given and that appellant was not entitled to the relief sought. An order was entered remanding him to the custody of the appropriate authorities and this appeal followed.\nWe find nothing to he gained by an extended recitation of the varying versions of the circumstances under which the confession was obtained. The constitutional question presented involved a factual dispute in which the dispositive issue was one of credibility. The factual findings of the court below were amply supported by the evidence adduced at the hearing and sustain the conclusion that appellant\u2019s confession was constitutionally unobjectionable. Accordingly, we conclude that the issue was properly resolved by the court below and affirm the order there entered.\nOrder and judgment affirmed.\nMr. Justice Cohen took no part in the consideration or decision of this case.",
+        "type": "majority",
+        "author": "Mr. Justice Roberts,"
+      }
+    ],
+    "attorneys": [
+      "Hercules Butler, appellant, in propria persona.",
+      "A. Alfred Delduco, District Attorney, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Butler, Appellant.\nSubmitted January 7, 1966.\nBefore Bell, C. J., Musmanno, Jones, Eagen, O\u2019Brien and Roberts, JJ.\nHercules Butler, appellant, in propria persona.\nA. Alfred Delduco, District Attorney, for appellee.\nJune 24, 1966:"
+  },
+  "file_name": "0153-01",
+  "first_page_order": 177,
+  "last_page_order": 179
+}

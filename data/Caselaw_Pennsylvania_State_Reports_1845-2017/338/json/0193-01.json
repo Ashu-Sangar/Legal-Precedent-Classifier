@@ -1,0 +1,98 @@
+{
+  "id": 1199912,
+  "name": "Baumer, Receiver, Appellant, v. duPont",
+  "name_abbreviation": "Baumer v. duPont",
+  "decision_date": "1940-04-15",
+  "docket_number": "Appeal, No. 67",
+  "first_page": "193",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "338 Pa. 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "314 Pa. 343",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1154721
+      ],
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/314/0343-01"
+      ]
+    },
+    {
+      "cite": "262 Pa. 411",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044571
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/262/0411-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 152,
+    "char_count": 1472,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04453599418344467
+    },
+    "sha256": "0af97bdfd5eae3c84bc289d9bc145b8904f7a175cd7584be62744f2adb8f2cae",
+    "simhash": "1:0c09a21baa11dc2d",
+    "word_count": 248
+  },
+  "last_updated": "2024-02-27T22:20:24.766240+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, C. J., Maxey, Drew, Linn, Stern, Barnes and Patterson, JJ."
+    ],
+    "parties": [
+      "Baumer, Receiver, Appellant, v. duPont."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis appeal is from the judgment entered following the action of the court below in sustaining a motion for judgment for want of a sufficient reply to new matter. Briefly, the facts admitted by the reply show that plaintiff, the receiver of the First National Bank of Johns-town, is suing upon a note, which was altered by the addition of a seal after the maker\u2019s name, placed there by the maker at the request of a former receiver of the bank, without the assent or knowledge of defendant, the endorser on the note. The seal was added after the execution,. delivery, and endorsement of the note, and after its due date, while the note was in the bank\u2019s possession.\nThe learned court below very properly held that under these circumstances defendant was no longer liable on the note. The addition of a seal to the maker\u2019s name without defendant\u2019s knowledge or consent was a material alteration (Bowman v. Berkey, 262 Pa. 411), and its effect was to avoid the instrument, except as against a party who had himself made, authorized or assented to the alteration, and subsequent endorsers: Negotiable Instruments Act of May 16, 1901, P. L. 194, section 124; see Philadelphia National Bank v. Buchmam, 314 Pa. 343, 350.\nJudgment affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Philip N. Shettig, for appellant.",
+      "Friedjoff D. Tappert, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Baumer, Receiver, Appellant, v. duPont.\nArgued March 26, 1940.\nBefore Schaffer, C. J., Maxey, Drew, Linn, Stern, Barnes and Patterson, JJ.\nPhilip N. Shettig, for appellant.\nFriedjoff D. Tappert, for appellee.\nApril 15, 1940:"
+  },
+  "file_name": "0193-01",
+  "first_page_order": 225,
+  "last_page_order": 226
+}

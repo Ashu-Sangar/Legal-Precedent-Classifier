@@ -1,0 +1,81 @@
+{
+  "id": 8846346,
+  "name": "Bangor Trust Company Account",
+  "name_abbreviation": "Bangor Trust Co. Account",
+  "decision_date": "1935-03-25",
+  "docket_number": "Appeal, No. 53",
+  "first_page": "495",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "317 Pa. 495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "317 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846334
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/317/0490-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 193,
+    "char_count": 2421,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 1.0562601369302187e-07,
+      "percentile": 0.5554298725524153
+    },
+    "sha256": "2042e300c59348da4ad42d8632fdec6a615a67a5c3c3ec19fc8de8d00af154c5",
+    "simhash": "1:9f24d627a17e8a34",
+    "word_count": 421
+  },
+  "last_updated": "2024-02-27T20:40:55.989141+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Bangor Trust Company Account."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Simpson,\nOn the adjudication of the account of William D. Gordon, secretary of banking, receiver of the Bangor Trust Company, the Fidelity and Casualty Company of New York, appellant herein, claimed to be a creditor of the trust company, and to be entitled to be paid the amount due to it in preference to other creditors. The court below decided that it was a creditor, but denied its right to a preference; and, because of that, it has taken the present appeal. The decree is right and must be affirmed.\nIts contention is that a fund of money belonging to it had been mistakenly paid to the trust company, which hence became its constructive trustee, and that this fact alone gave it a right to a preference out of the general assets of the trust company. We may concede, as the court below did, that, as to that fund, the trust company was a constructive trustee for appellant, but this fact alone does not give it the preference it seeks. To have obtained that it would also have had to trace the money into some account or investment the proceeds of which formed part of the fund for distribution. This it did not even attempt to do.\nWe have recently considered and decided this point in In re Account of William D. Gordon, Secretary of Banking, Receiver of The Royersford Trust Company, 317 Pa. 490. After reviewing the recent applicable authorities, we concluded, as stated in a syllabus of that case: \u201cA trust creditor is not entitled to a preference over general creditors of an insolvent, merely on account of the nature of his claim. To obtain a preference he must trace the trust money into some specific property, or into some particular fund or account of the insolvent, then being distributed, with which the latter has mingled it.\u201d We see no reason to reach a different conclusion now. On the contrary, the great number of these claims being made at the present time warns us to adhere strictly to that conclusion.\nThe decree of the court below is affirmed and the appeal is dismissed at the cost of appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Simpson,"
+      }
+    ],
+    "attorneys": [
+      "Robert P. F. Maxwell, with him George F. Coffin and George F. Blewett, for appellant.",
+      "Robert E. Haas, Special Counsel, with him Charles J. Margiotti, Attorney General, and Bhippen Lewis, Special Deputy Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bangor Trust Company Account.\nArgued February 4,1935.\nBefore Frazer, C. J., Simpson, Schaffer, Maxey, Drew and Linn, JJ.\nMarch 25, 1935:\nRobert P. F. Maxwell, with him George F. Coffin and George F. Blewett, for appellant.\nRobert E. Haas, Special Counsel, with him Charles J. Margiotti, Attorney General, and Bhippen Lewis, Special Deputy Attorney General, for appellee."
+  },
+  "file_name": "0495-01",
+  "first_page_order": 525,
+  "last_page_order": 527
+}

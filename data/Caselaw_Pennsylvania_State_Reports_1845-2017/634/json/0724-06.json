@@ -1,0 +1,80 @@
+{
+  "id": 12280428,
+  "name": "Com. v. Barnett",
+  "name_abbreviation": "Com. v. Barnett",
+  "decision_date": "2015-12-22",
+  "docket_number": "540 EAL (2015)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 724"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 534",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6847347
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/121/0534-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.892,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24901973049394
+    },
+    "sha256": "9094bb2176ec843260bb6b5a9273ecde88df225b7a440d9bf47c55ef66e523b4",
+    "simhash": "1:2b4448f54766c143",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Barnett"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 534",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Barnett\n12/22/2015\n540 EAL (2015)"
+  },
+  "file_name": "0724-06",
+  "first_page_order": 768,
+  "last_page_order": 768
+}

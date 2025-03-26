@@ -1,0 +1,70 @@
+{
+  "id": 12282322,
+  "name": "Com. v. Lofton",
+  "name_abbreviation": "Com. v. Lofton",
+  "decision_date": "2016-02-01",
+  "docket_number": "551 EAL (2015)",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 98",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.702,
+    "sha256": "ef25543ecfd7d3cbb8608b62a8e5c8518bd5e4395091a8ea8ad6acc3f425283c",
+    "simhash": "1:2d72f3d4bb0ff9dd",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Lofton"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 98",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Lofton\n02/01/2016\n551 EAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0744-05",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

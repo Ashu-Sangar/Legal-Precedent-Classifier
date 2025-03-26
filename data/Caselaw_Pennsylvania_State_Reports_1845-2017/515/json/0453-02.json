@@ -1,0 +1,94 @@
+{
+  "id": 1806036,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Aldron GOODMAN, Respondent",
+  "name_abbreviation": "Commonwealth v. Goodman",
+  "decision_date": "1987-06-01",
+  "docket_number": "Petition No. 495 E.D. Allocatur Dkt. 1986",
+  "first_page": "453",
+  "last_page": "454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "515 Pa. 453"
+    },
+    {
+      "type": "parallel",
+      "cite": "529 A.2d 1077"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800491
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/512/0587-01"
+      ]
+    },
+    {
+      "cite": "512 A.2d 50",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 Pa.Super. 587",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 521,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06719947765294425
+    },
+    "sha256": "523984c7eec3bcd91cffeb578f0e67f5dbb985f690054ff2bfa3d7a8a6e8977e",
+    "simhash": "1:f50f0a08a0a7cebe",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T22:38:43.238776+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Aldron GOODMAN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW this first day of June, 1987, the Commonwealth\u2019s petition for allowance of appeal is granted; the order of the Superior Court, 356 Pa.Super. 587, 512 A.2d 50, is vacated; and the case is remanded to the Superior Court for reconsideration in light of our decision in Commonwealth v. Goldhammer (Goldhammer II), 512 Pa. 587, 517 A.2d 1280 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "529 A.2d 1077\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Aldron GOODMAN, Respondent.\nSupreme Court of Pennsylvania, Eastern District.\nJune 1, 1987."
+  },
+  "file_name": "0453-02",
+  "first_page_order": 639,
+  "last_page_order": 640
+}

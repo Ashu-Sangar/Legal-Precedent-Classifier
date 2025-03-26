@@ -1,0 +1,99 @@
+{
+  "id": 1099548,
+  "name": "Phillips, Appellant, v. Baltimore & Ohio R. R.",
+  "name_abbreviation": "Phillips v. Baltimore & Ohio R. R.",
+  "decision_date": "1926-11-22",
+  "docket_number": "Appeal, No. 126",
+  "first_page": "390",
+  "last_page": "392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "287 Pa. 390"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "241 U. S. 177",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8286162
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/241/0177-01"
+      ]
+    },
+    {
+      "cite": "239 U. S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3933227
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/239/0556-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 207,
+    "char_count": 3197,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 9.2066789973283e-08,
+      "percentile": 0.5098469061323653
+    },
+    "sha256": "35ca4c21b28c4e8c5c6a85814b6404a3dd9b83bdff65b7b89a856872bcf67901",
+    "simhash": "1:3a23d18f9aa4274f",
+    "word_count": 538
+  },
+  "last_updated": "2024-02-27T18:46:29.209929+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaerer, JJ."
+    ],
+    "parties": [
+      "Phillips, Appellant, v. Baltimore & Ohio R. R."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nPlaintiff sued under the Federal Employers\u2019 Liability Act for damages arising from injuries sustained by him while in defendant\u2019s employ. A verdict was rendered for plaintiff, but the court below entered judgment for defendant n. o. v., on the ground that plaintiff had not shown that he received his injuries while engaged in interstate commerce; hence this appeal.\nThe accident occurred while plaintiff was engaged in rearranging and remodeling bins in a stock house belonging to defendant. This structure and the bins in it were used for the storage of small materials and parts to be employed from time to time in the repair of defendant\u2019s tracks, locomotives and rolling stock, whether engaged in interstate or intrastate commerce. Unless it can be held on these facts that plaintiff was engaged in interstate commerce at the time of his injuries, he cannot recover under the Federal Liability Act.\nThe United States Supreme Court has said that, \u201cthe true test of employment in [interstate] commerce in the sense intended [by the act] is, was the employee at the time of the injury engaged in interstate transportation or in work so closely related to it as to be practically a part of it?\u201d: Shanks v. D., L. & W. R. R. Co., 239 U. S. 556, 558. Applying this test to the present case, it cannot be ruled that plaintiff was so engaged; he was altering bins in a storage house, and the relation of this work to interstate commerce was remote at best, \u2014 too remote to be \u201cpractically part of it.\u201d See Shanks v. D., L. & W. R. R. Co., supra; C., B. & Q. R. R. Co. v. Harrington, 241 U. S. 177.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "James A. Chambers, for appellant.",
+      "Wylie MeCaslin, for appellee, was not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Phillips, Appellant, v. Baltimore & Ohio R. R.\nNegligence \u2014 Railroads\u2014Injury to employee \u2014 Federal Employers\u2019 Liability Act \u2014 Altering bins in storage house \u2014 Character of employment.,\n1. In determining whether a workman of a railroad company was engaged in interstate employment at the time he was injured, the test is whether he was actually engaged in interstate transportation or in work so closely related to such transportation as to be practically a part of it.\nNovember 22, 1926:\n2. An employee of a railroad engaged in altering bins in a storage warehouse is not employed in interstate commerce, where the only evidence to show such employment is that the bins were used for the storage of small materials and parts to be employed from time to time in the repair of tracks; locomotives and rolling stock whether such were engaged in interstate or intrastate commerce.\nArgued October 4, 1926.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaerer, JJ.\nAppeal, No. 126, March T., 1926, by plaintiff, from judgment of C. P. Lawrence Co., June T., 1924, No. 95, on verdict for defendant n. o. v., in case of Norman E. Phillips v. Baltimore & Ohio Railroad Co.\nAffirmed.\nTrespass for personal injuries under Federal Employer\u2019s Liability Act. Before Hildebrand, P. J.\nThe opinion of the Supreme Court states the facts.\nVerdict for plaintiff for $5,500. Plaintiff appealed.\nError assigned- was in entering judgment for defendant n. o. v., quoting record.\nJames A. Chambers, for appellant.\nWylie MeCaslin, for appellee, was not heard."
+  },
+  "file_name": "0390-01",
+  "first_page_order": 414,
+  "last_page_order": 416
+}

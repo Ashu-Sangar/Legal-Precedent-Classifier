@@ -1,0 +1,70 @@
+{
+  "id": 12285710,
+  "name": "Com. v. Foley",
+  "name_abbreviation": "Com. v. Foley",
+  "decision_date": "2016-03-29",
+  "docket_number": "444 WAL (2015)",
+  "first_page": "760",
+  "last_page": "760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 97",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 155,
+    "ocr_confidence": 0.797,
+    "sha256": "5ef571e730923d6aef66af4ced31a6b61167e649b09bc4e1411094ae25d2c04c",
+    "simhash": "1:be76fa86a30ef08c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Foley"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 97",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Foley\n03/29/2016\n444 WAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0760-01",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

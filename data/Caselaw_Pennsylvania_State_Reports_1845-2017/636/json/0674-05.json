@@ -1,0 +1,104 @@
+{
+  "id": 12284955,
+  "name": "Com. v. Patton",
+  "name_abbreviation": "Com. v. Patton",
+  "decision_date": "2016-08-10",
+  "docket_number": "128 WAL (2016)",
+  "first_page": "674",
+  "last_page": "674",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 674"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 590",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485869,
+        12485870,
+        12485871,
+        12485872,
+        12485873,
+        12485874,
+        12485875,
+        12485876,
+        12485877,
+        12485878,
+        12485879,
+        12485880,
+        12485881,
+        12485882,
+        12485883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0590-10",
+        "/a3d/141-2/0590-11",
+        "/a3d/141-2/0590-12",
+        "/a3d/141-2/0590-13",
+        "/a3d/141-2/0590-14",
+        "/a3d/141-2/0590-15",
+        "/a3d/141-2/0590-01",
+        "/a3d/141-2/0590-02",
+        "/a3d/141-2/0590-03",
+        "/a3d/141-2/0590-04",
+        "/a3d/141-2/0590-05",
+        "/a3d/141-2/0590-06",
+        "/a3d/141-2/0590-07",
+        "/a3d/141-2/0590-08",
+        "/a3d/141-2/0590-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.884,
+    "sha256": "48423de0becdfee33f5951fc8d8087a5c2d0409df12152929eb84d323c945e24",
+    "simhash": "1:f247c24ea2c40a32",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Patton"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 590",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Patton\n08/10/2016\n128 WAL (2016)"
+  },
+  "file_name": "0674-05",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

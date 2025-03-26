@@ -1,0 +1,1542 @@
+{
+  "id": 1176709,
+  "name": "Commonwealth ex rel. Margiotti, Appellant, v. Union Traction Company of Philadelphia et al.",
+  "name_abbreviation": "Commonwealth ex rel. Margiotti v. Union Traction Co.",
+  "decision_date": "1937-10-08",
+  "docket_number": "Appeal, No. 1",
+  "first_page": "497",
+  "last_page": "540",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "327 Pa. 497"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "143 U. S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138766
+      ],
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/143/0224-01"
+      ]
+    },
+    {
+      "cite": "157 A. 794",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1134657
+      ],
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/305/0364-01"
+      ]
+    },
+    {
+      "cite": "148 A. 56",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "297 Pa. 583",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1118221
+      ],
+      "pin_cites": [
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/297/0583-01"
+      ]
+    },
+    {
+      "cite": "119 A. 834",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "276 Pa. 95",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1077640
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/276/0095-01"
+      ]
+    },
+    {
+      "cite": "118 A. 392",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "274 Pa. 436",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1072911
+      ],
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/274/0436-01"
+      ]
+    },
+    {
+      "cite": "27 N. J. Eq. 1",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        536598
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/27/0001-01"
+      ]
+    },
+    {
+      "cite": "167 Pa. 62",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        866789
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/167/0062-01"
+      ]
+    },
+    {
+      "cite": "66 A. 1108",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Pa. 599",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        953657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/217/0599-01"
+      ]
+    },
+    {
+      "cite": "65 Pa. 205",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430681
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/65/0205-01"
+      ]
+    },
+    {
+      "cite": "53 Pa. 20",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1004781
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/53/0020-01"
+      ]
+    },
+    {
+      "cite": "41 Pa. 447",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        480056
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/41/0447-01"
+      ]
+    },
+    {
+      "cite": "178 Pac. 565",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Colo. 558",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        2691275
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/65/0558-01"
+      ]
+    },
+    {
+      "cite": "35 N. E. 608",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Ill. 234",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        833788
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/147/0234-01"
+      ]
+    },
+    {
+      "cite": "14 Nev. 209",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        8577579
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/14/0209-01"
+      ]
+    },
+    {
+      "cite": "317 Mo. 49",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8733481
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/317/0049-01"
+      ]
+    },
+    {
+      "cite": "27 S. W. 366",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Mo. 69",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        939252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/123/0069-01"
+      ]
+    },
+    {
+      "cite": "198 N. W. 994",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Mich. 291",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1688932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/227/0291-01"
+      ]
+    },
+    {
+      "cite": "192 A. 112",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "326 Pa. 213",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1174479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/326/0213-01"
+      ]
+    },
+    {
+      "cite": "176 A. 737",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "317 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845685
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/317/0284-01"
+      ]
+    },
+    {
+      "cite": "169 A. 758",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "313 Pa. 388",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1152700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/313/0388-01"
+      ]
+    },
+    {
+      "cite": "178 A. 44",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "317 Pa. 520",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/317/0520-01"
+      ]
+    },
+    {
+      "cite": "101 A. 820",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/257/0503-01"
+      ]
+    },
+    {
+      "cite": "13 A. 199",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        558128
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/119/0365-01"
+      ]
+    },
+    {
+      "cite": "13 A. 941",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559722
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/120/0284-01"
+      ]
+    },
+    {
+      "cite": "175 A. 494",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "317 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845117
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/317/0023-01"
+      ]
+    },
+    {
+      "cite": "116 A. 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "272 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1068399
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/272/0468-01"
+      ]
+    },
+    {
+      "cite": "17 A. 591",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        968932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/126/0274-01"
+      ]
+    },
+    {
+      "cite": "183 A. 793",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "321 Pa. 177",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165908
+      ],
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/321/0177-01"
+      ]
+    },
+    {
+      "cite": "145 U. S. 368",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3562181
+      ],
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/145/0368-01"
+      ]
+    },
+    {
+      "cite": "39 A. 42",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1898,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        896133
+      ],
+      "year": 1898,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/183/0405-01"
+      ]
+    },
+    {
+      "cite": "17 Pa. Corp. Rep. 269",
+      "category": "reporters:state",
+      "reporter": "Pa. Corp.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Pa. Corp. Rep. 308",
+      "category": "reporters:state",
+      "reporter": "Pa. Corp.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Pa. Corp. Rep. 151",
+      "category": "reporters:state",
+      "reporter": "Pa. Corp.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Pa. Super. Ct. 242",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        643233
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/73/0242-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. Super. Ct. 135",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        662751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/84/0135-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. Super. Ct. 8",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        661187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/83/0008-01"
+      ]
+    },
+    {
+      "cite": "73 A. 923",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Pa. 544",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963124
+      ],
+      "pin_cites": [
+        {
+          "page": "p. 550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/224/0544-01"
+      ]
+    },
+    {
+      "cite": "114 A. 642",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1921,
+      "opinion_index": 0
+    },
+    {
+      "cite": "271 Pa. 39",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        295685
+      ],
+      "weight": 2,
+      "year": 1921,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/271/0039-01"
+      ]
+    },
+    {
+      "cite": "25 A. 516",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1893,
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838078
+      ],
+      "year": 1893,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/152/0153-01"
+      ]
+    },
+    {
+      "cite": "79 A. 659",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1911,
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846402
+      ],
+      "weight": 2,
+      "year": 1911,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/230/0434-01"
+      ]
+    },
+    {
+      "cite": "191 Fed. 257",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        41691
+      ],
+      "pin_cites": [
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/191/0257-01"
+      ]
+    },
+    {
+      "cite": "23 Pa. Superior Ct. 235",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        847625
+      ],
+      "pin_cites": [
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/23/0235-01"
+      ]
+    },
+    {
+      "cite": "18 A. 138",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Pa. 317",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        568061
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/129/0317-01"
+      ]
+    },
+    {
+      "cite": "56 A. 41",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        931849
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/206/0582-01"
+      ]
+    },
+    {
+      "cite": "25 A. 1105",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Pa. 47",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        840321
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/153/0047-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. 351",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011203
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/9/0351-01"
+      ]
+    },
+    {
+      "cite": "184 A. 542",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "321 Pa. 574",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165865
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/321/0574-01"
+      ]
+    },
+    {
+      "cite": "138 A. 497",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "290 Pa. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1104417
+      ],
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/290/0136-01"
+      ]
+    },
+    {
+      "cite": "64 A. 909",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        950398
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/216/0108-01"
+      ]
+    },
+    {
+      "cite": "3 Grant 200",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        229125
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/grant/3/0200-01"
+      ]
+    },
+    {
+      "cite": "164 A. 515",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 Pa. 447",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141581
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0447-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454309
+      ],
+      "year": 1884,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/105/0484-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050759
+      ],
+      "year": 1876,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/83/0105-01"
+      ]
+    },
+    {
+      "cite": "2 Jones 365",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "case_ids": [
+        8682593
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/47/0365-01"
+      ]
+    },
+    {
+      "cite": "81* Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1870,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021285
+      ],
+      "year": 1870,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/64/0339-01"
+      ]
+    },
+    {
+      "cite": "56 Pa. 270",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1009157
+      ],
+      "weight": 2,
+      "year": 1868,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/56/0270-01"
+      ]
+    },
+    {
+      "cite": "7 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        957770
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/7/0034-01"
+      ]
+    },
+    {
+      "cite": "12 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963758
+      ],
+      "weight": 3,
+      "year": 1850,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/12/0365-01"
+      ]
+    },
+    {
+      "cite": "20 Pa. 415",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        972390
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/20/0415-01"
+      ]
+    },
+    {
+      "cite": "203 Pa. 608",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994679
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/203/0608-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. Superior Ct. 483",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        975953
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/114/0483-01"
+      ]
+    },
+    {
+      "cite": "90 Pa. Superior Ct. 51",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        671959
+      ],
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/90/0051-01"
+      ]
+    },
+    {
+      "cite": "241 Pa. 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976053
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/241/0230-01"
+      ]
+    },
+    {
+      "cite": "204 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        927462
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/204/0151-01"
+      ]
+    },
+    {
+      "cite": "325 Pa. 497",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1172254
+      ],
+      "pin_cites": [
+        {
+          "page": "503-504"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/325/0497-01"
+      ]
+    },
+    {
+      "cite": "27 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        979639
+      ],
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/27/0339-01"
+      ]
+    },
+    {
+      "cite": "110 N. E. 1",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "269 Ill. 212",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        4800759
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill/269/0212-01"
+      ]
+    },
+    {
+      "cite": "191 U. S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3620143
+      ],
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/191/0427-01"
+      ]
+    },
+    {
+      "cite": "167 U. S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3595150
+      ],
+      "pin_cites": [
+        {
+          "page": "264-265"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/167/0224-01"
+      ]
+    },
+    {
+      "cite": "149 U. S. 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3569543
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/149/0662-01"
+      ]
+    },
+    {
+      "cite": "12 So. 377",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "97 Ala., 111",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3215922
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ala/97/0111-01"
+      ]
+    },
+    {
+      "cite": "152 S. W. 67",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "246 Mo. 618",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8843778
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo/246/0618-01"
+      ]
+    },
+    {
+      "cite": "99 N. E. 370",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "255 Ill. 144",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        4703052
+      ],
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill/255/0144-01"
+      ]
+    },
+    {
+      "cite": "22 U. S. 318",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "9 Wheaton 720",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421291
+      ],
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/22/0720-01"
+      ]
+    },
+    {
+      "cite": "243 U. S. 389",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3691882
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/243/0389-01"
+      ]
+    },
+    {
+      "cite": "146 U. S. 120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3564250
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/146/0120-01"
+      ]
+    },
+    {
+      "cite": "140 U. S. 599",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3555019
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/140/0599-01"
+      ]
+    },
+    {
+      "cite": "283 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090544
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/283/0196-01"
+      ]
+    },
+    {
+      "cite": "259 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038371
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/259/0333-01"
+      ]
+    },
+    {
+      "cite": "28 Pa. 383",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981645
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/28/0383-01"
+      ]
+    },
+    {
+      "cite": "143 U. S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138766
+      ],
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/143/0224-01"
+      ]
+    },
+    {
+      "cite": "276 Pa. 95",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1077640
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/276/0095-01"
+      ]
+    },
+    {
+      "cite": "274 Pa. 436",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1072911
+      ],
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/274/0436-01"
+      ]
+    },
+    {
+      "cite": "23 Pa. Superior Ct. 235",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        847625
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/23/0235-01"
+      ]
+    },
+    {
+      "cite": "129 Pa. 317",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        568061
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/129/0317-01"
+      ]
+    },
+    {
+      "cite": "206 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        931849
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/206/0582-01"
+      ]
+    },
+    {
+      "cite": "153 Pa. 47",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        840321
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/153/0047-01"
+      ]
+    },
+    {
+      "cite": "3 Grant 200",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        229125
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/grant/3/0200-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050759
+      ],
+      "weight": 2,
+      "year": 1876,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/83/0105-01"
+      ]
+    },
+    {
+      "cite": "81* Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1870,
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "64 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021285
+      ],
+      "year": 1870,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/64/0339-01"
+      ]
+    },
+    {
+      "cite": "12 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963758
+      ],
+      "year": 1850,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/12/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2436,
+    "char_count": 85400,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 5.5236599162523e-07,
+      "percentile": 0.9465939906148969
+    },
+    "sha256": "a0f40e967e4c015aeb3fcc7f08c05fb2ba4fb65c2f71e69f77f85178d0567572",
+    "simhash": "1:da2fa020c37a2bef",
+    "word_count": 14710
+  },
+  "last_updated": "2024-02-27T22:14:10.983661+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.",
+      "Mr. Justice Stern and Mr. Justice Barnes concur in this dissent."
+    ],
+    "parties": [
+      "Commonwealth ex rel. Margiotti, Appellant, v. Union Traction Company of Philadelphia et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justice Linn,\nThis appeal is from an order quashing a writ of quo warranto directed to forty-three respondent corporations and intended to procure forfeiture of their charters for alleged misuser and nonuser of secondary franchises to hold and operate street railways in Philadelphia. The writ was issued at the relation of and on a Suggestion filed by the attorney general. The charge is that by lease and stock ownership respondents unlawfully conspired to avoid performing corporate duties, with resulting damage to the public. The extent of the conspiracy, in point of time, and its character, as respects overt acts, may be understood by keeping in mind that many of the respondents were incorporated by special acts of assembly prior to the adoption of the Constitution of 1873 and many of them under general acts passed since; that many leases, contracts, enabling acts and city ordinances passed long ago are involved; that the last lease made by any respondent was made in 1902 by Union Traction Company to Philadelphia Rapid Transit Company (not a party to this suit). It also appears that since then the lessee has been operating street railways in Philadelphia under that lease, and under additional leases and contracts of the same character as some of those complained of.\nRespondents moved to quash the writ, assigning many reasons which the learned court below reduced to twelve. We need not consider whether all are valid; as the Suggestion for the writ shows on its face that the Commonwealth is estopped from claiming the forfeiture on the case presented, the Suggestion is defective in substance. It is therefore unnecessary to state in detail the grounds for the proceeding set forth in the Suggestion. Assuming that some defects might be cured by amendment, there is no escape from the conclusion that the record shows the Commonwealth is estopped from forfeiting the charters.\n1. The attorney general insists that if the Commonwealth, at his relation, files a suggestion for a writ of quo warranto the writ must be granted; that the Commonwealth\u2019s right to the writ and to a trial is absolute as the exercise of the sovereign\u2019s prerogative; that the court has no discretion about it, even though discretion may be exercised to the extent of refusing or quashing a writ sought in the name of the Commonwealth at the instance of a private relator; that a motion to quash will not lie; that respondents have no alternative but to demur, answer or plead.\nThe contention must be rejected. Against it are the express terms of the Act of June 14, 1836, P. L. 621, 12 PS section 2021 et seq., as well as prior and subsequent decisions dealing with this subject. The jurisdiction in quo warranto, for the first time vested in the common pleas by the Act of 1836, is an adaptation of provisions of the statute of 9th Anne (1710) reprinted in Roberts\u2019 Digest, page 384, which, as a result of the construction put upon our Act of 1722, may be said, in a general way, to have determined the nature of the jurisdiction in quo warranto exercised by this court, as well as the procedure.\nPrior to the Act of 1836 vesting concurrent jurisdiction in the common pleas in certain cases in quo warranto, this court had exclusive jurisdiction. Section 1, vesting jurisdiction in the Supreme Court, was declaratory of the existing law: Murphy v. Farmers\u2019 Bank of Schuylkill County, 20 Pa. 415. Section 2 \u2022 provides: \u201cWrits of quo warranto in the form and manner hereinafter provided, may also be issued by the several courts of Common Pleas, concurrently with the Supreme court in the following cases, to wit: . . . IV. In case any association, or number of persons, shall act as a corporation, or shall exercise any of the franchises or privileges of a corporation, within the respective county, without lawful authority. V. In case any corporation as aforesaid, shall forfeit by misuser, or nonuser, its corporate rights, privileges or franchises, or shall do, suffer, or omit to do, any act, matter or thing, whereby a forfeiture thereof shall by law be created, or shall exercise any power, privilege or franchise not granted or appertaining to such corporation. And in any such case, the writ aforesaid may be issued upon the suggestion of the Attorney General, or his deputy, in the respective county, or of any person or persons desiring to prosecute the same.\u201d\n\u25a0 Section 3 provides, \u201cWhenever the Attorney General shall have reason to believe that any association as aforesaid, have acted as a corporation, or exercised any of the franchises or privileges thereof, without lawful authority, or that any corporation has forfeited its corporate rights, privileges, or franchises, as aforesaid, or exercised any power, privilege, or franchise, not granted or appertaining to such corporation, it shall be his duty to file, or cause to be filed, a suggestion as aforesaid, and to proceed thereon for the determination of the matter.\u201d\nThe words of the Act are that the writ \u201cmay also be issued\u201d by the common pleas. The cases hold that \u201cmay\u201d is used in its permissive and not in its mandatory sense, and that whether the writ shall issue, or, having issued, shall be tried, rests in the discretion of the court. To accept the attorney general\u2019s argument that a motion to quash will not be entertained and that respondents must demur, answer or plead, even though the Suggestion shows that the Commonwealth is not entitled to assert the forfeiture, would require a reversal of the procedure long established and followed and would place a power in the attorney general hitherto withheld from that officer. To show that he is in error in contending that the cases support his view, and that, on the contrary, they support respondents\u2019 position, we shall refer to a number of them at the risk of unduly extending this opinion.\nIn Commonwealth v. Jones, 12 Pa. 365 (1850), in quashing a writ, Gibson, C. J., said: \u201cThe writ of quo warranto iunder the Act of 1836 is not more a matter of right than is the quo warranto information under the statute of Anne. The legislature has spoken guardedly on the subject. \u2018Writs of quo warranto MAY be issued by the Supreme Court,\u2019 and \u2018writs of quo warranto MAY be issued by the Common Pleas,\u2019 is language so circumspect as to, convince us that the intention was to give the same control over the writ which the Court had exercised over the information. The object was to combine in it all that was valuable in the ancient writ, with all that was convenient and proper in the quo warranto information. ...\u201d\n\u201cNow it is well known that an information at the suggestion of a relator was always preceded, in this Court, by a rule to show cause, as it is in the Queen\u2019s Bench at this day. The Court itself stood as an inquest, between the accuser and the accused. No man would submit to be the dispenser of corporate patronage, if nothing else were between him and vexatious prosecution, than the magnanimity and justice of the displaced officer or disappointed applicant. ...\u201d\n\u201cThe practice under our statute, however, has been wrong. The writ has inadvertently issued on the filing of the suggestion, and consequently improvidently; so that it would be impossible to resist a motion to quash for that reason alone. But the ground of the prosecution may, at the same time, he examined as if the case stood on a rule to show cause. [Italics supplied.] The eye of the Court had not been directed to the irregularity, but henceforth it shall be avoided.\n\u201cNow a Court will refuse its leave to issue a quo warranto writ, wherever it would have refused its leave to file a quo warranto information. Before the accession of Lord Mansfield to the chiefship of the King\u2019s Bench, it was the practice to file almost of course; but in Rex v. Wardroper, 4 Burr. 1964, he put his hand on it, saying that The Stat. 9 Ann. c. 20, had a view to the speedy justice to be done against the usurpers of offices in corporations, as well as to quiet the possession of those who had right; and that act,\u2019 he said, 'does not leave it to the discretion of the officer (the master of the crown office), as it was before, but puts it in the discretion of the Court; therefore the Court must exercise a discretion. It would be very grievous if the information should go of course, and it would be a breach of trust in the Court to grant it as of course.\u2019 In Rex v. Dawes, Ib. 2022, the same Avas said in substance; and in Rex v. Sargent, 5 T. R. 457, Lord Kenyon approved of it. There are several cases in which leave to file was refused, though there was a clear defect in the incumbent\u2019s title. Thus, in Rex v. Parry, 6 Ad. & Ell. 810, where no answer was given to an objection to it, the Court refused even a rule, because no fraud was imputed; because no mischief appeared to have been done, and because the object of the relators appeared to be a dissolution of the corporation. In Rex v. Bond, 2 T. R. 767, as well as in Rex v. Trevanen, 2 B. & A. 479, it was said that leave will not be given when the circumstances induce a suspicion of the relator\u2019s motive: Rex v. Trelawney, 3 Burr, 615; Rex v. Midlecoat, 2 Barnard. 221; Reg. v. Archdall, 8 Ad. & Ell. 281, and some other cases, are to the same general eifect.\u201d\nIn Murphy v. Farmers\u2019 Bank of Schuylkill County, 20 Pa. 415 (1853) a writ issued by leave of court without a rule. The Suggestion averred misuser. The bank moved to quash on the ground that the writ was issued at the instance of a private relator instead of the attorney general; that the relator was not a stockholder or creditor of the hank and claimed no office or other private right in it. The court said that the question \u201cdepends on the construction of the Act of 14th June, 1836, for, independently of that Act, it is beyond dispute that the Commonwealth only could have quo warranto for the purposes of the present proceeding.\u201d It was held that as the relator had \u201cshown no right or title to maintain the information in the name of the Commonwealth\u201d the writ must be quashed. The court pointed out that the Act of 1836 \u201cgrants no powers to, imposes no limitations on, and prescribes no rules for the Supreme Court whatever\u201d; that \u201call the provisions that follow in this section [the second section] are limited to the Common Pleas, and have no reference to the Supreme Court. They are provisions to regulate the new jurisdiction bestowed on the Common Pleas, and do not touch the old jurisdiction of the Supreme Court. . . . The statute of Anne was enacted in 1710, and gave jurisdiction in Quo Warranto to the Queen\u2019s Bench. In 1722 our Supreme Court was authorized to issue habeas corpus, certiorari, writs of error, and all remedial writs, and were clothed with the same jurisdictions and powers as the Justices of the Court of King\u2019s Bench, Common Pleas, and Exchequer, at Westminster. This was a sufficient warrant for this Court to adopt in practice a rule prescribed in the statute of Anne, and justifies the remark of Judge Gibson in Burrell\u2019s Case, [7 Pa. 34] that the substance of that statute had been adopted before our revolution as part of our common law.\u201d At the close of the opinion, Woodward, J., said: \u201cAnother question is made here which deserves to be noticed, because it touches the practice in cases like the present. It is said the writ can be issued only after a rule to show cause: and for that, Jones\u2019 case [12 Pa. 365] in 2d Jones is an undoubted authority. The statute of Anne has the words by the leave of the Court, and the fifth section of the Act of 1836, applicable alike to the Supreme Court and the Common Pleas, provides that the writ may issue with the leave of the Court in term time, or of a judge in vacation. This is sufficiently complied with by the motion which is made, and the allowance of the writ without a hearing. But all analogy and principle show that the party respondent must have a hearing before he is put to answer. This we allow him in a motion to quash the writ. [Italics supplied.] And notwithstanding what was said in the Jones' case, we are inclined to sustain this practice, and dispense with the preliminary rule. It is a matter of form and not of substance; so that the respondent is secure of his preliminary hearing, it matters little whether it be on a rule to show cause, or the less cumbrous motion to quash\u201d (p. 420).\nIn Com. v. Cluley, 56 Pa. 270 (1868), on the suggestion of a private relator, a rule was granted to show by what warrant respondent exercised the office of sheriff. The court considered the suggestion insufficient in substance and refused the writ. Strong, J., said: \u201cA writ of quo warranto is not a writ of right. Even our Act of Assembly of June 14th 1836, recognizes this. It enacts that such writ mwy be issued by the Supreme Court in all cases in which the writ of quo warranto at common law may have been issued, and in which the said court had, before the passage of the act, possessed the power of granting informations in the nature of such writ. . . . Under the British statute it was always held to be within the discretion of the court whether to grant or withhold an information in the nature of a quo warranto, and the court acknowledged themselves bound to exercise a sound discretion upon consideration of the particular circumstances of each case. This was said by Lord Mansfield . . . and there are cases in which courts have refused leave to file an information at the suggestion of a private relator, even when a valid objection to the defendant\u2019s title has been shown: Rex v. Parry, 6 Ad. & E. 810; 2 N. & P. 414. Nor has this court since the Act of 1836, adopted any other rule. In Commonwealth v. Jones, 12 Penn. St. Rep. 365, the British practice was recognized as the rule with us, and though it has since been decided that it is not indispensable a rule to show cause should be obtained before the writ can issue, no decision has been made that this court is obliged to entertain such writ, if in their opinion it was improvidently issued. The issue of the writ does not end the discretion of the court.\u201d [Italics supplied.] (271-272.)\nCommonwealth ex rel. v. Graham, 64 Pa. 339 (1870), arose on a motion to quash a writ issued at the instance of private relators, members of the board of trustees of a church congregation. The motion to quash was overruled. In the course of the opinion Read, J., said: \u201cThis writ was allowed by. the Chief Justice, and the rule to show cause is entirely dispensed with: Murphy v. Farmers\u2019 Bank of Schuylkill County, 8 Harris 415; Commonwealth v. Commercial Bank of Pennsylvania, 4 Casey 383. In these cases motions to quash were made, and in the first the writ was quashed, whilst in the second the motion to quash the writ was overruled. Since the case in 4 Casey, which was thirteen years ago, motions to quash seem to have fallen into disuse, and the course pointed out by the Act of the 14th June 1836, has been pursued, the defendants either answering, pleading, or demurring to the suggestion filed.\n\u201cUpon a motion to quash, it must be for some defect in the suggestion itself, and not for any matter outside of it. Mere defects in form that can be amended will not be regarded. All the affidavits and evidence that have been put before us by either side must be laid aside, and we must confine our attention to the suggestion alone. The suggestion seems regular in form, and if demurred to, it would seem might hold water: 4 Casey 387. It asserts the title of the relators, which upon demurrer would seem to be sufficient. We do not so decide now, but a reasonable doubt, or rather a reasonable belief, that such might be the case must oblige us to refuse the motion.\u201d (342.)\nThough the court, in that opinion, said that, in the thirteen years immediately preceding, \u201cmotions to quash seem to have fallen into disuse,\u201d subsequent reports show that such motions again came into use.\nIn Com. ex rel. v. Dillon, 81* Pa. 41 (1870), after the proceeding was at issue, the attorney general proposed to discontinue, and certain persons, claiming an interest, asked leave to amend by suggesting their interest and substituting themselves as relators instead of the attorney general. Their rule was discharged. In the course of his opinion, Sharswood, J., said: \u201cUpon the motion to quash the writ, which has been substituted for the old practice of a previous rule to show cause why it should issue, Murphy v. Farmers\u2019 Bank of Schuylkill County, 8 Harris 415, the court will consider, not merely the legal questions which may be involved, but the broad questions of the justice and propriety of the proceeding: Commonwealth v. Jones, 2 Jones 365. It is too late to make such a motion after pleading to the suggestion.\u201d (46.)\nIt will be noted that the motion to quash was deemed a substitute \u201cfor the old practice of a previous rule to show cause why it [the writ] should issue,\u201d and that the court should consider the justice and propriety of the proceeding.\nIn Com. ex rel. Attorney General v. Walter, 83 Pa. 105 (1876), the right to a public office was challenged on the ground of bribery (Article VIII section 9 of the Constitution). An answer was filed to the suggestion. Notwithstanding the answer, the right to issue the writ was challenged by motion. Paxson, J., said: \u201cAll this took place upon a rule to show cause why the writ of quo warranto should not go out. The learned judge of the court below was of opinion that the case was not one in which the writ should issue, and discharged the rule, yet on the request of the counsel for the Commonwealth directed the writ to be issued pro forma, and immediately quashed it.\n\u201cIt is proper to remark as a matter of practice, that when the Commonwealth through her attorney-general applies for a writ of quo warranto, she is entitled to it without a previous rule to show cause. It is not to be presumed that the law officer of the Commonwealth would apply for this high prerogative writ for personal or private ends. He is supposed to be impartial, and to seek only the vindication of the rights of the state. It is not so in the case of a private relator, who is usually put to his rule to show cause. It might not be so where the attorney-general merely allows private counsel to use his name, as is sometimes done to procure the writ. But when the attorney-general or his recognized deputy assumes the responsibility the writ should issue in the first instance.\u201d The point decided was that the writ would lie without a prior conviction on an indictment charging bribery and that the violation of the constitutional provision and the resulting disqualification to hold office could be tried in the quo warranto.\nIn Gilroy et al. v. Commonwealth ex rel., 105 Pa. 484 (1884), a writ was issued at the relation of a district attorney to try the right to the office of school directors. A motion to quash was made on the grounds (1) that it was granted on the information of the district attorney, (2) that it issued without a preliminary rule to show cause and (3) that it was made by a person without a special interest in the office. The motion was refused. It was held that by the Act of May 3, 1850, the district attorney had the powers formerly in a deputy attorney general and was authorized to malte the suggestion. On the second point, it was said that while Commonwealth v. Jones, 12 Pa. 365, held a rule to show cause necessary, later cases, Murphy v. Bank, 20 Pa. 415, and Com. v. Cluley, 56 Pa. 270, \u201chave so modified this decision as to hold that the rule to show cause is not indispensable. In such case the practice is analogous to that prescribed by the British statute of 9 Anne, under which the writ was allowed by the court, and as the matter thus rests throughout in the sound discretion of the court, if it appears at any time during the trial that the writ issued improvidently, the court may refuse to entertain it. This removes the necessity of a strict insistence upon the rule to show cause, since the defendant does not thereby lose his opportunity of showing that the suggestion should not have been entertained.\u201d (487.) As late as Commonwealth ex rel. Miller v. Sommer, 309 Pa. 447, 164 A. 515 (1932), we repeated that the writ lay in the discretion of the court.\nIn Com. ex rel. Attorney General v. West Chester R. R. Co., 3 Grant 200, a motion to quash the writ which had been issued at the relation of the attorney general, was granted. The court examined the \u25a0 Suggestion to see whether it set forth a cause of forfeiture and, adopting respondent\u2019s (instead of the attorney general\u2019s) construction of the incorporation act, held the Suggestion defective for want of such cause, quashed the writ.\nThe general effect of the cases is summarized as follows in 51 C. J., p. 332, sec. 34: \u201cIn a few jurisdictions the discretion of the court in a quo warranto proceeding is limited to the grant or refusal of leave to file an information, and is expended when leave to file is granted and an information is filed in pursuance thereof. In a majority of jurisdictions, however, the court may in its discretion withhold relief or decline to proceed to judgment, and it may exercise this discretion, and dismiss the proceeding or render judgment for defendant, upon the. ease made by the pleadings, or at the final hearing, where the facts disclosed are such that if they had been made known in the first instance leave to file the information would have been refused, as where there has been laches or long acquiescence on the part of the relators or the public, or where the rendition of a judgment of ouster would not be in the public interest or serve any good end or purpose.\u201d\nA respondent\u2019s right to a determination that the suggestion is defective in substance can not depend, as suggested at the argument, on whether a writ issues at the instance of the attorney general without a rule to show cause, but will not issue at the instance of a private relator without such a rule, because it is clear, from what has been decided in cases quoted, that respondent, by motion to quash may show that the suggestion is defective in substance, after the writ is out. The right to such determination follows from the discretionary character of the power exercised before and since the Act of 1836 and by it vested in the common pleas in such proceedings. The ninth section of the Act of 1836 providing that the defendant shall answer, plead or demur to the suggestion, has not, as the cases quoted show, displaced the motion to quash as a method of calling attention to a fatal defect of substance in the suggestion.\n2. We come then to respondents\u2019 contention, inter alia, that it appears from the Suggestion and exhibits that the asserted right of forfeiture should not be allowed, and that this is a defect on the merits not curable by amendment. If that is the fact, this appeal may be disposed of on that ground without discussion of other objections made by respondents.\nThe Commonwealth\u2019s position is stated as follows: \u201cA suggestion for a writ of quo warranto is not lacking in merit when it avers a conspiracy consisting of specific agreements by all defendants and a general course of conduct by many, resulting in injury to the public and to individuals through nonuser and misuser of franchises.\u201d No usurpation of power is charged. The complaint is of \u201cnonuser and misuser of franchises\u201d; the burden of showing that is on the Commonwealth. A forfeiture of corporate franchises will not be declared except for substantial reasons: Com. v. Monongahela Bridge Co., 216 Pa. 108, 64 A. 909; Com. v. Amer. Baseball Club, 290 Pa. 136, 146, 138 A. 497; Com. ex rel. Margiotti v. Neptune Club, 321 Pa. 574, 184 A. 542.\nFor convenience the franchise of a respondent to be a corporation has been regarded as primary and the powers to be exercised by them in holding and operating street railways as the secondary franchises. If it appear by the Suggestion that what is charged to be misuser or nonuser of secondary franchises was in fact authorized by legislation, or that the right to ask a decree of forfeiture for the defaults alleged has been waived, that the Commonwealth is estopped by laches, the court must refuse a decree forfeiting the franchises. The leases have been made part of the Suggestion and are before us.\nEstoppel by laches may be asserted against the Commonwealth. In Com. ex rel. Attorney General v. West Chester R. R. Co., 3 Grant 200 (supra), one of the grounds of forfeiture alleged was that some of the subscribers to stock, instead of paying their subscriptions in cash, as required, had given promissory notes. In holding the Commonwealth estopped from claiming forfeiture on this ground, the court said: \u201cBut if there was anything originally in this objection, it has been repeatedly waived by subsequent legislation [then referred to]. . . . After obtaining large subscriptions to its stock from the borough of West Chester, and from individuals \u2014 after borrowing money on the credit of its road and its appurtenances, on its preferred stock, and even on the mortgage of its corporate franchises, in pursuance of direct authority from the legislature, conferred since the happening of the irregularity now complained of, and after expending the money in the construction of the contemplated work, it would be the grossest injustice to permit the State to avoid the charter for the mistakes of her own agents in matters of minor importance. As against innocent stockholders and capitalists who advanced their money on the faith of the grants of the State, authenticated by the highest evidence known to the law, she is certainly bound by an estoppel founded upon the purest equity. As against such parties, she must be deemed cognizant of the acts of her agents, and must be held to have waived all irregularities in bringing the corporation into existence: 9 Wend. 351.\u201d (p. 202.) To the same effect see Com. v. Bala & Bryn Mawr Turnpike Co., 153 Pa. 47, 25 A. 1105; City of Bradford v. N. Y. & Penna. T. & T. Co., 206 Pa. 582, 56 A. 41; Com. v. Hulings, 129 Pa. 317, 18 A. 138; Com. v. Philadelphia, H. & P. R. R. Co., 23 Pa. Superior Ct. 235, 250; a collection of cases on the subject will be found in State of Iowa v. Carr (C. C. A. 8th), 191 Fed. 257, 266.\nWe then inquire what are the facts supporting estoppel by laches. About sixty-five years have passed since the making of the first lease declared on and thirty-five years since the making of the last (Union Traction Co., respondent, to Philadelphia Rapid Transit Company, not a respondent); about forty-two years have passed since Philadelphia Traction Company leased to Union Traction Company. These transactions were public during all the intervening periods. Many of them were the subject of, or result of, enabling legislation passed with the facts in full view: see for example, the Act of April 15, 1907, P. L. 80, 67 PS section 1256, construed in Brode v. City of Philadelphia, 230 Pa. 434, 79 A. 659 (1911). Case after case in the appellate courts and (since it was established) before the Public Service Commission, brought the character of the corporate organization of these companies and their relation among themselves, which, as we understand the attorney general, constitutes the conspiracy complained of, to the attention of the Commonwealth and its agents. Among them, are Reeves et al. v. Phila. Traction Co. et al., 152 Pa. 153, 25 A. 516 (1893), holding that a municipal ordinance granting consent to the lessor to operate by overhead wires, etc., enures to the benefit of lessee though not named. Mitchell, J., said, (p. 165) \u201cIn the present case the thing to be done was the operation of the railways on the streets named by the overhead electric system, and the corporation by which in fact it was to be done was the Traction Company. Whether by virtue of its own powers or by those of its lessor, was of no moment to the public interests, for, as already said, all the powers of both were in the same hands. But the street railway companies, though they had parted with the present control of all their powers except the reserved franchise to be a corporation, were nevertheless the owners not only of all the franchises but of all the plant, or property necessary for the use of such franchises. To them by virtue of their reversionary interests, it would all finally come upon the termination of the lease, whether by its own limitations, or by surrender, for forfeiture or new contract.\u201d\nBrode v. Phila., 230 Pa. 434, 79 A. 659 (1911), involved the contract constituted by ordinance enacted pursuant to the Act of April 15, 1907, P. L. 80, authorizing contracts by cities and street railway or motor power companies \u201cleasing and operating the franchises and property of such companies\u201d; the ordinance is set forth in the report of the case, and, at p. 437, mal\u00edes the following recitals showing general public knowledge of the transactions now complained of as ground for forfeiture: \u201cWhereas, Beginning about the year 1857 different companies to the number of upwards of fifty, incorporated by the Commonwealth of Pennsylvania, have been granted consent by the City to occupy various streets of the city for the purpose of transporting passengers from point to point along the same, which franchises and consents have been granted subject to various conditions and restrictions;\n\u201cAnd Whereas, These companies were subsequently leased for long terms of years by traction or motor-power companies, which have installed the electrical system of propulsion of cars, all of which leases have now, by assignments and various conveyances, become vested in the Company, which thus controls and operates as one general system practically all of the street passenger railway companies in the City of Philadelphia; . . .\n\u201cAnd Whereas, The terms, conditions, restrictions and liabilities which have been imposed upon these various companies (all of which shall be taken as included in the words \u2018subsidiary companies\u2019 wherever the same are hereinafter used) differ widely, and there is dispute and uncertainty with respect to the effect of many of the provisions thereof, and it is believed that it is to the interest of the public as well as of the parties hereto to supersede the former regulations, and to define and regulate the relations between the parties hereto so as to make them fixed, fair and uniform;\u201d the parties agreed in \u201cconfirming of the rights and franchises of itself [The Philadelphia Rapid Transit Company] and its underlying companies [present respondents] under the conditions herein contained.\u201d (p. 439.)\nIn Citizens Passenger Ry. Co. v. Public Service Com., 271 Pa. 39, 114 A. 642 (1921), the opinion states: \u201cOriginally there were a number of street passenger railway companies in the City of Philadelphia, operating under separate charters, and each limited to a specific route of travel. Believing that combination would be more profitable, favorable legislation was obtained, one road would lease others, and those owned and leased would be run as a single system. Ultimately many of them were leased by the Philadelphia Traction Company, which, with its leased lines and those still operating under their original charters, were later leased by the Union Traction Company; and it, in turn, with all its leased lines, was leased by the Philadelphia Rapid Transit Company, which is now the sole operating company in the city. This latter lease is the only one to which the last-named company is a party; bnt thereby, as by all the other leases, it was provided that the lessee company should carry out the terms and conditions of the preceding leases, for which its lessors were responsible. Those contracts provided for specified rentals, to be paid by the lessee to the lessor, sufficient to cover the fixed charges of the latter and a stated dividend to its stockhholders; and, since the leases included the franchises of the original companies, the latter were denuded of everything except their mere corporate existence. All this occurred long before the Public Service Company Law of July 26, 1913, P. L. 1374, went into effect; and those contracts, of course, are of binding force, according to their terms, unless the State constitutionally can interfere and actually has interfered therewith on behalf of the public.\u201d (pp. 43-44). On the same subject see statement of Stewart, J., in Phila. v. Philadelphia Rapid Transit Co., 224 Pa. 544, at p. 550, 73 A. 923.\nIn 1920 many of these respondents were made parties to a proceeding then pending against the Philadelphia Rapid Transit Company before the Public Service Commission. The complaint set forth (p. 240 of 75 Pa. Superior Ct.) that \u201cThe rental received by the companies leased by the Philadelphia Rapid Transit Company was unjust and unreasonable and prayed the Public Service Commission to reduce the rentals, dividends and profits received by the respondents from each other and from the Philadelphia Rapid Transit Company or any other holding or operating company, so that each of the respondents should receive annually a fair return and not more upon the property and facilities contributed to the public service.\u201d The case reached this court and is reported in 271 Pa. 39, 114 A. 642.\nIn 1923, the Public Service Commission considered a complaint, to which the City of Philadelphia was a party, against the Philadelphia Rapid Transit Company\u2019s schedule of rates: 83 Pa. Super. Ct. 8. A similar proceeding is reported in 84 Pa. Super. Ct. 135.\nIn Passyunk Avenue Business Men\u2019s Association v. The Public Service Commission, involving the Frank-ford and Southwark Philadelphia City Passenger R. R. Co., one of respondents, the right to discontinue service on certain streets and to reroute its cars were before the Commission and the court: 73 Pa. Super. Ct. 242.\nThe Public Service Commission was an agency of the state with jurisdiction over respondents as conferred by the Public Service Company Law, 1913, P. L. 1374, 66 PS section 1, et seq. Section 6 of Article IV of the Act (1913, P. L. 1398), provided, \u201cThe Attorney General shall ex officio be the general counsel of the commission. He shall appoint two attorneys, who shall be learned in the law, as counsel and assistant counsel, respectively, for the commission. . . . Said counsel and assistant counsel shall also assist the Attorney General in conducting all mandamus, injunction, and quo warranto proceedings, at law or in equity, instituted by him for the enforcement of the determinations, rulings, and orders of the commission, and shall perform such other professional duties as may be required of them, or either of them, by the commission.\u201d In view of a contention made by the attorney general that certain of respondents leased their secondary franchises before constructing any railway, it is not without interest to note that this method of enlarging the street railway system of Philadelphia, though complained of by the attorney general in this case, was continued with the approval of the Public Service Commission after the lease by which the Philadelphia Rapid Transit Company in 1902 became the operating company. An example appears in Vol. 6, Penna. Pub. Ser. Com. Reports, p. 527, Application of Philadelphia Rapid Transit Co. The Commission in making orders approving five similar applications, said: \u201cThe Philadelphia Rapid Transit Company is a motor power company incorporated under the Act of March 22, 1887, (P. L. 8), without corporate power to construct or own street railway facilities. Therefore, it operates its system in Philadelphia under leases. Since the unification of the electric railway system in Philadelphia, all necessary changes in routing and operation that have involved new construction have been effected through the medium of incorporating new companies whose stock is owned entirely by the Rapid Transit Company, and then leasing the newly incorporated companies to the Rapid Transit Company. ... The practical application of the situation is that the Rapid Transit Company, in the present instance, expends through an incorporated subsidiary $28,500 for the improvement of facilities made necessary in the public interest, upon which capital expenditure there will be an annual interest charge of 6 per cent. The property created by this expenditure as well as all the other rights upon which it is based will pass into the ownership of the city when the latter elects to exercise its option. Undoubtedly, the public service is benefited by the improvement, the capital expenditure is a justifiable one, and the rights of the city under its contract are fully asserted and preserved.\u201d\nFor reports of rate cases, heard by the Commission, involving Philadelphia Rapid Transit Company\u2019s rates and referring to these leases, see 12 Pa. Corp. Rep. 151; 14 Pa. Corp. Rep. 308. In 17 Pa. Corp. Rep. 269, is a report of the Commission made on the application of the City of Philadelphia pursuant to the Act of May 3, 1927, P. L. 508, 53 PS section 3712, authorizing the condemnation by the City of Philadelphia of the entire street railway system.\nState tax reports filed by some of the respondents led to proceedings in the courts in which the corporate organization complained of was presented for consideration: see Com. v. Union Traction Co., 1 Dauphin Co. Rep. 169 (1898); Com. v. People\u2019s Traction Co., 183 Pa. 405, 39 A. 42 (1898).\nThese facts are not in dispute. The public character of the leases and the periods during which they have existed is conceded; that the legislature passed the Acts referred to dealing with these respondents is admitted; that its agent, the Public Service Commission, recognized the resulting street railway system as an operating unit is not denied; it is agreed that the City of Philadelphia had knowledge of the leases, and resulting changes in the operation of the street railways appear from city ordinances, only a few of which have been referred to; that innocent investors purchased respondents\u2019 stocks and bonds on the faith of the apparent validity evidenced by such state and municipal recognition will not only be noticed judicially but is part of the history of the times as the records of the courts have frequently shown.\nThese considerations the attorney general meets by saying that it does not appear that there was \u201c(1) An unreasonable lapse of time. (2) Knowledge by the Commonwealth of existing conditions during that period of time. (3) Prejudice to the defendants by virtue of the Commonwealth\u2019s inaction.\u201d\nTo support the first, that the delay is not unreasonable, his brief says \u201c. . . what is 40 years over a period of 999 [the term of the lease] ?\u201d Estoppel does not depend on time alone but on action and failure to act after knowledge. \u201cBut it is unnecessary to multiply cases. They all proceed upon the theory that laches is not like limitation, a mere matter of time; but principally a question of the inequity of permitting the claim to be enforced \u2014 an inequity founded upon some change in the condition or relations of the property or the parties\u201d: Galliher v. Cadwell, 145 U. S. 368, 373. We do not understand the basis of the assertion of the attorney general that knowledge on the part of the Commonwealth is wanting. The Suggestion must be considered in the light of the legislation dealing with these corporations; that legislation is part of our public records; the actions of the Public Service Commission concerning the Philadelphia street railway system are also public records that may not be ignored in this inquiry. In Com. ex rel. v. West Chester Railroad Company, 3 Grant 200, supra, much less was held sufficient knowledge to estop the Commonwealth from asserting a forfeiture; the same case supplies all that need be said in rejecting the third point that no prejudice will result; certainly innocent stock and bondholders will be injured if the forfeitures are declared.\nAfter the validity, or apparent validity, of corporate transactions so conducted in public view has gone unchallenged and has not only been recognized but participated in over the specified period by the General Assembly, by the courts of the Commonwealth and by the Public Service Commission, since its creation, in dealing with these transactions, we think that established principles of law and equity as hitherto administered require that we hold that persons who have invested in the stocks, bonds or other securities issued on the faith of such conduct by the public authorities, did not assume the risk of a detrimental change in the Commonwealth\u2019s attitude that would impair the resulting investments. As was said in quashing the writ in Com. ex rel. Attorney General v. West Chester Railroad Company, 3 Grant 200, after persons have acted \u201con the faith of the grants of the State, authenticated by the highest evidence known to the law, she is certainly bound by an estoppel founded upon the purest equity. As against such parties, she must be deemed cognizant of the acts of her agents.\u201d\nThe order appealed from is affirmed, costs to be paid by appellant.\nThe first one was incorporated in 1854.\nThe last, the Union Traction Company, was incorporated in 1895.\nThe first lease involved was made in 1870.\n\u201c1. That no good cause of action is alleged,\n2. That there is a misjoinder of parties defendant,\n3. That there is a misjoinder of causes of action,\n4. That no benefit to the public will result from the proceeding,\n5. That joint trial of all the defendants would deprive them of due process of law,\n6. That joint trial of all the defendants would be a denial of justice and of the right of trial by jury,\n7. That Philadelphia Rapid Transit Company, a necessary party, is not joined,\n8. That forfeiture of the defendants\u2019 franchises would impair the obligation of defendants\u2019 contracts,\n9. That the Suggestion is vague, indefinite and uncertain,\n10. That the claims of the Commonwealth are barred by its laches and acquiescence, and\n11. That the Commonwealth has not properly pleaded the leases which form the basis of certain of the alleged causes of action.\nThe foregoing reasons are assigned in all of the motions filed by the thirteen defendants. That of the Union Traction Company of Philadelphia, contains an additional reason, viz:\n12. That this defendant is party to the proceeding pending in the United States District Court at Philadelphia, for the reorganization of Philadelphia Rapid Transit Company, wherefore this court is without jurisdiction to entertain this proceeding; or, if it have jurisdiction, it should not exercise it during the pendency of that proceeding.\u201d\nSee report of the Commissioners on Civil Code 1831-1836, page 782 of the volume in the Philadelphia Bar Association library.\nWhile the report- merely shows that the,attorney general appeared in this court on behalf of the writ, an examination of our Docket in the prothonotary\u2019s office shows that this court issued the writ at the relation of the attorney general.\nThese cases merely apply the general principle applied in other proceedings. The moving party must show a prima facie case; the writ obtained by him may be sustained only if legally supported; a writ having issued as of course, the respondent is given opportunity, by motion to quash, to show that the writ is not supported by the papers pursuant to which it issued; this he may do by showing that the suggestion or affidavit which obtained the writ, is defective in substance in a respect not curable by amendment. For such reason writs are constantly quashed: in attachment execution, see Provident Trust Co. v. Rothman, 321 Pa. 177, 187, 183 A. 793; Williamson v. McCormick, 126 Pa. 274, 17 A. 591; in foreign attachment, Pasquinelli v. Southern Macaroni Mfg. Co., 272 Pa. 468, 473 et seq., 116 A. 372; Christian v. Bennett, 317 Pa. 23, 175 A. 494; in capias ad respondendum, Whalen v. Gabell, 120 Pa. 284, 13 A. 941; Vocht v. Kuklence, 119 Pa. 365, 13 A. 199; in replevin, York v. Marshall, 257 Pa. 503, 101 A. 820; in proceedings under the sci. fa. Act of 1929, see Bowers v. Gladstein, 317 Pa. 520, 178 A. 44; though motions to strike off have also been sustained: Jones v. Wohlgemuth, 313 Pa. 388, 169 A. 758; Phi Chi Fraternity v. Phila., 317 Pa. 284, 176 A. 737; Aultman v. Pittsburgh, 326 Pa. 213, 192 A. 112.\nIn an earlier stage of this proceeding, apparently the foundation for the Suggestion, the attorney general said: \u201cThe ultimate question involved herein is whether these underlier corporations have failed to exercise or have abused the franchises conferred upon them by the legislature, and whether they have therefore forfeited these franchises\u201d: In re Application of Matthew H. McCloskey, Jr., Philadelphia Rapid Transit Underliers, 27 D. & C. Rep. 184.\nSee Voorheis v. Walker, 227 Mich. 291, 198 N. W. 994; State ex rel. v. Talbot, 123 Mo. 69, 27 S. W. 366; State ex rel. v. St. Louis College of Physicians, 317 Mo. 49, 295 S. W. 537; State v. Haskell, 14 Nev. 209; North & Co. v. People, 147 Ill. 234, 35 N. E. 608; 22 R. C. L. 719, sec. 41. Contra\u2014Lockhard v. People, 65 Colo. 558, 178 Pac. 565, and cases cited.\nThe leases and contracts involved appear to have been made pursuant to statutes: the Act of April 23, 1861, P. L. 410, 67 PS section 582; the Act of February 17, 1870, P. L. 31, 67 PS section 586; the Act of March 22, 1887, P L. 8, 15 PS section 1892; the Act of May 15, 1895, P. L. 63, 67 PS sections 1279, 1252; the Acts of May 15, 1895, P. L. 64, 65, 15 PS sections 1894, 1895, 1897. Among the cases in which these statutes were considered are the following: Gratz v. Penna. R. R. Co., 41 Pa. 447; Phila. & Erie R. R. Co. v. Catawissa R. R. Co., 53 Pa. 20; Penna. R. R. Co. v. Sly, 65 Pa. 205; Kaufman v. P. & C. S. R. R. Co., 217 Pa. 599, 66 A. 1108; it becomes unnecessary, in view of the Commonwealth\u2019s laches, to discuss this phase of the appeal. For a general review of statutes and decisions relating to street railway and traction companies, see Eastman, Private Corporations in Pennsylvania, (Vol. 2), chapters 70 and 71.\nIn Com. ex rel. Attorney General v. Bala & Bryn-Mawr Turnpike Co., 153 Pa. 47, 25 A. 1105 (1893), Paxson, C. J., said, at p. 54, \u201cThere is nothing to show that this proceeding was directed by command of the commonwealth. On the contrary, it is at least alleged to be the act of private parties who have induced the attorney general to allow his name to be used as representing the commonwealth. In the case referred to the injunction was refused on the ground that the defendant company\u2019s plans and acts were notorious, and that the delay of the attorney general, while the defendants were expending money in the construction of their works, disentitled even the public to relief.\u201d\nIn City of Bradford v. N. Y. & Penna. T. & T. Co., 206 Pa. 582, 56 A. 41, Brown, J., said, at pp. 586-587, \u201cIn Penna. R. B. Co. v. Montgomery Co. Pass. Ry. Co., 167 Pa. 62, we said: \u2018But we know as matter of current history that street railways have been projected, and actually constructed, and are now in operation, over country roads where no legal consent has been obtained, and where no attention has been paid to the rights of property holders. Such railways cannot now be torn up or enjoined either by the township officers or at the instance of landowners along their routes. \"Where such enterprises have been allowed to proceed and the expenditure of large sums of money has been permitted, it would be inequitable to correct at this time what was a mutual mistake under the influence of which these enterprises have been pushed to completion.\u2019 What was said in Attorney General v. Delaware and Bound Brook Railroad Co., 27 N. J. Eq. 1, in denying an injunction asked for by the state, may well be regarded as applicable to the facts in the present ease: \u2018The work has been, from its commencement, a matter of public notoriety, and yet no action has been taken on the part of the state authorities, nor even any warning uttered by them against the work. The defendants have been permitted to make their immense expenditure upon their enterprise, in the confidence of their convictions that they possessed all requisite legislative authority, without even a word of protest or remonstrance. Under such circumstances, equity will refuse its aid, even to the state.\u2019 A stronger ease of delay or acquiescence is necessary to prevent equitable relief when sought for by the state than when a mere private right is involved; but the doctrine is applied against the public in a proceeding by the attorney general.\u201d\nBy Act, approved July 2, 1937, P. L. 2824, a street railway or motor power company owning all of the capital stock of a company empowered to transport persons by trackless trolley car was authorized to acquire the corporate power, franchises, property, rights and credits of such company,\nCom. ex rel. Attorney General v. Hulings, 129 Pa. 317, 18 A. 138; Kinter v. Com. Trust Co., 274 Pa. 436, 440, 118 A. 392; Patton v. Com. Trust Co., 276 Pa. 95, 100, 119 A. 834; Aldine Realty Co. v. Manor Real Estate, etc., Co., 297 Pa. 583, 590, 148 A. 56; Riley v. Boynton Coal Co., 305 Pa. 364, 368, 157 A. 794; Hammond v. Hopkins, 143 U. S. 224, 273.",
+        "type": "majority",
+        "author": "Me. Justice Linn,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Chief Justice Kephart:\nThe Commonwealth of Pennsylvania, by quo warranto proceedings, is endeavoring to forfeit the charters of a number of so-called underliers of the Philadelphia Rapid Transit Company, commonly known as P. R. T. The object it hopes to obtain by this proceeding, as stated at the argument, is to force a reduction in the rentals paid by P. R. T., a reduction in fare to the car riders, and a more advantageous basis for the city to receive adequate return for the use of its subways.\nThe reasons assigned by the State appear from the suggestion filed for the writ. Specifically it is alleged that by acts of usurpation, misuser and nonuser of corporate franchises defendants have forfeited their right to live. Its charges, in brief, are that about 1895 the owners of three or four of the then operating systems, by an illegal agreement, conspired to bring all of the trolley lines of Philadelphia into one system, operated by the Union Traction Company; that the purpose and object of this conspiracy was the fraudulent issuance of illegal securities on inflated values to the investing public, and the illegal leasing for a long period of time of the franchises and property at exorbitant rentals based upon inflated values, which rentals have a prejudicial influence on the service rendered by the operating lessee and the car riders of Philadelphia; that many of the lessor defendants were without lines of railway, or property, the lease neverthless requiring a large rental to be paid for the use of the franchises only, which transactions were contrary to law, these companies or the lessees never having constructed any roads in accordance with the requirements of their charters; that many of the defendants have duplicating lines and franchises on each of which the same value has been placed and securities fraudulently issued. Other acts complained of are the illegal issuance of bonds and other securities in violation of the law and without adequate security, and the disposition of property without provisions for the retirement of the bonds issued thereon. It is also urged that the only business and function of the principal defendants, those who leased directly to the Union Traction Company, though chartered only as operating railways, was that of holding companies dealing in the securities of other corporations, thereby usurping an authority of law never granted; that these defendants conspired to charge excessive rates and to defraud the investing public and taxpayers by means of the illegal agreements heretofore mentioned procured through a system of interlocking directorates of the parties to the agreement; that part of the consideration for some of the leases was dividends fixed on fictitious values; that defendants inflated the market value of securities to the prejudice of the public, paid dividends from capital, made inflated values of properties part of the rate base on which rates are now charged, and to mislead the State, filed false reports with the Commonwealth\u2019s officers as to values, the amount of the securities that had been issued thereon, the financial condition of the companies and their corporate activities, which reports were issued and filed for the purpose of inducing innocent investors to part with their money and to defraud the investing public generally, as well as to deceive the Commonwealth\u2019s officers as to the defendants\u2019 actual standing.\nThe State further charges that this plan of pyramiding values had for its object and purpose the enrichment of the stockholders at the expense of the public, under the pretext of creating a coordinated system; that items of cost of road and equipment, which have never been paid for by the underlier companies but which have been paid for by the lessees, are carried on the books of both companies as their major items of value, thus deceiving the State as to the true condition of the companies.\nThe writ was issued as of course. No answer was filed by defendants but each separately filed a motion to quash. After a hearing before the court below, the writ was quashed; the reasons therefor were that there had been a misjoinder of parties, a nonjoinder of parties affected by the action, and that the Commonwealth was barred by law from attacking defendants\u2019 charters and franchises. It was conceded that the suggestion disclosed possible grounds for forfeiture of the charters of many of the defendant companies, but it was contended that in a suit brought against all, only matters which are common to all could be considered. This appeal followed, and the majority opinion sustains the action of the court below holding that the State is estopped from claiming forfeiture.\nThe action of the court below in quashing the writ, and the majority opinion, do not give proper weight to the fact that it was and is the government itself, through its constituted officers, that is proceeding against its own creatures in a matter which is, if the statements and suggestion are found to be true, of great public interest and importance. The court below should have opened the case so that all the facts surrounding what the State declares to be a conspiracy might be brought out.\nWhile the attorney general may demand the writ as of right, nevertheless it may be attacked under a motion to quash. I do not apprehend that it could seriously be contended under our decisions today that the questions which a court may properly consider under a rule to show cause may not also be considered under a motion to quash after the writ is issued. The same discretionary power must be exercised by the court in quashing a writ as in granting it, but in both instances the exercise of discretion is reviewable by the appellate court.\nThe cases in this State disclose that the scope of a motion to quash is restricted to questions of jurisdiction, capacity of relator or formal irregularities in the suggestion ; such a motion does not permit an inquiry into the merits of the case, though in exceptional instances the court may consider a clear absence of any averment of legal grounds for ouster. Discretion in quashing the writ must be limited to these matters. To undertake to pass on the merits upon a motion to quash is a clear abuse of discretion. Where doubt exists as to the right to forfeit, the companies cannot avoid the burden of coming forward with facts in answer to the Commonwealth\u2019s charge. The nature of a motion to quash was early set forth in Commonwealth ex rel. Palmer, Atty. Genl., v. Steelton Mut. Relief Ass\u2019n, 2 Dauph. 200, where the court stated: \u201c [A motion to quash a writ of quo warranto] is equivalent to a rule to show cause why the writ should not issue and will be sustained only for some defect in the suggestion, which goes to the foundation of the proceeding, as want of jurisdiction in the court, or right in the relator.\u201d\nThe words \u201cright in the relator\u201d mean the capacity of the relator, and the motion is not equivalent to a demurrer; it does not bring in issue the merits of the suggestion. As stated in Com. ex rel. Gordon v. Graham, 64 Pa. 339, at 342: \u201cUpon a motion to quash, it must be for some defect in the suggestion itself, and not for any matter outside of it.\u201d In Com. v. Commercial Bank of Pa., 28 Pa. 383, it was pointed out that on a motion to quash the broad legal questions are not finally determined, but \u201cwhether the acts complained of amount to a forfeiture of the charter, will be open to further investigation in the final decision of the cause.\u201d\nCases have been cited where the court considered some incidental questions bearing on the merits in connection with the motion to quash. These cases do not support the position assumed that the motion to quash tests the entire proceeding, nor in any of them was the question raised as to the scope of the motion. In Com. ex rel. Atty. Genl. v. Walter, 83 Pa. 105, this court in refusing a motion to quash merely held that it was not necessary to allege a prior conviction of the defendant in order to remove him from office for bribery, and no question of the scope of the motion was raised; in Com. v. Commercial Bank of Pa., supra, the ground for forfeiture was that the bank had unlawfully discounted notes at usurious rates and the court overruled the motion to quash, holding this was a valid ground. In both cases the motions were overruled and the writs were not quashed; the charges were legally sufficient to sustain the granting of the writ. They cannot be considered as authority for the proposition that the motion to quash raises broad issues, the determination of which necessarily depends on the proof of facts that are not before the court on such a motion as here involved.\nMuch reliance is placed on Com. ex rel. Atty. Genl. v. Dillon, 81* Pa. 41, 46, where Justice Shakswood laid down the broad dictum that on a motion to quash the court will consider not merely the legal questions presented but the broad question of justice and propriety of the quo warranto proceeding; but an examination of this case will show how utterly useless it is as an authority. There was no motion to quash involved, and the decision was only that the name of the relator could not he amended. Com. ex rel. v. Jones, 12 Pa. 365, was cited, but that case is not authority for such a legal proposition. In that case the court quashed the writ because no prior rule to show cause had been obtained (a procedural defect), and also stressed the fact that the proceedings were in behalf of a private relator rather than the attorney general. It did not discuss the propriety of inquiring into the full merits of the case. .\nHeavily relied on was Commonwealth v. West Chester R. R. Co., 3 Grant 200, where the Commonwealth\u2019s legal officer instituted the proceeding. There the ground of forfeiture alleged was the failure of subscribers to shares of preferred stock to pay for them as required by law. The court held that this was not a legal basis for forfeiture. While the scope of a motion to quash was not discussed, the case goes no further than to determine whether the Commonwealth had presented any legal ground for ouster. But where the State\u2019s highest law officer makes a positive allegation of wilful usurpation of a franchise right, or nonuser, or misuser, which without question constitutes a basis for forfeiture, the court should not quash the proceeding. If any doubt exists as to whether any valid ground for ouster has been presented, the court should not undertake to decide the case on its merits and hold that the public interest does not require an ouster, but should postpone such determination until all the evidence is presented.\nThere can be no question that some of the charges set forth in the suggestion constitute grounds for forfeiture. If these charges do not warrant forfeiture of the franchises of the offenders, no case can be presented by the State which would contain charges serious enough. The court below did not dispute this. It admitted that serious grounds were alleged. Though it is possible that the State may not be able to prove them, the door should not be closed on its effort to do so.\nWe cannot overlook, as a matter of importance in the question of the legal sufficiency of the suggestion, the position of the State in this proceeding. The attitude that a court should assume when the State in its sovereign capacity requests ouster is clearly outlined by the authorities. We should not permit an unwarranted or an arbitrary, capricious abuse of the State\u2019s power in attacking franchises. Nor, on the other hand, should we deny to it the right to proceed when it alleges circumstances which justify the action. The State should not be placed in the same position as a private relator. Heretofore courts have recognized this distinction and have given greater latitude to proceedings instituted by the State on behalf of the public. In several ways it is favored over private relators in quo warranto proceedings. A rule to show cause why the writ should not issue is not necessary with the State as it ordinarily is in the case of a private relator: Com. v. Jones, supra. This court said in Com. ex rel. Atty. Genl. v. Walter, supra, at p. 107: \u201c. . . when the Commonwealth through her attorney-general applies for a writ of quo warranto, she is entitled to it without a previous rule to show cause. It is not to be presumed that the law officer of the Commonwealth would apply for this high prerogative writ for personal or private ends. He is supposed to be impartial, and to seek only the vindication of the rights of the state. It is not so in the case of a private relator, who is usually put to this rule to show cause. It might 'not be so where the attorney-general merely allows private counsel to use his name, as is sometimes done to procure the writ. But when the attorney-general or his recognized deputy assumes the responsibility the writ should issue in the first instance.\u201d\nFurthermore the Commonwealth is permitted more liberality in pleadings. When the State alleges that a company has usurped franchises or power, it is held sufficient to plead generally that the franchise has been improperly exercised and to call on the defendant to show its authority. In Com. v. Commercial Bank, supra, it is stated: \u201cThe attorney-general may disclose in his information the specific ground of forfeiture, or he may merely set forth the franchises alleged to have been illegally exercised, and call upon the defendant to show by what authority they are held.\u201d See also Com. v. Steelton Mut. Relief Ass\u2019n, supra; Com. v. Keystone Pipe Line Co., 24 D. & C. 400; Com. v. Hargest, 2 Dauph. 409.\nIn the present case the court below, in disposing of the motion to quash, went into the full merits of the charges of usurpation, nonuser and misuser. It discussed at length the validity of the leases; counsel for both sides argued this point fully, and the court asserted that their validity has been passed on several times by appellate courts and authorized by legislation. But before this issue can be decided it must appear by proof that the lessors have brought themselves within these decisions and acts of assembly. All of this is a matter of proof, and when the case is presented, a different light may be thrown on the entire transaction.\nWhether the cases that are relied on to sustain the leases actually so held, and whether in any of them these leases were squarely adjudicated to be valid is a matter for subsequent consideration. I do not here express any opinion as to the legality of the leases for it may be that, when the facts are of record, the State cannot legally dispute them.\nThe suggestion has asserted that these leases are unlawful not only as abuses or misuses, but as usurpations of rights not granted lessors or assignors, and the court below should not have attempted to decide that issue on the pleadings or go at present behind this averment. The word \u201cusurpation\u201d is not used but the substance of the acts charged being ultra vires, it is usurpation. The State has contended that the leases are void because they were executed as a part of an unlawful conspiracy by which the public was deeply affected, and that, if so, their apparent authority would not shield them; that they were made through interlocking directorates and are void as against public policy. Many factual and legal situations revolve about these issues and they should not have been summarily disposed of. The same is true of the averments that defendants inflated values and conspired to defraud the public.\nIn a proceeding of this type, such matters are not concluded by orders of the Public Service Commission. This legal power to adjudicate the legality of charters, leases and franchises, has not been, nor do I believe it could be, given to the Public Service Commission; its function is to determine rates and services alone. Furthermore, the State has asserted that the defendants combined to deceive and defraud the Commission and other State agencies.\nThe State has alleged a conspiracy to defraud the investing public and to obtain excessive rates from the car-riding public to its injury. Whether that conspiracy succeeded or could succeed is a matter for the Court of Common Pleas to hear in this proceeding, and not any other body. The State charges a conspiracy to falsify and fabricate books and property values, to make false reports to the various departments of the State to further the unlawful purposes as charged. The fact that the Public Service Commission has approved or disapproved rates is no defense to these charges.\nThe court below held that laches may be imputed to the Commonwealth in all cases. This I conceive to be a very great and serious error and in my opinion is not supported by the authorities. If there were any such decision, I would overrule it. I do not deny that on a hearing in this case it might appear the Commonwealth had so far participated in or received benefits with knowledge from the usurpers or misusers that in all equity it could not demand the death of the offending corporations but merely a cessation of the unlawful acts. However, this is vastly different from holding that in all cases laches may be imputed to the Commonwealth regardless of the factual situation as proved at trial.\nIn discussing the broad question of laches as it relates to the State, we are here dealing with its creatures clothed with an apparent power but who, in its exercise, usurp other powers or fail to exercise the powers given them within the time allowed, or subject them to abuse. I concede that in questions of irregularity in the organization of a corporation, or the failure to observe details of procedure in its financial structure, or some error in law associated with a power which is of no consequence to the State, laches may prevent action. It may well be that many of the charges in the suggestion fall in this class, but we are met here with the question of laches applied to the State where there are serious charges of usurpation of authority, misuser and nonuser of powers. The court below, in spite of the gravity and explicitness of some of the charges, held on the bare pleading alone that laches would bar the State. In other words, the State\u2019s delay in bringing action prevents it not only from ousting but from stopping the usurpation of powers by a corporation and causes a title without any pretext of right to ripen into a perfect one; laches prevents the State from ending abuses by a corporation, and where there has been nonuser of powers, the corporation cannot be stopped from a sudden revival of their exercise though the corporation has been dormant for fifty years. Laches does not estop the State in all cases where it would an individual. A review of our decisions shows they are absolutely not authority for the broad assertion that in every case the Commonwealth may be estopped, particularly where the charges are misuser, usurpation and nonuser, on the pleadings, without proof of facts or circumstances to warrant such action.\nThe majority opinion holds that in all eases laches may be imputed to the State on the pleadings alone. The following cases have been cited in the briefs for this proposition: Com. v. Bala & Bryn Mawr Turnpike Co., 153 Pa. 47; Bradford v. New York & Pa. T. & T. Co., 206 Pa. 582; Pittsburgh Rwys. Co. v. Borough of Carrick, 259 Pa. 333; Pittsburgh v. Pittsburgh & West Virginia Ry., 283 Pa. 196; Com. v. Philadelphia, H. & P. R. R. Co., 23 Pa. Superior Ct. 235; Com. v. Keystone Pipe Line Co., 39 Dauph. 1. These cases show that the courts have never adopted the extreme view that laches is as freely imputable to the sovereign as to individuals. I will review these authorities, not for the purpose of determining the issue of laches involved in this case, but to demonstrate the fallacy of the majority opinion on this legal proposition.\nThe almost universal rule is that laches cannot be asserted against a sovereign power where it seeks to set up a public right or act in the protection of the public interest: see 5 Fletcher on Corporations, section 2339, p. 826; United States v. Dalles Military Road Co., 140 U. S. 599; San Pedro etc. Co. v. United States, 146 U. S. 120; Utah Power & Light Co. v. United States, 243 U. S. 389. The reason for the rule is obvious. Public interest and welfare must rise above any conflicting private interests and must not suffer through the failure of a government, through its agents, promptly to assert public rights. In United States v. Kirkpatrick, 9 Wheaton 720, 735, 22 U. S. 318, 325, Justice Story said, at p. 735: \u201cThe general principle is, that laches is not imputable to the government; and this maxim is founded, not in the notion of extraordinary prerogative, but upon a great public policy. The government can transact its business only through its agents; and its fiscal operations are so various, and its agencies so numerous and scattered, that the utmost vigilance would not save the public from the most serious losses, if the doctrine of laches can be applied to its transactions.\u201d\nThe rule that laches cannot be set up against a state has been held to apply in cases involving the forfeiture of corporate franchises. In People v. Mackey, 255 Ill. 144, 159, 99 N. E. 370, 375, the court stated: \u201cThis proceeding being against the defendants for usurping the franchise of a private corporation, neither lapse of time nor circumstances out of which an estoppel might arise as against an individual can have application.\u201d\nSee also State v. Light & Dev. Co. of St. Louis, 246 Mo. 618, 152 S. W. 67; State v. Webb, 97 Ala., 111, 12 So. 377. This rule is not applied to proceedings instituted in the name of the State on behalf of private individuals or with a purpose of protecting private interests, in which event laches may bar the nominal claim of the Commonwealth: Curtner v. United States, 149 U. S. 662; United States v. American Bell Tel. Co., 167 U. S. 224, 264-265; French Republic v. Saratoga Vichy Spring Co., 191 U. S. 427, 438; People v. Union Elevated R. Co., 269 Ill. 212, 110 N. E. 1. However, this distinction is sometimes lost sight of, and the rule is in rare instances carelessly made to cover all situations. We have on some occasions stated obiter, that the Commonwealth may be precluded from asserting a right by virtue of its laches notwithstanding the flat statement of Chief Justice Black in Commonwealth v. Erie & North-East R. R. Co., 27 Pa. 339, 360, that \u201cNo laches can legally be imputed to the Commonwealth . . .\u201d But a review of these cases reveals that they do not uphold the rule laid down by way of dictum. It has become a trite statement to say that general expressions in an opinion must be considered with respect to the facts before the court. See Commonwealth v. Shawell, 325 Pa. 497, 503-504. And, it is to be noted that in no Pennsylvania case where the Commonwealth instituted quo warranto proceedings to forfeit a franchise was laches imputed to the Commonwealth, except where the cause of forfeiture averred was irregularity in the manner or form of creation of the corporation which was acquiesced in or ratified by the State through subsequent action, or where the court expressly found that the reasons assigned as warranting forfeiture were invalid to support forfeiture.\nThe distinction or legal difference between an attack on the validity of a corporate franchise and an attack on the ground of usurpation, abuse or nonuser of an admittedly valid franchise, is expressly recognized in Fletcher, op. cit. supra, at p. 827. There may be an imputation of laches in formal defects in organization acquiesced in by the State. Thus, in Commonwealth v. West Chester R. R. Co., supra, the charge was irregularities in corporate organization. We held that after five years had elapsed before the proceeding was instituted, and the company had functioned continuously as a lawful body, it was too late to attack such formal defects of incorporation. The writ was quashed as the suggestion charged matters of minor importance; failure of a sufficient number of pre-incorporation subscribers was not a defect of sufficient gravity to warrant the severe penalty of forfeiture. This case falls directly within the exception pointed out above. In Com. v. Bala & Bryn Mawr Turnpike Co., supra, the turnpike company, in reliance on an amendment to its charter granted by the common pleas court, extended its road. Five years later the Commonwealth, at the instance of private citizens, brought quo warranto proceedings to declare void the amendment as being beyond the jurisdiction of the court, and to prohibit the operation of the extended road. The company was acting under color of authority. Under such circumstances laches may be imputed to the Commonwealth as well as to an individual, but the opinion points out that the action was brought on behalf of private individuals.\nCommonwealth v. Philadelphia, H. & P. R. R. Co., supra, falls into the same category, although it does not relate to the forfeiture of a corporate franchise. The railroad company was indicted for maintenance of a nuisance arising from the operation of a line pursuant to a statute which was alleged to be invalid because not in conformity with the constitutional requirements regarding titles. Again the validity of its authority to act at all was questioned, and President Judge Rich expressly recognized that, as a general rule, laches does not operate against the Commonwealth.\nAppellees especially rely on three cases: first, Com. v. Hulings, 129 Pa. 317, where quo warranto proceedings were instituted hy the Commonwealth to forfeit the charter of a ferry company on the grounds of nonuser. The court found that the sole ground of nonuser alleged was not such as to warrant forfeiture of the ferry company\u2019s charter and quashed the writ. It cannot be said under any view of the law that where the pleadings fail to disclose any ground of forfeiture at all the court is in error in taking it upon itself to discuss the question of laches and considering it as a reenforcing factor, but by no stretch of the imagination can this case be said to hold that laches may be attributed to the Commonwealth.\nSecond, Com. v. Reading Traction Co., 204 Pa. 151, was a bill in equity to declare void an alleged fictitious issue of capital stock which had reached the hands of bona fide purchasers at the time of the institution of the proceeding. Thereafter prosecution was delayed for four or five years. The bill was dismissed on the ground that the only persons who would be affected by a decision in favor of the Commonwealth would be the security holders who were not before the court and who had had no opportunity to he heard. Attention is directed to the fact that the Commonwealth did not attempt to forfeit the charter of the corporation but merely to declare void the shares of stock in the hands of innocent investors who were not parties to the case. The effect of granting the prayer of the Commonwealth would have been to strip the shareholders of their interest in the corporation without any apparent relief of injury to the public at large.\nThird, Bailey\u2019s Estate, 241 Pa. 230, is possibly the weakest of all, and stands on its own facts. This case involves no question of laches against the Commonwealth, but only one of res adjudicata, since the Commonwealth was a party to the earlier proceedings and had taken no appeal, and the subsequent attack was properly barred on established rules of estoppel by judgment.\nSlight notice need be taken of the cases cited by appellees which do not involve proceedings instituted by the Commonwealth, either for itself or for a private relator, but rather relate to actions commenced in the name of political subdivisions of the State. It cannot be argued that because laches may be imputed to a borough or township that it likewise runs against the Commonwealth. For this very reason these cases are distinguishable and of no aid to appellees. Furthermore, a careful analysis of their facts reveals that for other reasons they fail to sustain appellees\u2019 contention. In Pittsburgh v. Pittsburgh & West Va. Ry., supra, not only was the suit brought by a municipality but, furthermore, the attack made was not based upon an improper user of the valid authority but upon the validity of the authority itself. Likewise in Pittsburgh Rys. Co. v. Borough of Carrick, supra, a borough was not permitted to enjoin the occupation of a road which had been opened pursuant to the authority of township supervisors with the acquiescence of borough authorities for a period of 26 years. Here again the same two distinguishing elements are present. The last case, Bradford v. New York & Pa. T. & T. Co., supra, again involves a suit by a political subdivision, a county, to compel the taking up of telegraph poles erected by the defendant, and the court found that the county had by acquiescence ratified the installation of these poles, although reference is made to laches.\nThese decisions certainly provide no basis for a rule of stare decisis to settle once and for all that laches may be imputed to the Commonwealth in all cases, especially, as here, on the pleadings alone. The general statements loosely made in them cannot rise to the dignity of foreclosing the Commonwealth and estopping it in one of its most vital attributes of government. Public policy strongly militates against the rule permitting the assertion of laches against a sovereign State. To hold as the majority and the court below do makes possible the continuance of unlawful acts to the prejudice of the public at large, without any possibility of relief at the instance of the State or anyone else. Where there is a conflict between the rights of private individuals as against the welfare and public interest of the citizens at large, the interests of the public must be valued above all else. The public must not be penalized for the failings or mistakes of their governmental officials. The State must have unrestrained freedom in making inquiry into the manner in which the corporation exercises its powers. It must be kept in mind that the remedy of quo warranto when used to forfeit a corporate charter lies only where there has been injury to the public and this must appear through evidence. The plain answer is that in all cases where the basis of forfeiture is nonuser, misuser or other abuse of the corporate franchise, the right of the State to challenge the continued existence of the corporation cannot be barred by laches unless it appear that the State has committed itself to the acts so that it can be said to have ratified and approved them. This is an evidential matter.\nBut even were it to be conceded for the moment that laches in the present case might, under given circumstances, be imputed to the Commonwealth, the court below erred in considering it at this stage of the proceeding. It is fundamental that lapse of time alone does not control laches. Even in an equity action instituted by a private individual, laches depends not merely on lapse of time, but on all the circumstances of the case. Laches considers as well the position of the parties involved, the opportunity afforded them to act, their acquiescence, or change in position, the availability of evidence, rights of intervening third parties, the character of the claim, and of the parties enforcing it, the relief sought and, in general, any other matters bearing on the equities of the case: See Cohen v. DeCicco, 90 Pa. Superior Ct. 51, 57; Stecko v. Salak, 114 Pa. Superior Ct. 483; Hammond v. Hopkins, 143 U. S. 224, 273; Patton v. Com. Tr. Co., 276 Pa. 95, 100; Kinter v. Com. Tr. Co., 274 Pa. 436, 440.\nThe many factors which must be considered when applying the doctrine of laches, based on the balancing of equities, make it practically impossible to decide that issue in the absence of all the facts and circumstances surrounding the case. On the basis of the suggestion alone the court is not in a position to find that laches barred the Commonwealth.\nThe Commonwealth charges that great injury is being suffered by the public. The court was not in a position to determine the degree of knowledge of the Commonwealth, the extent to which it acquiesced in the multifarious, unlawful acts attributed to appellees, the injury to the public as compared to the effect of forfeiture upon private interests, and many of the other factors which should guide its determination of this vital phase of the case. The gravity of the charges and the great public interest at stake require a full hearing on the merits before such a drastic bar is set up against the Commonwealth.\nAs to the questions of misjoinder and nonjoinder, which of course are amendable, I assume the majority so consider them as they do not discuss the questions.\nThe suggestion alleges various acts of usurpation. As stated, if the word \u201cusurpation\u201d is not used, the failure to employ it is certainly unobjectionable. If the companies as alleged are operating under illegal leases they of course have been usurping powers not granted by the State. Other acts of usurpation are charged which, with the allegations of misuser and nonuser if shown to exist by testimony, certainly give the State the right to halt these efforts forthwith and, where the conduct constitutes a flagrant abuse of corporate powers, the charters of those guilty should be forfeited. It is charged that some of the defendant companies have been guilty of duplication of routes, and that the duplicating companies have listed the same items of value, issuing corporate securities fraudulently thereon. If this is true, which only a hearing can develop, under the majority rule such pyramiding of assets cannot be prevented. It has been established in this State that, where a corporation is given an exclusive franchise and has done nothing to cause its loss or forfeiture, a similar franchise conferred upon another company is invalid and may be forfeited in quo warranto proceedings: Commonwealth v. Uwchlan St. Rwy. Co., 203 Pa. 608.\nThe Commonwealth charges that certain of appellees have altogether failed to exercise the francises granted them. Others have sought to do so through lessee companies under leases which the Attorney General asserts are unlawful. These alone are sufficient to place such companies on defense if every other averment were out. These wholly dead companies are said to have issued securities which the public have bought, in the face of statutory violations of requirements that all companies start and complete construction of lines within fixed periods.\nIf the matters contained in the suggestion are brought to a full hearing and the validity of the leases and other franchise rights established, and the acts complained of do not exist, or have not existed, then, of course, the effort of the Commonwealth should fail. My objection to the entire proceeding is that the court should not decide the case on a mere motion to quash, but should send the parties to a hearing on the merits so that at least the most serious charges could be investigated.\nI would overrule the motion to quash.\nMr. Justice Stern and Mr. Justice Barnes concur in this dissent.\nIt is to be noted that the Act of June 14, 1836, P. L. 621, section 9, gives to the defendant in quo warranto the right to demur, which suggests a distinction.",
+        "type": "dissent",
+        "author": "Mr. Chief Justice Kephart:"
+      }
+    ],
+    "attorneys": [
+      "Charles J. Margiotti, Attorney General, with him Edward Friedman and Harry Polikoff, Deputy Attorneys General, for appellant.",
+      "Geo. Boss Hull, with him Arthur H. Hull, of Snyder, Hull, Hull & Leiby, and Maurice Bower Saul, William E. Mikell, Jr., Gilfillan, Gilpin & Brehman and John J. Sullivan, for appellees.",
+      "Spencer G. Nauman, of Nauman, Smith Ac Hurlock, John Bussell, Jr., and Wm. Clarke Mason, for appellees.",
+      "W. W. Montgomery, Jr., Sterling G. McNees and TJlric J. Mengert, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Margiotti, Appellant, v. Union Traction Company of Philadelphia et al.\nArgued June 25, 1937.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nOctober 8, 1937:\nCharles J. Margiotti, Attorney General, with him Edward Friedman and Harry Polikoff, Deputy Attorneys General, for appellant.\nGeo. Boss Hull, with him Arthur H. Hull, of Snyder, Hull, Hull & Leiby, and Maurice Bower Saul, William E. Mikell, Jr., Gilfillan, Gilpin & Brehman and John J. Sullivan, for appellees.\nSpencer G. Nauman, of Nauman, Smith Ac Hurlock, John Bussell, Jr., and Wm. Clarke Mason, for appellees.\nW. W. Montgomery, Jr., Sterling G. McNees and TJlric J. Mengert, for appellees."
+  },
+  "file_name": "0497-01",
+  "first_page_order": 549,
+  "last_page_order": 592
+}

@@ -1,0 +1,96 @@
+{
+  "id": 12174576,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Alejandro GUZMAN, Appellee",
+  "name_abbreviation": "Commonwealth v. Guzman",
+  "decision_date": "2015-08-31",
+  "docket_number": "No. 44 MAP 2014",
+  "first_page": "620",
+  "last_page": "620",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 620"
+    },
+    {
+      "type": "parallel",
+      "cite": "121 A.3d 985"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "117 A.3d 247",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6863226,
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/117/0247-01",
+        "/pa/632/0036-01"
+      ]
+    },
+    {
+      "cite": "632 Pa. 36",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/632/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 309,
+    "ocr_confidence": 0.6,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24712985197206477
+    },
+    "sha256": "30a111580a6bf7bddfc6a0fad159225500a823d5cf6a3df6d900ccf7af58571e",
+    "simhash": "1:e0d94fa3eb852c2c",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Alejandro GUZMAN, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of August, 2015, the Order of the Court of Common Pleas is hereby AFFIRMED. See Commonwealth v. Hopkins, 632 Pa. 36, 117 A.3d 247 (2015).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "121 A.3d 985\nCOMMONWEALTH of Pennsylvania, Appellant v. Alejandro GUZMAN, Appellee.\nSupreme Court of Pennsylvania.\nAug. 31, 2015."
+  },
+  "file_name": "0620-01",
+  "first_page_order": 674,
+  "last_page_order": 674
+}

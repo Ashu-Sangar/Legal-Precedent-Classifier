@@ -1,0 +1,81 @@
+{
+  "id": 1301557,
+  "name": "Dreer Estate",
+  "name_abbreviation": "Dreer Estate",
+  "decision_date": "1961-07-17",
+  "docket_number": "Appeal, No. 216",
+  "first_page": "368",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "404 Pa. 368"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Pa. D. & C. 2d 737",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1650757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/22/0737-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 78,
+    "char_count": 569,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4697636812030354
+    },
+    "sha256": "804f4d73aa852e52ff7048ebc6a6cafe7bd493915bba326a3d5cfc33ef9f2017",
+    "simhash": "1:7ecec6c06b860bec",
+    "word_count": 99
+  },
+  "last_updated": "2024-02-27T17:40:27.345995+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "Dreer Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nper Curiam,\nThe Decree is affirmed on the able Opinion of Judge Saylor which is reported in 22 Pa. D. & C. 2d 737.\nCosts to be paid one-half by appellant and one-half by appellee.",
+        "type": "majority",
+        "author": "per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Lewis H. Van Dusen, Jr., with him John E. Walsh, and Drinker, Biddle & Reath, for appellant.",
+      "Thomas S. Weary, with him Maurice Heckscher, and Nicholas R. Doman, of the New York Bar, and Duane, Morris & Heckscher, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Dreer Estate.\nArgued May 1, 1961.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nreargument refused July 31, 1961.\nJuly 17, 1961:\nLewis H. Van Dusen, Jr., with him John E. Walsh, and Drinker, Biddle & Reath, for appellant.\nThomas S. Weary, with him Maurice Heckscher, and Nicholas R. Doman, of the New York Bar, and Duane, Morris & Heckscher, for appellees."
+  },
+  "file_name": "0368-01",
+  "first_page_order": 416,
+  "last_page_order": 417
+}

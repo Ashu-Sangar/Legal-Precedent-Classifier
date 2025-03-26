@@ -1,0 +1,70 @@
+{
+  "id": 12285823,
+  "name": "Com. v. Hairston",
+  "name_abbreviation": "Com. v. Hairston",
+  "decision_date": "2016-03-29",
+  "docket_number": "798 MAL (2015)",
+  "first_page": "760",
+  "last_page": "760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 76",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.736,
+    "sha256": "c83f19ca73c83d60c683c2bf736ff3a174497b2e2d2945fe96b5b5907e112310",
+    "simhash": "1:3f37fa44bf5f738c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hairston"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 76",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hairston\n03/29/2016\n798 MAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0760-08",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

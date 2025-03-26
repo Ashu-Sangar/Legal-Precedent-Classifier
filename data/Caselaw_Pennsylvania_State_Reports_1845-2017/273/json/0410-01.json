@@ -1,0 +1,260 @@
+{
+  "id": 1070763,
+  "name": "Fish's Election",
+  "name_abbreviation": "Fish's Election",
+  "decision_date": "1922-03-20",
+  "docket_number": "Appeal, No. 48",
+  "first_page": "410",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "273 Pa. 410"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Phila. 389",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "258 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1035032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/258/0176-01"
+      ]
+    },
+    {
+      "cite": "68 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024566
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/68/0333-01"
+      ]
+    },
+    {
+      "cite": "18 Pa. Dist. R. 687",
+      "category": "reporters:state",
+      "reporter": "Pa. D.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Phila. 579",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "248 Pa. 208",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1011518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/248/0208-01"
+      ]
+    },
+    {
+      "cite": "246 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/246/0284-01"
+      ]
+    },
+    {
+      "cite": "255 Pa. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1027649
+      ],
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/255/0475-01"
+      ]
+    },
+    {
+      "cite": "221 Pa. 521",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        956225
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/221/0521-01"
+      ]
+    },
+    {
+      "cite": "82 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047872,
+        1047930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/82/0297-01",
+        "/pa/82/0297-02"
+      ]
+    },
+    {
+      "cite": "253 Pa. 245",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/253/0245-01"
+      ]
+    },
+    {
+      "cite": "10 Phila. 389",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "pin_cites": [
+        {
+          "page": "392"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1035032
+      ],
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/258/0176-01"
+      ]
+    },
+    {
+      "cite": "68 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/68/0333-01"
+      ]
+    },
+    {
+      "cite": "248 Pa. 208",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1011518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/248/0208-01"
+      ]
+    },
+    {
+      "cite": "246 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006202
+      ],
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/246/0284-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 903,
+    "char_count": 18989,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 5.054765199107332e-07,
+      "percentile": 0.9372866912318054
+    },
+    "sha256": "adf6a8c2d60dd836b0a8d1ff0356be8e403ae327969771c4119904b5647eefb7",
+    "simhash": "1:b80ae3281316cdd8",
+    "word_count": 3284
+  },
+  "last_updated": "2024-02-27T19:35:07.905639+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaefer, JJ."
+    ],
+    "parties": [
+      "Fish\u2019s Election."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Simpson,\nOn November 8, 1921, an election was held in the Borough of Farrell, and the official count showed that F. S. Fish received 1,253 votes for the office of burgess, and James Nevant 1,168 votes therefor. Subsequently twenty-five persons, Nevant not being among the number, instituted a contest, alleging in their petition that they were qualified electors and had voted at the election, that certain specified facts required the court to reject the entire poll of the Fourth Ward, and that this would result in the election of Nevant instead of Fish.\nRespondent moved to quash the petition, alleging that three of those who signed it were not qualified electors, and the exclusion of their names would reduce the number below that required by act of assembly to maintain the contest; and also that the facts averred did not justify the rejection of the entire vote of the Fourth Ward. The court below sustained the motion for both reasons, and James Nevant alone appeals.\nAs appellant was not a party to the proceedings in that court, it is an open question whether or not he has a right to appeal from its order (Mechanics National Bank of Trenton v. Buckman, 253 Pa. 245) ; we will not, hoAvever, determine this point, or that of the alleged disqualification of the three signers to the petition, since we are all of opinion it would have been grave error to have stricken out the vote of the ward.\nThe petition does not allege that the election room and booths were not properly equipped and arranged; nor that fraud was committed, or even a mistake made, either in the acceptance or rejection of any of the votes cast, or in the count or return thereof; the only complaints being: \u201cThat the count of the votes cast by the electors of said Fourth Ward was not made by the election officers thereof in the room provided......[for the purpose, but on the contrary] was made in......[another room in the same building] a considerable distance away from the legally.constituted room......[and that] the election officers [when they] left the legally appointed room......with the assistance of other parties, not legally permitted under the law, took the ballots which they loosely carried over their arms, and in leaving became separated in the crowd which was there assembled, and proceeded from the building [into the street and then back into the other room in the same building]..... where the count of the votes was resumed......the ballots not [being] kept within the unobstructed view of those present in the room or voting room, as required by law,\u201d \u2014 to which petitioners add that because thereof \u201cample opportunity was afforded for the commission or perpetration of fraud.\u201d\nSome of these allegations are not sustained by the proofs, the actual facts shown being as follows: The election poll was in the basement of the high school building, the janitor of which banked the fires and left about 4 p. m., after the school closed. About nine or ten o\u2019clock that November night, it became too cold in the basement room for comfort, perhaps even for the health of the election officers and overseers. This was a matter against which the county commissioners and not the election officers were required to provide: section 19, Act June 10, 1893, P. L. 419, 428. At that time the preliminaries to the count of the vote had all been complied with and the count itself had so far progressed that the ballots had been taken out of the box and separated into three piles, two containing the straight votes for the candidates of the contesting parties, the third consisting of the split ballots; and the number of ballots in each pile had been counted and an announcement made of the result. The judge of election then stated that, because of the cold, the count would be concluded in another room in the building, as had been done on prior similar occasions. None of the officers or overseers of the election objected to this, though both parties were represented; on the contrary, they voluntarily left in a body, the inspectors of election, carrying the ballots, being in the middle, protected in front and rear by the other officers and overseers. When the party attempted to pass from the voting room to the place where they intended to finish the count, they found the only inside door, leading to this part of the building, had been locked and could not be opened; they then passed into the street and reentered the building at another point, going to an upper room which had a gas stove in it, by which it could be heated. No one interfered with them or even touched the ballots or papers during the journey from one room to the other, and there is neither averment nor proof of any tampering therewith. On a recount in the new room, exactly the same number of ballots was found in each of the three piles, as had been found and announced in the election room; the individual count then proceeded, was completed and announced, and the ballots and election returns properly delivered.\nIt is, of course, true that the matter complained of was an irregularity, furnishing a possible opportunity for fraud, of which, as stated, there was neither averment nor proof, however; and hence the question we are called upon to decide is: Ought the entire poll of the ward to be thrown out, the 801 voters disfranchised, and the borough governed for four years by a burgess who was fairly defeated at the election, simply because the election officers were guilty of an irregularity, which resulted in no harm to any of the candidates. In the absence of controlling provisions in the election laws, or some precedent thereunder, correct in principle and covering this exact question, we think its statement suggests its necessary answer. No such statutory provision appears, and .we, therefore, turn to our decisions to see if they compel us to the unjust conclusion asserted by appellant.\nIn Melvin\u2019s Case, 68 Pa. 333, it was decided that where an election was held at three houses, which were from half a mile to three miles from the proper polling places, the total vote in those election districts should be discarded. This was manifestly correct, since it was not known how many of the electors had gone to the proper places and had lost their right to vote because the polls were not there; and though we said \u201ca whole election district may be stricken out, on showing an entire disregard of conformity to law in holding it, either by design or ignorance,\u201d we took care to add (page 339) \u201cthere is nothing which will justify the striking out of an entire division but an inability to decipher the return, or by showing that not a single legal vote was polled, or that no election was legally held.\u201d This conclusion is perhaps too broadly stated, but it suffices to show how slowly the courts move when asked to reject an entire poll.\nIn the Contested Election of E. R. Wheelock, 82 Pa. 297, we said, in adopting the language of the court below, that the total vote of an election district should be rejected only \u201cwhen the acts of the officers are so fraudulent and irregular that the result cannot be ascertained\u201d; for the reason (page 299) that \u201cTo disfranchise all the voters of a township, as we are asked to do in this petition, the facts on which we are required to act should show a case free from legal doubt. If we, by our decision, should permit the carelessness or even the fraud of officers whose duty it is to furnish a list of voters at the election, to defeat the election and deprive the people of the county of the officer who was elected by a majority of their votes, we would thus make the people suffer for an act in which they did not participate, and which they did not sanction. In so doing, instead of punishing an officer for the violation of the election law, we practically punish the voters of the county by defeating their choice of a county officer as declared at the election. A decision of this kind would be fraught with danger by inviting unscrupulous or unprincipled persons, on the eve of an important election, to secrete or destroy the list of voters or other important papers in a township in which the majority may determine the result in the county.\u201d\nIn Krickbaum\u2019s Contested Election, 221 Pa. 521, the duly chosen judge of elections was excluded from serving; but we said this was an irregularity only, insufficient to set aside the poll, adding (page 528) : \u201cIt is the duty of the court to sustain an election authorized by law if it has been so conducted as to give a free and fair expression of the popular will, and the actual result thereof is clearly ascertained; for elections should never be held void unless they are clearly illegal. In the absence of fraud, mere irregularities in the conduct of an election, where it does not appear that the result was affected either by the rejection of legal votes or the reception of illegal ones, will not justify the rejection of the whole vote of the precinct, although the circumstances may be such as to subject the officers to punishment.\u201d\nIn Knight v. Coudersport Borough, 246 Pa. 284, 289, it was endeavored to set aside an election because the ballots, in express violation of the statute, were printed on a character of paper through which the printed matter showed on the opposite side. We said: \u201cIf the law declares a specified irregularity to be fatal, the court will follow that command, irrespective of their views of the importance of the requirement. In the absence of such declaration, the judiciary endeavor, as best they may, to discern whether the deviation from the prescribed forms of law had or had not so vital an influence on the proceedings as probably prevented a full and free expression of the popular will. If it had, the irregularity is held to vitiate the entire return; otherwise, it is considered immaterial. It has been sometimes said, in this connection, that certain provisions of the election laws are mandatory and others directory. These terms may perhaps be convenient to distinguish one class of irregularities from the other; but strictly speaking all provisions of such laws are mandatory, in the sense that they impose the duty of obedience on those who come within their purview. But it does not therefore follow that every slight departure therefrom should taint the whole proceedings with a fatal blemish. Courts justly consider the chief purpose of such laws, namely, the obtaining of a fair election and an honest return......and, in order not to defeat the main design, are frequently led to ignore such innocent irregularities of election officers as are free of fraud and have not interfered with a full and fair expression of the voter\u2019s choice.\u201d\nCramer\u2019s Election Case, 248 Pa. 208, is the only one antagonizing the principles above expressed, which, notwithstanding that decision, have since been repeatedly approved. In the particular election district there complained of, two rooms (neither of which was of adequate size for an election poll), instead of one, as the law provides, were fitted up for the conduct of the election, and they were arranged in \u201cflagrant disregard of legal requirements\u201d \u201cwhich rendered fraudulent practices, if not easy, certainly far less difficult of accomplishment, than would have been the case had the requirements of the act been complied with.\u201d Fraud was averred and proved, though this could not be connected up with the office then being contested. This court reversed the court below for refusing to strike out the returns from that district, the opinion writer giving as his reason why the honest and dishonest voters should alike be punished for the errors or frauds of the public officials, charged with arranging the election room and booths, that (page 217): \u201cEvery voter at that poll on that day must be held to a knowledge of the fact that the requirements of the statute were not being complied with, but were being openly and flagrantly disregarded, and acquiescence on their part in the dereliction leaves but little ground for them to complain if the entire vote of the ward should be stricken out. The remedy was as available to them as to the officials.\u201d On reflection it can be seen that this reasoning is fallacious, for many of the voters would not know the law had been violated, much less that it was within their power to have it corrected. True, they were bound to know the law, in so far as it prescribed a duty for them; but they were not obliged to know it in so far as it related to the duty of public officials, and had the right to presume the latter had done all that was required of them \u2014 omnia prsesumunter rite esse acta. To base a conclusion on the reasoning quoted, might lead to the most curious results; suppose, for instance, an improper arranging of the election room was corrected, during the day, would the votes cast before the correction be rejected and the rest counted, or would all be rejected or all counted?\nMoreover, to eliminate an entire poll, though no harm has actually been done, merely because public officials did not perform their duty properly, would result in the very wrong sought to be prevented; for if they are unscrupulous (knowing, as they always do, where votes antagonistic to their desires will be cast), they can wrongly fit up the election room and booths in every district which they desire shall be thrown out, and thus indefinitely control elections, even for their successors, pledged in advance to repeat the wrong. Aside from all this, however, we cannot agree that where, as here, neither fraud nor mistake is averred or proved, that any other rule is applicable than as expressed in the above extract from Knight v. Coudersport Borough, which has been quoted and approved in Com. ex rel. Gast v. Kelly, 255 Pa. 475, 481; and hence, as this is a later expression of judicial opinion on the subject, the reasoning in Cramer\u2019s Case, in so far as it is antagonistic, cannot be treated as governing.\nIn West Mahanoy Township\u2019s Contested Election, 258 Pa. 176, 179, where it was shown affirmatively that fraud was committed and legal electors were prevented from voting, we affirmed an order throwing out an entire poll. This conclusion was based on the facts stated, however, and we were careful to say (page 179) : \u201cFor mere irregularities in conducting an election it is not to be held void, even though the election officers may be subject to punishment for misconduct. This is so because the rights of voters are not to be prejudiced by the errors or wrongful acts of the officers of the election, unless it appears that a fair election and honest count were prevented : Krickbaum\u2019s Contested Election, 221 Pa. 521.\u201d\nUpon this rather extended review of our decisions, it is clear that no election poll has been wholly rejected where, as here, fraud was neither averred nor proved; and, for this reason, we might well close our opinion at this point. Since, however, our cases do not decide the exact question under consideration, we quote with approval what was said by Judge Thayer (than whom few, if any, were better qualified to speak), in Daly v. Petroff, 10 Phila. 389, 392, where the point was squarely raised: \u201cIt was also argued that the vote cast in the 11th division ought not to be counted, because, after the election, the boxes containing the ballots and papers were removed to the house of Mr. Holzman, who was the Democratic overseer of the election, to be counted. This was done with the concurrence of all the officers of the election, and the reason for doing it was this: the election was held in an open bar room, at the southeast corner of Sixth and Lombard streets, there being no partition between the election officers and the other part of the room. It was probably considered an unsafe or inconvenient place in which to proceed to count the ballots. They were accordingly carried by tbe common consent of all the election officers, both Ilepnblican and Democratic, to the house of Mr. Holzman, the Democratic overseer, which was in the division, as well as in the neighborhood. The officers accompanied the boxes and counted the ballots there. It is not, and cannot, upon the evidence, be pretended that they were taken there for any fraudulent purpose. On the contrary, the testimony shows conclusively that it was done in good faith, that the boxes remained untouched, and the votes were fairly and honestly counted. It was an irregularity in the officers which ought not to be imitated, but which furnishes no sufficient reason for throwing out the division, and depriving the voters of their rights.\u201d\nThe order of the court below is affirmed and the appeal is dismissed at the cost of appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Simpson,"
+      }
+    ],
+    "attorneys": [
+      "Francis M. Flinn, for appellant.",
+      "(7. F. Brockway, with him W. (7. LeffingioeU, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Fish\u2019s Election.\nElection law \u2014 Contest \u2014 Votes \u2014 Irregularity\u2014Counting votes away from polling place.\n1. It is an open question whether a candidate for office, who was not a party to a contested election proceeding in the court below, has a standing to appeal from its order.\n2. If no fraud is averred or proved the entire vote in an election division will not be thrown out merely because some statutory provisions have not been complied with.\n3. If a statute declares that a specified irregularity shall be fatal to the vote in an election district, the court will follow the legislative command, irrespective of its own views as to the wisdom of the requirement; but if the statute does not so declare, the court will endeavor to ascertain whether the deviation from the prescribed forms of law had or had not so vital an influence on the proceedings as to probably prevent a full and free expression of the popular will; if it is found they had not, the deviation will be considered immaterial.\n4. Where, after the polls have closed, the election officers leave the polling place because it was too cold to remain there, and finish the count of the ballots in another room in the same building, this will be treated as an irregularity only, unless it is shown that fraud was committed or wrong done.\nArgued March 7, 1922.\nAppeal, No. 48, Oct. T., 1922, by James Nevant, from order of Q. S. Mercer Co., Oct. T., 1921, No. 156, dismissing petition for contest of election of F. S. Fish for Burgess of Farrell.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaefer, JJ.\nAffirmed.\nPetition for contest of election. Before McLatjghrv, P. J.\nThe opinion of the Supreme Court states the facts.\nPetition dismissed. James Nevant appealed.\nError assigned, inter alia, was order, quoting it.\nFrancis M. Flinn, for appellant.\nThere was a plain violation of the mandatory provisions of the election law: Knight v. Boro., 246 Pa. 284; Cramer\u2019s Election, 248 Pa. 208; Barber\u2019s Election, 10 Phila. 579; Williams\u2019s App., 18 Pa. Dist. R. 687; Duffy\u2019s Case, 4 Brewster 531; Melvin\u2019s Case, 68 Pa. 333.\n(7. F. Brockway, with him W. (7. LeffingioeU, for appellee,\ncited: West Mahanoy Twp. Election, 258 Pa. 176; Daly v. Petroff, 10 Phila. 389.\nMarch 20, 1922:"
+  },
+  "file_name": "0410-01",
+  "first_page_order": 460,
+  "last_page_order": 469
+}

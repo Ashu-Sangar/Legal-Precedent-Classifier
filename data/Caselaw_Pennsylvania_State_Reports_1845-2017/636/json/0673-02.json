@@ -1,0 +1,63 @@
+{
+  "id": 12284679,
+  "name": "Com. v. Laureano",
+  "name_abbreviation": "Com. v. Laureano",
+  "decision_date": "2016-08-30",
+  "docket_number": "226 EAL (2016)",
+  "first_page": "673",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 50,
+    "ocr_confidence": 0.868,
+    "sha256": "f3993d8d3203a04a554cdfed302a39768d1141a0932f04978c5f1e2d74d45cdc",
+    "simhash": "1:16f86ec76468280e",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T15:51:24.577639+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Laureano"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Laureano\n08/30/2016\n226 EAL (2016)"
+  },
+  "file_name": "0673-02",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

@@ -1,0 +1,80 @@
+{
+  "id": 12288272,
+  "name": "T.L.B., In re; Com., In re",
+  "name_abbreviation": "In re T.L.B.",
+  "decision_date": "2016-05-18",
+  "docket_number": "98 MAL (2016)",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 776"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "127 A.3d 813",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6836018
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/127/0813-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 168,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24954331314296702
+    },
+    "sha256": "58bd28be6182f8f1cbe3b05faa4edc68e538b326856cd2d6664ddbca7f0c4234",
+    "simhash": "1:2b163acbaa4638de",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T.L.B., In re; Com., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 127 A.3d 813",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T.L.B., In re; Com., In re\n05/18/2016\n98 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0776-05",
+  "first_page_order": 836,
+  "last_page_order": 836
+}

@@ -1,0 +1,804 @@
+{
+  "id": 1917405,
+  "name": "Albert et al., Appellants, v. Lehigh Coal and Navigation Company",
+  "name_abbreviation": "Albert v. Lehigh Coal & Navigation Co.",
+  "decision_date": "1968-10-03",
+  "docket_number": "Appeal, No. 197",
+  "first_page": "600",
+  "last_page": "615",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "431 Pa. 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "20 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        972332
+      ],
+      "year": 1852,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/20/0157-01"
+      ]
+    },
+    {
+      "cite": "43 A. 2d 640",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Pa. Superior Ct. 515",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1061302
+      ],
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/157/0515-01"
+      ]
+    },
+    {
+      "cite": "132 A. 2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 Pa. 93",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1273989
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/389/0093-01"
+      ]
+    },
+    {
+      "cite": "265 F. 2d 196",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1980388
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/265/0196-01"
+      ]
+    },
+    {
+      "cite": "166 F. Supp. 465",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        453695
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/166/0465-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 562",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454277
+      ],
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/105/0562-01"
+      ]
+    },
+    {
+      "cite": "102 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        502701
+      ],
+      "year": 1883,
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/102/0338-01"
+      ]
+    },
+    {
+      "cite": "6 Watts 269",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846030
+      ],
+      "year": 1837,
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/6/0269-01"
+      ]
+    },
+    {
+      "cite": "151 A. 573",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1930,
+      "opinion_index": 0
+    },
+    {
+      "cite": "301 Pa. 50",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126394
+      ],
+      "year": 1930,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/301/0050-01"
+      ]
+    },
+    {
+      "cite": "137 A. 2d 805",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Pa. Superior Ct. 426",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        738528
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/185/0426-01"
+      ]
+    },
+    {
+      "cite": "47 A. 868",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1901,
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 Pa. 522",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        918698
+      ],
+      "weight": 2,
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "page": "528, 529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/197/0522-01"
+      ]
+    },
+    {
+      "cite": "19 A. 2d 269",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "341 Pa. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1204468
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/341/0200-01"
+      ]
+    },
+    {
+      "cite": "10 A. 2d 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1940,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Pa. Superior Ct. 361",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1022213
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/138/0361-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        432517
+      ],
+      "year": 1871,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/66/0229-01"
+      ]
+    },
+    {
+      "cite": "17 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967655
+      ],
+      "year": 1851,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/17/0042-01"
+      ]
+    },
+    {
+      "cite": "13 A. 2d 40",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1940,
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1199907
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/338/0300-01"
+      ]
+    },
+    {
+      "cite": "132 A. 2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1273993
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/389/0125-01"
+      ]
+    },
+    {
+      "cite": "112 A. 233",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1920,
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 Pa. 540",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061585
+      ],
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "546"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/268/0540-01"
+      ]
+    },
+    {
+      "cite": "47 A. 851",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1901,
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        918676
+      ],
+      "year": 1901,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/197/0578-01"
+      ]
+    },
+    {
+      "cite": "52 A. 82",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1902,
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Pa. 166",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994706
+      ],
+      "year": 1902,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/203/0166-01"
+      ]
+    },
+    {
+      "cite": "76 A. 745",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "366 Pa. 90",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845108
+      ],
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/366/0090-01"
+      ]
+    },
+    {
+      "cite": "81 A. 707",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1911,
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 Pa. 493",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977899
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "503"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/232/0493-01"
+      ]
+    },
+    {
+      "cite": "53 A. 648",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1902,
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        927524
+      ],
+      "weight": 2,
+      "year": 1902,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/204/0071-01"
+      ]
+    },
+    {
+      "cite": "218 A. 2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Pa. Superior Ct. 493",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        775225
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/207/0493-01"
+      ]
+    },
+    {
+      "cite": "27 A. 408",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1893,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Pa. 5",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        846605
+      ],
+      "year": 1893,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/157/0005-01"
+      ]
+    },
+    {
+      "cite": "81 Pa. 336",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044168
+      ],
+      "year": 1876,
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/81/0336-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 146",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856353
+      ],
+      "year": 1842,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/4/0146-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 452",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9505014
+      ],
+      "weight": 2,
+      "year": 1855,
+      "pin_cites": [
+        {
+          "page": "464"
+        },
+        {
+          "page": "p. 463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/24/0452-01"
+      ]
+    },
+    {
+      "cite": "115 A. 2d 222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "382 Pa. 419",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1259966
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/382/0419-01"
+      ]
+    },
+    {
+      "cite": "224 A. 2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "423 Pa. 563",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1903144
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/423/0563-01"
+      ]
+    },
+    {
+      "cite": "232 A. 2d 196",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Pa. 343",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1908636
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/426/0343-01"
+      ]
+    },
+    {
+      "cite": "174 A. 97",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156702
+      ],
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/315/0513-01"
+      ]
+    },
+    {
+      "cite": "66 A. 2d 245",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "362 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477413
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/362/0007-01"
+      ]
+    },
+    {
+      "cite": "92 A. 2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "372 Pa. 148",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1238027
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/372/0148-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 925,
+    "char_count": 20527,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 9.241958739905941e-07,
+      "percentile": 0.9799123423798067
+    },
+    "sha256": "03720f11b61899f797f287e39491209eca23082f38f7397481ef18eb541d4de2",
+    "simhash": "1:888b04a0e4a27e75",
+    "word_count": 3729
+  },
+  "last_updated": "2024-02-27T23:35:33.829175+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.",
+      "Mr. Justice Cohen and Mr. Justice Roberts concur in the result."
+    ],
+    "parties": [
+      "Albert et al., Appellants, v. Lehigh Coal and Navigation Company."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Jones,\nThis appeal arises from a judgment entered, in an action to quiet title, by the Court of Common Pleas of Luzerne County and requires resolution of the question of the ownership of a large tract of land located in Fairview Township, Luzerne County.\nThe original warrant for the subject land was issued to George W. Woodward and covered 399 acres plus allowances of 6%, or approximately 423 acres, located originally within Hanover Township, later within Wright Township and now located in Fairview Township, Luzerne County. On August 11, 1842, G. W. Woodward sold to one Volney Maxwell two warrants, one for the 399 acre tract and the other for a 417 acre tract located in Wright Township, Luzerne County. On March 25, 1867, Maxwell conveyed the 399 acre tract warrant to one John Brown and, on March 30, 1867, Brown conveyed this warrant to the Lehigh Coal and Navigation Company (Lehigh). Despite these conveyances both the 399 acre tract and the 417 acre tract continued to be carried on the tax records as \u201cunseated\u201d lands in Wright Township in the warrantee name of George W. Woodward, the acreage of the one warrant being set forth as 399 acres and the acreage of the other warrant as 417 acres.\nThe Luzerne County tax records show that Lehigh on June 1, 1868 paid 1867 taxes ($42.47) and that such payment would appear to have been credited to the 417 acre tract which Lehigh did not own and the records do not reveal that the 1867 taxes on the 399 acre tract which Lehigh did own were paid. The records further show that, on June 2, 1870, Lehigh paid 1868 and 1869 taxes and, again, such tax payments appear to have been credited to the 417 acre tract which Lehigh did not own and the records do not reveal that taxes for 1868 and 1869 were paid on the 899 acre tract which Lehigh did own\nOn July 1, 1870, by reason of the nonpayment of the 1867, 1868 and 1869 taxes on the 399 acre tract, the Treasurer of Luzerne County, at a tax sale, sold to the Commissioners of that County the 399 acre tract and, on September 18, 1878, \u2014 over eight years subsequent to the tax sale, \u2014 the 399 acre tract was sold at a tax sale by the County to one S. S. Winchester. On the date of that sale Winchester did not comply with his bid although he did pay the amount of his bid on September 26, 1878, eight days subsequent to the tax sale. In the meantime, Lehigh, on September 24, 1878, six days subsequent to the sale, attempted to redeem the 399 acre tract by again paying 1868 and 1869 taxes. The County Commissioners of Luzerne County, by reason of Lehigh\u2019s attempt at redemption, refused to deliver a deed to Winchester and, on November 26, 1878, Winchester instituted a mandamus action against the County in the Court of Common Pleas of Luzerne County to compel the County Commissioners to give him a deed. Almost a year later, on November 10, 1879, the court issued a decree directing the County Commissioners to execute and deliver a deed to the 399 acre tract to Winchester and, in compliance with that decree, the County Commissioners did execute and deliver such a deed to Winchester on December 26, 1879. Lehigh was not made, nor did it intervene as, a party to this mandamus proceeding.\nWinchester later died and, on June 27, 1882, the 399 acre tract was sold at a public sale, for the payment of debts in Winchester\u2019s estate, to one G. S. Halsey. Two years later, on June 21, 1892, Halsey conveyed tlie 399 acre tract to one Robert Sayre who conveyed his interest in this tract on July 9, 1894 to the Wright Township Water Company (Wright). Record title remained in Wright\u2019s name until June 27, 1938 when Wright conveyed its interest to the Lehigh Valley Railroad Company (Lehigh Valley). In the meantime, Wright did not pay the 1933 and 1934 taxes which were assessed in its name against the land and, as a result thereof, the Treasurer of Luzerne County on July 9, 1940 sold the tract to the Luzerne County Commissioners and, on June 30, 1952, twelve years later, the Tax Claim Bureau of Luzerne County sold the land to George Albert and Thomas C. Moore, the present appellants.\nOn August 24, 1959, appellants instituted an action to quiet title against Lehigh Valley and In this action a judgment by default against the Lehigh Valley was entered by the Court of Common Pleas of Luzerne County. Lehigh was not a party to this action.\nOn January 1, 1962, Lehigh conveyed whatever interest it had in the land to the Blue Ridge Real Estate Company.\nThe following additional facts must be noted: (1) Lehigh made seven conveyances totalling 156 acres out of the 399 acre tract, two of these conveyances being made a few months after the 1870 tax sale but the deeds recording the first four of the seven conveyances were not recorded until 1892; (2) three of Lehigh\u2019s adverse conveyances, totalling 83.61 acres were later made; (3) in 1933 and 1934, 150 acres of this tract were carried on the assessment books in Lehigh\u2019s name, although Lehigh then claimed and now claims to own all the acreage, remaining after previous conveyances, in this tract and Lehigh did pay all the taxes levied under these assessments against it for 1933 and 1934 while the taxes for the acreage represented by the previous conveyances were paid by the several owners against whom such acreage was assessed; (4) the tax assessments for 1933 and 1934 against Wright, on the basis of which the 1940 tax sale was held for nonpayment of these taxes, was found by the court to have included the acreage claimed by Lehigh and upon which Lehigh had paid taxes for 1933 and 1934 at least to the extent of 150 acres thereof.\nAppellants\u2019 claim of title to that portion of the land in the 399 acre tract which remained after the adverse conveyances is based upon the 1870 tax sale, the 1878 tax sale, the 1879 court decree, the 1940 tax sale and the 1952 tax sale. Lehigh\u2019s claim of title is based upon the 1867 deed of Brown to Lehigh.\nAfter hearing, the Court of Common Pleas of Luzerne County entered judgment nisi in favor of Lehigh and against appellants upon the following grounds: (a) that the 1870 tax sale was void and invalid as against Lehigh because Lehigh had paid the 1867-1869, inc., taxes on the 399 acre tract even though such payments had been erroneously credited by the County Treasurer to the 417 acre tract held in the warrantee name of G. W. Woodward and owned by others than Lehigh; (b) that the 1940 tax sale was void and invalid as against Lehigh because the land, for the nonpayment of taxes on which the sale was held, had been doubly assessed, it being assessed to both Lehigh and Wright and, furthermore, Lehigh had paid the taxes on the land assessed in its name for the years 1933 and 1934 upon the basis of which the 1940 tax sale was held; (c) that the 1879 decree of the Court of Common Pleas directing the execution and delivery of a deed to Winchester, following the 1878 tax sale, did not bind Lehigh because Lehigh had not been a party to that mandamus proceeding. Upon the dismissal of exceptions to the judgment nisi and the entry of a final judgment in favor of Lehigh by the court en banc, this appeal was taken.\nIn evaluating the merits of this appeal, we start with the well settled principle of law that, in an action to quiet title, the plaintiffs must recover on the strength of their own title and not upon the weakness of the title of the defendant: Cox's Inc. v. Snodgrass, 372 Pa. 148, 152, 92 A. 2d 540 (1952) ; Blumner v. Metropolitan Life Ins. Co., 362 Pa. 7, 12, 66 A. 2d 245 (1949); Ransberry v. Brodhead's Forest & Stream Assoc., 315 Pa. 513, 515, 174 A. 97 (1934).\nThe appellants, initially, must rest their claim of title on the validity of the 1870 tax sale to Luzerne County because, if that tax sale was invalid, Winchester, appellants\u2019 predecessor in title, did not by the County-Winchester deed of 1879 receive any title to the 399 acre tract. In this connection, two inquiries arise: (1) were the taxes for 1867-1869, inc., paid by Lehigh on the 399 acre tract prior to the date of the tax sale? (2) what was the effect of the 1879 decree in the mandamus action directing delivery of the deed to the 399 acre tract by the County to Winchester following the 1878 tax sale?\nThe tax records show the following:\nThe court below, inter alia, found and the court en banc approved such findings: (a) that Lehigh on June 1, 1868 paid the 1867 taxes and on June 2, 1870 paid the 1868 and 1869 taxes on the 399 acre tract but that such payments had been erroneously credited against the 417 acre tract leaving of record as unpaid the 1867, 1868 and 1869 taxes on the 399 acre tract; (b) that Lehigh in 1867, 1868, and 1869 did not own or possess any interest in the 417 acre tract.\nWe are mindful that the findings of fact of a trial judge, sitting without a jury, approved by the court en banc, have the force and effect of a jury verdict and, if not arbitrarily made and if sustained by the evidence, will not be disturbed on appeal. See: Christ Construction Co. Inc. v. Olevsky, 426 Pa. 343, 347, 232 A. 2d 196 (1967). However, that rule does not require that we accept the deductions made by the court below from the facts as found nor the conclusions reached: Selheimer v. Manganese Corp., 423 Pa. 563, 568, 224 A. 2d 634 (1966); Howarth v. Miller, 382 Pa. 419, 424, 115 A. 2d 222 (1955). The findings of the court below as to payment of taxes for these three years by Lehigh and the lack of any interest in Lehigh in the 417 acre tract are genuine findings of fact which are fully sustained by the evidence and must be accepted by us. However, the finding that Lehigh\u2019s tax payments were erroneously credited by the county treasurer to the wrong tract of land is a conclusion or a deduction into the validity of which we must inquire.\nWhile there is a presumption that public officers do perform their duties properly, such presumption must yield if the facts and reasonable deductions therefrom indicate the contrary. Bearing in mind that for the tax years in question there were two tracts of land of approximately the same acreage assessed in the same original warrantee name in the same township, that Lehigh owned one tract but lacked any ownership whatsoever in the other tract, that Lehigh actually did pay taxes for the three years in question and that the records simply show, as to the 1868 and 1869 taxes, a notation \u201cpaid\u201d on a certain day by Lehigh through a certain individual and this notation appears opposite the tract which Lehigh did not own, a tract which appears on the tax records on the line directly above the line upon which appears the tract which Lehigh did own, we believe that the court below properly concluded from the facts that an error in crediting these taxes to the proper tract did take place. We further are of the opinion, that the evidence was such that the court below correctly concluded the error in crediting was on the part of the county treasurer, who made up and had custody of the tax records, rather than on the part of the individuals who on Lehigh\u2019s behalf actually made the tax payments.\nIn Laird v. Hiester, 24 Pa. 452, 464 (1855) it was stated: \u201cWhen the owner of an unseated tract of land goes to the treasurer and offers to pay all the taxes upon it, and does pay the amount demanded by him, and tlie treasurer credits the payment to another tract, and sells this, it is a good payment and the sale is void.\n\u201cThe unseated land laws are intended to enforce the payment of taxes, and their purpose is fulfilled when the duty is performed. If a man has really and in good faith performed his duty herein to the satisfaction of the proper officers, his land is safe. If it be sold after that, it is through the error of some officer, which cannot be visited on the owner; for the state does not mean that the owners of unseated lands shall warrant the fidelity or competency of its officers. The sale involves an assertion by the treasurer that the taxes are unpaid, and the purchaser relies upon this, or on his own. investigations, and his title depends upon its truth.\u201d\nIn Dougherty v. Dickey, 4 W. & S. 146, 148 (1842), Chief Justice Gibson, speaking for this Court, said: \u201cBut take it that her payment was misapplied by the receiving officer; and what is the consequence? Surely not that she is to be the sufferer; especially when the treasury has had its due .... It would be a hard interpretation of the law that would allow the fiscal officers to retain a mispaylnent, the consequence of their own blunder, and sell the land of an innocent proprietor to make up the deficiency on the books which they improperly, though innocently, created. She intended to pay in exoneration of her own land; and if they, however unintentionally, appropriated her payment to a tax due by another, their appropriation is void and the payment stands good as she intended it: and, the tax being thus paid, the purchaser [at the tax sale] would . . . have no title.\u201d See also: Breisch v. Coxe, 81 Pa. 336, 346 (1876); Pottsville Lumber Co. v. Wells, 157 Pa. 5, 27 A. 408 (1893); Bozitsko v. Hoffman, 207 Pa. Superior Ct. 493, 496, 218 A. 2d 835 (1966).\nOur review of this record indicates beyond question that Lehigh had paid the taxes for the three years in question, that the county treasurer had credited such payments to the wrong tract of land and that the tax sale of 1870 of the 399 acre tract was invalid and passed no title to the County. It is hornbook law that, absent a delinquency in the payment of taxes, a tax sale based upon such delinquency must fall. See: Laird v. Hiester, supra, p. 463; Albright v. Byers-Allen Lumber Co., 204 Pa. 71, 53 A. 648 (1902); Africa v. Trexler, 232 Pa. 493, 503, 81 A. 707 (1911); Bozitsko v. Hoffman, supra, p. 496. \u201cThe purpose of tax sales is not to strip the taxpayer of his property but to insure the collection of taxes\u201d: Hess v. Westerwick, 366 Pa. 90, 96, 76 A. 745 (1950).\nMoreover, the record indicates that, from the time of the tax sale until 1879, Lehigh continued to pay and the County continued to accept payment of taxes on this tract of land. The acceptance of such tax payments by the county may well be deemed an abandonment of its purchase at the 1870 tax sale. Cf. Feltz v. Natalie Anthracite Coal Co., 203 Pa. 166, 52 A. 82 (1902); Schreiber v. Moynihan, 197 Pa. 578, 47 A. 851 (1901).\nWhat was the effect of the 1879 court decree directing the County to execute and deliver a deed for this tract of land to the purchaser at the tax sale? Lehigh was not made a party to the mandamus proceeding which resulted in this decree nor did Lehigh intervene in such proceeding. Under such circumstances, the decree did not bind Lehigh in any manner whatsoever. To be concluded by a prior decree or judgment one must be a party to the action, or what is equivalent thereto with a right to control the proceedings and take an appeal: Stonecipher v. Keane, 268 Pa. 540, 546, 112 A. 233 (1920). See also: Melcher v. Pa. T. & F. Mut. Cas. Ins. Co., 389 Pa. 125, 129, 132 A. 2d 190 (1957); Cameron Bank v. Aleppo Twp., 338 Pa. 300, 304, 13 A. 2d 40 (1940).\nThe tax sale of 1870 being invalid, the County acquired no right, title or interest in the 399 acre tract and could not, by its deed, pass any right, title or interest to Winchester, the purchaser at the 1878 tax sale.\nEven assuming the validity of the 1870 tax sale, did the 1940 tax sale pass any title to the County?\nThe record reveals unequivocally that the tax sale of 1940 was bottomed on an alleged delinquency in the payment of 1933 and 1934 taxes on this land, that this land was assessed under two separate assessments, one assessment being in the name of Wright and the other being in the name of Lehigh, that Lehigh did pay the taxes for the years in question on the land assessed against it on the tax records and that there was a double assessment of this land for the years in question. In Albright v. Byers-Allen Lumber Co., 204 Pa. 71, 53 A. 648 (1902) the Superior Court, in a per curiam opinion, approved the opinion of the court below which stated, inter alia: \u201cWhile unseated land is itself the debtor for the school tax legally assessed thereon, yet it is but once liable therefor. If there are two claimants of the same land, and it is assessed in the same year in the name of each, and one of them pays the tax, it cannot be afterwards sold, so as to convey any title, for the nonpayment of the tax assessed against it in the name of the other claimant. Having once responded to the public demand upon it, it cannot be made to do so again for the same demand.\u201d (p. 83). See also: Montgomery v. Meredith, 17 Pa. 42 (1851); Brown v. Hays, 66 Pa. 229 (1871); Nypen Corp. v. Sechrist, 138 Pa. Superior Ct. 361, 364, 10 A. 2d 822 (1940); Bozitsko v. Hoffman, supra.\nIn view of the double assessment so dramatically shown on this record for the years 1933 and 1934 and of the payment by Lehigh of all the taxes due for such years, the tax sale of 1940 was void and passed no title to appellants. The invalidity of the 1940 tax sale, of course, vitiated the 1952 tax sale and rendered such sale invalid.\nThe invalidity of these tax sales has not been cured by any remedial statute. While a remedial statute may cure irregularities in assessments, process and other proceedings in tax sales, it cannot give validity to jurisdictional defects and vital irregularities. See: Scranton v. O\u2019Malley Mfg. Co., 341 Pa. 200, 207, 19 A. 2d 269 (1941); Simpson v. Meyers, 197 Pa. 522, 527, 47 A. 868 (1901) ; Carratelli v. Castrodale, 185 Pa. Superior Ct. 426, 137 A. 2d 805 (1958).\nAppellants urge that Lehigh is estopped to assert its claim to title and to attack the validity of a tax sale which took place almost 100 years ago. The burden of establishing an estoppel was upon them (Nick v. Craig, 301 Pa. 50, 151 A. 573 (1930) and they have failed to sustain their burden. Moreover, even if Le-high made no effort to redeem this tract of land\u2014 which it did immediately after the 1878 tax sale \"out of an abundance of caution\u201d as the court below stated \u25a0 \u2014 if any of the tax sales were void for want of authority to make them \u2014 and we herein decide they were\u2014 the landowner need not redeem it and his failure to do so is not a matter on which appellants could rely. See: Simpson v. Meyers, 197 Pa. 522, 528, 529, 47 A. 868 (1901).\nOur study of this record convinces us of the propriety of the action of the court below in entering a judgment in favor of Lehigh and against appellants.\nJudgment affirmed.\nMr. Justice Cohen and Mr. Justice Roberts concur in the result.\nLater Chief Justice of this Court.\nThis tract will be referred to in this opinion as a 399 acre tract.\nAs to the difference between \u201cseated\u201d and \u201cunseated\u201d land, see: Lackawanna Iron and Coal Co. v. Fales, 55 Pa. (5 P.F. Smith) 90, 98 (1867) ; Kennedy v. Daily, 6 Watts 269, 272 (1837) ; Earley v. Euwer, 102 Pa. 338, 340 (1883) ; Stoetzel v. Jackson, 105 Pa. 562, 567 (1884) ; Proctor v. Sagamore Big Game Club, 166 F. Supp. 465, 475 (1958), aff\u2019d 265 F. 2d 196 (1959).\nAppellants, conceding that the taxes were paid on the wrong warrant, contend such error arose from a mistake made by Lehigh and not by the County Treasurer.\nThere is a prima, facie presumption of the regularity of the acts of public officials which exists until the contrary appears and such presumption, a procedural expedient, is particularly suitable in tax sales: Hughes v. Chaplin, 389 Pa. 93, 132 A. 2d 200 (1957) ; Beacom v. Robison, 157 Pa. Superior Ct. 515, 521, 43 A. 2d 640 (1945).\nIn Ankeny v. Albright, 20 Pa. 157, 158 (1852) the original owner of land, in attempting to defeat the title of the purchaser of the land at a tax sale, showed that the letters \u201cpd\u201d appeared opposite the land assessment. This Court, while conceding the letters \u201cpd\u201d meant \u201cpaid\u201d, however, stated the entry of the letters \u201cpd\u201d in the treasurer\u2019s office was not sufficient evidence per se of the fact and, even if it were, such entry did not show the time of payment, i.e., whether before or after the tax sale. The converse should be true and the absence of any notation on the records as to whether taxes were or were not paid should not be conclusive proof that such taxes were not paid.",
+        "type": "majority",
+        "author": "Mr. Justice Jones,"
+      }
+    ],
+    "attorneys": [
+      "Neville B. Shea, with him Hopldn T. Rowlands, Jr., for appellants.",
+      "James P. Harris, Jr., for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Albert et al., Appellants, v. Lehigh Coal and Navigation Company.\nArgued April 19, 1968.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nNeville B. Shea, with him Hopldn T. Rowlands, Jr., for appellants.\nJames P. Harris, Jr., for appellees.\nOctober 3, 1968:"
+  },
+  "file_name": "0600-01",
+  "first_page_order": 628,
+  "last_page_order": 643
+}

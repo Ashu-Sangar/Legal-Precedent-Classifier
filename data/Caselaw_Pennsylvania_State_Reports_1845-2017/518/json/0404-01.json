@@ -1,0 +1,96 @@
+{
+  "id": 1811686,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Salvatore C. SASSO, Respondent",
+  "name_abbreviation": "Commonwealth v. Sasso",
+  "decision_date": "1988-06-14",
+  "docket_number": "Petition No. 839 E.D.Allocatur Docket 1986",
+  "first_page": "404",
+  "last_page": "405",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "518 Pa. 404"
+    },
+    {
+      "type": "parallel",
+      "cite": "543 A.2d 547"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808600
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0053-01"
+      ]
+    },
+    {
+      "cite": "515 A.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "359 Pa. Super. 630",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 1987,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 490,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06740180605124083
+    },
+    "sha256": "300292c7dbe511183ecd6f285a344af3d52b099a08230fff9f648608920d6401",
+    "simhash": "1:9c1386ff29bbe1a9",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T21:15:45.792540+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Salvatore C. SASSO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Commonwealth\u2019s Petition for Allowance of Appeal is granted. The Order of the Superior Court 359 Pa. Super. 630, 515 A.2d 619, is reversed, and the case is remanded to the Court of Common Pleas of Carbon County for a hearing on the question of prejudice. See, Pa.R.Crim.P. 150; Commonwealth v. Revtai, 516 Pa. 53, 532 A.2d 1 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "543 A.2d 547\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Salvatore C. SASSO, Respondent.\nSupreme Court of Pennsylvania.\nJune 14, 1988."
+  },
+  "file_name": "0404-01",
+  "first_page_order": 500,
+  "last_page_order": 501
+}

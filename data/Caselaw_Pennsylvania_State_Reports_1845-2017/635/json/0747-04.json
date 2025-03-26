@@ -1,0 +1,70 @@
+{
+  "id": 12283835,
+  "name": "Com. v. Birk",
+  "name_abbreviation": "Com. v. Birk",
+  "decision_date": "2016-03-30",
+  "docket_number": "724 MAL (2015)",
+  "first_page": "747",
+  "last_page": "747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 747"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1124",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 110,
+    "ocr_confidence": 0.815,
+    "sha256": "4a767ce63b8b2e53eadeca9fc0196e7b69827f56f013f2b3fece26fd575d47aa",
+    "simhash": "1:6fc8bcf9e9f74343",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Birk"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1124",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Birk\n03/30/2016\n724 MAL (2015)\n. Reconsideration Denied May 10, 2016."
+  },
+  "file_name": "0747-04",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

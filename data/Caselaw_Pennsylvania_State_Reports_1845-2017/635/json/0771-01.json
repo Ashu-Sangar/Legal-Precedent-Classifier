@@ -1,0 +1,80 @@
+{
+  "id": 12287273,
+  "name": "Com. v. Ibrahim",
+  "name_abbreviation": "Com. v. Ibrahim",
+  "decision_date": "2016-04-27",
+  "docket_number": "634 EAL (2016)",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 771"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "127 A.3d 819",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6836055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/127/0819-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 170,
+    "ocr_confidence": 0.782,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2494626134573869
+    },
+    "sha256": "ca139dcf91683ded2a414a2822a107737172e6adbf6fd70036f4a6a75a3ea970",
+    "simhash": "1:293e6266abcf7bca",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Ibrahim"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 127 A.3d 819",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Ibrahim\n04/27/2016\n634 EAL (2016)\n. Justice DONOHUE and WECHT did not participate decision of this matter. in the consideration or"
+  },
+  "file_name": "0771-01",
+  "first_page_order": 831,
+  "last_page_order": 831
+}

@@ -1,0 +1,102 @@
+{
+  "id": 12281164,
+  "name": "Com. v. Graves",
+  "name_abbreviation": "Com. v. Graves",
+  "decision_date": "2016-07-07",
+  "docket_number": "117 EAL (2016)",
+  "first_page": "646",
+  "last_page": "646",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 646"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 189",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486435,
+        12486436,
+        12486437,
+        12486438,
+        12486439,
+        12486440,
+        12486441,
+        12486442,
+        12486443,
+        12486444,
+        12486445,
+        12486446,
+        12486447,
+        12486448
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0189-10",
+        "/a3d/144-2/0189-11",
+        "/a3d/144-2/0189-12",
+        "/a3d/144-2/0189-13",
+        "/a3d/144-2/0189-14",
+        "/a3d/144-2/0189-01",
+        "/a3d/144-2/0189-02",
+        "/a3d/144-2/0189-03",
+        "/a3d/144-2/0189-04",
+        "/a3d/144-2/0189-05",
+        "/a3d/144-2/0189-06",
+        "/a3d/144-2/0189-07",
+        "/a3d/144-2/0189-08",
+        "/a3d/144-2/0189-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.855,
+    "sha256": "262cedd0e86dc50790999af668be4fd69ede20f9ef7df128cf9d3b7dd9e20704",
+    "simhash": "1:b22cca77f4008a20",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Graves"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 189",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Graves\n07/07/2016\n117 EAL (2016)"
+  },
+  "file_name": "0646-06",
+  "first_page_order": 698,
+  "last_page_order": 698
+}

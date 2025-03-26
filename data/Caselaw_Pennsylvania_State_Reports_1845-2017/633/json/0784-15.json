@@ -1,0 +1,70 @@
+{
+  "id": 12286492,
+  "name": "Com. v. Diehl",
+  "name_abbreviation": "Com. v. Diehl",
+  "decision_date": "2015-12-02",
+  "docket_number": "291 WAL (2015)",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 784"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1149",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.848,
+    "sha256": "bf94d937419653f4102d848e6ceb073e875ef929afdfc16d869c758654ed58eb",
+    "simhash": "1:9a9ee08ed4405051",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Diehl"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1149",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Diehl\n12/02/2015\n291 WAL (2015)"
+  },
+  "file_name": "0784-15",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

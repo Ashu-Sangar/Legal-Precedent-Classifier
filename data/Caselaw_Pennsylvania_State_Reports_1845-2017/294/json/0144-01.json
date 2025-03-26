@@ -1,0 +1,639 @@
+{
+  "id": 1113376,
+  "name": "Commonwealth v. Parker et al., Appellants",
+  "name_abbreviation": "Commonwealth v. Parker",
+  "decision_date": "1928-11-26",
+  "docket_number": "Appeals, Nos. 223-5",
+  "first_page": "144",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "294 Pa. 144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "259 Pa. 270",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "104 Pa, 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0218-01"
+      ]
+    },
+    {
+      "cite": "34 Pa. Superior Ct. 286",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        870975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/34/0286-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 99",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/284/0099-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092080
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/284/0105-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 388",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446134
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/99/0388-01"
+      ]
+    },
+    {
+      "cite": "81 Pa. Superior Ct. 585",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        655592
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/81/0585-01"
+      ]
+    },
+    {
+      "cite": "145 Pa. 308",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        825864
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/145/0308-01"
+      ]
+    },
+    {
+      "cite": "257 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032354
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/257/0289-01"
+      ]
+    },
+    {
+      "cite": "40 Pa. Superior Ct. 157",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        882277
+      ],
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/40/0157-01"
+      ]
+    },
+    {
+      "cite": "6 Pa. Superior Ct. 92",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        281902
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/6/0092-01"
+      ]
+    },
+    {
+      "cite": "280 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1084426
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/280/0368-01"
+      ]
+    },
+    {
+      "cite": "186 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        989729
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/186/0001-01"
+      ]
+    },
+    {
+      "cite": "266 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056025
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/266/0074-01"
+      ]
+    },
+    {
+      "cite": "259 Pa. 267",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038346
+      ],
+      "pin_cites": [
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/259/0267-01"
+      ]
+    },
+    {
+      "cite": "29 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        982739
+      ],
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/29/0429-01"
+      ]
+    },
+    {
+      "cite": "51 S. W. 814",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "pin_cites": [
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Ky. 894",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4428243
+      ],
+      "pin_cites": [
+        {
+          "page": "898"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/106/0894-01"
+      ]
+    },
+    {
+      "cite": "287 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1099588
+      ],
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/287/0553-01"
+      ]
+    },
+    {
+      "cite": "258 Pa. 589",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1035033
+      ],
+      "pin_cites": [
+        {
+          "page": "594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/258/0589-01"
+      ]
+    },
+    {
+      "cite": "170 Cal. 104",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2036981
+      ],
+      "pin_cites": [
+        {
+          "page": "110-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/170/0104-01"
+      ]
+    },
+    {
+      "cite": "49 Cal. 174",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2347840
+      ],
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/49/0174-01"
+      ]
+    },
+    {
+      "cite": "130 Tenn. 100",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8534869
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "107"
+        },
+        {
+          "page": "106-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/130/0100-01"
+      ]
+    },
+    {
+      "cite": "265 Pa. 362",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1051873
+      ],
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/265/0362-01"
+      ]
+    },
+    {
+      "cite": "275 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1075649
+      ],
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/275/0338-01"
+      ]
+    },
+    {
+      "cite": "162 U. S. 613",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141160
+      ],
+      "pin_cites": [
+        {
+          "page": "620"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/162/0613-01"
+      ]
+    },
+    {
+      "cite": "29 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        982874
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/29/0102-01"
+      ]
+    },
+    {
+      "cite": "273 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070791
+      ],
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/273/0275-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111176
+      ],
+      "pin_cites": [
+        {
+          "page": "266-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0264-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 557",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111138
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0557-01"
+      ]
+    },
+    {
+      "cite": "289 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1103337
+      ],
+      "pin_cites": [
+        {
+          "page": "590, 591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/289/0588-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0161-01"
+      ]
+    },
+    {
+      "cite": "104 Pa, 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452201
+      ],
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/104/0218-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092080
+      ],
+      "pin_cites": [
+        {
+          "page": "109-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0105-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 388",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446134
+      ],
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/99/0388-01"
+      ]
+    },
+    {
+      "cite": "257 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032354
+      ],
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/257/0289-01"
+      ]
+    },
+    {
+      "cite": "280 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1084426
+      ],
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/280/0368-01"
+      ]
+    },
+    {
+      "cite": "186 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        989729
+      ],
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/186/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 941,
+    "char_count": 19636,
+    "ocr_confidence": 0.482,
+    "pagerank": {
+      "raw": 1.3034155928814338e-06,
+      "percentile": 0.9894322024179788
+    },
+    "sha256": "f6ad2de993ce38dea1a032af7c6bdb038bd67028f4feacde6d21e4825455629f",
+    "simhash": "1:ee5ff453f00925dd",
+    "word_count": 3344
+  },
+  "last_updated": "2024-02-27T20:39:49.964940+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schapper, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Parker et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Moschzisker,\nThis case involves appeals by three defendants, James Parker, Raymond Parker and John H. Wilson, who, with Joe B. Ware, were indicted for the killing of Pelegrino Coceo, in the City of Erie. All were tried at one time. The appellants were found guilty of murder of the first degree, and the jury fixed the death penalty for them. Ware, a mere youth, was found guilty of the same degree of crime, but in his case the penalty was fixed at life imprisonment, and he did not appeal.\nBriefly, the facts are: The deceased was found dead in his dwelling house on the morning of November 21, 1927, under circumstances which indicated that he had been murdered while a burglary and robbery was being perpetrated. Late in the next month, defendants John H. Wilson and James Parker, together with one John W. Christy, were arrested for the robbery of a street car conductor in the City of Erie. This last mentioned offense occurred after the alleged murder and had no connection with it other than through the fact that a pistol stolen from Coceo, at the time of his slaying, was used in the perpetration of the subsequent robbery. Confessions by Wilson and James Parker to the Erie chief of police covered the commission of both the Coceo homicide and the robbery of the sti\u2019eet car conductor; they implicated in the former crime, as coparticipants, Raymond Parker and Joe B. Ware, both of whom were subsequently arrested and made separate confessions.\nThe controlling points for decision, raised upon this appeal, are: (1) Whether or not it was reversible error for the trial judge to hear defendants\u2019 motion for a new trial, sitting alone, instead of convening with his colleagues as a court in banc. (2) Whether or not it was proper to' admit in evidence those portions of the confessions containing admissions to the effect that, at the time of the robbery of the street car conductor and of another hold-up, the defendants possessed a pistol which was identified as property stolen from Coceo, the murdered man. (3) Whether or not it was reversible error to receive in evidence, as part of one of the confessions, a notation therein that the declarant identified the before mentioned pistol as his property, without recording his actual words of recognition or particularizing how he made the identification.\nUnder Equity Rule 71, all motions for new trials must be heard by the court in banc: Stone v. New Schiller, etc., 293 Pa. 161, 168 ; Carney v. Penn Oil Co., 289 Pa. 588, 590, 591, and authorities there cited. In the case of Sterrett v. McLean et al., 293 Pa. 557, 563 et seq., an appeal from a salary board to the court of common pleas was required to be heard by the court in banc. In civil cases the court hearing motions for a new trial must sit in banc: Zimmerman v. Penna. R. R. Co., 293 Pa. 264, 266-7; Gail v. Phila., 273 Pa. 275, 279. There is no statutory requirement nor decision in Pennsylvania that a motion for a new trial in a homicide case must be heard in banc, yet this very pi\u2019oper practice prevails in the larger judicial districts of the State, and, had a request been made and refused that this course be pursued by the court below, we might have returned the record to give us the benefit of such a review; but, under the circumstances, and in view of the fact that the record before us suggests no doubt of the justice of the verdict, we shall not disturb the judgment entered thereon for such a purpose.\nJohn II. Wilson\u2019s confession begins with an account of the street car robbery, and proceeds to a point where, on the production of \u00e1 pistol of distinct model and number, he admitted it to be the one used by him in the commission of that crime. Continuing, he confessed to participation in the robbery and murder of Coceo; finally, he admitted that the pistol used in the street car hold-up was taken from Coceo on the night when he, Wilson, and his three companions had disarmed their victim and murdered him. The confession contains a scant reference to still another hold-up, in which this pistol also figured, mentioned at the beginning of the next paragraph; but on Wilson\u2019s denial of participation, this subject was dropped.\nThe statement of Raymond Parker contained a somewhat similar confession, opening with a reference to another hold-up or robbery at which the pistol previously stolen from Coceo was used, and leading up to the identification of this weapon as the one he had seen in the hands of his brother James Parker at the time of the last above mentioned hold-up.\nAs to James Parker, one of the police officials who questioned him at the time of his confession, testified that, in the course of that confession, Parker had admitted participating in the street car hold-up. This witness said also that the confession had been taken down in shorthand by another witness; these stenographic notes, testified to by the last mentioned witness, disclose that when James Parker was shown the weapon used in the street car robbery, he said it was the pistol with which Coceo had been killed.\nOther uncontradicted witnesses, in addition to the defendants, identified the pistol in question as the property of Coceo, and still others testified to seeing it.in the possession of defendants after the date of the homicide.\nAll of the evidence relating to other crimes than the one for which defendants were on trial went upon the record, as part of the confessions, over objections by defendants\u2019 counsel. The trial judge, however, took care, in his charge to the jury, to limit the applicability of each confession to the particular defendant who made it, and warned the jurors \u201cto disregard that portion of [each] confession......relating to another offense.\u201d\nAppellants\u2019 chief complaint is that the court below admitted the confessions as a whole, without excerpting and keeping from the jurors the portions dealing with other crimes, which defendants either expressly or in effect asked the trial judge to eliminate from their consideration.\nAppellants, combating the admission of these confessions, rely largely on Com. v. Jones, 280 Pa. 368, 372, and Com. v. Wilson, 186 Pa. 1,22, which hold that \u201cstatements in regard to other crimes committed at other iinies, at other places, and upon other persons,\u201d bear-. ing no connection with the instant killing, are not admissible against a defendant. Suffice it to say, in neither of the cases relied on by appellants did the other crimes there brought into question bear any relation to the one for which defendant was on trial; while in the present case they possessed a highly evidentiary character. First and foremost, those portions of the confessions relating to the street car robbery and the other hold-ups contain admissions that, at the time they occurred, the defendants had possession of property previously taken from Coeco, \u2014 the very pistol with whiclThe was killed. The possession of this weapon, so soon after the killing of Coceo, in itself tended to prove defendants\u2019 guilt: Williams v. Com., 29 Pa. 102; Wilson v. U. S., 162 U. S. 613, 620; 8 R. C. L., section 180, p. 187; 16 Corpus Juris, section 1026, p. 5d-2. The pistol was stolen property, and this, fact tended to substantiate those parts of the confession which show that the homicide was committed during the perpetration of a burglary and robbery. Therefore the matter in question was directly relevant to establish first degree murder, for our statute provides that \u201call murder which......shall be committed in the perpetration of......robbery or burglary shall be deemed murder of the first degree\u201d: Act of March 31, 1860, section 74, P. L. 402. Next, these preliminary parts of defendants\u2019 statements, dealing with the street car robbery and mentioning the other holdups, were predicates from which all the evidence of the killing of Coceo was developed, and, without the portions in question, showing, as they did, how the homicide confessions happened to be made, the parts of the several statments which deal directly with the crime on trial would not have been so readily understandable and to that extent would have lacked probative force.\nAlthough it is a well known rule of evidence that, in the trial of a defendant for a crime, no other independent, unconnected offenses committed by him are admissible to establish the fact of the commission of the crime on trial, yet where there actually exists an evidentiary connection between the two crimes, so that the proof of one tends to prove the other, they are no longer independent and unrelated, and it is competent to introduce evidence of the one in the trial of the other: Com. v. Weiss, 284 Pa. 105, 109-10; Com. v. Gibson, 275 Pa. 338, 340; Com. v. Coles, 265 Pa. 362, 366; Com. v. Haines, 257 Pa. 289, 295; Swan v. Com., 104 Pa. 218, 220; Goersen v. Com., 99 Pa. 388, 398. The evidence here objected to was plainly admissible under the last part of the above rule; but it was admissible also on quite another theory, applicable to this case because of the .recent Act of May 14, 1925, P. L. 759, which provides that \u201cevery person convicted of......murder of the first degree......shall be sentenced to suffer death ......or to undergo imprisonment for life, at the discretion of the jury trying the case, which shall fix the penalty by its verdict.\u201d\nIn thirty-three American jurisdictions, including Pennsylvania, the common-law procedure by which the punishment of defendants convicted of the highest degree of homicide was assessed, has been changed in a material respect by almost uniform legislation. Statutes along the line of our Act of 1925 have been enacted, investing the jury with the heretofore exclusively judicial function, of determining the punishment to be administered : see \u201cRecent History and Present Status of Capital Punishment in the United States,\u201d by R. T. Bye, volume 60, American Law Rev., p. 905. Although several of these statutes have been in force over half a century, it is apparent, as held in Woods v. The State, 130 Tenn. 100, 107, and cases there cited, that the privilege of having a jury fix the punishment is no part of the common law form of trial by jury; this is exclusively a matter of statutory departure: Ibid. 106-7. The purpose of the change was undoubtedly to relieve the jury, when a first degree verdict is proper, from automatically, by its rendition, inflicting the punishment of death,, which was the penalty, without alternative, in most jurisdictions, prior to the statutes under discussion. At the expense of forcing the legal compass of lesser degrees of homicide, juries were evading first degree verdicts because of the penalty attached. As stated by one commentator, \u201cIn withdrawing this right from the judge, the purpose is to overcome the reluctance of jurors, who, because of fear that the judicial sentence may be extreme, hesitate to convict a defendant who, they feel, deserves light punishment on account of extenuating circumstances\u201d: note in volume XXVII, Harvard L. Rev., p. 169; People v. Welch, 49 Cal. 174,179. In these statutes, a substantially uniform expression empowers \u201cthe jury in its discretion\u201d to choose for the defendant a setence of either death or life imprisonment. Therefore, under such acts, it should not necessarily be accounted reversible error if the trial judge, in the exercise of his discretion, allows the jury the same sort of information that a judge considers when deciding as to punishment for crime; hut appellants argue the con- \u25a0 trary.\nDefendants call attention to the fact that, aside from this enlargement of the functions of the jury by conferring on it power to assess the punishment, its field of work is still limited to fact finding; hence, say they, even under these enlarging statutes, the practice still should be to confine the evidence, as in the past, to matters throwing light on disputed issues of fact necessary to be solved in order to determine the question of guilt or innocence of the accused; and it must be conceded that the only discovered 'relevant decision so rules: People v. Witt, 170 Cal. 104, 110-11. But should this be held strictly in all cases? Does not the discretion, now vested in the jury as to the punishment to be administered dictate that there should be a more liberal rule of evidence applicable to a case like, the present?\nHere other offenses than the one on trial were acknowledged by the defendants at the same time as and in course of their confessions of that crime, and the question concerns the admissibility in its entirety of such a confession. Moreover, on this appeal, counsel for defendants frankly state that, though the pleas were \u201cnot guilty,\u201d the \u201centire defense was in substance a plea [to the jury] for mercy\u201d in assessing punishment.\nIn at least one jurisdiction, under certain circumstances, evidence of the commission of offenses other than the one on trial is admitted by the court and considered by the jury after a verdict of guilty is rendered and before other elements affecting the punishment to be administered are considered; but this practice prevails under statute so providing (see Wigmore on Evidence, volume 1, pp. 426-7, section 196, part 2a and note), and where, we take it, there is no announced public policy rule against piecemeal verdicts. In Pennsylvania, however, in the absence of a statute so providing, we do not permit jurors to render piecemeal verdicts; all their conclusions must be comprehended in a single verdict: Panek v. Scranton Ry. Co., 258 Pa. 589, 594. While, under the Act of 1925, the jury are supposed to determine the degree of defendant\u2019s guilt before assessing the punishment (Com. v. Curry, 287 Pa. 553, 558), yet the act requires both the question, of guilt and the punishment to be covered by one verdict. It may be that, if under any circumstances evidence of other offenses than ' the one on trial is admitted as helpful to the jury in the performance of its duty in assessing the punishment, such proof will inevitably be used by it in determining the guilt of the prisoner. This is not an insurmountable \u25a0 objection. Exactly the same point has been raised in cases arising under statutes as to habitual criminals, which require the jury to find the fact of former convictions (see Wigmore on Evidence, volume 1, section 196, part 2); but, as said by the court in Hall v. Com., 106 Ky. 894, 898, 51 S. W. 814, 815, if the admission of such evidence is hard on the defendant, it is a burden which he must bear, there being \u201cno provision for a separate trial of the fact of former conviction.\u201d Here the statute requires the jurors to assess the punishment, and permits them to extend mercy, in what appeals to them as a proper case, by reducing the penalty to life imprisonment ; but there is no provision for a separate inquiry as to the fact of whether or not the defendant is entitled to such mercy, nor is there any evidence that the statute intended there should be such a separate inquiry. The Act of 1925 was not passed to help habitual criminals, and we take judicial knowledge of the fact that offenders of that designation have become so general that the law, not only lex scripta but non scripta, must advance to protect society against them. This being so, in a case like the present, where the trial judge was convinced from the confessions of the defendants, as the court below evidently was, that they were habitual offenders against society, \u2014 robbers, burglars, and, as occasion arose, murderers, \u2014 where the evidence indicated such to be their general manner of life, and where the defendants asked that, if convicted, the jury, in assessing punishment, extend mercy to. them, we cannot say it was reversible error to receive their full confessions in evidence, even though it is possible that the admissions therein of other offenses may have militated in a general way against defendants. We may add, the mere fact that evidence legally admissible against one of several' defendants may prejudice his codefendant, is no reason for its exclusion: Fife et al. v. Com., 29 Pa. 429, 437.\nAs to point (3), concerning the notation in the con-fession of Wilson of his identification as his property of the pistol with which the murder was committed, no objection to its admissibility on the ground now stated \u2014 , that it contained a mere conclusion of the stenographer- \u2014 , was made at the time this evidence was offered; nor was any motion subsequently made to strike it out. Furthermore, the point now insisted upon was not urged in the court below, even in the motion for a new trial. Under these circumstances, and considering the fact that the record contained other evidence of such identification, the rule applies that, when evidence objected to on inadequate grounds is admitted, an appellate court will not consider adequate grounds urged for the first time on appeal: Brown v. Kittanning Clay Products Co., 259 Pa. 267, 270. Here the objection urged at trial to the part of Wilson\u2019s confession now under consideration, was solely on the ground that it contained references to collateral crimes. If the objection now presented for the first time had been made at trial, the Commonwealth, by questioning the witness who took the confession, could no doubt have elicited his recollection of the words used by Wilson when the latter identified the pistol: see Glenn v. Trees Oil Co., 266 Pa. 74, 81.\nThe fact that the pistol which defendants used in the murder of Coceo and subsequently in the other hold-ups mentioned in the evidence, was taken from the possession of Christy, who was with defendant Wilson on the night of the latter\u2019s arrest, is of no controlling significance, for there is ample evidence from which the conclusion could he drawn that the weapon passed from Wilson to Christy, on the evening -in question, after the street, car robbery.\n\u2022 No other points in the case call for discussion; we have considered all of any importance, and find no reversible error.\nThe judgments appealed from are affirmed; the record to be remitted to the court below for purposes of execution.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Moschzisker,"
+      }
+    ],
+    "attorneys": [
+      "Wm. J. Carney, with him Rossiter & Dunn, for appellants.",
+      "Otto Herbst, District Attorney, with him M. E. Graham, Assistant District Attorney, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Parker et al., Appellants.\nArgued September 24, 1928.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schapper, JJ.\nWm. J. Carney, with him Rossiter & Dunn, for appellants.\n\u2014 The confessions covering a hold-up over a month after the homicide are separate, severable and distinct. They should have been excluded: Com. v. Wilson, 186 Pa. 1; Com. v. Jones, 280 Pa. 368.\nIf our civil law permits the excision of reference to insurance carriers in negligence cases, a fortiori the criminal law should show an at least coincident facility in excising reference to extraneous crimes in a matter of life and death: Com. v. House, 6 Pa. Superior Ct. 92, 104; Com. v. Ensign, 40 Pa. Superior Ct. 157,162; Com. v. Haines, 257 Pa. 289.\nOtto Herbst, District Attorney, with him M. E. Graham, Assistant District Attorney, for appellee.\n\u2014 The argument for new trial was correctly heard by the trial judge alone: Com. v. Toth, 145 Pa. 308.\nThe complete confessions of defendants were admissible: Com. v. Brandler, 81 Pa. Superior Ct. 585; Goersen v. Com., 99 Pa. 388.\nThe defendants\u2019 confession of a subsequent robbery in which they used a pistol stolen at the homicide, was admissible: Com. v. Haines, 257 Pa. 289; Com. v. Weiss, 284 Pa. 105; Com. v. Robb, 284 Pa. 99; Com. v. Levinson, 34 Pa. Superior Ct. 286; Swan v. Com., 104 Pa, 218; Goerson v. Com., 99 Pa. 388.\nThe notation in Wilson\u2019s confession that he \u201cidentified\u201d the pistol was admissible: Brown v. Products Co., 259 Pa. 270.\nNovember 26, 1928:"
+  },
+  "file_name": "0144-01",
+  "first_page_order": 168,
+  "last_page_order": 180
+}

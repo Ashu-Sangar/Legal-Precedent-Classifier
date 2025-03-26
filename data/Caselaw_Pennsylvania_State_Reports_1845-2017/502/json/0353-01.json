@@ -1,0 +1,113 @@
+{
+  "id": 1784525,
+  "name": "COMMONWEALTH of Pennsylvania v. Charles BERGAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Bergan",
+  "decision_date": "1983-10-19",
+  "docket_number": "No. 195 E.D. Allocatur Docket 1983",
+  "first_page": "353",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "502 Pa. 353"
+    },
+    {
+      "type": "parallel",
+      "cite": "466 A.2d 618"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "437 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1772892,
+        1772903
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0345-01",
+        "/pa/496/0344-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 345",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772892
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0345-01"
+      ]
+    },
+    {
+      "cite": "455 A.2d 1238",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        205554,
+        205447
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/308/0631-01",
+        "/pa-super/308/0604-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 657,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06661701126204655
+    },
+    "sha256": "fc2a28efcc92283495af3556ecdd34f4d5c36187ae41717add9d8fa63c7f5669",
+    "simhash": "1:96f73921a10b85e3",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T20:14:53.506960+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LARSEN and McDERMOTT, JJ., concur in the result."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Charles BERGAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nThe petition for allowance of appeal is granted.\nThe Order of the Superior Court, 455 A.2d 1238, is reversed insofar as it affirms the judgment relating to homicide by vehicle, and the judgment of sentence imposed on homicide by vehicle is vacated. See Commonwealth v. Houtz, 496 Pa. 345, 437 A.2d 385 (1981). The convictions for involuntary manslaughter, recklessly endangering another person, and reckless driving are not disturbed.\nLARSEN and McDERMOTT, JJ., concur in the result.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "466 A.2d 618\nCOMMONWEALTH of Pennsylvania v. Charles BERGAN, Petitioner.\nNo. 195 E.D. Allocatur Docket 1983.\nSupreme Court of Pennsylvania.\nOct. 19, 1983."
+  },
+  "file_name": "0353-01",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

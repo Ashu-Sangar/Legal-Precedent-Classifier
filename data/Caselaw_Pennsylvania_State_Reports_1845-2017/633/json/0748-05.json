@@ -1,0 +1,80 @@
+{
+  "id": 12281401,
+  "name": "Com. v. Cox",
+  "name_abbreviation": "Com. v. Cox",
+  "decision_date": "2015-09-23",
+  "docket_number": "208 WAL (2015)",
+  "first_page": "748",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 748"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "115 A,3d 333",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6868507
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/115/0333-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 69,
+    "ocr_confidence": 0.907,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905216481733106
+    },
+    "sha256": "7e24ae5d7cf56c1194af938b9d036666578bc93406692d93f2683e5a5e91f594",
+    "simhash": "1:3386d1a455e842c2",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Cox"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 115 A,3d 333",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Cox\n09/23/2015\n208 WAL (2015)"
+  },
+  "file_name": "0748-05",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281412,
+  "name": "Com. v. Fiddesop",
+  "name_abbreviation": "Com. v. Fiddesop",
+  "decision_date": "2016-02-08",
+  "docket_number": "541 MAL (2015)",
+  "first_page": "721",
+  "last_page": "721",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 721"
+    },
+    {
+      "type": "parallel",
+      "cite": "131 A.3d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1131",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 178,
+    "ocr_confidence": 0.726,
+    "sha256": "7aabfcf702765b27d79509fd1b515fb2d87c96fd83661667f074b27062711c57",
+    "simhash": "1:0d56e880b6cb736c",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Fiddesop"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1131",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Fiddesop\n02/08/2016\n541 MAL (2015)\n. Justice EAKIN and Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0721-08",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

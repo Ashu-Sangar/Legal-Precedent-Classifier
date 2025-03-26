@@ -1,0 +1,70 @@
+{
+  "id": 12285065,
+  "name": "Com. v. King",
+  "name_abbreviation": "Com. v. King",
+  "decision_date": "2015-11-16",
+  "docket_number": "267 WAL (2015)",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 776"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 443",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.89,
+    "sha256": "e0b1e4a791a71d371337e36a78a8f81bc8811bf9bd936127e1f5272d703a7a0c",
+    "simhash": "1:3b43e4850cf21003",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. King"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 443",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. King\n11/16/2015\n267 WAL (2015)"
+  },
+  "file_name": "0776-05",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

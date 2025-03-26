@@ -1,0 +1,70 @@
+{
+  "id": 12281262,
+  "name": "Heckman v. Sanchez",
+  "name_abbreviation": "Heckman v. Sanchez",
+  "decision_date": "2015-09-09",
+  "docket_number": "267 MAL (2015)",
+  "first_page": "746",
+  "last_page": "746",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 746"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "111 A.3d 816",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 77,
+    "ocr_confidence": 0.922,
+    "sha256": "b83159494b6af48ba4459d81aee8699a3a7d11977c1235b2ab519bbf7d6e2a89",
+    "simhash": "1:146420b992570cc1",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heckman v. Sanchez"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 111 A.3d 816",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Heckman v. Sanchez\n09/09/2015\n267 MAL (2015)"
+  },
+  "file_name": "0746-03",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

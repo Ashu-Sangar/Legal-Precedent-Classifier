@@ -1,0 +1,64 @@
+{
+  "id": 1238066,
+  "name": "Anderson Estate",
+  "name_abbreviation": "Anderson Estate",
+  "decision_date": "1953-01-05",
+  "docket_number": "Appeal, No. 225",
+  "first_page": "351",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "372 Pa. 351"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 354,
+    "ocr_confidence": 0.438,
+    "sha256": "993cc373d0099b286210c0f62caca777684038f84a2b6c3ce8eaf1bb63f99dda",
+    "simhash": "1:62fd9ecbc9be3659",
+    "word_count": 59
+  },
+  "last_updated": "2023-07-14T21:14:41.124765+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Steen, C. J., Steaene, Jones, Bell and Chidsey, JJ."
+    ],
+    "parties": [
+      "Anderson Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgment of the court below is affirmed on the opinion of Judge Gordon.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Leslie Pinckney Hill, 2nd, with him E. Washington Rhodes, for appellant.",
+      "Harry R. Back, with him Back & Levy, for appellee, was not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Anderson Estate.\nArgued November 24, 1952.\nBefore Steen, C. J., Steaene, Jones, Bell and Chidsey, JJ.\nLeslie Pinckney Hill, 2nd, with him E. Washington Rhodes, for appellant.\nHarry R. Back, with him Back & Levy, for appellee, was not heard.\nJanuary 5, 1953:"
+  },
+  "file_name": "0351-01",
+  "first_page_order": 375,
+  "last_page_order": 379
+}

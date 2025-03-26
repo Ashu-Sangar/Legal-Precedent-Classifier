@@ -1,0 +1,88 @@
+{
+  "id": 404529,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. David DARUSH, Respondent",
+  "name_abbreviation": "Commonwealth v. Darush",
+  "decision_date": "2002-01-08",
+  "docket_number": "No. 9 W.D.ALLOC.2000",
+  "first_page": "458",
+  "last_page": "458",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "567 Pa. 458"
+    },
+    {
+      "type": "parallel",
+      "cite": "787 A.2d 420"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "778 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9496563,
+        706292,
+        9496509,
+        706215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/0624-02",
+        "/pa/566/0084-02",
+        "/a2d/778/0624-01",
+        "/pa/566/0085-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 450,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.30876607091764807
+    },
+    "sha256": "26dfd126906cc51593fcabde1af145c9e8ce622935e88057a4741824df4650cd",
+    "simhash": "1:3cbb331787898dbf",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T20:42:38.943670+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Justice Eakin did not participate in this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. David DARUSH, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of January, 2002, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is REVERSED, and the matter is REMANDED for reconsideration in light of Commonwealth v. Rekasie, 778 A.2d 624 (Pa.2001).\nMr. Justice Eakin did not participate in this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "787 A.2d 420\nCOMMONWEALTH of Pennsylvania, Petitioner, v. David DARUSH, Respondent.\nSupreme Court of Pennsylvania.\nJan. 8, 2002."
+  },
+  "file_name": "0458-01",
+  "first_page_order": 578,
+  "last_page_order": 578
+}

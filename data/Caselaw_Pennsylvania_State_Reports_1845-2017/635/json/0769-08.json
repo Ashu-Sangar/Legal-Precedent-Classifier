@@ -1,0 +1,70 @@
+{
+  "id": 12286994,
+  "name": "Com. v. Dinello",
+  "name_abbreviation": "Com. v. Dinello",
+  "decision_date": "2016-05-04",
+  "docket_number": "37 MAL (2016)",
+  "first_page": "769",
+  "last_page": "769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 769"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 661",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.722,
+    "sha256": "725786d3ee543549afbf39ea21351d8f750831f6db52a2baed2a94714295e1fd",
+    "simhash": "1:2f56b2c2bfdef0de",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dinello"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 661",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dinello\n05/04/2016\n37 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0769-08",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

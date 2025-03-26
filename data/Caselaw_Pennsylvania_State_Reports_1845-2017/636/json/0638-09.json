@@ -1,0 +1,80 @@
+{
+  "id": 12280513,
+  "name": "Com. v. Haynes",
+  "name_abbreviation": "Com. v. Haynes",
+  "decision_date": "2016-06-01",
+  "docket_number": "627 EAL (2015)",
+  "first_page": "638",
+  "last_page": "638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6844367
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/125/0800-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 169,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24902185416987632
+    },
+    "sha256": "6384e5d3caed4c5f4204328e32d20b53f7336b995d8a6fbf4cca742a74f2c65c",
+    "simhash": "1:2f37fcceab8ff05d",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Haynes"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 800",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Haynes\n06/01/2016\n627 EAL (2015)\n. Justice DONOHUE and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0638-09",
+  "first_page_order": 690,
+  "last_page_order": 690
+}

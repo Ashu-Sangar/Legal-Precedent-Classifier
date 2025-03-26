@@ -1,0 +1,86 @@
+{
+  "id": 1186599,
+  "name": "Smith's Estate",
+  "name_abbreviation": "Smith's Estate",
+  "decision_date": "1938-12-05",
+  "docket_number": "Appeals, Nos. 143-145",
+  "first_page": "581",
+  "last_page": "588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "332 Pa. 581"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "319 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1162291
+      ],
+      "pin_cites": [
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/319/0144-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 164,
+    "char_count": 1598,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 2.8027076764046875e-07,
+      "percentile": 0.8369561314192449
+    },
+    "sha256": "cb7df4b5446f5e6b49c27990eaabe0c25d1e4d02a6875283612c781ca2c76f72",
+    "simhash": "1:e5ab89fb1a6648c6",
+    "word_count": 268
+  },
+  "last_updated": "2024-02-27T18:16:57.884477+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaefer, Maxey, Dreav, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Smith\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nAppellants complain that the trustee was not surcharged at the audit of its account. The applicable measure of responsibility was stated in Drueding v. Tradesmens B. & T. Co., 319 Pa. 144, 147, that \u201c \u2018In the determination of what is business judgment, too much stress must not be laid on retrospection. Our after-sight is not to be the sole judge, though it may be useful.\u2019 ... \u2018It is well settled that a trustee shall not be surcharged by a court of equity for a loss which has occurred, in case he has exercised common skill, common prudence and common caution; but for supine negligence, or wilful default he shall be responsible.\u2019 \u201d\nThe facts found hy the learned court below, to which the rule was applied, are supported by evidence, and must therefore be accepted. A number of exceptions originally filed were withdrawn by the exceptants. We have considered the record in the light of the appellants\u2019 arguments, some, for the first time presented on appeal. The nature and character of the exceptions heard and disposed of, together with the reason for the action taken, sufficiently appear in the extracts which we have made from the opinion of the learned court below and which are printed in the reporter\u2019s statement of the case.\nIn each appeal the decree is affirmed, costs to be paid by appellants.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Harold R. Schmidt, with him W. Denning Stewart, of Stewart & Lewis, and William J. Kennedy, for appellants.",
+      "Parle J. Alexander, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Smith\u2019s Estate.\nArgued October 4, 1938.\nBefore Kephart, C. J., Schaefer, Maxey, Dreav, Linn, Stern and Barnes, JJ.\nHarold R. Schmidt, with him W. Denning Stewart, of Stewart & Lewis, and William J. Kennedy, for appellants.\nParle J. Alexander, for appellee.\nDecember 5, 1938:"
+  },
+  "file_name": "0581-01",
+  "first_page_order": 715,
+  "last_page_order": 722
+}

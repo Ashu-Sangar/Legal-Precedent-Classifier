@@ -1,0 +1,79 @@
+{
+  "id": 281112,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. William GRIBBLE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Gribble",
+  "decision_date": "1998-03-27",
+  "docket_number": "No. 0072 Capital Appeal Docket",
+  "first_page": "511",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "550 Pa. 511"
+    },
+    {
+      "type": "parallel",
+      "cite": "707 A.2d 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "703 A.2d 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        281131,
+        11881140
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/550/0062-01",
+        "/a2d/703/0426-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 592,
+    "ocr_confidence": 0.642,
+    "sha256": "152db5105975c5b1ef65a9945e7c47218a0d807118f76e3598d30fb561d3fe41",
+    "simhash": "1:8563474e84b20510",
+    "word_count": 90
+  },
+  "last_updated": "2024-02-27T19:01:34.236353+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. William GRIBBLE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 27th day of March, 1998, upon consideration of petitioner\u2019s emergency motion for a stay of execution, and the Commonwealth\u2019s concurrence with this application, IT IS HEREBY ORDERED that petitioner\u2019s application is GRANTED and his execution will be stayed pending action by the United States Supreme Court on his petition for writ of certiorari from this Court\u2019s ruling in Commonwealth v. Gribble, \u2014 Pa. -, 703 A.2d 426 (1997).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "707 A.2d 510\nCOMMONWEALTH of Pennsylvania, Respondent, v. William GRIBBLE, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 27, 1998."
+  },
+  "file_name": "0511-02",
+  "first_page_order": 775,
+  "last_page_order": 776
+}

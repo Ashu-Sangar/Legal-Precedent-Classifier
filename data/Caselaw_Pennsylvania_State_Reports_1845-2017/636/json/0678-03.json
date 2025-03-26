@@ -1,0 +1,104 @@
+{
+  "id": 12285641,
+  "name": "McGrath v. McGrath",
+  "name_abbreviation": "McGrath v. McGrath",
+  "decision_date": "2016-08-23",
+  "docket_number": "166 WAL (2016)",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 678"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486656,
+        12486657,
+        12486658,
+        12486659,
+        12486660,
+        12486661,
+        12486662,
+        12486663,
+        12486649,
+        12486650,
+        12486651,
+        12486652,
+        12486653,
+        12486654,
+        12486655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0203-02",
+        "/a3d/144-2/0203-03",
+        "/a3d/144-2/0203-04",
+        "/a3d/144-2/0203-05",
+        "/a3d/144-2/0203-06",
+        "/a3d/144-2/0203-07",
+        "/a3d/144-2/0203-08",
+        "/a3d/144-2/0203-09",
+        "/a3d/144-2/0203-10",
+        "/a3d/144-2/0203-11",
+        "/a3d/144-2/0203-12",
+        "/a3d/144-2/0203-13",
+        "/a3d/144-2/0203-14",
+        "/a3d/144-2/0203-15",
+        "/a3d/144-2/0203-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 76,
+    "ocr_confidence": 0.818,
+    "sha256": "cad55d6010a3a19a3b9356c3831f688c552dc74957335ec0c742b87c4ee86afb",
+    "simhash": "1:ac5443c7c2d18c25",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McGrath v. McGrath"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 203",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "McGrath v. McGrath\n08/23/2016\n166 WAL (2016)"
+  },
+  "file_name": "0678-03",
+  "first_page_order": 730,
+  "last_page_order": 730
+}

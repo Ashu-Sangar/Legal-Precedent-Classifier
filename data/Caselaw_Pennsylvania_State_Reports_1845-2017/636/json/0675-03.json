@@ -1,0 +1,63 @@
+{
+  "id": 12285089,
+  "name": "Com. v. Rodriguez",
+  "name_abbreviation": "Com. v. Rodriguez",
+  "decision_date": "2016-08-11",
+  "docket_number": "332 MAL (2016)",
+  "first_page": "675",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 68,
+    "ocr_confidence": 0.865,
+    "sha256": "488ba9cfdaec500b2933b0d2f5762c09e4e9ad0db6b9463d9d1c7b5f915bdd45",
+    "simhash": "1:48842578b5d7a1ab",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:51:24.577639+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Rodriguez"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nNo. 896 EDA 2015",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Rodriguez\n08/11/2016\n332 MAL (2016)"
+  },
+  "file_name": "0675-03",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

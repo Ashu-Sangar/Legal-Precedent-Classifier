@@ -1,0 +1,115 @@
+{
+  "id": 1141642,
+  "name": "Krenitsky v. Kelly, Appellant",
+  "name_abbreviation": "Krenitsky v. Kelly",
+  "decision_date": "1932-11-28",
+  "docket_number": "Appeal, No. 186",
+  "first_page": "234",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "309 Pa. 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "308 Pa. 362",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/308/0362-01"
+      ]
+    },
+    {
+      "cite": "305 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1134644
+      ],
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/305/0347-01"
+      ]
+    },
+    {
+      "cite": "240 Pa. 169",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        993143
+      ],
+      "pin_cites": [
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/240/0169-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 226,
+    "char_count": 2520,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 2.295943608420282e-07,
+      "percentile": 0.7868209690989706
+    },
+    "sha256": "9a8e0b2bc39c00623844bb6123d22b7ade29467e9a8c950efab74b2bb400a3a7",
+    "simhash": "1:a1cdae327b84a5bc",
+    "word_count": 435
+  },
+  "last_updated": "2024-02-27T23:35:06.362216+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Krenitsky v. Kelly, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nPlaintiff sued to recover damages for the death of his ten-year-old son, who was struck by defendant\u2019s car as he crossed a state highway in the open country. After verdict for defendant, a new trial was granted. Defendant appealed.\nThe motion for a new trial was made after the death of the trial judge, plaintiff alleging the verdict was against the weight of the testimony and that the court erred in instructing the jury as to the law. The judge specially presiding when this motion was argued, considering the charge in connection with the undisputed evidence, concluded that basic and fundamental errors in the trial judge\u2019s presentation of the law to the jury, not corrected at any other point in the charge (Foley v. P. R. T. Co., 240 Pa. 169, 173), necessitated a new trial. The opinion of the court below points out that, in charging as to decedent\u2019s possible contributory negligence, although the boy was at the time crossing a country road, the trial court stated the law governing the crossing of a city street in such manner that the jury might well have supposed it was to be applied in this case. There was also an incorrect statement to the effect that there is a presumption arising in a case such as this that deceased exercised due care, the trial judge saying: \u201cHe was injured and did not recover his consciousness, and we will presume that he observed the traffic before he passed.\u201d Such presumption would not, of course, apply to a child of ten years.\nWe need not discuss either the specific errors found in the charge or the facts surrounding the accident. We have frequently said that we will not reverse an order awarding a new trial unless a flagrant abuse of discretion appears: Cuteri v. West Penn Rys. Co., 305 Pa. 347, 350, and cases there cited: Loftus v. Miners Nat. Bank, 308 Pa. 362. Although here the judge who granted the new trial did not preside at the trial under review, he states that, \u201cWe are of opinion that the jury received the impression that a \u2018greater burden of care\u2019 was imposed upon the deceased than under ordinary circumstances.\u201d Such being his conclusion, we see no abuse of discretion in the order here before us.\nThe order appealed from is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "J. Campbell Brandon, of Brandon, Brandon & Ross, for appellant.",
+      "James M. Galbreath, of Galbreath & Galbreath, with him Carmen V. Marinaro, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Krenitsky v. Kelly, Appellant.\nNovember 28, 1932:\nArgued October 4, 1932.\nBefore Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ.\nJ. Campbell Brandon, of Brandon, Brandon & Ross, for appellant.\nJames M. Galbreath, of Galbreath & Galbreath, with him Carmen V. Marinaro, for appellee."
+  },
+  "file_name": "0234-01",
+  "first_page_order": 260,
+  "last_page_order": 262
+}

@@ -1,0 +1,565 @@
+{
+  "id": 281232,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Belinda WILSON, Appellant",
+  "name_abbreviation": "Commonwealth v. Wilson",
+  "decision_date": "1998-01-26",
+  "docket_number": "No. 1 E.D. Appeal Docket 1996",
+  "first_page": "518",
+  "last_page": "538",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "550 Pa. 518"
+    },
+    {
+      "type": "parallel",
+      "cite": "707 A.2d 1114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "681 A.2d 1288",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867728,
+        464984
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/1288-01",
+        "/pa/545/0487-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        464984
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0487-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        458393,
+        12050867,
+        459214,
+        12050743
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "658"
+        },
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0317-01",
+        "/a2d/666/0655-02",
+        "/pa/542/0318-01",
+        "/a2d/666/0655-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        459214
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "323"
+        },
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0318-01"
+      ]
+    },
+    {
+      "cite": "510 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796921
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0123-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833065
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "471"
+        },
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0464-01"
+      ]
+    },
+    {
+      "cite": "694 A.2d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11990867
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1158"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/694/1155-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 953",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7374163,
+        1843171
+      ],
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/638/0953-01",
+        "/pa/536/0180-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843171
+      ],
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/536/0180-01"
+      ]
+    },
+    {
+      "cite": "291 A.2d 772",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "447 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1942901
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/447/0558-01"
+      ]
+    },
+    {
+      "cite": "133 L.Ed.2d 858",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "116 S.Ct. 931",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "516 U.S. 1121",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        325569,
+        325859,
+        325412,
+        324412,
+        324871,
+        325480,
+        324812,
+        324657,
+        328017,
+        324542,
+        323925,
+        324950,
+        328248,
+        328633,
+        325820,
+        324062
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/516/1121-01",
+        "/us/516/1121-14",
+        "/us/516/1121-03",
+        "/us/516/1121-10",
+        "/us/516/1121-06",
+        "/us/516/1121-12",
+        "/us/516/1121-16",
+        "/us/516/1121-08",
+        "/us/516/1121-11",
+        "/us/516/1121-07",
+        "/us/516/1121-05",
+        "/us/516/1121-09",
+        "/us/516/1121-13",
+        "/us/516/1121-04",
+        "/us/516/1121-02",
+        "/us/516/1121-15"
+      ]
+    },
+    {
+      "cite": "661 A.2d 352",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7870893,
+        470782
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/661/0352-01",
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470782
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 472",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827713
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/527/0472-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 836",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220020
+      ],
+      "weight": 9,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "845"
+        },
+        {
+          "page": "3163"
+        },
+        {
+          "page": "846"
+        },
+        {
+          "page": "3163-64"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/497/0836-01"
+      ]
+    },
+    {
+      "cite": "662 A.2d 621",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470745,
+        7863238
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/541/0211-01",
+        "/a2d/662/0621-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470745
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/541/0211-01"
+      ]
+    },
+    {
+      "cite": "645 A.2d 811",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866896,
+        7867043,
+        475500,
+        475501
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "admitting written transcription of declarant's statement as substantive evidence where the transcription was contemporaneous and verbatim, and the declarant signed and adopted the statement"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/645/0811-01",
+        "/a2d/645/0811-02",
+        "/pa/538/0002-01",
+        "/pa/538/0001-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 2",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475500
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "admitting written transcription of declarant's statement as substantive evidence where the transcription was contemporaneous and verbatim, and the declarant signed and adopted the statement"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/538/0002-01"
+      ]
+    },
+    {
+      "cite": "533 Pa. 508",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1837557
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/533/0508-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        458393,
+        12050867,
+        459214,
+        12050743
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/542/0317-01",
+        "/a2d/666/0655-02",
+        "/pa/542/0318-01",
+        "/a2d/666/0655-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        459214
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/542/0318-01"
+      ]
+    },
+    {
+      "cite": "510 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796921
+      ],
+      "weight": 9,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "68-69",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "130"
+        },
+        {
+          "page": "69"
+        },
+        {
+          "page": "69"
+        },
+        {
+          "page": "129"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/510/0123-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833065
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "469-71"
+        },
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/530/0464-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1347,
+    "char_count": 44094,
+    "ocr_confidence": 0.64,
+    "pagerank": {
+      "raw": 1.3127674364091427e-07,
+      "percentile": 0.6248304437826298
+    },
+    "sha256": "c7b669307d1d9974b930f7f559d1ec591a149b0fbeb9e2f821c52d0cdec36ba8",
+    "simhash": "1:8690b537f5eb9cd9",
+    "word_count": 6983
+  },
+  "last_updated": "2024-02-27T19:01:34.236353+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, GAPPY, CASTILLE, NIGRO and NEWMAN, JJ.",
+      "NEWMAN, J., files a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Belinda WILSON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nZAPPALA, Justice.\nOn March 24, 1994, Belinda Wilson (Appellant) was convicted of two counts of aggravated assault, simple assault and endangering the welfare of children arising out of multiple incidents of physical abuse of her daughters, Natalie Wilson and Nicole Wilson. She was sentenced to an imprisonment term of six to twenty-three months, with a consecutive term of ten years of probation. Post-sentence motions were denied after an evidentiary hearing. The Superior Court affirmed the judgment of sentence in a memorandum opinion dated August 17,1995.\nWe granted allocatur limited to the issues of (1) whether prior inconsistent statements by the victims were admissible as substantive evidence under Commonwealth v. Lively, 530 Pa. 464, 610 A.2d 7 (1992), and (2) whether trial counsel was ineffective for failing to object to hearsay testimony. For the following reasons, we find that the trial court erred in allowing the jury to consider prior inconsistent statements made by Natalie Wilson and Nicole Wilson as substantive evidence.\nOn March 10, 1993, the Department of Human Services received a report alleging that Natalie Wilson, age 13, had been seen with a bruise on her left shoulder. Bernice Ervin, the DHS social worker assigned to investigate the allegations, contacted Belinda Wilson and arranged to meet with her and Natalie at their home on March 26, 1993. Ervin examined Natalie and her sister, Nicole, in the presence of their mother. She observed marks of physical abuse on the children\u2019s bodies. Ervin requested that the children be taken to the hospital for a physical examination. The next day the children were examined at the hospital by Dr. Sarah Badran, a pediatric resident. Dr. Badran observed numerous loop-shaped scars on their bodies.\nOn May 11, 1993, the children were interviewed separately at the Child Advocacy Center in Philadelphia by a police officer, Adoniram Ulloa. The children were accompanied by an attorney who was appointed by the court to act as a child advocate. The attorney was not with the children when they were interviewed. Officer Valerie Thorn was present during the interviews, but did not question the girls. In the course of the interviews, Officer Ulloa would leave the room so that Officer Thorn could examine the children\u2019s scars. One week later, Belinda Wilson was arrested.\nDuring the trial, the children appeared as Commonwealth witnesses. They denied that their mother had beaten them and denied having made statements to others, including Officer Ulloa, that implicated their mother. When Natalie Wilson testified, the prosecutor showed her a report prepared by Officer Ulloa to see if it would refresh her recollection as to what she had told him. Natalie reviewed the document, but continued to deny that she had told Officer Ulloa that her mother had beaten her with a rope and belt.\nNicole Wilson testified that she did not remember telling Officer Ulloa that her mother had spanked her and had hit her with a leather belt and a jump rope. She admitted that she told Officer Ulloa that her mother had hit her for disobedience. Nicole also admitted that there were rope marks on her back, but claimed that the marks resulted from fights with her sister.\nOfficer Ulloa testified that he had interviewed the children using two methods. He would listen to the child first to get an idea of what the child was telling him and then would write everything down. Then, he would ask questions consistent with the child\u2019s previous statements and write down the answers.\nWhen the prosecutor attempted to read Officer Ulloa\u2019s written notes into the record, defense counsel objected. The trial judge reviewed the statement during a side bar conference. Based on her observation that a portion of the statement was Officer Ulloa\u2019s summary of the interview rather than the words of the children, the trial judge ruled that the summary was inadmissible.\nThe portion of the notes that reflected questions and answers were ruled admissible as prior inconsistent statements of the witnesses that could be considered as substantive evidence by the jury. The questions and answers were then read into the record. Officer Ulloa\u2019s notes indicated that he was told by both girls that their mother had beaten them.\nWilson asserts that the trial judge erred in admitting the children\u2019s prior inconsistent statements as substantive evidence. The Commonwealth argues that the prior inconsistent statements were properly admitted as substantive evidence because they were a verbatim recording of what the children said during their interviews with the police officer.\nIn Commonwealth v. Brady, 510 Pa. 123, 507 A.2d 66 (1986), we reconsidered the longstanding rule that prior inconsistent statements of a non-party witness could only be used to impeach the credibility of the witness, not as substantive evidence to prove the truth of the matters asserted therein. We were persuaded to adopt the developing view that such statements may be used as substantive evidence where the declarant is a witness at trial and available for cross-examination.\nIn Brady, the defendant was convicted of second degree murder, burglary and criminal mischief for the stabbing death of a security guard. The defendant\u2019s girlfriend, Tina Traxler, was interviewed by the police on the day of the murder. Traxler first told the police that she and the defendant were riding in a car that became stuck in a ditch near the manufacturing plant where the security guard was employed. When she accompanied the police to the area, however, Traxler admitted that they had entered the plant and that her boyfriend had stabbed the security guard.\nTraxler agreed to make a tape-recorded statement when she returned to the police station. In her recorded statement, she identified her boyfriend as the perpetrator of the crimes. She stated that they had entered the plant and that her boyfriend had stabbed the security guard when he surprised them while they were attempting to pry open a dollar bill change machine.\nTraxler recanted her tape-recorded statement when called as a witness by the Commonwealth at trial. She denied that she and her boyfriend had entered the plant. Traxler admitted that she had given the statement to the police, but explained the discrepancies by claiming that she was afraid of the police and had told them what they wanted to hear. The Commonwealth was permitted to introduce the tape-recorded statement as substantive evidence to prove the truth of the matters asserted and the jury was instructed that the statement could be considered for that purpose.\nWe held that the tape-recorded statement was properly admitted as substantive evidence because the statement was rendered under highly reliable circumstances assuring that it was voluntarily given. Furthermore, the witness was subject to cross-examination as to the validity of each statement. The jury had the opportunity to observe the demeanor of the witness and to assess her credibility.\nWe did not address in Brady under what circumstances a prior inconsistent statement would be considered highly reliable so as to render the statement admissible as substantive evidence. The issue was subsequently addressed in Commonwealth v. Lively, 530 Pa. 464, 610 A.2d 7 (1992). We held that a prior inconsistent statement by a non-party witness shall be used as substantive evidence only when it was given under oath at a formal legal proceeding, or the statement was reduced to a writing signed and adopted by the declarant, or the statement was recorded verbatim contemporaneously with the making of the statement.\nIn Lively, the defendant was convicted of first degree murder and possession of an instrument of crime. The Commonwealth introduced evidence that the victim had smashed the rear window of the defendant\u2019s automobile. The defendant retrieved a gun from the trunk and fired shots that missed the victim. The defendant encountered the victim the next day and fatally shot him.\nDuring the trial, the Commonwealth was permitted to introduce prior inconsistent statements of three witnesses who failed to implicate the defendant while testifying. The first witness denied having told a police officer that she had seen the defendant shoot the victim. The officer was then permitted to testify that the witness had identified the defendant as the perpetrator within a few hours after the shooting. The second witness denied having told an assistant district attorney and a detective that he had seen the defendant during the earlier shooting incident. The Commonwealth then cross-examined the witness as to his inconsistent statements contained in a memorandum prepared by the detective following an interview with the witness. The third witness was confronted with prior inconsistent statements he had made at a preliminary hearing and in a signed statement given to the police.\nThe prior inconsistent statements of each witness were admitted as substantive evidence over the objection of defense counsel. On appeal, the Superior Court rejected the defendant\u2019s arguments that unrecorded non-verbatim statements should not have been considered for that purpose. The Superior Court reasoned that our decision in Brady did not require that a prior inconsistent statement be either recorded or verbatim.\nWe concluded that the prior inconsistent statements of two of the witnesses were improperly admitted as substantive evidence and remanded for a new trial. We clarified the holding in Brady by limiting the circumstances in which a prior inconsistent statement may be used as substantive evidence. By restricting such use of prior inconsistent statements to those given under oath at a formal proceeding, or reduced to a writing signed and adopted by the witness, or which are contemporaneous verbatim recordings of a witness\u2019s statements, we intended \u201cto ensure that only those hearsay declarations that are demonstrably reliable and trustworthy [will be] considered as substantive evidence____\u201d 530 Pa. at 471, 610 A.2d at 10. Under this standard, we determined that the police officer\u2019s testimony relating to a statement given to him by a witness, and another witness\u2019s statements included in the detective\u2019s memorandum, were not properly admitted as substantive evidence. The signed written statement and preliminary hearing testimony of the third witness met the standard and were properly admitted.\nIn Commonwealth v. Halsted, 542 Pa. 318, 666 A.2d 655 (1995), the defendant was convicted of involuntary deviate sexual intercourse and indecent assault. An investigation into complaints of child abuse by the defendant led a Pennsylvania State Trooper to interview an eleven-year old child. The child told the trooper that the defendant performed oral sex on him in the presence of the defendant\u2019s eight-year old grandson. The grandson told the trooper that the allegations were true and that the defendant had told him to stand guard so that they would not be discovered. The grandson stated also that the defendant had performed oral sex on him on two different occasions when he was younger. The trooper made notes during the interviews and later prepared a typewritten police report from his interview notes.\nAt trial the eleven-year old child testified regarding the incident of sexual abuse. The defendant\u2019s grandson also testified; however, he claimed that he had not seen the defendant engage in oral sex with the other child, that he had not acted as a lookout, that he had not been sexually abused and could not recall telling the trooper that such abuse had occurred. The Commonwealth was unsuccessful in its attempt to refresh the child\u2019s recollection by confronting him with the statements made to the trooper. The trooper was then permitted to read into the record the text of the grandson\u2019s statement from his typewritten police report as substantive evidence of the offense.\nWe addressed the issue of whether the trooper\u2019s typewritten report was admissible as substantive evidence of the crime charged against the defendant as a contemporaneous, verbatim recording. We concluded that the police report read into evidence by the trooper was not made contemporaneously with his interview with the child and was inadmissible under the guidelines established in Lively. We reversed and remanded for a new trial.\nDuring the trial, the trooper had testified that he recorded the grandson\u2019s statements verbatim on a notepad during the interview and that he later made a typewritten police report of those exact statements. Since the notepad was not produced at trial, no issue was raised as to the admissibility of the grandson\u2019s allegedly verbatim statements contained therein. In dicta, however, the lead opinion stated \u201c[t]he note pad, which was the contemporaneous verbatim recording, was not produced at trial, and [the trooper] was uncertain as to whether it still existed at the time of trial.\u201d 542 Pa. at 323, 666 A.2d at 658.\nThe quoted language unfortunately suggested that statements of the witnesses referred to in the notepad would have been admissible as substantive evidence under the Lively standard if the notepad had been preserved for use at trial. A majority of four members of the Court issued a concurring opinion, however, which explicitly rejected the notion that a \u201crecording\u201d of a -witness's prior inconsistent statements that is neither an audiotaped or videotaped recording may be admissible as substantive evidence of the offenses charged.\nThe concurring opinion set forth the policy considerations that compelled a majority to reach that conclusion.\nThe limitations on the rule developed in Brady were intended to ensure that the prior inconsistent statement was in fact made by the witness. If the Commonwealth is to be allowed to introduce a prior inconsistent statement as substantive evidence to prove that the defendant committed the crime, there should be no dispute as to whether the statement was ever made. A statement given under oath at a formal legal proceeding and a written statement signed and adopted by a witness eliminate the possibility that a collateral issue will arise at trial as to whether the witness made the statement. The witness, of course, may offer an explanation as to why the prior inconsistent statement is untrue or inaccurate.\nIn order to ensure that the same degree of reliability has been established when the statement is a contemporaneous verbatim recording of the witness\u2019s statement, the \u201crecording\u201d of a statement must be an audiotaped or videotaped recording. By suggesting that the Lively standard would be met by introducing an officer\u2019s notepad which is claimed to include the verbatim statement of a witness, the majority has interjected a degree of unreliability into the use of a statement as substantive evidence of the crime. In that instance, a witness could challenge whether a statement attributed to him was actually made, or whether the statement was recorded verbatim. The possibility of these unnecessary collateral issues should be eliminated when the statements are to be used as substantive evidence.\n542 Pa. at 329, 666 A.2d at 661.\nWe find that these policy considerations are equally compelling now that the issue is squarely before us. The problems that we anticipated and articulated in the concurring opinion in Halsted arose in this case. The Commonwealth\u2019s use of the police officer\u2019s written questions and answers generated collateral issues as to whether the notes were truly a verbatim account of the witnesses\u2019 statements and as to the credibility of the police officer. In fact, the trial judge had rejected the police officer\u2019s claim that the narrative contained in his report was a verbatim contemporaneous recording of his interviews with the Wilson children and excluded that portion of his report. This indicates that the police officer\u2019s interpretation of what would be considered as a verbatim recording differed from that of the trial judge.\nWe hold, therefore, that under the Lively standard, when the prior inconsistent statement is a contemporaneous verbatim recording of a witness\u2019s statement, the recording of the statement must be an electronic, audiotaped or videotaped recording in order to be considered as substantive evidence. This will ensure that the requisite degree of reliability demonstrated will be similar to instances in which the statement was given under oath at a formal legal proceeding or the statement is reduced to a writing signed and adopted by the declarant. Since the questions and answers contained in the police report introduced into evidence in this case were not recorded on audiotape or videotape, the evidence was improperly admitted.\nAccordingly, the order of the Superior Court affirming the judgment of sentence of the Philadelphia County Court of Common Pleas is reversed and the case is remanded for a new trial.\nNEWMAN, J., files a dissenting opinion.\n. We need not address the remaining issue alleging ineffectiveness of trial counsel for failing to object to testimony of Dr. Sarah Badran, a physician who examined Wilson's daughters, and Patty Stewart, a Pennsylvania Department of Human Services social worker, regarding statements made to them by the daughters that their mother had caused the scars found on their arms, legs and backs. We note, however, that the trial court concluded that trial counsel was not ineffective for failing to object to Dr. Badran\u2019s testimony because it fell within the medical treatment exception to the hearsay rule. Subsequent to the filing of the parties' briefs with this Court, we issued a decision in Commonwealth v. Smith, 545 Pa. 487, 681 A.2d 1288 (1996) which held that the medical treatment exception does not extend to statements made by a child during a medical examination as to the identity of an alleged abuser.",
+        "type": "majority",
+        "author": "ZAPPALA, Justice."
+      },
+      {
+        "text": "NEWMAN, Justice,\ndissenting.\nI respectfully dissent from the Majority Opinion because I disagree that recordings on audiotapes or videotapes are the only category of \u201crecordings\u201d that exhibit sufficient indicia of reliability to qualify for admission as substantive evidence. Instead, I would include prior inconsistent statements that are contemporaneous, verbatim, written recordings of the declarant\u2019s words as admissible substantive evidence pursuant to this Court\u2019s decision in Commonwealth v. Lively, 530 Pa. 464, 610 A.2d 7 (1992).\nCONTEMPORANEOUS, VERBATIM RECORDINGS\nThis Court first permitted the use of prior inconsistent statements as substantive evidence in Commonwealth v. Brady, 510 Pa. 123, 507 A.2d 66 (1986). However, the rule was limited to situations where the declarant was a witness at trial and available for cross-examination. In overruling the longstanding rule excluding these types of statements as substantive evidence, this Court made the following observations:\nThe traditional view is that a prior statement of a witness is hearsay if offered to prove the truth of the matter asserted therein. The orthodox rule deems hearsay generally, and prior inconsistent statements specifically, too unreliable to be admitted as substantive evidence because the declarant was (1) not under oath, (2) not subject to cross-examination at the time the statement was made, and (3) not in the presence of the trier of fact when the statement was made.\nThe simple fact is that \u201cthe usual dangers of hearsay are largely nonexistent where the witness testifies at trial.\u201d\nBrady, at 128, 507 A.2d at 68-69 (citations omitted). Thus it is clear that the impetus generating the prior rule was fear that the statements were unreliable. The availability of the witness at trial for cross-examination greatly eliminates this concern. This questioning permits the trier of fact to observe the demeanor of a witness and to hear the explanation for the inconsistencies. The Brady Court also noted that \u201cthe prior statement can be viewed as possessing superior indicia of reliability as it was rendered at a point in time closer to the event described ... when memory will presumably be fresher and opportunity for fabrication lessened.\u201d Id. at 130, 507 A.2d at 69.\nIn Lively, supra, this Court placed restrictions on the types of prior statements that a court could admit pursuant to the rule announced in Brady. Prior inconsistent statements admissible as substantive evidence were thus limited to the following: (1) statements given under oath at a formal proceeding; (2) statements reduced to writing and signed and adopted by the declarant; or (3) contemporaneous, verbatim recordings of the declarant\u2019s statements. Id. at 469-71, 610 A.2d at 10. These limitations were instituted to provide further assurance that the declarant understood the importance of being truthful and that the words were accurately recorded.\nThis Court has consistently held that contemporaneous, verbatim, written transcriptions of a declarant\u2019s words are admissible \u201crecordings\u201d pursuant to the third limitation announced in Lively. In Commonwealth v. Reid, 533 Pa. 508, 626 A.2d 118 (1993), a case involving a charge of first degree murder, one of the victims of the shooting gave the police a statement implicating the defendant in the crime. While the victim was in the hospital following the shooting, police obtained three separate statements from him in which he claimed the defendant shot him. The interviewing officer contemporaneously recorded these statements, by hand, verbatim. Because of his injuries, the witness was able to sign only one of the statements. The Commonwealth introduced all three of the prior inconsistent statements as substantive evidence. This Court held that all of the statements that were transcribed contemporaneously and verbatim were admissible as substantive evidence. See also Commonwealth v. Ragan, 538 Pa. 2, 645 A.2d 811 (1994) (admitting written transcription of declarant\u2019s statement as substantive evidence where the transcription was contemporaneous and verbatim, and the declarant signed and adopted the statement). Cf. Commonwealth v. Simmons, 541 Pa. 211, 662 A.2d 621 (1995) (prior inconsistent statement contained in a police report was not admissible as substantive evidence because it was neither given under oath, nor signed or adopted by the declarant, nor dictated verbatim; but stating that it would have been admissible as substantive evidence if it had been a contemporary, verbatim, written recording of the statement).\nThis practice was questioned recently in a plurality opinion by this Court. In Commonwealth v. Halsted, 542 Pa. 318, 666 A.2d 655 (1995), Pennsylvania State Trooper Steven Danko interviewed an eleven-year-old boy, B.M., in response to a complaint that Harry Halsted had abused the child. B.M. told Trooper Danko that he had gone to Halsted\u2019s home with Halsted\u2019s eight-year-old grandson, G.W. B.M. alleged that, while in the home, Halsted had performed oral sex on him and that G.W. was present when this occurred. G.W. told Trooper Danko that his grandfather did perform oral sex on B.M., and that he had stood guard to make sure no one would see them. Trooper Danko contemporaneously recorded each child\u2019s statement verbatim during the interviews. He then prepared a typewritten police report, apparently by copying, word-for-word, his written transcription.\nAt trial, G.W. recanted his story and claimed he had not seen his grandfather perform oral sex on B.M., nor had he acted as a look-out. After trying unsuccessfully to refresh G.W.\u2019s memory, the Commonwealth sought to introduce, as substantive evidence, Trooper Danko\u2019s typewritten police report of G.W.\u2019s statement. Following an in camera review of the report, the trial court permitted Trooper Danko to read G.W.\u2019s statement, as found in the police report, into the record. His original handwritten notes were not produced at trial. The Superior Court affirmed the trial court\u2019s admission of the police report based on our decision in Lively. The Majority of this Court, however, held that Trooper Danko\u2019s typed version of his handwritten, contemporaneous, verbatim recording of the interview was not admissible as substantive evidence. This Court reached this decision because there was no way of determining whether the typed report accurately reflected the contemporaneous handwritten recording. In a concurring opinion, four members of the Court agreed in dicta that even the handwritten version of the report would not have been admissible, and that only audio-taped or videotaped recordings can satisfy the \u201ccontemporaneous, verbatim recording\u201d prong of the rule announced in Lively. Halsted, at 329, 666 A.2d at 661.\nToday, the Majority ignores this Court\u2019s decision in Reid and adopts the position stated in the concurring opinion in Halsted by severely limiting the types of \u201crecordings\u201d that may be introduced to video or audio taped statements. This limitation, however, relates to the credibility and weight to be afforded to the statements, not their admissibility. For a statement to be admissible, it must be an accurate, reliable reflection of the declarant\u2019s words. Brady (requiring sufficient indicia of reliability). Although I concur that these audio and video recordings will prove to be trustworthy, I respectfully disagree that they are the only means of ensuring accuracy in recorded statements. I believe that written statements can also demonstrate sufficient indicia of reliability.\nThe holdings in Lively and Brady were premised on the theory that the jury should be allowed to hear more evidence, not less, and that the system was well-served by allowing the fact-finder to perform its task with the relevant evidence before it. One of the functions of the fact finder is to assess the reliability of the evidence before it. Where a witness has made a prior inconsistent statement that was accurately recorded, the fact finder should be permitted to hear that statement to assist in its duty of determining the facts of the case. This evaluation necessarily includes credibility assessments. Credibility determinations become especially critical in child abuse cases where a child initially makes allegations of abuse, but then denies them at trial. Admitting prior inconsistent statements provides a mechanism for the fact finder to judge the veracity of the child\u2019s testimony in court by comparing it to the prior statement. The child is required to explain the inconsistencies and explain why they made the allegations of abuse, but are now recanting them. The child also has the opportunity to deny ever asserting the allegations.\nIn child abuse cases in particular, when the emotional and physical scars of abuse are fresh, the child is more likely to be forthcoming regarding his pain. However, as time passes and the wounds heal, memories fade. Additionally, the abuser is often an authority figure to the child who may convince the child to recant his story. That person may also persuade the child that if he or she has mistreated the child in the past, it will never happen again. On the other hand, there may be threats of more severe abuse if the child again tells the truth. However, without the opportunity to present the prior statements, to hear the witness\u2019s explanation for the inconsistencies, and to observe the witness\u2019s demeanor during these explanations, the fact finder will have less evidence before it to make an accurate assessment of the facts of the case.\nThe United States Supreme Court has recognized the difficulties that child victims may experience when they are asked to confront their abusers, face-to-face. See Maryland v. Craig, 497 U.S. 836, 110 S.Ct. 3157, 111 L.Ed.2d 666 (1990). In Craig, the Court addressed the propriety of a child witness testifying at trial via closed-circuit television. In analyzing the Confrontation Clause of the Sixth Amendment of the United States Constitution, the Court articulated the purpose of that clause as ensuring \u201cthe reliability of the evidence against a defendant.\u201d Id. at 845, 110 S.Ct. at 3163. This purpose is satisfied when the witness testifies under oath, is subject to cross-examination, and the ultimate arbiter of facts is able to observe the demeanor of the witness. Id. at 846, 110 S.Ct. at 3163-64. The Court recognized that this right to face-to-face confrontation is not absolute and the state may infringe upon this right to protect a compelling state interest. Id. It identified the mental and physical well-being of a child as a compelling state interest that warrants infringement upon this constitutional right. Thus, the Court recognized an exception for closed-circuit television testimony where there is evidence that the child will suffer emotional distress and trauma from being confronted with the alleged abuser. Id. Although this Court declined to adopt the holding in Craig that closed-circuit television testimony does not impermissibly violate the right to confrontation, we have accepted that the right to confrontation is not absolute. Commonwealth v. Ludwig, 527 Pa. 472, 594 A.2d 281 (1991).\nJust as the right to confrontation is not absolute, neither is the rule prohibiting the admission of prior inconsistent statements. The purpose of this rule is similar to that of the right to confrontation. It likewise assures the reliability of the statements where the accused did not have the opportunity to cross-examine the witness at the time the prior statement was given, and the court or jury did not observe the witness\u2019s demeanor when he or she gave the prior statement. Thus, where there are sufficient indicia or reliability of a prior statement, and the accuracy can be tested in court, the statement should be admitted as substantive evidence.\nThe fact that an interviewing officer records the declarant\u2019s statement contemporaneously and word-for-word provides sufficient assurance that he or she is accurately recording the declarant\u2019s exact words and version of the events, as opposed to a summarization of the interview. The contention that a verbatim, written transcription is not an accurate chronicle of the witness\u2019s initial version of the events is absurd. Furthermore, the witness is at liberty to deny, in open court, that he or. she made the statements, or to claim that the prior comments were false. Since the witness is available for cross-examination at trial, the fact finder can decide whether to believe the witness\u2019s version of events as revealed at trial or the version elicited in the prior statement. Therefore, a written recording of a witness\u2019s statement is sufficiently reliable for admission as substantive evidence and there is no need to require that a recording be videotaped or audio-taped.\nElectronic recordings do not guarantee reliability because the equipment may fail, and they are amenable to alteration. Moreover, a child may be intimidated by a video camera or a tape recorder, thus inhibiting the child\u2019s willingness to tell his or her story. If the interview takes place in an environment where the child is made to feel safe and secure, the presence of the electronic equipment may add a hostile element to the interview. In addition, it may not be logistically possible to employ a video camera or tape recorder. Thus, video and tape recordings are not foolproof methods of accurately recording statements.\nIn the present case, both Natalie and Nicole consistently stated to the police and the social workers, that their mother had beat them with ropes and belts. However, when they were called to testify at trial, and were required to face their mother with these allegations, both recanted their stories. Thus, after unsuccessfully attempting to refresh their recollections with the prior statements to the police, the Commonwealth introduced Officer Ulloa\u2019s verbatim, handwritten transcription of the interview as substantive evidence. Since both girls testified in court at the trial, they were subject to cross-examination to explain the inconsistencies in their stories and the trial court was able to observe their demeanor. Furthermore, both Officer Ulloa, the transcribing officer, and Officer Valerie Thorn, who was also present during the interviews, testified at trial. Defense counsel was able to question them concerning the accuracy, or lack of accuracy, of the transcription. The trial court also redacted those portions of the statements that were not verbatim but reflected the officer\u2019s summarization of the girls\u2019 comments. These factors combine to provide sufficient assurance that the statements are an accurate reflection of the declarations made by the girls to the officers. Thus, I would find that the police report was admissible as substantive evidence.\nHEARSAY TESTIMONY\nBecause of the disposition of the first issue, the Majority did not reach the second issue presented by Appellant regarding whether trial counsel was ineffective for failing to object to the hearsay testimony of the treating physician and a social worker. Since I would hold that the prior inconsistent statements were admissible, I will address this second issue.\nTo be successful in a claim of ineffective assistance of counsel, Appellant must demonstrate that the underlying claim is of arguable merit, counsel\u2019s course of conduct was not designed to promote her interests, and counsel\u2019s conduct prejudiced her case. Commonwealth v. Travaglia, 541 Pa. 108, 661 A.2d 352 (1995), cert. denied, 516 U.S. 1121, 116 S.Ct. 931, 133 L.Ed.2d 858 (1996). Thus, as a threshold requirement, Appellant must prove that the testimony was in fact inadmissible hearsay. Out-of-court statements offered to prove the truth of the matter asserted therein are hearsay, and unless they fall within an exception they are inadmissible as substantive evidence.\nFirst, Appellant alleges her trial counsel failed to object to inadmissible hearsay offered by Dr. Sarah Badran, a pediatric physician who examined Natalie and Nicole. Dr. Badran testified that when she spoke to Appellant, she told the doctor that she had problems with her children in the past and had abused them by hitting them with ropes. However, she claimed that this was all behind them now. When Dr. Badran examined the girls, they each had loop-shaped marks on their bodies which appeared to be several months old. When asked how they got the marks, Dr. Badran testified that each girl told her that Appellant had caused them. The bruises and marks that had originally alerted the school officials of a potential problem of abuse had healed by the time Dr. Badran examined the girls. Both Natalie and Nicole stated that the most recently healed marks were caused by each other during a fight.\nIt is well-established that statements made to a doctor for the purpose of a medical examination are admissible to prove the truth of the matter asserted. Cody v. S.K.F. Industries, Inc., 447 Pa. 558, 291 A.2d 772 (1972). This is known as the medical treatment exception to the hearsay rule. This exception is premised on the notion that a patient seeking medical treatment has a strong incentive to be truthful regarding the source of their pain, and thus the statements are inherently reliable. See McCormick, Evidence \u00a7 292 (3d ed.1984).\nHere, the purpose of Dr. Badran\u2019s examination was to investigate the well-being and health of the girls. As part of this investigation, it was important for Dr. Badran to discover how they received the marks on their bodies. Both the girls and their mother were forthcoming that Appellant had hit them in the past. The girls claimed, however, that the new marks were inflicted on each other with jump ropes during a fight. Because these comments were made during the course of and in furtherance of medical diagnosis, they qualified as admissible hearsay. Thus, defense counsel was not ineffective for failing to object to this testimony. Even if it were inadmissible hearsay, it was not prejudicial because it was cumulative of the other evidence admitted at trial, including testimony that the girls admitted that their mother had beat them in the past, and Appellant\u2019s admissions that she had used corporal punishment in the past.\nNext, Appellant argues that trial counsel was ineffective for failing to object to inadmissible hearsay testimony offered by Patty Stewart, a Department of Health Services social worker who interviewed the girls after their examination with Dr. Badran. Ms. Stewart went to the Wilson home, talked to the. girls and the mother and took pictures of the girls. Although Nicole refused to talk to Ms. Stewart, Natalie told her that the last time her mother had beat her was in November of 1992, approximately four months before the interview. The trial court found, and the Superior Court agreed, that this testimony was inadmissible hearsay. Because it does not fall within any hearsay exception, I am constrained to agree that it was inadmissible hearsay. Thus, Appellant has met the threshold requirement for an ineffective assistance of counsel claim by demonstrating a claim of arguable merit.\nNevertheless, Appellant must also show that counsel\u2019s failure to object did not further her interests, and that she was prejudiced by this failure. Travaglia. Other testimony and evidence presented at trial revealed that Appellant admitted to beating the children in the past, though she claimed she had not done so recently. In addition, there was physical evidence that some of the marks observed on the girls were several months old or older. Therefore, it was not unreasonable for trial counsel not to object to the hearsay testimony because there was explanatory or counterbalancing evidence that would negate any prejudice to Appellant\u2019s position. I would hold that Ms. Stewart\u2019s testimony alone did not prejudice Appellant\u2019s claim of innocence, hence, trial counsel was not ineffective for failing to object to its admission.\nCONCLUSION\nCase law traditionally found that prior inconsistent statements were inadmissible as substantive evidence because they were made when the declarant was not under oath, and therefore not subject to cross-examination, and the declarant did not offer the statements in the presence of the fact finder. Therefore, the reliability of these statements was questioned. Because I do not find that the dangers related to admitting out-of-court declarations are present when the witness is available to testify at trial, and the accuracy and reliability of the statements can be tested in court by questioning both the declarant and the transcriber, I would admit prior inconsistent statements that are written, contemporaneous and verbatim.\nFor the reasons stated above, I would also find that trial counsel was not ineffective. Accordingly, I would affirm the Order of the Superior Court.\n. The Brady Court relied heavily on the fact that the declarant was available for cross-examination during trial and under observation by the fact finder. Brady, at 128-129, 507 A.2d at 69. It stated, \"Indeed, the cross-examination to which a recanting witness is subjected will likely be meaningful and vigorous since the witness is already 'on the spot\u2019 in having to explain the discrepancies between earlier statements and direct testimony, or deny that the earlier statements were made at all.\" Id. at 129, 507 A.2d at 69. When the declarant is questioned in open court, the fact finder \"may bring to bear his or her sensory observations, experience, common sense and logic upon the witness to assess credibility and to determine the truth and accuracy of both the out-of-court declarations and the in-court testimony.\u201d Id. See also Kelly A. Kutler, Case Note, Criminal Law: The Admission of Prior Inconsistent Statements as Substantive Evidence, 60 Temp. L.Q. 427 (Summer 1987).\n. Additionally, I note that the use of these types of \"recordings\u201d have been the issue of recent debate both before this Court and in the legislature. In 1986, the legislature enacted 42 Pa.C.S. \u00a7\u00a7 5984 and 5985. These sections permitted a child witness or victim in criminal prosecutions to testify through videotaped depositions or closed-circuit televisions. This Court struck down those provisions in Commonwealth v. Louden, 536 Pa. 180, 638 A.2d 953 (1994), because they violated a defendant's right to \"face-to-face\u201d confrontation as provided by Article I, Section 9 of the Pennsylvania Constitution.\nIn response to Louden, the legislature recently attempted to pass a constitutional amendment. The November 7, 1995 ballot posed the following question to voters:\nShall the Pennsylvania Constitution be amended to provide (1) that a person accused of a crime has the right to be \"confronted with the witnesses against him,\u201d instead of the right to \"meet the witnesses face to face,\u201d and (2) that the General Assembly may enact laws regarding the manner by which children may testify in criminal proceedings, including the use of videotaped depositions or testimony by closed-circuit television?\nA majority of the electorates voted affirmatively on this question. However, the Commonwealth Court found that this question violated Article XI, Section 1, of the Pennsylvania Constitution by proposing two amendments in one question. Bergdoll v. Kane, 694 A.2d 1155 (Pa. Cmwlth.1997). It found that the ballot question would amend both Article I, Section 9, the \"Confrontation Clause,\u201d and Article V, Section 10(c), which authorizes the Supreme Court, not the General Assembly, to prescribe the rules of court. Id. at 1158. Thus, it is apparent that the use of videotaped depositions and closed-circuit television as testimony continues to be an unresolved issue.\n. Alternatively, I note that Dr. Badran\u2019s testimony concerning Nicole's statements may have been admissible pursuant to the Tender Years Hearsay Act, 42 Pa.C.S. \u00a7 5985.1. This section provides, in relevant part, as follows:\n\u00a7 5985.1. Admissibility of certain statements\n(a) General rule.\u2014An out-of-court statement made by a child victim or witness, who at the time the statement was made was 12 years of age or younger, describing physical abuse ... performed with or on the child by another, not otherwise admissible by statute or rule of evidence is admissible in evidence in any criminal proceeding if:\n(1) the court finds, in an in camera hearing, that the evidence is relevant and that the time, content and circumstances of the statement provide sufficient indicia or reliability; and\n(2) the child either:\n(i) testifies at the proceeding; or\n(ii) is unavailable as a witness.\n42 Pa.C.S. \u00a7 5985.1. Nicole was twelve years old at the time of the interview. Natalie, however, was thirteen, therefore, her statements would not qualify pursuant to this Act.\nNicole\u2019s out-of-court statements to Dr. Badran concerning who caused her scars were relevant. Furthermore, the circumstances of the interview, i.e., close in time to the alleged abuse, outside the company of her mother, and before an authority figure, provide sufficient indicia of reliability. Nicole also testified at trial, and therefore was able to, and did, deny that she made the statements.\nAlthough her statements may fall within the hearsay exception found in \u00a7 5985.1, this theory of admissibility was apparently not presented to the trial court. The trial court therefore did not have the opportunity to fully evaluate it and conduct an in camera evaluation, as required by subsection (a)(1). Because the Majority is remanding this case for a new trial, the trial court would have an opportunity, if necessary, to evaluate the statements pursuant to the Act at that time.\n. Since only Natalie spoke to Ms. Stewart, and Natalie was more them twelve years old at the time, the Tender Years Hearsay Act, 42 Pa.C.S. \u00a7 5985.1, would not provide a hearsay exception for Ms. Stewart\u2019s testimony.",
+        "type": "dissent",
+        "author": "NEWMAN, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Dennis Cogan, Anthony J. Petrone, Philadelphia, for Belinda Wilson.",
+      "Catherine Marshall, Thomas W. Dolgenos, Philadelphia, for the Com."
+    ],
+    "corrections": "",
+    "head_matter": "707 A.2d 1114\nCOMMONWEALTH of Pennsylvania, Appellee v. Belinda WILSON, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 18, 1996.\nDecided Jan. 26, 1998.\nDennis Cogan, Anthony J. Petrone, Philadelphia, for Belinda Wilson.\nCatherine Marshall, Thomas W. Dolgenos, Philadelphia, for the Com.\nBefore FLAHERTY, C.J., and ZAPPALA, GAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+  },
+  "file_name": "0518-01",
+  "first_page_order": 782,
+  "last_page_order": 802
+}

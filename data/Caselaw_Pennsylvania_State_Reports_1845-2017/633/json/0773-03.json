@@ -1,0 +1,80 @@
+{
+  "id": 12284508,
+  "name": "Boehm v. Riversource Life Ins. Co.",
+  "name_abbreviation": "Boehm v. Riversource Life Ins. Co.",
+  "decision_date": "2015-12-01",
+  "docket_number": "239 WAL (2015)",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 773"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "117 A.3d 308",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6863534
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/117/0308-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 92,
+    "ocr_confidence": 0.821,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24920757928357987
+    },
+    "sha256": "bd9caf1128ca777ac268e37541862d992e28ad592d45721897a6fadee9c615c2",
+    "simhash": "1:6bcfa0623b3d1346",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Boehm v. Riversource Life Ins. Co."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 117 A.3d 308",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Boehm v. Riversource Life Ins. Co.\n12/01/2015\n239 WAL (2015)"
+  },
+  "file_name": "0773-03",
+  "first_page_order": 827,
+  "last_page_order": 827
+}

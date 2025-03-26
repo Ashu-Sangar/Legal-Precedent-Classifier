@@ -1,0 +1,68 @@
+{
+  "id": 473119,
+  "name": "Downing Estate",
+  "name_abbreviation": "Downing Estate",
+  "decision_date": "1948-07-06",
+  "docket_number": "Appeal, No. 178",
+  "first_page": "534",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "359 Pa. 534"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 410,
+    "ocr_confidence": 0.474,
+    "pagerank": {
+      "raw": 1.63272126708345e-07,
+      "percentile": 0.6891411429778338
+    },
+    "sha256": "321de241140b5f794bac9e1887196dab426c11e5a5742706799f3ce92b6dd519",
+    "simhash": "1:32337e50017b5a1e",
+    "word_count": 69
+  },
+  "last_updated": "2023-07-14T20:51:35.411755+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ."
+    ],
+    "parties": [
+      "Downing Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis Decree is affirmed on the opinion of President Judge Rhodes of the Superior Court. Costs to be paid by appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Raymond M. Remido, with him Saul, Ewing, Remido \u00e9 Saul, for appellant.",
+      "Thomas Raeburn White, with him W. Wilson White and White & Williams, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Downing Estate.\nArgued May 26, 1948.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ.\nJuly 6, 1948:\nRaymond M. Remido, with him Saul, Ewing, Remido \u00e9 Saul, for appellant.\nThomas Raeburn White, with him W. Wilson White and White & Williams, for appellee."
+  },
+  "file_name": "0534-01",
+  "first_page_order": 556,
+  "last_page_order": 557
+}

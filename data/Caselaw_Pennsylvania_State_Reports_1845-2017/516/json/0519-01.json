@@ -1,0 +1,82 @@
+{
+  "id": 1808589,
+  "name": "George H. CLARKE, Petitioner, v. WOODSTOWN CONSTRUCTION INCORPORATED, Respondent",
+  "name_abbreviation": "Clarke v. Woodstown Construction Inc.",
+  "decision_date": "1987-11-02",
+  "docket_number": "No. 349 E.D. Allocatur Docket 1987",
+  "first_page": "519",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "516 Pa. 519"
+    },
+    {
+      "type": "parallel",
+      "cite": "533 A.2d 708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "362 Pa.Super. 119",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        671197
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/362/0119-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 500,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 1.2638743236798686e-07,
+      "percentile": 0.613051185609663
+    },
+    "sha256": "ae956fa1faf0114ae8858c48f47a96bbb5919eb5a27af7e5a7a49a14e99c864c",
+    "simhash": "1:501b5681b05bd0dc",
+    "word_count": 79
+  },
+  "last_updated": "2024-02-27T23:49:21.147958+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George H. CLARKE, Petitioner, v. WOODSTOWN CONSTRUCTION INCORPORATED, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER OF COURT\nPER CURIAM.\nThe petition for allowance of appeal in the above-captioned case is granted. The order of the Superior Court at Woodstown Construction Inc. v. Clarke, 362 Pa.Super. 119, 523 A.2d 804 (1987) is reversed and the order of the Court of Common Pleas of Columbia County awarding liquidated damages under 42 Pa.C.S.A. \u00a7 8104 is reinstated.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "533 A.2d 708\nGeorge H. CLARKE, Petitioner, v. WOODSTOWN CONSTRUCTION INCORPORATED, Respondent.\nSupreme Court of Pennsylvania.\nNov. 2, 1987."
+  },
+  "file_name": "0519-01",
+  "first_page_order": 603,
+  "last_page_order": 604
+}

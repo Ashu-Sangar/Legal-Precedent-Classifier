@@ -1,0 +1,280 @@
+{
+  "id": 1140302,
+  "name": "Hoy's Estate",
+  "name_abbreviation": "Hoy's Estate",
+  "decision_date": "1932-05-26",
+  "docket_number": "Appeal, No. 78",
+  "first_page": "131",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "308 Pa. 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "284 Pa. 414",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092072
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/284/0414-01"
+      ]
+    },
+    {
+      "cite": "289 Pa. 280",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1103313
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/289/0280-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. Superior Ct. 429",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        685602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/97/0429-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. Superior Ct. 17",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        682038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/95/0017-01"
+      ]
+    },
+    {
+      "cite": "243 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1001623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/243/0375-01"
+      ]
+    },
+    {
+      "cite": "6 Phila. 229",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "169 Pa. 529",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        870681
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/169/0529-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 194",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/78/0194-01"
+      ]
+    },
+    {
+      "cite": "111 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        545260
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/111/0014-01"
+      ]
+    },
+    {
+      "cite": "5 Pa. 452",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        953515
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/5/0452-01"
+      ]
+    },
+    {
+      "cite": "251 Pa. 348",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019785
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/251/0348-01"
+      ]
+    },
+    {
+      "cite": "73 Pa. Superior Ct. 203",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        643200,
+        643237
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/73/0203-01",
+        "/pa-super/73/0203-02"
+      ]
+    },
+    {
+      "cite": "36 Pa. Superior Ct. 33",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        874413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/36/0033-01"
+      ]
+    },
+    {
+      "cite": "294 Pa. 442",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1113404
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/294/0442-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 414",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092072
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0414-01"
+      ]
+    },
+    {
+      "cite": "289 Pa. 280",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1103313
+      ],
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/289/0280-01"
+      ]
+    },
+    {
+      "cite": "243 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1001623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/243/0375-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 408,
+    "char_count": 6097,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.041670383099555224
+    },
+    "sha256": "744f2fce778204b5c86a169cd544aa17cb8e88719eb586fdf1b3fb035c0f5cc7",
+    "simhash": "1:30e7c52d6fd50e0a",
+    "word_count": 1054
+  },
+  "last_updated": "2024-02-27T16:01:05.686750+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaffer, Maxey and Linn, JJ."
+    ],
+    "parties": [
+      "Hoy\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by.\nMr. Justice Maxey,\nThe appellant, Lucy V. Hoy, claims five thousand dollars from her deceased husband\u2019s estate under the Intestate Act of 1917, and also five hundred dollars as the widow\u2019s exemption. The mother of the decedent, Margaret Hoy, excepted to the widow\u2019s claims and set np an agreement between the widow, the appellant, and her husband, Henry C. Hoy, now deceased, which was executed on May 28, 1927, wherein she released all claim of any share she might otherwise have had in the estate of the decedent. Henry C. Hoy, died without issue, intestate, on August 13, 1928.\nIn the preamble to their agreement, it is set forth that the husband and wife had \u201cirreconcilable differences ......and contemplate living separate and apart; and ......that the husband shall give to the wife the sum of $800 and certain household goods and furniture be: longing to the wife; and......all their mutual rights and liabilities shall be settled by this agreement.\u201d And, then it is agreed between the parties \u201cthat neither will interfere or intermeddle with the other in his or her respective liberty, conduct or action,\u201d and \u201cthat the wife accepts the payment......in full satisfaction of her right to support and maintenance\u201d by her husband, and that \u201ceach releases the other, his and her respective heirs, executors and administrators, from all duties, liabilities and obligations of'every kind whatsoever which otherwise might or could claim under or by virtue of the marriage relation between them, and particularly the right to claim any share in the estate of either, real or personal, under the intestate law or against the will of the other.\u201d The issue in this case arises from paragraph seven of the agreement, which reads as follows: \u201cThis agreement is not to be construed as evidencing the consent of either to the contemplated separation so as to bar an action for divorce by the other for desertion.\u201d\nThe widow-appellant\u2019s chief contention is that the whole contract was void as against public policy because of this paragraph. The agreement was drawn by the appellant\u2019s attorney at her instance and under her instructions. The full consideration stipulated for was paid to her. She now contends that the agreement was made for the purpose of aiding in and facilitating the procuring of a decree in divorce. Depositions were taken in behalf of the appellant and in behalf of the decedent\u2019s mother. The court below found that the evidence failed to show such a purpose; that they failed to show any coercion, concealment or deception on the part of the decedent in procuring the preparation or delivery of the agreement; and that the evidence conclusively showed that the agreement was read and explained to the appellant prior to the execution of it by her attorney.\nWe have gone over the entire record, including the depositions, and we see no reason for disturbing the findings and conclusions of the court below. We do not find that paragraph seven is contrary to public policy and therefore void. It is true that any arrangement tending to facilitate the granting of a decree in divorce is illegal, invalid and void, however solemnly made and this court will never hesitate to say so. See Mathiot\u2019s Est., 243 Pa. 375; Miller v. Miller, 284 Pa. 414, 418; Shannon\u2019s Est., 289 Pa. 280, 283. But in this case we find that this was not the purpose of the agreement. We construe the paragraph in the preamble which refers to \u201cirreconcilable difference has arisen between them\u201d as \u201cpartaking somewhat of a settlement to end controversies between them\u201d (Slagle\u2019s App., 294 Pa. 442), and not as evidence Of such an agreement to separate as would bar an action for divorce for desertion. No divorce was ever applied for by either party, although, at the time of the death of Henry C. Hoy, the agreement was then in full force and effect over a year and four months. The court in this case also found that when the appellant executed the agreement she was fully advised of her rights and signed it of her own free will without any coercion upon her husband\u2019s part. And the court has also found that the consideration is not unreasonable nor disproportionate to the means of the husband and that there was full disclosure to the wife of the value of tlie husband\u2019s property.\nTbe court below, in construing paragraph seven, said: \u201cIt did not provide that tbe divorce was not to be contested. It did not provide that tbe parties thereto or either of them should in any manner refrain from setting up that tbe separation itself was by consent.\u201d\nWe think this case is ruled by Miller v. Miller, 284 Pa. 414.\nTbe decree is affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Maxey,"
+      }
+    ],
+    "attorneys": [
+      "Paul A. Kunkel, with him Lynn M. Irvine, for appellant.",
+      "Joseph P. McKeehan, with him Samuel E. Bashore, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hoy\u2019s Estate.\nArgued May 9, 1932.\nBefore Frazer, C. J., Simpson, Kephart, Schaffer, Maxey and Linn, JJ.\nPaul A. Kunkel, with him Lynn M. Irvine, for appellant.\nThe unmistakable, that is, the plain practical effect of this seventh paragraph clearly amounts to an agreement to defeat the law of divorce for the prevention of collusion: King v. King, 36 Pa. Superior Ct. 33; Whitaker v. Richmon, 73 Pa. Superior Ct. 203; Kuhn v. Buhl, 251 Pa. 348; Filson v. Himes, 5 Pa. 452; Pearce v. Wilson, 111 Pa. 14; Kilborn v. Field, 78 Pa. 194.\nContracts prejudicial to the convenience and welfare of the public must not be enforced, no matter how flagrant and malicious the breach of it by one of the parties : Irvin v. Irvin, 169 Pa. 529; Sampson v. Cresson, 6 Phila. 229; Mathiot\u2019s Est., 243 Pa. 375.\nIf an agreement binds the parties or either of them to do, or if the consideration is to do, something opposed to the policy of the state or nation, it is illegal and absolutely void, however solemnly made.\nJoseph P. McKeehan, with him Samuel E. Bashore, for appellee.\nThe appellant in her depositions failed utterly to show any facts that indicated that one of the purposes of the agreement was to facilitate the procuring of a divorce, or that a divorce was ever even contemplated by either of the parties: Thommen v. Thommen, 95 Pa. Superior Ct. 17; Hall v. Hall, 97 Pa. Superior Ct. 429; Shannon\u2019s Est., 289 Pa. 280; Miller v. Miller, 284 Pa. 414.\nMay 26, 1932:"
+  },
+  "file_name": "0131-02",
+  "first_page_order": 153,
+  "last_page_order": 157
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12282700,
+  "name": "Com. v. Bieros",
+  "name_abbreviation": "Com. v. Bieros",
+  "decision_date": "2015-10-14",
+  "docket_number": "278 EAL (2015)",
+  "first_page": "761",
+  "last_page": "761",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 761"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1134",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.863,
+    "sha256": "cf0bd18c6edb5c03c2308a435bdca8bde20f0b179830b0b47d60ed138b043aec",
+    "simhash": "1:29424c8b716a6208",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Bieros"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1134",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Bieros\n10/14/2015\n278 EAL (2015)"
+  },
+  "file_name": "0761-05",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

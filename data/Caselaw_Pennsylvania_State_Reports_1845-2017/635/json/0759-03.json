@@ -1,0 +1,70 @@
+{
+  "id": 12285558,
+  "name": "Com. v. Brown",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2016-03-29",
+  "docket_number": "882 MAL (2015)",
+  "first_page": "759",
+  "last_page": "759",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 759"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 106",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.759,
+    "sha256": "5018e5836e7b6a0ceaf947b143c4c40f99c2babc50e9b179b7e1a02ad9007acf",
+    "simhash": "1:8f66bac6bd0e78d4",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Brown"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 106",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Brown\n03/29/2016\n882 MAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0759-03",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

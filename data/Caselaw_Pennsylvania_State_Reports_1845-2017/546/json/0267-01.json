@@ -1,0 +1,96 @@
+{
+  "id": 466700,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Bernard McGILL, Petitioner",
+  "name_abbreviation": "Commonwealth v. McGill",
+  "decision_date": "1996-11-18",
+  "docket_number": "",
+  "first_page": "267",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "546 Pa. 267"
+    },
+    {
+      "type": "parallel",
+      "cite": "684 A.2d 552"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "680 A.2d 1131",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        465082,
+        7864514
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0180-01",
+        "/a2d/680/1131-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465082
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0180-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 548,
+    "ocr_confidence": 0.669,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.01714964849302025
+    },
+    "sha256": "ce1ba8827303a96641835765ce0cc9c004a0a67b23286d9743282cbdf334bc1b",
+    "simhash": "1:ff6e2f29c1ef8d7d",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T19:23:05.732246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Bernard McGILL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of November, 1996, it is ordered that petitioner\u2019s Emergency Motion for a Stay of Execution pending the filing and resolution of a petition for a writ of certiorari is GRANTED. The execution shall be stayed pending action by the United States Supreme Court on the petition for certiorari from this Court\u2019s ruling in Commonwealth v. McGill, 545 Pa. 180, 680 A.2d 1131 (1996).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "684 A.2d 552\nCOMMONWEALTH of Pennsylvania, Respondent, v. Bernard McGILL, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 18, 1996."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 391,
+  "last_page_order": 391
+}

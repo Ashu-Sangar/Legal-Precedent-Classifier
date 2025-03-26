@@ -1,0 +1,96 @@
+{
+  "id": 1804574,
+  "name": "COMMONWEALTH of Pennsylvania v. Dennis STATEN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Staten",
+  "decision_date": "1987-03-24",
+  "docket_number": "No. 212 E.D. Allocatur Dkt. 1986",
+  "first_page": "377",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "514 Pa. 377"
+    },
+    {
+      "type": "parallel",
+      "cite": "524 A.2d 896"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "476 U.S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12401
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0140-01"
+      ]
+    },
+    {
+      "cite": "350 Pa.Super. 173",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        648130
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/350/0173-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 589,
+    "ocr_confidence": 0.721,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06713190614587955
+    },
+    "sha256": "6bcc788a739cb471684fd660b08424d834b5ca50d5a633125ad813bc0bc7ef38",
+    "simhash": "1:342c088221119286",
+    "word_count": 99
+  },
+  "last_updated": "2024-02-27T23:49:20.590095+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Dennis STATEN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 24th day of March, 1987, the Petition for Allowance of Appeal is granted. The Order of the Superior Court entered January 31, 1986, 350 Pa.Super. 173, 504 A.2d 301 is reversed and the Order of the Court of Common Pleas of Berks County, Criminal Division, entered November 13, 1981, at No. 810831301 & A Bill is reinstated. See Smalis v. Pennsylvania, 476 U.S. 140, 106 S.Ct. 1745, 90 L.Ed.2d 116 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "524 A.2d 896\nCOMMONWEALTH of Pennsylvania v. Dennis STATEN, Petitioner.\nNo. 212 E.D. Allocatur Dkt. 1986.\nSupreme Court of Pennsylvania.\nMarch 24, 1987."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 439,
+  "last_page_order": 439
+}

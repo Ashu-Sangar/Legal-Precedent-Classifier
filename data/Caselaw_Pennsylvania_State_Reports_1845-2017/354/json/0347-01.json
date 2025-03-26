@@ -1,0 +1,68 @@
+{
+  "id": 467392,
+  "name": "McCreary Trust",
+  "name_abbreviation": "McCreary Trust",
+  "decision_date": "1946-05-27",
+  "docket_number": "Appeal, No. 64",
+  "first_page": "347",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "354 Pa. 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 409,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 2.3697499984325405e-07,
+      "percentile": 0.7952199143656637
+    },
+    "sha256": "4de84441e54064ba3f1b326e08c311d187674ac5ece702ae5eac366a4b65d827",
+    "simhash": "1:2211f3b005a20ed8",
+    "word_count": 69
+  },
+  "last_updated": "2023-07-14T17:06:26.760354+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson and Stearne, JJ."
+    ],
+    "parties": [
+      "McCreary Trust."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe decree of the court below is affirmed on the opinion of Judge Huntee; appellant to pay the costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Robert Dechert, with him Charles Myers and Barnes, Dechert, Price & Smith, for appellant.",
+      "Henry S. Drinker, with him Edwin W. Semans and Charles C. Savage, Jr., for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "McCreary Trust.\nArgued April 8, 1946.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson and Stearne, JJ.\nRobert Dechert, with him Charles Myers and Barnes, Dechert, Price & Smith, for appellant.\nHenry S. Drinker, with him Edwin W. Semans and Charles C. Savage, Jr., for appellees.\nMay 27, 1946:"
+  },
+  "file_name": "0347-01",
+  "first_page_order": 453,
+  "last_page_order": 461
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1138129,
+  "name": "Straus's Estate",
+  "name_abbreviation": "Straus's Estate",
+  "decision_date": "1932-05-09",
+  "docket_number": "Appeal, No. 165",
+  "first_page": "454",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "307 Pa. 454"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "283 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090552
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/283/0255-01"
+      ]
+    },
+    {
+      "cite": "301 Pa. 386",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/301/0386-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 92,
+    "char_count": 687,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 2.909685512572477e-07,
+      "percentile": 0.8457085721986108
+    },
+    "sha256": "a0edca9fb4c58f0887a34cdf60fcf4897b1c7c896ee3422017d92d50b64093a3",
+    "simhash": "1:908f0cbd95f6321f",
+    "word_count": 120
+  },
+  "last_updated": "2024-02-27T17:00:31.592058+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Straus\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis appeal is from the refusal of the orphans\u2019 court to render a declaratory judgment involving the construction of the will of Emanuel Straus. The decree of the court below dismissing the petition is affirmed on the opinion of Judge Gest for the court in banc. Costs to be paid by appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "R. M. Remick, of Saul, Ewing, Remick & Saul, with him Arthur S. Arnold, for appellants.",
+      "No brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Straus\u2019s Estate.\nArgued April 20, 1932.\nBefore Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ.\nR. M. Remick, of Saul, Ewing, Remick & Saul, with him Arthur S. Arnold, for appellants.\n\u2014 The present proceeding is properly brought under the Act of June 18, 1923, P. L. 840: Cryan\u2019s Est., 301 Pa. 386; List\u2019s Est., 283 Pa. 255.\nNo brief for appellee.\nMay 9, 1932:"
+  },
+  "file_name": "0454-01",
+  "first_page_order": 478,
+  "last_page_order": 484
+}

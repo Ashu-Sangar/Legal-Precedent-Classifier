@@ -1,0 +1,80 @@
+{
+  "id": 12282439,
+  "name": "Com. v. Cole",
+  "name_abbreviation": "Com. v. Cole",
+  "decision_date": "2016-07-26",
+  "docket_number": "174 WAL (2016)",
+  "first_page": "658",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 658"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 191",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6806909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/135/0191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 155,
+    "ocr_confidence": 0.768,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24909560364330122
+    },
+    "sha256": "e5043c5655c1c944b346872679548da23b857ceb9e876f0a63f78003a12e7c13",
+    "simhash": "1:6b763a88afeef254",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Cole"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 191",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Cole\n07/26/2016\n174 WAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0658-01",
+  "first_page_order": 710,
+  "last_page_order": 710
+}

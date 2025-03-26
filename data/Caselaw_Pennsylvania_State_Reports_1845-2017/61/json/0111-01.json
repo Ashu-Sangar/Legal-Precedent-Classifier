@@ -1,0 +1,267 @@
+{
+  "id": 428591,
+  "name": "Buzby's Appeal. Crean's Estate",
+  "name_abbreviation": "Buzby's Appeal",
+  "decision_date": "1869-02-16",
+  "docket_number": "No. 15",
+  "first_page": "111",
+  "last_page": "118",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "61 Pa. 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Wright 105",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "case_ids": [
+        626143
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wright/1/0105-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 279",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481796
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0279-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 23",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Howard 488",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Rawle 231",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824620
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/5/0231-01"
+      ]
+    },
+    {
+      "cite": "21 Pick. 214",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Met. 169",
+      "category": "reporters:state",
+      "reporter": "Met.",
+      "case_ids": [
+        2067499
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/48/0169-01"
+      ]
+    },
+    {
+      "cite": "8 Gray 86",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2079255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/74/0086-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle 168",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820551
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0168-01"
+      ]
+    },
+    {
+      "cite": "4 Allen 466",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2100517
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/86/0466-01"
+      ]
+    },
+    {
+      "cite": "8 Gray 85",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Pick. 563",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2045824
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/39/0563-01"
+      ]
+    },
+    {
+      "cite": "2 Phillips 639",
+      "category": "reporters:state",
+      "reporter": "Phillips",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Hall 580",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Allen 589",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wright 46",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 W. & S. 279",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481796
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/7/0279-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 23",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Rawle 231",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1824620
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/rawle/5/0231-01"
+      ]
+    },
+    {
+      "cite": "8 Gray 86",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2079255
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/74/0086-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 749,
+    "char_count": 18892,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 1.1319667044477986e-06,
+      "percentile": 0.9862930232612017
+    },
+    "sha256": "b6b9fd20a68e717d6bb320e0f2cdcaf6e75cd2350e5a6227818126be781295ab",
+    "simhash": "1:f8e8eafa6019a614",
+    "word_count": 3507
+  },
+  "last_updated": "2024-02-27T19:58:23.514592+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Thompson, C. J., Agnew, Sharswood and Williams, JJ. Read, J., at Nisi Prius."
+    ],
+    "parties": [
+      "Buzby\u2019s Appeal. Crean\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, July 6th 1869, by\nWilliams, J.\nJohn Crean, the elder, devised the real estate, the proceeds of which are in controversy, to Isaac Heylin, his heirs and assigns, in trust for the use of his son William, for life, and after his decease, in.trust for his children then living, and the lawful issue of such of them as should then be deceased, their respective heirs and assigns for ever, in equal parts and shares, such issue to take and receive such part and share only, as his, her or their deceased parents would have had and taken if then living, and for want of such children or lawful issue, then in trust for the use of his right' heirs for ever.\nThe testator\u2019s son, William, died unmarried and without issue, and the question is, who are the persons entitled to the remainder as the right heirs of the testator? Are they the persons who were his heirs at his death ? or are they the persons who were his heirs at the death of his son William ? It is conceded that under the first limitation William took only an estate for life: Powell v. Board of Domestic Missions, 13 Wright 46; and that the remainder in fee limited to his children living at his decease, and the lawful issue of his children then deceased, was contingent or ex-ecutory. But whether the remainder limited to the heirs of the testator on the death of William without children, or issue of deceased children then living, is to be regarded as vested or contingent, has been greatly discussed, because of its important, if not decisive, bearing upon the question, whether the heirs at the death of the testator, or the heirs at the death of William, are entitled to the remainder. Perhaps the limitation to the heirs might be regarded as a vested remainder under the decision of this court in Etter\u2019s Estate, 11 Harris 381, and its rulings in Kelso v. Dickey, 7 W. & S. 279; Hopkins v. Jones, 2 Barr 69; Minnig v. Batdorff, 5 Id. 503; Chew\u2019s Appeal, 1 Wright 23; Ross v. Drake, Id. 373; Young v. Stoner, Id. 105. The rule is well settled that a remainder is to be regarded as vested, rather than contingent, if such a construction is possible. If it did not vest absolutely in the heirs at the death of the testator, why may it not be regarded as having vested, quodam modo, subject to be divested by the death of William leaving children living ? The contingency upon which the heirs were to take the remainder was not a contingency annexed to their capacity to take, but an event independent of them, and not affecting their capacity to take and transmit their right to the remainder. Their right to the remainder was only prevented from being an absolute interest by the possibility of a child of William coming into esse, and surviving him. The limitation here is substantially the same as in Etter\u2019s Appeal, which was declared to be a vested remainder. Lowrie, J., says, \u201c the estate to Henry in terms, was a life estate. If it was only a life estate, then the estate of his unborn children was a contingent remainder, and that of the other devisees (the testator\u2019s surviving heirs) a vested one, subject to be defeated by the death of Henry leaving issue.\u201d If, then, the estate devised to the testator\u2019s right heirs was a vested remainder, the heirs at his death took the estate, and as William, the devisee for life, was one of the testator\u2019s heirs, it would follow that his devisees became entitled to his share on the termination of his life estate. But there are authorities, and among them some decisions of our own, which show that the remainder in this case is to be regarded as contingent\u2019 rather than as vested; and the weight of the authorities seems to be in favor of this doctrine. If the prior fee be contingent a remainder may be created to vest in the event of the first estate never taking effect, though it would not be good as a remainder, if it was to succeed, instead of being collateral to the contingent fee. Thus a limitation to A. for life, remainder to his issue in fee, and in default of such issue, remainder to B., the remainder to B. is good as being collateral to the contingent fee in the issue; it is not a fee mounted upon a fee, but it is a contingent remainder, with a double aspect, or on a double contingency: 4 Kent Com. 200; Loddington v. Kime, 1 Ld. Raym. 203; Fearne on Rem. 373. The same doctrine is laid down by this court in Dunwoodie v. Reed, 3 S. & R. 451, Waddell v. Rattew, 5 Rawle 231, Stump v. Findlay, 2 Id. 168, in reference to similar limitations. If, then, the remainder is to be regarded as contingent, in whom did it vest ? In those who were heirs of the testator at the time of his death, or in those who were heirs at the death of his son William ? The remainder, if contingent, did not vest till William\u2019s death. But it does not follow that it vested in those who were the heirs at his death; if it did, then it was doubly contingent. The event upon which it was to take effect, and the persons to whom the estate w.as limited, were both dubious and uncertain. If there was no uncertainty as to the class, the persons composing this class could only be known and ascertained upon the death of the tenant for life. If the remainder had been expressly limited to the heirs living at the death of the testator, it would have been contingent in view of the doctrine of the cases last cited. And the question recurs, who are the testator\u2019s right heirs ? As a general rule of construction, it is well settled that a devise, or bequest to heirs, or heirs at law of a testator, or to his next of kin, will be construed as referring to those who are such at the time of the testator\u2019s decease, unless a different intent is plainly manifested by the will: Holloway v. Holloway, 5 Vesey 399; Elmsley v. Young, 2 M. & K. 82; Jenkins v. Gowen, 2 Coll. 537; Seifforth v. Budham, 9 Beav. 370; Grundy v. Primager, 1 De Gex, M. & G. 502; Urquhart v. Urquhart, 36 Eng. Ch. 613; Abbott v. Bradstreet, 3 Allen 589. When, however, it clearly appears that the testator intended his heirs or next of kin at the death of the tenant or legatee for life, such intent will prevail: Horn v. Coleman, 19 Eng. Law & Eq. 19; Bender v. Hewlet, 2 Myl. & K. 90; Jones v. Colbeck, 8 Ves. 38; Say v. Creed, 5 Hall 580; Sears v. Russell, 8 Gray 86; Minter v. Wrath, 36 Eng. Ch. (13 Sim.) 52. But where a testator gives property to a tenant for life, and after the death of the tenant for life to his next of kin; and there is nothing in the context to qualify, or in the circumstances of the case to exclude the natural meaning of the testator\u2019s words, the next of kin living at his death will take; and if the tenant for life be such next of kin, either solely or jointly with other persons, he will not he, on that account only, excluded: Say v. Creed, 26 Eng. Ch. 580; Elmsley v. Young, 2 Myl. & K. 82; Jenkins v. Gowen, 2 Coll. 537.\nHor will the use of the word then, as introductory to the bequest or devise over after the death of the tenant or legatee for life, prevent the general rule from applying unless it is so used as clearly to indicate that the next of kin, or heirs living at the death of the tenant for life, are intended by the testator: Holloway v. Holloway, supra; Ware v. Rowland, 2 Phillips 639; Wharton v. Barker, 4 K. & John. 483. We see nothing in this will, or in the circumstances of the case, which qualifies the natural meaning of the words, and which clearly shows that the testator intended to limit the estate to those who should he his right heirs at the death of his son William. Certainly the use of the word then, as introductory to the limitation, does not indicate any such intention. The limitation is in these words: \u201c And for want of such child or children, or lawful issue, then in trust for the use and behoof of my right heirs for ever.\u201d Obviously the word then is not used in this clause as an adverb of time, but as a conjunction, signifying in that case, in that event or contingency. If this be its meaning, there is nothing to prevent the general rule from applying, and the words must he construed as referring to the heirs of the testator at the time of his death. But the appellants rely upon the rule laid down by Redfield, in his Treatise on Wills, p. 393. He says: \u201c The devise or bequest of property to the testator\u2019s heirs at law means those who were such at the time of his decease, unless a contrary intent is obvious. But where there are intervening estates, and the remainder is contingent, it will be construed as having reference to those who shall sustain the relation of heirs at the time the estate vests in possession.\u201d And in support of this doctrine he cites Rich v. Waters, 22 Pick. 563; Sears v. Russell, 8 Gray 85; Abbott v. Bond, 4 Allen 466; and Abbott v. Bradstreet, 3 Id. 587. Two of these cases, Rich v. Waters and Abbott v. Bond, have no direct bearing on the subject, and the first is virtually overruled in Abbott v. Bradstreet. But the general rule is recognised in Sears v. Russell, and strictly followed in Abbott v. Bradstreet, and neither of them suggests any such modification of the rule as that stated by Mr. Redfield. In the latter case it was decided that a bequest of the remainder, after a life estate to the heirs at law of the testator, will be construed as referring to those who were such at the time of his decease, unless a different intent is plainly manifested; and such intent is not to be inferred from the fact that those to whom the life estate is given are among his heirs at law, or that a bequest is given to another heir at law, \u201c in full of any share she may be entitled to out of my estate.\u201d\nThis conclusion is reached after an elaborate examination of the authorities, and there is nothing in the facts of the case, or in the opinion of the court, which lends any countenance or sanction to the dictum of the able and learned author. If then, as we have endeavored to show, the general rule of construction must prevail in this ease, it follows that the testator\u2019s heirs at his death, and not his heirs at the death of the tenant for life, are entitled to the remainder. This conclusion, though reached by a different process, is in substantial harmony with the decisions of this court in Etter\u2019s Estate, 11 Harris 381, and Riehle\u2019s Appeal, 4 P. F. Smith 97, in both of which there was a limitation over to the testator\u2019s heirs on the death of the tenant for life without leaving children or issue surviving. In the former, it was held that the remainder vested in the heirs immediately on the death of the testator, and that the tenant for life was excluded by the express words of the will, \u201cmy surviving heirs hereinafter named;\u201d in the latter, that the testator\u2019s heirs who were living at his death, including the tenant for life, took the remainder under the limitation as an executory devise. But whether the limitation over to the testator\u2019s heirs, in the event of the death of the tenant for life, without children living, is regarded as an executory devise, or a contingent remainder, will not affect or vary the rule of construction as it respects the heirs entitled to take. The limitation to the heirs must be construed to mean those who are such at the testator\u2019s death, unless a different intent clearly appear. Whether, therefore, the remainder be regarded as contingent or vested, the heirs of the testator who were living at his death are entitled to it under the limitation.\nThe appeal is dismissed, and the decree of the Orphans\u2019 Court is affirmed at the costs of the appellant.",
+        "type": "majority",
+        "author": "Williams, J."
+      }
+    ],
+    "attorneys": [
+      "U. C. Smith and M. J. Mitcheson, for appellants.",
+      "C. E. Lex and J. A. Clay, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Buzby\u2019s Appeal. Crean\u2019s Estate.\n1. A testator devised to his son for life \u201c and from and immediately after his decease, then for the use and hehoof of all and every child and children of said (son) that shall then be living and the lawful issue of such as shall be deceased * * and for want of such child or children or lawful issue, then in trust for the use and behoof of my right heirs for ever.\u201d The son died unmarried and without issue. Held, that the son took an estate for life and that the remainder in fee to the children and issue of those deceased was contingent: Held, also, that the heirs of the testator who were living at Ms death took under the last limitation.\n2. A remainder is to be regarded as vested rather than contingent, if such construction be possible.\n3. If the prior fee be contingent, a remainder may be created to vest in the event of the first estate never taking effect, though it would not be good as a remainder, if it was to succeed instead of being collateral to the contingent fee.\n4. As a general rule of construction a gift to heirs or next of kin of a testator refers to those who are such at the time of his death, unless a different intent is plain: and if the tenant for life be such heir or next of kin he will not be excluded.\n5. When it clearly appears that the testator intended his heirs at law or next of kin at the death of the tenant for life, such intent will prevail.\n6. The word \u201c then,\u201d as introductory to the gift over after the death of the tenant for life, will not vary the rule, unless such be clearly the intention.\nFebruary 16th 1869.\nBefore Thompson, C. J., Agnew, Sharswood and Williams, JJ. Read, J., at Nisi Prius.\nAppeal from the Orphans\u2019 Court of Philadelphia: No. 15, to July Term 1868.\nThe question in this appeal was upon the construction of a clause in the will of John Crean, deceased, who died in April 1834. His will was proved on the 22d day of that month. The clause is as follows:\u2014\n\u201c Item. I give and devise unto the said Isaac Heylin and to his heirs and assigns,\u201d (certain real estate), \u201cto hold to him the said Isaac Heylin, his heirs and assigns for ever; in trust, nevertheless, to permit and suffer my said son, William Crean, to receive and take the rents, issues and profits thereof for his sole and only use, for and during all the term of his natural life, and from and immediately after his decease, then in trust for the use and behoof of all and every the child and children of the said William that shall then be living, and the lawful issue of such of them as shall then be deceased, their respective heirs and assigns for ever, in equal parts and shares; so, nevertheless, that such lawful issue take and receive such part and share only as his, her or their deceased parent would have had and taken if then living; and for want of such child or children or lawful issue, then in trust for the use and behoof of my right heirs for ever.\u201d\nThe testator left four children, John Crean, William Crean the devisee, Mary C. Lehman and Anna M. Duncan. John Crean, the son, died having devised his estate to Matilda Carpenter; Mrs. Lehman has died leaving five children; Mrs. Duncan has died leaving one child, Mary L. B. Buzby. William Crean died on the 22d of February 1860 unmarried and without issue, having devised all his estate to trustees, of whom Edwin W. Lehman and John L. Buzby survive. The real estate of John Crean the elder was sold by order of the Orphans\u2019 Court and one-fourth the proceeds of the devise to William was, by direction of the court, invested until the character of the estate of William under the devise and the persons entitled to receive the fund should be judicially determined.\nThe question was, whether the remainder, after the death of William, went to the persons who were the heirs of the testator at the time of his death, or to the persons who were the heirs of the testator at the time of the death of William. The Orphans\u2019 Court (Pierce, J.) decided that \u201c William Crean died seised as a tenant in common with the other heirs of the testator, of the real estate devised to him for life, and he having by his last will and testament devised his estate to trustees, they are entitled to receive his share of the estate so devised to or inherited by him and it is so decreed.\u201d The other heirs of John Crean the elder appealed and assigned the decree for error.\nU. C. Smith and M. J. Mitcheson, for appellants.\nWilliam took but a life estate in the first limitation after the devise in trust: Gernett v. Lynn, 7 Casey 97; Heck v. Cleppinger, 5 Barr 385; Abbott v. Jenkins, 10 S. & R. 296; Stump v. Findlay, 2 Rawle 168; Hoge v. Hoge, 1 S. & R. 144; Dunwoodie v. Reed, 3 Id. 438. The devise on William\u2019s death was of a contingent fee in remainder to his children who should then be living: Fearne on Con. Rem., \u00a7 4, p. 5; Willis v. Plaskett, 4 Beav. 208. \u201c Right heirs\u201d take under a will by purchase: Redfield on Wills 393, and cases cited; Sears v. Russell, 8 Gray 86; 6 Cruise Dig., tit. 38, ch. 8, \u00a7\u00a7 9, 10; Reading v. Royston, 1 Salk. 242; s. c. 2 Ld. Raym. 829; Comyn\u2019s R. 123; Cholmondeley v. Clinton, 2 Jac. & Walk. 70; Doe v. Frost, 3 B. & Ald. 546; Richardson v. Wheatland, 7 Met. 169; Olney v. Hull, 21 Pick. 214. The right heirs took a contingent remainder in fee which could not vest until William\u2019s death without issue: Waddell v. Rattew, 5 Rawle 231; Fearne on Rem. 225; Gilman v. Elvey, 4 East 313; Loddington v. Kime, 1 Salk. 224. These remainders depended on a single contingency with a double aspect, which could not become vested till after the death of the tenant for life, only one of which can ever become vested. The whole legal estate was vested in Heylin in trust to support contingent remainders, &c.: Hill on Trustees 234, 318; Barker v. Greenwood, 4 M. & W. 421; Webster v. Cooper, 14 Howard 488; Toman v. Dunlop, 6 Harris 72. William took only an equitable life estate: Fearne 321. The word \u201c then\u201d refers to the death of William, and shows that only the heirs of testator who survived William were to take: Tippin v. Coson, 4 Mod. 380; Long v. Blackall, 3 Ves. 486; Powell on Devises 286; Holloway v. Holloway, 5 Vesey 402; Redfield on Wills 393; Jones v. Colbeck, 8 Ves. 38; 2 Wms. on Ex. 816, 817, 818; Bird v. Wood, 2 Simons & Stu. 400; Briden v. Hewlett, 2 Myl. & K. 90; Purcell v. Purcell, 2 Drury & Warren 219; Else v. Osborn, 1 P. Wms. 387.\nC. E. Lex and J. A. Clay, for appellees.\nWhere a gift is to a testator\u2019s next of kin it vests in those who are such at his death: 1 Powell on Devises 284, note; 2 Jarmyn on Wills 52; Hawkins 100; Minnig v. Batdorff, 5 Barr 503; Chew\u2019s Appeal, 1 Wright 23; Ross v. Drake, Id. 373; Wood\u2019s Appeal, 6 Harris 478; Riehle\u2019s Appeal, 4 P. F. Smith 97; Boraston\u2019s Case, 3 Rep. 19; 2 Powell on Devises 215; Ware v. Rowland, 2 Phillips\u2019 Rep. 635; Bullock v. Douns, 1 House of Ld. Cases 1; Seifforth v. Badham, 9 Beav. 374; Wharton v. Barker, 4 Kay & Johnson 483; Holloway v. Holloway, 5 Ves. 399; Jacobs v. Jacobs, 16 Beav. 557; Lee v. Lee, 1 Drew. & Smales 85; Gundry v. Piringer, 1 De Gex, McN. & Gord. 502. The interest of the heirs of the testator was vested: Hopkins v. Jones, 2 Barr 69; Kelso v. Dickey, 7 W. & S. 279; Young v. Stoner, 1 Wright 105; Smither v. Willcock, 9 Vesey 233; Harrison v. Foreman, 5 Id. 207; Johnson v. Morton, 10 Barr 250."
+  },
+  "file_name": "0111-01",
+  "first_page_order": 111,
+  "last_page_order": 118
+}

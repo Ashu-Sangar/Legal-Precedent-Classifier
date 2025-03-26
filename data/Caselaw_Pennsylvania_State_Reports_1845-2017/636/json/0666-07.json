@@ -1,0 +1,63 @@
+{
+  "id": 12283839,
+  "name": "Z.M., In re",
+  "name_abbreviation": "In re Z.M.",
+  "decision_date": "2016-08-02",
+  "docket_number": "192 EAL (2016)",
+  "first_page": "666",
+  "last_page": "666",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 666"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 45,
+    "ocr_confidence": 0.827,
+    "sha256": "247e1cf5ffed669df664681464da5ed29d5a79dd4e2b0f4b5fa7f72107995b50",
+    "simhash": "1:fa8104ea1f1a27a7",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T15:51:24.577639+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Z.M., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Z.M., In re\n08/02/2016\n192 EAL (2016)"
+  },
+  "file_name": "0666-07",
+  "first_page_order": 718,
+  "last_page_order": 718
+}

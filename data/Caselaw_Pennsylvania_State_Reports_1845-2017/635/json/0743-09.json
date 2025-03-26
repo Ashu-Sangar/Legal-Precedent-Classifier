@@ -1,0 +1,70 @@
+{
+  "id": 12283573,
+  "name": "Com. v. Wingfield",
+  "name_abbreviation": "Com. v. Wingfield",
+  "decision_date": "2016-03-08",
+  "docket_number": "594 EAL (2015)",
+  "first_page": "743",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 743"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 159,
+    "ocr_confidence": 0.768,
+    "sha256": "60bc864f2a3e83cb8a49548f6227ec3fde9e09cda557c3f52cd734c9afcb1026",
+    "simhash": "1:af7afac0bb8e3384",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Wingfield"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 79",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Wingfield\n03/08/2016\n594 EAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0743-09",
+  "first_page_order": 803,
+  "last_page_order": 803
+}

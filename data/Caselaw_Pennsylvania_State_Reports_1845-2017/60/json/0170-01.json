@@ -1,0 +1,147 @@
+{
+  "id": 1014511,
+  "name": "Huntzinger et al. versus Jones",
+  "name_abbreviation": "Huntzinger v. Jones",
+  "decision_date": "1869-01-14",
+  "docket_number": "No. 200",
+  "first_page": "170",
+  "last_page": "172",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "60 Pa. 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Phila. Rep. 111",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Watts 162",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wright 121",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Whart. 340",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1830605
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/2/0340-01"
+      ]
+    },
+    {
+      "cite": "4 Rawle 291",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1823554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/4/0291-01"
+      ]
+    },
+    {
+      "cite": "2 Dall. 246",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11744524
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/2/0246-01"
+      ]
+    },
+    {
+      "cite": "1 Yeates 200",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6773120
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0198-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 185",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829029
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 454,
+    "char_count": 7123,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 1.2363455599827196e-07,
+      "percentile": 0.606788465273458
+    },
+    "sha256": "8250269b50775ad5c0a62e4593aac63c055cfb7da7200f4d46f3f0b078fa0e2f",
+    "simhash": "1:728f01bb693dd3ef",
+    "word_count": 1293
+  },
+  "last_updated": "2024-02-27T16:37:51.913678+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Thompson, C. J., Read; Agnew and Sharswood, JJ. Williams, J., at Nisi Prius."
+    ],
+    "parties": [
+      "Huntzinger et al. versus Jones."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nAgnew, J.\n\u2014 The question here relates to the competency of the evidence, not its final effect. Primfi facie Jones\u2019s check to the order of Huntzinger & Co. was evidence of the payment of a debt to them. But he could disprove this by showing that it was drawn for a different purpose. How could he begin his proof except by showing how he was induced to draw it, and the purpose for which he delivered it ? The check was obtained from him by Charles Huntzinger, who asked him for it for the use of George W. Huntzinger & Co.; to he returned in a few days. Clearly he had a right to prove this fact to rebut the presumption of his own indebtedness to George W. Huntzinger & Co. And how could he prove this better than by the testimony of an ear and eye witness who heard the request, and saw the check drawn and delivered to a messenger to be carried to Huntzinger & Co. ? The fact that Charles Huntzinger was not the agent of George W. Huntzinger & Co. cannot deprive Jones of this evidence to disprove his own indebtedness on the check. If other proof would show that, though the cheek was drawn and delivered for the purpose thus proved, George W. Huntzinger & Co. were not bound by the representations of Charles Huntzinger, and were entitled to retain the check for the payment of the debt of a third party, this belonged to a subsequent stage of the cause, and was the subject of a prayer for instruction to the jury. But there is np bill of exception to the charge, and all we can do is to decide upon the competency of the evidence when it was offered. It was an important step in the proof, for the plaintiff could only begin by removing the legal presumption that he had given his check in payment of his own debt. If George W. Huntzinger & Co. were entitled under the circumstances to retain the check, they ought to have asked for the proper instruction to the jury, and to have taken an exception if the answer was unfavorable.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Agnew, J."
+      }
+    ],
+    "attorneys": [
+      "G. M. Dallas, for plaintiffs in error.",
+      "S. DieJcson, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Huntzinger et al. versus Jones.\n1. In an action by J. against H. for money lent; the evidence was that J. gave to O. his check drawn to the order of H., which was delivered to II., who credited it on an account due to him by C.\u2019s wife. Evidence that at the time J. drew the check and delivered it to 0., C. said that it was a loan for II. at his request, was admissible as tending to prove that J. did not owe IT.\n2. The check of J. to II. was prim\u00e1 facie in payment of a debt due to II.\nJanuary 7th 1869.\nBefore Thompson, C. J., Read; Agnew and Sharswood, JJ. Williams, J., at Nisi Prius.\nError to the District Court of Philadelphia: No. 200, to July Term 1868.\nIn the court below this was an action brought to March Term 1867 by Alfred Jones against George W. Huntzinger and Henry L. Cake, trading as George W. Huntzinger & Co.\nThe plaintiff filed an affidavit of loan, averring that on the 11th of September 1866 he lent the defendants $1000, to be repaid the next morning, but that the same had not been repaid; that the loan was made through Charles Huntzinger, who was acting for the defendant, and told the plaintiff that George W. Huntzinger & Co. had a draft to meet, and if plaintiff would lend his check till next day it would be returned in the morning; that plaintiff never had any other business transactions with the defendants, and never was indebted to them in any way. The check was as follows:\u2014\n\u201c Philadelphia, Sept. 11th 1866.\n\u201cPay to G. W. Huntzinger & Co. or order one thousand dollars.\n\u201c $1000. Alfred Jones.\n\u201c Endorsed G. W. Huntzinger & Co.\n\u201cBy George C. Mitchell, Attorney.\u201d\nIn their affidavit of defence the defendants denied that the plaintiff had ever lent them the $1000; that they never authorized Charles Huntzinger or any one else to borrow the $1000 for them; that they never received a check or sum of money from Charles Huntzinger as a loan from the plaintiff; that the check referred to in the plaintiff\u2019s affidavit was received by the defendants in the regular course of business to be placed to the credit of Amanda M. Huntzinger, wife of Charles Huntzinger, who owed Geo. W. Huntzinger & Co. on an open account, and that, as they believed, she was a partner with the plaintiff; that the check had been credited to her, and without such credit she would have been indebted to plaintiffs in its full amount.\nOn the trial before Stroud, J., the plaintiff offered in evidence the deposition of Isaac E. Graeff, which was objected to, admitted by the court, and a bill of exceptions sealed for the defendants. The witness testified, amongst other things, that Charles Hunt-zinger or his wife and the plaintiff were in business together in 1866, in Market street, Philadelphia, as Huntzinger & Co. In September 1866 Charles asked the plaintiff in the presence of witness for his check for $1000 for the use of the defendants, saying that they had unexpectedly received a draft from New York, and wished plaintiff\u2019s check to meet it; that defendants would return the check in a day or two. Plaintiff drew a check for $1000 in favor of defendants, and gave it to Charles, who gave it to one of his sons, and told him to take it to the defendants; witness testified he was familiar with plaintiff\u2019s business, and that he was not indebted to Charles Huntzinger: nor did witness know of any indebtedness of Huntzinger & Co. or Charles Huntzinger to Gr. W. Huntzinger & Co. None of the firm of defendants were present at these conversations. Charles did not produce or refer to any written authority from the defendants to speak or act for them.\nThe defendants gave evidence in answer to the plaintiff\u2019s case. The verdict was for the plaintiff for $1095.\nThe defendants took out a writ of error. Their only assignment of error was the admission of the testimony of Graeff, given above.\nG. M. Dallas, for plaintiffs in error.\n\u2014 There was no evidence of C. Huntzinger\u2019s agency: Jordan v. Stewart, 11 Harris 244; Moore v. Patterson, 4 Casey 505; Richards v. Murphy, 1 Whart. 185; Railroad Co. v. Cowell, 4 Casey 329. The agency must first be proved: Meredith v. Macoss, 1 Yeates 200; Plumstead v. Rudebagh, Id. 502; Nicholson v. Mifflin, 2 Dall. 246; Shelhamer v. Thomas, 7 S. & R. 106; Hough v. Doyle, 4 Rawle 291; Clark v. Baker, 2 Whart. 340; Chambers v. Davis, 3 Id. 40; Patton v. Minesinger, 1 Casey 393; Hunter v. Reilly, 12 Id. 509; Woodwell v. Brown, 8 Wright 121; Featherman v. Miller, 9 Id. 96; Duval v. Darby, 2 Id. 56. The presumption is, that the check was to pay a debt due by Jones: 1 Greenlf. on Ev., \u00a7. 38, and cases cited; 2 Pars, on Bills and Notes 79, 84; Patton v. Craig, 7 S. & R. 116; Flemming v. McClain, 1 Harris 177; Lancaster Bank v. Woodward, 6 Harris 361. Plaintiff took no precaution against the fraud: McClelland v. Myers, 7 Watts 162; Fisher v. Knox, 1 Harris 625; Mott v. Clark, 9 Barr 405. The check is to be regarded as money, and cannot be followed into the hands of one who has received it in good faith: Fleming v. Denny, 2 Phila. Rep. 111.\nS. DieJcson, for defendant in error,\ncited Story on Prom. Notes, \u00a7\u00a7 181, 183; 2 Pars, on Bills 284.\nJanuary 14th 1869,"
+  },
+  "file_name": "0170-01",
+  "first_page_order": 170,
+  "last_page_order": 172
+}

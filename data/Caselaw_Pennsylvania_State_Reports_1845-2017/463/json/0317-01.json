@@ -1,0 +1,3528 @@
+{
+  "id": 1708119,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Carol MOORE, Appellant",
+  "name_abbreviation": "Commonwealth v. Moore",
+  "decision_date": "1975-10-03",
+  "docket_number": "No. 4",
+  "first_page": "317",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "463 Pa. 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "344 A.2d 850"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "339 U.S. 990",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362849,
+        362338,
+        362470,
+        362834,
+        362137,
+        362614,
+        362774,
+        362233
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0990-06",
+        "/us/339/0990-04",
+        "/us/339/0990-07",
+        "/us/339/0990-05",
+        "/us/339/0990-03",
+        "/us/339/0990-01",
+        "/us/339/0990-08",
+        "/us/339/0990-02"
+      ]
+    },
+    {
+      "cite": "279 A.2d 750",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "443 Pa. 220",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1937024
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/443/0220-01"
+      ]
+    },
+    {
+      "cite": "247 A.2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "432 Pa. 319",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1919690
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/432/0319-01"
+      ]
+    },
+    {
+      "cite": "32 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 Pa. 551",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1217365
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/347/0551-01"
+      ]
+    },
+    {
+      "cite": "81 A.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 Pa. 28",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230378
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "31-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/368/0028-01"
+      ]
+    },
+    {
+      "cite": "97 A.2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "374 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1241417
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/374/0570-01"
+      ]
+    },
+    {
+      "cite": "244 A.2d 683",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "431 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917392
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/431/0044-01"
+      ]
+    },
+    {
+      "cite": "19 A.2d 920",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1206992
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "288-289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/342/0282-01"
+      ]
+    },
+    {
+      "cite": "253 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1920966
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/433/0558-01"
+      ]
+    },
+    {
+      "cite": "308 A.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 Pa. 569",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574115
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/452/0569-01"
+      ]
+    },
+    {
+      "cite": "138 A. 686",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "290 Pa. 195",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1104465
+      ],
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/290/0195-01"
+      ]
+    },
+    {
+      "cite": "290 A.2d 114",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "447 Pa. 322",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1942976
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/447/0322-01"
+      ]
+    },
+    {
+      "cite": "460 Pa. 357",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482734
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/460/0357-01"
+      ]
+    },
+    {
+      "cite": "200 A. 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 Pa. 145",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184276
+      ],
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/331/0145-01"
+      ]
+    },
+    {
+      "cite": "305 A.2d 354",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 Pa. 316",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        575106
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/452/0316-01"
+      ]
+    },
+    {
+      "cite": "170 A. 2d 112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "403 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1299459
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/403/0553-01"
+      ]
+    },
+    {
+      "cite": "94 L.Ed. 1390",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 S.Ct. 1015",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 A.2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "364 Pa. 442",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1223580
+      ],
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/364/0442-01"
+      ]
+    },
+    {
+      "cite": "151 A.2d 480",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "396 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1284925
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/396/0129-01"
+      ]
+    },
+    {
+      "cite": "206 A.2d 295",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "416 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1893067
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/416/0437-01"
+      ]
+    },
+    {
+      "cite": "414 U.S. 836",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731969,
+        11731271,
+        11731559,
+        11731431,
+        11731594,
+        11732012,
+        11731471,
+        11731513,
+        11731795,
+        11731894,
+        11732087,
+        11731353,
+        11731706
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "affirmance by equally divided court"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/414/0836-11",
+        "/us/414/0836-01",
+        "/us/414/0836-06",
+        "/us/414/0836-03",
+        "/us/414/0836-07",
+        "/us/414/0836-12",
+        "/us/414/0836-04",
+        "/us/414/0836-05",
+        "/us/414/0836-09",
+        "/us/414/0836-10",
+        "/us/414/0836-13",
+        "/us/414/0836-02",
+        "/us/414/0836-08"
+      ]
+    },
+    {
+      "cite": "417 U. S. 969",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519462,
+        1519431,
+        1519967,
+        1519756,
+        1519983,
+        1519732,
+        1519508,
+        1519415,
+        1519420,
+        1519519
+      ],
+      "year": 1974,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/417/0969-06",
+        "/us/417/0969-07",
+        "/us/417/0969-02",
+        "/us/417/0969-08",
+        "/us/417/0969-01",
+        "/us/417/0969-09",
+        "/us/417/0969-05",
+        "/us/417/0969-03",
+        "/us/417/0969-04",
+        "/us/417/0969-10"
+      ]
+    },
+    {
+      "cite": "364 U.S. 886",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6312193,
+        6312739,
+        6311495,
+        6312967,
+        6311722,
+        6311948,
+        6312463,
+        6313231
+      ],
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/364/0886-04",
+        "/us/364/0886-06",
+        "/us/364/0886-01",
+        "/us/364/0886-07",
+        "/us/364/0886-02",
+        "/us/364/0886-03",
+        "/us/364/0886-05",
+        "/us/364/0886-08"
+      ]
+    },
+    {
+      "cite": "308 A.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "604"
+        },
+        {
+          "page": "604",
+          "parenthetical": "implying that involuntary manslaughter is a permissible verdict on a murder indictment if rational"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "452 Pa. 569",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574115
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "578-79"
+        },
+        {
+          "page": "578",
+          "parenthetical": "implying that involuntary manslaughter is a permissible verdict on a murder indictment if rational"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/452/0569-01"
+      ]
+    },
+    {
+      "cite": "281 A.2d 859",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "860"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "444 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1938634
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "326"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/444/0323-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. 396",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        422264
+      ],
+      "year": 1864,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/48/0396-01"
+      ]
+    },
+    {
+      "cite": "59 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426929
+      ],
+      "year": 1869,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/59/0371-01"
+      ]
+    },
+    {
+      "cite": "61 A. 922",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1905,
+      "opinion_index": 1
+    },
+    {
+      "cite": "212 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941864
+      ],
+      "year": 1905,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/212/0297-01"
+      ]
+    },
+    {
+      "cite": "112 A. 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1920,
+      "opinion_index": 1
+    },
+    {
+      "cite": "269 Pa. 39",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063567
+      ],
+      "year": 1920,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/269/0039-01"
+      ]
+    },
+    {
+      "cite": "76 A.2d 608",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "366 Pa. 182",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845284
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "189-92"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/366/0182-01"
+      ]
+    },
+    {
+      "cite": "80 A.2d 708",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "711",
+          "parenthetical": "alternate holding"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "367 Pa. 403",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1228342
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "407-09",
+          "parenthetical": "alternate holding"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/367/0403-01"
+      ]
+    },
+    {
+      "cite": "202 A.2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "75-76",
+          "parenthetical": "alternate holding"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "415 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1891849
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "44-46",
+          "parenthetical": "alternate holding"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/415/0041-01"
+      ]
+    },
+    {
+      "cite": "224 A.2d 625",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "629-30",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "423 Pa. 432",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1903192
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "441",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/423/0432-01"
+      ]
+    },
+    {
+      "cite": "259 A.2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "162-63",
+          "parenthetical": "opinion announcing the judgment"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "436 Pa. 114",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1926051
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "119-20",
+          "parenthetical": "opinion announcing the judgment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/436/0114-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 154",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "445 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1940044
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/445/0515-01"
+      ]
+    },
+    {
+      "cite": "304 A.2d 163",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "451 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948562
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "449-50"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/451/0440-01"
+      ]
+    },
+    {
+      "cite": "460 Pa. 630",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482927
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "636-637",
+          "parenthetical": "adopting a section of the ABA Standards for Criminal Justice"
+        },
+        {
+          "page": "271-72",
+          "parenthetical": "adopting a section of the ABA Standards for Criminal Justice"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/460/0630-01"
+      ]
+    },
+    {
+      "cite": "327 A.2d 94",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 1
+    },
+    {
+      "cite": "457 Pa. 602",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        478202
+      ],
+      "year": 1974,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/457/0602-01"
+      ]
+    },
+    {
+      "cite": "41 L.Ed.2d 1114",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1974,
+      "opinion_index": 1
+    },
+    {
+      "cite": "94 S.Ct. 3172",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1974,
+      "opinion_index": 1
+    },
+    {
+      "cite": "314 A.2d 854",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 1
+    },
+    {
+      "cite": "455 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        581996
+      ],
+      "year": 1974,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/455/0622-01"
+      ]
+    },
+    {
+      "cite": "38 L.Ed.2d 44",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "94 S.Ct. 73",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "414 U.S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11718633,
+        11718675,
+        11718549,
+        11718598
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/414/0808-03",
+        "/us/414/0808-04",
+        "/us/414/0808-01",
+        "/us/414/0808-02"
+      ]
+    },
+    {
+      "cite": "304 A.2d 432",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "452 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        575302
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/452/0233-01"
+      ]
+    },
+    {
+      "cite": "21 A.2d 920",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "922",
+          "parenthetical": "quoting a legal encyclopedia, apparently with approval"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "343 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1208390
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "106",
+          "parenthetical": "quoting a legal encyclopedia, apparently with approval"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/343/0102-01"
+      ]
+    },
+    {
+      "cite": "335 A.2d 436",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "232 Pa.Super. 176",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6771376
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "180-182"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/232/0176-01"
+      ]
+    },
+    {
+      "cite": "1 L.Ed. 316",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Yeates 6",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6770988
+      ],
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/yeates/1/0005-01"
+      ]
+    },
+    {
+      "cite": "17 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967628
+      ],
+      "year": 1851,
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/17/0126-01"
+      ]
+    },
+    {
+      "cite": "23 A. 323",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1892,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "146 Pa. 343",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        827927
+      ],
+      "year": 1892,
+      "pin_cites": [
+        {
+          "page": "344",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/146/0343-01"
+      ]
+    },
+    {
+      "cite": "5 L.Ed.2d 107",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 1
+    },
+    {
+      "cite": "81 S.Ct. 177",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 1
+    },
+    {
+      "cite": "159 A.2d 687",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "398 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1289100
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/398/0546-01"
+      ]
+    },
+    {
+      "cite": "170 A.2d 112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 1
+    },
+    {
+      "cite": "295 A.2d 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "88",
+          "parenthetical": "dictum"
+        },
+        {
+          "page": "88"
+        },
+        {
+          "page": "88",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "222 Pa.Super. 329",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        801701
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "331",
+          "parenthetical": "dictum"
+        },
+        {
+          "page": "330"
+        },
+        {
+          "page": "331",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/222/0329-01"
+      ]
+    },
+    {
+      "cite": "6 A. 267",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1886,
+      "pin_cites": [
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "114 Pa. 372",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        550028
+      ],
+      "weight": 2,
+      "year": 1886,
+      "pin_cites": [
+        {
+          "page": "380-81"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/114/0372-01"
+      ]
+    },
+    {
+      "cite": "79 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        438437
+      ],
+      "weight": 4,
+      "year": 1875,
+      "pin_cites": [
+        {
+          "page": "505"
+        },
+        {
+          "page": "509"
+        },
+        {
+          "page": "506",
+          "parenthetical": "\"The general rule is well settled that upon an indictment charging a particular crime, the defendant may be convicted of a lesser offense included within it.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/79/0503-01"
+      ]
+    },
+    {
+      "cite": "44 Pa. 135",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        484308
+      ],
+      "year": 1863,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/44/0135-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 557",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483886
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "565-566",
+          "parenthetical": "opinion of Roberts, J., expressing the view of four Justices"
+        },
+        {
+          "page": "549",
+          "parenthetical": "opinion of Roberts, J., expressing the view of four Justices"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/461/0557-01"
+      ]
+    },
+    {
+      "cite": "334 A.2d 255",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        482923,
+        482829
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "257"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/460/0604-01",
+        "/pa/460/0605-01"
+      ]
+    },
+    {
+      "cite": "460 Pa. 605",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        482829
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "608"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/460/0605-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171860
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "208"
+        },
+        {
+          "page": "1995"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/412/0205-01"
+      ]
+    },
+    {
+      "cite": "32 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "347 Pa. 551",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1217365
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/347/0551-01"
+      ]
+    },
+    {
+      "cite": "97 A.2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "346-47",
+          "parenthetical": "whether assault and battery is a permissible verdict upon a murder indictment"
+        },
+        {
+          "page": "348"
+        },
+        {
+          "page": "344",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "374 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1241417
+      ],
+      "weight": 3,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "578",
+          "parenthetical": "whether assault and battery is a permissible verdict upon a murder indictment"
+        },
+        {
+          "page": "581"
+        },
+        {
+          "page": "573-74",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/374/0570-01"
+      ]
+    },
+    {
+      "cite": "244 A.2d 683",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "431 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917392
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/431/0044-01"
+      ]
+    },
+    {
+      "cite": "19 A.2d 920",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "922-24"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "342 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1206992
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "285-90"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/342/0282-01"
+      ]
+    },
+    {
+      "cite": "253 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "640-41"
+        },
+        {
+          "page": "644",
+          "parenthetical": "concurring opinion of Roberts, J."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "433 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1920966
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/433/0558-01"
+      ]
+    },
+    {
+      "cite": "138 A. 686",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "687-88"
+        },
+        {
+          "page": "688"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "290 Pa. 195",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1104465
+      ],
+      "weight": 2,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "198"
+        },
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/290/0195-01"
+      ]
+    },
+    {
+      "cite": "200 A. 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "637",
+          "parenthetical": "dictum"
+        },
+        {
+          "page": "638",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "331 Pa. 145",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184276
+      ],
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "156",
+          "parenthetical": "dictum"
+        },
+        {
+          "page": "156-57",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/331/0145-01"
+      ]
+    },
+    {
+      "cite": "305 A.2d 354",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "359",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "452 Pa. 316",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        575106
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "326",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/452/0316-01"
+      ]
+    },
+    {
+      "cite": "403 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1299459
+      ],
+      "year": 1961,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/403/0553-01"
+      ]
+    },
+    {
+      "cite": "117 A. 211",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "212",
+          "parenthetical": "alternate ground"
+        },
+        {
+          "page": "212",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "273 Pa. 474",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070794
+      ],
+      "weight": 2,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "477",
+          "parenthetical": "alternate ground"
+        },
+        {
+          "page": "477",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/273/0474-01"
+      ]
+    },
+    {
+      "cite": "120 A. 406",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "276 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1077540
+      ],
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "257-58"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/276/0255-01"
+      ]
+    },
+    {
+      "cite": "279 A.2d 73",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "77",
+          "parenthetical": "opinion announcing the judgment"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "444 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1938587
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "23",
+          "parenthetical": "opinion announcing the judgment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/444/0017-01"
+      ]
+    },
+    {
+      "cite": "299 A.2d 209",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "450 Pa. 417",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947021
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/450/0417-01"
+      ]
+    },
+    {
+      "cite": "272 A.2d 516",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "218 Pa.Super. 1",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        794674
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "5-6"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/218/0001-01"
+      ]
+    },
+    {
+      "cite": "284 A.2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "784"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "445 Pa. 359",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1940010
+      ],
+      "year": 1971,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/445/0359-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483826
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/461/0274-01"
+      ]
+    },
+    {
+      "cite": "43 L.Ed.2d 430",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1975,
+      "opinion_index": 1
+    },
+    {
+      "cite": "95 S.Ct. 1336",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1975,
+      "opinion_index": 1
+    },
+    {
+      "cite": "420 U.S. 952",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11658059,
+        11658086
+      ],
+      "year": 1975,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/420/0952-01",
+        "/us/420/0952-02"
+      ]
+    },
+    {
+      "cite": "503 F.2d 339",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        103923
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/503/0339-01"
+      ]
+    },
+    {
+      "cite": "319 A.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam; equally divided court"
+        },
+        {
+          "page": "143",
+          "parenthetical": "opinion in support of affirmance"
+        },
+        {
+          "page": "150",
+          "parenthetical": "opinion in support of reversal"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "457 Pa. 563",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477895
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam; equally divided court"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/457/0563-01"
+      ]
+    },
+    {
+      "cite": "26 A. 228",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1893,
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "153 Pa. 535",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        840271
+      ],
+      "year": 1893,
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/153/0535-01"
+      ]
+    },
+    {
+      "cite": "34 A. 305",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1896,
+      "pin_cites": [
+        {
+          "page": "305-06"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "174 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        878603
+      ],
+      "year": 1896,
+      "pin_cites": [
+        {
+          "page": "148-49"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/174/0137-01"
+      ]
+    },
+    {
+      "cite": "55 A. 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1903,
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "205 Pa. 605",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        930068
+      ],
+      "year": 1903,
+      "pin_cites": [
+        {
+          "page": "608-09"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/205/0605-01"
+      ]
+    },
+    {
+      "cite": "60 A. 1086",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1908,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "211 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        940132
+      ],
+      "year": 1908,
+      "pin_cites": [
+        {
+          "page": "548",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/211/0546-01"
+      ]
+    },
+    {
+      "cite": "196 A. 827",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "830-31, 833"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "329 Pa. 81",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1181404
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "85-87, 91"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/329/0081-01"
+      ]
+    },
+    {
+      "cite": "112 A.2d 362",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "366-367"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "381 Pa. 113",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1258829
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "121-22"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/381/0113-01"
+      ]
+    },
+    {
+      "cite": "239 A.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "384-85"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "429 Pa. 555",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1913490
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "558-59"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/429/0555-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 510",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "446 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1941784
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "74"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/446/0065-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 506",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "447 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1942960
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/447/0356-01"
+      ]
+    },
+    {
+      "cite": "297 A.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "449 Pa. 562",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1945618
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "568-69"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/449/0562-01"
+      ]
+    },
+    {
+      "cite": "38 L.Ed.2d 72",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "affirmance by equally divided court"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "94 S.Ct. 183",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "affirmance by equally divided court"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "297 A.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "449 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1945682
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/449/0468-01"
+      ]
+    },
+    {
+      "cite": "309 A.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "453 Pa. 389",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        577593
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "396-97"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/453/0389-01"
+      ]
+    },
+    {
+      "cite": "47 A. 952",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "953"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "198 Pa. 51",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        920305
+      ],
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/198/0051-01"
+      ]
+    },
+    {
+      "cite": "122 A. 166",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "278 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1080547
+      ],
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "61-62"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/278/0059-01"
+      ]
+    },
+    {
+      "cite": "128 A. 668",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "283 Pa. 84",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090527
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/283/0084-01"
+      ]
+    },
+    {
+      "cite": "66 A.2d 825",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "362 Pa. 427",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477372
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/362/0427-01"
+      ]
+    },
+    {
+      "cite": "152 A.2d 913",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "396 Pa. 359",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1284861
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/396/0359-01"
+      ]
+    },
+    {
+      "cite": "157 A.2d 65",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 1
+    },
+    {
+      "cite": "398 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1289167
+      ],
+      "year": 1959,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/398/0198-01"
+      ]
+    },
+    {
+      "cite": "191 A.2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "411 Pa. 195",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1886019
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "202"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/411/0195-01"
+      ]
+    },
+    {
+      "cite": "216 A.2d 337",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "420 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1898543
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "211-213"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/420/0209-01"
+      ]
+    },
+    {
+      "cite": "220 A.2d 807",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "421 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1900334
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "576-577"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/421/0571-01"
+      ]
+    },
+    {
+      "cite": "244 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "431 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917385
+      ],
+      "year": 1968,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/431/0153-01"
+      ]
+    },
+    {
+      "cite": "252 A.2d 671",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "672-73"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "433 Pa. 525",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921120
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "528-529"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/433/0525-01"
+      ]
+    },
+    {
+      "cite": "264 A.2d 402",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "404",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "437 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1927819
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "535",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/437/0532-01"
+      ]
+    },
+    {
+      "cite": "266 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "opinion_index": 1
+    },
+    {
+      "cite": "439 Pa. 348",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1930989
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "356-357"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/439/0348-01"
+      ]
+    },
+    {
+      "cite": "417 U. S. 969",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519462,
+        1519431,
+        1519967,
+        1519756,
+        1519983,
+        1519732,
+        1519508,
+        1519415,
+        1519420,
+        1519519
+      ],
+      "year": 1974,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/417/0969-06",
+        "/us/417/0969-07",
+        "/us/417/0969-02",
+        "/us/417/0969-08",
+        "/us/417/0969-01",
+        "/us/417/0969-09",
+        "/us/417/0969-05",
+        "/us/417/0969-03",
+        "/us/417/0969-04",
+        "/us/417/0969-10"
+      ]
+    },
+    {
+      "cite": "94 S.Ct. 3172",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1974,
+      "opinion_index": 2
+    },
+    {
+      "cite": "314 A.2d 854",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 2
+    },
+    {
+      "cite": "455 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        581996
+      ],
+      "year": 1974,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/455/0622-01"
+      ]
+    },
+    {
+      "cite": "38 L.Ed.2d 44",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "94 S.Ct. 73",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "414 U.S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11718633,
+        11718675,
+        11718549,
+        11718598
+      ],
+      "year": 1973,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/414/0808-03",
+        "/us/414/0808-04",
+        "/us/414/0808-01",
+        "/us/414/0808-02"
+      ]
+    },
+    {
+      "cite": "304 A.2d 432",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "452 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        575302
+      ],
+      "year": 1973,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/452/0233-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171860
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "208"
+        },
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/412/0205-01"
+      ]
+    },
+    {
+      "cite": "41 L.Ed.2d 1140",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1974,
+      "opinion_index": 2
+    },
+    {
+      "cite": "100 L.Ed. 1013",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1956,
+      "opinion_index": 2
+    },
+    {
+      "cite": "351 U.S. 131",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1104925
+      ],
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/351/0131-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 343",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1525098
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "349-50"
+        },
+        {
+          "page": "1009"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/380/0343-01"
+      ]
+    },
+    {
+      "cite": "9 S.Ct. 672",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        5698507,
+        5698295
+      ],
+      "year": 1889,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/131/0021-01",
+        "/us/131/0176-01"
+      ]
+    },
+    {
+      "cite": "131 U.S. 176",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5698295
+      ],
+      "weight": 2,
+      "year": 1889,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/131/0176-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054849
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/397/0436-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054506
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/397/0387-01"
+      ]
+    },
+    {
+      "cite": "21 A.L.R. 603",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1922,
+      "opinion_index": 2
+    },
+    {
+      "cite": "27 A.L.R. 1097",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1923,
+      "opinion_index": 2
+    },
+    {
+      "cite": "102 A.L.R. 1019",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1936,
+      "opinion_index": 2
+    },
+    {
+      "cite": "194 S.E.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "213 Va. 605",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2118254
+      ],
+      "year": 1973,
+      "opinion_index": 2,
+      "case_paths": [
+        "/va/213/0605-01"
+      ]
+    },
+    {
+      "cite": "107 Cal.Rptr. 859",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "32 Cal.App.3d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4448749
+      ],
+      "year": 1973,
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-app-3d/32/0001-01"
+      ]
+    },
+    {
+      "cite": "305 N.E.2d 375",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1973,
+      "opinion_index": 2
+    },
+    {
+      "cite": "15 Ill.App.3d 760",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2460364
+      ],
+      "year": 1973,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ill-app-3d/15/0760-01"
+      ]
+    },
+    {
+      "cite": "11 A.L.R.Fed. 173",
+      "category": "reporters:federal",
+      "reporter": "A.L.R. Fed.",
+      "year": 1972,
+      "opinion_index": 2
+    },
+    {
+      "cite": "421 F.2d 1149",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2156104
+      ],
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/421/1149-01"
+      ]
+    },
+    {
+      "cite": "137 U.S.App.D.C. 214",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1970,
+      "opinion_index": 2
+    },
+    {
+      "cite": "503 F.2d 339",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        103923
+      ],
+      "year": 1974,
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/503/0339-01"
+      ]
+    },
+    {
+      "cite": "319 A.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 2
+    },
+    {
+      "cite": "457 Pa. 563",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477895
+      ],
+      "year": 1974,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/457/0563-01"
+      ]
+    },
+    {
+      "cite": "170 A.2d 112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 4
+    },
+    {
+      "cite": "32 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1943,
+      "opinion_index": 4
+    },
+    {
+      "cite": "347 Pa. 551",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1217365
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/347/0551-01"
+      ]
+    },
+    {
+      "cite": "81 A.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "opinion_index": 4
+    },
+    {
+      "cite": "368 Pa. 28",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230378
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "31-32"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/368/0028-01"
+      ]
+    },
+    {
+      "cite": "97 A.2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "346"
+        },
+        {
+          "page": "345"
+        }
+      ],
+      "opinion_index": 4
+    },
+    {
+      "cite": "374 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1241417
+      ],
+      "weight": 3,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "578-79"
+        },
+        {
+          "page": "575"
+        },
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/374/0570-01"
+      ]
+    },
+    {
+      "cite": "244 A.2d 683",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 4
+    },
+    {
+      "cite": "138 A. 686",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1927,
+      "opinion_index": 4
+    },
+    {
+      "cite": "290 Pa. 195",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1104465
+      ],
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/290/0195-01"
+      ]
+    },
+    {
+      "cite": "403 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1299459
+      ],
+      "weight": 2,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/403/0553-01"
+      ]
+    },
+    {
+      "cite": "94 L.Ed. 1390",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 4
+    },
+    {
+      "cite": "70 S.Ct. 1015",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1950,
+      "opinion_index": 4
+    },
+    {
+      "cite": "71 A.2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1950,
+      "opinion_index": 4
+    },
+    {
+      "cite": "364 Pa. 442",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1223580
+      ],
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/364/0442-01"
+      ]
+    },
+    {
+      "cite": "151 A.2d 480",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 4
+    },
+    {
+      "cite": "396 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1284925
+      ],
+      "year": 1959,
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/396/0129-01"
+      ]
+    },
+    {
+      "cite": "206 A.2d 295",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1965,
+      "opinion_index": 4
+    },
+    {
+      "cite": "416 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1893067
+      ],
+      "year": 1965,
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/416/0437-01"
+      ]
+    },
+    {
+      "cite": "481 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1747345
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/481/0044-01"
+      ]
+    },
+    {
+      "cite": "162 A.2d 421",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "opinion_index": 4
+    },
+    {
+      "cite": "192 Pa.Super. 513",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        748911
+      ],
+      "year": 1960,
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa-super/192/0513-01"
+      ]
+    },
+    {
+      "cite": "399 U.S. 990",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1950,
+      "opinion_index": 4
+    },
+    {
+      "cite": "106 A.2d 820",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "opinion_index": 4
+    },
+    {
+      "cite": "378 Pa. 412",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1250885
+      ],
+      "year": 1954,
+      "opinion_index": 4,
+      "case_paths": [
+        "/pa/378/0412-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1872,
+    "char_count": 52587,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 6.412180383265657e-07,
+      "percentile": 0.9595710020159477
+    },
+    "sha256": "29663ce1568444c2e3c0a3d65b23377efc78a4b89f3bc589c53bf26f8b1624ef",
+    "simhash": "1:9140b342770bb4a7",
+    "word_count": 8660
+  },
+  "last_updated": "2024-02-27T16:13:26.253989+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ.",
+      "ROBERTS, POMEROY and MANDERINO, JJ., filed concurring opinions.",
+      "NIX, J., filed a dissenting opinion.",
+      "JONES, C. J., took no part in the consideration or decision of this case."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Carol MOORE, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nEAGEN, Justice.\nThe appellant, Carol Moore, was indicted by the grand jury of Allegheny County on charges of murder and voluntary manslaughter in connection with the death of her husband, James Moore. She was also indicted on the charge of involuntary manslaughter. Although defense counsel sought consolidation of the indictments, the case proceeded to trial upon only the murder and voluntary manslaughter charges.\nAfter a jury trial the appellant was convicted of voluntary manslaughter and sentenced to serve a maximum of three years imprisonment. Post trial motions were timely filed and denied. This direct appeal from the judgment of sentence then followed. \u2018\nThe appellant contends the trial court committed reversible error in refusing, after timely motion, to consolidate for trial the two indictments arising out of the same criminal conduct, one indictment being for murder and voluntary manslaughter, the other for involuntary manslaughter. She asserts the failure to consolidate the indictments and the concomitant refusal to charge the jury on involuntary manslaughter prevented the jury from understanding the full significance of the law of homicide in Pennsylvania and led to a compromise verdict of voluntary manslaughter.\nIt is well-established that the propriety of consolidating separate indictments for trial is ultimately within the sound discretion of the trial court and the exercise of this discretion will be reversed only where it clearly appears that the rights of the defendant were thereby prejudiced. Commonwealth v. Patrick, 416 Pa. 437, 445, 206 A.2d 295 (1965); Commonwealth ex rel. Bolish v. Banmiller, 396 Pa. 129, 132, 151 A.2d 480 (1959); Commonwealth ex rel. Spencer v. Ashe, 364 Pa. 442, 446, 71 A.2d 799 (1950), cert. denied, 339 U.S. 990, 70 S.Ct. 1015, 94 L.Ed. 1390 (1950). While cognizant of the discretion vested in the trial court, we believe that failure to proceed on an involuntary manslaughter indictment, when consolidation is requested, is prejudicial error where the evidence presented would support such a verdict. Commonwealth v. Thomas, 403 Pa. 553, 170 A. 2d 112 (1961). See also Commonwealth v. Robinson, 452 Pa. 316, 305 A.2d 354 (1973); Commonwealth v. Flax, 331 Pa. 145, 200 A. 632 (1938). This is such a case.\nThe facts of this case indicate that on the day of the shooting, the deceased returned home from a motorcycle club meeting apparently in a hostile mood. While the appellant prepared dinner for her husband, he began cursing and yelling at her. Deciding that she had had enough of this treatment, the appellant went upstairs to their bedroom and prepared to leave her husband. She grabbed her pocketbook, placed some savings into it, and returned downstairs. When the appellant told her husband she was leaving him, he indicated that he would prevent her from going. The appellant then went back upstairs, placed her husband\u2019s loaded gun into her pocketbook, and proceeded downstairs. The deceased was later found on the floor of the living room with a fatal gunshot wound of the chest.\nAppellant\u2019s contention is that the killing of her husband was accidental and involuntary, resulting from a struggle over the gun in her pocketbook. This struggle allegedly occurred when her husband, seeking to prevent her from leaving with their savings, thrust his hand into her pocketbook and felt the gun. Since her hand was already in her pocketbook, feeling for her keys, it is contended their hands came together on the gun, precipitating a fight for control of it. Appellant claims that during this struggle the gun came out of her pocketbook and discharged, fatally wounding the deceased.\nAlthough the Commonwealth, to refute the appellant\u2019s story, did present evidence indicating that no struggle took place, we need only examine the appellant\u2019s version in passing upon the propriety of consolidation, For it is within the jury\u2019s province to resolve conflicts in evidence, find where the truth lies and to determine the facts. Cf. Commonwealth v. Lowe, 460 Pa. 357, 333 A.2d 765 (1975); Commonwealth v. Zapata, 447 Pa. 322, 290 A.2d 114 (1972). Thus, if a jury, giving credence to a defendant\u2019s version of an encounter could find that defendant guilty of involuntary manslaughter, fundamental fairness dictates the consolidation, upon request, of that indictment with the murder and voluntary manslaughter indictments as possible jury verdicts. As noted in Commonwealth v. Thomas, supra, the failure to consolidate leads to a refusal to instruct the jury on involuntary manslaughter. In those instances where an involuntary manslaughter verdict would be supported by the evidence, the failure to so acquaint the jury prevents it from operating with full knowledge of the relevant law and precludes the defendant from having a fair trial.\nInvoluntary manslaughter, which differs from murder in that specific intent and malice are absent, encompasses, \u201c \u2018the killing of another without malice and unintentionally, but in doing some unlawful act not amounting to a felony nor naturally tending to cause death or great bodily harm, or in negligently doing some act lawful in itself, or by the negligent omission to perform a legal duty.\u2019 \u201d Commonwealth v. Mayberry, 290 Pa. 195, 198, 138 A. 686, 687 (1927). See also Commonwealth v. Jones, 452 Pa. 569, 308 A.2d 598 (1973); Commonwealth v. Flax, supra. Where the act itself is not unlawful, to make it criminal, the negligence must be such a departure from prudent conduct as to evidence a disregard for human life or an indifference to the consequences. Commonwealth v. Feinberg, 433 Pa. 558, 566, 253 A.2d 636 (1969); Commonwealth v. Aurick, 342 Pa. 282, 288-289, 19 A.2d 920 (1941).\nInstantly, appellant\u2019s version, if believed by the jury, would have supported a verdict of involuntary manslaughter. Although her placing of the gun into her pocketbook for protection would not be an \u201cunlawful act\u201d within the definition of involuntary manslaughter, see Commonwealth v. Flax, supra, 331 Pa. at 157, 200 A. at 638, the jury may well have considered the subsequent struggle over a loaded weapon as needlessly creating a danger to human life, thus constituting criminally negligent conduct. Therefore, since the jury could have viewed appellant\u2019s conduct as criminally negligent, it was error for the trial court to deny consolidation upon request and fail to present involuntary manslaughter as a possible verdict.\nJudgment reversed and new trial ordered.\nROBERTS, POMEROY and MANDERINO, JJ., filed concurring opinions.\nNIX, J., filed a dissenting opinion.\nJONES, C. J., took no part in the consideration or decision of this case.\n. Rule 219(d) of the Pennsylvania Rules of Criminal Procedure provides, \u201cThe court, of its own motion, or on application of a party, may order separate trials of counts, grant a severance as to any defendant, or provide other appropriate relief.\u201d A motion to consolidate for trial separate charges or indictments is presented as a request for \u201cother appropriate relief.\u201d\nInstantly, defense counsel filed a pre-trial motion to consolidate the indictments but the trial court refused to rule upon the motion at that time. At the conclusion of the Commonwealth\u2019s case, defense counsel renewed the request for consolidation, but the trial court continued to reserve judgment. Finally, following presentation of the defense and prior to submitting the case to the jury, the trial court denied the motion to consolidate.\n. The trial court, in accordance with a long line of cases holding that instructions on involuntary manslaughter need not be given to the jury when there is no indictment therefor, refused to charge the jury on involuntary manslaughter. See, e. g., Commonwealth v. Edwards, 431 Pa. 44, 52, 244 A.2d 683 (1968); Commonwealth v. Comber, 374 Pa. 570, 575, 97 A.2d 343 (1953); Commonwealth v. Palermo, 368 Pa. 28, 31-32, 81 A.2d 540 (1951); Commonwealth v. Hardy, 347 Pa. 551, 554, 32 A.2d 767 (1943). The appellant assigns this as error. However, in view of our decision today, holding that the failure to grant consolidation was improper, we need not re-examine the continued vitality of these decisions.\n. The Commonwealth\u2019s reliance upon Commonwealth v. Reid, 432 Pa. 319, 247 A.2d 783 (1968), is misplaced as there was no indictment charging Reid with involuntary manslaughter and, consequently, no motion for consolidation to rule upon.\n. The evidence consisted in large part of a voluntary, extrajudicial statement given the police by the appellant and her in-court testimony, corroborative of the prior statement. \u2022\n. The appellant claims the gun was placed into her pocketbook in order to prevent her husband from using it against her.\n. Commonwealth v. Jones, supra, and Commonwealth v. Garrison, 443 Pa. 220, 279 A.2d 750 (1971), are distinguishable on this point. In Jones, the only version of the facts presented indicated the appellant\u2019s actions were not of an unintentional, accidental or involuntary nature so as to reduce the offense to involuntary manslaughter. In Garrison, the appellant\u2019s testimony sought to establish self-defense and, in no way, indicated the elements of involuntary manslaughter were present.",
+        "type": "majority",
+        "author": "EAGEN, Justice."
+      },
+      {
+        "text": "ROBERTS, Justice\n(concurring).\nIn my view, the trial court\u2019s failure to instruct the jury on involuntary manslaughter, as requested by appellant, constitutes reversible error. Therefore, I concur in the judgment of the Court without reaching the question whether the trial court abused its discretion in refusing to consolidate the indictments for trial.\nIt is axiomatic that a trial court is required, at least when the defendant so requests, to illuminate all relevant legal issues for the jury and, in particular, to instruct the jury on every verdict which it would be permissible for it to return. The minor premise, developed in this concurring opinion, is that a conviction of involuntary manslaughter would have been a permissible verdict in this case.\nI\nIt is well settled in Pennsylvania that a criminal defendant may, at least in certain circumstances, be convicted, upon an indictment charging a particular offense, of a lesser offense which is constituent within the offense charged (the \u201clesser included offense\u201d doctrine). However, my research has uncovered no Pennsylvania statute, rule, or case which propounds' a standard for determining when an offense is included within a greater offense. The best articulation of such a standard, in my view, is found in section 1.07(4) of the American Law Institute\u2019s Model Penal Code:\n\u201cA defendant may be convicted of an offense included in an offense charged in the indictment or the information. An offense is so included when:\n(a) it is established by proof of the same or less than all the facts required to establish the commission of the offense charged; or\n(b) it consists of an attempt or solicitation to commit the offense charged or to commit an offense otherwise included therein; or\n(c) it differs from the offense charged only in the respect that a less serious injury or risk of injury to the same person, property or public interest or a lesser kind of culpability suffices to establish its commission.\u201d\nA \u201cbasic premise\u201d of this section, that \u201cit is desirable, where possible, to adjudicate the entire criminal liability of the defendant in a single trial,\u201d has been found persuasive by the Court in the past, and I find it persuasive again today. Therefore, I would adopt section 1.07(4) as the law of Pennsylvania.\nIt has been suggested that a conviction of a constituent offense is a permissible verdict only if there is a rational basis for the fact-finder to find the defendant guilty of the lesser offense and acquit him of the greater offense.\nKeeble v. United States, 412 U.S. 205, 208, 93 S.Ct. 1993, 1995, 36 L.Ed.2d 844 (1973); Model Penal Code, supra \u00a7 1.07(5). However, I need not decide whether rationality should be a requirement for a permissible verdict, for in this case, a verdict of involuntary manslaughter would have been rational.\nWhatever else may render an included-offense verdict rational, and therefore permissible, that requirement is surely satisfied if there is evidence in the record which, if believed, would justify a conclusion that the defendant is guilty of the lesser offense and innocent of the greater offense. For example, if a defendant takes the witness stand and, while admitting his guilt of the lesser offense, contradicts the Commonwealth\u2019s evidence tending to show his guilt of the greater offense, a verdict of guilty of the lesser offense would surely be a rational one. Furthermore, we have long held that the fact-finder is free to believe all, part, or none of the evidence. E. g., Commonwealth v. Murray, 460 Pa. 605, 608, 334 A.2d 255, 257 (1975). Where the evidence is such that, if the fact-finder disbelieves a portion, the remainder would justify a conclusion of guilt of the lesser offense, a verdict of guilty of the lesser offense is rational. Finally, when the greater and lesser offenses are different degrees of the same basic offense differing only in the requisite state of mind, the susceptibility of the evidence to different inferences of what the defendant\u2019s state of mind was would render a verdict of guilty of the lesser offense a rational one.\nII\nThe differences between the several degrees of criminal homicide are differences in the state of mind of the defendant at the time of the killing. The various states of mind which establish that a criminal homicide is murder are grouped under the rubric of \u201cmalice,\u201d while it is hornbook law that the states of mind which render a killing manslaughter are not \u201cmalice.\u201d Analysis demonstrates, however, that the two classifications of states of mind are not neat pigeonholes.\nIn particular, one of the states of mind included within \u201cmalice\u201d differs from the state of mind required for a conviction of involuntary manslaughter only as a matter of degree, a different gradation along the spectrum of culpable states of mind. One is guilty of murder if, in killing another, he \u201cconsciously disregarded an unjustified and extremely high risk that his actions might cause death or serious bodily harm to another . . . .\u201d Commonwealth v. Taylor, 461 Pa. 557, 565-566, 337 A.2d 545, 549 (1975) (opinion of Roberts, J., expressing the view of four Justices); see also W. LaFave & A. Scott, Handbook on Criminal Law \u00a7 70 (1972). One is guilty of involuntary manslaughter if, in killing another, he either consciously disregarded or, grossly deviating from a standard of reasonable care, failed to perceive a substantial and unjustifiable risk that his actions might cause death or serious bodily harm to another. Crimes Code, 18 Pa.C.S. \u00a7 2504(a), 302(b)(3), 302(b)(4).,\nThere are at least two distinct ways in which the offense of involuntary manslaughter is included within the offense of murder. First, the evidence may persuade the jury that the defendant is guilty of murder in all respects except that the unjustified risk disregarded was merely substantial and not extremely high. Second, the evidence may persuade the jury that the defendant is guilty of murder in all respects except that the defendant did not, but should have, perceived the risk to others. Therefore, I conclude that involuntary manslaughter \u201cdiffers from [murder] only in the respect that a less serious . . . risk of injury to the same person . or a lesser kind of culpability suffices to establish its commission.\u201d Accordingly, involuntary manslaughter is a constituent offense of murder.\nIll\nThis Court has never considered whether involuntary manslaughter is a lesser included offense of murder. There is, however, a line of cases which, without considering whether involuntary manslaughter is a constituent offense, hold that involuntary manslaughter is never a permissible verdict upon a murder indictment.\nIn Commonwealth v. Gable, 7 S. & R. 423 (Pa.1821), the defendant was indicted for murder. The jury returned a verdict of \u201cnot guilty of murder but guilty of manslaughter.\u201d The defendant argued that the verdict was void for uncertainty because it did not specify of which variety of manslaughter the jury found him guilty. This Court held that the verdict was not uncertain. After pointing out that murder is a felony and involuntary manslaughter a misdemeanor, the Court reasoned:\n\u201c[0]ne who is indicted for murder, cannot be convicted of involuntary manslaughter, because it is well settled, that there cannot be a conviction of a misdemean- or, on an indictment for felony. Therefore, when on an indictment for murder, the jury find that the defendant is guilty of manslaughter, it must be understood, such manslaughter as is felonious, which can be no other than voluntary manslaughter.\u201d\n7 S. & R. at 424. Gable was followed in Walters v. Commonwealth, 44 Pa. 135 (1863).\nAll support for the Gable holding was removed by Hunter v. Commonwealth, 79 Pa. 503 (1875). In Hunter the defendant was indicted for assault with intent to kill, a felony; the jury returned a verdict of guilty of simple assault, a misdemeanor. The defendant argued that he could not be convicted of a misdemeanor upon a felony indictment. This Court disagreed.\nThe Court reasoned that the common law rule relied upon in Gable resulted from different procedures employed at common law in felony and misdemeanor trials. But any such difference had long since disappeared in Pennsylvania, leading the Court to observe that \u201cIt is clear that the reason of the rule has no application in this state.\u201d 79 Pa. at 505. The Court concluded:\n\u201c[W]e have no hesitation in declaring that the old common-law rule, that upon an indictment for a felony there can be no conviction for a misdemeanor, no longer exists in Pennsylvania.\u201d\n79 Pa. at 509.\nInexplicably the Court reverted to the Gable position, without rejecting or distinguishing Hunter, in Hilands v. Commonwealth, 114 Pa. 372, 6 A. 267 (1886). After having been indicted for and acquitted of murder, the defendant was indicted for involuntary manslaughter. Upon the overruling of the defendant's plea of autrefois acquit, an appeal was taken to this Court, which affirmed, stating:\n\u201cIt is very evident the [appellant] can never be tried again upon any charge of which he might have been convicted upon the first indictment. .\n\u201cBut the protection extends no further than the offence charged in the first indictment, or of which he might have been convicted under it. He was not in jeopardy for any other offence. The first indictment charged murder. Under it he might have been convicted of murder of the first or second degree, or of voluntary manslaughter, but not of involuntary manslaughter. The latter offence is a misdemeanor; it must be charged as such, and cannot be included in an indictment charging felonious homicide . . . . It follows that when the [appellant] was put upon this trial for murder, he was placed in no jeopardy of a conviction for involuntary manslaughter.\u201d\n114 Pa. at 380-81, 6 A. at 268.\nSince Hilands the Court has regularly, but not consistently, held that involuntary manslaughter is not a permissible verdict upon a murder indictment. Never did the Court seek to justify this holding by analyzing whether involuntary manslaughter was a constituent offense of murder. Several cases sought to support their holdings by exhuming the corpse of the common law rule which had been buried by the Court in Hunter. In most cases, no reason but blind adherence to precedent was given.\nThe only reason ever offered in support of the rule was that the additional instruction on involuntary manslaughter might tend to confuse the jury. See Commonwealth v. Nace, 222 Pa.Super. 329, 331, 295 A.2d 87, 88 (1972) (dictum); cf. Commonwealth v. Comber, 374 Pa. 570, 578, 97 A.2d 343, 346-47 (1953) (whether assault and battery is a permissible verdict upon a murder indictment). The Court, however, has not found the risk of jury confusion a persuasive reason for prohibiting conviction of a lesser included offense upon indictment for any crime other than murder. Moreover, jury confusion is surely no reason for prohibiting a conviction of involuntary manslaughter upon a murder indictment when a defendant is tried by the court without a jury. The possibility of jury confusion is too weak a reed upon which to rely to support a rule that is productive of great unfairness. See Commonwealth v. Thomas, 403 Pa. 553, 170 A.2d 112 (1961).\nI conclude that the cases holding that involuntary manslaughter is not a permissible verdict upon a murder indictment ought not to be followed.\nIV\nThe final step in the analysis is to inquire whether, if the law were to hold that rationality is a requirement for a permissible verdict, a verdict of involuntary manslaughter would have been a rational verdict in this case. I conclude that it would.\nAppellant was tried upon indictments for murder and voluntary manslaughter. At trial she took the witness stand. The opinion announcing the judgment correctly concludes that\n\u201cappellant\u2019s [testimony], if believed by the jury, would have supported a verdict of involuntary manslaughter. Although her placing of the gun into her pocketbook for protection would not be an \u2018unlawful act\u2019 within the definition of involuntary manslaughter, the jury may well have considered the subsequent struggle over a loaded weapon as needlessly creating a danger to human life, thus constituting criminally negligent conduct.\u201d\nAnte, at 853 (footnote & citation omitted).\nThe jury could rationally have concluded from all of the evidence that appellant consciously disregarded a substantial, but not extremely high, risk of harm to her husband. The jury could also have rationally concluded from the evidence that in the heat of a struggle appellant did not, but should have, perceived the risk that her conduct created. In either event, a verdict of involuntary manslaughter could rationally have been returned.\nV\nAppellant requested the trial court to instruct the jury on involuntary manslaughter. Upon the court\u2019s refusal, appellant took a specific exception to the charge and assigned this ground in support of her motion for a new trial. Because involuntary manslaughter would have been a permissible verdict, the instruction should have been given. Therefore, appellant is entitled to a new trial without regard to the fortuity of a pending indictment for involuntary manslaughter.\n. Commonwealth v. Soudani, 398 Pa. 546, 547 n. 1, 159 A.2d 687, 688 n. 1 (per curiam), cert. denied, 364 U.S. 886, 81 S.Ct. 177, 5 L.Ed.2d 107 (1960); Commonwealth v. Parker, 146 Pa. 343, 344, 23 A. 323 (1892) (per curiam); Hunter v. Commonwealth, 79 Pa. 503, 506 (1875) (\u201cThe general rule is well settled that upon an indictment charging a particular crime, the defendant may be convicted of a lesser offense included within it.\u201d); Dinkey v. Commonwealth, 17 Pa. 126, 129 (1851); Republica v. Roberts, 1 Yeates 6, 7, 1 L.Ed. 316 (Pa.1791); Commonwealth v. Nace, 222 Pa.Super. 329, 330, 295 A.2d 87, 88 (1972).\n. But see Act of June 24, 1939, P.L. 872, \u00a7 1107 (formerly codified as 18 P.S. \u00a7 5107 (1963)) (repealed by Act of December 6, 1972, P.L. 1641, \u00a7 5):\n\u201cIf, on the trial of any person charged with felony or misdemeanor, it shall appear to the jury upon the evidence, that the defendant did not complete the offense charged, but was guilty only of an attempt to commit the crime, he shall not by reason thereof be entitled to be acquitted, but the jury may return, as their verdict, that the defendant is not guilty of the felony or misdemeanor charged, but is guilty of an attempt to commit the same.\n\u201cThereupon such person shall be liable to be punished in the same manner as if he had been convicted upon an indictment for attempting to commit the particular felony or misdemeanor charged in the indictment.\n\u201cNo person so convicted shall be liable to be thereafter prosecuted of an attempt to commit the felony or misdemeanor for which he was so convicted.\u201d\nSee also Commonwealth v. White, 232 Pa.Super. 176, 180-182, 335 A.2d 436, 438 (1975).\n. But cf. Commonwealth ex rel. Moszczynski v. Ashe, 343 Pa. 102, 106, 21 A.2d 920, 922 (1941) (quoting a legal encyclopedia, apparently with approval).\n. Model Penal Code \u00a7 1.08(4), commentary at 42 (Tent.Draft. No. 5, 1956).\n. See Commonwealth v. Campana, 452 Pa. 233, 304 A.2d 432, vacated and remanded, 414 U.S. 808, 94 S.Ct. 73, 38 L.Ed.2d 44 (1973), on remand, 455 Pa. 622, 314 A.2d 854 cert. denied, 417 U. S. 969, 94 S.Ct. 3172, 41 L.Ed.2d 1114 (1974). See also Crimes Code, 18 Pa.C.S. \u00a7 110 (1973).\n. This Court has not hesitated in the past to look for answers to questions not resolved by our law to the codifications prepared by the American Law Institute. See e. g., Gilbert v. Korvette, Inc., 457 Pa. 602, 611-12 & n. 25, 327 A.2d 94, 100 & n. 25 (1974), and cases cited therein; see also Commonwealth v. Dobrolenski, 460 Pa. 630, 636-637, 334 A.2d 268, 271-72 (1975) (adopting a section of the ABA Standards for Criminal Justice).\n. If rationality is a requisite for a permissible verdict, it is clear that there are at least two exceptions. We have long held that, upon an indictment for murder, a jury may: 1) return a verdict of guilty of murder in the second degree, notwithstanding that it is irrational to return any verdict other than either acquittal or guilty of murder in the first degree, if the evidence would have been sufficient to support a conviction of murder in the first degree; or 2) return a verdict of guilty of voluntary manslaughter, notwithstanding that it is irrational to return any verdict other than either acquittal or guilty of some degree of murder, if the evidence would have been sufficient to support a conviction of some degree of murder.\nMurder in the second degree: Commonwealth v. Joseph, 451 Pa. 440, 449-50, 304 A.2d 163, 168 (1973); Commonwealth v. Schwartz, 445 Pa. 515, 520, 285 A.2d 154, 157 (1971); Commonwealth v. Collins, 436 Pa. 114, 119-20, 259 A.2d 160, 162-63 (1969) (opinion announcing the judgment); Commonwealth v. Schmidt, 423 Pa. 432, 441, 224 A.2d 625, 629-30 (1966) (dictum); Commonwealth v. Meas, 415 Pa. 41, 44-46, 202 A.2d 74, 75-76 (1964) (alternate holding); Commonwealth v. Turner, 367 Pa. 403, 407-09, 80 A.2d 708, 711 (1951) (alternate holding); Commonwealth v. Gibbs, 366 Pa. 182, 189-92, 76 A.2d 608, 611 (1951); Commonwealth v. Ferko, 269 Pa. 39, 112 A. 38 (1920); Commonwealth v. Fellows, 212 Pa. 297, 61 A. 922 (1905); Lane v. Commonwealth, 59 Pa. 371 (1869); Rhodes v. Commonwealth, 48 Pa. 396 (1864). These cases base their holdings, in part, on language appearing in the Penal Code, Act of June 24, 1939, P.L. 872, \u00a7 701, as amended (formerly codified as 18 P.S. \u00a7 4701 (1963)) (repealed by Act of December 6, 1972, P.L. 1641, \u00a7 5) and its predecessors. This language does not appear in the new Crimes Code, Act of December 6, 1972. I need not decide the effect of repeal of the relevant language on this exception from the rationality requirement, if any.\nVoluntary manslaughter: Commonwealth v. Hill, 444 Pa. 323, 326, 281 A.2d 859, 860 (1971); Commonwealth v. Hoffman, 439 Pa. 348, 356-357, 266 A.2d 726. 730-731 (1970); Commonwealth v. Harry, 437 Pa. 532, 535, 264 A.2d 402, 404 (1970) (per curiam); Commonwealth v. Dennis, 433 Pa. 525, 528-529, 252 A.2d 671, 672-73 (1969); Commonwealth v. Cooney, 431 Pa. 153, 244 A.2d 651, 653 (1968); Commonwealth v. Pavillard, 421 Pa. 571, 576-577, 220 A.2d 807, 810 (1966); Commonwealth v. Frazier, 420 Pa. 209, 211-213, 216 A.2d 337, 338 (1966); Commonwealth v. Frazier, 411 Pa. 195, 202, 191 A.2d 369, 373 (1963); Commonwealth v. Moore, 398 Pa. 198, 157 A.2d 65 (1959); Commonwealth v. Nelson, 396 Pa. 359, 363, 152 A.2d 913, 915 (1959); Commonwealth v. Steele, 362 Pa. 427, 430, 66 A.2d 825, 827 (1949); Commonwealth v. Arcuroso, 283 Pa. 84, 87, 128 A. 668, 670 (1925); Common wealth v. Kellyon, 278 Pa. 59, 61-62, 122 A. 166, 167 (1923); Commonwealth v. McMurray, 198 Pa. 51, 60, 47 A. 952, 953 (1901).\nWith respect to the second-degree murder exception, the cases cited above uniformly hold that the trial court is obligated, at least upon the request of the defendant, to instruct the jury that a conviction of second-degree murder is a permissible verdict and to define the elements of that offense. However, the court is not required to inform the jury that it may return that verdict irrationally. Commonwealth v. Joseph, supra; Commonwealth v. Schwartz, supra.\nWith respect to voluntary manslaughter, an anomolous situation prevailed for many years. While holding that voluntary manslaughter was a permissible verdict even if irrational, the Court also long held that the trial court was not obligated to instruct the jury on that offense unless it would have been rational for it to return that verdict. E. g., Commonwealth v. Cannon, 453 Pa. 389, 396-97, 309 A.2d 384, 389 (1973); Commonwealth v. Davis, 449 Pa. 468, 297 A.2d 817 (1972), cert. denied, 414 U.S. 836, 94 S.Ct. 183, 38 L.Ed.2d 72 (1973) (affirmance by equally divided court); Commonwealth v. Kenney, 449 Pa. 562, 568-69, 297 A.2d 794, 797 (1972); Commonwealth v. Banks, 447 Pa. 356, 363, 285 A.2d 506, 509 (1972); Commonwealth v. Matthews, 446 Pa. 65, 74, 285 A.2d 510, 514 (1971); Commonwealth v. Dews, 429 Pa. 555, 558-59, 239 A.2d 382, 384-85 (1968); Commonwealth v. La-Rue, 381 Pa. 113, 121-22, 112 A.2d 362, 366-367 (1955); Commonwealth v. Yeager, 329 Pa. 81, 85-87, 91, 196 A. 827, 830-31, 833 (1938); Commonwealth v. Gibson, 211 Pa. 546, 548, 60 A. 1086 (1908) (per curiam); Commonwealth v. Sutton, 205 Pa. 605, 608-09, 55 A. 781, 782 (1903); Commonwealth v. Eckerd, 174 Pa. 137, 148-49, 34 A. 305, 305-06 (1896); Commonwealth v. Buccieri, 153 Pa. 535, 553, 26 A. 228, 235 (1893).\nThis anomoly, so far as'my research has revealed, was the only instance of a divergence of permissible verdict and obligatory instruction, i. e., a permissible verdict of which the trial court was not required to inform the jury. This unfortunate situation was terminated in Commonwealth v. Jones, 457 Pa. 563, 319 A.2d 142 (1974) (per curiam; equally divided court); see id. at 564, 319 A.2d at 143 (opinion in support of affirmance); id. at 577, 319 A.2d at 150 (opinion in support of reversal). In Jones, six members of the Court agreed on at least this much: after the decision in Jones, a trial court is obligated, upon the request of the defendant, to instruct the jury that voluntary manslaughter is a permissible verdict whether or not there is a rational basis for that verdict. (The opinion in support of reversal opined that the instruction is constitutionally required, and thus disagreed with the restriction to purely prospective application.) See also United States ex rel. Matthews v. Johnson, 503 F.2d 339 (3d Cir. 1974) (en banc), cert. denied, 420 U.S. 952, 95 S.Ct. 1336, 43 L.Ed.2d 430 (1975).\n(Note: the discussion of the degrees of murder in this footnote reflects prior law where murder was divided into two degrees. See Act of June 24, 1939, P.L. 872, \u00a7 701 (formerly codified as 18 P.S. \u00a7 4701 (1963)) (repealed by Act of December 6, 1972, P.L. 1482, \u00a7 5); Act of December 6, 1972, P.L. 1482, \u00a7 1 (formerly codified as 18 Pa.C.S. \u00a7 2502 (1973)) (amended by Act of March 26, 1974, P.L. -, \u00a7 4). Murder is presently divided into three degrees. 18 Pa.C.S. \u00a7 2502 (Supp.1975).)\n. Keeble, it seems to me, fails to distinguish the questions of what are permissible verdicts and when a trial court is obligated to instruct the jury on a permissible verdict. Confusion is avoided and analysis more sure-footed when the two questions are treated as separate steps in the inquiry.\nThe Model Penal Code, \u00a7\u00a7 1.07(4) & (5), while treating the two questions separately, misplaces the element of rationality. It seems to state that a conviction for an included offense is always a permissible verdict, but the trial court is obligated to instruct the jury on that verdict only if there is a rational basis for it. This formulation leaves open the possibility of permissible verdicts that the court need not charge on because they would be irrational, a situation which, in my view, must certainly be avoided. Therefore, if rationality is to be a requirement at all, it must be a requisite for a permissible verdict rather than an obligatory charge.\n. See part IV infra.\n. But see Model Penal Code, supra note 4, commentary at 43.\n. See Commonwealth v. Stewart, 461 Pa. 274, 336 A.2d 282 (1975).\n. \u201cA person is guilty of involuntary manslaughter when as a direct result of the doing of an unlawful act in a reckless or grossly negligent manner, or the doing of a lawful act in a reckless or grossly negligent manner, he causes the death of another person.\u201d\n. \u201cA person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and intent of the actor\u2019s conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a reasonable person would observe in the actor\u2019s situation.\u201d\n. \u201cA person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor\u2019s failure to perceive it, considering the nature and intent of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor\u2019s situation.\u201d\n. The killing in this case preceded the effective date of the Crimes Code, and thus the provisions quoted in notes 14-16, supra, are not strictly applicable. See Act of December 6, 1972, P. L. 1482, \u00a7\u00a7 2, 6.\nHowever, in my view, the sections quoted are (with one possible exception) an accurate and precise formulation of the law of involuntary manslaughter as developed in our cases. See Commonwealth v. Jones, 452 Pa. 569, 578-79, 308 A.2d 598, 604 (1973); Commonwealth v. Busler, 445 Pa. 359, 284 A.2d 783 (1971); Commonwealth v. Feinberg, 433 Pa. 558, 566, 253 A.2d 636, 640-41 (1969); id. at 574, 253 A.2d at 644 (concurring opinion of Roberts, J.); Commonwealth v. Comber, 374 Pa. 570, 581, 97 A.2d 343, 348 (1953); Commonwealth v. Aurick, 342 Pa. 282, 285-90, 19 A.2d 920, 922-24 (1941); Commonwealth v. Flax, 331 Pa. 145, 156, 200 A. 632, 637 (1938) (dictum); Commonwealth v. Mayberry, 290 Pa. 195, 198, 138 A. 686, 687-88 (1927); Commonwealth v. LaPorta, 218 Pa.Super. 1, 5-6, 272 A.2d 516, 519 (1970).\nThe one possible exception is that some of our cases may be read to say that one is guilty of involuntary manslaughter if death results from the \u201cdoing [of] some unlawful act not amounting to a felony nor naturally tending to cause death or serious bodily harm\u201d without regard to the manner in which the act was performed. Commonwealth v. Mayberry, supra; but cf. Com monwealth v. Busler, supra, 445 Pa. at 361, 284 A.2d at 784. Section 2504(a), however, requires that, for an unlawful act causing death to form the basis of a conviction of involuntary manslaughter, the act must have been performed \u201cin a reckless or grossly negligent manner. \u2019 . . . \u201d Note 14 supra.\nIf section 2504(a) changed the law of involuntary manslaughter to that extent, it does not affect my reliance on the Crime Code\u2019s formulation in this case because, if appellant is guilty of involuntary manslaughter, it is, as the opinion announcing the judgment recognizes, because of the \u201cdoing of a lawful act in a reckless or grossly negligent manner.\u201d See ante, at 857.\n. Model Penal Code \u00a7 1.07(4)(c).\n. See Commonwealth v. Jackson, 450 Pa. 417, 419 n. 2, 299 A.2d 209, 210 n. 2 (1973); Commonwealth v. Crosby, 444 Pa. 17, 23, 279 A.2d 73, 77 (1971) (opinion announcing the judgment); Commonwealth v. Edwards, 431 Pa. 44, 52, 244 A.2d 683, 687 (1968); Commonwealth v. Soudani, 398 Pa. 546, 547 n. 1, 159 A.2d 687, 688 n. 1 (per curiam) (dictum), cert. denied, 364 U.S. 886, 81 S.Ct. 177, 5 L.Ed.2d 107 (1960); Commonwealth v. Comber, 374 Pa. 570, 573-74, 97 A.2d 343, 344 (1953) (dictum); Commonwealth v. Hardy, 347 Pa. 551, 554, 32 A.2d 767, 768 (1943); Commonwealth v. Mayberry, 290 Pa. 195, 199, 138 A. 686, 688 (1927); Commonwealth v. Weinberg, 276 Pa. 255, 257-58, 120 A. 406, 407 (1923); Commonwealth v. Micuso, 273 Pa. 474, 477, 117 A. 211, 212 (1922) (alternate ground); Commonwealth v. Nace, 222 Pa.Super. 329, 331, 295 A.2d 87, 88 (1972) (dictum).\n. See Commonwealth v. Jones, 452 Pa. 569, 578, 308 A.2d 598, 604 (1973) (implying that involuntary manslaughter is a permissible verdict on a murder indictment if rational); Commonwealth v. Robinson, 452 Pa. 316, 326, 305 A.2d 354, 359 (1973) (same); Commonwealth v. Flax, 331 Pa. 145, 156-57, 200 A. 632, 638 (1938) (same) (semble; dictum); Commonwealth v. Micuso, 273 Pa. 474, 477, 117 A. 211, 212 (1922) (same) (alternate ground).",
+        "type": "concurrence",
+        "author": "ROBERTS, Justice"
+      },
+      {
+        "text": "POMEROY, Justice\n(concurring).\nI concur in the decision of the Court that the trial court erred in refusing appellant\u2019s motion to consolidate for trial the murder and involuntary manslaughter indictments. Furthermore, I agree with my brother Roberts in his separate opinion that the failure of the trial court to charge as requested on involuntary manslaughter was also error. This concurrence is appended to suggest in short compass what I consider to be the proper rationale dictating consolidation and to indicate when I believe a charge to the jury on involuntary manslaughter is warranted.\nThe Court posits as its reason for requiring consolidation of the two indictments against Carol Moore the dictates of \u201cfundamental fairness.\u201d Opinion of the Court, ante at 852. While no one can fault this premise as a basis for decision, there is, I believe, a less amorphous reason for granting appellant\u2019s motion for consolidation. It is that, properly considered, involuntary manslaughter, like voluntary manslaughter, is a lesser-included offense under a murder indictment. Sharing this view, Mr. Justice Roberts has set forth the bases for itl in his opinion. I would add only that, so far as my research has discovered, the Pennsylvania view that involuntary manslaughter is not a lesser-included offense to murder is shared by no other jurisdiction. See e. g., United States v. Comer, 137 U.S.App.D.C. 214, 421 F.2d 1149 (1970); Anno., 11 A.L.R.Fed. 173 (1972); People ex rel. Fox v. Twomey, 15 Ill.App.3d 760, 305 N.E.2d 375 (1973); People v. Heffington, 32 Cal.App.3d 1, 107 Cal.Rptr. 859 (1973); Hewitt v. Commonwealth, 213 Va. 605, 194 S.E.2d 893 (1973); Anno., 102 A.L.R. 1019 (1936); Anno., 27 A.L.R. 1097 (1923); Anno., 21 A.L.R. 603 (1922).\nMr. Justice Roberts does not reach the question which is squarely raised in this case and decided by the majority, viz., whether the court should have granted the motion to consolidate the indictments for trial. But if it is sound to conclude that involuntary manslaughter is a lesser-included offense of murder, I think it follows as the night the day, that a motion for consolidation must be granted. It also follows that if no request for consolidation is made and the defendant is acquitted of murder, he may not then be prosecuted on the involuntary manslaughter indictment. Any other result would raise serious questions of double jeopardy. See Waller v. Florida, 397 U.S. 387, 90 S.Ct. 1184, 25 L.Ed.2d 435 (1970); Ashe v. Swenson, 397 U.S. 436, 90 S.Ct. 1189, 25 L.Ed.2d 469 (1970); Ex parte Nielsen, 131 U.S. 176, 9 S.Ct. 672, 33 L.Ed. 118 (1889).\nAnother consequence of the lesser-included offense concept is that in a case (unlike the present one) where there is no indictment for involuntary manslaughter but only one for murder, the presence of evidence which would enable the factfinder to return a verdict of involuntary manslaughter would entitle the defendant to an instruction on the elements of that offense. This conclusion is in accord with the views expressed by the Supreme Court of the United States in applying the federal rule on the doctrine of lesser-included offenses:\n\u201cThe basic principles controlling whether or not a lesser-included offense charge should have been given in a particular case have been settled by this Court. . \u2018[i]n a case where some of the elements of the crime charged themselves constitute a lesser crime, the defendant, if the evidence justified s] it . . [is] entitled to an instruction which would permit a finding of guilt of the lesser offense.\u2019 * * * But a lesser-offense charge is not proper where, on the evidence presented, the factual issues to be resolved by the jury are the same as .to both the lesser and greater offenses. * * * In other words, the lesser offense must be included within but not, on the facts of the case, be completely encompassed by the greater. A lesser-included offense instruction is only proper where the charged greater offense requires the jury to find a disputed factual element which is not required for conviction of the lesser-included offense.\u201d (Emphasis added.) Sansone v. United States, 380 U.S. 343, 349-50, 85 S.Ct. 1004, 1009, 13 L.Ed.2d 882 (1965) [quoting Berra v. United States, 351 U.S. 131, 134, 76 S.Ct. 685, 100 L.Ed. 1013 (1956)].\nSee also Keeble v. United States, 412 U.S. 205, 208, 93 S.Ct. 1993, 36 L.Ed.2d 844, 847 (1973). It should be emphasized, however, that before a charge on involuntary manslaughter is required, there thus must be some evidence, from whatever source, which would permit the jury to return such a verdict. This is in contrast to the situation which now exists with respect to voluntary manslaughter. As this Court has recently held, a charge on voluntary manslaughter must be given on a trial for murder if it is requested, even absent evidence which would support a verdict of voluntary manslaughter. Commonwealth v. Jones, 457 Pa. 563, 319 A.2d 142 (1974). See also United States ex rel. Mathews v. Johnson, 503 F.2d 339 (3d Cir. 1974). Because at common law in Pennsylvania there reposes in the jury the inherent power to return such a verdict in the exercise of its discretion even in the absence of proof of the elements of voluntary manslaughter, we have concluded that the jury must be informed of its power in this respect. No similar historical reasons, however, dictate such a rule with respect to involuntary manslaughter.\nUnder the facts of this case, as the Court correctly determines, the jury could have found appellant\u2019s conduct to be \u201ccriminally negligent.\u201d Opinion of the Court, ante at 853. Thus its decision is sound that the trial court erred in refusing the motion for consolidation. I therefore concur in the decision to reverse and remand for a new trial.\nIt is to be further noted that in Commonwealth v. Campana, 452 Pa. 233, 304 A.2d 432 (1973), vacated and remanded, 414 U.S. 808, 94 S.Ct. 73, 38 L.Ed.2d 44 (1973), on remand, 455 Pa. 622, 314 A.2d 854 (1974), cert. denied, 417 U.S. 969, 94 S.Ct. 3172, 41 L.Ed.2d 1140 (1974), this Court held that a prosecutor must bring \u201cin a single proceeding, all known charges against a defendant arising from a \u2018single criminal episode.\u2019 \u201d 452 Pa. at 253, 304 A.2d at 441 (emphasis added). While not controlling in the instant case (Campana was decided several months after Carol Moore\u2019s trial), consolidation would also be required under that decision. Moreover, in a case covered by the new Crimes Code, the same result would ensue. 18 Pa.C.S. \u00a7 110(1)(ii) (1973).",
+        "type": "concurrence",
+        "author": "POMEROY, Justice"
+      },
+      {
+        "text": "MANDERINO, Justice\n(concurring).\nI join in the majority conclusion that refusal to grant appellant\u2019s motion to consolidate the indictment for murder and voluntary manslaughter and the indictment for involuntary manslaughter constituted reversible error. In the instant case, the majority found that the evidence presented would have supported a verdict of involuntary manslaughter. I express no opinion on the issue of whether a requested consolidation should be granted in other cases.",
+        "type": "concurrence",
+        "author": "MANDERINO, Justice"
+      },
+      {
+        "text": "NIX, Justice\n(dissenting).\nToday\u2019s result represents a perpetuation of a doctrine which, I believe, was ill-conceived in its inception, Commonwealth v. Thomas, 403 Pa. 553, 170 A.2d 112 (1961), and now unwisely and unnecessarily expanded. For the reasons that follow, I must dissent.\nIt has been a well-settled principle in this jurisdiction that consolidation or separation of indictments is a matter that is to be left to the sound discretion of the trial judge and this judgment will not be disturbed unless there is a showing of a manifest abuse of discretion which resulted in a clear injustice to the accused. Commonwealth v. Patrick, 416 Pa. 437, 206 A.2d 295 (1965); Commonwealth ex rel. Bolish v. Banmiller, 396 Pa. 129, 151 A.2d 480 (1959); Commonwealth v. Kloiber, 378 Pa. 412, 106 A.2d 820 (1954); Commonwealth ex rel. Spen cer v. Ashe, 364 Pa. 442, 446, 71 A.2d 799 (1950), cert. denied 399 U.S. 990, 70 S.Ct. 1015, 94 L.Ed. 1390 (1950); Commonwealth v. Grosso, 192 Pa.Super. 513, 162 A.2d 421 (1960). This principle is consistent with our concept of the role of the jurist in the conduct of the trial. It is his responsibility to attempt to identify, define and clarify the issues to be decided. The trial judge is expected, whenever possible, to minimize the complexities of the cause and not to compound them. It is therefore crucial that his exercise of discretion provide the flexibility in a determination on a request for severance or consolidation of indictments which would permit him to consider the extent to which the request would further complicate the task of the jury and weigh that factor against the benefit sought to be derived by the moving party. The majority opinion would remove this possibility.\nI have a serious question as to the validity of the majority\u2019s implicit assumption that the additional instructions to the jury as to the elements of involuntary manslaughter, while they are laboring under the onerous task of attempting to absorb the difficult distinctions between the other grades of homicide, will provide the jurors with an understanding of \u201cthe full significance of the law of homicide in Pennsylvania.\u201d It is more likely to make comprehension impossible.\nCommenting upon the evils of the unnecessary joinder of charges the late Mr. Chief Justice Bell, then Mr. Justice Bell, had occasion to observe:\n\u201cIf there could be a conviction of assault and battery on a murder bill the trial Judge would always have to charge the jury on first-degree murder, second-degree murder, voluntary manslaughter, and, certainly if requested, on aggravated assault and battery and simple assault and battery. This has never been done in the history of the Commonwealth. When we take into consideration the additional points the trial Judge must define in a murder case, such as presumption of innocence, reasonable doubt, and usually several others (depending upon the particular facts of that particular case) the jury would likely become so befogged by legal technicalities and so confused by the maze of the law as to make a clear comprehension, weighing and correlation of the facts exceedingly difficult, and the rendition of a just verdict both difficult and doubtful. Furthermore, the likelihood of a \u201cmurderer\u201d escaping his just punishment and being found guilty of aggravated assault and battery or simple assault and battery instead of one of the degrees of murder or manslaughter of which he was actually guilty would be greatly increased to the detriment of society.\u201d Commonwealth v. Comber, 374 Pa. 570, 578-79, 97 A.2d 343, 346 (1953).\nThe ruling today is predicated upon our decision in Commonwealth v. Thomas, supra. Thomas represented a radical departure from the prior cases in this jurisdiction and was obviously motivated by the Court\u2019s reluctance to meet forthrightly the issue presented therein. There it was apparent that the majority of the Court believed the verdict returned (murder in the second degree) was sufficiently supported by the record to meet our sufficiency of the evidence test yet believed the weight of the evidence to be otherwise. Attempting to avoid our long respected and salutary principle that the weight of the evidence is best left with the trial court, the Thomas Court contrived this principle to reach the result they desired.\nThe inconsistency of the Thomas ruling becomes apparent when we attempt to analyze it. It suggests that it is a right of the accused, where there is evidence of involuntary manslaughter, to have a jury consider this charge. However, inexplicably, they conditioned this right upon the existence of an indictment for involuntary manslaughter. If fundamental fairness requires, under a given record, that the finder of fact be allowed to consider the charge of involuntary manslaughter, why is that judgment dependent upon whether a prosecutor has been fit to indict? If there is some validity to the majority\u2019s position they necessarily must overrule the long standing principle that the judge is not entitled to charge as to involuntary manslaughter where there is no indictment therefor. Commonwealth v. Edwards, 481 Pa. 44, 52, 244 A.2d 683 (1968); Commonwealth v. Comber, supra 374 Pa. at 575, 97 A.2d at 345; Commonwealth v. Palermo, 368 Pa. 28, 31-32, 81 A.2d 540 (1951); Commonwealth v. Hardy, 347 Pa. 551, 554, 32 A.2d 767 (1943). Additionally there is no longer a basis for the rule that an involuntary manslaughter verdict may not be returned under a murder indictment. Commonwealth v. Comber, supra 374 Pa. at 575, 97 A.2d 343; Commonwealth v. Palermo, supra; Commonwealth v. Mayberry, 290 Pa. 195, 199, 138 A. 686 (1927).\nNot, only has the majority reaffirmed the doctrine which, I believe, is unsound, but it has compounded this error by extending it to a point which, in my judgment, renders it more egregious. In Thomas, the evidence presented in the Commonwealth\u2019s case strongly suggested the propriety of an involuntary manslaughter finding. On that record the holding of Thomas could legitimately have been confined to instances where there is substantial evidence of involuntary manslaughter emanating from the Commonwealth\u2019s case-in-chief. Today, however, not only is the evidence of involuntary manslaughter of such a character that it would stretch the credulity of the most naive, but even more important it was introduced by the defense.\nThe Commonwealth established that there had been a intense marital disagreement between appellant and the deceased. When the husband attempted to prevent the wife from leaving the household, the wife went upstairs and placed a loaded gun in her pocketbook. The Commonwealth also established that there was no sign of a struggle and that the bullet wound, causing the death, was discharged from the gun appellant had placed in her pocketbook. It was in this setting that the defense attempted to create the phantasm of a struggle for this weapon during which the husband was unintentionally shot. To rule under these circumstances that a court is mandated to permit consolidation upon request and blindly ignore all of the other ramifications created by consolidation, is to me completely without justification and strains the quality of justice in Pennsylvania.\n. The complicated nature of the homicide formulation in the New Crimes Code, 18 C.P.S.A. \u00a7 2501 et seq. (1973), highlights this problem.\n. It is also difficult to understand how we can make it mandatory to join an indictment where the charge may only, in limited circumstances, be a lesser included offense and yet deny this right where the charge is a necessarily constituent offense. Commonwealth v. Comber, supra.\n. \u201cIf the opinion is penetratingly read it is not difficult to perceive that what it \u2018really\u2019 says, is that it believes that a conviction of involuntary manslaughter would be more just than a conviction of murder. It is a truism that \u2018sympathy\u2019 cases frequently make bad law or create harmful precedents\u201d.\nCommonwealth v. Thomas, supra 403 Pa. at 557, 170 A.2d at 113 (Dissenting Opinion, Bell, C. J.)",
+        "type": "dissent",
+        "author": "NIX, Justice"
+      }
+    ],
+    "attorneys": [
+      "H. David Rothman, Pittsburgh, for appellant.",
+      "John J. Hickton, Dist. Atty., John M. Tighe, First Asst. Dist. Atty., Robert L. Eberhardt, Lawrence N. Claus, Asst. Dist. Attys., Pittsburgh, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "344 A.2d 850\nCOMMONWEALTH of Pennsylvania, Appellee, v. Carol MOORE, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 4, 1974.\nDecided Oct. 3, 1975.\nH. David Rothman, Pittsburgh, for appellant.\nJohn J. Hickton, Dist. Atty., John M. Tighe, First Asst. Dist. Atty., Robert L. Eberhardt, Lawrence N. Claus, Asst. Dist. Attys., Pittsburgh, for appellee.\nBefore EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0317-01",
+  "first_page_order": 351,
+  "last_page_order": 377
+}

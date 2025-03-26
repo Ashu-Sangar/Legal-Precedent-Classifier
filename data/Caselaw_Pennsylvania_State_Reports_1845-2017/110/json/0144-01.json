@@ -1,0 +1,96 @@
+{
+  "id": 543728,
+  "name": "Riley, Administrator, versus Commonwealth Mutual Fire Insurance Company",
+  "name_abbreviation": "Riley v. Commonwealth Mutual Fire Insurance",
+  "decision_date": "1885-10-05",
+  "docket_number": "",
+  "first_page": "144",
+  "last_page": "147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "110 Pa. 144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "39 Leg. Int., 54",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Pa. St., 107",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428572
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "236"
+        },
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/61/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 512,
+    "char_count": 9436,
+    "ocr_confidence": 0.409,
+    "pagerank": {
+      "raw": 2.2128318265527105e-07,
+      "percentile": 0.776723276144671
+    },
+    "sha256": "5df974ff3ca4c05bef6d5d300ba0e0f786c1f68f4b63e28a8974377c539510c5",
+    "simhash": "1:d66da603ad9a54fc",
+    "word_count": 1657
+  },
+  "last_updated": "2024-02-27T22:13:09.246454+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Mercur, C. J., Gordon, Paxson, Trunkey, Sterrett, Green, and Clark, JJ."
+    ],
+    "parties": [
+      "Riley, Administrator, versus Commonwealth Mutual Fire Insurance Company."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Gordon\ndelivered .the opinion of the court, October 5th, 1885.\nWhen McDonald, at the time of his application for insurance, paid the necessary premium to O\u2019Conner, he, O\u2019Conner, became his agent and depositee, and at any time before his acceptance of the policy he might have revoked his application, and demanded a return of his money; but after such acceptance he could do nothing of the kind. Thenceforth O\u2019Conner was the depositee of the defendant, and there could be no rescission without its consent, for to all legal intents the contract of insurance was consummate and the premium belonged to the company as fully as though it were in its vaults. This policy, regularly executed and countersigned, was put into O\u2019Conner\u2019s hands by Crane, the defendant\u2019s general agent, for delivery and receipt of the premium, and for no other purpose, and nothing is more certain than that from and after that delivery, the money in his possession belonged no longer to McDonald but to the defendant. If then, the company received the premium and McDonald the policy, we cannot understand why the plaintiff should not recover. The plea that Crane had no power to deliver the policy until the premium was actually paid into his hands, is so oxrt of all character that we cannot understand how it could have been effectually imposed on the court below. Crane had the power to issue policies and receive the money, and, as in this case, he exercised that power in a legitimate manner, and in the ordinary course of business, the company was bound by his acts. Had the money been deposited by Crane\u2019s direction in a bank, or had he sent his clerk to deliver the policy and receive the premium, we apprehend no one would be found to say that the transaction would not have been binding on both parties. Why then might not O\u2019Conner perform the same executive duties for the defendant or its agent? It is not complained that he did not act faithfully; that he did not retain the money for the company, or that he did not transmit it to the agent in the usual course of business. But as Crane did not receive it until after the loss, therefore, O\u2019Conner\u2019s agency in the matter, which would have been entirely regular had there been no loss, is to be pronounced void, and he is to be regarded as the depositee and brl&er of the decedent. On principle this treatment of the case cannot be allowed. The company ought to know how its agents are doing its business, and it certainly does know that they necessarily must do that business through the ordinary channels of- trade. When, therefore, companies of this kind put it in tlie power of their agents to deliver tlieir policies to innocent parties, who have paid their money in good faith to persons appointed for that purpose by such agents, they are estopped from gainsaying the regularity of the method so adopted for the collection and transmission of their premiums, and all conditions found in such policies to the contrary are to no purpose.\nBut we have so fully discussed this matter in the recent case of the Universal Fire Insurance Company v. Block, (13 Out. 535) that we need not dwell longer upon this subject. Wo have, therefore, but to add, that the attempt to sustain the judgment of tlie court below by the case of the Pottsville Fire Insurance Company v. Minnequa Springs Improvement Company, 4 Out., 137, is a failure. The two cases are as wide apart as the poles. In that case the policy passed from the hands of the agent through no less that three brokers before it reached the insured; he did not pay the premium until after he had received the policy, and the money was never paid to the company nor its agent, neither was it at any time within the power or control of either. More than this, the company refused tlie risk, and the agent, in vain, endeavored to recall the policy. It will thus be seen that the two cases are entirely dissimilar, and the one cannot, by any ingenuity, be made to govern the other.\nThe judgment of the court below is now reversed and a new venire ordered.",
+        "type": "majority",
+        "author": "Mr. Justice Gordon"
+      }
+    ],
+    "attorneys": [
+      "Newton (Green with him), for plaintiff in error.",
+      "Seymour D. Ball, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Riley, Administrator, versus Commonwealth Mutual Fire Insurance Company.\n3. Where an insurance company empowers its agent to effect insurance and deliver policies executed by the company, the fact that the agent delivered such a policy to the insured through an insurance broker to whom the insured had paid the premium, will not relieve the company from liability for a loss occurring prior to the transmission of the premium, in the usual course of business, by the broker to the agent, although the policy provided that it should not be binding \u201cuntil the actual cash payment of the premium.\u201d\n2. A. requested B., an insurance broker,-to effect for him a policy of fire insurance upon his property. B. received the premium and forwarded A.\u2019s application to C., agent of the defendant company, who was his correspondent. B. retained the premium, intending to keep it until the date of the usual monthly settlement between him and C. C. procured the policy and transmitted it to B. who, in turn, gave it to A. It contained this clause : \u201c No insurance shall be considered as binding until the actual cash payment of the premium.\u201d A loss having occurred -B. after-wards sent the premium to C. who refused to accept it. In a suit against the insurance company by A. on the policy:\nHeld, that B. was to be regarded as holding the premium as agent of the company and not of the insured, and that the plaintiff was accordingly entitled to recover.\nMay 12th, 1885.\nBefore Mercur, C. J., Gordon, Paxson, Trunkey, Sterrett, Green, and Clark, JJ.\nError to the Court of Common Pleas of Cameron county: Of January Term 1885, No. 204.\nThis was an action of debt by D. J. McDonald, administrator of the estate of A. J. McDonald, deceased, against the Commonwealth Mutual Fire Insurance Company, on a policy of fire insurance issued by defendants on decedent\u2019s property for one year from May 1st, 1883. Plea, non est factum, with leave, etc. Thomas J. Riley was subsequently substituted administrator d. b. n.\nOn the trial the following facts appeared: A. J. McDonald was the owner of a large frame hotel and other buildings at Driftwood, Pa., all of which had been insured through Charles O\u2019Conner, an insurance agent at Lock Haven. About April, 1883, his policy expired and he asked O\u2019Conner to re-insure the property and paid him a premium of $22 therefor. As none of the companies of which O\u2019Conner was agent would insure the property, he wrote to Robert Crane, the Philadelphia agent of defendant company, for whom he had done business for over five years, and sent him McDonald\u2019s application. Crane had the policy made out, signed it as defendant\u2019s agent and had it mailed to O\u2019Conner who received it on May 1st, ancl delivered it to McDonald the same day. On May 3d, the property insured was destroyed by fire.\nIt was customary for O\u2019Conner, on delivering policies for Crane, to receive the premiums and return the same between the 10th and 15th of each month to Crane who would settle with his companies. In accordance with this established custom the premium received by O\u2019Conner was retained by him for monthly settlement when the fire occurred. On May 5th, O\u2019Conner remitted the premium to Crane and notified him of the loss. Crane refused to accept the premium and the defendant refused to pay the loss, alleging that the fifth condition of policy, providing that \u201cNo insurance, whether original or continued, shall be considered as binding until the actual cash payment of the premium,\u201d had not been complied with.\nThe court directed the jury to find for defendant \u2014 verdict accordingly : whereupon the plaintiff took this writ, assigning for error the action of the court.\nNewton (Green with him), for plaintiff in error.\n\u2014 An insurance company by its own custom and that of its agents may waive a condition in the policy requiring payment of premiums to be made within a specified time or the policy becomes void, even where it is stipulated that agents have no power to alter conditions or waive forfeitures: Helme v. Ins. Co., 61 Pa. St., 107; Girard Ins. Co. v. Mutual Ins. Co., 86 Id., 236, s. c. 100 Id., 172. The defendant cannot rely7 upon a condition in the policy, after acquiescing in a custom followed by its authorized agent not in harmony with such condition. Authority conferred on an agent is always to be construed as including the necessary and usual inodes and means of executing it, as to accomplish the objects of the agency: 1 Story on Contracts, \u00a7 217; Peck v. Harriott, 6 S. & R., 148; and Crane could only accomplish the objects of his agency by having his own agents and establishing certain customs. The payment to O\u2019Conner is in law to be considered as a payment to Crane or the defendant.\nSeymour D. Ball, for defendant in error.\n\u2014 The payment to O'Conner was not such as is contemplated by the policy, and no binding contract of insurance was made. Delivery of a policy to a broker to deliver to insured, but without payment of premium to tbe company, will not bind the company where no account is kept with such broker although he may luWe received the premium; there being no evidence that the company charged him with the premium received by him : Marland v. Ins. Co., 21 P. F. S., 393; Greene v. Ins. Co., 10 Norris, 389; Waynesboro Ins. Co. v. Conover, 39 Leg. Int., 54; Potts-ville Mut. Fire Ins. Co. v. Minnequa Springs Imp. Co., 4 Out., 137."
+  },
+  "file_name": "0144-01",
+  "first_page_order": 160,
+  "last_page_order": 163
+}

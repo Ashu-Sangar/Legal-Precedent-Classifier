@@ -1,0 +1,70 @@
+{
+  "id": 12283465,
+  "name": "Com. v. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2016-03-08",
+  "docket_number": "685 EAL (2015)",
+  "first_page": "743",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 743"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 88",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 138,
+    "ocr_confidence": 0.783,
+    "sha256": "9e55c3c9cb67018ac2191532ad82a5293a85b04316a28206a44f1b2ade7e59c5",
+    "simhash": "1:e543e9a89b09938e",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 88",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Smith\n03/08/2016\n685 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0743-01",
+  "first_page_order": 803,
+  "last_page_order": 803
+}

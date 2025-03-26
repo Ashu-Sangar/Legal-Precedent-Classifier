@@ -1,0 +1,70 @@
+{
+  "id": 12284833,
+  "name": "Com. v. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2016-03-23",
+  "docket_number": "495 WAL (2015)",
+  "first_page": "753",
+  "last_page": "753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 753"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 506",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.895,
+    "sha256": "e43d55111dd5cb91c34bcbe792b016f0ebc9b59887d4c19f17bbd4b1543734b9",
+    "simhash": "1:900024a0b54b5182",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 506",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Smith\n03/23/2016\n495 WAL (2015)"
+  },
+  "file_name": "0753-08",
+  "first_page_order": 813,
+  "last_page_order": 813
+}

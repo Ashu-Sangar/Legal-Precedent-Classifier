@@ -1,0 +1,133 @@
+{
+  "id": 1230372,
+  "name": "Commonwealth ex rel. Statti v. Coen",
+  "name_abbreviation": "Commonwealth ex rel. Statti v. Coen",
+  "decision_date": "1951-06-27",
+  "docket_number": "Docket No. 1747",
+  "first_page": "226",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "368 Pa. 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "74 A. 2d 182",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Pa. Superior Ct. 599",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        468777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/166/0599-01"
+      ]
+    },
+    {
+      "cite": "73 A. 2d 688",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Pa. Superior Ct. 577",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        468861
+      ],
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/166/0577-01"
+      ]
+    },
+    {
+      "cite": "82 A. 2d 244",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "368 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230314
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/368/0211-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 218,
+    "char_count": 2625,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04606774371787699
+    },
+    "sha256": "7a358c2391d92db8c80ae5840f6d6140fb96ccba901660b0ad45de17a7a6801e",
+    "simhash": "1:ebbfcba1ab6a3780",
+    "word_count": 454
+  },
+  "last_updated": "2024-02-27T18:12:52.853558+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Drew, C. J., Stern, Stearne, Jones, Bell, Ladner and Chidsey, JJ."
+    ],
+    "parties": [
+      "Commonwealth ex rel. Statti v. Coen."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Jones,\nThe question involved on this petition for a writ of habeas corpus is the same as in Commonwealth ex rel. Holly v. Ashe, at p. 211 ante. The petitioner sought to invoke the original jurisdiction of the Superior Court which certified the petition to this court in order that it might be considered and passed upon along with the Holly case. Up to and including the sentencing of the relator, the facts of the present case are not materially distinguishable from the facts of the Holly case. The subsequent difference between the two cases is of no pertinency to the question raised.\nStatti was tried on June 15, 1949, at the June term of the Court of Oyer and Terminer and Quarter Sessions of Lawrence County on indictments charging him, respectively, with felonies and misdemeanors. He was found guilty on the same day on the misdemeanor charges only. He filed a motion for a new trial which, after argument thereon before the court en banc, was refused on November 25,1949, which was in the September term of the court. During all of this time Statti was at large on bail. On November 26, 1949, the district attorney notified the defendant\u2019s attorneys to produce him in court for sentence on December 7, 1949, which was the first day of the succeeding (December) term. The defendant appeared at that time and was sentenced. He appealed to the Superior Court from the judgment of sentence, seeking a new trial on the ground that the trial court had committed reversible error. He did not then contend that the sentence was void because it had been imposed at a term subsequent to the term of conviction. However, that fact is of no present importance, certainly not in the relator\u2019s favor. The Superior Court overruled the appellant\u2019s assignments and affirmed the judgment: see Commonwealth v. Statti, 166 Pa. Superior Ct. 577, 585, 73 A. 2d 688.\nThe present petition is based solely on the action of the Superior Court in Commonwealth ex rel. Holly v. Ashe, 166 Pa. Superior Ct. 599, 74 A. 2d 182, which we have today reversed: see p. 211 ante. What we there said is equally dispositive of this petition which is accordingly denied.\nWrit refused.",
+        "type": "majority",
+        "author": "Mr. Justice Jones,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Horace Stern :\nBecause of the reasons set forth in my dissenting opinion in Commonwealth, ex rel. Holly v. Ashe, Warden, 368 Pa. 211, 82 A. 2d 244, I dissent in this case also.",
+        "type": "dissent",
+        "author": "Mr. Justice Horace Stern :"
+      }
+    ],
+    "attorneys": [
+      "James M. Keller, for relator.",
+      "Sherman K. Levine, District Attorney, for Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Statti v. Coen.\nArgued January 11, 1951.\nBefore Drew, C. J., Stern, Stearne, Jones, Bell, Ladner and Chidsey, JJ.\nJune 27, 1951:\nJames M. Keller, for relator.\nSherman K. Levine, District Attorney, for Commonwealth."
+  },
+  "file_name": "0226-01",
+  "first_page_order": 248,
+  "last_page_order": 250
+}

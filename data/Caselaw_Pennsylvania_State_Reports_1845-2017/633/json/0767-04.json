@@ -1,0 +1,70 @@
+{
+  "id": 12283754,
+  "name": "Com. v. Taylor",
+  "name_abbreviation": "Com. v. Taylor",
+  "decision_date": "2015-09-28",
+  "docket_number": "82, 83 WAL (2015)",
+  "first_page": "767",
+  "last_page": "767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 767"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 702",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 75,
+    "ocr_confidence": 0.849,
+    "sha256": "5fa0bc5515105f07d966bb6f6bfd2a3c2786ba66316be546b4abb357b725d2cc",
+    "simhash": "1:3b77e09e7b5a4759",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Taylor"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 702",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Taylor\n09/28/2015\n82, 83 WAL (2015)"
+  },
+  "file_name": "0767-04",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

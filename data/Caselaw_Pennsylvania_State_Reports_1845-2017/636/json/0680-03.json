@@ -1,0 +1,80 @@
+{
+  "id": 12285927,
+  "name": "Erie Ins. Exchange ex rel. Sullivan v. Pennsylvania Ins. Dept.; Erie Indemnity Co., In re",
+  "name_abbreviation": "Erie Ins. Exchange ex rel. Sullivan v. Pennsylvania Ins. Dept.",
+  "decision_date": "2016-08-10",
+  "docket_number": "90 WAL (2016)",
+  "first_page": "680",
+  "last_page": "680",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 680"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6814206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/133/0102-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 147,
+    "ocr_confidence": 0.822,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24932148553834607
+    },
+    "sha256": "1cf261910af0ca5f5fd4141541da1b7086bc0e235516e8519a86ccfb2cc52b41",
+    "simhash": "1:2551801baa61e31c",
+    "word_count": 24
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Erie Ins. Exchange ex rel. Sullivan v. Pennsylvania Ins. Dept.; Erie Indemnity Co., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 133 A.3d 102",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Erie Ins. Exchange ex rel. Sullivan v. Pennsylvania Ins. Dept.; Erie Indemnity Co., In re\n08/10/2016\n90 WAL (2016)"
+  },
+  "file_name": "0680-03",
+  "first_page_order": 732,
+  "last_page_order": 732
+}

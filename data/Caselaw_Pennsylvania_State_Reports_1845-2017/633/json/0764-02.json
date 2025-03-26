@@ -1,0 +1,70 @@
+{
+  "id": 12283211,
+  "name": "Com. v. Isler",
+  "name_abbreviation": "Com. v. Isler",
+  "decision_date": "2015-11-04",
+  "docket_number": "242 WAL (2015)",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.852,
+    "sha256": "30bd904ced25a1ff737da644f02cfcee43d0d76214605010b5ae922badc863e5",
+    "simhash": "1:019682a3d0b64951",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Isler"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1123",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Isler\n11/04/2015\n242 WAL (2015)"
+  },
+  "file_name": "0764-02",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

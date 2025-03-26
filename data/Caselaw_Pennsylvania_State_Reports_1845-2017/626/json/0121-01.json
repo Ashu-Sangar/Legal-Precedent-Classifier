@@ -1,0 +1,86 @@
+{
+  "id": 4253718,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Eric DUNN, Respondent",
+  "name_abbreviation": "Commonwealth v. Dunn",
+  "decision_date": "2014-07-01",
+  "docket_number": "Appeal, No. 777 MAL 2012",
+  "first_page": "121",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "626 Pa. 121"
+    },
+    {
+      "type": "parallel",
+      "cite": "95 A.3d 272"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "91 A.3d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4217041,
+        6959676,
+        6959773,
+        4216735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0183-01",
+        "/a3d/91/0102-01",
+        "/a3d/91/0102-02",
+        "/pa/625/0182-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 577,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.14285676470941572
+    },
+    "sha256": "b74ff65240baf5d1935c98fd7a0c2ec0287aa9a8b2fa0e345ac7d78d377a775c",
+    "simhash": "1:6dbf03964023cdbc",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T18:10:28.110990+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Eric DUNN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 1st day of July, 2014, it is hereby ordered that the Petition for Allowance of Appeal is GRANTED, the decision of the Superior Court is VACATED, and the matter is REMANDED to that court in light of this Court\u2019s decision in Commonwealth v. Gary, 91 A.3d 102 (Pa.2014). See Gary, at 138 (holding Pennsylvania law governing warrantless searches of motor vehicles is coextensive with federal law). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "95 A.3d 272\nCOMMONWEALTH of Pennsylvania, Petitioner v. Eric DUNN, Respondent.\nSupreme Court of Pennsylvania.\nJuly 1, 2014."
+  },
+  "file_name": "0121-01",
+  "first_page_order": 171,
+  "last_page_order": 172
+}

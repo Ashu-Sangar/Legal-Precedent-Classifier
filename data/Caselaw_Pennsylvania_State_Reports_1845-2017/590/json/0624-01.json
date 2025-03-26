@@ -1,0 +1,122 @@
+{
+  "id": 3851374,
+  "name": "COMMONWEALTH of Pennsylvania v. Joseph GAGNE and all Other Clients in Traffic Court of Richard Hoy Appeal of the Honorable Bernice DeAngelis, Administrative Judge of the Traffic Court of Philadelphia",
+  "name_abbreviation": "Commonwealth v. Gagne",
+  "decision_date": "2006-12-27",
+  "docket_number": "Appeal No. 25 EAP 2006",
+  "first_page": "624",
+  "last_page": "625",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "590 Pa. 624"
+    },
+    {
+      "type": "parallel",
+      "cite": "914 A.2d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820318
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0188-01"
+      ]
+    },
+    {
+      "cite": "661 A.2d 352",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7870893,
+        470782
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "370",
+          "parenthetical": "citing Goodheart v. Casey, 523 Pa. 188, 565 A.2d 757 (1989)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/661/0352-01",
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470782
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "144",
+          "parenthetical": "citing Goodheart v. Casey, 523 Pa. 188, 565 A.2d 757 (1989)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0108-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 655,
+    "ocr_confidence": 0.639,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.11531811314095919
+    },
+    "sha256": "8380b2ccffb9a1563ca56b3bd0eb045d263b88add4dc84af6563aac50d7efbf4",
+    "simhash": "1:7794efb4466f3da4",
+    "word_count": 106
+  },
+  "last_updated": "2024-02-27T21:15:09.294121+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Joseph GAGNE and all Other Clients in Traffic Court of Richard Hoy Appeal of the Honorable Bernice DeAngelis, Administrative Judge of the Traffic Court of Philadelphia."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of December, 2006, the Order of the Court of Common Pleas of Philadelphia County is Vacated. \u201cA motion for disqualification or recusal is properly directed to and decided by the jurist whose participation is challenged.\u201d Commonwealth v. Travaglia, 541 Pa. 108, 144, 661 A.2d 352, 370 (1995) (citing Goodheart v. Casey, 523 Pa. 188, 565 A.2d 757 (1989)).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "914 A.2d 867\nCOMMONWEALTH of Pennsylvania v. Joseph GAGNE and all Other Clients in Traffic Court of Richard Hoy Appeal of the Honorable Bernice DeAngelis, Administrative Judge of the Traffic Court of Philadelphia.\nSupreme Court of Pennsylvania.\nDec. 27, 2006."
+  },
+  "file_name": "0624-01",
+  "first_page_order": 850,
+  "last_page_order": 851
+}

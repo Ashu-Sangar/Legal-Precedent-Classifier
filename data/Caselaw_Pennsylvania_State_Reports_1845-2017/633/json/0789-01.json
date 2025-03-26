@@ -1,0 +1,80 @@
+{
+  "id": 12287281,
+  "name": "Rourke v. Pennsylvania Nat. Mut. Cas. Ins. Co.",
+  "name_abbreviation": "Rourke v. Pennsylvania Nat. Mut. Cas. Ins. Co.",
+  "decision_date": "2015-12-16",
+  "docket_number": "575 MAL (2015)",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 789"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6862504
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/116/0087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 103,
+    "ocr_confidence": 0.824,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24946357876463068
+    },
+    "sha256": "af1ac02d5780a4c5658930115e2d15d1f54768eb24cd3f9e2532093de1a927ab",
+    "simhash": "1:5f0220ab1cfe0d92",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rourke v. Pennsylvania Nat. Mut. Cas. Ins. Co."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 87",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Rourke v. Pennsylvania Nat. Mut. Cas. Ins. Co.\n12/16/2015\n575 MAL (2015)"
+  },
+  "file_name": "0789-01",
+  "first_page_order": 843,
+  "last_page_order": 843
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1286285,
+  "name": "Thomas Estate",
+  "name_abbreviation": "Thomas Estate",
+  "decision_date": "1959-11-09",
+  "docket_number": "Appeal, No. 150",
+  "first_page": "403",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "397 Pa. 403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "18 Pa. D. & C. 2d 677",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1640665
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/18/0677-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 422,
+    "ocr_confidence": 0.46,
+    "pagerank": {
+      "raw": 1.356045513217007e-07,
+      "percentile": 0.6345410485321731
+    },
+    "sha256": "37e46500a774940f94ecc294197e44cff6d6beeeab577d315fd5792c342c5137",
+    "simhash": "1:951364d043876c3f",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T23:35:29.106489+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Jones, Cohen, Bok and McBride, JJ."
+    ],
+    "parties": [
+      "Thomas Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe decree is affirmed on the opinion of Judge Kahauser, of the court below, reported in 18 Pa. D. & C. 2d 677.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Allen W. Brumoasser, for appellants.",
+      "Harold E. Harper, with him Alter, Wright & Barron, for appellee.",
+      "Herbert R. Hahn, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Estate.\nArgued October 1, 1959.\nBefore Jones, C. J., Bell, Jones, Cohen, Bok and McBride, JJ.\nreargument refused December 10, 1959.\nAllen W. Brumoasser, for appellants.\nHarold E. Harper, with him Alter, Wright & Barron, for appellee.\nHerbert R. Hahn, for appellee.\nNovember 9, 1959:"
+  },
+  "file_name": "0403-01",
+  "first_page_order": 431,
+  "last_page_order": 432
+}

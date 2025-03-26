@@ -1,0 +1,609 @@
+{
+  "id": 467414,
+  "name": "Agostin v. Pittsburgh Steel Foundry Corp., Appellant, et al.",
+  "name_abbreviation": "Agostin v. Pittsburgh Steel Foundry Corp.",
+  "decision_date": "1946-06-25",
+  "docket_number": "Appeal, No. 7",
+  "first_page": "543",
+  "last_page": "556",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "354 Pa. 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "43 A. 2d 604",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Pa. Superior Ct. 322",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1061498
+      ],
+      "pin_cites": [
+        {
+          "page": "324"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/157/0322-01"
+      ]
+    },
+    {
+      "cite": "266 U.S. 405",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142375
+      ],
+      "pin_cites": [
+        {
+          "page": "p. 427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/266/0405-01"
+      ]
+    },
+    {
+      "cite": "195 A. 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "328 Pa. 97",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1179710
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/328/0097-01"
+      ]
+    },
+    {
+      "cite": "18 Pa. Superior Ct. 313",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        837372
+      ],
+      "pin_cites": [
+        {
+          "page": "318-319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/18/0313-01"
+      ]
+    },
+    {
+      "cite": "136 U.S. 646",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 A. 836",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        563086
+      ],
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/124/0183-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 373",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        1134217
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "p. 377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/80/0373-01"
+      ]
+    },
+    {
+      "cite": "110 A. 731",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061509
+      ],
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/268/0163-01"
+      ]
+    },
+    {
+      "cite": "127 A. 845",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 Pa. 362",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1088402
+      ],
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/282/0362-01"
+      ]
+    },
+    {
+      "cite": "131 A. 265",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "284 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092095
+      ],
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0455-01"
+      ]
+    },
+    {
+      "cite": "228 U.S. 148",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3667625
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "155"
+        },
+        {
+          "page": "p. 157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/228/0148-01"
+      ]
+    },
+    {
+      "cite": "290 U.S. 326",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3919312
+      ],
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/290/0326-01"
+      ]
+    },
+    {
+      "cite": "38 A. 2d 431",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Pa. Superior Ct. 86",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1057052
+      ],
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/155/0086-01"
+      ]
+    },
+    {
+      "cite": "36 A. 2d 252",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Pa. Superior Ct. 465",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1053851
+      ],
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/154/0465-01"
+      ]
+    },
+    {
+      "cite": "23 A. 2d 737",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 Pa. 573",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1208315
+      ],
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/343/0573-01"
+      ]
+    },
+    {
+      "cite": "29 A. 2d 328",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 Pa. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1216508
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/346/0013-01"
+      ]
+    },
+    {
+      "cite": "14 A. 2d 111",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 Pa. 112",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1201284
+      ],
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/339/0112-01"
+      ]
+    },
+    {
+      "cite": "33 A. 2d 61",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Pa. Superior Ct. 530",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1048131
+      ],
+      "pin_cites": [
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/152/0530-01"
+      ]
+    },
+    {
+      "cite": "25 A. 2d 163",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "344 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1211039
+      ],
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/344/0163-01"
+      ]
+    },
+    {
+      "cite": "323 Pa. 483",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169549
+      ],
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/323/0483-01"
+      ]
+    },
+    {
+      "cite": "16 Wall. 314",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        411290
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/83/0314-01"
+      ]
+    },
+    {
+      "cite": "12 Wheat. 213",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429818
+      ],
+      "pin_cites": [
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/25/0213-01"
+      ]
+    },
+    {
+      "cite": "8 Wheat. 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        6136159
+      ],
+      "pin_cites": [
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/21/0001-01"
+      ]
+    },
+    {
+      "cite": "126 A. 257",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "281 Pa. 227",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1087034
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/281/0227-01"
+      ]
+    },
+    {
+      "cite": "81 Pa. Superior Ct. 403",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        655557
+      ],
+      "pin_cites": [
+        {
+          "page": "407, 408"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/81/0403-01"
+      ]
+    },
+    {
+      "cite": "14 A. 2d 111",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "339 Pa. 112",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1201284
+      ],
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/339/0112-01"
+      ]
+    },
+    {
+      "cite": "25 A. 2d 163",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "344 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1211039
+      ],
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/344/0163-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 958,
+    "char_count": 23562,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 7.330986467246661e-07,
+      "percentile": 0.9686495235822629
+    },
+    "sha256": "6d953bc63d00cde4256c433f829b595fa206303182f404a6a8ce8d0ad88d40be",
+    "simhash": "1:4e66a780823894fc",
+    "word_count": 3932
+  },
+  "last_updated": "2024-02-27T18:24:55.618787+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ.",
+      "Mr. Justice Drew concurs in the result."
+    ],
+    "parties": [
+      "Agostin v. Pittsburgh Steel Foundry Corp., Appellant, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Jones,\nThis is an appeal from a judgment of the Superior Court affirming a judgment of the County Court of Allegheny County against the defendant company for its liability for fifty per cent of an award of compensation for the claimant\u2019s total disability due to silicosis. The Commonwealth, responsible for the other fifty per cent of the award, did not appeal. We allowed the instant appeal because of the possible presence of a constitutional question as suggested by the petitioning appellant\u2019s representation that \u201cThe decision of the Superior Court impairs the obligation of the contract of employment between claimant and defendant\u201d.\nThe claimant quit his employment with the defendant company on January 20, 1938, being unable longer to continue at work on account of partial disability due to silicosis. For more than eight years immediately preceding January 20, 1938, he had been subjected to a silicotic hazard in the course of his employment as a \u201cchipper\u201d in the defendant company\u2019s foundry.\nAt the time claimant left the defendant\u2019s employ, the Occupational Disease Compensation Act of July 2,1937, P. L. 2714, 77 P.S. \u00a7 1101, was in force and was a part of the contract of employment between him and the defendant: McIntyre v. E. J. Lavino & Co., 344 Pa. 163, 168, 25 A. 2d 163; Keim v. Cambria Fuel Company, 152 Pa. Superior Ct. 530, 532, 33 A. 2d 61. The legislative intent of the Act of 1937 was \u201c. . . to bring all silicosis sufferers, whether partially or totally disabled, under the Act . . : Moffett v. Harbison-Walker Refractories Company, 339 Pa. 112, 117, 14 A. 2d 111. But, by the terms of the Act partial disability was not compensable ? Sec. 5 (b). Nor did the employee retain any right to sue in tort for damages for his partial disability even though it was not compensable: Moffett v. Harbison-Walker Refractories Company, supra. The certainty of that situation was definitely confirmed in the present instance. In January 1939, while the claimant\u2019s disability still continued partial, he sued the employer at law for damages on the ground that his disability was the result of the employer\u2019s negligence. \u2022 That suit terminated in a compulsory nonsuit which the trial court was, of course, under the necessity of entering on the authority of the decision in the Moffett case, supra. Thus, by virtue of the compensation statute, while the disability remained partial, the employee had neither a compensable claim nor a common law right of action for damages for his' injury.\nThe theory of the Moffett case was (p. 116) that, with the attaching of the compensation statute to the contract of employment, the employee \u201cgave up his right to sue in tort for the absolute certainty provided by the Act of receiving the compensation on bringing himself within its compensatory clauses\u201d. (Emphasis supplied). Yet, that benefit could be obtained only when the disability had become total. For total disability, compensation was payable if \u201csuch disability results within two years after the last exposure in such employment\u201d: Sec. 3 and Sec. 6 (b). Nor is it of any materiality to the accrual of the right to compensation for total disability from silicosis that the employment had been terminated before the disability became total. The only requirement in such regard is that the disability shall have been incurred and shall have become total in the manner and within the period prescribed by the statute: see McIntyre v. E. J. Lavino & Co., supra. As Mr. Justice Horace Stern aptly observed in the McIntyre case, \u201cSurely it was not intended that,, if an occupational disease arising in the course of the employment culminated in a disability which manifested itself after the employment had ceased, the disability could not be the subject of compensation, for otherwise, after an employe had been exposed to the hazard for years and the seeds of occupational disease had been sown in his body, his employer could discharge him and thus avoid compensation liability for a resulting disability which might reveal itself shortly, or even immediately, thereafter.\u201d\nHere, the claimant\u2019s last exposure to the silicotic hazard in the course of his employment was on January 20, 1938; and, on November 7, 1939 (after a span of one year and nine months), he became totally disabled by the occupational illness. Accordingly, he had a right to compensation, under the provisions of the Act of 1937, as a continuing unfulfilled obligation of his former contract of employment: McIntyre v. E. J. Lavino & Co., supra. In the meantime, however, the Act of 1937 had been repealed by the Occupational Disease Compensation Act of June 21, 1939, P. L. 566, 77 P.S. \u00a7 1201, which by its terms became effective on October 1, 1939. But, it is not disputed that, except as the Act of 1939 may have intervened to control otherwise, the claimant\u2019s total disability was compensable according to the terms of the statute to which his contract of employment was subject.\nClearly, the legislature could not have intended, by the repeal, to wipe out the claimant\u2019s vested contract right. No other interpretation is legally permissible in the circumstances: Pennsylvania Company, etc., v. Scott, 346 Pa. 13, 19, 29 A. 2d 328; Hotel Casey Company v. Ross, 343 Pa. 573, 578, 23 A. 2d 737; see also Statutory Construction Act of 1937, Sec. 52 (3), 46 P.S. \u00a7 552 (3). If the Act of 1939 were construed to other effect, it would manifestly work an impairment of the obligations of the claimant\u2019s contract with the defendant in violation of both the Federal (Art. 1, Sec. 10) and State (Art. 1, Sec. 17) Constitutions. Not only was the legislature constitutionally prohibited from disturbing the claimant\u2019s contractual rights, but its intent in fact was not to do so. In providing by Sec. 302 (a) of the Act of 1939 that \u201cEvery contract of hiring . . . made or implied on or before October first [1939] . . . shall be conclusively presumed to continue .. . .\u201d, the legislature immediately directed \u201cthat the provisions of this section shall not be so construed as to impair the obligation of any contract now in force\u201d. While the presumption, thus legislatively provided, could not operate to create a new contract between the claimant and the defendant when the employment had already actually terminated, the legislature\u2019s concern that it not violate any vested contract right by the 1939 enactment is, at least, evidenced in part by the proviso. In passing, it may be noted that the contract impairment to which we have referred is not the situation whereof the appellant complains. We shall come to that later.\nIn any event, we do not understand the appellant to contend that the Act of 1939 extinguished the claimant\u2019s right to compensation. Rather, its position is that it was the Act of 1937 which furnished the claimant with his substantive right to compensation. With that, we agree. But, the appellant further maintains that, by virtue of the Act of 1937, it was necessary for Agostin to file his claim for compensation for total disability within two years of the time he ceased working, i. e., by January 20, 1940. With that, we do not agree.\nWhile the Act of 1937 (the compensation statute in force when the employment terminated) supplied the claimant with his substantive right, it was the Act of \u20221939 (in force when the compensable injury matured within two years of his last exposure to the hazard) which provided the procedure for the enforcement of the right: see Jones v. Philadelphia & Reading Coal & Iron Co., 154 Pa. Superior Ct. 465, 468, 36 A. 2d 252; cf. also Hartman v. Pennsylvania Salt Manufacturing Company, 155 Pa. Superior Ct. 86, 88, 38 A. 2d 431. Even though the Act of 1937 was repealed, its compensatory-terms, which had been and, at all relevant times, necessarily remained an integral part of the claimant\u2019s contract with the defendant, continued none the less to be evidential of the claimant\u2019s contractual right to compensation for the disability and the defendant\u2019s liability therefor.\nWhat the Act of 1939 did at once effectually accomplish, without interfering with vested rights, was to repeal the procedure prescribed by the Act of 1937 for the enforcement of compensation claims and supply, inter alia, a different limitation for the filing of claims. That, the legislature could constitutionally do. No one has a vested right in a statute of limitations or other procedural matters. The legislature may at any time alter, amend or repeal such provisions without off ending constitutional restraints. So long as there is no omission of a remedy for the enforcement of a right for which a remedy existed when the right accrued, a want of due process is in no way involved: see Gibbes v. Zimmerman, 290 U.S. 326, 332; Ettor v. City of Tacoma, 228 U.S. 148, 155; Kariher\u2019s Petition (No. 1), 284 Pa. 455, 470, 131 A. 265; Philadelphia, Baltimore & Washington R. R. v. Quaker City Flour Mills Co., 282 Pa. 362, 365, 127 A. 845; Kuca v. Lehigh Valley Coal Co., 268 Pa. 163, 166, 110 A. 731.\nThe question as to which of the two statutes prescribed the applicable limitation for the filing of Agostin\u2019s claim, after his injury had become compensable on November 7, 1939, arises out of the appellant\u2019s contention that it was the Act of 1937 and that the claim, which was filed on September 17, 1940, was outlawed by that statute. The operative limitation, however, to a clai-m for a compensable injury after the effective date of the repeal of 1939 was provided by that statute: see Jones v. Philadelphia & Reading Coal & Iron Co., supra. No limitation otherwise existed. The repeal of the prior time limit, which was constitutionally within the legislature\u2019s competence, was immediate upon tlie effective date. And, the time Avithin Avhich a claim petition for total disability had to be filed, as fixed by Sec. 315 of the Act of 1939, is \u201cone year after the disability begins\u201d. Consequently, the instant claim was filed timely.\nIn further ansAver to the appellant\u2019s contention in this connection, even if the period of limitations as fixed by the Act of 1937 was applicable, the claim was none the less filed in time. The limitation to the filing of compensation claims, as provided by Sec. 315 of the Workmen\u2019s Compensation Act of 1937, which the supplementary Occupational Disease Compensation Act of that same year adopted by reference, was two years from the date of the accident. The appellant advances an ingenious argument that, in the case of disability from silicosis, the date of the injury or accident (i. e., disability) is when the employee \u201cbecame disabled from earning full wages\u201d notwithstanding that the disability Avas then, and for some time thereafter, partial and therefore not compensable. According to the appellant\u2019s view, the statute began to run on January 20, 1938, the day the claimant\u2019s employment terminated. That contention, if accepted, Avould lead to an impossible situation. An employee who was forced to quit work because of partial disability from silicosis and whose disability did not become total until the last day of the two-year period following his cessation of Avork would have but one day, and that day only, upon which to file his claim for the injury although it had never theretofore been compensable. Such a result is not to be effected by interpretation and especially not where the language of the statute does not demand it: see Statutory Construction Act of 1937, Sec. 52 (1), 46 P.S. \u00a7 552 (1).\nThere is no need to labor the answer to the appellant\u2019s argument in such regard. In McIntyre v. E. J. Lavino & Co., supra, this Court, in construing the Occupational Disease Compensation Act of 1937, said (p. 166) that Sec. 3 \u201c. . . makes the occurrence of the disability the event which constitutes the compensable injury, although the disability is necessarily preceded by an exposure and an occupational disease of which it is the culmination\u201d. The time, therefore, when total disability occurred was the date which began the running of the statute under either the Act of 1937 or the Act of 1839. The only substantial difference between the two Acts with respect to the period of limitations is that, under the Act of 1937 (with its two-year period of limitations), the claimant would have had until November 7, 1941, to file his claim petition, i. e., a year longer than under the applicable limitation of the 1939 Act.\nThe appellant\u2019s remaining contention is that, by applying the administrative provisions of the Act of 1939 in making an award under a contract subject to the substantive provisions of the 1937 Act, the employer\u2019s rights are violated because the contributions required of him by the 1939 Act are greater than those fixed by the 1937 Act. In introducing occupational diseases as subjects of compensation, the legislature in the 1937 statute provided (Sec. 7 (a)) that in the first year of the operation of the Act (which became effective January 1, 1938) the employer should be responsible for ten per cent of an award for disability from occupational disease, twenty per cent in the second year, and so on, increasing ten per cent each succeeding year until ten years had elapsed, when the employer was to be responsible for payment of the whole of an award for disability. The portions of such awards as were not payable by employers, during the first ten years of the Act, were to be paid by the State Workmen\u2019s Insurance Board out of its appropriation. Consequently, for a disability occurring in 1939 the defendant would have been responsible for two-tenths of the award had the 1937 Act continued in force. But, by the 1939 statute, the employer\u2019s contribution was increased so as to make him responsible for fifty per cent of a total disability award. It was on the latter basis that the award in this ease was apportioned.\nThere is no merit in the appellant\u2019s contention that the change in the amount of the State\u2019s contribution impaired the defendant\u2019s contractual obligations. What-the State gave toward the liquidation of awards for disability from occupational illness was in exercise of its police power and not pursuant to any contract between the State and the employer. For the State to take away or change the amount of its voluntary contribution in no wise operated to impair the obligation of the appellant\u2019s contract with the claimant. By that contract, the appellant\u2019s obligation to pay the employee compensation for disability due to occupational disease according to scheduled rates was absolute (see Secs. 3 and G (1>;J and not dependent upon the State\u2019s discharge of its voluntary assumption to pay a portion of the awards. In Ettor v. City of Tacoma, supra, at p. 157, Mr. Justice Lurton reviewed the case of Salt Company v. East Saginaw, 13 Wall. 373, in the following language which is highly pertinent here,-\u2014\u201cFor the purpose of encouraging the manufacture of salt the State of Michigan, by a general statute addressed to no particular person or corporation, offered a bounty upon salt produced and exempted from taxation the property engaged in the business. After a time the act was repealed. The claim was that the exemption constituted a contract, and that it could not be repealed without impairing the obligation of the contract. But this court said that the exemption did not constitute a contract and was nothing more nor less than a law dictated by public policy for the encouragement of an industry. So long as the law was in force the State promised the exemption and bounty, but there was no pledge that it should not be repealed at any time.\u201d Cf. also Pennsylvania R. Co. v. Mary Bowers, 124 Pa. 183, 192, 16 A. 836, writ of error dismissed, 136 U.S. 646; Lawrence County v. City of New Castle, 18 Pa. Superior Ct. 313, 318-319.\nThe character of the State\u2019s contributions on account of awards of compensation for disability due to occupational diseases is the more apparent when viewed in the light of the fact that the whole of the responsibility could have at once been legislatively placed upon the employer ivho, moreover, because of the compensation statute, was relieved of his liability in tort for ordinarily heavier damages for which he had been solely responsible: cf. Billo v. Allegheny Steel Company, 328 Pa. 97, 195 A. 110. The employer did not acquire by the Occupational Disease Compensation statute any vested right to a continuation of the State\u2019s contributions. \u201cThere is no pledge that [such contributions] shall not be repealed at any time\u201d: Salt Company v. East Saginaw, supra, at p. 377. Every employer electing to accept the Occupational Disease Compensation Act was bound with knowledge that such was the status of the State\u2019s participation. There is, therefore, no basis for a private estoppel even if the sovereign\u2019s constitutional legislative powers could be so thwarted. As was said by the Supreme Court, speaking through Mr. Justice Holmes, in Sanitary District of Chicago v. United States, 266 U.S. 405, at p. 427,-\u2014-\u201cA State cannot estop itself by grant or contract from the exercise of the police power.\u201d The reduction or taking away by a subsequent legislature of the State\u2019s voluntary contributions neither impaired the obligations of any contract of the defendant nor worked a deprivation of its property without due process of law.\nThe judgment of the Superior Court is affirmed.\nMr. Justice Drew concurs in the result.\nSee Agostin v. Pittsburgh Steel Foundry Corporation, 157 Pa. Superior Ct. 322, 324, 43 A. 2d 604.",
+        "type": "majority",
+        "author": "Mr. Justice Jones,"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Justice Patterson:\nThis Court has repeatedly held that Workmen\u2019s Compensation is a system of compensation not imposed by law but established by agreement of the parties implied from their failure to express an intention to the contrary. In McIntyre v. Lavino & Co., 344 Pa. 163, 168, 25 A. 2d 163, it was said: \u201cWhen employer and employe accept compensation legislation their relation in regard to it becomes contractual and their rights are to be determined under its provisions: Liberato v. Royer & Herr, 81 Pa. Superior Ct. 403, 407, 408, affirmed 281 Pa. 227, 126 A. 257.\u201d Since claimant was in appellant\u2019s employ on the effective date of the Act of 1937 and neither party expressed an intention not to be bound by it, they voluntarily submitted to its terms and thereby appellant assumed the duty of paying compensation to claimant for total disability from silicosis should it subsequently reveal itself. Claimant in return gave up his right to sue in tort for the absolute certainty provided by the Act of receiving the compensation on bringing himself within its compensatory clauses: Moffett v. Harbison-Walker Co., 339 Pa. 112, 116, 14 A. 2d 111. In legal effect the parties, by failing to express an intention not to be bound by the Act, incorporated its terms into their contract as if expressly written therein. By the terms of his contract with the appellant existing on the effective date of the Act of 1939 claimant was entitled to compensation in lieu of common law damages. Such right is contractual rather than a right or benefit conferred by the statute itself; and repeal of the statute cannot abrogate such vested contractual right. Any conclusion to the contrary would shake the very foundations on which the validity of much of our system of Workmen\u2019s Compensation depends.\nThe real question is not whether claimant is entitled to compensation but whether his right thereto is governed by the Act of 1937 or by the Act of 1939. As the majority opinion points out, it is immaterial which Act applies so far as the question of the statute of limitations is concerned. Under either the Act of 1937 or the Act of 1939 the claim was filed in time. Not so, however, on the question of the amount of' compensation payable by appellant. If the Act of 1939 applies appellant must pay 50% of the amount of the award; whereas, if the Act of 1937 controls appellant is liable only for two-tenths of the award. In the case of certain occupational diseases, including silicosis, the Act of 1937 provided (section 7) that the compensation shall \u201cbe payable jointly by the Commonwealth and the employer as follows : . . . during the first year . . . the employer shall be liable for and pay one-tenth of the compensation . . . Thereafter for each successive year of such ten-year period . . . the employer shall be liable for and shall pay one-tenth more of such compensation . . (Italics supplied). The majority hold that it is the Act of 1937 which supplies claimant with his substantive right to compensation, but conclude that the Act of 1939 applies in determining the amount appellant is obligated to pay. No impairment of the obligation of appellant\u2019s contract is involved in thus increasing the amount payable by it from $720 to $1800, according to the majority, on the theory that this is a mere administrative or procedural matter, or on the theory that the Act of 1937 imposed on the employer an absolute duty to pay the full amount of compensation awarded, and that the payments required to be made by the Commonwealth of the percentages fixed by the Act were mere voluntary gratuities in relief of such obligation. With this I cannot agree. The reasoning of the majority points to a conclusion that the claimant could not acquire a vested right to a continuation of the Commonwealth\u2019s contributions; but it does not satisfactorily answer appellant\u2019s contention, based on an assumption that it is the Act of 1937 which furnishes claimant\u2019s substantive right to compensation, that an impairment of the obligation of its contract with claimant is involved. \u201cThe amount of impairment of the substantive obligation of a contract is immaterial. Any deviation from its terms, however slight, falls within the meaning of the constitution: Greene v. Biddle, 8 Wheat. 1, 84; Ogden v. Saunders, 12 Wheat. 213, 256; Walker v. Whitehead, 16 Wall. 314, 318\u201d: Beaver Co. B. & L. v. Winowich et ux., 323 Pa. 483, 493.\n\u25a0 Claimant\u2019s rights, procedural and substantive as well, remained under the Act of 1989. When that Act was enacted claimant\u2019s employment with the appellant had terminated but his contract with appellant had not. The contractual provisions relating to compensation for disability from silicosis continued in operation down to the effective date of the Act of 1939. There was, on that date, a contract of hiring in operation within the language and intendment of section 302(a) of that Act, providing that \u201cEvery contract of hiring, oral, written, or implied from circumstances, now in operation . . . shall be conclusively presumed to continue subject to the provisions of article three hereof . . . unless either party shall . . . [give notice] . . . that the provisions of article three hereof are not intended to apply.\u201d (Italics supplied.) Neither party having expressed an intention not to be bound thereby, it follows that the Act of 1939 applies. By their failure to express an intention to the contrary, in a manner provided by section 302(a), the parties have agreed that their contract be modified accordingly: McIntyre v. Lavino, supra, 168.\nFor the reasons stated I concur in the conclusion of the majority that the judgment of the Superior Court be affirmed.",
+        "type": "concurrence",
+        "author": "Mr. Justice Patterson:"
+      }
+    ],
+    "attorneys": [
+      "P. K. Moth eral, with him Sherman T. Rock and Reed, Smith, Shaw & McGlay, for appellant.",
+      "Murray J. J ordan, with him Fred J. J or dan, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Agostin v. Pittsburgh Steel Foundry Corp., Appellant, et al.\nArgued March 25, 1946.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ.\nP. K. Moth eral, with him Sherman T. Rock and Reed, Smith, Shaw & McGlay, for appellant.\nMurray J. J ordan, with him Fred J. J or dan, for appellee.\nJune 25, 1946:"
+  },
+  "file_name": "0543-01",
+  "first_page_order": 649,
+  "last_page_order": 662
+}

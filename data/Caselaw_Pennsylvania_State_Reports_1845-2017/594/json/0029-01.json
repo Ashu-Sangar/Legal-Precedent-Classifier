@@ -1,0 +1,130 @@
+{
+  "id": 3595505,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Carole Lynn ENGLISH, Appellee",
+  "name_abbreviation": "Commonwealth v. English",
+  "decision_date": "2007-11-21",
+  "docket_number": "Appeal No. 44 WAP 2005",
+  "first_page": "29",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "594 Pa. 29"
+    },
+    {
+      "type": "parallel",
+      "cite": "934 A.2d 701"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "926 A.2d 968",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3556369,
+        8375644
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "971"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0577-01",
+        "/a2d/926/0968-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 577",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556369
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0577-01"
+      ]
+    },
+    {
+      "cite": "923 A.2d 1138",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3556578,
+        8311638
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0164-01",
+        "/a2d/923/1138-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556578
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 94,
+    "char_count": 906,
+    "ocr_confidence": 0.64,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10242624183880991
+    },
+    "sha256": "0cdf755b9665cd37be1a3583b7d9139234c40636dd43bb8eaac3bdd6bf659c13",
+    "simhash": "1:64fb06cab231a57e",
+    "word_count": 147
+  },
+  "last_updated": "2024-02-27T23:28:17.435854+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. Carole Lynn ENGLISH, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of November, 2007, the order of the Allegheny County Court of Common Pleas is reversed insofar as it declared Section 3802 of the Vehicle Code, 75 Pa.C.S. \u00a7 3802, unconstitutional, and the case is remanded for further proceedings. This Court upheld the constitutionality of Sections 3802(a)(2) and 3802(c) in Commonwealth v. Duda, 592 Pa. 164, 923 A.2d 1138 (2007), and Commonwealth v. Finchio, 592 Pa. 577, 926 A.2d 968 (2007), respectively. Although Appellee was charged under Section 3802(b), this Court explained in Finchio that \u201c[t]he difference in the statutory BAC threshold is immaterial to the analysis employed in Duda.\u201d Finchio, 926 A.2d at 971. The Commonwealth\u2019s petition for an immediate remand is dismissed as moot.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "934 A.2d 701\nCOMMONWEALTH of Pennsylvania, Appellant, v. Carole Lynn ENGLISH, Appellee.\nSupreme Court of Pennsylvania.\nNov. 21, 2007."
+  },
+  "file_name": "0029-01",
+  "first_page_order": 103,
+  "last_page_order": 103
+}

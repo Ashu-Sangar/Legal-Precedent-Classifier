@@ -1,0 +1,666 @@
+{
+  "id": 819994,
+  "name": "MARY S. LOGAN v. S. A. GARDNER ET AL.",
+  "name_abbreviation": "Logan v. Gardner",
+  "decision_date": "1890-10-06",
+  "docket_number": "No. 341",
+  "first_page": "588",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 Pa. 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Warren Cty. C.P.",
+    "id": 9086,
+    "name": "Warren County Court of Common Pleas"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "74 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1034733
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/74/0059-01"
+      ]
+    },
+    {
+      "cite": "2 Gr. 96",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        227719
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/2/0096-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492893
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0394-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492960
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0240-01"
+      ]
+    },
+    {
+      "cite": "86 Pa. 447",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056593
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/86/0447-01"
+      ]
+    },
+    {
+      "cite": "126 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        968929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/126/0074-01"
+      ]
+    },
+    {
+      "cite": "52 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002243
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/52/0400-01"
+      ]
+    },
+    {
+      "cite": "107 Pa. 395",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8857884
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/107/0395-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492948
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0262-01"
+      ]
+    },
+    {
+      "cite": "29 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        982766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/29/0375-01"
+      ]
+    },
+    {
+      "cite": "3 Wh. 424",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 Pa. 172",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038908
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/76/0172-01"
+      ]
+    },
+    {
+      "cite": "12 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963774
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/12/0209-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/50/0368-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 384",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "48 Pa. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "59 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426925
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/59/0214-01"
+      ]
+    },
+    {
+      "cite": "45 Am. Dec. 565",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Ohio 156",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        491947
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/15/0156-01"
+      ]
+    },
+    {
+      "cite": "5 Ohio 253",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wall. 617",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3440328
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/76/0617-01"
+      ]
+    },
+    {
+      "cite": "123 Pa. 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967143
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/123/0262-01"
+      ]
+    },
+    {
+      "cite": "1 Gr. 114",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        225910
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/1/0114-01"
+      ]
+    },
+    {
+      "cite": "94 Pa. 418",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        486573
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/94/0418-01"
+      ]
+    },
+    {
+      "cite": "101 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        500954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/101/0371-01"
+      ]
+    },
+    {
+      "cite": "110 Pa. 486",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        543726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/110/0486-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 298",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0298-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 472",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492873
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0472-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 306",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434819
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/72/0306-01"
+      ]
+    },
+    {
+      "cite": "59 Pa. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/59/0013-01"
+      ]
+    },
+    {
+      "cite": "71 Pa. 476",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1031232
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/71/0476-01"
+      ]
+    },
+    {
+      "cite": "9 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960694
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/9/0014-01"
+      ]
+    },
+    {
+      "cite": "117 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        555817
+      ],
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/117/0570-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1053586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/84/0391-01"
+      ]
+    },
+    {
+      "cite": "2 P. & W. 19",
+      "category": "reporters:state",
+      "reporter": "Pen. & W.",
+      "case_ids": [
+        8877333
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pen-w/2/0019-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        422244
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/48/0147-01"
+      ]
+    },
+    {
+      "cite": "31 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        985079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/31/0331-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 379",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/37/0379-01"
+      ]
+    },
+    {
+      "cite": "81 Mo. 221",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        425391
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/81/0221-01"
+      ]
+    },
+    {
+      "cite": "88 Ill. 378",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5337264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/88/0378-01"
+      ]
+    },
+    {
+      "cite": "70 Me. 236",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        649457
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/70/0236-01"
+      ]
+    },
+    {
+      "cite": "3 N. Y. 53",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2007242
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/3/0053-01"
+      ]
+    },
+    {
+      "cite": "5 Yerg. 41",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        11265583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/13/0041-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. 253",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        432422
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/66/0253-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454291
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/105/0375-01"
+      ]
+    },
+    {
+      "cite": "126 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        968929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/126/0074-01"
+      ]
+    },
+    {
+      "cite": "52 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002243
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/52/0400-01"
+      ]
+    },
+    {
+      "cite": "59 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426925
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/59/0214-01"
+      ]
+    },
+    {
+      "cite": "9 Wall. 617",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3440328
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/76/0617-01"
+      ]
+    },
+    {
+      "cite": "71 Pa. 476",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1031232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/71/0476-01"
+      ]
+    },
+    {
+      "cite": "9 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960694
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/9/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1133,
+    "char_count": 30634,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 9.034140386713833e-07,
+      "percentile": 0.9790182748106163
+    },
+    "sha256": "66f34a50954e1d53a03855f4d656328bacb9e1870243bceabddd2b37ac1ad8cd",
+    "simhash": "1:d4b3413baec99c07",
+    "word_count": 5376
+  },
+  "last_updated": "2024-02-27T21:11:46.841605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Paxson, C. J., Green, Clark, Williams and Mitchell, JJ."
+    ],
+    "parties": [
+      "MARY S. LOGAN v. S. A. GARDNER ET AL."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion,\nMjb. Justice Mitchell:\nThe defence was a deed from plaintiff and her husband, to which the reply was, first, a denial of the making of any deed; and, secondly, infancy at the date of the alleged execution. To this second point, the defence rejoined acts of ratification by estoppel. The cardinal facts, therefore, upon which the jury had to pass, were the execution of the alleged lost deed, the infancy of plaintiff at that time, and the acts of estoppel.\nAs a married woman, the plaintiff could only pass her title in the statutory mode. A disability imposed by law cannot be set aside or evaded indirectly by acts of the party : Glidden v. Strupler, 52 Pa. 400; Grim\u2019s App., 105 Pa. 375; Stivers v. Tucker, 126 Pa. 74. The learned judge, therefore, correctly instructed the jury that if defendant had not proved the making and acknowledgment of the deed as required by the statute, they need not go further, but should return a verdict for plaintiff.\nThe appellant\u2019s third and fourth specifications of error complain that too strict a measure of proof was required as to the contents of the lost deed, and that proof of the certificate of acknowledgment alone was sufficient until the certificate was called in question. But the present contention would be more tenable if appellant had asked the court to say specifically that proof of the certificate was sufficient prima facie proof of the execution of the deed and of its contents, so far as they were recited therein. If the deed had been produced, it would have been necessary to show that it contained all the requisites for the conveyance of plaintiff\u2019s title; and a party claiming under a lost deed must be held to proof of the same requisites: Krise v. Neason, 66 Pa. 253. The general effect of the charge on this point was correct, and we do not think the jury could have been misled in any way by it. The third and fourth assignments of error are not sustained.\nThe disabilities of coverture and infancy are separate and independent, and the mere fact that they both occur in connection with the same act, does not give either of them any greater force than it would have had separately. If a deed duly acknowledged had been produced, it would have made an end of the question of coverture in the case, and proof of the deed to the satisfaction of the jury would be equivalent to its production. The statute makes no distinction between femes-covert of full age and those under age; its requirements are the same for all. If, therefore, the jury were satisfied that a deed had been made by plaintiff, the objection of coverture was avoided, and defendant had only to meet that of infancy.\nThe effect to be given to an infant\u2019s deed was long the subject of controversy, but the decided weight of authority now is that it is voidable only; that the title passes by it, and remains in the grantee until some clear act of disaffirmance is done by the grantor after coming of age. The different views are discussed by Strong, J., in Irvine v. Irvine, 9 Wall. 617, 627, and the authorities are well collected in 10 Am. & E. Encyc. of Law, tit., \u201c Infants,\u201d p. 649, etc. The law makes no distinction between the deeds of infants on account of sex; nor, as already said, is the disability of coverture made any greater or any different by the additional disability of infancy. They remain separate and distinct. The dictum of Chief Justice Gibson, in Schrader v. Decker, 9 Pa. 14, that the deed, \u201c being executed while the wife was an infant, is absolutely void,\u201d must therefore be referred to the unsettled position of the law at that time. The modern authorities are clearly the other way. The cases also show that the infant may affirm his deed by much less formal acts than would be sufficient to avoid it, and clearly by any act which amounts to an estoppel: Irvine v. Irvine, supra; Wheaton v. East, 5 Yerg. 41; Bostwick v. Atkin, 3 N. Y. 53; Davis v. Dudley, 70 Me. 236; Wallace v. Lewis, 4 Harr. (Del.) 75; Tunison v. Chamblin, 88 Ill. 378, 386 ; Singer Co. v. Lamb, 81 Mo. 221. The iknowledgment and certificate, even if in the strict statu ' form, would not estop a feme-covert from showing her infancy at the time: Williams v. Baker, 71 Pa. 476. But, when it is said in that case, that she could not ratify a deed after coming of age, except by a re-acknowledgment in the mode prescribed by the statute, this must be understood as limited to ratification during coverture. As soon as she becomes discovert, and of full age, she stands in the same position in regard to acts of estoppel in pais as other persons sui juris. In the present case, the plaintiff, in 1879, being then of full age, left her husband on account of his treatment, for which she subsequently obtained a divorce. The judge charged the jury, and we must assume rightly, upon the evidence, as that point is not now before us, that from 1879 to 1882 plaintiff was under no legal disability, and her acts and conduct, with regard to their effect upon her title, were those of an unmarried person, and of course of a person of full age. But, in answering the defendant\u2019s points, the jury were told that, before they could find an estoppel, they must be satisfied that the plaintiff, with knowledge of her rights, and of the improvements and expenditures being made on the premises, acquiesced in and encouraged such improvements. This presents the only substantial question in the case.\nThe doctrine of estoppel in pais has been very much ex-' panded in modern times, particularly in Pennsylvania, where equitable principles are applied in actions at law. The cases are very numerous, but it is not necessary to refer to more than a few of them. In Woods v. Wilson, 37 Pa. 379, the subject was discussed by Chief Justice Thompson, and it was held that silence, in ignorance of one\u2019s own right or of another\u2019s expenditures, will not estop, but that mere silence, with knowledge, is evidence from which a jury may find an estoppel. See, also, Hill v. Epley, 31 Pa. 331, and Miranville v. Silverthorn, 48 Pa. 147. These decisions rest on the ground that the circumstances were such as to raise a duty to speak, and that failure to do so is either a fraud, or would work such an injury as would be equivalent to a fraud, if the party should not be es-topped. On the other hand, it was held as early as Buchanan v. Moore, 13 S. & R. 304, and Robinson v. Justice, 2 P. & W. 19, that positive acts of encouragement, or which help to mislead, will raise an estoppel, without any fraud and irrespective of the party\u2019s knowledge of his own rights. And, as was pointed out by Chief Justice Gibson, this result rests on a different principle; that, of two innocent parties, the one who occasioned the loss must bear it. See, also, Chapman v. Chapman, 59 Pa. 214; Miller\u2019s App., 84 Pa. 391; and Putnam v. Tyler, 117 Pa. 570, 586. The distinction, therefore, between the cases where acts or declarations of encouragement are necessary to create an estoppel, and those where mere silence or acquiescence will be sufficient, is one of principle, and each case as it arises must be assigned to one or the other class, according to its circumstances, the chief of which is knowledge or ignorance of the party\u2019s own rights and the other\u2019s action. Encouragement is necessary where the party is ignorant; but knowledge creates the duty to speak, and, where that exists, silence is enough to estop.\nThe present case belongs in the class of Woods v. Wilson, where silence, with knowledge of expenditures being made by the part3r in-possession, may be sufficient to create an estoppel. The learned judge put it into the other class, by charging the jury that there would be no estoppel unless the plaintiff encouraged the improvements. Into this he was no doubt led by plaintiff\u2019s sixth point, that a married woman cannot be estopped by improvements made by the vendee, even with her knowledge and encouragement. This was properly affirmed as to knowledge and encouragement during coverture; but the same phrase, thus unfortunately suggested, was no doubt inadvertently carried into the answers to points relating to estoppel by conduct after the disabilities of coverture had ceased. This tended to mislead the jury into supposing that something more than mere silence, something active or positive on the part of plaintiff, was necessary to estop her, and, in so doing, it put a heavier requirement on defendants than the case justified. For this slip, in an otherwise clear and accurate charge, we are obliged to reverse the judgment.\nJudgment reversed, and venire de novo awarded.",
+        "type": "majority",
+        "author": "Mjb. Justice Mitchell:"
+      }
+    ],
+    "attorneys": [
+      "Mr. B. I. Ball (with him Mr. Charles H. Boyes, Mr. Watson B. Hinckley, Mr. William W. Wilbur, Mr. William Sehnur, and Mr. Thompson), for the appellant:",
+      "Mr. M. II. Goucher (with him Mr. W. V. JV. Yates and Mr. James 0. JParmlee), for the appellee :"
+    ],
+    "corrections": "",
+    "head_matter": "MARY S. LOGAN v. S. A. GARDNER ET AL.\nAPPEAL BY S. A. GARDNER FROM THE COURT OF COMMON PLEAS OF WARREN COUNTY.\nArgued May 7, 1890\nDecided October 6, 1890.\n[To be reported.]\n1. As a disability imposed by law cannot be set aside or evaded by the acts of the party, a married woman can pass her title to real estate only in the statutory mode; wherefore, one claiming under a deed from a married woman and her husband that is lost, must show that it contained all the statutory requisites.\n2. The disabilities of infancy and coverture are separate and independent. The mere fact that they both occur in connection with the same act, does not give either any greater force than it would have had separately ; accordingly, an infant feme-covert having properly executed a deed, the only objection to be met is that of infancy.\n3. The weight of authority now is that the deed of an infant is voidable only; that the title passes by it, and will remain in the grantee until some clear act of disaffirmance by the grantor after coming of age, and that such deed may be affirmed by acts much less formal than would be required to avoid it, and clearly by an estoppel.\n4. The dictum of Mr. Chief Justice Gibson, in Schrader v. Decker, 9 Pa. 14, that the deed of an infant feme-covert is absolutely void, must be referred to the unsettled position of the law at that time; and the remark made in Williams v. Baker, 71 Pa. 476, that a ratification thereof must be by a re-acknowledgment after coming of age, is limited to ratification during coverture.\n5. The doctrine of estoppel in pais has been very much expanded, in modern times, particularly in Pennsylvania; and, while silence, in ignorance of one\u2019s own right, or of another\u2019s expenditure under a claim of right, will not estop, yet mere silence, with knowledge, is evidence from which a jury may find an estoppel, on the ground that the knowledge created a duty to speak.\n6. When a person under disability has made a deed which is voidable on account thereof, and after removal of the disability, the grantee, with the grantor\u2019s knowledge, made expenditures in placing improvements upon the land, it is not necessary, to estop from a disaffirmance of the deed, that the grantor should have positively encouraged the improvements.\nBefore Paxson, C. J., Green, Clark, Williams and Mitchell, JJ.\nNo. 341 January Term 1890, Sup. Ct.; court below, No. 6 March Term 1888, C. P.\nOn December 1, 1887, Maiy S. Logan brought ejectment against S. A. Gardner and others, for three acres of land in Mead township. The defendants pleaded not guilty.\nAt the trial on January 9,1890, the following facts were shown :\nIt being admitted that in 1871 the title to the land in dispute was in Lorenz Baldensperger, the plaintiff\u2019s father, the plaintiff, in her case in chief, put in evidence a deed for said land from Lorenz Baldensperger and wife to herself, dated June 1,1871, and duly recorded. At the date of the deed the plaintiff was the wife of Theodore Reibenstein, and she was named therein as Mary S. Reibenstein. The writ in ejectment, with the sheriff\u2019s return of service on the defendants, and their appearance and plea, having also been put in evidence, the plaintiff rested.\nThe defendants presented testimony tending to prove that in September, 1872, the plaintiff and Theodore Reibenstein, her husband, executed, duly acknowledged and delivered, a deed conveying the land in dispute to J. K. Palmer, but that said deed was afterwards lost without having been recorded; that Palmer took immediate possession of the land, and built a dam and flume on it, which he used in connection with his tannery and saw-mill; that by subsequent conveyances his title became vested in Willard White, who, in 1878, granted to Palmer an oil lease; that this lease was assigned by Palmer to David Beaty, who, in J une, 1880, sub-let the oil right to one Clemons ; that in 1886 the Clemons lease became vested in the defendant Gardner, who, at the time the action was brought, was in possession of the land thereunder.\nIn rebuttal, the plaintiff\u2019s counsel put in evidence her own deposition denying that she ever executed and acknowledged any deed to Palmer, fo.r the land in dispute, and presented testimony tending to prove that at the date of the alleged deed to Palmer she was between twenty and twenty-one years of age.\nIn reply to this, the defendants called witnesses whose testimony tended to show that, in 1880, Clemons, who was then the owner of the leasehold for oil production, expended from $8,000 to $3,500, in drilling two wells and erecting fixtures, etc., on the leasehold, these operations and expenditures being known to the plaintiff and without objection on her part. They also put in evidence the record of a proceeding by the plaintiff for a divorce from her husband, Theodore Reibenstein, for the purpose of proving that at the time when .Clemons made the expenditures mentioned, the plaintiff was not under any disability by reason of coverture; the record showing that on October 8, 1881, she filed her libel in divorce, charging that by cruel and barbarous treatment her said husband had rendered her condition intolerable, etc., and compelled her to leave his home in October, 1879, and that since that time he had entirely neglected to provide for her support and maintenance; and that upon this libel a decree of divorce was pronounced in her favor on July 31, 1882. It appeared, further, in the testimony, that, after this decree, the plaintiff remained discovert until November 28, 1882, when she was married to John Logan.\nAt the close of the testimony, the court, Bkown, P. J., charged the jury in part as follows :\nTo make a deed good to pass the title to land of a married woman, the law of the state requires that her husband should join with her in the deed, and that she should acknowledge it before some official authorized to take the acknowledgment of deeds; that such official should read, or otherwise make known to her the full contents of the deed, and that, upon an examination by the official, separate and apart from her husband, she shall declare, in substance, that she voluntarily and of her own free will and accord, did sign, seal, and as her act and deed deliver the same, without any coercion or compulsion of her husband; and the evidence that this has been done, consists of the certificate of the official upon or attached to the deed.\n[The first question of fact to answer, from the evidence, is, did Mary S. Reibenstein and her husband, in the fall of 1872, join in the making of a deed for the land in suit to J. K. Palmer, and did Mrs. Reibenstein acknowledge the same before a justice of the peace, in the manner and form that I have stated as essential, and did the justice certify to the same.] 3 The defendants assert that all of this was done. And they gave evidence of the existence and loss of the deed, deemed by the court sufficient to let in parol evidence of its contents and acknowledgment.....On the other hand, the plaintiff denies that she ever made or acknowledged the deed.....\n[If Mrs. Reibenstein never made and acknowledged the deed to Palmer, then you need proceed no further; your verdict should be in favor of the plaintiff. But if she did make and acknowledge it, in the manner and form I have stated to be essential, and the justice so certified, then you reach another question,] 3 viz.: Was Mrs. Reibenstein under the age of twenty-one years at the time of making the deed to Palmer ? The plaintiff claims that she was, and hence the deed did not pass her title. This, we say to you, is the law, and is decisive of the case in the plaintiff\u2019s favor, unless other facts appear that in law defeat her recovery, to which I will call your attention presently.....\n[If the plaintiff was, at the time of making the deed, of the full age of twenty-one years, and the deed was in fact made and signed by herself and her husband, and acknowledged in the manner and form as claimed by the defendants, and so certified by the justice, then your verdict should be for the defendants.] 3 But, if she was under age, the deed was not good to pass her title to Mr. Palmer, and she is entitled to a verdict, unless she has done some act ratifying the conveyance that estops her from maintaining this action.\nHas the conduct and acts of the plaintiff been such as to amount to a ratification of her deed made to Mr. Palmer when under the age of twenty-one years, or has her conduct been such as to estop her from setting up her title as against these defendants ? With respect to this, we say that there is no evidence of any act or conduct of the plaintiff that tends to show any ratification by her of her deed, or that estops her from setting up her title against these defendants, until after she filed her libel in this court, asking for a divorce from her husband, Theodore Reibenstein. In her petition for a divorce, she states under oath, that her husband, by cruel and barbarous treatment, had rendered her condition intolerable and life burdensome, so that she was compelled to leave the home and habitation of respondent since October, 1879. If the facts so stated in her petition were true, then the plaintiff was no longer under disability, and her acts and conduct between the date of October, 1879, and her marriage to John Logan, on the 28th of November, 1882, are the acts and conduct of an unmarried person.....\nIf you believe the testimony, it appears that T. J. Clemons became the lessee of David Beaty, in June, 1880, and according to the testimony of Mr. Clemons, soon afterwards, his lease being for oil purposes, he went into the occupation of the premises in dispute, for that purpose. It appears that Mr. Kirberger became the assignee of a part of his interest in the lease. That soon after obtaining the lease, operations were commenced and money expended to the amount of from $3,000 to $3,500; that a building was erected for the occupancy of some person in the employ of the lessee, in the spring of 1881; he states that there were no improvements when he went into possession, but' that the premises had been in pasture. The defendants claim that these improvements and expenditures were made with her knowledge, and under such circumstances, as amounts to the ratification of her deed to Palmer, if the same were made during the minority of the plaintiff.\nSo far as this question is concerned, we will dispose of it in the answers to the points that have been presented.....\nThe plaintiff requests the court to charge:\n2. Where, as in this case, the alleged deed is claimed to have been lost, the proofs to show its existence and genuineness must be positive and convincing that the plaintiff actually signed, sealed, acknowledged and delivered a deed in the form prescribed by the statute for the conveyance of a married woman\u2019s separate real estate, in order to warrant the jury in finding that a valid deed in fact existed. That persons saw or had in their possession a writing, in form a deed, answering the description of a proper deed, bearing the names of the plaintiff and her husband, without proof of its existence, is not sufficient. The proofs must establish the fact that such writing was the genuine act and deed of the parties.\nAnswer: This point is affirmed, if by the words \u201cpositive proof \u201d is meant, proof satisfying the jury of the facts set forth in the point.4\n3. That a married woman' has no capacity to convey her separate real estate, except in the precise mode prescribed by the statute, viz., by deed, signed by herself and her husband, and acknowledged before a proper officer, that she signed, sealed and delivered the same as her free act and deed, with knowledge of its contents, separate and apart from her husband, and without coercion or compulsion of her husband, as prescribed by statute; and, unless the jury find that the alleged deed of the plaintiff for the land in controversy conformed to and contained all the essential requirements of the statute, such deed or alleged deed had no validity to pass the estate of the plaintiff in the land in controversy.\nAnswer: This point is affirmed.\n5. That the deed of a minor feme-covert, or married female infant, is void and incapable of ratification; nothing will suffice to operate as a conveyance of such minor feme-covert\u2019s estate except the execution of a new deed, acknowledged as prescribed by the statute.\nAnswer : This point is answered in the negative.\n6. A married woman, who has contracted to convey her separate estate in other than the mode prescribed by statute, cannot be estopped from asserting her title by a receipt of the purchase money, nor by improvements made by the vendee, with her knowledge and encouragement.\nAnswer: This point is affirmed, provided the knowledge and encouragement alleged as an estoppel was knowledge and encouragement known and given during the disability of the marriage relation.\nThe defendants request the court to charge:\n2. If the jury believe from the evidence that Mary S. Reibenstein and her husband, Theodore Reibenstein, made a deed, executed and acknowledged in lawful form, to J. K. Palmer, for the land in controversy in this suit, and that at the time of making such deed she was under twenty-one years of age, such deed was not void, but only voidable by her, and might be ratified by her after she became of full age.\nAnswer : This point is affirmed, so far as to say that it might be ratified by her after she became of full age and after the disability of the marriage relation had ceased.\n8. If the jury believe from the evidence that Mary S. Reibenstein, while yet a minor, with her husband, Theodore Reibenstein, made a deed, executed and acknowledged in lawful form, to J. K. Palmer, for the land in controversy; that after she arrived at full age, from October, 1879, to the time of her divorce on July 81, 1882, her husband, Theodore Reibenstein, from causes entitling her to a divorce, neglected to provide for her; that she remained single from the time of her divorce from Reibenstein to the time of her marriage to Logan on November 28, 1882; that between the dates of October, 1879, and November 28, 1882, T. J. Clemons and Albert Kirberger, while claiming title to the land under the deed from her and her husband, in good faith expended a large sum of money in developing the land for oil by drilling two wells, erecting oil rigs, and in investing in oil-well machinery, and built one or more houses for use in the business of producing oil on the premises, with the knowledge of Mary S. Reibenstein, and without objection or protest from her or any claim of title on her part, then she is estopped from afterwards avoiding her deed to J. K. Palmer, and in such case she cannot recover.\nAnswer : This point is affirmed, provided and only provided, you find the facts as stated therein, and further find from the evidence that the plaintiff, with full knowledge of her rights,- and with knowledge of the improvements and expenditures made on the premises, by her conduct acquiesced in and encouraged such improvements and expenditures.1\n4. If the jury believe the facts to be as recited in the preceding third point, then the jury may from such facts infer a ratification by the plaintiff of her deed to J. K. Palmer, and in such case she cannot recover.\nAnswer: This point we answer as the preceding one; affirmed, provided, and only provided, you find the facts as stated therein, and further find from the evidence that the plaintiff, with full knowledge of her rights, and with knowledge of the improvements and expenditures made on the premises, by her conduct acquiesced in and encouraged such improvements and expenditures.8\nThe jury returned a verdict for the plaintiff for the land described in the writ. A rule for a new trial having been discharged, judgment was entered on the verdict, whereupon, a nonsuit having been taken as to the other defendants, S. A. Gardner took this appeal, assigning for error:\n1, 2. The answers to defendants\u2019 points.1 8\n8. The several parts of the charge embraced in [ ] 3 3 3\n4. The answer to plaintiff\u2019s point.4\nMr. B. I. Ball (with him Mr. Charles H. Boyes, Mr. Watson B. Hinckley, Mr. William W. Wilbur, Mr. William Sehnur, and Mr. Thompson), for the appellant:\n1. The error, appearing in the first and second specifications, is the doctrine that the plaintiff must have actively encouraged the improvements and expenditures, under the facts stated in the points and answers, in order to be visited with the effect of an estoppel or a ratification. In the circumstances set forth in her petition for a divorce, the plaintiff, under the act of May 4, 1855, P. L. 430, had the powers of a feme sole as to the disposition of her real estate: Black v. Tricker, 59 Pa. 13 ; Wilson v. Coursin, 72 Pa. 306 ; Elsey v. McDaniel, 95 Pa. 472; Moninger v. Ritner, 104 Pa. 298; Ellison v. Anderson, 110 Pa. 486 ; Ewing\u2019s App., 101 Pa. 371; Foreman v. Hosler, 94 Pa. 418. There are instances in which a married woman may be estopped: Couch v. Sutton, 1 Gr. 114; Bigham\u2019s App., 123 Pa. 262; and the distinction appears to be that estoppel does not operate against her, when her act is void under the disability of coverture, but that she may be estopped in cases where she can assert her rights.\n2. In this case, the deed being in lawful form, the only disability affecting it was that of infancy; and, on the removal of the disability of coverture, the plaintiff could affirm or disaffirm the deed after arriving at full age. While the deed of a married woman lacking the essential forms of law is absolutely void, an infant\u2019s deed is merely voidable, and until disaffirmed it operates to transmit the title: Irvine v. Irvine, 9 Wall. 617 ; Drake v. Ramsey, 5 Ohio 253; Cresinger v. Welch, 15 Ohio 156 (45 Am. Dec. 565). Lapse of time, in connection with her standing by in silent acquiescence, while the expenditures were made on this property, was evidence of ratification, and the plaintiff was estopped thereby from afterwards disaffirming her deed: Irvine v. Irvine, supra; Chapman v. Chapman, 59 Pa. 214; Miranville v. Silverthorn, 48 Pa. 149; Woods v. Wilson, 37 Pa. 384; Arnold v. Cornman, 50 Pa. 368. As she had the rights of a feme-sole, her silent acquiescence ought to postpone her title without proof of actual encouragement.\n3. With regard to the measure of proof necessary to establish the existence and contents of a lost deed, the court imposed upon the defendant too great a burden. No question of forgery was raised, and therefore, as the certificate of acknowledgment would have been sufficient proof of its execution, if the original deed had been produced, it was unnecessary, after we had proved the existence, genuineness and sufficiency of the certificate, to go further and prove the actual signing, sealing, acknowledgment and delivery. The effect of the instructions given by the court was to send the jury behind the certificate of acknowledgment, when that alone was the evidence of the deed, at least until the certificate itself was called in question, No point challenged the correctness or genuineness of the certificate, nor the sufficiency of the proof of it. In conclusion, we submit that the plaintiff ought not to be allowed any latitude beyond what the strict rules of law and evidence require.\nMr. M. II. Goucher (with him Mr. W. V. JV. Yates and Mr. James 0. JParmlee), for the appellee :\n1. Positive proof of the due execution and delivery of a lost instrument, by the party to be affected by it, must be made, before evidence of its contents can be received: Slone v. Thomas, 12 Pa. 209; Burke v. Hammond, 76 Pa. 172; Rousher v. Hamm, 3 Brewst. 233; McCredy v. Navigation Co., 3 Wh. 424; Jack v. Woods, 29 Pa. 375. There are four essential requisites of a deed conveying a married woman\u2019s real estate: signing, sealing, acknowledgment, and delivery, by both husband and wife, in the form prescribed by statute. If any of these be omitted, the deed is a nullity: Innis v. Templeton, 95 Pa. 262. Proof of one of these requisites will not prove another; proof of each and all of them is necessary: Miller v. Ruble, 107 Pa. 395.\n2. A married woman cannot be estopped out of her real estate, nor compelled to convey it by estoppel: Glidden v. Strupler, 52 Pa. 400 ; Stivers v. Tucker, 126 Pa. 74 ; Quinn\u2019s App., 86 Pa. 447; Buchanan v. Hazzard, 95 Pa. 240; Innis v. Templeton, 95 Pa. 262; Davison\u2019s App., 95 Pa. 394. Her knowledge of improvements and expenditures on the property will not estop her, even though she encouraged them. Nor will delay of a minor in bringing suit for land sold during minority, operate as an affirmance of the title by ratification: Urban v. Grimes, 2 Gr. 96 ; Lenhart v. Ream, 74 Pa. 59. An infant covert, on attaining majority, cannot ratify her deed except by a re-acknowledgment in the statutory form: Williams v. Baker, 71 Pa. 476; Ledger L. & B. Ass\u2019n v. Cook, 6 W. N. 428. It is ab solutely void: Schrader v. Decker, 9 Pa. 14 ; Steger\u2019s Est., 3 W. N. 368.\n3. It is claimed that from October, 1879, the date at which, as Mrs. Reibenstein alleged in her libel for divorce, her husband ceased to provide for her, until her second marriage, she was free from the disabilities of coverture, and was capable of being estopped by neglecting to assert a claim to this land. We submit that neither the act of February 22, 1718, 1 Sm. L. 99, nor that of May 4, 1855, P. L. 430, has the effect of dissolving the bonds of matrimony. They confer upon the wife certain specific rights and privileges, in the circumstances they mention, and suspend her disabilities only to the extent that is necessary to enable her to exercise those rights and privileges. Outside of this, she remains a married woman, under all the disabilities of the marital relation, until relieved therefrom by death or divorce. The plaintiff\u2019s disabilities, therefore, continued until her divorce on July 31, 1882. But all these considerations have been passed on by the jury."
+  },
+  "file_name": "0588-01",
+  "first_page_order": 608,
+  "last_page_order": 621
+}

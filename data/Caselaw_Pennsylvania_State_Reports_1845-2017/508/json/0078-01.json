@@ -1,0 +1,96 @@
+{
+  "id": 1794042,
+  "name": "In the Matter of the ADOPTION OF A.F. Petition of CHILDREN'S SERVICES OF ERIE COUNTY",
+  "name_abbreviation": "In re the Adoption of A.F.",
+  "decision_date": "1985-04-12",
+  "docket_number": "Petition No. 369 W.D. Allocatur Docket, 1984",
+  "first_page": "78",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "508 Pa. 78"
+    },
+    {
+      "type": "parallel",
+      "cite": "494 A.2d 1049"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "506 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790960
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/506/0044-01"
+      ]
+    },
+    {
+      "cite": "334 Pa.Super. 53",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        618622
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/334/0053-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 506,
+    "ocr_confidence": 0.77,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06683517069914115
+    },
+    "sha256": "845f0a7783fbba739432edb32d1f56dedab641857e9f8c846232d63200365728",
+    "simhash": "1:571f0776d7f8ede1",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T16:43:42.712799+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the ADOPTION OF A.F. Petition of CHILDREN\u2019S SERVICES OF ERIE COUNTY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted and the order of Superior Court, 334 Pa.Super. 53, 482 A.2d 1076, is reversed. See Matter of G.T.M., 506 Pa. 44, 483 A.2d 1355 (1984). The final decree of Erie County Court of Common Pleas, Orphans\u2019 Court Division, terminating the parental rights of the natural mother of A.F., is reinstated.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "494 A.2d 1049\nIn the Matter of the ADOPTION OF A.F. Petition of CHILDREN\u2019S SERVICES OF ERIE COUNTY.\nSupreme Court of Pennsylvania.\nApril 12, 1985."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 140,
+  "last_page_order": 141
+}

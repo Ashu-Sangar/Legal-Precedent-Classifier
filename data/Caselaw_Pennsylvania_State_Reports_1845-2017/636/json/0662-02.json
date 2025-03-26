@@ -1,0 +1,70 @@
+{
+  "id": 12282983,
+  "name": "Com. v. Scott",
+  "name_abbreviation": "Com. v. Scott",
+  "decision_date": "2016-07-27",
+  "docket_number": "256 MAL (2016)",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 662"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "44 A.3d 199",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 155,
+    "ocr_confidence": 0.766,
+    "sha256": "5433225bc1045464a9a41cdb535082bb26df842395461e95c163fa0ae8bfde6b",
+    "simhash": "1:2b3f3ac8a34bf9e6",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Scott"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 44 A.3d 199",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Scott\n07/27/2016\n256 MAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0662-02",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

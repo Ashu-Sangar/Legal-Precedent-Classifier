@@ -1,0 +1,70 @@
+{
+  "id": 12284181,
+  "name": "Com. v. Adams",
+  "name_abbreviation": "Com. v. Adams",
+  "decision_date": "2016-08-10",
+  "docket_number": "137 EAL (2016)",
+  "first_page": "670",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 670"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "108 A.3d 107",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.833,
+    "sha256": "83dbbdb255a6365b591438486e131ec6fdc984d15605e0035ad83c40ce9d696e",
+    "simhash": "1:b10420b6777a007e",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Adams"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 108 A.3d 107",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Adams\n08/10/2016\n137 EAL (2016)"
+  },
+  "file_name": "0670-02",
+  "first_page_order": 722,
+  "last_page_order": 722
+}

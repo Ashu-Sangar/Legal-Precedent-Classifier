@@ -1,0 +1,136 @@
+{
+  "id": 1130056,
+  "name": "Long et al. v. Firestone Tire & Rubber Co. et al., Appellants",
+  "name_abbreviation": "Long v. Firestone Tire & Rubber Co.",
+  "decision_date": "1931-03-16",
+  "docket_number": "Appeal, No. 184",
+  "first_page": "208",
+  "last_page": "210",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "303 Pa. 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "298 Pa. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1120387
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/298/0475-01"
+      ]
+    },
+    {
+      "cite": "291 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1107277
+      ],
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/291/0371-01"
+      ]
+    },
+    {
+      "cite": "296 Pa. 524",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1116697
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/296/0524-01"
+      ]
+    },
+    {
+      "cite": "296 Pa. 510",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1116676
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "519"
+        },
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/296/0510-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 3057,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.3660534187268875e-07,
+      "percentile": 0.6373018272493879
+    },
+    "sha256": "594e39731e8698311b82f3d20fa9d4b8df86a31c6d412cf8945cdbc56bc60dfe",
+    "simhash": "1:8c035d9780879b0a",
+    "word_count": 495
+  },
+  "last_updated": "2024-02-27T20:35:18.737686+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Walling, Simpson, Kephart and Maxey, JJ."
+    ],
+    "parties": [
+      "Long et al. v. Firestone Tire & Rubber Co. et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nPlaintiffs\u2019 bill asks that defendants be enjoined from establishing and maintaining an automobile filling, sales and service station at the corner of North Fifth and Oley Streets in the City of Reading, which location is within a district claimed by plaintiffs to be strictly residential in character, and in which they own property, and with their families reside. A decree was entered perpetually enjoining defendants from establishing the service station as proposed at the location designated. Defendants appealed.\nThe court below finds as facts that the neighborhood in question \u201cconstitutes an exclusively residential district built up with dwellings set back from the building lines of streets and surrounded by spaces affording light and air, said houses being with few exceptions occupied by their owners respectively with their families, and constituting together a quiet, beautiful and desirable neighborhood for families to dwell in.\u201d And that \u201cThe establishment of defendants\u2019 proposed public gas filling and sales and service station within said district, even though it be at the edge thereof, is unsuited to the neighborhood and would constitute a nuisance per se.\u201d The testimony taken at the hearings had before the court, as appears by the record, convincingly supports these findings. One witness testified he purchased property in this particular neighborhood because of its \u201ctranquillity\u201d and because the section was \u201cexclusively residential\u201d; another that he removed from a different locality to Oley Street owing to annoyances incident to the erection across the street from his former home of a filling and service station.\nAppellants\u2019 claim that the adjoining section of the city on the opposite side of North Fifth Street from the properties of plaintiffs is not strictly residential and becomes less so as it approaches the railroad two blocks away, has little weight, in view of the court\u2019s finding, sustained by evidence, that apartment dwellings and private homes are far predominant in that part of the street until it reaches a point where it parallels the railroad tracks: Burke v. Hollinger, 296 Pa. 510, 519; Burke v. Bassett, 296 Pa. 524, 528. We have held on numerous occasions that while \u201cA public service station is not a nuisance per se, it becomes a nuisance in fact when conducted in a residential neighborhood\u201d: Carney v. Penn Oil Co., 291 Pa. 371, 379; Burke v. Hollinger, supra, 517; Nesbit et al. v. Riesenman et al., 298 Pa. 475. In our opinion this rule applies with much force to the neighborhood here in question and the testimony fully warranted the court below in granting the injunction prayed for.\nThe decree of the court below is affirmed at cost of appellants.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "T. I. Snyder, of Zieber & Snyder, with him George B. Balmer and R. G, Bushong, for appellants.",
+      "Walter B. Freed and Cyrus G. Derr, for appellees, were not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Long et al. v. Firestone Tire & Rubber Co. et al., Appellants.\nArgued January 28, 1931.\nBefore Frazer, C. J., Walling, Simpson, Kephart and Maxey, JJ.\nT. I. Snyder, of Zieber & Snyder, with him George B. Balmer and R. G, Bushong, for appellants.\nWalter B. Freed and Cyrus G. Derr, for appellees, were not heard.\nMarch 16, 1931:"
+  },
+  "file_name": "0208-01",
+  "first_page_order": 232,
+  "last_page_order": 234
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1809870,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Charles J. EDWARDS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Edwards",
+  "decision_date": "1988-02-01",
+  "docket_number": "Petition No. 837 E.D.Alloc.Dkt.1987",
+  "first_page": "368",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 368"
+    },
+    {
+      "type": "parallel",
+      "cite": "537 A.2d 1350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808600
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0053-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 455,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3649282255451959
+    },
+    "sha256": "1ea2a0e6b021188f722c2cf5669838dd87d68d733dd424a370452c4a6427c469",
+    "simhash": "1:1013a2ff219fe5a1",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Charles J. EDWARDS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Commonwealth's petition for allowance of appeal is granted. The Order of the Superior Court is reversed, and the case is remanded to the Court of Common Pleas of Carbon County for a hearing on the question of prejudice. See Pa.R.Crim.P. 150; Commonwealth v. Revtai, 516 Pa. 53, 532 A.2d 1 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "537 A.2d 1350\nCOMMONWEALTH of Pennsylvania, Respondent, v. Charles J. EDWARDS, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 1, 1988."
+  },
+  "file_name": "0368-01",
+  "first_page_order": 436,
+  "last_page_order": 436
+}

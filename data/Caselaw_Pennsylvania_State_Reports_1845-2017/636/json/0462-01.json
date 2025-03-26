@@ -1,0 +1,84 @@
+{
+  "id": 12280259,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Angel Anthony RESTO, Respondent",
+  "name_abbreviation": "Commonwealth v. Resto",
+  "decision_date": "2016-08-23",
+  "docket_number": "No. 774 MAL 2015",
+  "first_page": "462",
+  "last_page": "463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 462"
+    },
+    {
+      "type": "parallel",
+      "cite": "144 A.3d 93"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699057
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0099-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 104,
+    "char_count": 924,
+    "ocr_confidence": 0.602,
+    "pagerank": {
+      "raw": 5.0842389963872746e-08,
+      "percentile": 0.32023700995695115
+    },
+    "sha256": "dbf8a0ce57184fd626b5dfca9b4d4fd11e3afa80b5c87f931064dc49a41cf4e7",
+    "simhash": "1:671b064528a2a924",
+    "word_count": 149
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice WECHT did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Angel Anthony RESTO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nAND NOW, this 23rd day of August, 2016, the Petition for Allowance of Appeal is GRANTED. The issue, as set forth by the Commonwealth, is as follows:\nDid the Pennsylvania Superior Court err in holding that the mandatory minimum sentence found in 42 Pa.C.S.A. \u00a7 9718(a)(3) [is] unconstitutional in light of Alleyne v. United States [\u2014 U.S.-], 133 S.Ct. 2151 [186 L.Ed.2d 314] (2013), despite that statutory provision calling for no facts to be found beyond simply being convicted of the enumerated offense?\nThis matter is to be listed together with Commonwealth v. Bragg, 67 EAL 2016, Commonwealth v. Macklin, 288 MAL 2015, and Commonwealth v. Sachette, 973 MAL 2015, for oral argument purposes only.\nJustice WECHT did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "144 A.3d 93\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Angel Anthony RESTO, Respondent.\nSupreme Court of Pennsylvania.\nAug. 23, 2016."
+  },
+  "file_name": "0462-01",
+  "first_page_order": 514,
+  "last_page_order": 515
+}

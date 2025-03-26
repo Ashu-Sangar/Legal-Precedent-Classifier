@@ -1,0 +1,70 @@
+{
+  "id": 12281597,
+  "name": "Com. v. Weedon",
+  "name_abbreviation": "Com. v. Weedon",
+  "decision_date": "2016-06-22",
+  "docket_number": "125 MAL (2016)",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 649"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.874,
+    "sha256": "c7ae70931e997c5d32f522b481992a79bdf7daa8260321f516fd31eab4528518",
+    "simhash": "1:ae61e98b9bff401b",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Weedon"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 1032",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Weedon\n06/22/2016\n125 MAL (2016)"
+  },
+  "file_name": "0649-13",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

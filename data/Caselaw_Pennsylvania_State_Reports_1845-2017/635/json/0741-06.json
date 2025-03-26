@@ -1,0 +1,70 @@
+{
+  "id": 12283289,
+  "name": "Com. v. Laboy",
+  "name_abbreviation": "Com. v. Laboy",
+  "decision_date": "2016-03-22",
+  "docket_number": "872 MAL (2015)",
+  "first_page": "741",
+  "last_page": "741",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 741"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.778,
+    "sha256": "cbff914667c0d0a69c40197ba47083716a889cca0f3dad6a11e1a90d7fece688",
+    "simhash": "1:b776fac6b11f789c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Laboy"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 104",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Laboy\n03/22/2016\n872 MAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0741-06",
+  "first_page_order": 801,
+  "last_page_order": 801
+}

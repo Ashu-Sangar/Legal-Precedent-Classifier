@@ -1,0 +1,76 @@
+{
+  "id": 1815565,
+  "name": "COMMONWEALTH of Pennsylvania v. William WOLF, Petitioner",
+  "name_abbreviation": "Commonwealth v. Wolf",
+  "decision_date": "1988-12-16",
+  "docket_number": "No. 1175 E.D. Dkt. 1986",
+  "first_page": "130",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "520 Pa. 130"
+    },
+    {
+      "type": "parallel",
+      "cite": "552 A.2d 1382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "554 A.2d 509",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 431,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 5.409550395716201e-08,
+      "percentile": 0.2954147057404192
+    },
+    "sha256": "649235015f29c1e91e1a0fe639bad7acf0243baba566698812983ed2c320cff6",
+    "simhash": "1:4b27f1f961f244fe",
+    "word_count": 69
+  },
+  "last_updated": "2024-02-27T23:01:05.114241+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LARSEN, J., dissents."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. William WOLF, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 16th day of December, 1988, the Application for Reconsideration of Denial of Allocatur, 520 Pa. 130, 554 A.2d 509, is hereby granted. The judgment of the Superior Court is reversed and the original judgment of sentence is reinstated.\nLARSEN, J., dissents.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "552 A.2d 1382\nCOMMONWEALTH of Pennsylvania v. William WOLF, Petitioner.\nNo. 1175 E.D. Dkt. 1986.\nSupreme Court of Pennsylvania.\nDec. 16, 1988."
+  },
+  "file_name": "0130-01",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

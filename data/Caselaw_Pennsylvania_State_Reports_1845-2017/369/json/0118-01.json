@@ -1,0 +1,87 @@
+{
+  "id": 1232389,
+  "name": "Docherty, Appellant, v. Philadelphia",
+  "name_abbreviation": "Docherty v. Philadelphia",
+  "decision_date": "1952-01-07",
+  "docket_number": "Appeal, No. 69",
+  "first_page": "118",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "369 Pa. 118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "179 A. 224",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "319 Pa. 265",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1162345
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/319/0265-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 244,
+    "char_count": 3000,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 7.268124753214928e-08,
+      "percentile": 0.4330449381411812
+    },
+    "sha256": "fa9682b1db950c9c785788bb28d44cb8a73620032b1b22319fdf5030f5138e10",
+    "simhash": "1:a883612173d3654f",
+    "word_count": 494
+  },
+  "last_updated": "2024-02-27T19:45:06.042741+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Drew, C. J., Stern, Stearne, Bell, Ladner and Chidsey, JJ."
+    ],
+    "parties": [
+      "Docherty, Appellant, v. Philadelphia."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nOn February 26, 1951, Clarence Doeherty, plaintiff, then a fireman for the City of Philadelphia, was served with charges of being absent without leave and disobedience of orders. On March 15, 1951, a hearing was held on these charges by the Civil Service Commission. That body entered an order on April 25, 1951, discharging him from the Bureau of Fire. Plaintiff then filed this complaint in mandamus-alleging that his discharge was in violation of the Act of June 25, 1919, P. L. 581, Art. XIX, \u00a718, as amended. The learned court below entered judgment for the City and plaintiff has appealed.\nThe Act of 1919 provides, inter alia : \u201cNo . . . fireman . . . shall be . . . discharged, except for cause, upon written charges . . . Such charges . . . shall, within thirty days after filing, be heard, investigated, and determined by the commission . . .\u201d It is plaintiff\u2019s contention that since the charges were not determined within thirty days of filing that the Civil Service Commission lost all power to act.\nTo adopt such an interpretation of the Act would be unrealistic at best. There is nothing in the Act to indicate that the legislature intended the Civil Service Commission to lose its powers if it fails to take action within thirty days. To be sure the provision is intended to insure a speedy hearing and to prevent an accused from being harmed by an unnecessarily long delay. But that protection is guaranteed by another provision of the same section-of the Act which states: \u201cNothing herein contained shall limit the power of any superior officer to suspend a subordinate /or a reasonable period, not exceeding thirty days, pending hearing and decision. Every such suspension shall be without pay ...\u201d (Italics added). Thus, charges against a fireman must be heard and decided within thirty days of their filing and during that time he may be suspended without pay. If, however, no decision has been reached by the Commission within that time he must, upon his request, be restored to duty with full pay pending the decision. See Conroy v. City of Philadelphia, 319 Pa. 265, 179 A. 224. In that way an accused fireman is protected against loss due to an inordinate delay by the Commission.\nHere, in fact, plaintiff has lost nothing. He was suspended for only three days and then restored to duty with full pay until the Commission ordered his discharge. He does not complain, nor could he in this proceeding, of the merits of the Commission\u2019s' decision and that order is no less effective because it was handed down more than thirty days after the filing of the charges. Judgment was there properly entered in favor of the City.\nJudgment affirmed. Costs to be paid by plaintiff.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "F. Raymond Heuges, for appellant.",
+      "James Francis Ryan, Assistant City Solicitor, with him Frank F. Truscott, City Solicitor, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Docherty, Appellant, v. Philadelphia.\nJanuary 7, 1952:\nArgued November 26, 1951.\nBefore Drew, C. J., Stern, Stearne, Bell, Ladner and Chidsey, JJ.\nF. Raymond Heuges, for appellant.\nJames Francis Ryan, Assistant City Solicitor, with him Frank F. Truscott, City Solicitor, for appellees."
+  },
+  "file_name": "0118-01",
+  "first_page_order": 188,
+  "last_page_order": 190
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281830,
+  "name": "Com. v. Adams",
+  "name_abbreviation": "Com. v. Adams",
+  "decision_date": "2015-12-30",
+  "docket_number": "304 WAL (2015)",
+  "first_page": "740",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 740"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1148",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "ocr_confidence": 0.735,
+    "sha256": "2763674c94fc9d574faa2bde37db678c5138dfbcebbd1eb170f5e11dc9a917fd",
+    "simhash": "1:c7e3e0fcbe99c3c4",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Adams"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1148",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Adams\n12/30/2015\n304 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0740-03",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

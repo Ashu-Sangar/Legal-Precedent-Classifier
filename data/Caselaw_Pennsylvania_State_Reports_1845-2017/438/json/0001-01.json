@@ -1,0 +1,776 @@
+{
+  "id": 1929240,
+  "name": "Commonwealth v. Freeman, Appellant",
+  "name_abbreviation": "Commonwealth v. Freeman",
+  "decision_date": "1970-03-20",
+  "docket_number": "Appeal, No. 257",
+  "first_page": "1",
+  "last_page": "21",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "438 Pa. 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "226 A. 2d 765",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "423 Pa. 541",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1903093
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/423/0541-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 719",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047240
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0719-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166688
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0478-01"
+      ]
+    },
+    {
+      "cite": "244 A. 2d 646",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "431 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917418
+      ],
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/431/0101-01"
+      ]
+    },
+    {
+      "cite": "241 A. 2d 760",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "430 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/430/0001-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 5,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464"
+        },
+        {
+          "page": "1023"
+        },
+        {
+          "parenthetical": "page 485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "223 A. 2d 749",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "423 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1903141
+      ],
+      "pin_cites": [
+        {
+          "page": "235, 236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/423/0229-01"
+      ]
+    },
+    {
+      "cite": "286 A. 2d 763",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1912323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/428/0141-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    },
+    {
+      "cite": "241 A. 2d 760",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "430 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915777
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/430/0001-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 368",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166505
+      ],
+      "year": 1964,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/378/0368-01"
+      ]
+    },
+    {
+      "cite": "241 A. 2d 760",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "430 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915777
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/430/0001-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    },
+    {
+      "cite": "387 F. 2d 268",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2091430
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "269-70"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f2d/387/0268-01"
+      ]
+    },
+    {
+      "cite": "39 F.R.D. 69",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "295 F. Supp. 613",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5395416
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "615-16"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f-supp/295/0613-01"
+      ]
+    },
+    {
+      "cite": "369 U.S. 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169152
+      ],
+      "weight": 2,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "516",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "890",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/369/0506-01"
+      ]
+    },
+    {
+      "cite": "394 U.S. 459",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174781
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "466",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1171",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/394/0459-01"
+      ]
+    },
+    {
+      "cite": "241 A. 2d 918",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "counsel at trial"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "430 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915772
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "counsel at trial"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/430/0209-01"
+      ]
+    },
+    {
+      "cite": "244 A. 2d 648",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "not a silent record and therefore petitioner had burden of proving he did not know of his right to free appellate counsel"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "431 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917432
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "not a silent record and therefore petitioner had burden of proving he did not know of his right to free appellate counsel"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/431/0264-01"
+      ]
+    },
+    {
+      "cite": "245 A. 2d 446",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "concerning counsel at trial; reaffirms standard enunciated in Stewart, supra"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "431 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917369
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "concerning counsel at trial; reaffirms standard enunciated in Stewart, supra"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/431/0269-01"
+      ]
+    },
+    {
+      "cite": "257 A. 2d 251",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "reaffirming earlier Stewart holding"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "435 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1924292
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "reaffirming earlier Stewart holding"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/435/0449-01"
+      ]
+    },
+    {
+      "cite": "241 A. 2d 764",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 3
+    },
+    {
+      "cite": "430 Pa. 7",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915716
+      ],
+      "year": 1968,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/430/0007-01"
+      ]
+    },
+    {
+      "cite": "242 A. 2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 3
+    },
+    {
+      "cite": "430 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915705
+      ],
+      "year": 1968,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/430/0163-01"
+      ]
+    },
+    {
+      "cite": "243 A. 2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "430 Pa. 451",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915778
+      ],
+      "year": 1968,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/430/0451-01"
+      ]
+    },
+    {
+      "cite": "248 A. 2d 5",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 3
+    },
+    {
+      "cite": "432 Pa. 435",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1919706
+      ],
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "438-39"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/432/0435-01"
+      ]
+    },
+    {
+      "cite": "249 A. 2d 351",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 3
+    },
+    {
+      "cite": "433 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921077
+      ],
+      "year": 1969,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/433/0101-01"
+      ]
+    },
+    {
+      "cite": "260 A. 2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "alternative holding"
+        },
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "436 Pa. 542",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1926163
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "alternative holding"
+        },
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/436/0542-01"
+      ]
+    },
+    {
+      "cite": "244 A. 2d 646",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 3
+    },
+    {
+      "cite": "431 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917418
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/431/0101-01"
+      ]
+    },
+    {
+      "cite": "241 A. 2d 760",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 3
+    },
+    {
+      "cite": "430 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915777
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/430/0001-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "1023",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "weight": 3,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1149,
+    "char_count": 35876,
+    "ocr_confidence": 0.451,
+    "pagerank": {
+      "raw": 2.1886229122883968e-07,
+      "percentile": 0.7735306189665884
+    },
+    "sha256": "3cebfea24ca699a9cdd68a4acf0dcd98738d5f0f2df71c91654861a6295f4552",
+    "simhash": "1:965c8d5d311e197c",
+    "word_count": 6096
+  },
+  "last_updated": "2024-02-27T23:35:41.418565+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eaoen, O\u2019Brien, Roberts and Pomeroy, JJ.",
+      "Mr. Justice Jones concurs in the result.",
+      "Mr. Justice Cohen, Mr. Justice Eagen and Mr. Justice Pomeroy join in this opinion.",
+      "Mr. Justice Pomeroy joins in this concurring opinion.",
+      "Mr. Justice Eagen joins in this concurring opinion."
+    ],
+    "parties": [
+      "Commonwealth v. Freeman, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Bell,\nOn May 15, 1965, Donald Freeman (appellant), while represented by two Court-appointed counsel, was convicted by a jury of murder in the second degree. No post-trial motions were filed. On June 7, 1965, he was sentenced to imprisonment for not less than ten nor more than twenty years. Subsequently, Freeman filed a petition under the Post Conviction Hearing Act. He alleged that he was denied his right to counsel on appeal, as required by Douglas v. California, 372 U.S. 353, and that he did not knowingly and intelligently waive that right. It is by now well established that a person convicted of crime is entitled to appeal and to be represented in his appeal by an attorney, and, if indigent, by a Court-appointed free attorney. These rights can be waived only by a knowledge of and a voluntary waiver of his rights. Defendant also contends that two confessions which were used against him at trial were taken from him in violation of his Constitutional rights. From the Order of the lower Court which denied his petition, defendant took this appeal.\nI. Waiver of Douglas Rights\nThe record shows, we repeat, that Freeman was represented at trial by two experienced Court-appointed attorneys. Within a few days after his conviction, both of them met with him at the jail. Both counsel testified at the post-conviction hearing that at their meeting with Freeman, he was informed of his right to move for a new trial and, if his motion was denied, to appeal to the Supreme Court of Pennsylvania.\nArlington Williams, one of appellant\u2019s counsel, testified that his co-counsel, James C. Scanlon, \u201cexplained to him [Freeman] these rights and then told him that whether he wanted us to file this motion for a new trial and a subsequent appeal, if a new trial was denied, was a matter for his decision.\u201d According to the testimony of Scanlon, Freeman then said that he \u201cdid not want to appeal.\u201d Scanlon further testified that Freeman later reiterated this decision, saying, in addition, that he wanted \u201cto go ahead and serve his sentence and get it over with.\u201d Freeman asserts that he was never expressly tolfl that he had the right to Court-appointed counsel on appeal if he could not afford private counsel. However, where the facts or circumstances show that a defendant is aware of his rights, a defendant can intelligently and knowingly waive his right to appeal. Commonwealth ex rel. Newsome v. Myers, 428 Pa. 141, 286 A. 2d 763; Commonwealth ex rel. Edowski v. Maroney, 423 Pa. 229, 235, 236, 223 A. 2d 749.\nIn those cases, this Court found, in similar circumstances, that an accused was aware of his Douglas rights and had made a knowing and voluntary waiver of them. In each of those cases, the defendant had Court-appointed counsel at trial who was prepared to continue to represent him in further proceedings if he so wished. In each of those cases, a review of the complete record shows that the defendant was never expressly told that he had the right to free Court-appointed counsel on appeal. Nevertheless, this Court held in both of said cases that the record showed that the defendant was fully aware of his Douglas rights and voluntarily relinquished them.\nWe find that this defendant (Donald Freeman) understood his right to have his free Court-appointed counsel represent him in a motion for a new trial, as well as in an appeal, and that he knowingly, voluntarily and intelligently waived or relinquished these rights.\nAn accused can waive these rights if that waiver constitutes an \u201cintentional relinquishment or abandonment of a known right.\u201d Johnson v. Zerbst, 304 U.S. 458, 464, 58 S. Ct. 1019, 1023 (1938); see also, Commonwealth v. Wilson, 430 Pa. 1, 241 A. 2d 760. However, if the record is silent, the burden of proving such a waiver is upon the Commonwealth. Commonwealth v. Ezell, 431 Pa. 101, 103, 244 A. 2d 646; Commonwealth v. Wilson, 430 Pa., supra (page 3).\nTestimony at the Post Conviction Hearing Act hearing shows, we repeat, that defendant had been represented at trial by two experienced, free counsel, and that after his trial and conviction, these attorneys \u201cexplained to him these rights and then told him that whether he wanted us to file this motion for a new trial and a subsequ&nt appeal, if a new trial was denied, was a matter for his decision.\u201d Moreover, defendant testified at the post-conviction hearing that he knew his lawyers\u2019 services were provided \u201cfor nothing\u201d and that \u201cthe Commonwealth paid for it.\u201d There is no evidence in this record, or even a reasonable inference, that defendant believed, or had any reason to believe, that his attorneys\u2019 services on appeal would not be free.\nNo matter how guilty a defendant is, no matter how often he has voluntarily confessed his guilt, the Minority would require actual awareness or knowledge of his rights to be determined solely by \u201cparroted words,\u201d when all the facts and circumstances, and defendant\u2019s own words show his awareness and knowledge of his right to appeal and to hare his free, Court-appointed counsel represent him on appeal. Even a Procrustean stretch of the Constitution or of prior decisions of the Supreme Court of the United States cannot support such a highly technical and far-fetched position. It is clear that defendant knew of his right to free Court-appointed counsel to represent him in post-trial motions and in an appeal, and that he voluntarily, understanding^ and intelligently waived this right.\nII. Confessions\nAppellant by his counsel contended at his Post Conviction Hearing Act hearing that his Constitutional rights were violated when two statements or confessions made by him were introduced over objection at his trial. His first statement was made to the police in a telephone conversation shortly after the police were informed of the killing of the victim; the second was made to the police after Freeman had been arrested and taken to State Police Headquarters for questioning.\nThe police were first alerted to the shooting of the victim, Claude Ludwig, when State Police Corporal Weber received a telephone call from a man named Bush. Bush told Weber that a man came into his gas station and said that he had killed a man. Weber immediately sent two police officers to the scene and then called Bnsh to ask him if he knew the name of the killer. Bush replied that he did not know the man\u2019s name but that the man was still there. Bush asked this man\u2014 the defendant, Freeman\u2014to talk to Weber on the phone, which he did. Corporal Weber testified: \u201cQ. And did the person on the other end of the phone identify himself? A. He did. Q. And who did he say he was? A. Donald Freeman. Q. . . . [Wjould you tell us the conversation that you had with this man who purported to be Donald Freeman? A. I asked him what happened, and he said he had shot Claude Ludwig. I asked him if he was dead, and he said he didn\u2019t know, but if they got an ambulance they may be able to save him, and then he hung up.\u201d\nFreeman contends that these statements could not properly be admitted in evidence because he had not been warned of his Constitutional rights before speaking to Corporal Weber on the telephone. Neither Escobedo v. Illinois, 378 U.S. 478, nor Miranda v. Arizona, 384 U.S. 436 (even if it were applicable, which it is not), nor any other case, requires that a statement or confession, voluntarily made in these circumstances, be suppressed or excluded. Unlike Escobedo, the police investigation was at that time \u201ca general investigation of \u2018an unsolved crime.\u2019 \u201d Escobedo v. Illinois, 378 U.S., supra (page 485). Appellant was not in custody, and his statement or confession was, without any doubt, \u201cvolunteered\u201d and admissible.\nAppellant also contends that the notes of an oral confession of the murder which he made at the State Police Station, in the presence of District Attorney Marsh and Trooper Geib, were inadmissible because they were obtained in the absence of counsel at a time when representation was Constitutionally required. Trooper Geib testified: \u201cMr. Marsh . . . informed him of his rights to secure counsel, that he could remain silent if he so desired and that anything he would say could be held against him in Court and that there was the possibility of Mr. Freeman facing a charge of murder.\u201d\nAppellant contends that if a confession is made after such warnings are given and the interrogation continues without the presence of an attorney, a \u201cheavy burden\u201d rests on the Commonwealth to prove that the defendant knowingly and intelligently waived his privilege against self-incrimination and his right to the assistance of counsel. For this proposition, he relies upon Miranda v. Arizona, 384 U.S., supra, which is inapplicable. Defendant\u2019s trial was completed on May 15, 1965, while Miranda was not decided until June 13, 1966. Johnson v. New Jersey, 384 U.S. 719, held that Miranda is applicable only to criminal trials commencing after June 13, 1966. Thus, the admissibility of defendant\u2019s confession is measured solely by the standards of Escobedo v. Illinois, 378 U.S., supra, and Commonwealth v. Jefferson, 423 Pa. 541, 226 A. 2d 765. Having been advised of his rights as required by Escobedo and Jefferson, and absent any evidence of a request by appellant that a lawyer be obtained for him, or that the questioning proceed no further, the statement or confession made by him to District Attorney Marsh and Trooper Geib did not violate any of appellant\u2019s Constitutional rights and was properly admitted in evidence.\nAppellant further contends that he was so influenced by alcohol and shock that he was unable to comprehend the warnings which were given him. This contention was amply refuted by testimony given at a Post Conviction Hearing Act hearing, and merits no further consideration or discussion.\nWe find no merit in any of appellant\u2019s contentions.\nThe Order of the lower Court is affirmed.\nMr. Justice Jones concurs in the result.\nMr. Justice Cohen, Mr. Justice Eagen and Mr. Justice Pomeroy join in this opinion.\nItalics throughout, ours.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Bell,"
+      },
+      {
+        "text": "Concurring Opinion\nby Mr. Justice Eagen :\nEvery person convicted of crime has the right to appeal, and if he is indigent he has the right to file his appeal without expense to himself, and to have his appeal perfected and prosecuted by counsel appointed by the court and paid for by the state. Douglas v. California, 372 U.S. 353, 83 S. Ct. 814 (1963). However, every person convicted of crime is not required to appeal and he may waive his rights in connection therewith. But to constitute an effective waiver, the record must establish that he intentionally and knowingly abandoned their rights, and it follows that one cannot be said to have knowingly abandoned his rights unless he was aware of what these rights are. Commonwealth v. Wilson, 430 Pa. 1, 241 A. 2d 760 (1968).\nIn the instant case the court below, after hearing the testimony of the convicted defendant and his trial counsel, concluded that Freeman was fully aware of all of his rights in connection with the filing and prosecution of an appeal from his conviction, and with this knowledge he failed intentionally to pursue them. Hence, the sole issue before us is whether or not the record supports the lower court\u2019s conclusion in this respect. More refined, the issue is whether or not the record supports a finding that Freeman knew of his right to prosecute his appeal through legal counsel paid for by the county and without expense to himself.\nThe record discloses the following pertinent facts: that before trial the court appointed two lawyers to represent Freeman, defend the charges brought against him and directed that their services for so doing be paid for by the county; that the competence of these lawyers is undisputed (one is now the President Judge of the 13rd Judicial District); that these lawyers assisted Freeman in preparing his defense and presented that defense at trial; that two days after the guilty verdict was returned, these lawyers visited Freeman in jail and told him of his post-trial rights, inter alia, \u201c[F]irst, to make him have his counsel move for ,a new trial, and, secondly, that if that new trial was denied, that he had a right to appeal to the Supreme Court of Pennsylvania and have his case reviewed .... that whether he wanted us to file this motion for a new trial and a subsequent appeal if a new trial was denied was a matter for his decision.\u201d (Emphasis added.)\nFollowing the conversation, outlined in part above, Freeman asked his counsel about \u201cany possible right he might have to obtain a release from any jail sentence that he might receive,\u201d and was then advised by his counsel of his right to apply to the Board of Pardons for commutation of sentence, but his counsel could not promise the Board would act favorably on such a request. Following this, Freeman then told his counsel \u201cthat he had no wish to proceed with a new trial,\u201d and subsequently repeated this decision.\nIt is true that Freeman was not specifically told that his trial counsel would proceed to seek a new trial in the trial court, or in the Supreme Court if necessary, without any expense to him. And it is equally true that the wisest course for counsel to pursue is to so advise their clients of this fact in the clearest language. However, absent such specific advice, it does not necessarily follow that a convicted defendant is not aware that his counsel will so proceed without expense to him. And even in the absence of such specific advice, if it is still demonstrated that a convicted defendant is aware that his counsel will so proceed, this is sufficient to sustain a finding of an effective waiver. Cf. Commonwealth v. Wilson, supra.\nIn view of all the circumstances that the present record discloses, how can one realistically say that the court below erred when it concluded that Freeman was aware of his right to \u201cfree counsel\u201d if he wished to appeal from his conviction? With all due respect for the views expressed by my learned brother, Mr. Justice Roberts, it is my view that to conclude that the court below erred in this respect belies common sense, and I, for one, still believe that the courts are not required to ignore all common sense in making a decision.\nI join in the majority opinion.\nMr. Justice Pomeroy joins in this concurring opinion.\nFreeman admittedly knew that his lawyers were serving without any expense to him.\nAccording to evaluations resulting from psychological tests, Freeman had an I.Q. of 118 (above average) and an academic potential of Junior College level.",
+        "type": "concurrence",
+        "author": "by Mr. Justice Eagen :"
+      },
+      {
+        "text": "Concurring Opinion\nby Mr. Justice Pomeroy:\nJoining as I do in the opinion of the Court and in the concurring opinion of Mr. Justice Eagen, I add the following observations only because of the earnest dissenting opinion of Mr. Justice Roberts. With all respect, I believe he misinterprets what has been decided. As I view it, the Court is not at all unmindful of the federal constitutional rights enunciated in Douglas v. California, 372 U.S. 353 (1963), nor is it receding from the decision of our Court in Commonwealth v. Wilson, 430 Pa. 1, 241 A. 2d 760 (1968) and its \u201cprogeny.\u201d No new uncertainties should result from the present deei sion, nor should any new burden be placed on the federal courts; no separate or deviate approach to the guaranteed right of appeal and the elements of waiver of that right is indicated by what has been here decided.\nThe question before us is a very narrow one, a factual one, of determining whether, on the whole record, the defendant, being indigent, knowingly waived his right to appeal with the assistance of conrt-appointed counsel. More specifically, the question is whether since there was no record made on this subject at the trial court level, the Commonwealth sustained the burden which it had of proving such a waiver by the fair weight of the evidence.\nAs has been pointed out in the other opinions, two able lawyers were appointed to represent the defendant. This occurred on the very day of his arrest. They gave immediate and continuous attention to the protection of his rights, from a prompt motion to suppress a confession (based on Jackson v. Denno, 378 U.S. 368 (1964)), through the preliminary hearing, the trial and the sentencing. Following the sentencing, they conferred at length with their client and told him of his right to have \u201chis counsel,\u201d i.e., his two court-appointed counsel, move for a neAV trial; he was further told that he had a right to appeal if a new trial was denied and that his court-appointed counsel would prosecute that appeal if he gave the word. The decision as to whether an appeal should be taken was properly left to the defendant.\nThere is no testimony that defendant\u2019s attorneys told him in express terms that their services in prosecuting an appeal would be rendered at no cost to the defendant just as their services prior to the conviction had been rendered free of charge. But, as the other opinions note, the defendant testified that he knew his lawyers\u2019 services were provided \u201cfor nothing\u201d and that they were to be paid by the Commonwealth. There is no suggestion in this record that defendant either believed, or had any reason to believe, that his attorneys\u2019 services on appeal would not be free; at the PCHA hearing defendant begged ignorance of his appeal right, but he evaded a direct answer to the question whether he understood that an appeal would be provided at public expense. On this record, there was a clear issue of credibility, and the hearing judge was justified in believing defendant\u2019s attorneys and in finding and concluding that the Commonwealth had met its burden of proving that Freeman had been fully advised of all his rights and that his decision not to appeal was knowingly made.\nIt would, of course, have been better had Messrs. Williams and Scanlon, appellant\u2019s lawyers, been categorically asked whether they had advised Freeman that he had the right to free counsel on appeal, and had given a categorical answer. In the context of the whole proceeding, however, this omission is understandable. The decision of this Court in Wilson had not yet come down, and the emphasis the Court has since placed on the right to free or court-appointed counsel as a right separate and distinct from the right of appeal had yet to be articulated. But this is not fatal where, as here, the circumstances disclosed by the record support a finding that the defendant was informed of his right to the assistance of court-appointed counsel on appeal. We have not yet held that circumstances can never spell waiver, or that a precise verbal formulation of waiver is a constitutional mandate. To find on this record a waiver of defendant\u2019s right to the assistance of free counsel on appeal is not, in my view, a substitution of inference for evidence; neither does such a finding establish, as the minority suggests, a presumption that \u201cwithout any evidence, ... all indigent defendants, represented by free counsel at trial, know that they can have free counsel on appeal.\u201d Unlike Wilson, where the record was \u201ccompletely silent as to whether appellant was at any point informed or was aware that he was entitled to court appointed counsel\u201d, Wilson, supra, at p. 5, the record here supports the opposite finding.\nTo summarize, I believe that on the whole of the record in the case at bar, the hearing judge was justified in finding that Freeman knew of his right to appeal, using his court-appointed counsel for the purpose. That is all I understand to be decided in this case.\nMr. Justice Eagen joins in this concurring opinion.",
+        "type": "concurrence",
+        "author": "by Mr. Justice Pomeroy:"
+      },
+      {
+        "text": "Dissenting Opinion\nby Me. Justice Robeets:\nToday a majority of this Court has denied appellant his constitutionally-guaranteed right to free appellate counsel. In so doing, the majority has ignored the facts of this case, our recent decisions in this area, and controlling principles of federal constitutional law. For our state courts, this decision means new uncertainties; an area of the law presumably settled by us now becomes unclear. For the federal courts, this decision means unnecessary burdens; an area of the law in which our decisions were in accord with federal constitutional law now becomes one in which our decisions are in conflict. I cannot accept these results and I must dissent.\nFirst, the majority ignores several critical facts which are relevant to appellant\u2019s knowledge of his right to free appellate counsel. The record made at trial is devoid of any indication that appellant was informed of his right to free appellate counsel. Likewise, the PCHA record is devoid of any evidence that appellant knew of his right to free appellate counsel. Appell ant\u2019s trial counsel were never questioned on this point. The Commonwealth produced no evidence on this point. And the hearing court made no finding on this point.\nYet, despite the lack of any evidence indicating that appellant knew of his right to free counsel on appeal, the majority finds that \u201c[i]t is clear that defendant knew of his right to free Court-appointed counsel to represent him in post-trial motions and in an appeal, and that he voluntarily and intelligently waived his right.\u201d Since there is nothing in the record to support such a \u201cfinding,\u201d I can only conclude that the majority\u2019s \u201cfinding\u201d is based on an assumption that since appellant \u201chad been represented at trial by two experienced, free counsel,\u201d he must have known of his right to free appellate counsel. Only by such an assumption could the majority eliminate the need for affirmative record evidence on the crucial issue of appellant\u2019s actual knowledge of his right to free appellate counsel.\nI find this substitution of assumption for evidence unusual, particularly in light of a long, and until today unbroken, line of cases which we have decided over the past several years: See, e.g., Commonwealth v. Herge, 436 Pa. 542, 260 A. 2d 787 (1970) (alternative holding); Commonwealth v. Gist, 433 Pa. 101, 249 A. 2d 351 (1969) ; Commonwealth v. Zaffina, 432 Pa. 435, 248 A. 2d 5 (1968) ; Commonwealth v. Ezell, 431 Pa. 101, 244 A. 2d 646 (1968) ; Commonwealth v. Mumford, 430 Pa. 451, 243 A. 2d 440 (1968) ; Commonwealth v. Hall, 430 Pa. 163, 242 A. 2d 241 (1968) ; Commonwealth v. Stewart, 430 Pa. 7, 241 A. 2d 764 (1968); Commonwealth v. Wilson, 430 Pa. 1, 241 A. 2d 760 (1968) ; cf. Commonwealth v. Stewart, 435 Pa. 449, 257 A. 2d 251 (1969) (reaffirming earlier Stewart holding) ; Commonwealth v. Ritchey, 431 Pa. 269, 245 A. 2d 446 (1968) (concerning counsel at trial; reaffirms standard enunciated in Stewart, supra); Commonwealth ex rel. Fink v. Rundle, 431 Pa. 264, 244 A. 2d 648 (1968) (not a silent record and therefore petitioner had burden of proving he did not know of his right to free appellate counsel); Commonwealth v. Blose, 430 Pa. 209, 241 A. 2d 918 (1968) (counsel at trial). These-cases stand for the proposition that there must be a finding of fact that an accused indigent not only knew of Ms right to appeal, but also that he knew of his right to free counsel on appeal, and intelligently waived both rights by not appealing. And, not only must there be a showing of an accused\u2019s knowledge of both rights, but where there was no trial record on the issue, the Commonwealth has the burden, at the PCHA hearing, of proving that the defendant had the requisite knowledge.\nCommonwealth v. Wilson, supra, is particularly instructive, for it is clear that Wilson and the instant case are identical in every respect\u2014except for this Court\u2019s disposition. Wilson, like Freeman, was an indigent represented by court-appointed counsel at trial. Wilson, like Freeman, was not told at trial of his right to appeal, or of his right to free counsel to prosecute his appeal. Wilson, like Freeman, filed a petition under the Post Conviction Hearing Act, alleging a denial of his constitutional right to appeal, as set forth in Douglas v. California, 372 U.S. 353, 83 S. Ct. 814 (1963). Wilson, like Freeman, was denied relief by the hearing court, on a finding only that he knew of his right to appeal, and waived that right by not appealing.\nBut Wilson, unlike Freeman, was given relief. This Court held that the right to free appellate counsel is part of an accused\u2019s rights under Douglas. This Court held that \u201can accused cannot waive his right to . . . assistance of appellate counsel unless he is told of his right to such court appointed counsel.\u201d 430 Pa. at 5, 241 A. 2d at 763. This Court stated that \u201c[t]he record below, although it does indicate that appellant may have been told that he could appeal, is completely silent as to whether appellant was at any point informed or was aware that he was entitled to court appointed counsel.\u201d Id. This Court held that the Commonwealth had the burden of proving such knowledge. And this Court, although it could have concluded that the Commonwealth had not met its burden, remanded for an evidentiary hearing on the question of Wilson\u2019s knowledge of his right to. free appellate counsel, since it was arguable that our prior decisions had not made it clear that \u201cthe Commonwealth must demonstrate, where the record is silent, that the post-conviction applicant was aware of both his right to appeal and his right to court appointed appellate counsel.\u201d Id. (emphasis in original). ...\nWilson was decided on May 3, 1968, nine months after Freeman had his evidentiary hearing, and five months after the hearing court rendered its opinion. Thus Wilson and. Freeman were in precisely the same posture when they had their evidentiary hearings\u2014i.e., the parties did not have the decision in Wilson to guide them\u2014and they were in precisely the same posture on appeal. How, then, can this Court now refuse Freeman at least what it granted Wilson? In fact, it is even arguable that Freeman should not be required to go through another hearing, because on this record, even without the guidance of Wilson, there is uncontradicted testimony by Freeman indicating, that he did not know of his right to free appellate counsel.\nClearly, Wilson should control the instant case. The holding in Wilson has never been doubted by this Court and was just recently termed \u201csettled law in this Commonwealth.\u201d Commonwealth v. Herge, 436 Pa. at 549, 260 A. 2d at 790. The holding has been constantly, and explicitly, reaffirmed in later cases. Commonwealth v. Ritchey,. 431 Pa: at 274-75, 245 A. 2d at 450: \u201cWe reaffirm our earlier holding that as a matter of law there cannot be a finding of \u00e1 knowing, and intelligent waiver of the right to counsel unless the accused shall have been explicitly informed that he is entitled to free counsel if he is indigent. Commonwealth v. Wilson . . . .\u201d (Emphasis in the original) Commonwealth v. Zaffina, 432 Pa. at 438-39, 248 A. 2d at 7: \u201cIn Commonwealth v. Wilson . . . and again in Commonwealth v. Mnmford ... we held unequivocally that where the trial record is silent on the issue of waiver, \u2018the Commonwealth has the burden to show not only that a defendant was told, or knew, of his absolute right to appeal, but also that he knew he could have counsel for this appeal, and, if indigent, that he could have free counsel.\u2019 Mumford, supra, at 454, 243 A. 2d at 442.\u201d\nAnd yet today, for the first time, the majority holds that an indigent defendant represented by free trial counsel does not have to be told of his right to free appellate counsel. Evidently, it will now be presumed, without any evidence, that all indigent defendants, represented by free counsel at trial, know that they can have free counsel on appeal. I submit that such a presumption is arbitrary, contrary to our prior decisions, and totally unjustifiable. One could as easily say that once an indigent is informed of his Miranda right to free counsel at interrogation, he is presumed to know that free counsel will follow him through the rest of the trial and appeal. Further, the majority\u2019s decision will undoubtedly create uncertainties in the trial courts of this Commonwealth. Nothing, of course, could be more confusing to our trial courts, and the profession, than to say we are following Wilson while reaching a totally opposite result.\nBesides creating problems for our state court system, today\u2019s decision unwisely imposes additional burdens on the federal courts. Now the two court systems will be in disagreement in this area of federal constitutional law, for the majority\u2019s opinion imposes upon the federal courts the uncomfortable and burdensome task of correcting constitutional errors, and protecting constitutional rights, which the state system leaves uncorrected. The federal courts have not, and will not, ignore the dictates of federal constitutional law which, until today, we ourselves had followed in Wilson and its progeny.\nWe are dealing here with a waiver of a federal constitutional right, the right to free appellate counsel as mandated by Douglas v. California, supra. As such, we must follow the federal standard for finding waiver: \u201cFor this waiver to be valid under the Due Process Clause, it must be \u2018an intentional relinquishment or abandonment of a known right or privilege.\u2019 \u201d McCarthy v. United States, 394 U.S. 459, 466, 89 S. Ct. 1166, 1171 (1969) (emphasis added). We cannot presume knowledge, and hence waiver, of constitutional rights, for \u201c \u2018courts indulge every reasonable presumption against waiver\u2019 of fundamental constitutional rights.\u201d Johnson v. Zerbst, 304 U.S. 458, 464, 58 S. Ct. 1019, 1023 (1938) (emphasis added). There must be proof that the defendant knew he had the right to free appellate counsel; without such proof we cannot find that he knowingly and intelligently waived his constitutional right: \u201cPresuming waiver from a silent record is impermissible. The record must show, or there must be an allegation and evidence which show, that an accused was offered counsel but intelligently and understandingly rejected the offer. Anything less is not waiver.\u201d Carnley v. Cochran, 369 U.S. 506, 516, 82 S. Ct. 884, 890 (1962) (emphasis added).\nThe majority has done precisely what the United States Supreme Court has held impermissible. Waiver of a federal constitutional right has been presumed from, a silent record. There is no proof that appellant knew of his right to free counsel on appeal. There is no record to show such knowledge. There can he no waiver. While, in my view, appellant will have no difficulty vindicating his constitutional right in federal court, it is indeed most unfortunate that the majority refuses to allow him to vindicate it here.\nMr. Justice O\u2019Bkien joins in this dissent.\nI agree with the majority that since the holding in Miranda does not apply to the instant case, appellant\u2019s confessions were properly admitted at trial. Were Miranda applicable, however, the confessions would be inadmissible for failure to give the proper warnings.\nThere was only one question asked at the PCHA hearing which even remotely concerned appellant\u2019s knowledge of his right to free counsel on appeal: \u201cQ. [W]hen the appeal was explained or discussed with you, did you or did you not understand that an appeal would be provided at public expense if you didn\u2019t have any money? A. [Freeman] I didn\u2019t understand anything about an appeal. I didn\u2019t know the power of an appeal, what it meant, what jt was based on.\u201d This statement was never contradicted.\nThe hearing court stated that the issue was \u201cwhether Petitioner knowingly and intelligently waived his right to appeal.\u201d No mention is made of petitioner\u2019s right to free counsel on appeal.\nThe testimony of trial counsel that they \u201cexplained to him these rights\u201d does not support the majority\u2019s \u201cfinding.\u201d \u201cThese rights,\u201d taken in context, refers only to the rights to file post-trial motions and take an appeal. No reference was made to appellant\u2019s right to free counsel on appeal. But, so that the reader may determine for himself the context of the quotation, the paragraph from which it was taken is quoted in its entirety below.\nIn response to a question by the district attorney, Arlington Williams, one of appellant\u2019s original trial counsel, testified: \u201cWell, my recollection is this, that Mr. Scanlon [co-counsel] and I together went to see Mr. Freeman for the express purpose of advising him what his rights were in connection with a motion for new trial and possible appeal if the new trial was denied. Mr. Scanlon and I went to the Monroe County Jail, and, as I recall it, this conviction, the jury verdict, came in on a Saturday, and we talked to Mr. Freeman in the early part of the week following the day the jury rendered the verdict. At that time, Mr. Scanlon did the explanation. He advised Mr. Freeman concerning his rights, first, to make him have his counsel move for a new trial, and secondly, that if that new trial was denied, that he had a right to appeal to the Supreme Court of Pennsylvania and have his case reviewed. There was a mention of four days, as I recall it, in which, under our rule of court, this motion would normally be made. It is my recollection that in this particular instance, since the verdict was rendered on the last day the court sat, that under the rule, there was additional time in that a motion could be filed at the next session of the court. Mr. Scanlon explained to him these rights and then told him that whether he wanted us to file this motion for a new trial and a subsequent appeal if a new trial was denied was a matter for his decision.\u201d\nSee note 2, supra.\nIn none of our past decisions have we ever indicated that we would draw a distinction between defendants who were represented at trial by free counsel, and those who became indigent after trial, and thus it is difficult to determine how many of our past decisions fit into either category. But from the facts recited by the Court in those cases, it appears that at least Wilson and Zaffina were represented at trial by free counsel.\nDor example, the second circuit, in an opinion by Judge Medina, has recently held that Douglas \u201cimposes upon the state a duty to warn every person convicted of crime of his right to appeal and his right to prosecute his appeal without expense to him by counsel appointed by the state, if he is indigent.\u201d The case was then remanded for \u201ca further hearing and finding on the subject: was Joel Smith [the defendant] informed or did he know prior to the expiration of his time to appeal that he could appeal without cost to himself and with counsel appointed by the state.\u201d United States ex rel. Smith v. McMann (No. 336, September Term, 1968, decided en banc, October 10, 1969) (emphasis added). In United States ex rel Sliva v. Rundle, 295 F. Supp. 613, 615-16 (E.D. Pa. 1969), the court\u2014relying on, and quoting with approval, our decision in Commonwealth v. Ezell, supra\u2014stated that \u201c[t]he fact that an indigent does not specifically request counsel on appeal cannot in itself be construed as a knowing and intelligent waiver .... Relator clearly knew of his right to appeal, hut there is nothing on the record to indicate that he knew of his right to counsel on appeal.\u201d The court therefore granted the writ, subject to the Commonwealth giving relator his right to direct appeal with court-appointed counsel. It is also interesting to note that F. R. Crim. P. 32(a)(2), designed to implement a defendant\u2019s rights under Douglas, provides that the trial court must advise a defendant not only of his right to appeal but also of his right to proceed in forma pauperis if indigent, even if defendant is at the time represented by counsel. See Advisory Committee\u2019s Note, 39 F.R.D. 69, 193; United States v. Smith, 387 F. 2d 268, 269-70 (6th Cir. 1967).",
+        "type": "dissent",
+        "author": "by Me. Justice Robeets:"
+      }
+    ],
+    "attorneys": [
+      "J. J oseph McCluslcey, for appellant.",
+      "Phillip II. Williams, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Freeman, Appellant.\nSubmitted April 21, 1969.\nBefore Bell, C. J., Jones, Cohen, Eaoen, O\u2019Brien, Roberts and Pomeroy, JJ.\nJ. J oseph McCluslcey, for appellant.\nPhillip II. Williams, District Attorney, for Commonwealth, appellee.\nMarch 20, 1970:"
+  },
+  "file_name": "0001-01",
+  "first_page_order": 117,
+  "last_page_order": 137
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1809879,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Mabel PHILLIPS, Respondent",
+  "name_abbreviation": "Commonwealth v. Phillips",
+  "decision_date": "1988-02-09",
+  "docket_number": "Appeal No. 774 E.D. Allocatur Docket 1985",
+  "first_page": "529",
+  "last_page": "529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 529"
+    },
+    {
+      "type": "parallel",
+      "cite": "539 A.2d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "510 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796921
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0123-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 313,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06732129942710946
+    },
+    "sha256": "f87e2c42c0cf93a99a380a97e2282af0a9b76274a3fffce41526d76d5380fd62",
+    "simhash": "1:b82bc09611230ea2",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Mabel PHILLIPS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nIT IS HEREBY ORDERED that this case is remanded to the Superior Court for further consideration in light of Commonwealth v. Brady, 510 Pa. 123, 507 A.2d 66 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "539 A.2d 779\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Mabel PHILLIPS, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 9, 1988."
+  },
+  "file_name": "0529-01",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

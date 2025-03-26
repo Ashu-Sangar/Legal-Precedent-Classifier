@@ -1,0 +1,69 @@
+{
+  "id": 2574997,
+  "name": "John SMITH, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee",
+  "name_abbreviation": "Smith v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2006-10-06",
+  "docket_number": "No. 68 MAP 2005",
+  "first_page": "112",
+  "last_page": "112",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "589 Pa. 112"
+    },
+    {
+      "type": "parallel",
+      "cite": "907 A.2d 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 315,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.07982009127380778
+    },
+    "sha256": "85c1d5e95543348974c0062bb12b1cc35172105729d66ddbcffb498b32d42708",
+    "simhash": "1:4f8c6323c36d185a",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T21:30:10.744669+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice NEWMAN dissents."
+    ],
+    "parties": [
+      "John SMITH, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nMOTION TO DISMISS FOR MOOTNESS\nPER CURIAM.\nAND NOW, this 6th day of October, 2006, the Motion to Dismiss for Mootness is granted.\nJustice NEWMAN dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "907 A.2d 519\nJohn SMITH, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee.\nNo. 68 MAP 2005.\nSupreme Court of Pennsylvania.\nOct. 6, 2006."
+  },
+  "file_name": "0112-01",
+  "first_page_order": 288,
+  "last_page_order": 288
+}

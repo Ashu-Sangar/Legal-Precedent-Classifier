@@ -1,0 +1,805 @@
+{
+  "id": 124749,
+  "name": "PENNSYLVANIA PRISON SOCIETY; Julia D. Hall; Gregory H. Knight; Fight for Lifers, Inc.; William Goldsby; Joan Porter; Graterfriends, Inc., Joan F. Gauker; Vincent Johnson; Friends Committee to Abolish the Death Penalty, Inc; Kurt Rosenberg; Pennsylvania Abolitionists United Against the Death Penalty, An Unincorporated Association by Terry Rumsey and William Goldsby; Terry Rumsey, Roger Buehl, AM-7936 SCI-Greene; Douglas Hollis, AF-6355 SCI Coal Township, Dianna Hollis, Appellees, v. COMMONWEALTH of Pennsylvania; Honorable Tom Ridge, Governor; Pennsylvania Board of Pardons; and Honorable Kim Pizzingrilli, Secretary of the Commonwealth of Pennsylvania and Representative Matthew J. Ryan, as Speaker of the House of Representatives of the Commonwealth of Pennsylvania, and Senator Robert C. Jubelirer, As President Pro Tempore of The Senate of the Commonwealth of Pennsylvania, Intervenors, Appellants",
+  "name_abbreviation": "Pennsylvania Prison Society v. Commonwealth",
+  "decision_date": "2001-07-25",
+  "docket_number": "No. 893 M.D. 1997",
+  "first_page": "526",
+  "last_page": "554",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "565 Pa. 526"
+    },
+    {
+      "type": "parallel",
+      "cite": "776 A.2d 971"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "665 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        458972,
+        7880612
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0124-01",
+        "/a2d/665/1167-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 124",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458972
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0124-01"
+      ]
+    },
+    {
+      "cite": "731 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673370,
+        56796
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/731/1261-01",
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 72",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56796
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "46 A. 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 5,
+      "year": 1900,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Pa. 396",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        916814
+      ],
+      "year": 1900,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/196/0396-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 602",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831212
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0602-01"
+      ]
+    },
+    {
+      "cite": "130 A. 407",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "409-10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "284 Pa. 235",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092064
+      ],
+      "year": 1925,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0235-01"
+      ]
+    },
+    {
+      "cite": "164 A. 615",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "616-17"
+        },
+        {
+          "page": "616"
+        },
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 Pa. 510",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141651
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0510-01"
+      ]
+    },
+    {
+      "cite": "250 A.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 Pa. 406",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921072
+      ],
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/433/0406-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11629003
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "633-34"
+        },
+        {
+          "page": "634-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/0632-01"
+      ]
+    },
+    {
+      "cite": "149 A. 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "299 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1122250
+      ],
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/299/0390-01"
+      ]
+    },
+    {
+      "cite": "469 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1722119
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "494-95"
+        },
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/469/0490-01"
+      ]
+    },
+    {
+      "cite": "61 L.Ed.2d 286",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S.Ct. 2841",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "442 U.S. 918",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532000,
+        1532131,
+        1532166,
+        1532138,
+        1531818,
+        1531852,
+        1532043,
+        1531887,
+        1531988,
+        1532089,
+        1532125,
+        1531998
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0918-08",
+        "/us/442/0918-02",
+        "/us/442/0918-11",
+        "/us/442/0918-03",
+        "/us/442/0918-05",
+        "/us/442/0918-12",
+        "/us/442/0918-01",
+        "/us/442/0918-09",
+        "/us/442/0918-04",
+        "/us/442/0918-07",
+        "/us/442/0918-06",
+        "/us/442/0918-10"
+      ]
+    },
+    {
+      "cite": "483 Pa. 467",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1751157
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "477"
+        },
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/483/0467-01"
+      ]
+    },
+    {
+      "cite": "259 Minn. 35",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        357367
+      ],
+      "weight": 2,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding separate propositions that, although they could have been submitted separately, were rationally related to a single purpose, plan, or subject"
+        },
+        {
+          "page": "914",
+          "parenthetical": "upholding separate propositions that, although they could have been submitted separately, were rationally related to a single purpose, plan, or subject"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/minn/259/0035-01"
+      ]
+    },
+    {
+      "cite": "208 S.E.2d 93",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "100",
+          "parenthetical": "inquiring into whether all of the proposed changes \"are germane to the accomplishment of a single objective\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "232 Ga. 547",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1133862
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "inquiring into whether all of the proposed changes \"are germane to the accomplishment of a single objective\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ga/232/0547-01"
+      ]
+    },
+    {
+      "cite": "119 N.M. 12",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1561247
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "applying a \"rational linchpin\" of interdependence test"
+        },
+        {
+          "page": "462",
+          "parenthetical": "applying a \"rational linchpin\" of interdependence test"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/119/0012-01"
+      ]
+    },
+    {
+      "cite": "199 Ariz. 173",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1186898
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining a \"common-purpose formulation\" to inquire into whether the proposed amendments are sufficiently related to \"constitute a consistent and workable whole on the general topic embraced\""
+        },
+        {
+          "page": "203-05",
+          "parenthetical": "explaining a \"common-purpose formulation\" to inquire into whether the proposed amendments are sufficiently related to \"constitute a consistent and workable whole on the general topic embraced\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ariz/199/0173-01"
+      ]
+    },
+    {
+      "cite": "731 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673370,
+        56796
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1263",
+          "parenthetical": "Saylor, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/731/1261-01",
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 72",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56796
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "89",
+          "parenthetical": "Saylor, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "197 A. 235",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "328 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1179659
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "413-14"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/328/0408-01"
+      ]
+    },
+    {
+      "cite": "731 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673370,
+        56796
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1270",
+          "parenthetical": "when a ballot question encompasses multiple amendments, it does \"not permit the electorate to vote separately upon each of the amendments in violation of Article XI, \u00a7 1.\""
+        },
+        {
+          "page": "1270"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/731/1261-01",
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 72",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56796
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "when a ballot question encompasses multiple amendments, it does \"not permit the electorate to vote separately upon each of the amendments in violation of Article XI, \u00a7 1.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 602",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831212
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "608"
+        },
+        {
+          "page": "436"
+        },
+        {
+          "page": "611"
+        },
+        {
+          "page": "436"
+        },
+        {
+          "page": "613"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/529/0602-01"
+      ]
+    },
+    {
+      "cite": "164 A. 615",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The Constitution is the fundamental law of our Commonwealth, and in matters relating to alterations or changes in its provisions, the; courts must exercise the most rigid care to preserve to the people the right assured to them by that instrument.\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "309 Pa. 510",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141651
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "515",
+          "parenthetical": "\"The Constitution is the fundamental law of our Commonwealth, and in matters relating to alterations or changes in its provisions, the; courts must exercise the most rigid care to preserve to the people the right assured to them by that instrument.\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/309/0510-01"
+      ]
+    },
+    {
+      "cite": "250 A.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "479",
+          "parenthetical": "emphasis supplied"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "433 Pa. 406",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921072
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "416",
+          "parenthetical": "emphasis supplied"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/433/0406-01"
+      ]
+    },
+    {
+      "cite": "731 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673370,
+        56796
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1262"
+        },
+        {
+          "page": "1270"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/731/1261-01",
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 72",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56796
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/557/0072-01"
+      ]
+    },
+    {
+      "cite": "164 A. 615",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1932,
+      "opinion_index": 3
+    },
+    {
+      "cite": "309 Pa. 510",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141651
+      ],
+      "year": 1932,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/309/0510-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11629003
+      ],
+      "pin_cites": [
+        {
+          "page": "634-35"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/727/0632-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1475,
+    "char_count": 54572,
+    "ocr_confidence": 0.654,
+    "pagerank": {
+      "raw": 2.17872036630167e-07,
+      "percentile": 0.7720540850065004
+    },
+    "sha256": "05541757297f5da4f42568d129b2a6aa247811040e512678f994df7b8a53af1d",
+    "simhash": "1:99b5aed2172a02d6",
+    "word_count": 8728
+  },
+  "last_updated": "2024-02-27T17:51:10.246175+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Saylor, J., concurred and filed opinion in which Castille and Newman, JJ., joined.",
+      "Nig't'o, J., concurred and dissented and filed opinion.",
+      "Cappy, J., dissented and filed opinion.",
+      "Before FLAHERTY, C.J., ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ.",
+      "Justice SAYLOR files a concurring opinion in which Justice CASTILLE and Justice NEWMAN join.",
+      "Justice NIGRO files a concurring and dissenting opinion.",
+      "Justice CAPPY files a dissenting opinion.",
+      "Justice CASTILLE and Justice NEWMAN join this concurring opinion."
+    ],
+    "parties": [
+      "PENNSYLVANIA PRISON SOCIETY; Julia D. Hall; Gregory H. Knight; Fight for Lifers, Inc.; William Goldsby; Joan Porter; Graterfriends, Inc., Joan F. Gauker; Vincent Johnson; Friends Committee to Abolish the Death Penalty, Inc; Kurt Rosenberg; Pennsylvania Abolitionists United Against the Death Penalty, An Unincorporated Association by Terry Rumsey and William Goldsby; Terry Rumsey, Roger Buehl, AM-7936 SCI-Greene; Douglas Hollis, AF-6355 SCI Coal Township, Dianna Hollis, Appellees, v. COMMONWEALTH of Pennsylvania; Honorable Tom Ridge, Governor; Pennsylvania Board of Pardons; and Honorable Kim Pizzingrilli, Secretary of the Commonwealth of Pennsylvania and Representative Matthew J. Ryan, as Speaker of the House of Representatives of the Commonwealth of Pennsylvania, and Senator Robert C. Jubelirer, As President Pro Tempore of The Senate of the Commonwealth of Pennsylvania, Intervenors, Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nZAPPALA, Justice.\nThis is a direct appeal filed on behalf of the Commonwealth of Pennsylvania, Governor Tom Ridge, the Pennsylvania Board of Pardons, and the Secretary of the Commonwealth (Appellants) from the order of the Commonwealth Court granting the motion for judgment on the pleadings filed by the Pennsylvania Prison Society, Julia D. Hall and others (collectively referred to as the Prison Society). The Prison Society challenged the constitutionality of a proposed constitutional amendment to Article IV, Section 9 of the Pennsylvania Constitution that was placed on the November 4, 1997 ballot. The Commonwealth Court determined that the ballot question was null and void, as the single ballot question contained five amendments to the Pennsylvania Constitution in violation of Article XI, Section 1. We find that the ballot question in fact proposed two separate amendments to Article IV, Section 9, contrary to the separate vote requirement of Article XI, Section 1. Due to the unique circumstances underlying the proposed amendment to the provision of Article IV, Section 9, governing the confirmation process of gubernatorial appointments to the Board of Pardons, however, we conclude that the ballot question was not constitutionally infirm in this case. For the following reasons, we reverse the order of the Commonwealth Court.\nOn October 16, 1997, the Prison Society filed an action against the Secretary of the Commonwealth, challenging the proposed constitutional amendments to Article IV, Section 9 of the Pennsylvania Constitution. Article IV, Section 9 encompasses the power of the Governor to remit fines and forfeitures, to grant reprieves, commutation of sentences and pardons, and prior to the proposed amendments provided that\n(a) In all criminal cases except impeachment the Governor shall have power to remit fines and forfeitures, to grant reprieves, commutation of sentences and pardons; but no pardon shall be granted, nor sentence commuted, except on the recommendation in writing of a majority of the Board of Pardons, after full hearing in open session, upon due public notice. The recommendation, with the reasons therefor at length, shall be delivered to the Governor and a copy thereof shall be kept on file in the office of the Lieutenant Governor in a docket kept for that purpose.\n(b) The Board of Pardons shall consist of the Lieutenant Governor who shall be chairman, the Attorney General and three members appointed by the Governor with the consent of two-thirds or a majority of the members elected to the Senate as is specified by law for terms of six years. The three members appointed by the Governor shall be residents of Pennsylvania and shall be recognized leaders in their fields; one shall be a member of the bar, one a penologist, and the third a doctor of medicine, psychiatrist or psychologist. The board shall keep records of its actions, which shall at all times be open for public inspection.\nThe General Assembly approved proposed amendments to Article IV, Section 9 for submission to the electorate at the November 4, 1997 election. The text of the amendments provided that Article IV, Section 9 be amended to read:\n(a) In all criminal cases except impeachment the governor shall have power to remit fines and forfeitures, to grant reprieves, commutation of sentences and pardons; but no pardon shall be granted, nor sentence commuted, except on the recommendation in writing of a majority of the Board of Pardons, and in the case of a sentence of death or life imprisonment, on the unanimous recommendation in writing of the Board of Pardons, after full hearing in open session, upon due public notice. The recommendation, with the reasons therefor at length, shall be delivered to the Governor and a copy thereof shall be kept on file in the office of the Lieutenant Governor in a docket kept for that purpose.\n(b) The Board of Pardons shall consist of the Lieutenant Governor who shall be chairman, the Attorney General and three members appointed by the Governor with the consent of a majority of the members elected to the Senate for terms of six years. The three members appointed by the Governor shall be residents of Pennsylvania. One shall be a crime victim; one a corrections expert, and the third a doctor of medicine, psychiatrist or psychologist. The board shall keep records of its actions, which shall at all times be open for public inspection.\nThe ballot question, which was submitted to the electorate in November 1997, read:\nShall the Pennsylvania Constitution be amended to require a unanimous recommendation of the Board of Pardons before the Governor can pardon or commute the sentence of an individual sentenced in a criminal case to death or life imprisonment, to require only a majority vote of the Senate to approve the Governor\u2019s appointments to the Board, and to substitute a crime victim for an attorney and a corrections expert for a penologist as Board members?\nThe Prison Society also filed a motion for a preliminary injunction and requested a temporary restraining order. On October 20, 1997, the Commonwealth Court entered an order denying the motion for a temporary restraining order. The court also scheduled a hearing on the motion for a preliminary injunction for October 30, 1997. On October 31, 1997, the motion was denied. The ballot question was presented to the electorate on November 4,1997, and passed.\nOn November 12,1997, the Secretary of the Commonwealth removed the case to the United States District Court for the Middle District of Pennsylvania. On January 5, 1998, the Prison Society filed an amended complaint in district court, adding as defendants the Commonwealth, Governor Ridge and the Board of Pardons. The district court remanded the state law claims to the Commonwealth Court on January 15, 1998.\nIn the amended complaint, the Prison Society challenged the ballot question as violative of Article XI, Section 1 of the Pennsylvania Constitution. Article XI, Section 1 establishes the procedure for the proposal of amendments by the General Assembly and their adoption by the electorate. Specifically, Article XI, Section 1 requires that \u201c[w]hen two or more amendments shall be submitted they shall be voted upon separately.\u201d The Prison Society asserted that the ballot question proposed five amendments to Article IV, Section 9 that should have been submitted to the electorate so as to have each voted upon separately.\nThe Prison Society contended that the ballot question proposed the following five amendments to Article IV, Section 9:\n(1) to require a unanimous, rather than majority, recommendation of the Board of Pardons before the Governor can pardon or commute the sentence of an individual sentenced in a criminal case to death or life imprisonment;\n(2) to require a majority, rather than two-thirds, vote of the Senate to approve the Governor\u2019s three appointments to the Board of Pardons;\n(3) to substitute a crime victim for an attorney on the Board of Pardons;\n(4) to substitute a corrections expert for a penologist on the Board of Pardons; and\n(5) to delete the \u201crecognized leaders in their fields\u201d qualification for the Governor\u2019s three appointees to the Board of Pardons.\nThe Prison Society asserted also that the ballot question amended Article IV, Section 8, relating to the Governor\u2019s appointing power, by requiring only a majority vote of the Senate to approve the gubernatorial appointments to the Board of Pardons.\nThe Prison Society presented a separate challenge to the explanation of the ballot question prepared by the Attorney General pursuant to Section 201.1 of the Pennsylvania Election Code, 25 P.S. \u00a7 2621.1, which provides in part:\nWhenever a proposed constitutional amendment or other Statewide ballot question shall be submitted to the electors of the Commonwealth in referendum, the Attorney General shall prepare a statement in plain English which indicates the purpose, limitations and effects of the ballot question on the people of the Commonwealth. The Secretary of the Commonwealth shall include such statement in his publication of a proposed constitutional amendment as required by Article XI of the Constitution of Pennsylvania.\nThe Prison Society raised additional claims under state and federal law, asserting that the ballot question violated the voters\u2019 rights to suffrage and due process, that the amendments violated the natural and fundamental rights and due process of applicants before the Board of Pardons, and that the amendments violated the constitutional prohibition against ex post facto laws.\nThe Appellants filed an answer, asserting that the ballot question set forth only one proposed constitutional amendment. As to the matter of the plain English statement prepared by the Attorney General, the answer stated only that no response was required as the allegations of the amended complaint contained conclusions of law to which no response was required. The answer ti-eated the remaining state law claims in the same fashion.\nBy order dated May 26, 1998, the Commonwealth Court directed the parties to file cross-motions for judgment on the pleadings. Argument was heard on the cross-motions by the court sitting en banc. On March 22, 1999, the Commonwealth Court granted the motion for judgment on the pleadings that was filed by the Prison Society.\nThe court declared the November 4,1997 vote on the ballot question null and void on the basis that the ballot question contained five amendments to the Pennsylvania Constitution in violation of Article XI, Section 1. The court stated:\nThe primary dispute is whether the changes to Article IV, Section 9 of the Pennsylvania Constitution constitute one amendment or several amendments. If they constitute several amendments, the ballot question submitting those amendments to the voters violated Article XI, Section 1 of the Constitution, which provides that \u201c[w]hen two or more amendments shall be submitted they shall be- voted upon separately.\u201d The Prison Society asserts that the ballot question, which proposed four amendments to Article IV, Section 9 but which actually contained five amendments, should have been submitted to the voters as five questions to be approved separately. In contrast, the Commonwealth asserts that the amendment constituted a single question despite the fact that it contained several parts, because all of the parts pertained to one provision of the Constitution and addressed one topic, the Board of Pardons.\n\u201cWhere, as here, we must decide between two interpretations of a constitutional provision, we must favor a natural reading which avoids contradictions and difficulties in implementation, which completely conforms to the intent of the framers and which reflects the views of the ratifying voter.\u201d Commonwealth ex rel. Paulinski v. Isaac, 483 Pa. 467, 477, 397 A.2d 760, 766, cert. denied, 442 U.S. 918, 99 S.Ct. 2841, 61 L.Ed.2d 286 (1979). \u201cA constitution is not to receive a technical or strained construction, but rather the words should be interpreted in their popular, natural and ordinary meaning.\u201d Commonwealth v. Harmon, 469 Pa. 490, 494-95, 366 A.2d 895, 897 (1976). \u201c[WJhere the language used is untechnical, it is to be construed as the people who voted for [it] probably understood it[.]\u201d O\u2019Connor v. Armstrong, 299 Pa. 390, 396, 149 A. 655, 657 (1930). Amendment is defined as \u201can alteration proposed or effected by\u201d the process of amending. Webster\u2019s Third New International Dictionary 68 (1993). Amend is defined as follows: \u201cto alter (as a motion, bill or law [or constitution]) formally by modification, deletion or addition.\u201d Id. Considering these principles and definitions, we have no doubt that the word amendment in Article XI, Section 1 means a single change to the Constitution.\nPennsylvania Prison Society v. Commonwealth of Pennsylvania, 727 A.2d 632, 633-34 (Pa.Cmwlth.1999).\nThe court noted that the process for amendment of the Pennsylvania Constitution authorized under Article XI, Section 1 must be strictly observed, citing this Court\u2019s decision in Stander v. Kelley, 433 Pa. 406, 250 A.2d 474 (1969). The court found that the process described in Article XI, Section 1 was not designed to effectuate sweeping, complex changes to the Constitution. Amendment of the Constitution by proposal to the General Assembly and submission for vote by the electorate was never intended as a substitute for, or a circumvention of, the process of a constitutional convention for making complex changes to the Constitution. The court observed that the separate vote requirement of Article XI, Section 1 was designed to serve as a safeguard fundamental to the concept of a constitution. The requirement insures that the voters will \u201cbe able to express their will as to each substantive constitutional change separately, especially if these changes are not so interrelated that they must be made together.\u201d 727 A.2d at 634-35.\nThe court concluded that the ballot question violated Article XI, Section 1 because it submitted four amendments in a single question, and failed to describe an additional amendment that deleted the requirement that the three members appointed by the Governor be \u201crecognized leaders in their fields.\u201d The court found that the ballot question as submitted did not permit the electorate to vote separately as to each substantive change to the Constitution.\nThe court also determined that th\u00e9 plain English statement regarding the ballot question was inadequate to satisfy the requirements of Section 201.1 of the Election Code. The statement was found to be cursory in its description of the limitations and effects of the ballot question, and more of a restatement of the proposed amendments than an explanation of the ramifications of the amendment. As to the Prison Society\u2019s claim based upon the ex post facto clause of the Pennsylvania Constitution, the court concluded that the issue had been waived because it had not been briefed by either party.\nAppellants filed a direct appeal from the Commonwealth Court\u2019s order. On December 22, 1999, we enter a per curiam order directing that oral argument on the issues be scheduled. A petition for leave to intervene filed on behalf of the Speaker of the House of Representatives and the President Pro Tempore of the Pennsylvania Senate was granted.\nAppellants assert that the Commonwealth Court erred in holding that the ballot question violated Article XI, Section 1 and that the Attorney General\u2019s plain English statement did not adequately inform the voters of the proposed constitutional changes.' They contend that the ballot question makes multiple changes but one amendment, and that the plain English statement satisfied the statutory requirements.\nAppellants seek to draw a comparison between challenges to legislation under Article III and those to proposed constitutional amendments based upon the separate vote requirement of Article XL They suggest that the appropriate model for analysis in this case ought to be that applied to legislation because in both cases it is the General Assembly that is given authority to initiate the process \u2014 in one case by bill, in the other by joint resolution. Appellants note that the General Assembly has traditionally been accorded substantial deference in the adoption of legislation, but observe also that the courts of this Commonwealth have not treated challenges to proposed constitutional amendments similarly.\nIt is the responsibility of this Court to insure that the provisions of the Constitution establishing the procedure for the proposal and adoption of constitutional amendments are satisfied. \u201cThe Constitution is the fundamental law of our Commonwealth, and in matters relating to alterations or changes in its provisions, the courts must exercise the most rigid care to preserve to the people the right assured to them by that instrument.\u201d Commonwealth ex rel. Schnader v. Beamish, 309 Pa. 510, 164 A. 615, 616-17 (1932).\nThere are longstanding principles that serve as the framework for analyzing challenges to the amendment process. Foremost, we are guided by the principle\nthat the voters should be given free opportunity to modify the fundamental law as may seem to them fit, but this must be done in the way they themselves have provided, if stability, in the carrying on of government, is to be preserved. It is the duty of the courts to follow the rules fixed by the Constitution. If believed to be unwise, in the provisions expressed, it should be rewritten, or modified, but as long as plain words are used, directing what shall be permitted, it is imperative on the courts to restrain any actions which are forbidden.\nTaylor v. King, 284 Pa. 235, 130 A. 407, 409-10 (1925), overruled in part by Slander v. Kelley, 433 Pa. 406, 250 A.2d 474 (1969).\n\u201cThe Constitution of the State may be legally amended in the manner specifically set forth therein, or a new one may be put in force by a convention duly assembled, its action being subject to ratification by the people, but these are the only ways in which the fundamental law can be altered.\u201d Id. at 408, 250 A.2d 474. \u201cThe Constitution is specific in providing a complete and detailed process for the amendment of that document ....,\u201d which is set forth in Article XI, Section 1. Kremer v. Grant, 529 Pa. 602, 606 A.2d 433, 436 (1992). \u201cNothing short of a literal compliance with this mandate will suffice.\u201d Id. at 438.\n\u201c[W]e must look not only to the letter of the words but also the spirit behind them.\u201d Beamish, 164 A. at 616.\n[Wjhere multitudes are to be affected by the construction of an instrument, great regard should be paid to the spirit and intention. And the reason for it is an obvious one. A constitution is made, not particularly for the inspection of lawyers, but for the inspection of the million, that they may read and discern in it their rights and their duties; and it is consequently expressed in the terms that are most familiar to them.\nId. at 616.\nUnder Article XI, Section 1, the people reserved the power to amend the Constitution by a process separate from and additional to a constitutional convention. Unlike the passage of legislation through bills submitted and adopted by the General Assembly, amendments to the Constitution must be submitted to and voted upon by the people.\nCommonwealth v. Griest, 196 Pa. 396, 46 A. 505 (1900), addressed the significance of the distinction between the General Assembly\u2019s inherent authority to legislate and its role in the process of the amendment of the Constitution by the people. Griest involved the issue of whether a proposed amendment to the Constitution had to be submitted to the governor for his action in the course of proceedings for its establishment under Article XVII of the Constitution of 1874, relating to future amendments. It was determined that an amendment of the Constitution need not be submitted to the governor for approval or vote.\nThe process for amendment of the Constitution was distinguished from the subject of legislation governed by Article III of the Constitution. The exercise of the lawmaking power of the Commonwealth vested in the General Assembly under Article III was found not to include constitutional amendments. A proposed amendment to the Constitution is \u201cnot a law, an order, a bill or a resolution, that may thus be proposed and must be enrolled.....\u201d Id. at 410, 46 A. 505.\nThus it is seen that throughout the article, the separate and distinctive character of this particular exercise of the power of the two houses is preserved, and is excluded from association with the orders, resolutions and votes, which constitute the ordinary legislation of the legislative body. But the great and overshadowing distinction, between this and the ordinary legislation, lies in the fact that the organism which decides questions of constitutional amendment, is an entirely different and distinct organism from that which decides questions of legislation even in its broadest sense. The two houses and the governor constitute the entirety of the body which considers and finally determines all matters of legislation. But it is the two houses and the great mass of the electors of the commonwealth combined, which constitute the body which considers and determines questions of constitutional amendment. With all matters of legislation the people in their capacity of electors have nothing to do. But with constitutional amendments they have everything to do, for the ultimate fate of all proposed amendments depends absolutely upon their approval. If they approve, the proposed amendment at once becomes a part of the constitution; if they disapprove, it fails utterly and never comes into existence. The fundamental distinction which thus becomes most manifest, between the mere legislative machinery of the government, and that machinery which alone possesses the power to ordain amendments to the constitution of the commonwealth is most radical and extreme.\nId. at 410 \u2014 411, 46 A. 505.\nThe importance of these words has not diminished in the passage of a century. It requires us to reject Appellants\u2019 contention that the model for analysis in this case should be that applied to legislation under Article III of our existing Constitution. As Chief Justice Green observed in Griest:\n[The amendment process] is a system entirely complete in itself, requiring no extraneous aid, either in matters of detail or of general scope to its effectual execution. It is also necessary to bear in mind the character of the work for which it provides. It is constitution making, it is a concentration of all the power of the people in establishing organic law for the commonwealth.....It is not lawmaking, which is a distinct and separate function, but it is a specific exercise of the power of a people to make its constitution.\nId. at 404, 46 A. 505.\nIn Bergdoll v. Kane, 557 Pa. 72, 731 A.2d 1261 (1999), we addressed a constitutional challenge under Article XI, Section 1 to a ballot question proposing to amend the confrontation clause of Article I, Section 9. In November 1995, the electorate was presented with a ballot question that would have eliminated the requirement that an accused in a criminal prosecution meet the witnesses face to face, and that would have amended the Constitution so as to allow the General Assembly to enact laws regarding the manner by which children could testify in criminal proceedings.\nThe ballot question presented to the voters read:\nShall the Pennsylvania Constitution be amended to provide (1) that a person accused of a crime has the right to be \u201cconfronted with the witnesses against him,\u201d instead of the right to meet the witnesses \u201cface to face\u201d, and (2) that the General Assembly may enact laws regarding the manner by which children may testify in criminal proceedings, including the use of videotaped depositions or testimony by closed circuit television.\nThe appellees challenged the ballot question in a quo warranto action filed with this Court, contending that the first part of the question would amend Article I, Section 9, and the second part would effectively amend Article V, Section 10 (relating to judicial administration).\nWe transferred the matter to the Commonwealth Court for expedited consideration. Summary judgment was granted in favor of the appellees by the Commonwealth Court. The court declared the vote on the ballot question null and void as it contained two amendments within one question. The court concluded that even though Article V, Section 10 was not mentioned, the ballot question was intended to amend the authority given to the Supreme Court thereunder.\nOn appeal, the Secretary of the Commonwealth argued that the ballot question did not violate the separate vote requirement because the question was intended only to amend the confrontation clause to permit child witnesses and victims in criminal proceedings to testify out of court. It was claimed that the question did not amend Article V, Section 10 even though the amendment would give the General Assembly the authority to prescribe rules in those proceedings. The appellees argued that two separate amendments were encompassed within the question. They asserted that a voter could not vote on the part of the ballot question relating to amendment of the confrontation clause, whether for or against, without casting the same vote for the amendment authorizing the General Assembly to enact laws relating to testimony of child witnesses.\nWe determined that the ballot question did in fact encompass amendments to both Article I, Section 9 and Article V, Section 10(c). Pursuant to Article V, Section 10(a), the Supreme Court of Pennsylvania has general supervisory and administrative authority over all the courts and justices of the peace. The Supreme Court has the power to prescribe general rules governing the practice, procedure and conduct of all courts under Article V, Section 10(c).\nWe rejected the Secretary\u2019s arguments that the ballot question did not amend the judicial authority to prescribe rules in criminal proceedings involving child witnesses by giving the General Assembly authority to prescribe rules in those proceedings, as the Constitution grants rulemaking authority exclusively to the Supreme Court. Because the ballot question did not permit the electorate to vote separately upon each of the amendments in violation of Article XI, Section 1, we affirmed the Commonwealth Court\u2019s order declaring the ballot question null and void.\nWhen the ballot question was examined in Bergdoll, we analyzed its substantive effect on the Constitution. Although the phrasing of the question itself did not specifically refer to each constitutional provision that would have effectively been amended by its adoption, we considered the content, purpose, and effect of the proposed amendments.\nIn this case, Appellants claim Bergdoll is distinguishable because the ballot question would amend only one section of one article of the Constitution. Appellants assert that the question presented multiple changes but only one amendment. Appellants contend that all of the changes pertain specifically to the Board of Pardons, and they all are directed toward the single objective of making it more difficult for prisoners who are sentenced to death or life imprisonment to obtain pardons or clemency. Appellants concede that the parts of the amendments are not mutually dependent in the sense that one part could not be approved without the others, but claim that the broad objective of the amendments permits submission of a single ballot question to the electorate.\nThe Prison Society responds that the proposed amendments violated Article XI, Section 1 because there were multiple changes to the Constitution which were not submitted for a separate vote. It argues that the separate vote requirement helps to ensure that a voter will not be compelled to vote in favor of a constitutional amendment that he or she wishes to support by interlocking the amendment with another proposed amendment that he or she does not support. This is commonly referred to as \u201clogrolling.\u201d\nAfter examination of the ballot question and the text of the proposed constitutional amendments to Article IV, Section 9, we find that the -ballot question violated the separate vote requirement of Article XI, Section 1. The ballot question encompassed two separate amendments to the provisions of Article IV, Section 9, and did not permit the electorate to vote separately upon each amendment. The proposed amendments had two purposes: first, to restructure the pardoning power of the Board and, second, to alter the confirmation process of the Senate of Pennsylvania for the three members of the Board of Pardons who are appointed by the Governor.\nWe find that the restructuring of the Board of Pardons so as to change the composition of its members, and to require that its members be unanimous in their recommendation of a pardon in cases where a sentence of death or life imprisonment has been imposed, were properly submitted within a single ballot question. The change in the confirmation process for gubernatorial appointees, however, presented a separate amendment that was required to be voted upon separately.\nThe Governor has the authority under Article V, Section 9(b) to appoint three members to the Board, but only with the consent of the members elected to the Senate for terms of six years. This reflects the constitutionally created system of checks and balances imposed upon the separate branches of government. The senatorial process for confirming the appointees is separate and distinct from the functions performed by the Board. Any change to the Senate\u2019s exclusive authority to confirm the appointees to the Board was required to be submitted for a separate vote by the electorate.\nWe are unpersuaded by Appellants\u2019 argument that Bergdoll is not controlling in this case because the ballot question proposed changes to a single article of the Constitution.- The Bergdoll analysis was based upon the separate vote requirement of Article XI, Section 1, which entails an examination of whether two or more amendments have been submitted to the electorate. This is substantively different from whether amendments to two or more articles have been submitted to the electorate. The simple words of Article XI, Section 1 and their purpose would be distorted by a construction that multiple amendments may be presented in a single ballot question as long as the amendments relate to a single article. Regardless of whether a single article of the Constitution had been in question in Bergdoll, the amendment to the judicial rule-making authority and the amendment to an accused\u2019s right to confront witnesses face to face would have violated Article XI, Section 1 if the amendments were not submitted to be voted upon separately.\nAlthough we have determined that the ballot question in this case violated the separate vote requirement, we are confronted with unusual circumstances that compel us to conclude that the ballot question should not be declared null and void. We note at the outset that a violation of Article XI, Section 1 will require that a ballot question be declared null and void, except in the circumstances presented here. We conclude that the November 4, 1997 proposed amendment did not effectuate a substantive change to the Senate\u2019s confirmation process.\nPrior to the proposed amendment, Article IV, Section 9(b) provided that \u201c[t]he Board of Pardons shall consist of the Lieutenant Governor who shall be chairman, the Attorney General and three members appointed by the Governor with the consent of two-thirds or a majority of the members elected to the Senate as is specified by law for terms of six years.\u201d Under the proposed amendment, this provision would read, \u201c[t]he Board of Pardons shall consist of the Lieutenant Governor who shall be chairman, the Attorney General and three members appointed by the Governor with the consent of a majority of the members elected to the Senate for terms of six years.\u201d Because the Senate already had the authority to confirm gubernatorial appointees by a simple majority of its members under Article IV, Section 9, the proposed amendment to delete the words referring to two-thirds of the Senate members did not change the Senate\u2019s authority.\nThe historical analysis of the Senate\u2019s confirmation power involving appointees to the Board of Pardons reflects that the actual amendment to this power occurred when the electorate approved an amendment to Article IV, Section (b) at the election which was held on May 20, 1975. On that date, the electorate was presented with proposed amendments to Article IV, Section 8, relating to the Governor\u2019s general appointive power, and to Article IV, Section 9(b), relating to the specific power of the Governor to make appointments to the Board of Pardons. The proposed amendments were passed by a majority of the electors voting thereon.\nPrior to the 1974 amendments, Article IV, Section 8(b) granted authority to the Governor to make appointments of a Secretary of Education and other officers whom he was authorized by law to appoint subject to the consent of two-thirds of the members elected to the Senate. The 1975 amendment, which was proposed by Joint Resolution No. 2, 1974, P.L. 1822, S.B. No. 1409 and Joint Resolution No. 1,1975, P.L. 619, S.B. No. 22, altered the language of Article IV, Section 8(b) to read: \u201c[t]he appointment of the Secretary of Education and such other officers as may be specified by law, shall be subject to the consent of two-thirds or a majority of the members elected to the Senate as is specified by law.\u201d\nArticle IV, Section 9(b) underwent a similar change when the 1975 amendment was approved. Prior to the amendment, Article IV, Section 9(b) required that gubernatorial appointments to the Board of Pardons be confirmed with \u201cthe consent of two-thirds of the members elected to the Senate, one for two years, one for four years, and one for six years and thereafter for full.\u201d The 1975 amendment then changed this provision to require confirmation with \u201cthe consent of two-thirds or a majority of the members elected to the Senate as is specified by law for terms of six years.\u201d\nThe proposed amendment to Article IV, Section 9 approved on November 4, 1997 left unchanged the Senate\u2019s power to confirm appointees to the Board of Pardons by a majority of its members. The elimination of the language referring to \u201ctwo-thirds or a majority\u201d did not restrict or expand the Senate\u2019s power. Because the Senate\u2019s power was unchanged by the proposed amendment, we find no reason to declare the ballot question null and void.\nWe address next the issue raised by Appellants of whether the Attorney General\u2019s plain English statement satisfied the requirements of 25 P.S. \u00a7 2621.1. The Statement of Attorney General Regarding Joint Resolution 1997-2 provided as follows:\nChanges in Board of Pardons Voting, Appointment Process and Composition\nThe purpose of the ballot question is to amend the Pennsylvania Constitution to add a provision concerning the recommendation that must be given by the Board of Pardons before the Governor can pardon or commute the sentence of an individual sentenced in a criminal case to death or life imprisonment and to change provisions regarding the process of appointing Board members and the composition of the Board membership.\nThe Pennsylvania Constitution now provides that in all criminal cases except impeachment, the Governor has the power to grant reprieves, commutation of sentences and pardons, but only on the recommendation in writing of a majority of the members of the Board of Pardons. The proposed amendment would require the unanimous recommendation of the Board before the Governor could pardon or commute the sentence of an individual sentenced to death or life imprisonment. The Constitution would continue to require only a majority vote of the Board to enable the Governor to grant a pardon or commute a sentence in a criminal case involving a sentence other than death or life imprisonment.\nThe Pennsylvania Constitution now provides that the members of the Board of Pardons are the Lieutenant Governor who is made Chairman, the Attorney General, and three members appointed by the Governor with the consent of two-thirds or a majority of the Pennsylvania Senate as provided by law. Of the three members appointed by the Governor, the Constitution now requires that one be an attorney, one be a penologist, and one be a doctor. The proposed amendment would eliminate the option of requiring the Governor\u2019s appointments to be approved by two-thirds of the Senate, thus requiring appointments to be approved by only a majority of the Senate. The amendment would replace the attorney member of the Board with a crime victim member and would change the member described as a penologist to a member described as a corrections expert.\nThe effect of the ballot question would be to make it more difficult for an individual sentenced to death or life imprisonment to obtain a pardon or commutation of sentence, to ease the process for Senate approval of the Governor\u2019s appointments to the Board of Pardons, and to ensure that crime victims are represented on the Board.\nWe find that the statement complied with the statutory requirements by providing a sufficient explanation of the proposed amendments.\nAccordingly, the order of the Commonwealth Court is reversed.\nJustice SAYLOR files a concurring opinion in which Justice CASTILLE and Justice NEWMAN join.\nJustice NIGRO files a concurring and dissenting opinion.\nJustice CAPPY files a dissenting opinion.\n. As the issues raised by Appellants involve a question of law regarding the interpretation of our Constitution, our scope of review is plenary. Phillips v. A Best Products Co., 542 Pa. 124, 665 A.2d 1167 (1995).\n. Article XVII of the Constitution of 1874 sets forth the same process for proposing amendments as that of Article XI, Section 1 of our present Constitution.\n. We note that the decision in Bergdoll was entered after the Commonwealth Court had issued its opinion in this case. Appellants\u2019 brief was filed before the Bergdoll decision as well; however, they subsequently filed a reply brief addressing the decision.\n. Appellees also argue that Article XI, Section 1 was not violated and the changes are related to a single subject. We must reject this argument because Article XI, Section 1 establishes a separate vote requirement when two or more amendments are submitted. This is a substantively different requirement from constitutional provisions of other states which impose a single-subject requirement. Article XI, Section 1 does not impose a single-subject requirement for amendments proposed thereunder.\n. Indeed, we are at a loss to explain why the verbiage of the two-thirds requirement was not deleted when the provision was amended in 1975. The 1975 amendment effectively eliminated the requirement that confirmation be made by two-thirds of the Senate.",
+        "type": "majority",
+        "author": "ZAPPALA, Justice."
+      },
+      {
+        "text": "SAYLOR, Justice,\nconcurring.\nI join the majority in holding that the amendments at issue do not violate the proscriptions of Article XI, Section 1, but disassociate myself from the majority\u2019s apparent rejection (made most explicit in its footnote 4) of a subject-matter focus to determine whether alterations are sufficiently interrelated to justify their presentation to the electorate in a single question. See generally Bergdoll v. Kane, 557 Pa. 72, 89, 731 A.2d 1261, 1263 (1999)(Saylor, J., concurring).\nJustice CASTILLE and Justice NEWMAN join this concurring opinion.\n. I note that jurisdictions interpreting virtually identical constitutional requirements have employed a single-subject test and examined the interdependence of the proposed constitutional changes in determining the necessity for separate votes. See, e.g., Korte v. Bayless, 199 Ariz. 173, 16 P.3d 200, 203-05 (2001) (explaining a \"common-purpose formulation\u201d to inquire into whether the proposed amendments are sufficiently related to \"constitute a consistent and workable whole on the general topic embraced\u201d); Clark v. State Canvassing Bd., 119 N.M. 12, 888 P.2d 458, 462 (1995) (applying a \"rational linchpin\u201d of interdependence test); Sears v. State, 232 Ga. 547, 208 S.E.2d 93, 100 (1974) (inquiring into whether all of the proposed changes \"are germane to the accomplishment of a single objective\u201d) (quotations and citations omitted); Fugina v. Donovan, 259 Minn. 35, 104 N.W.2d 911, 914 (1960) (upholding separate propositions that, although they could have been submitted separately, were rationally related to a single purpose, plan, or subject).",
+        "type": "concurrence",
+        "author": "SAYLOR, Justice,"
+      },
+      {
+        "text": "CAPPY, Justice,\ndissenting.\nI respectfully dissent. I cannot join the majority as I believe that its constitutional analysis is contrary to the plain language of Article XI, \u00a7 1 of the Pennsylvania Constitution, the purpose of that constitutional provision, and this court\u2019s unmistakable position that the procedures to amend our state\u2019s organic law must be strictly and literally followed.\nOur Commonwealth\u2019s Constitution, our fundamental law, may be altered only pursuant to a convention duly assembled or in the manner set forth in the Constitution. Article XI, \u00a7 1 of the Constitution sets forth a \u201ccomplete and detailed process for the amendment of that document.... \u201d Kremer v. Grant, 529 Pa. 602, 608, 606 A.2d 433, 436 (1992). Pursuant to Article XI, \u00a7 1, the General Assembly proposes amendments to the Constitution, which are then submitted to the people for approval or rejection. With respect to submissions to the electorate, Article XI, \u00a7 1 requires that:\nWhen two or more amendments shall be submitted they shall be voted on separately.\nThus, the plain language of the Constitution requires separate ballot questions for separate amendments.\nAt issue in this appeal is a dispute over the constitutionality of an amendment to Article IV, \u00a7 9 of the Constitution which speaks to the Board of Pardons. The majority determines that in attempting to alter the Constitution, two amendments were presented in a single ballot question contrary to the separate vote requirement of Article XI, \u00a7 l. Yet, instead of terminating its inquiry and declaring the ballot question to be constitutionally infirm, the majority engages in an additional inquiry; it reviews the second amendment which concerns Senate confirmation of Board of Parole appointees, to determine if that amendment constitutes a substantive change in the law. The majority delves into a review of the language of Article IV, \u00a7 9 regarding appointee confirmation prior to the proposed amendment, as well as the language of the proposed amendment. After a detailed analysis of the history of similar language used in another provision of the Constitution, Article IV, \u00a7 8, the majority ultimately concludes that this second amendment does not effect a substantive change to the Senate confirmation process. Thus, according to the majority, although there were two amendments placed before the voters in a single ballot question, there is no reason to declare the ballot question null and void; the failure to offer separate ballot questions to the electorate was, in essence, harmless error.\nFirst, I cannot agree with the majority that the second amendment does not constitute a substantive change to the law. Article IV, \u00a7 9 currently states that appointees to the Board of Pardons be confirmed \u201cwith the consent of two-thirds or a majority of the members elected to the Senate as is specified by law for terms of six years.\u201d Pa. Const, art. IV, \u00a7 9. The proposed amendment would have appointments being confirmed \u201cwith the consent of a majority of the members elected to the Senate for terms of six years.\u201d While the majority contends that the elimination of the language \u201ctwo-thirds or a majority\u201d does not restrict or expand the Senate\u2019s power to confirm appointees to the Board of Pardons by a majority, I believe that the amendment eliminates the legislature\u2019s ability to set confirmation criteria, and thus, substantively alters the law.\nAs noted by the majority, the language regarding consent of \u201ctwo-thirds or a majority\u201d of the Senate \u201cas specified by law\u201d is also found in Article IV, \u00a7 8(a) which deals with the Governor\u2019s appointing power. The \u201cas is specified by law\u201d refers to the Administration Code of 1929, 71 P.S. \u00a7 67.1, which sets forth the appointments which the Governor may make without submission to the Senate for confirmation, the appointments which require a two-thirds vote of the Senate, and those offices requiring approval by only a majority of the Senators. 71 P.S. \u00a7 67.1; Woodside, Pennsylvania Constitutional Law 385 (1985).\nThe alternative language, \u201ctwo-thirds or a majority,\u201d for Senate confirmation makes perfect sense in the context of Article IV, \u00a7 8(a) which grants authority to the Governor to make appointments of a Secretary of Education and such other officers as may be specified by law. Since there are multiple appointments to be made by the Governor, some will require two-thirds confirmation and others will require only majority confirmation. 71 P.S. \u00a7 67.1. However, in the context of Article IV, \u00a7 9(b), where there is only one position to be confirmed, membership to the Board of Pardons, the. reason for the alternative language, at first blush, is unclear. To the majority, this alternative language is superfluous and devoid of meaning. Similarly, appointees to the Board of Pardons currently require confirmation by only a majority of the Senate. 71 P.S. \u00a7 67.1(d)(2). Thus, on the surface, it appears that the proposed amendment to eliminate the \u201ctwo-thirds\u201d confirmation language has effected no substantive change to the confirmation process.\nYet viewed in a different manner, it becomes apparent that the language \u201ctwo-thirds or a majority\u201d has significance in the context of Article IV, \u00a7 9 and that the amendment of the language from \u201ctwo-thirds or a majority\u201d to \u201ca majority\u201d works a substantive change in the law. Under the current language, confirmation by \u201ctwo-thirds or a majority\u201d of the Senate \u201cas specified by law,\u201d the legislature has the ability to amend the Administration Code, which now requires majority approval for appointments to the Board of Pardons, to require confirmation of such appointees by two-thirds of the Senate. Under the proposed amendment, the legislature could no longer alter the percentage of Senate members needed for confirmation to two-thirds; confirmation will be constitutionally cast, requiring only the approval of a majority of the Senators. The amendment strips the legislature of its power, i.e., its \u201coption,\u201d to alter confirmation \u201cas specified by law.\u201d Therefore, the proposed amendment clearly constitutes a substantive change in the law that under the majority\u2019s analysis requires a separate ballot question.\nSecond, even assuming, arguendo, that the Senate\u2019s power was unchanged by the proposed amendment, I still cannot agree that the ballot question should not be declared null and void. As noted above, Article XI, \u00a7 1 requires separate ballot questions for separate amendments to our state\u2019s Constitution. This requirement acts as a safeguard to ensure that our citizenry is fully informed of the proposed amendments to the Constitution in a manner that the amendments be easily understood. It guarantees that the voters may express their desires as to each constitutional amendment separately. Bergdoll v. Kane, 557 Pa. 72, 731 A.2d 1261, 1270 (1999) (when a ballot question encompasses multiple amendments, it does \u201cnot permit the electorate to vote separately upon each of the amendments in violation of Article XI, \u00a7 1.\u201d).\nThus, the focus of Article XI, \u00a7 1 is clearly upon the voter. That being the case, the nature of our inquiry must not concentrate on determining whether a proposed amendment constitutes a substantive change in the law. Rather, the appropriate inquiry must center on the impact of multiple amendments on the electorate when reviewing a challenge to a ballot question under Article XI, \u00a7 1.\nThe fundamental flaw in the' majority\u2019s analysis is that it presumes that the electorate suffered no injury because there was no substantive change in law. To the contrary, we have no way of knowing how the inclusion of two amendments in a single ballot question impacted the voters. We do not know whether the voters may have voted in favor of the amendment, in toto, only because o\u00ed' an understanding, even if erroneous, that the Senate confirmation process was being altered. We do not know whether combining multiple amendments in a single ballot question led voters to abstain from voting on the amendment. As the impact upon the electorate is fraught with uncertainty, we should not dismiss a violation of the required amendment procedure as mere harmless error. In other contexts, engrafting a harmless error analysis onto the court\u2019s review might be entirely reasonable and appropriate. However, such an approach is untenable when the damage wrought is unknown and it is our organic law that is at issue.\nFinally, such a strict approach to compliance with the requirements of our state\u2019s constitution is entirely in accord with this court\u2019s prior case law:\nIt is undoubtedly true that in matters relating to the alteration or amendment or change or abolition of the Constitution, which is the fundamental Law of our Commonwealth, all the clear and mandated provisions of the Constitution must be strictly followed and obeyed and no departures from or circumventions or violations of existing mandatory constitutional amendment requirements will be permitted.\nStander v. Kelley, 433 Pa. 406, 416, 250 A.2d 474, 479 (1969)(emphasis supplied). Here, the majority allows a circumvention of the constitutional amendment requirement regarding separate ballot questions. The requirements to amend the Constitution as set forth in Article XI, \u00a7 1 are clear. \u201cNothing short of a literal compliance with this mandate will suffice.\u201d Kremer v. Grant, 529 Pa. at 611, 606 A.2d at 436, quoting, Tausig v. Lawrence, 328 Pa. 408, 413-14, 197 A. 235, 238 (1938); Bergdoll, 731 A.2d at 1270. Having found a violation of Article XI, \u00a7 1, this court is constrained to declare the ballot question null and void.\nAccordingly, I respectfully dissent.\n. Appellees assert that there were six changes to the Constitution. The Commonwealth Court found there to be five such changes. The majority concludes that there are two amendments at issue. For purposes of this dissent I assume, arguendo, that the majority properly considered the ballot question to constitute only two amendments.\n. Whether by importance, tradition or practice, certain appointments require the advice and consent of two-thirds of the Senate. These include, inter alia, vacancies in the offices of the Auditor General and State Treasurer and appointment of members of the Pennsylvania Fish Commission, Pennsylvania Game Commission, Pennsylvania Liquor Control Board and the Pennsylvania Turnpike Commission. 71 P.S. \u00a7 67.1(c)(1) and (2). Alternatively, only majority confirmation is required for appointments to, inter alia, the position of Secretary of Education and the Secretary of Banking, membership on the Board of Pardons, the State Civil Service Commission, and the Pennsylvania Human Relations Commission. 71 P.S. \u00a7 67.1(d)(1) and (2).\n. Indeed, contrary to the majority\u2019s conclusion that there is no substantive change to the confirmation process, I note that the Attorney General, in his statement explaining the proposed amendment, also believes there to be a substantive change in the law:\nThe proposed amendment would eliminate the option of requiring the Governor\u2019s appointments to be approved by two-thirds of the Senate, thus requiring appointments to be approved by only a majority of the Senate.\n. See Commonwealth ex rel. Attorney General v. Beamish, 309 Pa. 510, 515, 164 A. 615 (1932)(\"The Constitution is the fundamental law of our Commonwealth, and in matters relating to alterations or changes in its provisions, the; courts must exercise the most rigid care to preserve to the people the right assured to them by that instrument.\u201d). Accord Kremer v. Grant, 529 Pa. at 613, 606 A.2d at 439. (\"Additionally, since the duty to advertise is mandatory, the failure to accomplish what is prescribed in Article XI infects the amendment process with an incurable defect and under such circumstances further proceedings in this matter will be unnecessary.\u201d).",
+        "type": "dissent",
+        "author": "CAPPY, Justice,"
+      },
+      {
+        "text": "NIGRO, Justice,\nconcurring and dissenting.\nI agree with the majority that the ballot question violated the separate vote requirement of Article XI, Section 1 of the Pennsylvania Constitution. I am compelled to dissent, however, because I do not believe that this constitutional violation should be excused on the basis-that the second amendment, eliminating the language in Article IV, Section 9 that required two-thirds of the Senate to consent to the Governor\u2019s Board appointments, did not actually modify the Senate\u2019s power. Regardless of whether or not the amendment actually modified the Senate\u2019s power, the ballot question at issue proposed multiple amendments to the electorate and such a practice clearly violates Article XI, Section l.\n. As this Court stated in Bergdoll v. Kane, 557 Pa. 72, 731 A.2d 1261, 1262 (1999), \u201c[t]he Constitution is specific in providing a complete and detailed process for the amendment of that document .... [and] [nothing short of literal compliance with this mandate will suffice.\" 557 Pa. at 87, 731 A.2d at 1270. Moreover, the constitutional requirement that amendments be voted upon separately is integral to insuring that voters have an adequate opportunity to express their will concerning modifications to the fundamental law of our Commonwealth. See Commonwealth ex rel. v. Beamish, 309 Pa. 510, 164 A. 615 (1932); Pennsylvania Prison Society v. Commonwealth of Pennsylvania, 727 A.2d 632, 634-35 (Pa.Cmwlth.1999).",
+        "type": "concurrence",
+        "author": "NIGRO, Justice,"
+      }
+    ],
+    "attorneys": [
+      "D. Michael Fisher, Atty. Gen., John G. Knorr, III, Chief Deputy Atty. Gen., Calvin R. Koons, Sr., Deputy Atty. Gen., Gerald J. Pappert, 1st Deputy Atty. Gen., for Commonwealth, et. al.",
+      "William C. Costopoulos, Gerald C. Grimaud, Gregory H. Knight, Robert A. Preate, for PA Prison Society, et al."
+    ],
+    "corrections": "",
+    "head_matter": "776 A.2d 971\nPENNSYLVANIA PRISON SOCIETY; Julia D. Hall; Gregory H. Knight; Fight for Lifers, Inc.; William Goldsby; Joan Porter; Graterfriends, Inc., Joan F. Gauker; Vincent Johnson; Friends Committee to Abolish the Death Penalty, Inc; Kurt Rosenberg; Pennsylvania Abolitionists United Against the Death Penalty, An Unincorporated Association by Terry Rumsey and William Goldsby; Terry Rumsey, Roger Buehl, AM-7936 SCI-Greene; Douglas Hollis, AF-6355 SCI Coal Township, Dianna Hollis, Appellees, v. COMMONWEALTH of Pennsylvania; Honorable Tom Ridge, Governor; Pennsylvania Board of Pardons; and Honorable Kim Pizzingrilli, Secretary of the Commonwealth of Pennsylvania and Representative Matthew J. Ryan, as Speaker of the House of Representatives of the Commonwealth of Pennsylvania, and Senator Robert C. Jubelirer, As President Pro Tempore of The Senate of the Commonwealth of Pennsylvania, Intervenors, Appellants.\nSupreme Court of Pennsylvania.\nArgued May 1, 2000.\nDecided July 25, 2001.\nReargument Denied Aug. 28, 2001.\nSaylor, J., concurred and filed opinion in which Castille and Newman, JJ., joined.\nNig't'o, J., concurred and dissented and filed opinion.\nCappy, J., dissented and filed opinion.\nD. Michael Fisher, Atty. Gen., John G. Knorr, III, Chief Deputy Atty. Gen., Calvin R. Koons, Sr., Deputy Atty. Gen., Gerald J. Pappert, 1st Deputy Atty. Gen., for Commonwealth, et. al.\nWilliam C. Costopoulos, Gerald C. Grimaud, Gregory H. Knight, Robert A. Preate, for PA Prison Society, et al.\nBefore FLAHERTY, C.J., ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+  },
+  "file_name": "0526-01",
+  "first_page_order": 686,
+  "last_page_order": 714
+}

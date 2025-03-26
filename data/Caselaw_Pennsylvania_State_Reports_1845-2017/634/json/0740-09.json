@@ -1,0 +1,70 @@
+{
+  "id": 12281893,
+  "name": "Com. v. Austin",
+  "name_abbreviation": "Com. v. Austin",
+  "decision_date": "2015-12-08",
+  "docket_number": "261 WAL (2015)",
+  "first_page": "740",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 740"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1122",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.833,
+    "sha256": "c1a87181c0ac2f86d80ae158bc714f20978f4d38a8cf840371f01f47225387a9",
+    "simhash": "1:098520bd51b441d0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Austin"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1122",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Austin\n12/08/2015\n261 WAL (2015)"
+  },
+  "file_name": "0740-09",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

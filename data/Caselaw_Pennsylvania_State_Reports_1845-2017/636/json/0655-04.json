@@ -1,0 +1,80 @@
+{
+  "id": 12282206,
+  "name": "Zenak v. Police Athletic League of Philadelphia",
+  "name_abbreviation": "Zenak v. Police Athletic League of Philadelphia",
+  "decision_date": "2016-07-07",
+  "docket_number": "57, 58 EAL (2016)",
+  "first_page": "655",
+  "last_page": "655",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 655"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "132 A.3d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6819763
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/132/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "ocr_confidence": 0.889,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24908305464913205
+    },
+    "sha256": "c1dbe80041599d73633f713049328d1fc0df7240f35c5af736662d77421da358",
+    "simhash": "1:0b485a774a29aa39",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zenak v. Police Athletic League of Philadelphia"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 132 A.3d 541",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Zenak v. Police Athletic League of Philadelphia\n07/07/2016\n57, 58 EAL (2016)"
+  },
+  "file_name": "0655-04",
+  "first_page_order": 707,
+  "last_page_order": 707
+}

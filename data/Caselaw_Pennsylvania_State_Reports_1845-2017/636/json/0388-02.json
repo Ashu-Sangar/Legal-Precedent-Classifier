@@ -1,0 +1,98 @@
+{
+  "id": 12280164,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Bryan Robert FREEMAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Freeman",
+  "decision_date": "2016-02-17",
+  "docket_number": "No. 870 MAL 2015",
+  "first_page": "388",
+  "last_page": "389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 388"
+    },
+    {
+      "type": "parallel",
+      "cite": "143 A.3d 888"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 718",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12601432
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/0718-01"
+      ]
+    },
+    {
+      "cite": "567 U.S. 460",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 3,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 124,
+    "char_count": 1187,
+    "ocr_confidence": 0.609,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24900833986846338
+    },
+    "sha256": "c62253618817a24e5f4a6ad5853260763ef4a1c14d8117eb1ea87ce9464856c7",
+    "simhash": "1:f8a3364cb73cbf97",
+    "word_count": 191
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice EAKIN did not participate in the decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Bryan Robert FREEMAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of February, 2016, the Petition for Allowance of Appeal is GRANTED on the issue of whether Petitioner\u2019s sentence violates the prohibition against mandatory life sentences for juvenile offenders announced by the Supreme Court of the United States in Miller v. Alabama, 567 U.S. 460, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012). As a result of the recent holding by that Court that Miller must be applied retroactively by the States, see Montgomery v. Louisiana, \u2014 U.S.-, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016), the Superior Court\u2019s order is VACATED, and the case is REMANDED for further proceedings consistent with Montgomery.\nTo the extent necessary, leave is to be granted to amend the post-conviction petition to assert the jurisdictional provision of the Post Conviction Relief Act extending to the recognition of constitutional rights by the Supreme Court of the United States which it deems to be retroactive. See 42 Pa.C.S. \u00a7 9545(b)(l)(iii).\nJustice EAKIN did not participate in the decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "143 A.3d 888\nCOMMONWEALTH of Pennsylvania, Respondent v. Bryan Robert FREEMAN, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 17, 2016."
+  },
+  "file_name": "0388-02",
+  "first_page_order": 440,
+  "last_page_order": 441
+}

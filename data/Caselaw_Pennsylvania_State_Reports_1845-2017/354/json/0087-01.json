@@ -1,0 +1,696 @@
+{
+  "id": 467446,
+  "name": "Simpson v. Montgomery Ward & Company, Appellant",
+  "name_abbreviation": "Simpson v. Montgomery Ward & Co.",
+  "decision_date": "1946-04-17",
+  "docket_number": "Appeal, No. 23",
+  "first_page": "87",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "354 Pa. 87"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "166 U.S. 226",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3592880
+      ],
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/166/0226-01"
+      ]
+    },
+    {
+      "cite": "100 U.S. 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4622
+      ],
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/100/0024-01"
+      ]
+    },
+    {
+      "cite": "3 Pet. 432",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 Pa. 589",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1035033
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/258/0589-01"
+      ]
+    },
+    {
+      "cite": "209 Pa. 412",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        936154
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/209/0412-01"
+      ]
+    },
+    {
+      "cite": "201 Pa. 645",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        925704
+      ],
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/201/0645-01"
+      ]
+    },
+    {
+      "cite": "345 Pa. 232",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1213412
+      ],
+      "pin_cites": [
+        {
+          "page": "p. 239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/345/0232-01"
+      ]
+    },
+    {
+      "cite": "118 A. 217",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "274 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1072947
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/274/0329-01"
+      ]
+    },
+    {
+      "cite": "228 N.W. 437",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 W & S 438",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478492
+      ],
+      "pin_cites": [
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0438-01"
+      ]
+    },
+    {
+      "cite": "111 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Pa. 234",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/63/0234-01"
+      ]
+    },
+    {
+      "cite": "30 AmSR 756",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 A. 764",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Pa. 509",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        829800
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/147/0509-01"
+      ]
+    },
+    {
+      "cite": "153 A. 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "302 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1129053
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/302/0431-01"
+      ]
+    },
+    {
+      "cite": "24 A.L.R. 260",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 N.E. 67",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Mass. 577",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3811072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/241/0577-01"
+      ]
+    },
+    {
+      "cite": "2 Iowa 393",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2268262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/2/0393-01"
+      ]
+    },
+    {
+      "cite": "29 Cal. 644",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2302961
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/29/0644-01"
+      ]
+    },
+    {
+      "cite": "48 N.E. 1044",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Minn. 182",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        546467
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/16/0182-01"
+      ]
+    },
+    {
+      "cite": "81 N.Y. 428",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/81/0428-01"
+      ]
+    },
+    {
+      "cite": "29 Cal. 44",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Me. 207",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        592831
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/63/0207-01"
+      ]
+    },
+    {
+      "cite": "20 Ohio 119",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        500096
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/20/0101-01"
+      ]
+    },
+    {
+      "cite": "3 Allen 393",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2098505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/85/0393-01"
+      ]
+    },
+    {
+      "cite": "24 Pick. 81",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069295
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/41/0081-01"
+      ]
+    },
+    {
+      "cite": "33 Minn. 189",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8877232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/33/0189-01"
+      ]
+    },
+    {
+      "cite": "25 N.E. 905",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Ind. 181",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1388159
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/126/0181-01"
+      ]
+    },
+    {
+      "cite": "100 Ind. 138",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1368940
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/100/0138-01"
+      ]
+    },
+    {
+      "cite": "46 N.E. 644",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Ind. 131",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1567582
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/149/0131-01"
+      ]
+    },
+    {
+      "cite": "315 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156733
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/315/0289-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 187",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11308
+      ],
+      "weight": 3,
+      "year": 1791,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0187-01"
+      ]
+    },
+    {
+      "cite": "21 Pa. Superior Ct. 468",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        844305
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/21/0468-01"
+      ]
+    },
+    {
+      "cite": "178 A. 831",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "318 Pa. 518",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1159640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/318/0518-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988430
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/33/0501-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 63",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446241
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/99/0063-01"
+      ]
+    },
+    {
+      "cite": "75 A. 724",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Pa. 523",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967834
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/226/0523-01"
+      ]
+    },
+    {
+      "cite": "119 A. 130",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "275 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1075701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/275/0229-01"
+      ]
+    },
+    {
+      "cite": "25 Pa. Superior Ct. 102",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        851903
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/25/0102-01"
+      ]
+    },
+    {
+      "cite": "23 A. 48",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 Pa. 280",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1208349
+      ],
+      "pin_cites": [
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/343/0280-01"
+      ]
+    },
+    {
+      "cite": "69 A. 96",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1005879
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/220/0061-01"
+      ]
+    },
+    {
+      "cite": "173 A. 419",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156638
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/315/0484-01"
+      ]
+    },
+    {
+      "cite": "173 A. 411",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 Pa. 465",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156726
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/315/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1464,
+    "char_count": 37169,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 6.292832127252256e-07,
+      "percentile": 0.9581282538093919
+    },
+    "sha256": "9de8ffddd6e246f42d6b09ff8f3c83353444ce670c3d2e5c0006dc2638301a06",
+    "simhash": "1:8a89e5106764b4c2",
+    "word_count": 6501
+  },
+  "last_updated": "2024-02-27T18:24:55.618787+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ."
+    ],
+    "parties": [
+      "Simpson v. Montgomery Ward & Company, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chiee Justice Maxey,\nMrs. Alberta Simpson, aged 34 years, a resident of Beaver County, drove, in company with her mother, a distance of twenty-five miles on the afternoon of July 13, 1944 to defendant\u2019s store in Butler. Mrs. Donna Yarger McCall, at that time a clerk in that store, testified that she saw Mrs. Simpson \u201cput a pair of shoes off the counter into a shopping bag she had between her and the counter\u201d. The clerk asked if she could help her and Mrs. Simpson replied \u201cNo\u201d. Mrs. McCall \u201cgot close enough to see in the shopping bag\u201d and saw that \u201cshe really had a pair of shoes, and she was holding the shopping bag close to her\u201d. - Mrs. McCall reported to the Manager of the Shoe Department, J. J. Burns, that she had seen Mrs. Simpson \u201ctake a pair of shoes from the counter and put them in the shopping bag\u201d. The witness added: \u201cAs soon as she saw her she turned and started to walk real fast across the store\u201d. She saw her \u201center a fitting room and he [Burns] was directly behind her\u201d. Burns reported the matter to H. F. Bechtel, the Assistant Manager of the store, and he and Burns went into the fitting room after Mrs. Simpson emerged from it. They examined \u201cthe bag that was left there by a lady\u201d and it was \u201cfilled with children\u2019s clothes\u201d. These clothes were from the defendant\u2019s store but they were not wrapped and had no sales slip on them. No shoes were found in the bag. Bechtel then saw Mrs. Simpson \u201chandling white shoes on the counter\u201d. He said he \u201csaw her pick up a pair of shoes, open a carrying bag and drop them in, and just in a split second there was a move and her mother left the Department and they both started out to the front of the store\u201d. They went up the stairs to the Furniture Department and then \u201cturned around and went down the steps and out on the street; B\u00e9chtel asked Mrs. Simpson to show him \u201cthe receipt for the pair of white shoes she had in the bag\u201d. She refused his request, saying he \u201cwould have to see the police\u201d. He said to her: \u201cWhat about the other bag in the store?\u201d She answered: \u201cThe one in the small room?\u201d He testified: \u201cI didn\u2019t mention where it was in the store.\u201d Bechtel then \u201cre-entered the store and had Mr. Holliday\u201d, who at that time had charge of the Men\u2019s Division of the store, to \u201cnotify the police to follow me, as I was going to follow her\u201d. When Bechtel next went out into the street, Mrs. Simpson and her mother were down the street \u201cnear Woolworth\u2019s store\u201d and the witness did not come \u201cwithin close walking distance of them\u201d until he got near Isaly\u2019s. How far that was from the Montgomery Ward Store does not appear, but Bechtel said .Mrs. Simpson and her mother had been \u201cout of (his) sight entirely\u201d.\nThe Chief of Police, C. E. Fend, then appeared and Bechtel pointed out Mrs. Simpson to him. The Chief took Mrs. Simpson and her mother to the police station and Bechtel returned to the store. Bechtel took the bag which had been found in the fitting room, to the Chief of Police\u2019s office and upon its being opened, merchandise belonging to the Montgomery Ward Store and valued at $14.88 was found. It \u201cconsisted of dresses, socks, pads and a small cap or so\u201d. No shoes were found in either that bag or in the bag which the Chief of Police examined at the police station. One pair of missing shoe's was a little later, found \u201cunder, the blanket counter\u201d in the Montgomery Ward Store. The other pair of missing shoes was never found.\n. Mrs. Simpson was permitted to go back to her home that afternoon, upon her promise to be present the next morning at nine o\u2019clock. At this later time a hearing was held before the Alderman.' Bechtel testified that he made no recommendation to the Chief of Police that Mrs. Simpson be held for court and the Chief of Police confirmed this by saying that none of the employees of the Montgomery Ward Company \u201curged him to make an information against this woman\u201d and that he made it because he \u201cthought there was enough evidence offered -at the Alderman\u2019s office to warrant such an action\u201d, and that whatever action he took against Mrs. Simpson was taken in his \u201cofficial capacity as Chief of Police of the City of Butler\u201d. Mrs. Simpson could not immediately produce bail after the hearing, and she was committed. to the jail at \u201calmost noon\u201d. She said she remained there \u201cuntil late in the evening\u201d, but the record of the Alderman shows that bail in the form of $500 was entered for Mrs. Simpson by her attorney at 2 P.M. that day and she was released from custody.\nMrs. Simpson \u25a0 testified that she had shopped in the .Montgomery Ward Store in Beaver Falls in her own county and that she was \u2022 \u201cnot familiar with Butler streets\u201d and had not shopped in Butler \u201cto amount to anything.\u201d She was apparently a total stranger to the clerks in the Butler store of the Montgomery. Ward Company. . : .\nNeither Mr. Bechtel, Mr. Holliday, Mr. Burns nor Mrs. McCall were notified to appear before the Grand Jury when the case against Mrs. Simpson was called and as no evidence was presented against her, the Grand Jury ignored the bill against her. Mrs. Simpson then sued Montgomery Ward Company for damages for prosecuting her \u201cfalsely, maliciously and without any probable or reasonable cause\u201d and \u201csought an indictment against her before the Grand Jury charging her with larceny\u201d. At the trial, testimony was offered in behalf of the plaintiff showing her arrest for larceny, the ignoring of the bill by the Grand Jury, and h\u00e9r good reputation for honesty. In charging the jury, the trial judge permitted the jury to find (1) that Montgomery Ward and Company \u201cstarted the machinery of the criminal law in Butler County\u201d, and (2) that.Montgomery Ward and Company in doing so acted without \u201cprobable cause .and was motivated by malice\u201d;\nThe jury found against the defendant and awarded-plaintiff $3,000. The defendant asked for judgment n. o. v. This was refused and this appeal followed. *\nThe trial judge committed \u00e1 fundamental error when' he submitted the basic existence or non-existence of probable cause for the arrest of Mrs. Simpson to the jury.\nThere is no principle more firmly imbedded in the law than the principle that in case of malicious prosecution, the question of want of probable- cause for the criminal prosecution which gave rise to the civil action, is a. question not for the jury but for the court. We have said so' in a long line of cases. In Altman v. Standard Refrig. Co., Inc., 315 Pa. 465, 173 A. 411, this court said that' the question: \u201cWho is to judge the existence of probable caused, in a case of malicious prosecution \u201cis settled . . .. it is a question of law for the court.\u201d We reiterated this in Groda v. American Stores Company, 315 Pa. 484, 173 A. 419. We also said in that ease: \u201cNeither an acquittal of the defendant in a criminal prosecution, nor the ignoring of the bill against him by the grand jury, nor his discharge by the examining magistrate, constitutes proof of want of probable cause, or shifts the burden of proof to the defendant in the civil action.\u201d It has been immemorially held that the public interest requires that the legally trained mind of the judge and not the more or less emotional minds of jurors, decide whether or not there was probable cause for the initiation of the prosecution. Jurors are likely to confuse the issue of the guilt or innocence of the defendant in the criminal case out of which the civil action originated with the basic issue whose determination decides the civil action. That basic issue is the want, of probable cause for the criminal prosecution. Blackstone\u2019s Vol. 3, Sec. 127 says: \u201cIt would be a very great discouragement to the public justice of the kingdom if prosecutors who had a tolerable ground of suspicion were liable to be sued at law [for malicious prosecution] whenever their indictments miscarried . . . Any probable cause for proving it [the charge], is sufficient to justify the .defendant\u201d. In Robizsek v. Daum, 220 Pa. 61, 64, 69 A. 96, we said: \u201cWhat is probable cause, and whether it exists under an admitted or clearly established state of facts, is a question of law for the court.\u201d As recently as 1941 in the case of Curley v. Automobile Finance Company, 343 Pa. 280, 290, 23 A. 48, we said: \u201cIn cases of malicious prosecution . . . the trial judge and not the jury determines whether or not the prosecutor in the criminal case, [i.e. the defendant in the civil action trying] had an honest and reasonable belief in the existence of probable cause for the prosecution\u2019s initiation.\u201d In that opinion we quoted Thayer in his \u201cPreliminary Treatise on the Law of Evidence\u201d as to the reason for making the court instead of the jury the decider of the issue of probable cause as follows: (p. 286) \u201cThe reasons which have availed to keep this particular question of fact, in actions for malicious prosecution and false imprisonment, in the hands of the court, are easily to be seen, and have already been suggested. It is the danger so often recognized by the courts, e.g. by Lord Colonsay, in Panton v. Williams, 2 Q.B. 169, lest those who would come forward in aid of public justice should be intimidated or discharged.\u201d In Bryant v. Kuntz, 25 Pa. Superior Ct. 102, judgment on a verdict for the plaintiff was reversed without a venire. Judge Oblady said: \u201cThe inquiry as to the probable cause goes back to the commencement of the prosecution, and it relates to the facts then known and as they then appeared. It is not confined to the truth of the matters that lead to the prosecution, but extends to their appearance as indicating the guilt or innocence of the accused. If probable cause is shown, \u2022it matters not whether the motive of the prosecutor be praiseworthy or malicious; and the undisputed evidence in this case made it the duty of the court below to affirm the defendant\u2019s seventh point and to direct a verdict for the defendant.\u201d\nIn Taylor v. American International Shipbuilding Corp., 275 Pa. 229, 119 A. 130, which was an action of malicious prosecution by a defendant who had been found not guilty by an order of the court because of insufficient evidence of guilt, this court stated the facts which led to the arrest in the criminal ease, as follows: Appellant was somewhat hampered in its work during 1918 through the constant thefts of automobiles, accessories and tires from its garage . . . Suspicion rested on appellee and three or four other men who worked at night in and about the garage, a man by the name of McWhorter being connected with them. McWhorter suddenly left appellant\u2019s service. He was discovered in a Georgia jail. On his way to Philadelphia, he charged the appellee (Taylor) with the larceny of an automobile and other accessories. Based on this information, reports of officers and the result of his own investigation, one Vallely, an employee of appellant, charged appellee with the larceny of an automobile, accessories and tires.\nTaylor sued the Shipbuilding Corporation in an action for malicious prosecution and the jury awarded him $2,000. This court reversed the judgment. We said: \u201cIt is not necessary for the defendant to show that the facts upon which th\u00e9 arrest was made actually existed. The sole inquiry is, was the knowledge of all the circumstances and the information received sufficiently strong in themselves to present a reasonable ground of suspicion of guilt, and did defendant honestly believe them to be true? It appears in plaintiff\u2019s evidence the officer had no animosity-or ill feeling toward appellee. The court below should have held plaintiff\u2019s case faffed to present a prosecution without probable cause, but did present one with' probable cause . . . The judgment of the court below is reversed, the record is remitted with direction to enter a judgment for defendant on its motion for judgment n. o. v.\u201d\nIn Roessing v. Pittsburgh Rys. Co., 226 Pa. 523, 75 A. 724, the facts were that the officers of the appellant company, upon information received by them, charged the appellee with the larceny of an automobile. The appellee, who'was plaintiff in the court below, was found not guilty by a jury. This court said: \u201cThere was no dispute as to the facts which induced the prosecution, and therefore the responsibility for deciding whether these: facts constituted probable cause was upon the court, and should not have been shifted to the jury. The rule is well settled. Thus in the late case of Robitzek v. Daum, 220 Pa. 61, it is said, What is probable cause, and whether it exists under an admitted or clearly established state of facts, is a question of law for the court\u2019.\u201d See also McCarthy v. De Armit, 99 Pa. 63; Fisher v. Forrester, 33 Pa. 501; Werner v. Bowers, 318 Pa. 518, 178 A. 831; Bruff v. Kendrick, 21 Pa. Superior Ct. 468, and Restatement, Torts, Volume 3, Sec. 673.\nIn a footnote on page 506 of 38 Corpus Juris, it is said: \u201cWant of probable cause is in all cases a question of law which the court alone is competent to determine, and in relation to which the judge who tries the. case is hound to express a positive opinion; and if instead of so doing he leaves it to the jury to determine, not only whether the facts alleged by plaintiff are true, but also whether, if true, they prove want of probable cause, he* commits a fatal error.\u201d Citing Bulkeley v. Smith, 9 N. Y. Super. 261.\nIn Stewart v. Sonneborn, 98 U. S. 187, it is pointed out that the foundation of an action for malicious prosecution is malice; citing Lord Mansfield in Farmer v. Darling (4 Burr. 1791). The U. S. Supreme Court declared: \u201cThe existence of want of probable cause is essential to every suit for a malicious prosecution. Both that and malice must concur ... It is . . . the duty of the court, when evidence has been given to prove or disprove the existence of probable cause, to submit to the jury its credibility, . . . with instructions that the facts found amount to proof of probable caus\u00e9, or that they do not.\u201d\n\u2022 In Panton v. Williams, 42 R. C. L. Reports, p. 622, which was a case of malicious prosecution, the judgment of the court below was reversed in an opinion by Chief Justice Tindal because the trial judge left the question of probable cause to the jury. In that case the defendant had asked the court to instruct the jury that certain facts, if proved, amounted to probable cause and the court refused to so charge. In that case, Chief Justice Tindal said, inter alia: In some cases of malicious prosecution, \u201cthe question has turned upon the inquiry, whether the facts stated to the defendant at the time, and which formed the ground of the prosecution, were believed by him or not; in other cases the inquiry has been, whether, from the conduct of the defendant himself, the jury will infer that he was conscious he had no reasonable or probable cause.\u201d He states that it is the province of the court to determine from the facts as they were found by the jury whether or not there was reasonable and probable cause for the prosecution. He then concludes: \u201cAs the question both of law and of fact was left in this case entirely to the jury, we think the exception must be allowed, and that there must be a venire de novo.\u201d\nIn an action of malicious prosecution, plaintiff does not make out a prima facie case by proving only his arrest on a criminal charge and its termination in his favor. He must also show that \u201cthe defendant did not have probable cause for initiating the proceedings\u201d: Sec. 672c Restatement, Torts. The issue on this phase of the case is: Did the defendant \u201chonestly believe\u201d that the accused committed the crime for which he was prosecuted and was that belief based on \u201ca reasonable ground of suspicion of guilt\u201d: Taylor v. Shipbuilding Corp., supra. Plaintiff must further show that the prosecution was motivated by malice, or, to put it as the Restatement of Torts, Sec. 672, expresses it, that the \u201cprimary purpose for which the proceedings were initiated was not to bring an offender to justice\u201d. If there is a \u201cconflict in the testimony as to what the circumstances were\u201d out of which the prosecution arose (Restatement, Torts, Sec. 673, comment d), there are two courses open to the trial judge. He can submit that testimony to the jury with instructions to render a special verdict (See footnote 3, post) answering, inter alia, the question as to the existence or non-existence of an honest, reasonable belief on the part of the person initiating the prosecution, of the guilt of the accused, and if the jury gives an affirmative answer to that question, the trial judge will enter judgment for the defendant. If the jury gives a negative answer to that question and also makes the other essential findings in plaintiff\u2019s favor, the jury shall then render a verdict for the plaintiff for the harm done him. If the trial judge does not require a special verdict, he should instruct the jury that they must first determine whether or not an honest, reasonable belief on the part of the initiator of the prosecution existed, and if they find that it did, it is their duty to return a verdict for the defendant. But if the jury finds that no such belief existed and further finds that the prosecution was motivated by malice, the jury should return a verdict for the plaintiff in such an amount as it deems proper, subject to correction by the court. If the jury finds that there was no malice behind the prosecution, the verdict must be for the defendant, even though probable cause for the prosecution was wanting.\n38 Corpus Juris, p. 506, Sec. 195 makes this statement: \u201cThe facts having been determined by the jury, it is for the court to decide whether they constitute probable cause, and it is error to leave it to the jury not only to determine the facts but also whether they constitute probable cause; the court, not the jury, should draw that inference. The court may take a special verdict and determine the question or probable cause thereon as a matter of law, or it may instruct th\u00e9 jury hypothetically within the range of facts which the evidence tends to establish as to what constitutes probable cause, and thus leave it to the jury to determine only the facts.\u201d Citing cases from more than twenty-five jurisdictions, including Pennsylvania.\nThis court said in Goodall v. Hess, 315 Pa. 289, that \u201cspecial findings by the jury on questions which were submitted to it by the trial judge\u201d was \u201ca course of procedure much to be commended in this class of cases\u201d. That case was an action based on alleged negligence by an -operator of an automobile at a street intersection. In an action for. malicious prosecution where the trial judge must determine the existence or non-existence of probable cause, after certain basic facts are admitted or established, the procedure of \u201cspecial findings\u201d by the jury is- not only \u201ccommendable\u201d but practically necessary:\nIn Helwig v. Beckner, which wus an action for malicious prosecution, 149 Ind. 131, 46 N.E. 644, it was said by the Supreme Court of Indiana: \u201cWhat constitutes probable cause is a question of law, for the court to determine. Where a special verdict is returned, the jury must find the facts; and upon the facts found the court must, as a matter of law, decide whether there was probable cause. Pennsylvania Co. v. Weddle, 100 Ind. 138, 144; Cottrell v. Cottrell, 126 Ind. 181, 184, 25 N.E. 905. Malice, however, is a question of fact to be submitted to and found by the jury, and without proof of malice the action cannot be maintained; nor does the law infer malice from the want'of probable cause.\u201d\n\u25a0 In Burton v. St. Paul, M. & M. Ry. Co., which was an action for malicious prosecution, 33 Minn. 189, 22 N.W., p. 301, the Supreme Court of Minnesota said: \u201cWhat facts, and whether particular facts, constitute probable cause is a question exclusively for the court. What facts exist in a particular case, where there is a dispute in reference to them, is a question exclusively for the jury. When the facts are in controversy, the subject of probable cause should be submitted to the jury, either for specific: findings of the facts, or with instructions from the court as to what facts will constitute probable cause. These rules involve an apparent anomaly, and yet few, if any, rules of the common law rest upon a greater unanimity or strength of authority. Sutton v. Johnstone, 1 Term. R. (Drun. & E.) 493, (Lord Mansfield;) Panton v. Williams, 2 Q.B. 169; Lister v. Perryman, L.R. 4 H.L. 521; Stone v. Crocker, 24 Pick. 81; Kidder v. Parkhurst, 3 Allen 393; Ash v. Marliw, 20 Ohio 119; Stewart v. Sonneborn, 98 U.S. 187; Speck v. Judson, 63 Me. 207; Grant v. Moore, 29 Cal. 44; Thaule v. Krekeler, 81 N.Y. 428; Cole v. Curtis, 16 Minn. 182, (Gil. 161,)\u201d\nIn Taylor v. Baltimore & Ohio S.W. Ry. Co., which was an action for malicious prosecution, 18 Ind. A. 692, 48 N.E. 1044, it was. said': \u201cProbable cause is a legal conclusion to be .drawn by tbe court from tbe facts, and where the facts are found, and are beyond dispute, as in the case where a jury returns a special verdict, the question of whether the undisput\u00e9d facts do or do ncit constitute probable cause is a pure question of law, to be decided by the court, and with which the jury has nothing- to do, they having agreed upon the facts, and present\u00e9d them to the court by their special verdict. Pennsylvania Co. v. Weddle, 100 Ind. 138; Cole v. Curtis, 16 Minn. 182 (Gil. 161); Stone v. Crocker, 24 Pick. 81; Grant v. Moore, 29 Cal. 644; Center v. Spring, 2 Iowa 393; Cottrell v. Cottrell, 126 Ind. 181, 25 N.E. 905 . . . The jury was asked to answer the following question: \u00bfDid the said Stanley, before the affidavit and information mentioned in the complaint were filed and before visiting said De Wolfe & Goodman, investigate in good faith, and with an honest purpose, to determine who the guilty parties were respecting said car robberies?\u2019 \u201d\nAnother serious error in the trial of this case was the admission of testimony as to this plaintiff\u2019s reputation for honesty, without first showing that this reputation was known to those who made the complaint of shoplifting against her.\n* 38 Corpus Juris, See. 159 b, p. 482 makes this statement : \u201cAccording to some decisions plaintiff is not entitled to introduce evidence of his good character under any circumstances; and according to some decisions, it is error to admit evidence in chief of plaintiff\u2019s good reputation or character, the view being taken that such evidence is admissible only after his character has been attacked. However, according to the weight, of authority, plaintiff may give evidence of his good character and reputation as a part of his case in chief for the purpose of establishing want of probable cause if his reputation was known to the defendant at the time the prosecution was commenced, or was of such general notoriety that defendant will he presumed to have known it, but not otherwise.\u201d (Citing cases.) In Lewis v. Goldeman, 241 Mass. 577, 136 N.E. 67, 24 A.L.R. 260, it was said: \u201cThe probative value of evidence as to such reputation in a case like the present [case of malicious prosecution] depends wholly on knowledge of it by the defendant.\u201d\nThe Montgomery Ward employees who accused this woman, apparently honestly believed that they saw her steal a pair of shoes from their employer\u2019s store and they reported that fact, as it was their duty to do. They knew nothing about her reputation.\nThough defendant\u2019s counsel did not object to the introduction of evidence of plaintiff\u2019s honesty, this did not justify the court in admitting it. We said in Com. v. Corrie, 302 Pa. 431, 153 A. 743: \u201cCourts of justice will not be blind to any breach of basic rights or impotent to vindicate them\u201d.. To permit this plaintiff\u2019s physician (Dr. Swick); her brother-in-law, (John H. Heberling); the merchant whose customer she was and who testified,: \u201cI consider her an honest woman\u201d (G. L. Forrest); and her grocer (John Horvath) who testified not only to plaintiff\u2019s good reputation but also to the fact that her father, who once traded with him \u201cpaid his bills\u201d, was a breach of the defendant\u2019s right to a fair trial. The trial judge even permitted a woman who was an inmate of the county jail during the few hours the plaintiff was there, to testify that she [the inmate] knew that she [the plaintiff] shouldn\u2019t be up there\u201d and to testify as to the plaintiff\u2019s physical condition. All this testimony was highly improper and was prejudicial to the defendant.\nThis case should be re-tried in accordance with the law and procedure set forth in this opinion. It would make for a just verdict in this case if the trial judge would submit to the jury questions for special findings as to certain basic facts. See Restatement, Torts, Sec. 673, comment d. Among those facts these should be included: (1) Did Mrs. Donna Yarger McCall honestly and reasonably believe that she \u201csaw the younger woman\u201d (Alberta Simpson) \u201cput a pair off the counter\u201d (of defendant\u2019s shoes) \u201cinto a shopping bag she had between her and the counter\u201d ? (2) Did Mrs. McCall report such an occurrence to the manager of the shoe department of the defendant\u2019s store, J. J. Burns? (3) Did Homer F. Bechtel, Assistant Manager of the defendant\u2019s store, on July 13, 1944, honestly and reasonably believe that he saw the plaintiff \u201cpick up a pair of shoes\u201d in defendant\u2019s store, \u201copen a carrying bag and drop them in\u201d and then \u201cjust in a split second leave the department\u201d and go to the front of the store? (4) When H. F. Bechtel, defendant\u2019s Assistant Manager, made the complaint against the plaintiff to C. F. Fend, Chief of Police of Butler, was he acting on an honest and reasonable belief that he saw the plaintiff unlawfully take into possession the shoes which were the property of Montgomery Ward and Company?\nThe language Justice Bradley used in his opinion in Stewart v. Sonneborn, 98 U.S. 187, should be kept in mind by those judges who preside at the trials of actions for alleged malicious prosecution. Justice Bradley said: \u201cWhat are the grounds and reasons for the stringent rules imposed upon a plaintiff in an action for malicious prosecution? Why is he obliged to prove actual malice, and why.is it that the defendant may justify by probable cause?- The reason undoubtedly is, that every man in the community, if he has probable cause for prosecuting another, has a perfect right, by law, to institute such prosecution, subject only, in the case of private prosecutions, to the penalty of paying the costs if he fails in his suit. If this were not so, it would deter men from approaching the courts of justice for relief. Prosecutions may fail from many causes independent of the justice of the case; and it would be very hard to visit a man with heavy damages for making a complaint, or bringing a suit, when he had probable cause for it . . . In the case of criminal charges, this right of making complaint is given to every man, for all are interested in the preservation of public order.\u201d\nA case of malicious prosecution is not made out until there is established, .first, want of probable cause and, second, malice. The want of probable cause does not in itself prove that malice motivated the prosecution. \u201cWithout malice want of probable cause is wholly insufficient to sustain a charge of malicious prosecution\u201d: 38 Corpus Juris, Sec. 27, p. 401, citing cases from fifteen jurisdictions, including Madison v. Pa. R. R., 147 Pa. 509, 23 A. 764, 30 AmSR 756; Dietz v. Langfitt, 63 Pa. 234.\nIn the Madison case just cited, this court said in an opinion by Justice Mitchell: \u201cThe circumstances clearly , showed absence of malice . . . The public purpose of discovery of criminals and vindication of justice is apparent on the face of the whole proceeding. As was said in Emerson v. Cochran, 111 Pa. 622, A jury ought not to be permitted to infer malice from the mere want of probable cause, when, by other circumstances, it- is disproved.\u2019 Public policy and the demands \u00f3f. public justice cannot permit a jury to punish a prosecutor for proceeding under circumstances such as disclosed in-this case. It is doubtless a hardship for plaintiff, an innocent man, to be subjected to arrest and imprisonment. But that is an inevitable occasional result of living in a civilized and orderly community. Some concession to public interests, and some sacrifice of individual rights, are part of the foundation on which society is supported.\u201d\nIn the Diets case above cited, this court in an opinion by Chief Justice Thompson said:- \u201cThe learned judge, however, charged that malice or want of probable cause was sufficient to entitle the plaintiff to recover'. This was equivalent to instructing the jury, that malice of itself without the ingredient of want of probable cause, or e converso, want of probable cause without malice, would equally well support the action. That-is to say, the one or the other, or either, would sustain it. Whether this was a lapse of tongue or pen we know not; but as it is in the charge returned with the record, we must presume it to have been given to the jury as it there appears. It was an undoubted and damaging error. The jury should, instead, have been instructed that malice AND want of probable cause must concur \u00e1nd be shown to entitle the plaintiff to a verdict. While malice may be inferred, sometimes from want of probable cause,- where there is nothing to rebut the inference, still it is the inference of a fact, and this illustrates the error noticed in th\u00e9 rejection of the testimony offered to rebut the inference of malice to be drawn of want of probable cause, by throwing out the bill by the grand jury. The jury should have been instructed that where there is probable cause it is not of the slightest consequence whether the prosecutor be actuated by malice or not. Park, J., in Mitchell v. Jenkins, 5 B. & Ald. 588, said : \u2018If there be. reasonable or probable cause, no malice, however distinctly proved, will make the defendant liable.\u2019 If this were not so, the evil spirit of the prosecutor might redeem the evil act of the criminal.\u201d\nIf any person has a reasonable belief that he has seen or heard another person commit a crime, he is justified if he takes appropriate action to start the machinery of the criminal law against the supposed criminal. In Seibert v. Price, 5 W & S 438, 439, which was an action for a malicious prosecution of the plaintiff for perjury, the trial judge \u201cput the question of probable cause upon the fact of what the plaintiff had actually sworn before the inquest, and not on the fact of what he was supposed to have sworn.\u201d The verdict was returned for .the plaintiff. Upon appeal to this court, the judgment was reversed. This court, in an opinion written by Chief Justice Gibson, said: \u201cIt was a matter of much doubt at the trial of the present cause, whether he had said that the alleged lunatic had been called as a witness in Schoch v. Seibert by the defendant, or not; insomuch, that the witnesses who swore positively about it were divided, even insomuch, that a majority were in favor of the affirmative. In this conflict of perception, then, suppose that the prosecutor had acted on a mistaken belief that the plaintiff had sworn what would undoubtedly have been a perjury, would he not have acted on what appeared to have been justifiable cause; and if he did so act, would it not repel the implication of malice? Again, if the same misapprehension was entertained by the by-standers, would it not materially increase, in an indifferent mind, the probability of the witness\u2019s guilt? What is justifiable probable cause, in the technical sense? It is a deceptive appearance of guilt arising from, facts and circumstances misapprehended or misunderstood so far as to produce belief; and when the subject of belief is the. crime of perjury, the misapprehension may have regard to the extent of the swearing, as well as the truth of it. The question of probable cause, may as well depend on the one as on the other, the difference being, that a misapprehension or doubt is more likely to occur in regard to the former than the latter. Still, the tenor of the testimony, resting as it does in the understanding and memory of the hearers, who may have misapprehended or forgotten it, may not be accurately perceived by the prosecutor; for the uncertainty of human perception is well known to those who are familiar with.the examination of facts depending on. oral proof. No two eyewitnesses ever yet exactly agreed in their account of a transaction; and nothing is more frequent than the misapprehension of a person\u2019s words. A by-stander relying on his own ears, may be grossly mistaken; and when the matter has regard to the sum of a witness\u2019s testimony instead of the truth of it, there may be such a mistake as to produce an appearance of perjury sufficient to justify a prosecution of it. If, then, there was a reasonable belief in the minds of the prosecutor and the by-standers that the plaintiff swore to what it is admitted would have been an untruth, whether the belief was well founded or not, there was probable cause amounting to justification.\u201d See also Chester S. Nelson v. National Casualty Company et al., Minn. 228 N.W. 437, A.L.R. Vol. 67, p. 509.\nThe Restatement of the Law, Torts, Yol. 3, Sec. 662, makes the following statement: \u201cOne who initiates criminal proceedings against another has probable cause for so doing if he (a) reasonably believes that the person accused has acted or failed to act in a particular manner, and (b) (1) correctly believes that such acts or omissions constitute at common law or under an existing statute the offense charged against the accused, or (2) mistakenly so believes in relianc\u00e9 on the advice of counsel under the conditions stated in Sec. 666.\u201d See also section 662, comment g, and section 668, Restatement, Torts.\nNo motion for a new trial in this case was made in the court below. The appeal before us is from the refusal of tlie Court below to enter judgment for the defendant non obstante veredicto. However, in such a state of the record, we have the right to award a venire facias de novo if we think the interest of justice requires it. See Northern Tr. Co., Exr., v. Huber, 274 Pa. 329, 335, 118 A. 217.\nIf - within -fifteen days this appellant petitions this court to reverse the judgment and award a venire facias de- novo for the errors of law-which intervened in this proceeding, such an order will he made. If no such petition is filed within the time stated, the order of the court b\u00e9low refusing to enter judgment'for the defendant non obstante veredicto will be affirmed.\nSee O'Neill et al. v. Metropolitan Life Ins. Co., 345 Pa. 232, at p. 239, as to the duty of a party who has \u201cthe affirmative of an issue\u201d being obliged to establish a negative proposition (such as, for example, want of probable cause in a case of malicious prosecution), which negative proposition is a part of \u201cthe affirmative of an issue\u201d.\nIf A Imows of B\u2019s good repute for honesty, he will naturally be reluctant to accuse B of dishonesty.. See Restatement, Torts, section 662, comment h.\n\u201cIt is the province of a special verdict to find and place on record all the essential facts in the case. This includes the disputed as well as the undisputed facts. What is not found by the verdict is presumed not to exist, and no inferences as to matters of fact are permitted to supply the facts themselves which the verdict should have found. In entering judgment, the court is confined to the facts found by the special verdict, and unless they are sufficiently found no judgment can be entered. The jury must find the facts and the court declare the law on the facts so found. Such are the requisites of a special verdict as held in all of our eases\u201d: Standard Sewing Machine Co. v. Royal Ins. Co., 201 Pa. 645, 647; Kelchner v. Nanticoke Boro, 209 Pa. 412; Panek v. Scranton Ry. Co., 258 Pa. 589.\nThis was a dissenting opinion by Justice Bbadley. He dissented from the majority opinion only on the ground that when a man institutes \u201cbankruptcy proceedings\u201d against another, he if sued in an action to recover for the alleged wrongful and malicious institution for proceedings for bankruptcy against him, can avail himself of the defenses which are open to those who are sued for malicious prosecution only after proving that he is an actual creditor of the alleged bankrupt.\nAs to the right of an appellate court at common law to \u201caward a venire facias de novo\u201d, as distinguished from the order of a new tria\u00ed, \u201cwhich properly proceeds from the trial court\u2019\u2019, \u201cfor some error of law which intervened in the proceedings\u201d, see \u201c20 Standard Encyclopedia of Procedure,\u201d p. 398, footnote 54 (a) and Parsons v. Bedford, 3 Pet. 432, 448; Railroad Oo. v. Fraloff, 100 U.S. 24, 31; O. B. & Q. R. R. Oo. v. Chicago, 166 U.S. 226, 246.",
+        "type": "majority",
+        "author": "Mr. Chiee Justice Maxey,"
+      }
+    ],
+    "attorneys": [
+      "Lee C. McOandless, with him Ja-mes E. Marshall, and Marshall & McOandless, for appellant.",
+      "J. Campbell Brandon, with him Brandon <& Brandon, A. G. Helbling, W. D. Brandon and Hugh 8. Millar, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Simpson v. Montgomery Ward & Company, Appellant.\nArgued March 27, 1946.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ.\nLee C. McOandless, with him Ja-mes E. Marshall, and Marshall & McOandless, for appellant.\nJ. Campbell Brandon, with him Brandon <& Brandon, A. G. Helbling, W. D. Brandon and Hugh 8. Millar, for appellee.\nApril 17, 1946:"
+  },
+  "file_name": "0087-01",
+  "first_page_order": 193,
+  "last_page_order": 212
+}

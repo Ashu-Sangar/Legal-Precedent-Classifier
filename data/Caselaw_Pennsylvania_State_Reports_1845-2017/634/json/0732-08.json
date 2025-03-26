@@ -1,0 +1,80 @@
+{
+  "id": 12281180,
+  "name": "Com. v. Diego",
+  "name_abbreviation": "Com. v. Diego",
+  "decision_date": "2015-12-23",
+  "docket_number": "565 MAL (2015)",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "119 A.3d 370",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6857604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/119/0370-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 139,
+    "ocr_confidence": 0.797,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2490444423593808
+    },
+    "sha256": "df393bde0ceb8c476ea920fca6e96d623ef421758648cebca56bd72e9327358b",
+    "simhash": "1:2f44e0f6bb1bf9ce",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Diego"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 119 A.3d 370",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Diego\n12/23/2015\n565 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0732-08",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12282136,
+  "name": "Com. v. Future",
+  "name_abbreviation": "Com. v. Future",
+  "decision_date": "2015-12-31",
+  "docket_number": "596 MAL (2015)",
+  "first_page": "742",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 742"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 701",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "ocr_confidence": 0.75,
+    "sha256": "8ae39c20c52c2926729219c59ced0e8d7fe5dad2abc2f0a4a61efb3251211f84",
+    "simhash": "1:a7f6a0cdbb996fcc",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Future"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 701",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Future\n12/31/2015\n596 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0742-10",
+  "first_page_order": 786,
+  "last_page_order": 786
+}

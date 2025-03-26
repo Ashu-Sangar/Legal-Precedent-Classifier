@@ -1,0 +1,70 @@
+{
+  "id": 12282031,
+  "name": "Com. v. Carter",
+  "name_abbreviation": "Com. v. Carter",
+  "decision_date": "2016-02-23",
+  "docket_number": "560 EAL (2015)",
+  "first_page": "730",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 103",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.747,
+    "sha256": "ff1dcce6d8f58a7acbc5f568d240991e112b8a3cebbaece4db45565f0c85baa4",
+    "simhash": "1:9d72b1d4fa0872ce",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Carter"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 103",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Carter\n02/23/2016\n560 EAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0730-01",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

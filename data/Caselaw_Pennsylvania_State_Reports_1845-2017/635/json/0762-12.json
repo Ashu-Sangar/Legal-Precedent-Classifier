@@ -1,0 +1,70 @@
+{
+  "id": 12286229,
+  "name": "Com. v. Sanders",
+  "name_abbreviation": "Com. v. Sanders",
+  "decision_date": "2016-04-13",
+  "docket_number": "936 MAL (2015)",
+  "first_page": "762",
+  "last_page": "762",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 762"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 106",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.865,
+    "sha256": "7e9bb3ef56af873dde45309366317d2d17092e838015a58f248fa13f693da4ef",
+    "simhash": "1:2911923052021c21",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Sanders"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 106",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Sanders\n04/13/2016\n936 MAL (2015)"
+  },
+  "file_name": "0762-12",
+  "first_page_order": 822,
+  "last_page_order": 822
+}

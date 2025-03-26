@@ -1,0 +1,91 @@
+{
+  "id": 687698,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Floyd COLEMAN, Respondent",
+  "name_abbreviation": "Commonwealth v. Coleman",
+  "decision_date": "2005-05-24",
+  "docket_number": "Petition No. 448 EAL 2004",
+  "first_page": "46",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "583 Pa. 46"
+    },
+    {
+      "type": "parallel",
+      "cite": "874 A.2d 1150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822842
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "vacating and remanding for resentencing where Superior Court attempted to superimpose its judgment on trial court by directing sentence to be imposed; appellate court has no power to impose sentence, which is power to be exercised exclusively by trial court"
+        },
+        {
+          "page": "1244",
+          "parenthetical": "vacating and remanding for resentencing where Superior Court attempted to superimpose its judgment on trial court by directing sentence to be imposed; appellate court has no power to impose sentence, which is power to be exercised exclusively by trial court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0048-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 747,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3381830369260911
+    },
+    "sha256": "5d9f6246a1d6381f51e03fe5f3840e3a64d1d3d725afe2c2fbf87ea06c735ffe",
+    "simhash": "1:e43b41d4930363a9",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T16:27:06.028967+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Floyd COLEMAN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAnd now, this 24th day of May, 2005, the Petition for Allowance of Appeal is GRANTED IN PART, and the portion of the order of the Superior Court reimposing respondent\u2019s original sentence is hereby VACATED pursuant to Commonwealth v. Ward, 524 Pa. 48, 568 A.2d 1242, 1244 (1990) (vacating and remanding for resentencing where Superior Court attempted to superimpose its judgment on trial court by directing sentence to be imposed; appellate court has no power to impose sentence, which is power to be exercised exclusively by trial court). The matter is REMANDED to the trial court for resentencing.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "874 A.2d 1150\nCOMMONWEALTH of Pennsylvania, Petitioner v. Floyd COLEMAN, Respondent.\nSupreme Court of Pennsylvania.\nMay 24, 2005."
+  },
+  "file_name": "0046-01",
+  "first_page_order": 240,
+  "last_page_order": 240
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1367014,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. John LUDOVICI, Petitioner",
+  "name_abbreviation": "Commonwealth v. Ludovici",
+  "decision_date": "2000-09-27",
+  "docket_number": "Petition No. 268 Middle District Allocatur Docket 2000",
+  "first_page": "291",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "563 Pa. 291"
+    },
+    {
+      "type": "parallel",
+      "cite": "760 A.2d 367"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "299 A.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 185",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947087
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0185-01"
+      ]
+    },
+    {
+      "cite": "718 A.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        356265,
+        11690730
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01",
+        "/a2d/718/1242-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356265
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 562,
+    "ocr_confidence": 0.667,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05144527731153438
+    },
+    "sha256": "cdf6a8ac958d5e5e80d7b59262ae47ba839b26671419b4c41e994826452d76c7",
+    "simhash": "1:1da936c167a33ce7",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T16:15:34.925696+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. John LUDOVICI, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 27th day of September, 2000, the Petition for Allowance of Appeal is hereby GRANTED, and the order of the Superior Court is REVERSED on the basis of Commonwealth v. Randolph, 553 Pa. 224, 718 A.2d 1242 (1998) and Commonwealth v. Forbes, 450 Pa. 185, 299 A.2d 268 (1973), and the matter remanded to the trial court for the entry of an order granting Petitioner\u2019s Motion to withdraw his guilty plea.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "760 A.2d 367\nCOMMONWEALTH of Pennsylvania, Respondent, v. John LUDOVICI, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 27, 2000."
+  },
+  "file_name": "0291-01",
+  "first_page_order": 489,
+  "last_page_order": 490
+}

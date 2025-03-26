@@ -1,0 +1,96 @@
+{
+  "id": 4204561,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Elliott EBERHART, Respondent",
+  "name_abbreviation": "Commonwealth v. Eberhart",
+  "decision_date": "2011-09-14",
+  "docket_number": "No. 433 EAL 2010",
+  "first_page": "105",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "612 Pa. 105"
+    },
+    {
+      "type": "parallel",
+      "cite": "30 A.3d 380"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "23 A.3d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7283046,
+        4203319
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/23/1032-01",
+        "/pa/611/0166-01"
+      ]
+    },
+    {
+      "cite": "611 Pa. 166",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4203319
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/611/0166-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 408,
+    "ocr_confidence": 0.683,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.138604026721249
+    },
+    "sha256": "5177910d77c5537a094b1776f9e4b2d8680dc86553adf0f627bf402a9d71fbfb",
+    "simhash": "1:381b632dc2910fb2",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T21:06:01.025246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Elliott EBERHART, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of September 2011, the Petition for Allowance of Appeal is GRANTED. The decision below is VACATED and the case is REMANDED to the Superior Court for reconsideration in light of Commonwealth v. Jette, 611 Pa. 166, 23 A.3d 1032 (2011).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "30 A.3d 380\nCOMMONWEALTH of Pennsylvania, Petitioner v. Elliott EBERHART, Respondent.\nSupreme Court of Pennsylvania.\nSept. 14, 2011."
+  },
+  "file_name": "0105-01",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

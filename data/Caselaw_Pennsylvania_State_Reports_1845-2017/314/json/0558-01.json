@@ -1,0 +1,93 @@
+{
+  "id": 1154661,
+  "name": "Gill's Estate",
+  "name_abbreviation": "Gill's Estate",
+  "decision_date": "1934-03-19",
+  "docket_number": "Appeal, No. 34",
+  "first_page": "558",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "314 Pa. 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "311 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/311/0299-01"
+      ]
+    },
+    {
+      "cite": "303 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1130037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/303/0066-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 223,
+    "char_count": 2682,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 1.874640096333458e-07,
+      "percentile": 0.7267728736308565
+    },
+    "sha256": "be5ee6bd819897816c431b7c4a4956e22ce92829e96ce17b91b0245e92281c37",
+    "simhash": "1:489379096978881c",
+    "word_count": 457
+  },
+  "last_updated": "2024-02-27T20:07:13.969336+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaerer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Gill\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis case is before us on appeal from a decree of the Orphans\u2019 Court of Montgomery County dismissing exceptions to the adjudication in the estate of Jessie L. Gill, deceased. Appellant seeks to recover part of the proceeds of a number of policies of insurance on the life of her husband, R. Walter Peterson, paid at his death to the estate of Jessie L. Gill, who in her lifetime had received the policies by assignment from the estate of Harrison S. Gill, her husband. The policies in question were held by decedent\u2019s estate under the terms of written instruments providing for an absolute sale of the policies, together with the interests of Peterson and his mother in designated life estates, to Gill for a consideration of $6,800. The claim is presented on the theory that the policies were conveyed to Gill as security for the repayment of a loan, and appellant seeks to introduce evidence of an oral agreement varying the written contracts to that effect.\nThe principle is firmly established that evidence of a parol agreement is not admissible to alter or vary the terms of a written instrument, complete in itself, except where omitted through fraud, accident or mistake: Speier v. Michelson, 303 Pa. 66. Appellant recognizes the force and effect of the Parol Evidence Rule and makes no claim to come within the exceptions just stated, but argues that the question involved in this case \u201cis whether the facts bring it within that class of cases where the court has permitted, as a matter of public policy, parol evidence to show the true facts regardless of the provisions of the written agreement.\u201d Counsel has cited no case, however, in which such a principle of public policy has been applied under facts analogous to those before us now.\nThe deed of sale by which the insurance policies here involved were conveyed to Gill is clear and unambiguous, and expressly states: \u201cIt is distinctly understood and agreed that this transaction constitutes an absolute sale of the interest of the parties of the first and second parts.\u201d To admit evidence of a parol agreement making the transaction merely a transfer of the policies as security for a loan would be not only to make nugatory the provisions of the written contract, but completely to re-: write the instrument for the parties. This we have no authority to do. See Architectural Tile Co. v. McSorley, 311 Pa. 299.\nThe decree is affirmed at cost of appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Abraham Wernick, of Evans & Wernick, for appellant.",
+      "John B. Evans and Alfred N. Keim, for appellee, were not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Gill\u2019s Estate.\nArgued January 17, 1934.\nBefore Frazer, C. J., Simpson, Kephart, Schaerer, Maxey, Drew and Linn, JJ.\nAbraham Wernick, of Evans & Wernick, for appellant.\nJohn B. Evans and Alfred N. Keim, for appellee, were not heard.\nMarch 19, 1934:"
+  },
+  "file_name": "0558-01",
+  "first_page_order": 586,
+  "last_page_order": 588
+}

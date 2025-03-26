@@ -1,0 +1,102 @@
+{
+  "id": 404527,
+  "name": "Kevin CLOSKY, Respondent, v. US AIRWAYS, INC., Petitioner",
+  "name_abbreviation": "Closky v. US Airways, Inc.",
+  "decision_date": "2001-12-06",
+  "docket_number": "Nos. 409 WAL 2001, 410 WAL 2001",
+  "first_page": "70",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "567 Pa. 70"
+    },
+    {
+      "type": "parallel",
+      "cite": "785 A.2d 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "773 A.2d 764",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        124703,
+        11092023
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "767"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0386-01",
+        "/a2d/773/0764-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 386",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124703
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0386-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 104,
+    "char_count": 916,
+    "ocr_confidence": 0.589,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.015012844378185754
+    },
+    "sha256": "afbd7b5fee6bf15b10c63d8d39abab40f16c15375775555bb1a1f9623deb660a",
+    "simhash": "1:15bf07b503cbd786",
+    "word_count": 157
+  },
+  "last_updated": "2024-02-27T20:42:38.943670+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin CLOSKY, Respondent, v. US AIRWAYS, INC., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 6th day of December, we GRANT the Petition for Allowance of Appeal and we VACATE the Order of the Superior Court. We direct the Superior Court to reconsider its decision based on the standard this Court set forth in Davis v. Mullen, 565 Pa. 386, 773 A.2d 764 (2001), specifically \u201cthat a jury\u2019s award of medical expenses without compensation for pain and suffering should not be disturbed where the trial court had a reasonable basis to believe that: (1) the jury did not believe the plaintiff suffered any pain and suffering; or (2) that a preexisting condition or injury was the sole cause of the alleged pain and suffering.\u201d Id. at 767.\nWe further direct the Superior Court to address the issue raised in the cross-appeal docketed at 1000 WDA 2000 if appropriate.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "785 A.2d 491\nKevin CLOSKY, Respondent, v. US AIRWAYS, INC., Petitioner.\nSupreme Court of Pennsylvania.\nDec. 6, 2001."
+  },
+  "file_name": "0070-02",
+  "first_page_order": 190,
+  "last_page_order": 191
+}

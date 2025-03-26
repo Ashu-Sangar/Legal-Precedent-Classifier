@@ -1,0 +1,100 @@
+{
+  "id": 12278392,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Daniel F. LOUGHNANE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Loughnane",
+  "decision_date": "2016-07-19",
+  "docket_number": "No. 164 MAL 2016",
+  "first_page": "728",
+  "last_page": "728",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "638 Pa. 728"
+    },
+    {
+      "type": "parallel",
+      "cite": "158 A.3d 1224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "91 A.3d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4217041,
+        6959676,
+        6959773,
+        4216735
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0183-01",
+        "/a3d/91/0102-01",
+        "/a3d/91/0102-02",
+        "/pa/625/0182-01"
+      ]
+    },
+    {
+      "cite": "625 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4217041
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0183-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 76,
+    "char_count": 586,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24894540183616884
+    },
+    "sha256": "cb4711d56394d55ca377283b6ee76e640d7227afaeb6f1aca3028eb6cdae594c",
+    "simhash": "1:c50fc00ac5cf9812",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T18:13:35.762268+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Daniel F. LOUGHNANE, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 19th day of July, 2016, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues.\nWhether the Superior Court erred by holding that the automobile exception, adopted in Commonwealth v. Gary, 625 Pa. 183, 91 A.3d 102 (2014), allowed police to seize a vehicle from the defendant\u2019s private residential driveway without a warrant?",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "158 A.3d 1224\nCOMMONWEALTH of Pennsylvania, Respondent v. Daniel F. LOUGHNANE, Petitioner\nNo. 164 MAL 2016\nSupreme Court of Pennsylvania.\nJuly 19, 2016"
+  },
+  "file_name": "0728-01",
+  "first_page_order": 768,
+  "last_page_order": 768
+}

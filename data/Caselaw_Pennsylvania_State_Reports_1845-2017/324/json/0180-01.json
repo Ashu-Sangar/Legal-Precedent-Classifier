@@ -1,0 +1,98 @@
+{
+  "id": 1171338,
+  "name": "Commonwealth v. Globe Furnishing Company, Appellant",
+  "name_abbreviation": "Commonwealth v. Globe Furnishing Co.",
+  "decision_date": "1936-11-23",
+  "docket_number": "Appeal, No. 207",
+  "first_page": "180",
+  "last_page": "183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "324 Pa. 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "284 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092012
+      ],
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0175-01"
+      ]
+    },
+    {
+      "cite": "20 Pa. Superior Ct. 210",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        841217
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/20/0210-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 144,
+    "char_count": 1322,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.1700301945268276e-07,
+      "percentile": 0.586157146613567
+    },
+    "sha256": "55fcdc68088af35f1c42467f945c34caeb61062b9c251699ea15126732aea487",
+    "simhash": "1:60c01d0011f902ba",
+    "word_count": 213
+  },
+  "last_updated": "2024-02-27T21:33:05.354188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Globe Furnishing Company, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Pee Cueiam,\nAppellant contends that if the cash received from bailment leases is included within the gross volume of its business for purposes of assessing the mercantile license tax, it will amount to double taxation because the value of the leased goods is also included within its property valuation for capital stock tax purposes. But it is established that double taxation exists only where the subject of both taxes is the same. The capital stock tax is a property tax; the mercantile license tax is a tax on the privilege of doing business in a certain manner. This distinction has been previously noted in Commonwealth v. Bailey, Banks & Biddle Co., 20 Pa. Superior Ct. 210, where a similar contention was ruled upon adversely to appellant. See also Commonwealth v. Harrisburg L. & P. Co., 284 Pa. 175, 179. Appellant\u2019s other contentions are all fully answered in the opinion of the court below.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Pee Cueiam,"
+      }
+    ],
+    "attorneys": [
+      "Samuel Kaufman, with him Louis J. Bloch, S. Leo Ruslander and Louis Capian, for appellant.",
+      "Francis P. Anton, Charles J. Margiotti, Attorney General, and E. Russell Shockley, Deputy Attorney General, for appellee, were not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Globe Furnishing Company, Appellant.\nArgued October 7, 1936.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nSamuel Kaufman, with him Louis J. Bloch, S. Leo Ruslander and Louis Capian, for appellant.\nFrancis P. Anton, Charles J. Margiotti, Attorney General, and E. Russell Shockley, Deputy Attorney General, for appellee, were not heard.\nNovember 23, 1936:"
+  },
+  "file_name": "0180-01",
+  "first_page_order": 208,
+  "last_page_order": 211
+}

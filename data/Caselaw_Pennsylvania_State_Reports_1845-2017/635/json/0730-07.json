@@ -1,0 +1,70 @@
+{
+  "id": 12282099,
+  "name": "Com. v. Hoerath",
+  "name_abbreviation": "Com. v. Hoerath",
+  "decision_date": "2016-02-29",
+  "docket_number": "288 WAL (2015)",
+  "first_page": "730",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1143",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "ocr_confidence": 0.746,
+    "sha256": "c6a4a468e605f5b9019a700e0e720c31e06b18131ac4b3bce4aa60bc3759830c",
+    "simhash": "1:8d36a0f4b300da7c",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hoerath"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1143",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hoerath\n02/29/2016\n288 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0730-07",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

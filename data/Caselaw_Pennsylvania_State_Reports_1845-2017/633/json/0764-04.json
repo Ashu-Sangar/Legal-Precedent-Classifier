@@ -1,0 +1,80 @@
+{
+  "id": 12283236,
+  "name": "Com. v. Jackson",
+  "name_abbreviation": "Com. v. Jackson",
+  "decision_date": "2015-10-14",
+  "docket_number": "288 EAL (2015)",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "111 A.3d 1187",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6890857,
+        6890796,
+        6787702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/111/1187-02",
+        "/a3d/111/1187-01",
+        "/pa/631/0382-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.859,
+    "sha256": "21f50ce7818c239f2086751bea5e204fa4d36c1791d88348eabc12c6bdae19b7",
+    "simhash": "1:2ac3688ff81e6241",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jackson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 111 A.3d 1187",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jackson\n10/14/2015\n288 EAL (2015)"
+  },
+  "file_name": "0764-04",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

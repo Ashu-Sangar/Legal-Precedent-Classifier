@@ -1,0 +1,70 @@
+{
+  "id": 12283430,
+  "name": "Com. v. Lynch",
+  "name_abbreviation": "Com. v. Lynch",
+  "decision_date": "2015-09-30",
+  "docket_number": "452 MAL (2015)",
+  "first_page": "765",
+  "last_page": "765",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 765"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 383",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.873,
+    "sha256": "f5bf5269ac4f677b8a6cde8e27b5382ac2c3579f07cb68e2838cad311c3042b0",
+    "simhash": "1:390115245ef04940",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Lynch"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 383",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Lynch\n09/30/2015\n452 MAL (2015)"
+  },
+  "file_name": "0765-06",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

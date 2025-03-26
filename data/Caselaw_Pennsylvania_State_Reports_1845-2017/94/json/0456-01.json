@@ -1,0 +1,153 @@
+{
+  "id": 486366,
+  "name": "Schriver versus Eckenrode",
+  "name_abbreviation": "Schriver v. Eckenrode",
+  "decision_date": "1880-06-21",
+  "docket_number": "",
+  "first_page": "456",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "94 Pa. 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 W. & S. 145",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478804
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0145-01"
+      ]
+    },
+    {
+      "cite": "3 Whart. 485",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1833435
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/3/0485-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 83",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852644
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0083-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 422",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0422-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 442",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0442-01"
+      ]
+    },
+    {
+      "cite": "2 Watts 318",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0318-01"
+      ]
+    },
+    {
+      "cite": "9 Wright 186",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 704,
+    "char_count": 14306,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 1.456570125752897e-07,
+      "percentile": 0.6560338073764146
+    },
+    "sha256": "53e029a49d180f5b11eedcb66f75067618fcc26be60c175c9f24e3225046fae3",
+    "simhash": "1:46665c70ac86c4dd",
+    "word_count": 2505
+  },
+  "last_updated": "2024-02-27T21:36:28.441257+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "' Before Mercuk, Gordon, Paxson, Trunkey and Sterrett, JJ. Sharswood, C. J., and Green, J., absent."
+    ],
+    "parties": [
+      "Schriver versus Eckenrode."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Gordon\ndelivered the opinion of the court,\nIf the court ordered the nonsuit, in this case, under the impression that the defendant\u2019s parol guaranty could not be enforced because of the Statute of Frauds and Perjuries it made a mistake. In this state it is well-settled law that an action will lie upon parol contracts concerning lands, though they be such that specific performance of them will not be enforced. Such is the doctrine of Thompson v. Shepler, 22 P. F. Smith 160, and of Frederick v. Campbell, 13 S. & R. 136. The latter ease holding that, in an action upon a bond for purchase-money, parol evidence was admissible to show that at the time of the execution of the deed the vendor declared that he had good title to two hundred and twenty-five acres of land and would warrant that quantity. Now Eckenrode did expressly warrant that the tract of land, then about to be conveyed, did contain one hundred and forty-four acres, and though he had made an assignment of the premises to Durburow, for the benefit of his creditors, yet there was such an interest remaining in him as was sufficient to support the undertaking here alleged; in other words, he was not a mere volunteer.\nThus, the very nature of the alleged contract between these parties was such that, had it been in'writing, specific execution of it could not have been compelled, for it was not intended that the deficiency should be made good in land. Schriver was about to pay $4500 f\u00f3r a certain defined tract of land, and the warranty could have meant nothing more than this, that if there should turn out to be a deficiency in the guaranteed amount of land, Eckenrode would make it good, not in land but in money. Let us now suppose the plaintiff to have purchased on the faith of the agreement of the defendant that the farm should contain one hundred and forty-four acres, we have, then, this condition of affairs; the plaintiff has been obliged to pay the whole amount of the purchase-money to the assignee, who, of course, was not bound by the gfiaranty, and yet he gets but one hundred and thirty-two acres, whilst the price paid for the fourteen acres, which the defendant undertook to see that he should have, has, as we discover from the final account of the assignee, gone into Eckenrode\u2019s pockets. This is neither just nor lawful, and if the jury should find, as they may find, the case to be as above supposed, this money honestly belongs to Schriver, and he ought to have it.\nThe exception which embraces the ruling of the court on the question of the exclusion of evidence proposed by the plaintiff is not sustained.\nThe judgment is reversed, and a new venire is awarded.",
+        "type": "majority",
+        "author": "Mr. Justice Gordon"
+      }
+    ],
+    "attorneys": [
+      "R. Gr. McQr&ary, for plaintiff in error.",
+      "David Wills, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Schriver versus Eckenrode.\n1. An action will lie for the breach of a parol contract concerning lands though the contract be such that specific performance of it cannot be enforced.\n2. S. purchased from the assignee of E., for the benefit of creditors, a farm which E. by parol guarantied contained a certain number of acres. S. paid to the assignor the full amount of the purchase-money, and received a deed for the farm which conveyed a less number of acres. . In an action by S. against E. on his parol guaranty, Held, that S. could recover. The Statute of Erauds has no application to such a case.\n3. AlthoughE. had made an assignment of the land, for the benefit of creditors, there was such an interest remaining in him as was sufficient to support the guaranty; in other words, he was not a mere volunteer.\n4. A writ of error should not be taken to a judgment obtained on a single issue where there are other issues raised by the pleadings which are yet to be tried.\n5. In the trial of a case the defendant pleaded specially a former recovery, and the plaintiff in his replication prayed that the same might \u201c be inquired of by the record.\u201d The court entered judgment for the defendant, but there was no trial on the general issue which was also pleaded. In reviewing the case on a writ of error, the Supreme Court, presuming that the issues of fact had been disposed of, reversed the judgment and entered judgment for plaintiff without a venire or procedendo. The court below then granted leave to the plaintiff to issue execution. Held, that this was error, that the effect of the judgment of the Supreme Court on the special plea must be held as only an adjudication that the former action is no bar to the present action.\nMay 19th 1880.\n' Before Mercuk, Gordon, Paxson, Trunkey and Sterrett, JJ. Sharswood, C. J., and Green, J., absent.\nError to the Court of Common Pleas of Adams county: Of May Term 1880, No. 90.\nAssumpsit by George I. Schriver against Elijah Eckenrode to recover the value of the difference between the represented and the actual value of certain land sold by the assignee of defendant to the plaintiff.\nThe plaintiff declared upon a contract of guarantee by the defendant, that the tract of land in dispute, purchased by plaintiff from defendant\u2019s assignee for the benefit of creditors, contained one hundred and forty-four acres, while in fact it contained only one hundred and thirty-two acres and a fraction. In a former action for deceit, upon the same claim, the verdict was for defendant, and the latter pleaded specially \u201cformer recovery,\u201d upon which issue judgment was entered in the court below for defendant, which judgment was afterwards reversed by this court, and \u201cjudgment entered for the plaintiff on the special plea.\u201d (See report of case in 6 Norris 213.) No venire nor procedendo was awarded in the judgment of the Supreme Court. After the return of,the record, to the court below leave was obtained from said court to issue execution to enforce the judgment as entered by the Supreme Court. A rule taken by defendant to show cause why the execution should not be set aside was discharged by the court. A writ of error was again taken, and this court reversed the order of the court below awarding execution and discharging the rule to set it aside, and a procedendo was awarded, the following opinion being filed by Mr. Justice Trunkey, on June 9th 1879:\nThe defendant pleaded non assumpsit under which he could have proved a former recovery. Afterwards he specially pleaded former recovery, to which the plaintiff replied and prayed that the same might \u201c be inquired of by the record.\u201d The parties seem to have submitted, informally, the latter issue to the court, and a decision was made in favor of'defendant, which was reversed in this court and judgment entered upon the special plea for the plaintiff. Believing the issues of fact had been disposed of before the case was brought here, the point presented was considered. We did not apprehend the real state of the cause, else another course would probably have been adopted, though the opinion and judgment could not have been different if rendered at all. The parties did not file an agreement dispensing with a jury and submitting to the court, and there has been no trial in any mode known to the law. Hence, by their unusual procedure, they have obtained a formal judgment upon a single question which ought to have been tried with others of fact, to be followed by a lawful trial, and, possibly, more writs of error. The delay and costs will be persuasive that it is unprofitable to obtain a judicial determination of such questions by piece-meal. Nor is it always safe, for had there been an actual trial how could it be said every question of fact was not disposed of?\nUpon return of the record execution was awarded to the plaintiff. There was nothing to authorize this action. At most the j.udgment entitled him to an inquiry of damages, and in justice not to that. The pleadings raised the general issue which put upon the plaintiff the burden of proving his claim ; and the defendant had waived nothing, and had made no express or implied agreement that the court should examine any fact save one, and that by inspection of the record. By concerted action of the parties \u2014 one could not have done it alone \u2014 the court was induced to give judgment on the special plea. Neither could have intended that to settle the question of indebtedness or its amount, for they made no agreement to that effect, and the general issue remained of record. Therefore, the judgment for plaintiff upon the special plea must be held as only an adjudication that the former action is no bar to recovery in this. To suffer it to go farther would give one party an advantage to which he is not justly entitled.\nThe order of the court awarding a, fieri facias is reversed, and said writ set aside; record remitted and procedendo awarded. \u00bf\nAt the trial of the present case before McClean, P. J., the plaintiff produced evidenc\u00e9 in substance as follows: That plaintiff had purchased the farm in dispute from Durburow, the assignee, for the benefit of creditors of Eckenrode; that he went over the farm with Eckenrode, who was then in possession, and who then stated to him that there were one hundred and forty-four acres in the tract, and that the price was $5000. At this time the assignee was not present, but Eckenrode assured plaintiff that he had authority to sell and that Durburow would agree to any arrangement he Avould make, and that the articles could be made with Durburow. Subsequently the parties met again, when the assignee was present, when Eckenrode repeated the statement that the farm contained one hundred and forty-four acres. Schriver then made a calculation at $31.25 per acre for one hundred and forty-four acres, making $4500, and, showing it to Eckenrode, asked if he was sure he had one hundred and forty-four acres, and he replied yes, he would guarantee it. Schriver then offered $4500 to the assignee for the farm, who remarked that he would sell the land as he had advertised it, which was one hundred and forty acres more or less, that he would not guarantee what it contained, as he did not have the deeds in his possession. He afterwards agreed to accept Schriver\u2019s offer, and Schriver and Durburow entered into an agreement for the sale of the farm for $4500.\nThe plaintiff took possession of the farm April 1st 1873, and paid his hand money, but the assignee, Durburow, had not prepared the deed of conveyance, and it was not delivered for some weeks afterwards, when it was left at Schriver\u2019s house in his absence. Pie examined it on his return home, and then found that he had in the farm hut one hundred and thirty-two acres and one hundred and twenty-six perches. In the spring of 1874 Schriver paid the balance of his purchase-money to Durburow. He claimed a deduction on account af the deficiency, but was advised by counsel that he could not withhold it from the assignee, with whom he had no covenant as to the quantity of land.\nThe plaintiff having closed his case, the defendant moved for a nonsuit, which the court granted, and subsequently, on motion and after ai-gument, refused to take off. This refusal was assigned for error by plaintiff, who took this writ.\nR. Gr. McQr&ary, for plaintiff in error.\nThe plaintiff\u2019s case, as laid in his narr., was fully made out by his testimony. He proved an agreement upon a valuable consideration; a breach of the defendant\u2019s undertaking; and resulting damage to himself. The promise or guarantee declared on and proved was not for the debt or default of another, nor was if for any estate in or out of lands, and therefore not affected by the Statute of Frauds. It was a separate and independent agreement upon a consideration moving between the parties to it concerning a matter about which it was competent for them to contract: Arnold v. Steadman, 9 Wright 186. This is not like a claim by vendee against his vendor- for deficiency in land. A parol promise or engagement is, if on valuable consideration, in cases not affected by the Statute of Frauds, as binding and enforceable as a specialty: Shoenberger\u2019s Executors v. Zook, 10 Casey 24.\nDavid Wills, for defendant in error.\nWhere the contract for the sale of real estate is complete or executed, and the defendant induced the plaintiff to enter into it by means of fraudulent misrepresentations, an action upon the case for deceit is the proper remedy: Chitty on Contracts *311. For fraudulent representations not introduced into a written contract between the parties respecting the subject-matter of the representations, case is the proper remedy, if any: 1 Chitty\u2019s Pleading *137, 8th Am. ed.; 1 Id. *154, 16th Am. ed.; Kreiter v. Bomberger, 1 Norris 59. The execution of a conveyance is the consummation of a purchase; after which the parties have no recourse to each other except for imposition or fraud: Baily v. Snyder, 13 S. & R. 160; Frederick v. Campbell, Id. 136; McLelland v. Creswell, Id. 143; Phillips v. Scott, 2 Watts 318; Galbraith v. Galbraith; 6 Id. 112; Cronister v. Cronister, 1 W. & S. 442; Farmers\u2019 and Mechanics\u2019 Bank v. Galbraith, 10 Barr 490 ; Jones v. Wood, 4 Harris 25; Wilson v. McNeal, 10 Watts 422; Creigh v. Beelin, 1 W. & S. 83; Gregory v. Griffin, 1 Barr 208.\nThe claim is against the vendor, because it is for a deficiency. The written agreement does not warrant the exact number of acres. The deed was accepted for a specific number of acres. The written contract must be complete in itself without the aid of parol testimony. The attempt of the plaintiff is to modify or change the agreement by parol: Soles v. Hickman, 8 Harris 180; Ferguson v. Stover, 9 Casey 411; Smith\u2019s Appeal, 19 P. F. Smith 474. The assignee of the defendant was his representative, enjoying his rights only and no others, and bound where he would be bound. He was not the representative of creditors, and not clothed with their powers. He was but a volunteer and not a bona fide purchaser for value: Twelves v. Williams, 3 Whart. 485; Knowles v. Lord, 4 Id. 500; Luckenback v. Brickenstine, 5 W. & S. 145; Vandyke v. Christ, 7 Id. 373; Bullitt & Fairthorne v. M. E. Church, 2 Casey 108; Mellon\u2019s Appeal, 8 Id. 121; Fulton\u2019s Estate, 1 P. F. Smith 204; Spademan v. Ott, 15 Id. 131; Jordan v. Sherlock, 3 Norris 366. The contract of a guarantor is accessory and conditional. It creates only a contingent liability. The principal must be first pursued before the liability is fixed: Chitty on Contracts 499; Kramph\u2019s Executrix v. Hatz\u2019s Executor, 2 P. F. Smith 525.\nJune 21st 1880."
+  },
+  "file_name": "0456-01",
+  "first_page_order": 458,
+  "last_page_order": 462
+}

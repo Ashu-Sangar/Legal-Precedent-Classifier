@@ -1,0 +1,78 @@
+{
+  "id": 4078282,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Samuel CASTILLO, Petitioner",
+  "name_abbreviation": "Commonwealth v. Castillo",
+  "decision_date": "2014-02-06",
+  "docket_number": "No. 538 MAL 2012",
+  "first_page": "230",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "624 Pa. 230"
+    },
+    {
+      "type": "parallel",
+      "cite": "84 A.3d 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "79 A.3d 562",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7302660,
+        4080350
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/79/0562-01",
+        "/pa/621/0595-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 420,
+    "ocr_confidence": 0.715,
+    "sha256": "30afe779401cc887f0c72503cc5791193f6878e6495b92bfd545992d22db750a",
+    "simhash": "1:71af231e913b2d74",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T21:02:06.836768+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Samuel CASTILLO, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 6th day of February 2014, the Petition for Allowance of Appeal is GRANTED, the Superior Court\u2019s decision is VACATED, and the matter is REMANDED to the common pleas court for further proceedings consistent with Commonwealth v. Holmes, 79 A.3d 562 (Pa.2013).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "84 A.3d 1060\nCOMMONWEALTH of Pennsylvania, Respondent v. Samuel CASTILLO, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 6, 2014."
+  },
+  "file_name": "0230-02",
+  "first_page_order": 280,
+  "last_page_order": 281
+}

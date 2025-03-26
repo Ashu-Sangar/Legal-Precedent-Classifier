@@ -1,0 +1,81 @@
+{
+  "id": 464063,
+  "name": "Long Estate",
+  "name_abbreviation": "Long Estate",
+  "decision_date": "1945-05-21",
+  "docket_number": "Appeal, No. 67",
+  "first_page": "257",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "352 Pa. 257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "352 Pa. 254",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        464084
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/352/0254-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 147,
+    "char_count": 1536,
+    "ocr_confidence": 0.471,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3537517052152461
+    },
+    "sha256": "7c88dd41c6bd73c7f0b9db1bf95f03d45d18344bf2c6e5fe0360a0a2208cb2c3",
+    "simhash": "1:72edd2e82b35605f",
+    "word_count": 258
+  },
+  "last_updated": "2024-02-27T22:00:21.738252+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Li\u00f1n, Stern, Patterson, Stearns, and Jones, JJ."
+    ],
+    "parties": [
+      "Long Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Drew,\nThis appeal is from a judgment of the Superior Court reversing a decree of the Orphans\u2019 Court of Philadelphia County, and allowing a claim, as modified, for payment of funeral expenses of her deceased husband out of the minor\u2019s estate.\nThe minor, Katherine L. Long, requested Harold B. Mulligan, an undertaker, to bury her husband who died leaving no estate. She was eighteen years of age at the time of the audit of the account, the mother of a small child, and was unemployed. Her estate consisted of the proceeds of her husband\u2019s life insurance policy, and was in the amount of $580.05, when the guardian\u2019s account was called for audit. She receives $25.80 monthly benefits under the Federal Social Security Act, and is willing that the costs of her husband\u2019s funeral be paid from her estate. The undertaker\u2019s bill as presented at the audit was $438.50. This claim was disallowed by the Orphans\u2019 Court. On appeal, the Superior Court directed the amount to be reduced to $200 and paid by the estate. The guardian ad litem then took this appeal.\nSince this case involves the identical questions this day decided in O\u2019Leary Estate, 352 Pa. 254, we reach a like conclusion for the reasons therein stated.\nJudgment of Superior Court reversed; decree of Orphans\u2019 Court of Philadelphia County reinstated and affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Drew,"
+      }
+    ],
+    "attorneys": [
+      "Lloyd J. Schumacher, for appellant.",
+      "Albert J. Taylor, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Long Estate.\nArgued April 10, 1945.\nBefore Maxey, C. J., Drew, Li\u00f1n, Stern, Patterson, Stearns, and Jones, JJ.\nLloyd J. Schumacher, for appellant.\nAlbert J. Taylor, for appellee.\nMay 21, 1945:"
+  },
+  "file_name": "0257-01",
+  "first_page_order": 291,
+  "last_page_order": 292
+}

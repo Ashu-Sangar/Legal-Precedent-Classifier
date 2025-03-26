@@ -1,0 +1,82 @@
+{
+  "id": 1815552,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Boyd T. WRIGHT, Respondent",
+  "name_abbreviation": "Commonwealth v. Wright",
+  "decision_date": "1989-01-26",
+  "docket_number": "Appeal No. 159 W.D. Allocatur Docket 1988",
+  "first_page": "93",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "520 Pa. 93"
+    },
+    {
+      "type": "parallel",
+      "cite": "552 A.2d 667"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813568
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 445,
+    "ocr_confidence": 0.783,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06752440007120106
+    },
+    "sha256": "a4773ad9a834d341cb9b8dccb02256ac65abbd016d7e9c5fae4da62e49d76acf",
+    "simhash": "1:3b07e4f9934b27ef",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T23:01:05.114241+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Boyd T. WRIGHT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER OF COURT\nPER CURIAM.\nThe petition for allowance of appeal is granted, the order of the Superior Court is reversed pursuant to Commonwealth v. Blystone, 519 Pa. 450, 549 A.2d 81 (1988), and the case is remanded to Superior Court for further proceedings to dispose of respondent\u2019s remaining appellate issues.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "552 A.2d 667\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Boyd T. WRIGHT, Respondent.\nSupreme Court of Pennsylvania.\nJan. 26, 1989."
+  },
+  "file_name": "0093-01",
+  "first_page_order": 259,
+  "last_page_order": 259
+}

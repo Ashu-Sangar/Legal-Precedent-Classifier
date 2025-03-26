@@ -1,0 +1,860 @@
+{
+  "id": 1201278,
+  "name": "Schwartz et al., Appellants, v. Laundry & Linen Supply Drivers' Union, Local 187 et al.",
+  "name_abbreviation": "Schwartz v. Laundry & Linen Supply Drivers' Union, Local 187",
+  "decision_date": "1940-06-28",
+  "docket_number": "Appeal, No. 365",
+  "first_page": "353",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "339 Pa. 353"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "60 Sup. Ct. Rep. 811",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6137769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/310/0150-01"
+      ]
+    },
+    {
+      "cite": "161 Pa. 473",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        854238
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/161/0473-01"
+      ]
+    },
+    {
+      "cite": "52 N. E. 924",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ill. 608",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        3157979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/176/0608-01"
+      ]
+    },
+    {
+      "cite": "156 A. 436",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 N. J. L. 339",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        179380
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/108/0339-01"
+      ]
+    },
+    {
+      "cite": "286 U. S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3915224
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/286/0427-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. Superior Ct. 337",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        635512
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/70/0337-01"
+      ]
+    },
+    {
+      "cite": "306 U. S. 208",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138750
+      ],
+      "pin_cites": [
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/306/0208-01"
+      ]
+    },
+    {
+      "cite": "244 Fed. 156",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6738701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/244/0156-01"
+      ]
+    },
+    {
+      "cite": "15 U. S. C. \u00a71",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Stat. 209",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Sup. Ct. Rep. 618",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6141801
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "625"
+        },
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/309/0436-01"
+      ]
+    },
+    {
+      "cite": "246 U. S. 8",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8284771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/246/0008-01"
+      ]
+    },
+    {
+      "cite": "243 U. S. 490",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3692372
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/243/0490-01"
+      ]
+    },
+    {
+      "cite": "229 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3665646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/229/0001-01"
+      ]
+    },
+    {
+      "cite": "220 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3656614
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/220/0373-01"
+      ]
+    },
+    {
+      "cite": "210 U. S. 339",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3651038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/210/0339-01"
+      ]
+    },
+    {
+      "cite": "226 U. S. 157",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8285904
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/226/0157-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 33",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040396
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/78/0033-01"
+      ]
+    },
+    {
+      "cite": "50 F. (2d) 189",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1825087
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/50/0189-01"
+      ]
+    },
+    {
+      "cite": "166 A. 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "311 Pa. 78",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146314
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/311/0078-01"
+      ]
+    },
+    {
+      "cite": "257 U. S. 184",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677891
+      ],
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/257/0184-01"
+      ]
+    },
+    {
+      "cite": "291 U. S. 502",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1497894
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/291/0502-01"
+      ]
+    },
+    {
+      "cite": "186 A. 336",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "322 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1167827
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/322/0257-01"
+      ]
+    },
+    {
+      "cite": "299 U. S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5721451
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/299/0183-01"
+      ]
+    },
+    {
+      "cite": "336 Pa. 81",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1195604
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/336/0081-01"
+      ]
+    },
+    {
+      "cite": "236 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8285078
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/236/0001-01"
+      ]
+    },
+    {
+      "cite": "75 P. 89",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "pin_cites": [
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "29 Mont. 428",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        8587980
+      ],
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mont/29/0428-01"
+      ]
+    },
+    {
+      "cite": "163 S. E. 719",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "178 N. W. 957",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "159 A. 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "15 N. Y. S. 2",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        4294680
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nys/15/0002-01"
+      ]
+    },
+    {
+      "cite": "76 N. E. 5",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "183 N. Y. 207",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        45802
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/183/0207-01"
+      ]
+    },
+    {
+      "cite": "121 N. E. 814",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "130 N. E. 86",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "66 Fed. Rep. 637",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6722464
+      ],
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f/66/0637-01"
+      ]
+    },
+    {
+      "cite": "12 N. E. (2d) 547",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "227 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1963770
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/227/0001-01"
+      ]
+    },
+    {
+      "cite": "157 N. E. 130",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "245 N. Y. 260",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1979772
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/245/0260-01"
+      ]
+    },
+    {
+      "cite": "52 N. E. 924",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Ill. 608",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        3157979
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill/176/0608-01"
+      ]
+    },
+    {
+      "cite": "156 A. 436",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "108 N. J. L. 339",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        179380
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/njl/108/0339-01"
+      ]
+    },
+    {
+      "cite": "286 U. S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3915224
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/286/0427-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. Superior Ct. 337",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        635512
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/70/0337-01"
+      ]
+    },
+    {
+      "cite": "244 Fed. 156",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6738701
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f/244/0156-01"
+      ]
+    },
+    {
+      "cite": "220 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3656614
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/220/0373-01"
+      ]
+    },
+    {
+      "cite": "52 Fed. Rep. 104",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1630168
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f/52/0104-01"
+      ]
+    },
+    {
+      "cite": "200 U. S. 179",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8293411
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/200/0179-01"
+      ]
+    },
+    {
+      "cite": "227 Pa. 55",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1008690
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/227/0055-01"
+      ]
+    },
+    {
+      "cite": "210 Pa. 288",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        937835
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/210/0288-01"
+      ]
+    },
+    {
+      "cite": "305 Pa. 206",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1134690
+      ],
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/305/0206-01"
+      ]
+    },
+    {
+      "cite": "50 Stat. 693",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "45 Mass. 111",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2065803
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/mass/45/0111-01"
+      ]
+    },
+    {
+      "cite": "336 Pa. 81",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1195604
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/336/0081-01"
+      ]
+    },
+    {
+      "cite": "121 N. E. 814",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "12 N. E. (2d) 547",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 3
+    },
+    {
+      "cite": "227 N. Y. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1963770
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/ny/227/0001-01"
+      ]
+    },
+    {
+      "cite": "157 N. E. 130",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "245 N. Y. 260",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1979772
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/ny/245/0260-01"
+      ]
+    },
+    {
+      "cite": "286 U. S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3915224
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/286/0427-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. Superior Ct. 337",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        635512
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa-super/70/0337-01"
+      ]
+    },
+    {
+      "cite": "220 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3656614
+      ],
+      "weight": 2,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/220/0373-01"
+      ]
+    },
+    {
+      "cite": "210 U. S. 339",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3651038
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/210/0339-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2383,
+    "char_count": 99149,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 2.391951273316252e-07,
+      "percentile": 0.7979739359321721
+    },
+    "sha256": "5fcd8dd428fe047a9b36255b2ca3ecf9f0db8238a915ec131dcb0e30a5d2d3d4",
+    "simhash": "1:3d19a5c6fbc73bcc",
+    "word_count": 16796
+  },
+  "last_updated": "2024-02-27T23:35:15.015822+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "reargued January 29,1940. Before Schaefer, C. J., Maxey, Drew, Linn, Stern, Barnes and Patterson, JJ.",
+      "Mr. Justice Drew, Mr. Justice Linn, and Mr. Justice Barnes concur in this opinion."
+    ],
+    "parties": [
+      "Schwartz et al., Appellants, v. Laundry & Linen Supply Drivers\u2019 Union, Local 187 et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by Mr.\nJustice! Steen,\nThe twenty-eight plaintiffs filed a hill in equity, and later an amended bill, against Laundry and Linen Supply Drivers\u2019 Union, Local No. 187, and its officers, and also against eight steam power laundry companies in the City of Philadelphia, praying for a decree that certain provisions of a contract entered into between the union and the companies be declared illegal and void in so far as they affect plaintiffs, and for an injunction against those provisions being carried into effect. Defendants filed preliminary objections in the nature of a demurrer, which the court below sustained. The parties have stipulated that the case is. to be treated as if the bill had been dismissed upon final hearing, the averments therein being admitted by defendants.\nIt seems that there are some eighty-eight steam laundries in Philadelphia, and these, acting through a committee, have for some time been making annual agreements with the union for the establishing of closed shops throughout the industry in the city. Under date of April 24,1939, such agreements were again entered into, but they differed from previous ones in that, in addition to a first part which provided as theretofore for closed shops, with regulations as to wages, hours of labor, vacations, grievances, arbitration, strikes, lockouts, and other matters concerning employment, they contained a new second part, expressly made severable from the first, dealing with the conditions which should thereafter govern relations between the laundry companies and what are known in the trade as \u201cbob-tails,\u201d in which group plaintiffs are included. The laundry companies send drivers on the streets, each with a specified route, to solicit business, collect wash and return the laundered articles, their compensation being on a commission basis with a guaranteed weekly minimum. But the so-called \u201cbob-tails\u201d are persons who conduct stores or establishments of their own, where patrons may bring articles to be laundered. Most of them employ help in their stores, these employees being members of Laundry Workers\u2019 International Union, Local No. 10, which, like defendant union, is a member of the American Federation of Labor. The \u201cbob-tails\u201d themselves operate trucks for the solicitation of business and the collection and delivery of laundry. They have capital invested in their businesses consisting of fixtures,' trucks, accounts receivable, and other assets. While they do not carry on the major portion of the laundering process, some of them do parts of it, such as ironing, pressing and mending. They turn over wash to the companies for laundering on a contractual or job basis, and make their profits from the prices they in turn charge their customers for the complete laundry service. They are thus, at the same time, both customers and competitors of the laundry companies, but are not their employees. They are, as plaintiffs aver in their bill, \u201cindependent business men,\u201d and have been so engaged for a period of years.\nThe contracts entered into in April, 1939, although in reality constituting a single agreement between all the companies in Philadelphia and the union, are in form separate, identical contracts between the union and each company. Part 2 of the contract recites the existence in the trade of the independent operators or \u201cbob-tails\u201d; it is stated that they are in direct competition with the route salesmen employed by the laundry, that they often sell their services below the prices charged by the laundry to its own retail customers, that they have affected the earnings of the route salesmen, and that, in order to carry out the purposes of the agreement, it is necessary to \u201cstabilize\u201d the prices to be charged by the \u201cbobtails\u201d ; therefore the parties agree that the laundry company will not accept work from any \u201cbob-tail\u201d who is not a member of the union nor from \u201cbob-tails\u201d with whom it is not now under contract or for whom it is not now performing laundry service, that \u201cbob-tails\u201d shall not charge lower prices in selling their laundry service than those charged by the company to its own retail customers, that no person not now engaged as a \u201cbob-tail\u201d shall be accepted as such by the company or be eligible for membership in the union, and that a \u201cbobtail\u201d desiring to sell his \u201croute\u201d must first offer it for sale to the company with which he does business, and then, if the offer is not accepted, to any \u201cbob-tail\u201d who is a member of the union or to another laundry company, upon the same terms and conditions. The contract is to be in force for a period of three years and to continue thereafter from year to year unless either party gives thirty days\u2019 notice, prior to the end of the year, of an intention to terminate or modify it.\nIt is the provisions of part 2 of the contracts to which plaintiffs object, and against which they seek protection in the present proceedings. They do not complain of, and are not affected by, the provisions of part 1, which establish closed shops in the industry in Philadelphia and relate only to the laundry companies and their employees. The closed shop has, by legislation, become legalized in Pennsylvania, and the present case is in no way concerned with it. The issue here is as to part 2, which deals, not with labor relations between the laundry companies and their employees or between the \u201cbobtails\u201d and their employees, but with trade relations between the laundry companies and the \u201cindependent business men\u201d or \u201cbob-tails.\u201d\n\u201cThe great weight of modern authority is to the effect that one who has been or will be injured thereby is ordinarily entitled to the equitable remedy of injunction to prevent the carrying out of a contract or combination, to which he is not a party, formed for the purpose of creating a monopoly, maintaining prices, restraining trade or competition, or injuring others in their business contrary to common law or statute, if the damages which he would otherwise suffer are unascertainable, or the resulting injury would be irreparable, and legal remedies are inadequate or a resort thereto would cause a multiplicity of suits\u201d: 19 R. C. L. 205, sec. 161, and numerous cases there cited. The clauses of part 2 of the contracts complained of by plaintiffs will, if carried into operation against them, so manifestly impair and, indeed, destroy their business enterprises that there can be no doubt as to their right to injunctive relief if those provisions are illegal, \u2014 a question which can be determined only by the consideration of each of them separately.\n(1) The provision that a \u201cbob-tail\u201d is not to be allowed to sell his laundry service at prices lower than those charged by the laundry company to its own retail customers amounts to a requirement that sales of laundry service by a company to a \u201cbob-tail\u201d shall be conditioned upon a prohibition against the resale of such service to \u201cconsumers\u201d at less than a certain price. It is clearly illegal. Even in the sale of an article which is copyrighted, or manufactured under a secret process, or patented, a vendor may not restrict resales by the vendee to a specified price: Bobbs-Merrill Co. v. Straus, 210 U. S. 339; Dr. Miles Medical Co. v. Park & Sons Co., 220 U. S. 373; Bauer & Cie v. O\u2019Donnell, 229 U. S. 1; Straus v. Victor Talking Machine Co., 243 U. S. 490; Boston Store v. American Graphophone Co., 246 U. S. 8; Ethyl Gasoline Corporation v. United States, 60 Sup. Ct. Rep. 618, 625. Any contract whereby, in connection with an absolute sale, the vendor attempts to prescribe a minimum resale price, is invalid both at common law and, so far as it affects interstate commerce, under the Sherman Anti-Trust Act of July 2, 1890, c. 647, 26 Stat. 209, 15 U. S. C. \u00a71: Ford Motor Co. v. Union Motor Sales Co., 244 Fed. 156; Interstate Circuit, Inc. v. United States, 306 U. S. 208, 232; Apex Hosiery Co. v. Leader, 8 U. S. L. Week 932, 935; Ford Motor Co. v. Quinn, 70 Pa. Superior Ct. 337. Nor, in this regard, does the sale of services stand on any different footing than the sale of merchandise. Thus in Atlantic Cleaners & Dyers, Inc. v. United States, 286 U. S. 427, it was held that it was as illegal under the Sherman Anti-Trust Act \u2014 which is merely the application of the common-law doctrine concerning the restraint of trade to the field of interstate commerce (Apex Hosiery Co. v. Leader, 8 U. S. L. Week 932, 935, 936) \u2014 to combine to fix prices in the business of cleaning, dyeing and renovating wearing apparel as it would have been in regard to the buying or selling of commodities. In Buckelew v. Martens, 108 N. J. L. 339, 156 A. 436, an agreement entered into by a number of laundries to make \u201cbob-tails\u201d charge their customers a minimum rate was declared to be against public policy and therefore invalid. A similar decision was rendered in the case of Doremus v. Hennessy, 176 Ill. 608, 52 N. E. 924, where, also, laundry companies attempted to fix a scale of prices to be charged by each for the service they rendered. To the same effect see Philadelphia Cleaners & Dyers Association, Inc. v. Dollar Cleaners & Dyers, Inc., 19 D. & C. 327; Chapter No. 768 of Associated Master Barbers of America v. Andrea Gambino, 27 Northampton Co. Rep. 6. A laundry company may charge a \u201cbob-tail\u201d with whom it does business whatever amount it desires, but, having sold its service at a price satisfactory to itself, it cannot control the price which he, in turn, shall charge his customers. If \u201cbobtails\u201d are able, in the light of the cost of the laundry work which they themselves do and the prices at which they can get the remainder done for them, to sell the complete service at lower prices than those charged by the laundry companies, an agreement is not legal which compels them to raise their prices and thus accept more profit than they care to demand. After the companies have charged the \u201cbob-tails\u201d what they are willing to accept for their service \u201cthe public is entitled to whatever advantage may be derived from competition in the subsequent traffic\u201d: Dr. Miles Medical Co. v. Park & Sons Co., 220 U. S. 373, 409. Since it has never been held that the laundry industry is affected with a public interest, not even the state itself has ever attempted to regulate the prices to be charged by those engaged in it.\n(2) The provision that a laundry company may not accept work from any \u201cbob-tail\u201d with whom it is not now under contract or for whom it is not now performing laundry service is also clearly illegal, since it works an unreasonable and wholly unjustifiable restraint of trade. It is an obvious attempt to stifle competition by confining each \u201cbob-tail,\u201d as a customer, to one laundry company, thus placing him at the mercy of that company by obliging him to pay for its service whatever price it may choose to exact and not allowing him to obtain a competitive rate from other companies. The apportioning of customers to specified dealers is not permitted : Atlantic Cleaners & Dyers, Inc. v. United States, 286 U. S. 427; Apex Hosiery Co. v. Leader, 8 U. S. L. Week 932, 935; Buckelew v. Martens, 108 N. J. L. 339, 156 A. 436.\n(3) The provision that no person not now engaged as a \u201cbob-tail\u201d shall be accepted in that capacity by a laundry company is illegal because it effects a further drastic restraint of competition by restricting \u201cbobtails\u201d to their present number and preventing newcomers from engaging in the wholly legitimate business of collecting wash on their own account and having it laundered by a laundry company. Those engaged in an industry have no right, by agreement of all of them, to exclude others thereafter from participating in it.\n(4) If the provision that a \u201cbob-tail\u201d desiring to sell his \u201croute\u201d shall first offer it for sale to the laundry company of which, he is a customer has no penalty to support it, a \u201cbob-tail\u201d may, of course, ignore it entirely, but if, as is apparently intended, his obtaining service from a laundry company is conditioned upon his submitting to it, it is a wholly arbitrary and illegal restriction upon his right to sell his property to whomsoever he desires. For two contracting parties to impose upon a non-assenting third person a requirement that he limit the sale of his business \u2014 for the sale of his \u201croute\u201d necessarily involves the sale of his entire business \u2014 to a designated purchaser is without precedent or justification. There must come a time, sooner or later, when the need or desire to sell the business of each and every \u201cbob-tail\u201d will arise because of the death or retirement of the proprietor or for some other reason. If no laundry company or existing \u201cbob-tail\u201d will buy, the business cannot be sold at all, because no other purchaser could become a \u201cbob-tail.\u201d If, on the other hand, a laundry company purchases, then, since it cannot do business with any other \u201cbob-tail,\u201d the business purchased is automatically extinguished, and the result is inevitable, if the agreements continue in effect, that the \u201cbob-tail\u201d industry will thus cease to exist.\n(5) The provision that a laundry company will not accept work from any \u201cbob-tail\u201d who is not a member of the union would seem to be an anomalous requirement, since it brings into the union persons who are not employees, but, in the words of the bill in equity, are \u201cindependent business men\u201d and in most cases themselves employers of labor. It is somewhat difficult to understand what such membership is intended to accomplish. In so far as it is designed to restrict the \u201cbobtails\u201d in the operation of the trucks which they themselves drive, and in their collection of laundry, to hours and working conditions prescribed by the union and embodied in its agreement with the laundry companies, the union has a legitimate interest in thus seeking to protect the laundry employees against the lowering of working standards on tlie part of those who themselves, although in a different legal capacity, perform to some extent the same kind of labor. So far, therefore, as a \u201cbob-tail,\u201d by becoming a member of the union, would be bound by its reasonable rules as to such matters, there would seem to be no valid objection to this provision. But such membership cannot be made the means of controlling the regulation by the \u201cbob-tails\u201d of their own business enterprises in the various aspects heretofore considered.\nTo summarize our conclusions, part 2 of the agreements between the union and the laundry companies, except for the provision as herein discussed in regard to \u201cbob-tails\u201d becoming members of the union, is invalid because it effects an illegitimate restraint of trade. If the \u201cbob-tails\u201d do not submit to its terms they cannot obtain service from the laundries; if, on the other hand, they do submit, they are forced hereafter to deal only with the particular company with which each now does business, compelled to raise their prices to their own customers, and obliged ultimately to sell their businesses in such manner that their part of the industry will be annihilated. Because of these oppressive provisions part 2 is violative of the common-law prohibition of monopolies and unreasonable restraints of trade. It must be borne in mind that we are here dealing with agreements governing the entire laundry industry in the City of Philadelphia, and that, while one person may do business with whomsoever he pleases upon terms mutually agreed upon, the law will not permit an arrangement, understanding, agreement, or combination among all those in the trade in a given locality, the effect of which is to deprive others of the right to engage in that industry and to deprive the public of the benefits of fair competition therein. No group may enhance its own interests at the expense of the legal rights of others, nor, by acts or agreements violating public policy, interfere with the interests of the public: Nester v. Continental Brew ing Co., 161 Pa. 473; Ethyl Gasoline Corporation v. United States, 60 Sup. Ct. Rep. 618, 626; United States v. Socony-Vacuum Oil Co., 60 Sup. Ct. Rep. 811.\nThe decree is reversed, and the record is remitted to the court below with instructions to issue a final injunction against defendants, restraining them from carrying into effect the provisions of part 2 of the agreements of April 24, 1939, between the union and the several laundry companies, except the provision as to plaintiffs becoming members of the union. Costs to be paid by defendants.\nThe fixing of a resale price has been legalized in Pennsylvania, under certain conditions, in the case of trade-marked articles, by the Act of June 5, 1935, P. L. 266.",
+        "type": "majority",
+        "author": "Justice! Steen,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMe. Justice Maxey:\nI dissent from the majority opinion. That opinion says: \u201cThe closed shop has by legislation become legalized in Pennsylvania and the present case is in no way concerned with it.\u201d The last half of that statement raises the issue between the views of the majority and my views. I think this case is not only \u201cconcerned with\u201d the \u201cclosed shop\u201d question but goes to its very vitals. The majority opinion holds the contract in question to be \u201cin restraint of trade\u201d; I consider some restraint of trade as much a necessary incident of a \u201cclosed shop\u201d as some restraint of individual liberty a necessary incident of living in an organized society. One cannot be for the \u201cclosed shop\u201d in practice without accepting a certain amount of trade restraint.\nOne of the basic errors in the majority opinion as I view it is in its failure to recognize the fact that the now legally recognized principle of a \u201cclosed shop\u201d applies not merely to the employees of one or more employers but to all who do the same hind of toorh, i.e., to the craft. What a \u201cclosed shop\u201d comprehends has been authoritatively set forth as follows: \u201cWith one union securely established and formally recognized as the exclusive bargaining agency for the entire working force or craft, there would be an end of competition between various labor groups and harmony would replace bickering and working at cross purposes [italics supplied] \u201d: \u201cStudies in Personnel Policy,\u201d No. 1, by the National Industrial Conference Board (1937), Chapter on \u201cThe Closed Shop,\u201d p. 6. The Labor Review published by the United States Department of Labor, Vol. 49, No. 4 (Oct. 1939), says under the caption \u201cClosed Shop\u201d: \u201cIn union agreements a closed shop is established by a provision requiring union membership as a condition of employment in the plant or in the occupations covered by the agreement [italics supplied].\u201d The occupation is of equal importance with \u201cthe plant\u201d -in considering \u201cclosed shop\u201d agreements. Styling the \u201cbob-tails\u201d \u201cindependent business men,\u201d as the majority opinion does, cannot conceal the fact that they are doing exactly the same kind of labor, i.e., performing the same services, as the laundry solicitors and are competitors of these solicitors. Calling a non-union carpenter or miner or house painter \u201can independent business man\u201d does not take that particular man out of his craft. The Court of Appeals of New York in Exchange Bakery & Restaurant, Inc., v. Rifkin, 245 N. Y. 260, 157 N. E. 130, per Andrews, J., said: \u201cThe purpose of a labor union to improve the conditions under which its members do their work; to increase their wages; to assist them in other ways may justify what would otherwise be a wrong. So would an effort to increase its numbers and to unionize an entire trade or business. [Italics supplied.] It may be as interested in the wages of those not members, or in the conditions under which they work as in its own members because of the influence of one upon the other.\u201d\nThose women who did \u201cpiece work\u201d on garments and hats in their own tenement houses in New York could be called \u201cindependent business women\u201d with as much propriety as these \u201cbob-tails\u201d are called \u201cindependent business men.\u201d The economic and social evils incident to this \u201cindependent contracting\u201d in New York were stamped out only when the Garment Workers Union brought all such \u201cindependent business women\u201d within the principle of the \u201cclosed shop,\u201d thus ending a \u201ccutthroat competition\u201d which was injurious alike to the workers in the tenement houses and those in the factories with whom they competed. In the agreement between Eastern Women\u2019s Headwear Assn., Inc., and United Hatters, Cap and Millinery Workers International Union and the Joint Board of Millinery Workers\u2019 Union, Locals 2, 24 and 42, it is provided that \u201cEmployers shall not cause to be manufactured in places other than on the premises owned and leased by them any millinery, sold, dealt in or otherwise handled by them. Employers shall not give out any millinery to be manufactured by contractors.\u201d In Maisel v. Sigman, 205 N. Y. Supplement 807, it was held that an agreement between a union and jobbers and an association of manufacturers limiting the amount of work which can'lbe sent to outside shops, was valid and not in violation of the anti-monopoly laws and not against public policy.\nIn the contract between the New York Clothing Mfgrs. Exchange and the Amalgamated Clothing Workers of America, it is provided that \u201cthe manufacturer will not cause or permit any work to be performed for him directly or indirectly [italics supplied] outside his own shop, by any person, partnership, corporation or contractor who employ workers not members of the union.\u201d\nThe foregoing contracts and many similar contracts exemplify the fact that the basic idea of a \u201cclosed shop\u201d is the elimination of competitive underselling by those who have the same services to sell. As Chief Judge Crane, speaking for a unanimous New York Court of Appeals, said in Williams v. Quill et al. (1938), 227 N. Y. 1, 12 N. E. (2d) 547: \u201cEconomic organization today is not based on the single shop. Unions believe that wages may be increased, collective bargaining maintained only if. union conditions prevail, not in some single factory, but generally.\u201d\nThe majority opinion says: \u201c(1) The provision that a \u2018bob-tail\u2019 is not to be allowed to sell his laundry service at prices lower than those charged by the laundry company to its own retail customers amounts to a requirement that sales of laundry service by a company to a \u2018bob-tail\u2019 shall be conditioned upon a prohibition against the resale of such service to \u2018customers\u2019 at less than a certain price. It is clearly illegal.\u201d That statement ignores the fact that what the \u201cbob-tail\u201d is selling is his own labor. He is receiving for that labor the difference between what the laundry charges him and what he collects from his customer. He is not selling a commodity but labor service. He is doing exactly the same hind of labor and to the same end as the unionised laundry solicitors, and the legally recognized \u201cclosed shop\u201d principle cannot be circumvented by calling what the \u201cbob-tails\u201d are doing a \u201cresale of service to consumers.\u201d The laundry performs the service of laundering. The \u201cbob-tail\u201d only \u201cbrings the grist\u201d to the mill and his \u201ctoll\u201d is his pay for his labor. If by taking less wages for their labor than the union laundry solicitors these \u201cbob-tails\u201d reduce the work of these solicitors, they are violating the \u201cclosed shop\u201d principle and that is precisely the \u201cunfair labor practice\u201d (according to modern conceptions) that the Laundry Drivers\u2019 Union proposed to stop. If it is not stopped, the \u201cbob-tails\u201d could by accepting less pay for their services in collecting laundry put the union laundry solicitors completely out of business. The contract now challenged is a contract which the union laundry solicitors deem necessary to their own preservation. The \u201cbob-tails\u201d can join the union on reasonable terms and thus be secured in this work and at a remunerative wage. The purpose of the \u201cclosed shop\u201d has been declared \u201cto prevent underbidding by non-union workers in the same shop or craft.\u201d\nThe majority opinion says: \u201cEven in the sale of an article which is copyrighted, or manufactured under a secret process, or patented, a vendor may not restrict resales by the vendee to a specified price.\u201d To compare labor with a \u201ccopyrighted article\u201d as a subject of sale is to invoke a doctrine that is now completely obsolete. There was a time when human labor was regarded as a commodity, and competition between the sales of such commodities was so much favored by government that laws were enacted making it illegal for persons in the same craft to conspire to keep up the price of their \u201ccommodity,\u201d to wit, their labor. During the last century it was held that a combination of workmen to raise wages was unlawful. See King v. Journeymen-Tailors, 8 Mod. 10. In 1806 the Organized Shoemakers of Philadelphia, who went on strike for the purpose of improving working conditions, were convicted. In charging the jury in that case the court said: \u201cA combination of workmen to raise their wages may be considered in a twofold point of view. One is to benefit themselves \u2014 the other is to injure those who do not join their society. The rule of law condemns both.\u201d\nDuring this century labor unions have now general acceptance as social forces making, when properly conducted, for human welfare. The earlier doctrine that labor was a commodity in the sale of which there should be unrestrained competition and \u201cagainst which no one had a right to be protected,\u201d as an American court expressed it 69 years ago, has completely given way to the modern idea expressed in the Federal Clayton Act. This Act was described by Hon. John W. Davis, then (1912) a member of the House of Representatives, as \u201can effort to crystallize into law the best opinions of the best courts\u201d (48 Cong. Rec. 6421). This Act, which became a law in 1914, provided that \u201cthe labor of a human being is not a commodity or article of commerce.\u201d Practically all of the American states have in their statutes and judicial decisions adopted the same view, to wit, that labor is not a commodity. The Clayton Act also provided that \u201clabor organizations should not be construed to be illegal combinations or conspiracies in restraint of trade, under the anti-trust laws.\u201d\nThe cases cited in the majority opinion following the excerpt last above quoted refer to articles of commerce and therefore do not apply to the issue now before us. Typical of these cases is that of Dr. Miles Medical Co. v. Park & Sons Co., 220 U. S. 373. It dealt solely with the sale of patent medicines and not with labor or services. In that case Mr. Justice Hughes recognized the fact that even as to commodities certain common law formulas, like \u201cfreedom of trade\u201d or of contract, cannot be maintained in all their ancient rigidity in the face of modern economic conditions. He said: \u201cWith respect to contracts in restraint of trade, the earlier doctrine of the common law has been substantially modified in adaptation to modern conditions.\u201d He added that the rule as to the invalidity of contracts in restraint of trade \u201cwas made under a state of society different from that which now prevails\u201d and the rule \u201cis not regarded as inflexible.\u201d He was, of course, referring to the common law rule, which the majority opinion invokes.\nIn Atlantic Cleaners & Dyers v. U. S., 286 U. S. 427, and in Apex Hosiery Co. v. Leader, 8 U. S. L. Week 932, the questions involved were whether there were combinations in restraint of trade contrary to the Sherman Anti-trust Act. Ethyl Gasoline Corp. et al. v. U. S., 60 Supreme Ct. Rep. 618, relates to the vending of patent products under the Sherman Anti-trust Act. The county court cases referred to in the majority opinion, 19 D. & C., and 27 Northampton County relate to price fixing agreements. No price-fixing is charged in the bill before us. In Doremus et al. v. Hennessy, 176 Ill. 608, 52 N. E. 924, the action was based upon a malicious conspiracy to induce others to break their contracts with plaintiffs. The cases of Ford Motor Co. v. Quinn, 70 Pa. Superior Ct. 337, and Ford Motor Co. v. Union Motor Sales Co., 244 Fed. Rep. 156, relate solely to the sale and resale of automobiles.\nThe majority opinion says: \u201cIf \u2018bob-tails\u2019 are able, in the light of the cost of the laundry work which they themselves do and the prices at which they can get the remainder done for them, to sell the complete service at lower prices than those charged by the laundry companies, an agreement is not legal which compels them to raise their prices and thus accept more profit than they care to demand. After the companies have charged the \u2018bob-tails\u2019 what they are willing to accept for their service \u2018the public is entitled to whatever advantage may be derived from competition in the subsequent traffic\u2019: Dr. Miles Medical Co. v. Park & Sons Co., 220 U. S. 373, 409.\u201d\nI consider that paragraph as complete a negation of the \u201cclosed shop\u201d philosophy as would be a statute declaring all \u201cclosed shops\u201d illegal. It is equivalent to saying: \u201cIf workmen known as \u2018bob-tail\u2019 laundry solicitors are willing to do the same work as the unionized laundry solicitors for less money (or wages), an agreement between these union solicitors and their employers providing that the latter will not accept further services at the hands of these non-union \u2018bob-tail\u2019 solicitors until they join the solicitors\u2019 union, is not legal and should be enjoined.\u201d If that kind of an agreement is illegal then virtually all \u201cclosed shop\u201d agreements are illegal. For example, the Anthracite Coal industry is a \u201cclosed union shop.\u201d The agreement between the Anthracite operators and the United Mine Workers of America provides that \u201cspecial and individual contracts in the mining of coal where now in use shall be eliminated.\u201d The purpose of that provision was the same as in the provision in the contract before us that \u201cthe company will not accept laundry work or serve or do any laundry work for any \u2018bob-tail\u2019 who is not a member of the union.\u201d The purpose in the Anthracite agreement was to prevent the undercutting of the wage scale of labor by individual contractors; the purpose in the provision just quoted in the contract before us is the prevention of the underselling of their labor* by the \u201cbob-tail\u201d solicitors.\nThe American Law Institute recognizes the legality of a \u201cclosed shop\u201d with all its necessary implications. It says in section 788, p. 128, in the Restatement of Torts: \u201cClosed shop. Restriction of employment by an employer throughout his business, or on specified jobs within it, to workers who are members of a labor union, or of a particular labor union, is a proper object of concerted action by his employees.\u201d It says further under b on the same and the next page: \u201cAn employer may hire non-union men only on the understanding that they will become union men within a stated period. This is sometimes called the \u2018open closed shop.\u2019 Or, finally the employer may employ only men of a particular union affiliation and thus operate a \u2018closed union shop.\u2019 . . . The policy may be adopted by an employer and may be demanded by his employees for his entire business, for a single craft or for a particular type of work which may be done by workers of more than one crap [italics supplied].\u201d The policy adopted by the employing laundries and their employees in the instant case falls precisely within what the Restatement of Torts declares may lawfully be done.\nThe majority opinion says: \u201c(2) The provision that a laundry company may not accept work from any \u2018bobtail\u2019 with whom it is not now under contract or for whom it is not now performing laundry service is also clearly illegal, since it works an unreasonable and wholly unjustifiable restraint of trade.\u201d Not a single laundry in Philadelphia is obliged to accept any business from \u201cbob-tails\u201d or from anybody else. These laundries could legally say to the \u201cbob-tails\u201d: \u201cWe accept laundry only from our own solicitors.\u201d Laundries are not like hotels or railroads, which must serve all who seek service of them. As the court below correctly said: \u201cThe service performed by the steam laundries is not one affected with a public interest, and the plaintiffs therefore have no right to demand that the laundry companies accept their work and the latter are free to engage in business as they deem advisable.\u201d I regard that statement as legally impregnable. The same view was taken in Dueber Watch-Case Mfg. Co. v. Howard Watch & Clock Co., 66 Fed. Rep. 637, 645, where Judge Lacombe said: \u201cAn individual manufacturer or trader may surely buy from or sell to whom he pleases, and may equally refuse to buy from or to sell to any one with whom he thinks it will promote his business interests to refuse to trade. That is entirely a matter of his private concern, with which governmental paternalism has not as yet sought to interfere, except when the property he owns is \u2018devoted to a use in which the public has an interest.\u2019 . . . Certainly there is nothing unlawful or unfair in the statement to the trade by the maker of any kind of merchandise, \u2018My goods are for sale only to those who will buy from me exclusively, not to others.\u2019 ... It is not an unlawful business enterprise for sellers to seek to secure the entire trade of individual buyers, and an agreement between sellers, who wish to confine their dealings to such buyers only, not to sell to others, is not an unfair or unreasonable measure of protection for such trade.\u201d In United Shoe Machine Corp. v. Fitzgerald et al., 130 N. E. 86, the Supreme Judicial Court of Massachusetts said of a contract between a company and its employees which provided that none but union men should be employed when available, that \u201cit would seem almost unnecessary to say that the parties could have mutually agreed to this proposed form of contract.\u201d In Smith v. Bowen et al. (Mass.), 121 N. E. 814, the same court held: \u201cAn agreement by an employer with a union to give all his work to members of the union is a legal and valid agreement, . . . and a strike by the members of the union to enforce their rights under such an agreement is a legal strike.\u201d\nThe three cases cited in the majority opinion in support of the proposition (2) advanced do not support it. One of these is the case of Atlantic Cleaners & Dyers, Inc. v. U. S., 286 U. S. 427. The only charge in that case was a violation of the Sherman Anti-trust Act. Apex Hosiery Co. v. Leader, 8 U. S. L. Week 932, was also under the Sherman Anti-trust Act. The third case cited, Bukelew v. Martens et al., 108 N. J. L. 339, 156 A. 436, was a case where, as the New Jersey court said: \u201cThe present contract is nothing but an agreement to fix prices.\u201d In the case now before us there is no allegation whatever that this contract will result in an arbitrary fixing of prices to the detriment of the public. It would be impracticable for the laundries to attempt any such arbitrary price-fixing because of the ease with which laundry can be sent elsewhere. It is a matter of common knowledge that there are hundreds of laundries within a short distance of Philadelphia. Let the Philadelphia laundries put their prices too high and those needing laundry service will get it elsewhere.\nThe majority opinion says: \u201c(3) The provision that no person not now engaged as a \u2018bob-tail\u2019 shall be accepted in that capacity by a laundry company is illegal because it effects a further drastic restraint of competition by restricting \u2018bob-tails\u2019 to their present number and preventing newcomers from engaging in the wholly legitimate business of collecting wash on their own account and having it laundered by a laundry company. Those engaged in an industry have no right, by agreement of all of them, to exclude others thereafter from participating in it.\u201d The answer to that is the provision does not restrict \u201cbob-tails\u201d to their present number. They can multiply themselves and collect laundry wherever they will and send it to any laundry anywhere which will take it.\nThe provision that \u201cno person not now engaged as a \u2018bob-tail\u2019 shall during the term of this agreement be accepted as a \u2018bob-tail\u2019 by the company,\u201d is a provision which offends no laAV and violates no right. In Jacobs v. Cohen et al., 183 N. Y. 207, 76 N. E. 5, Judge Gray, speaking for the Court of Appeals of New York, said: \u201cThis is the case of an agreement voluntarily made by an employer with his workmen . . . restricting the class of workmen who should be engaged upon it to such persons as were in affiliation with an association, organized by the employers\u2019 workmen. ... It would seem as though an employer should be, unquestionably, free to enter into such a contract with his workmen for the conduct of the business, without its being deemed obnoxious upon any ground of public policy.\u201d In Dunlap\u2019s Cable News Co. v. Stone et al., 15 N. Y. S. 2, it was held that a foreign corporation, organized for the purpose of collecting news and furnishing the same to the newspapers, cannot maintain an action to restrain an unincorporated association engaged in the same business from enforcing a rule that its members should take no news from other news agencies. The Supreme Court of New York said: \u201cThe plaintiff\u2019s application amounted to nothing more nor less than an attempt to restrain the defendants from transacting their lawful business in their own way, lest in doing so the plaintiff\u2019s rival business should be injured or diminished. . . . The plaintiff has no standing to maintain such an action, and its complaint is devoid of equity.\u201d\nThe majority opinion characterizes as \u201carbitrary and illegal\u201d the provision (without quoting all of it) that \u201ca \u2018bob-tail\u2019 desiring to sell his route shall first offer it for sale to the company, and if the offer is not accepted by the company within ten days, then such route may be offered for sale to any other \u2018bob-tail\u2019 who is a member of the union or to any other laundry company doing wholesale work, upon the same terms and conditions.\u201d There is nothing more illegal or unusual about that contract than there is in a contract of an owner of shares of stock to first offer his stock to the company at a certain price before offering it to outsiders. Such contracts are common and are legal. See Cities Service Securities Co. v. McFarland, 159 A. 800. In Model Clothing House et al. v. Dickinson et al., 178 N. W. 957, the Supreme Court of Minnesota held that a mutual agreement between all the stockholders of a trading corporation, that whenever a stockholder wishes to sell any of Ms stock the corporation shall have the exclusive right to purchase it for a period of 60 days after notice of the wish to sell, is valid and not an unlawful restriction on the power of alienation. \u201cA bargain to deal exclusively with another\u201d is among those \u201crestraints of trade\u201d which the Restatement of Contracts recognizes as reasonable: 2 Restatement of Contracts, p. 996, sec. 516 e. See also a very able opinion of the Supreme Court of Appeals of West Virginia in Barnes et al. v. Koontz, 163 S. E. 719, 720: \u201cIt is not the law that all restraints on trade are illegal. The right of reasonable restriction is recognized by all modern authorities. . . . \u2018The public policy of the state varies from time to time.\u2019 MacGinniss v. Boston Co., 29 Mont. 428, 461, 75 P. 89, 97. What is public policy is frequently a matter of mere personal inference, which may change as the personnel of the judiciary changes. But as that great chancellor Sir George Jessel well said: \u2018If there is one thing which more than another, public policy requires, it is that men of full age and competent understanding shall have the utmost liberty of contracting.\u2019 Printing Co. v. Sampson, 19 L. R. 462, 465. Furthermore, the judicial power to declare a contract void as attended with injury or inconvenience to the public has been said to be a very delicate one, and should be exercised only in cases free from doubt.\u201d\nFurthermore, the majority opinion in its discussion of the above provision in the contract overlooks the fact that a \u201cbob-tail\u201d desiring to sell his route may, if he does not get the price he wants from \u201cthe company\u201d or another \u201cbob-tail,\u201d offer it to \u201cany other laundry company doing wholesale work, upon the same terms and conditions.\u201d That gives him a completely wide open field of sale. The \u201cany other laundry company\u201d does not have to be one of the laundries which is a party to this agreement.\nThe majority opinion also foresees a situation in the future when \u201cthe \u2018bob-tail\u2019 industry will cease to exist\u201d if this contract is not enjoined. Whether the possible extinction of the \u201cbob-tail\u201d industry should be a matter of public or judicial concern is irrelevant. Many industries much more important than the \u201cbob-tail\u201d industry have been extinguished by the march of progress. Furthermore, the \u201cbob-tail\u201d business will not be destroyed. Its business is collecting laundry. As long as clothes are used laundry will still be collected by solicitors and it is entirely immaterial to human society what they are called.\nThe majority opinion says: \u201c(5) The provision that a laundry company will not accept work from any \u2018bobtail\u2019 who is not a member of the union would seem to be an anomalous requirement, since it brings into the union persons who are not employees, but, in the words of the bill in equity, are \u2018independent business men\u2019 and in most eases themselves employers of labor.\u201d There is nothing any more anomalous about that provision than there would be about a provision in our state laws that laundries could not accept laundry work from solicitors whether they had assistants or not, unless they first secured a license from the state. If A is a \u201cbob-tail\u201d employing a dozen assistants and he wants his laundry work accepted by the companies which are parties to this agreement, he must join the union. Calling a \u201cbobtail\u201d an \u201cindependent contractor\u201d does not disguise the fact that he is a human being engaged in the work of soliciting laundry. Calling a man who shingles houses an \u201cindependent contractor\u201d does not disguise the fact that he is a carpenter. These laundries which are parties to this contract say: \u201cWe don\u2019t want your laundry and will not take it unless you join the union.\u201d They are within their clear legal rights in saying that.\nIn summarizing its conclusions the majority opinion emphasizes again what is the basis of its opinion, to wit, that the cited provisions of the contract before us are \u201can illegitimate restraint of trade.\u201d I have pointed out that a requirement in an employer-employee contract that persons performing a certain kind of labor service must belong to a labor union is under modern statutes and judicial decisions completely divorced from the old common law concept of \u201crestraint of trade.\u201d These \u201cbob-tails\u201d are workmen in direct competition with other workmen who are unionized laundry solicitors. Calling these \u201cbob-tails\u201d \u201cindependent contractors\u201d does not affect the fact of their labor work and the fact of their competition against union solicitors. Of their anti-union practice, it can correctly be said, as Justice Day said in his dissenting opinion (concurred in by Mr. Justice Hughes) in Coppage v. Kansas, 236 U. S. 1: \u201cNo form of words can strip it of its true character.\u201d If these \u201cbob-tails\u201d are permitted to undersell their services as laundry collectors, the unionized laundry solicitors will eventually find their occupation gone.\nAdherence to both the principle and practice of the \u201cclosed shop\u201d (an institution recognized as promotive of the public welfare by both the National and the State Labor Relations Acts and by countless judicial decisions), requires the upholding of this \u201cclosed shop\u201d contract. To hold that A, who performs precisely the same labor services as B, is not a competitor of B\u2019s because A calls himself an \u201cindependent contractor\u201d is a negation of the \u201cclosed shop\u201d and where that view prevails the \u201cclosed shop\u201d is not \u201cclosed.\u201d That both employers and employees frankly recognize that fact is proved by the numerous employer-employee contracts (two of which are heretofore referred to) which expressly bar all so-called \u201cindependent contractors.\u201d In the bituminous coal field (as in the anthracite field, already noted) such independent contracting is by agreement expressly barred. The contract entered into in September, 1937, between tbe Amalgamated Meat Cutters of America and the National Association of Retail Meat Dealers \u201crestrains trade\u201d by barring \u201cretail sales of meat by packers, wholesalers or peddlers to the public\u201d and \u201cthe selling of poultry by wholesalers directly to consumers.\u201d The International Fur Workers Union and the Associated Fur Coat and Trimming Mfgrs., Inc., in their contract \u201crestrained trade\u201d by providing that \u201cno inside or outside contractors in any way, shape, form or manner shall be permitted.\u201d The \u201cwritten agreement\u201d before us is directed against exactly the same kind of non-union wage competition as are these other employer-employee agreements herein mentioned.\nTwenty of the 28 plaintiffs aver, each for himself, that \u201che employes numerous help in his said store and, himself, drives a truck or other vehicle for the collection and return of customers\u2019 laundry.\u201d The remaining eight plaintiffs each aver \u201cthat for the purpose of said business\u201d he \u201cdrives a truck or other vehicle for the collection and return of customers\u2019 laundry.\u201d Those averments constitute clear admissions of the fact that the \u201cbob-tails\u201d are in direct competition with the unionized collectors of defendant laundries. The only averment in the bill about any of the \u201cbob-tail\u201d employees being members of any union is the following: \u201c31. . . . Your orators with the exception of J. Metlen, S. Paul, William Dickter, H. Semost, S. Sklar, William Feinberg, Simon Glossberg and G. Zlotnick employ help within their said stores (such employes being members of Laundry Workers International Union, Local No. 10, A. F. of L.).\u201d This is an \u201cinside hand workers laundry\u201d union and is entirely distinct from the defendant union. The phrase \u201cwithin their said stores\u201d indicates that these union employees are not engaged in the business of driving about and collecting laundry. If the \u201cbobtail\u201d solicitors were unionized, there would be no issue between plaintiffs and defendant. The plaintiffs\u2019 complaint is that the laundry companies have entered into an agreement \u201cto perform no laundry service for any independent or commission drivers, including the above named complainants, unless said independent or commission drivers, including the above named defendants, are or will become members of defendant union.\u201d That is the Laundry & Linen Supply Driver\u2019s Union, Local 187.\nThat \u201crestraint of trade\u201d is no longer looked upon in this Commonwealth as per se anti-social, is illustrated by the passage of the Fair Trade Act of June 5, 1935, P. L. 266, by which it is made \u201cactionable for any person to offer for sale or selling any commodity at less than the price stipulated in any contract entered into pursuant to the provisions of section 1, whether the person so offering for sale or selling is or is not a party to such contract.\u201d We upheld that Act in Bristol-Myers Co. v. Lit Bros., 336 Pa. 81, and we there said: \u201cPrice cutting which confers a slight pecuniary advantage to the buyer has nevertheless been adjudged by the lawmakers of forty states to be prejudicial to the public interest.\u201d . The Supreme Court of the United States in Old Dearborn Distributing Co. v. Seagram Distillers Corp., 299 U. S. 183, said: \u201cThere is a great body of fact and opinion tending to show that price cutting by retail dealers is not only injurious to the good will and business of the producer and distributor of identified goods, but injurious to the general public as well.\u201d Since the formula, \u201crestraint of trade,\u201d can no longer be successfully invoked against agreements to maintain the price of commodities at a certain level, it certainly should not be successfully invoked against agreements whose laudable purpose is to maintain the wages of labor at a subsistence level. Unrestricted competition even in certain commodities of commerce is no longer looked upon as being to the public interest. See Rohrer v. Milk Control Board, 322 Pa. 257, 186 A. 336, and Nebbia v. N. Y., 291 U. S. 502, in which cases statutes fixing the price of milk were sustained. A few years ago such statutes were unheard of. It was a marked advance in judicial thought to declare milk to be a commodity \u201caffected with a public interest.\u201d Moreover, in the instant case, as already pointed out, there was no attempt to \u201cfix prices\u201d as there was in the milk cases.\nI do not concede that the contract now before us would injure the \u201cbob-tails.\u201d I believe it would benefit the \u201cbob-tail\u201d solicitors of laundry as the \u201cclosed shop\u201d has always benefited labor by preventing competition between individual laborers or groups of laborers. In American Steel Foundaries v. Tri-City Central Trades Council et al., 257 U. S. 184, 209, Chief Justice Taft, speaking for the Supreme Court of the United States, said: \u201cUnion was essential to give laborers opportunity to deal on equality with their employer. ... To render this combination at all effective, employees must make their combination extend beyond one shop. It is helpful to have as many as may Ibe in the same trade in the same community united, because in the competition between employers they are bound to be affected by the standard of wages of their trade in the neighborhood.\u201d But even if the contract did work some economic disadvantage to the \u201cbob-tails,\u201d that would not entitle them to an injunction against it. That certain actions of men may bring some economic loss to other men, gives these other men no cause of action either in law or in equity. Picketing visits an economic loss on the owner of the place of business picketed; it is intended for that purpose, the theory being that the economic loss occasioned will \u201cbring to terms\u201d the owner whose place is picketed. Yet courts uphold the right to peaceful picketing. This court, in Kirmse et al. v. Adler et al., 311 Pa. 78, 166 A. 566, in refusing to enjoin picketing, said: \u201cIf tlie employer suffers loss from this peaceable assertion of rights, it is a damage without a remedy.\u201d We said further: \u201cAppellants do not deny their acts were calculated to compel the theatre men to employ men at the union scale by injuring the patronage. The primary aim was the protection of the employment of their members at the union rate of wage, while the means employed involved as a secondary purpose the injury of appellee\u2019s patronage.\u201d See also United Chain Theatres, Inc., et al. v. Phila. Moving Picture Machine Operators Union, 50 F. (2d) 189.\n1 think the majority opinion concedes the legal soundness of the position of these defendants when it says: \u201cThe union has a legitimate interest in thus seeking to protect the laundry employees against the lowering of working standards on the part of those who themselves, although in a different legal capacity, perform to some extent the same kind of labor.\u201d Then the majority opinion adds: \u201cBut such membership [in the union] cannot be made the means of controlling the regulation by the \u2018bob-tails\u2019 of their own business employees in the various aspects heretofore considered.\u201d In other words, the union laundry workers have a right to complain that the \u201cbob-tails,\u201d who are doing precisely the same work as themselves, are lowering the working standards but the union workers have no right to enter into a contract with the laundries to make the \u201cbob-tails\u201d stop lowering these working and wage standards on pain of having the laundries refuse to accept their services. As I have already pointed out, that position is an utter negation of the \u201cclosed shop\u201d principle put into actual practice. Every non-union miner or non-union carpenter can under that ruling go into court and under the plea of \u201cpreserving the freedom of contract,\u201d demand an injunction against any \u201cclosed shop\u201d agreement that affects him.\nSince the contract here is one whose purpose is to maintain the wages of laundry solicitors at the level of the union scale and, as it says, \u201cto stabilize the conditions under which said \u2018bob-tails\u2019 shall operate and prevent unfair advantages which they now have over the said retail route salesmen,\u201d and since the activities of the \u201cbob-tails\u201d tend to frustrate those purposes, I cannot understand how this contract can logically be enjoined except under a legal philosophy that was once accepted by the courts but is no longer judicially accepted either in England or the United States.\nThere is no doubt that one of the objects of the contract now under review was that every person who in Philadelphia follows the trade of laundry solicitor must be a member of the body known as \u201cLaundry and Linen Supply Drivers\u2019 Union.\u201d Under the view of social welfare now prevailing in this country, that object is legal and laudable. As Judge George Gray, Chairman of the Anthracite Coal Strike Commission, said in the report of that Commission in 1902: \u201cExperience shows that the more full the recognition given to a trade union, the more businesslike and responsible it becomes.\u201d\nThis court, speaking through Justice Sharswood in Phila.\u2019s Appeal, 78 Pa. 33, 39, said: \u201cChancery never puts forth this strong arm [of injunction] unless in a clear case of the invasion of a private or public right.\u201d The plaintiffs have shown no right of any kind invaded by the contract they challenge and therefore their prayer to have it declared illegal and void and its performance enjoined, ought to be denied.\n\u201cAll competition imports an attempt to destroy the competition oi rivals,\u201d per Holmes, J., in Central Lumber Co. v. So. Dakota, 226 U. S. 157.\nJustice Cardozo aptly said (44 Harvard Law Rev. 687) : \u201cMany an appeal to freedom is the masquerade of privilege or inequality seeking to intrench itself behind the catch-WOtd of a principle.\u201d",
+        "type": "dissent",
+        "author": "Me. Justice Maxey:"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Chief Justice Schaffer:\nIf the facts in this case, and any reasonable inferences therefrom, were as stated in the dissenting opinion, undoubtedly all the members of the Court would have agreed with the view there taken. But the facts upon which our decision must rest are those contained in the amended bill in equity, since the case is presented to us on demurrer to that bill, and the facts as there stated are not those which the dissenting opinion erroneously assumes. It is not my present intention to restate the principles of law enunciated in the majority opinion, with which I am in entire accord, but merely to point out a few of the many instances of factual and legal misconceptions which I find in the dissenting opinion.\n1. Both the original bill and the amended bill aver that all laundries in the City and County of Philadelphia are parties to the agreements with defendant union. This averment is completely ignored in the dissenting opinion, which contains such statements as \u201cthey [the \u201cbobtails\u201d] can . . . collect laundry wherever they will and send it to any laundry anywhere which will take it,\u201d and \u201c \u2018any other laundry company\u2019 [to which a \u201cbobtail\u201d may sell his business] does not have to be one of the laundries which is a party to this agreement.\u201d This failure to recognize the facts averred in the bill causes the fallacious argument which permeates the dissenting opinion that there is no such complete monopoly as to warrant criticism of the contracts as effecting an unreasonable restraint of trade.\n2. The dissenting opinion dwells at length upon the subject of the legality of closed shops, and evidently seeks to convey the wholly unjustified impression that the majority opinion holds that the \u201cbob-tails\u201d cannot be unionized. The dissenting opinion says: \u201cThe workers have no right (under the court\u2019s decision) to enter into a contract with the laundries to make the \u2018bob-tails\u2019 stop lowering these working and wage standards,\u201d etc. On the contrary, the decision of the court is that the contract of the union with the laundries is valid in its provision that the \u201cbob-tails\u201d shall, if permitted to do so, become members of the union, and the opinion distinctly states that \u201cIn so far as it is designed to restrict the \u2018bob-tails\u2019 in the operation of the trucks which they themselves drive, and in their collection of laundry, to hours and working conditions prescribed by the union and embodied in its agreement with the laundry companies, the union has a legitimate interest in thus seeking to protect the laundry employees against the lowering of working standards on the part of those who themselves, although in a different legal capacity, perform to some extent the same kind of labor.\u201d Moreover, the employees of the \u201cbob-tails\u201d are members of a union. The dissenting opinion directs an attack upon an imaginary decision which is the very opposite of what the court is holding.\n3. In the same vein as the foregoing, the dissenting opinion represents the court, at least by implication, as being opposed to principles which the dissenting opinion takes this occasion to champion and which not only are not at issue in the present case but with which all the members of the court are no less in sympathy than the writer of the dissenting opinion. One such illustration is in regard to the right of picketing, and another in regard to the evil of women doing \u201cpiece-work on garments and hats in their own tenement houses in New York,\u201d in other words, sweat-shops. Sweat-shops are non-union institutions, working under unsanitary conditions and for extremely low rates of compensation; the work is done for a manufacturing establishment which pays for it. It is perfectly clear that in the present case the \u201cbob-tails\u201d do not work for the steam laundries, and receive no compensation from them whatever; on the contrary, they are customers of the steam laundries and pay them for the work the laundries do for them, and their own customers are not customers of the laundries. There is not the slightest foundation in this case, therefore, for the analogy which the dissenting opinion attempts to draw between the \u201cbob-tails\u201d and sweat-shops.\n4. The same sort of attack upon a proposition in no way controverted in the majority opinion is made by the dissenting opinion against the doctrine that labor is not in the nature of a commodity to be sold, and in this connection it is dramatically stated that \u201cthere was a time when human labor was regarded as a commodity,\u201d and that \u201cthe earlier doctrine that labor was a commodity in the sale of which there should be unrestrained competition . . . has completely given way to the modern idea expressed in the federal Clayton Act.\u201d I fail to discover in the opinion of the court any suggestion to the contrary. The dissenting opinion states that the resale price-fixing cases applied to commodities, whereas here we are dealing with the sale of labor. But what the \u201cbob-tails\u201d are in fact reselling is the service of the laundry companies, and once the latter have fixed their own price for such service to the \u201cbob-tails\u201d they are precluded, by every principle of decisional law, from combining to compel the \u201cbob-tails\u201d to charge a fixed minimum price by which this service is turned over, supplemented to some extent, to the customers of the \u201cbobtails.\u201d In this connection it was held in the Atlantic Cleaners & Dyers case, cited in the majority opinion, that prices could no more be fixed for services rendered in the business of cleaning and dyeing than for commodities. The dissenting opinion confuses the doctrine of the Atlantic Cleaners & Dyers case with the principle that, of course, it is perfectly legal for employees to combine in order to obtain an increase of wages and such combinations do not fall within the ban of a restraint of trade. It fails to distinguish between the sale of labor in the sense of a transaction by which the owner of a business enterprise sells to his customers services performed by the employees of his establishment, and the sale of wages, meaning the compensation paid by an employer to his employees for the services rendered by them to him; the former \u2014 for example, the sale of laundry service \u2014 is analogous to the sale of a commodity, while the latter \u2014 that is, the fixing of wages \u2014 is not.\n5. The dissenting opinion says that no laundry in Philadelphia \u201cis obliged to accept any business from \u2018bob-tails\u2019 or from anybody else,\u201d and therefore the provision in the contracts that a laundry company may not accept work from any \u201cbob-tail\u201d with whom it is not now dealing adds nothing to their present right to refuse to trade with \u201cbob-tails.\u201d It is so elementary a doctrine of the common law that, while any business concern may deal with whomever it pleases, a combination or agreement by many concerns, and especially by all of them in the community, is an illegal restraint of trade if aimed to drive another out of business by boycotting him, that no added comment would seem necessary.\n6. The dissenting opinion persists in ignoring throughout, not only the statement in the bill in equity that the \u201cbob-tails\u201d are \u201cindependent business men,\u201d and not employees of the laundries or of anybody else, but also the facts upon which that characterization is based, namely, that they are the proprietors of stores, are themselves employers of labor, and have substantial capital investments in their enterprises. It is the failure of the dissenting opinion to recognize these averments that leads to the irrelevancies in that opinion to which I have already referred, namely, those concerning closed shops and the relations in general between employers and employees, as well as to its insistence that the question of restraint of trade is not involved.\n7. The dissenting opinion says that the fact that \u201c \u2018restraint of trade\u2019 is no longer looked upon in this Commonwealth as per se anti-social,\u201d is illustrated by the passage of the Fair Trade Act of June 5, 1935, P. L. 266. But the Fair Trade Act is limited to the sale of articles under other people\u2019s trade-marks. It would seem from the tenor of the dissenting opinion that the doctrine of \u201crestraint of trade\u201d has become practically obsolete. Its effect would be to sweep aside one of the oldest and most fundamental doctrines of the law, the subject of treatment in scores of current cases throughout the nation and in the Restatement of the Law of Torts by the American Law Institute.\n8. The dissenting opinion states that \u201cit would be impracticable for the laundries to attempt any such arbitrary price-fixing because of the ease with which laundry can be sent elsewhere.\u201d I cannot imagine anything that would be more impracticable than for the people of Philadelphia to send their weekly laundry elsewhere in the United States in order to obtain a competitive rate. Moreover, if the implication of this argument were accepted, no restraint of trade could ever be said to exist unless it affected, in its results, the entire country.\n9. The dissenting opinion evidently sees no difference between an agreement by an owner of shares of stock to first offer it for sale to the company, and a case where two parties by agreement attempt to force a third person, not a party to the agreement, to offer his property for sale to certain interests before offering it to others. It seems to me scarcely necessary to say that an owner of property may agree to give an option to buy it to whomever he pleases, but I know of no precedent for holding that an owner may be obliged to give such an option involuntarily because other parties by agreement attempt to compel him to do so under penalty of a boycott that insures the destruction of his business. In fact, the dissenting opinion fails throughout to appreciate the difference between being put out of business by what it calls \u201cthe march of progress,\u201d that is, by social changes, as distinguished from being put out by coercion, illegal combination and boycott.\n10. The dissenting opinion refers to the Nebbia case as an illustration of the contention that price-fixing of commodities is not illegal. That the regulation by the government of the rates in an industry affected by a public interest is different from the fixing of prices by private combination is so elementary in the law that nothing more is required in this connection than thus to refer to it.\nOn the whole, it seems to me that the dissenting opinion is utterly unjustified in denouncing the decision of the court in this case as challenging the rights of unions, or closed shops. Most of it seems to me to be an attempt at defense of principles which are in no way attacked. We are dealing here only with a peculiar situation in a particular industry. In a word, it may be said that, as represented in the bill of equity, the \u201cbob-tails\u201d are not, as the dissenting opinion would have it, employees similar to those of the laundry companies, but persons conducting, as employers, a legitimate business enterprise, and that the contracts here involved raise the legal question, not of a labor problem, but of a restraint of trade affecting the entire laundry industry in Philadelphia. Certainly, if an itinerant grocer, or butcher, driving his own wagon from house to house to supply his trade, were denied the right to purchase his commodities, by an agreement among all the wholesalers in Philadelphia and the labor unions of the wholesale trade not to sell to him, such combination would be enjoinable as in restraint of trade and would in no sense involve a question of closed shop, or the rights of organized labor. The case before us is just such a one in principle.\nThe fundamental misstatement of the dissenting opinion is in treating the \u201cbob-tails\u201d as wage earners, as employees. They are not. They are in business on their own account; not employed by anyone. No one pays them wages. In instances where they operate alone, what they make is not a wage, but a profit, just as in the case of any other individual storekeeper. Where they employ others, such employees are all members of a union and subject to its rules. So no question of the rights of union labor or of a closed shop is involved in the case.\nI, therefore, disagree with both the facts and the law as stated in .the dissenting opinion, and concur in the majority opinion and the decision of the court.\nMr. Justice Drew, Mr. Justice Linn, and Mr. Justice Barnes concur in this opinion.\nThe charge in the dissenting opinion that the majority opinion does not quote all of the provision regarding the sale by a \u201cbobtail\u201d of his route is without foundation.",
+        "type": "concurrence",
+        "author": "Mr. Chief Justice Schaffer:"
+      },
+      {
+        "text": "Supplemental Dissenting Opinion by\nMr. Justice Maxey,\nJuly 1, 1940:\n(Written after receipt of a copy of the concurring opinion filed.)\nThe facts in this case are as stated in the dissenting opinion, as any one who will carefully examine the record in an open-minded search for the truth will find for himself. What the \u201creasonable inferences\u201d are, depend on the reasoning faculties of the person or persons drawing those inferences.\nThe averment that \u201call laundries in the City and County of Philadelphia\u201d are parties to the agreement is ignored in the dissenting opinion for the sufficient reason that it is wholly immaterial to this issue. . Each and every laundry in Philadelphia has an undoubted legal right to refuse to accept laundry work from \u201cbobtail\u201d solicitors exactly as it would have an undoubted legal right, if it cared to exercise it, to refuse to accept laundry from solicitors who used horses and buggies instead of automobiles in going around soliciting laundry.\nIn paragraph one of the concurring opinion there is quoted the statements in the dissenting opinion to the effect that the \u201cbob-tails\u201d can collect laundry wherever they will \u201cand send it to any laundry anywhere which will take it,\u201d and \u201cany other laundry company [to which a \u201cbob-tail\u201d may sell his business] does not have to be one of the laundries which is a party to the agreement.\u201d The concurring opinion then adds: \u201cThis failure to recognize the facts averred in the bill causes the fallacious argument which permeates the dissenting opinion that there is no such complete monopoly as to warrant criticism of the contracts as affecting an unreasonable restraint of trade.\u201d I submit with confidence to every trained mind in this Commonwealth that the foregoing excerpt from the concurring opinion is one of the most perfect examples of \u201cfallacious\u201d reasoning to be found anywhere. The two statements quoted in the concurring opinion from the dissenting opinion are from two entirely different portions of that opinion, and therefore are not directly related to each other as the concurring opinion would lead one to believe. However, both statements are statements of facts and are in no way, shape, form or manner in conflict with any averments in plaintiffs\u2019 bill or defendants\u2019 answer, as anyone who examines this record can quickly determine. Any bob-tail who collects laundry can send it to any laundry anywhere which will take it. Any bob-tail wishing to sell his \u201croute\u201d can place his own price on it and if the company with which he has been dealing does not accept his offer, he can then offer his route \u201cto any other bob-tail who is a member of the union or to any other laundry doing wholesale work, upon the same terms and conditions\u201d (quoted from paragraph 24, of the agreement challenged by plaintiffs). Plaintiffs\u2019 charge is that they, the bob-tails, will, unless they join the union, \u201cbe unable to have their customers\u2019 wearing apparel, linens and fabrics washed and laundered by any laundry company in Philadelphia.\u201d The answer to the \u201cmonopoly\u201d charge made in the concurring opinion is that the \u201cbob-tails\u201d do not charge that they cannot send their collected \u201cwash\u201d to laundries outside of Philadelphia and since Philadelphia comprises only 128 square miles of Pennsylvania\u2019s 44,832 square miles, and since \u201ctrade\u201d knows no municipal bounds in the United States, it is ridiculous to hold that the contract in question is iu restraint of trade. If a group of men had the exclusive license to sell cars in Philadelphia, such a license could not be looked upon as a restraint of the automobile trade.\nThe concurring opinion is wrong again when on page 2 it says: \u201cThe dissenting opinion . . . evidently seeks to convey the wholly unjustified impression that the majority opinion holds that the hob-tails cannot be unionized.\u201d The dissenting opinion does nothing of the kind, as even a superficial but open-minded reading of it will disclose to anyone. The concurring opinion then says: \u201cThe dissenting opinion says: \u2018The workers have no right (under the court\u2019s decision) to enter into a contract with the laundries to make the bob-tails stop lowering these working and wage standards, etc.\u2019\u201d The \u201cetc.,\u201d in the concurring opinion is substituted for \u201con pain of having the laundries refuse to accept their services.\u201d That is exactly what the majority opinion means. But the concurring opinion says: \u201cOn the contrary, the decision of the court is that the contract of the union with the laundries is valid in its provision that the bobtails shall, if permitted to do so, become members of the union.\u201d Of what avail would it be to the unionized laundry solicitors to have the bob-tails <{join the union\u201d but to continue their practice of soliciting laundry at a rate which would mean putting the union solicitors out of business unless they accepted a lower remuneration in order to meet the competition of the bob-tails f The concurring opinion then adds: \u201cThe [majority] opinion distinctly states that \u2018in so far as it is designed to restrict the \u201cbob-tails\u201d in the operation of the trucks which they themselves drive, and in their collection of laundry, to hours and working conditions prescribed by the union and embodied in its agreement with the laundry companies, the union has a legitimate interest in thus seeking to protect the laundry employees against the lowering of working standards on the part of those who themselves, although in a different legal capacity, perform to some extent the same kind of labor.\u2019 \u201d It will be observed that the majority opinion uses the phrase \u201cthe union has a legitimate interest\u201d in seeking to protect the laundry employees, etc., as just quoted. If by that phrase the majority opinion means that the union has an interest which it and its members can protect by contract, then why does the majority opinion strike down as illegal this contract whose purpose is to protect that \u201clegitimate interest\u201d by making the bob-tails conform in working conditions, including remuneration, to the standards of the \u201cLaundry & Linen Supply Drivers\u2019 Union\u2019s\u201d closed shop?\nThe concurring opinion says: \u201cThe employees of the bob-tails are members of a union.\u201d The concurring opinion should in fairness enlighten the people of Pennsylvania as to what employees are members of what union; otherwise, the statement is misleading. The bob-tail solicitors are not members of any union, and that is precisely why this controversy is in the courts. The dissenting opinion points out that there are a few inside workers for the bob-tails who belong to \u201can inside hand workers\u2019 laundry\u201d union. That union is as distinct from the defendant union as the railway trainmen\u2019s union is distinct from the Brotherhood of Locomotive Engineers.\nParagraph 3 of the concurring opinion is completely answered in the dissenting opinion. Calling the bobtails \u201ccustomers\u201d of the steam laundries cannot disguise the fact that they are active, underselling competitors of the unionized laundry solicitors, just as the employees of \u201ccontract miners\u201d in the coal fields were competitors of the union miners until by agreement the coal operators and the mine workers put an end to such contract mining, because it was being done for a remuneration less than that paid the union miners.\nThe concurring opinion says that \u201cthe dissenting opinion directs an attack upon an imaginary decision which is the very opposite of what the court is holding.\u201d The majority opinion declares \u201cpart II [which is the vital part] of the agreement between the union and the laundry companies, except for the provision as herein discussed in regard to the bob-tails becoming members of the union, is invalid because it effects an illegitimate restraint of trade.\u201d In other words, this court says to the union laundry solicitors \u201cwe will let the bob-tails join your union but they cam, do as they please in respect to underselling you in their business of soliciting laundry\u201d That is the decision I am attacking in this dissent and if the writer of the concurring opinion thinks that is imaginary let him ask the union laundry solicitors whose wage standards are being put in jeopardy by the majority decision whether or not they see anything \u201cimaginary\u201d in having their wages reduced and their \u201cLaundry & Linen Supply Drivers\u2019 Union\u201d made a mockery of by the admission to it of bob-tails who, under the majority decision, are at liberty to ignore its rules as to wages and working conditions. Paragraph 28 of part 2 of the contract, and that is the part the majority opinion declares invalid, provides as follows: \u201cThe Union agrees on behalf of its bob-tail members, that their retail prices in selling laundry services shall not be lower than those charged by the Company to its own retail customers.\u201d Part 2 also says in its preamble: \u201cSaid bob-tails are in direct competition with the retail route salesmen employed by the laundry performing such service, and for the protection of said retail route salesmen and to enable the Company to fulfill its obligations under this agreement, it is necessary to stabilize the conditions under which said bob-tails shall operate and prevent unfair advantages which they now have over the said retail route salesmen.\u201d It is too clear to require argument that if part 2 of this agreement is struck down, there is nothing to stop the cut-throat competition of the bob-tails with the retail route salesmen of the laundries.\nThe concurring opinion refuses to recognize the analogy set out in the dissenting opinion between the \u201cindependent contractors,\u201d who formerly ran sweat shops in New York until stopped by the labor unions and the \u201cindependent contractors\u201d who as bob-tails undercut the wages of the laundry route salesmen. The writer of the concurring opinion thinks he avoids the analogy by calling those who patronize the bob-tails \u201ccustomers.\u201d The answer to that is those who bought the products of the sweat shops were also \u201ccustomers.\u201d The analogy drawn in the dissenting opinion is that the \u201csweat shops\u201d were not permitted to ignore decent standards of wages and working conditions and thus undersell others engaged in the same work, by hiding under the cloak of \u201cindependent contractors\u201d and likewise the bob-tail collectors of laundry should not be permitted to undersell unionized collectors of laundry by hiding under the cloak of \u201cindependent contractors.\u201d The \u201ccloak\u201d in each c\u00e1se is too transparent to hide the \u201ccut-throat\u201d competition which is behind it. The fact is that nearly every one of the sixteen eases cited in the majority 'opinion, beginning with the case of Bobbs-Merrill Co. v. Straus, 210 U. S. 339, and ending with the Master Barbers case in 27 Northampton County, are except those few cases where price-fixing was charged in the bill (a\u00e1 pointed out in the dissenting opinion) cases where the thing in controversy was a commodity of commerce, like Ford automobiles in Ford Motor Co. v. Quinn, 70 Pa. Superior Ct. 337, cited in the majority opinion, or Dr. Miles\u2019 medicine cited in the Dr. Miles Case, 220 U. S. 373, cited in the majority opinion and discussed in the dissenting opinion. After the writer of the concurring opinion says that he \u201cfails to discover\u201d in the majority opinion \u201cany suggestion contrary\u201d to the idea expressed in the Clayton Act that, labor is not a commodity, he then attempts to argue, that the bob-tails are not selling their labor service but are \u201cre-selling\u201d laundry service. Since the bob-tails do exactly the same work as the laundry solicitors and their remuneration consists of the difference between what they get from their \u201ccustomers\u201d and what they pay the laundry, it is obvious that this difference is their pay for their work, exactly as a newsboy\u2019s one cent profit on each paper for selling his papers is his pay for his work as a newsboy. The concurring opinion says: \u201cOnce the\u201d laundry companies \u201chave fixed their own price for such service to the bob-tails they are precluded by every principle of decisional law, from combining to compel the bob-tails to charge a fixed minimum price by which this service is turned over, supplemented to some extent, to the customers of the bob-tails.\u201d If that argument is sound newspaper publishers would be powerless to refuse to turn newspapers over to newsboys who went out on the streets selling for two cents papers whose fixed price was three cents. The phrase \u201csupplemented to some extent,\u201d in the concurring opinion, is indeed a mild and innocent looking recognition of the fact that this bob-tail \u201csupplementing\u201d of laundry service is his work as a laundry collector just as a newsboy\u2019s \u201csupplementing\u201d of newspaper service is his work in selling papers. If a newsboy sold for two cents a newspaper which a unionized newsboy sold for the regular price of three cents, the first newsboy would be underselling the second newsboy and no fallacious verbiage about a newsboy \u201creselling\u201d news service could disguise that fact. As Chief Justice Shaw said in Com. v. Hunt et al., 45 Mass. 111 (which was a labor case) : \u201cThe law is not to be hoodwinked by colorable pretences; it looks at truth and reality through whatever guise it may assume [italics supplied].\u201d\nThe case of Atlantic Cleaners & Dyers v. U. S., 286 U. S. 427, referred to in both the majority and the concurring opinions, is, as pointed out in the dissenting opinion, wholly inapplicable here as that case arose under the Sherman Anti-Trust Act and that Act has not the slightest relation to this case.\nIt is a sufficient answer to paragraph five of the concurring opinion to say that there is not the slightest allegation in plaintiff\u2019s bill that anybody is trying to drive anybody out of business \u201cby boycotting bim.\u201d The cases cited in the dissenting opinion conclusively answer the proposition of the concurring opinion that it is illegal for the laundries to agree to accept laundry from any but union solicitors. One of the greatest appellate courts in the land, the Supreme Court of Massachusetts, decided unanimously in Smith v. Bowen, 121 N. E. 814, that \u201can agreement by an employer with a union to give all his work to members of the union is a legal and valid agreement,\u201d and may be lawfully enforced by a strike. See also Judge Lacombe\u2019s opinion cited in the dissenting opinion. The Court of Appeals of New York has taken exactly the same position, as the cases cited in the dissenting opinion, and many other eases familiar to the legal profession, show. See Exchange Bakery & Restaurant, Inc., v. Rifkin, 245 N. Y. 260, 157 N. E. 130, and Williams v. Quill et al., 227 N. Y. 1, 12 N. E. (2d) 547.\nParagraph six of the concurring opinion is based on the irrelevancies that the bob-tails call themselves \u201cindependent business men\u201d and \u201cproprietors of stores.\u201d The women who made garments at low wages in their own homes in the tenements of New York City were equally \u201cindependent business women\u201d and \u201cproprietors of shops,\u201d but unionized \u201cclosed shops\u201d recognized by the courts of New York not merely in principle but also in practice, put an end forever to the competition of \u201cindependent contractors\u201d operating in their own independent shops. If this court is going to permit these bob-tail solicitors of laundry to strike down this contract as illegal, by according them the status of \u201cindependent contractors,\u201d then all similar contracts in this state are illegal. To be consistent this court when the matter is brought before it, must declare illegal the contract entered into b\u00e9tween the Anthracite Mine Operators and the Anthracit\u00e9 Mine Workers of America, for that contract declares that \u201cspecial and individual contracts in the mining of coal where now in use shall be eliminated.\u201d I hold, as do the courts of Massachusetts, New York and numerous other states, such contracts legal. There is no difference in principle between the contract this court is now striking down and the just referred to contract between the Anthracite Coal Operators and the Anthracite Miners of Pennsylvania.\nParagraph seven of the concurring opinion about restraint of trade is conclusively answered by what the present Chief Justice of the United States said in Dr. Miles Medical Co. v. Park & Sons Co., 220 U. S. 373, quoted in the dissenting opinion.\nThe following statement appears in paragraph seven of the concurring opinion: \u201cBut the Fair Trade Act [of 1935] is limited to the sale of articles under other peoples\u2019 trade-marks.\u201d If that is meant to imply that the purpose of the Fair Trade Act is to protect buyers against deception, it is erroneous. The purpose of the act is set forth in its title as follows: \u201cTo protect trademark owners, distributors, and the public against injurious and uneconomic practices in the distribution of articles of standard quality under a distinguished trademark, brand or name.\u201d This court said in Bristol-Myers Co. v. Lit Bros., Inc., 336 Pa. 81, 85: \u201cThe purpose of the Fair Trade Act is obvious, it being to prevent the cutting by any dealer, of the established price of any commodity identified by the trade-mark, brand or name of the producer. This pifiee cutting which \u2022 confers a slight pecuniary advantage to the buyer has nevertheless been adjudged by the lawmakers of forty states to be prejudicial to the public interest.\u201d In other words, the act was designed to prevent competition in commodities identified by the producer of them. The act and our decisions do show that \u201crestraint of trade\u201d is no longer looked upon as an evil by the legislature and the courts. There are similar Fair Trade Acts in 44 states. They have been declared constitutional by the Supreme Court of the United States as well as by state courts and they have been shielded from conflict with the federal antitrust laws by the Miller-Tydings amendment, 50 Stat. 693.\nThe eighth paragraph of the concurring opinion challenges the statement in the dissenting opinion that if the Philadelphia laundries attempt arbitrary price-fixing, laundry could be sent with ease elsewhere. I am sure that few others share the doubt of the.writer of the concurring opinion as to the practicable. difficulties in sending laundry out of Philadelphia to near-by places. Camden, New Jersey, with a population of 116,309 people and New Jersey with its 4,000,000 people and Pennsylvania with its 8,000,000 people outside of Philadelphia, have enough laundries to take care of the laundry requirements of Philadelphians, if the Philadelphia laundries should boost their prices too high. High.prices would also cause other laundries to be established in Philadelphia. Besides, there is .no charge in this bill of any attempted price-fixing by the Philadelphia laundries.\nThe ninth paragraph of the concurring opinion is completely answered by the dissenting opinion. I answer it further by saying that when a man buys a share of stock to which is attached a condition that if he wishes to sell it he must first offer it to the company or to other stockholders, he cannot plead that he is being illegally coerced and boycotted. Likewise, when \u00e1 bob-tail laundry solicitor signs the contract challenged here, which provides that he must first offer his route for sale to the laundry company, and if the offer is not accepted, h\u00e9 must then offer it to another bob-tail who is a member of the union, and if it is not accepted, he can offer his route to any laundry anywhere, cannot complain that he is being illegally coerced and boycotted. In the first place, he is not legally obliged to sign the contract. He is not even economically coerced because he can take his collected laundry to laundries in the dozens of towns and cities within an easy distance of Philadelphia, none of which are affected by the agreement challenged.\nThe 10th paragraph - of the concurring opinion refers to the dissenting opinion\u2019s reference to the Nebbia case. That case was referred to in the dissenting opinion as showing that the courts took an advanced position by declaring the sale of milk was affected with a public interest and that the state could therefore fix the price of milk. In the instant case there is not even a charge of price fixing. This is a plain case of a contract for a \u201cclosed shop\u201d and such contracts have been legalized by the state and federal governments and have been almost universally recognized judicially. In the instant case the majority opinion recognizes the closed shop in principle but strikes down a contract as illegal which would permit the closed shop to operate in practice among the laundries and laundry solicitors of the City of Philadelphia. That is why I dissent from the majority opinion.\nThe dissenting opinion does not, as charged, \u201cdenounce the decision of the court in this case.\u201d The dissenting opinion disagrees with the decision of the majority just as the writer of this dissenting opinion disagreed with the majority of this court in the so-called \u201cYellow Dog\u201d Contract case, 305 Pa. 206, at 225. The view expressed in the lone dissenting opinion in that case over the vehement protest of the writer of the concurring opinion, is now the law of the land, as both the state and federal governments have declared such anti-union, \u201cYellow Dog\u201d contracts to be outlaws in any court. In my dissenting opinion in the \u201cYellow Dog\u201d Contract case, I denounced these anti-union (\u201cYellow Dog\u201d) contracts as \u201coutlaws\u201d in any court. I said (p. 236) : \u201cThis anti-union contract is so at war with the public welfare as to disentitle it to legal recognition.\u201d I said (p. 237) : \u201cThese essentially coercive anti-union contracts are socially wrong and legally indefensible. They are a vestige of economic bourbon-ism \u2014 a cult that is now outmoded.\u201d The writer of the concurring opinion in this case now before us utterly disagreed with those views I expressed in the \u201cYellow Dog\u201d Contract case and he disagrees with them now. He and I now differ in our views as to this \u201cclosed shop\u201d case.\n. This ease goes to the very vitals of the \u201cclosed shop\u201d question, and it cannot be side-tracked as a case of an illegal \u201crestraint of trade.\u201d It restrains trade only as all closed shop contracts restrain trade in labor and such restraint is both legislatively and judicially regarded as being for the public good. The concurring opinion says: \u201cCertainly, if an itinerant grocer, or butcher, driving his own wagon from house to house to supply his trade, were denied the right to purchase his commodities, by an agreement among all the wholesalers in Philadelphia and the labor unions of the wholesale trade not to sell to him, such combination would be . enjoinable as in restraint of trade and would in no sense involve a question of closed shop, or the rights of organized labor. The case before us is just such a one in principle.\u201d That statement might have been supportable under the philosophy-prevailing fifty or one hundred years ago but it is utterly \u00ab\u00absupportable under the enlightened and humane philosophy. of the 1930s and 1940. The Restatement of Contracts, Vol. 2, p. 1000, says this: \u201cA, a manufacturer, makes agreements with a number of agents for the sale of his goods, each of the agents being authorized to sellA\u2019s goods in specified territory only. As part of the agreements the manufacturer promises that each of these agents shall have the exclusive privilege of selling A\u2019s goods in the territory assigned to him. The agreements are legal unless they are part of a scheme whereby it is sought to establish a monopoly.\u201d It is ridiculous to charge that the contract here establishes a monopoly. It is too limit\u00e9d both in space and in time. This court in Monongahela Co. v. Jutte, 210 Pa. 288, in which it was charged that a certain contract created a monopoly in coal in a certain area, said that the old common law rule as to contracts in restraint of trade was now \u201cmuch relaxed and the first modification of the doctrine was. the recognition of the validity of contracts of this nature where the restraint was limited as to space or time and reasonable in its nature. . . . This is the general current of decision in this day.\u201d In the instant case the contract now struck down as illegal and in restraint of trade is limited in its space to the 128 square miles of Philadelphia and is limited in time to \u201ca period of one year subsequent to April 11, 1942, unless thirty days\u2019 notice, in writing, be given by either party to the other party prior to that date of a desire to cancel, change or modify either part of this agreement, and so on for additional terms of one year unless either party shall give the other party notice of such intention thirty days prior to the end of any such subsequent year.\u201d In Harbison-Walker R. Co. v. Stanton, 227 Pa. 55, this court refused to hold a certain contract as being in restraint of trade and Justice Elkin, speaking for this court, quoted with approval the following from the opinion of Justice Holmes in Cincinnati, etc., Packet Co. v. Bay, 200 U. S. 179: \u201cA contract is not assumed to contemplate unlawful results unless a fair construction requires it upon established facts.\u201d \u201cTo constitute the offense of monopolizing or attempting to monopolize, . . . it is necessary to acquire, or attempt to acquire, an exclusive right in such commerce by means which will prevent others from engaging therein [italics supplied]\u201d In re: Greene, 52 Fed. Rep. 104.\nThe learned court below was right in its conception of the law and was in accord with the overwhelmingly prevailing judicial thought in this country and in England when it held as it did (quoting from its opinion) : \u201cThe plaintiffs have no right to demand that the laundry companies accept their work and the latter are free to engage in business relations as they deem advisable. . . . Is it unusual or illegal for a business organization to enter into a contract to purchase all its supplies from a single source, or to confine its distribution in a given area to a particular agency upon whom exclusive rights are conferred? Could not the laundry companies confine the distribution of their service to a single organization? They have chosen to restrict distribution to those persons or organizations that solicit and sell laundry service to the consumers who are members of the defendant association. . . . The policy of our law, however, recognizes the legality of a closed shop and permits the employer and his employees to agree that no person not a member of the employee\u2019s association shall be permitted to work in the industry. . . . Plaintiffs perform the same economic functions as the employees who are members of the association.\u201d In the latter pages of the dissenting opinion are examples of contracts now in operation affecting meat dealers and other contracts affecting fur coat workers which contracts are analogous to the contract now struck down by the majority opinion after the court below upheld it.\nThe argument in the last paragraph before the final three line paragraph in the concurring opinion, is completely demolished in this supplemental dissenting opinion and in the dissenting opinion filed before I saw the concurring opinion filed. The bob-tails are competitors of the unionized laundry solicitors and if their competition is not restrained by making them conform, as the contract this court now strikes down attempted to do, to the Laundry & Linen Supply Drivers Union\u2019s standard of wages, they will either force the unionized solicitors to accept less wages or go out of business. The vital rights of union labor are involved in this case just as much as they were involved in the \u201cYellow Dog\u201d Contract Case, supra.\nIt is significant indeed that the concurring opinion does not cite a single case or an excerpt from any judicial opinion or from any writer to sustain the view that the contact challenged here is illegal. No judicial decision except the decision of the majority of this court from which I dissent can be found which declares such a contract illegal unless one goes back to the days when labor unions were treated by many courts as outlaws and their activities suppressed by injunction.\nI agree with the learned court below that the contract in question is legal and the injunction asked for by plaintiffs should be refused. The decision of the court below can be reversed only by going back to the philosophy of the decision in the famous Cordwainers case of 134 years ago. In that case (Com. v. Pullis et al., Jan. Sessions, Court of Quarter Sessions of Philadelphia), the indictment charged Pullis and certain other boot and shoemakers of Philadelphia with a combination to raise their wages. The rationale of that case is today as obsolete as the rationale of the Dred Scott decision. The trial judge in charging the jury in that case said: \u201cThese defendants belong to an association, the object of which is that every person who follows the trade of a journeyman shoemaker must be a member of their body. If tbe journeymen who come here from distant places do not join the body, tbe members of tbe body will not work with them. Tbe consequence is that everyone is compelled to join tbe society. It is in evidence that tbe defendants all took a part in tbe last attempt to raise tbeir wages. Is there any reason to suppose that tbe laws are not competent to redress an evil of tbis magnitude? Tbe laws of tbis society are grievous to those not inclined to become members \u2014 they are injurious to tbe community, but they are not tbe laws of Pennsylvania. . . . It is now therefore left to you upon tbe law and the evidence to find tbe verdict.\u201d Tbe jury returned tbe following verdict: \u201cWe find tbe defendants guilty of a combination to raise tbeir wages.\u201d\nIn tbe instant case a majority of tbis court says in effect: Tbe contract between tbe Philadelphia laundries and tbe unionized laundry solicitors providing that the laundries will not accept laundry collected by the bobtail solicitors unless tbe latter join tbe union and conform in tbe matter of wages and working conditions to tbe union scale and union rules, is illegal and its enforcement will be enjoined. I submit to tbe people of Pennsylvania who have tbe right to pass judgment on tbe official acts of every judge they commission that tbe decision in tbis case is as repugnant to modern conceptions of right and justice in labor cases as is tbe above quoted charge and verdict of tbe jury in tbe Philadelphia Cordwainers case in 1806.\nIn the \u201cNews of Business\u201d section of the New York daily \u201cPM.\u201d of June 23, 1940, there appears this statement: \u201cGenerally agreed upon pest [in the laundry business] is the bob-tailer.\u201d\nThe concurring opinion says in a footnote that \u201cthe charge in the dissenting opinion that the majority opinion does not quote all of the provision regarding the sale by a bob-tail of his route is without foundation.\u201d Let us see about that. Paragraph 4 (p. 360) of the majority opinion reads as follows: \u201cIf the provision that a \u2018bob-tail\u2019 desiring to sell his.\u2018route\u2019 shall first offer it for sale to the laundry company of which he is a customer has no penalty to support it, a \u2018bob-tail\u2019 may, of course, ignore it entirely, but if, as is apparently intended, his obtaining service from a laundry company is conditioned upon his submitting to it, it is a wholly arbitrary and illegal restriction upon his right to sell his property to whomsoever he desires. ...\u201d In making that argument the majority opinion ignored and did not quote the provision that the bob-tail can, if his offers to his laundry and his fellow bob-tails are not accepted, offer his route to any laundry anywhere. The writer of the majority opinion based his argument and conclusion that the restriction on the sale of the route was \u201carbitrary and illegal\u201d on the part of the provision he quoted in that argument. He should then and there have quoted all of the provision so that a reader of the opinion might come to his own conclusion as to whether or not the argument was sound. The writer of the concurring opinion well knows that the writer of the dissenting opinion was not attempting to conceal the obvious fact that the majority opinion in the earlier parts of it which contain a summary of certain provisions of the contract, did give the substance of the provision about resale of routes.",
+        "type": "dissent",
+        "author": "Mr. Justice Maxey,"
+      }
+    ],
+    "attorneys": [
+      "O. Brewster Rhoads, with him Samuel R. Wurtman, John F. Headly and C. Russell Phillips, for appellants.",
+      "Joseph B. McFnery, with him Michael J. McFnery, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Schwartz et al., Appellants, v. Laundry & Linen Supply Drivers\u2019 Union, Local 187 et al.\nArgued January 11, 1940;\nreargued January 29,1940. Before Schaefer, C. J., Maxey, Drew, Linn, Stern, Barnes and Patterson, JJ.\nO. Brewster Rhoads, with him Samuel R. Wurtman, John F. Headly and C. Russell Phillips, for appellants.\nJoseph B. McFnery, with him Michael J. McFnery, for appellee.\nJune 28, 1940:"
+  },
+  "file_name": "0353-01",
+  "first_page_order": 395,
+  "last_page_order": 445
+}

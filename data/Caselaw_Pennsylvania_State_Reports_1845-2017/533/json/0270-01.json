@@ -1,0 +1,82 @@
+{
+  "id": 1837443,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Albert JONES, Respondent",
+  "name_abbreviation": "Commonwealth v. Jones",
+  "decision_date": "1993-02-26",
+  "docket_number": "No. 183 E.D. Alloc. Dkt. 1992",
+  "first_page": "270",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "533 Pa. 270"
+    },
+    {
+      "type": "parallel",
+      "cite": "621 A.2d 563"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Pa. 206",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815556
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0206-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 445,
+    "ocr_confidence": 0.725,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0680744321387077
+    },
+    "sha256": "f96901bf1a1c7437ff02dc62b161092c345a9625fc008be95ade1310f064770c",
+    "simhash": "1:5a8b83f790d8acff",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T20:46:30.584227+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Albert JONES, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nThe Petition for Allowance of Appeal is granted. The order of the Superior Court is reversed. We have previously held that Commonwealth v. Thomas, 520 Pa. 206, 553 A.2d 918 (1989) shall be applied prospectively only. The judgment of the Court of Common Pleas of Philadelphia County is reinstated.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "621 A.2d 563\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Albert JONES, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 26, 1993."
+  },
+  "file_name": "0270-01",
+  "first_page_order": 518,
+  "last_page_order": 518
+}

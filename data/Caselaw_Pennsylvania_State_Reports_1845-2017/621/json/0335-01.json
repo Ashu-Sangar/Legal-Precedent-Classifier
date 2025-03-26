@@ -1,0 +1,106 @@
+{
+  "id": 4081219,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Melanie JAROMA, Respondent",
+  "name_abbreviation": "Commonwealth v. Jaroma",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 117 EAL 2012",
+  "first_page": "335",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "621 Pa. 335"
+    },
+    {
+      "type": "parallel",
+      "cite": "77 A.3d 633"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "61 A.3d 1015",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7310776,
+        4233799
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a motion to dismiss made pursuant to Pa.R.Crim.P. 600 must be made in writing, and a copy of such motion must be served on the Commonwealth's attorney"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/61/1015-01",
+        "/pa/619/0278-01"
+      ]
+    },
+    {
+      "cite": "619 Pa. 278",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4233799
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a motion to dismiss made pursuant to Pa.R.Crim.P. 600 must be made in writing, and a copy of such motion must be served on the Commonwealth's attorney"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/619/0278-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 573,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1300423306532543
+    },
+    "sha256": "13374f4ff497ebed6dab711acebb844dbdc48f094858827cf68491e4db3eed11",
+    "simhash": "1:bc92762120f3d1ed",
+    "word_count": 96
+  },
+  "last_updated": "2024-02-27T21:17:02.333073+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Melanie JAROMA, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of October, 2013, the Petition for Allowance of Appeal is GRANTED, the Order of the Superior Court is VACATED, and the matter is REMANDED to the Superior Court for consideration of Commonwealth v. Brock, 619 Pa. 278, 61 A.3d 1015 (2013) (holding that a motion to dismiss made pursuant to Pa.R.Crim.P. 600 must be made in writing, and a copy of such motion must be served on the Commonwealth\u2019s attorney).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "77 A.3d 633\nCOMMONWEALTH of Pennsylvania, Petitioner v. Melanie JAROMA, Respondent.\nSupreme Court of Pennsylvania.\nOct. 7, 2013."
+  },
+  "file_name": "0335-01",
+  "first_page_order": 395,
+  "last_page_order": 396
+}

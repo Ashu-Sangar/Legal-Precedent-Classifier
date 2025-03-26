@@ -1,0 +1,137 @@
+{
+  "id": 3442330,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Valentino AMARO, Respondent",
+  "name_abbreviation": "Commonwealth v. Amaro",
+  "decision_date": "2008-11-25",
+  "docket_number": "Appeal No. 168 MAL 2008",
+  "first_page": "163",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "599 Pa. 163"
+    },
+    {
+      "type": "parallel",
+      "cite": "961 A.2d 56"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "889 A.2d 501",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8993560,
+        2473146,
+        8993616,
+        2471663
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/889/0501-01",
+        "/pa/585/0547-02",
+        "/a2d/889/0501-02",
+        "/pa/585/0547-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2473146,
+        2471663
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0547-02",
+        "/pa/585/0547-01"
+      ]
+    },
+    {
+      "cite": "929 A.2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3248752,
+        8353869
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0295-01",
+        "/a2d/929/0205-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3248752
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0295-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 581,
+    "ocr_confidence": 0.642,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.09596042085851338
+    },
+    "sha256": "643f422d213bcaa658c957079e1f4195cbe9130c278af081d4a455d513309734",
+    "simhash": "1:9d1f131989a188b6",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T16:15:31.088404+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice McCAFFERY did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Valentino AMARO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of November 2008, the Petition for Allowance of Appeal is GRANTED and the Superior Court\u2019s decision is VACATED and the PCRA Court\u2019s Order dismissing Petitioner\u2019s PCRA petition is REINSTATED based on Commonwealth v. Jones, 593 Pa. 295, 929 A.2d 205 (2007) and Commonwealth v. Chmiel, 585 Pa. 547, 889 A.2d 501, 541 (2005).\nJustice McCAFFERY did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "961 A.2d 56\nCOMMONWEALTH of Pennsylvania, Petitioner v. Valentino AMARO, Respondent.\nSupreme Court of Pennsylvania.\nNov. 25, 2008."
+  },
+  "file_name": "0163-02",
+  "first_page_order": 211,
+  "last_page_order": 212
+}

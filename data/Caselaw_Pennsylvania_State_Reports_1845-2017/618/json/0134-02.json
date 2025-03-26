@@ -1,0 +1,106 @@
+{
+  "id": 3901595,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Anthony MATTHEWS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Matthews",
+  "decision_date": "2012-10-15",
+  "docket_number": "No. 139 EM 2012",
+  "first_page": "134",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "618 Pa. 134"
+    },
+    {
+      "type": "parallel",
+      "cite": "55 A.3d 97"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 480,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.11871599463906969
+    },
+    "sha256": "25a69931c105fdfda008fa9f13374de1f70a67285b1d96b2c1d1193d7f61e3f3",
+    "simhash": "1:0d8da1284180ec33",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T22:43:58.936544+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Anthony MATTHEWS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 15th day of October, 2012, the Application for Leave to File Original Process and the Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation improper). The Prothonotary is directed to forward these filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "55 A.3d 97\nCOMMONWEALTH of Pennsylvania, Respondent v. Anthony MATTHEWS, Petitioner.\nNo. 139 EM 2012.\nSupreme Court of Pennsylvania.\nOct. 15, 2012."
+  },
+  "file_name": "0134-02",
+  "first_page_order": 210,
+  "last_page_order": 211
+}

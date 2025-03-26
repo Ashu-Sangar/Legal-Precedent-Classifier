@@ -1,0 +1,80 @@
+{
+  "id": 12281658,
+  "name": "Armstead v. Zoning Bd. of Adjustment of City of Philadelphia",
+  "name_abbreviation": "Armstead v. Zoning Bd. of Adjustment",
+  "decision_date": "2015-12-08",
+  "docket_number": "261 EAL (2015)",
+  "first_page": "737",
+  "last_page": "737",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 737"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "115 A.3d 390",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6868593
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/115/0390-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 120,
+    "ocr_confidence": 0.811,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905776359934498
+    },
+    "sha256": "1be6800864c6d7531b67de28f698b85a2f104b4bb70357f29cf0b74639a30f1b",
+    "simhash": "1:1b6e651a3ef64601",
+    "word_count": 19
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Armstead v. Zoning Bd. of Adjustment of City of Philadelphia."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 115 A.3d 390",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Armstead v. Zoning Bd. of Adjustment of City of Philadelphia.\n12/08/2015\n261 EAL (2015)"
+  },
+  "file_name": "0737-06",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12283834,
+  "name": "Com. v. Veasley",
+  "name_abbreviation": "Com. v. Veasley",
+  "decision_date": "2015-10-07",
+  "docket_number": "241 WAL (2015)",
+  "first_page": "767",
+  "last_page": "767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 767"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1062",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 118,
+    "ocr_confidence": 0.866,
+    "sha256": "ec63debca513aaee7fd6af3cd190c94c1d0abb41f56c239e150fb6bdd413fbe1",
+    "simhash": "1:3446c08b55feed54",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Veasley"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1062",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Veasley\n10/07/2015\n241 WAL (2015)\n. Reconsideration Denied November 20, 2015."
+  },
+  "file_name": "0767-10",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

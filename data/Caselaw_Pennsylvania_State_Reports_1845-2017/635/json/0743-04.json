@@ -1,0 +1,70 @@
+{
+  "id": 12283498,
+  "name": "Com. v. Thomas",
+  "name_abbreviation": "Com. v. Thomas",
+  "decision_date": "2016-03-15",
+  "docket_number": "610 EAL (2015)",
+  "first_page": "743",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 743"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 89",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 166,
+    "ocr_confidence": 0.75,
+    "sha256": "cf9e2275acfe53810a33b4b8966a7247296b4cb9c101695cdd32fd0e74fbd827",
+    "simhash": "1:2b56e84abf0f763e",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Thomas"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 89",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Thomas\n03/15/2016\n610 EAL (2015)\n. Justice EAKIN and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0743-04",
+  "first_page_order": 803,
+  "last_page_order": 803
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281052,
+  "name": "Com. v. Lewis",
+  "name_abbreviation": "Com. v. Lewis",
+  "decision_date": "2015-08-17",
+  "docket_number": "149 EAL (2015)",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 687",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.792,
+    "sha256": "7990a7474db3449d53040ef277aed4abc4d0ad081cac49355c2a5e8b068bc5e0",
+    "simhash": "1:1b07a043d5d0425b",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Lewis"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 687",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Lewis\n08/17/2015\n149 EAL (2015)"
+  },
+  "file_name": "0744-04",
+  "first_page_order": 798,
+  "last_page_order": 798
+}

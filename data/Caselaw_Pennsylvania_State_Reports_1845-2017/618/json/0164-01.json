@@ -1,0 +1,82 @@
+{
+  "id": 3901175,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Tabitha BUCK, Petitioner",
+  "name_abbreviation": "Commonwealth v. Buck",
+  "decision_date": "2012-11-05",
+  "docket_number": "No. 209 MAL 2012",
+  "first_page": "164",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "618 Pa. 164"
+    },
+    {
+      "type": "parallel",
+      "cite": "55 A.3d 1051"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 424,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.11868915909769256
+    },
+    "sha256": "6e6deaf36200c988d05254ec6f7cbe55972dad01766ec1855ce093d91d7505c0",
+    "simhash": "1:94ab77feedafbeb7",
+    "word_count": 67
+  },
+  "last_updated": "2024-02-27T22:43:58.936544+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Tabitha BUCK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 5th day of November 2012, the Petition for Allowance of Appeal and Application for Remand are DENIED without prejudice to the petitioner\u2019s right to file or pursue another PCRA petition premised on Miller v. Alabama, -U.S.-, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "55 A.3d 1051\nCOMMONWEALTH of Pennsylvania, Respondent v. Tabitha BUCK, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 5, 2012."
+  },
+  "file_name": "0164-01",
+  "first_page_order": 240,
+  "last_page_order": 240
+}

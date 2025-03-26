@@ -1,0 +1,70 @@
+{
+  "id": 12283428,
+  "name": "Com. v. Roman",
+  "name_abbreviation": "Com. v. Roman",
+  "decision_date": "2016-03-22",
+  "docket_number": "466 WAL (2015)",
+  "first_page": "742",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 742"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 480",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.852,
+    "sha256": "c6d0a54f6d81f7357d4819cf68a271e94f45980c0dd0f8abb236b7541e211580",
+    "simhash": "1:180ee888f16ed460",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Roman"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 480",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Roman\n03/22/2016\n466 WAL (2015)"
+  },
+  "file_name": "0742-08",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

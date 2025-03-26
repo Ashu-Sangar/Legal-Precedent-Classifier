@@ -1,0 +1,70 @@
+{
+  "id": 12284509,
+  "name": "Com. v. McPherson",
+  "name_abbreviation": "Com. v. McPherson",
+  "decision_date": "2016-03-23",
+  "docket_number": "654 EAL (2015)",
+  "first_page": "751",
+  "last_page": "751",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 751"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.915,
+    "sha256": "859c9f7008cd4b775375ac63281a07b0ac7632ee8d5ac778db6d5d6cbee5ba00",
+    "simhash": "1:30042282545800d8",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. McPherson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 479",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. McPherson\n03/23/2016\n654 EAL (2015)"
+  },
+  "file_name": "0751-09",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

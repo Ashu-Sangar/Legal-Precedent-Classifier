@@ -1,0 +1,103 @@
+{
+  "id": 270250,
+  "name": "COMMONWEALTH of Pennsylvania, v. Petitioner Wayne DAVIS, Respondent",
+  "name_abbreviation": "Commonwealth v. Davis",
+  "decision_date": "2002-11-12",
+  "docket_number": "Petition No. 483 EAL 2001",
+  "first_page": "488",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "570 Pa. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "810 A.2d 634"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "807 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        312757,
+        11354551
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0622-01",
+        "/a2d/807/0838-01"
+      ]
+    },
+    {
+      "cite": "807 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        312757,
+        11354551
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/569/0622-01",
+        "/a2d/807/0838-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 606,
+    "ocr_confidence": 0.642,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.009677760250792226
+    },
+    "sha256": "2314b84fd8db247300cbb737dd87e4a7608ad9b0c584361cfecd4f31e01e7956",
+    "simhash": "1:448312f1d457950e",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T19:40:07.488126+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice NIGRO files a dissenting statement."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, v. Petitioner Wayne DAVIS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of November, 2002, we GRANT the Petition for Allowance of Appeal and we REVERSE the Order of the Superior Court. See Commonwealth v. Eller, 807 A.2d 838 (Pa.2002).\nJustice NIGRO files a dissenting statement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      },
+      {
+        "text": "Justice NIGRO,\ndissenting.\nI respectfully dissent from the Court\u2019s per curiam order reversing the instant matter for the reasons set forth in my concurring and dissenting opinion in Commonwealth v. Eller, 807 A.2d 838 (Pa.2002).",
+        "type": "dissent",
+        "author": "Justice NIGRO,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "810 A.2d 634\nCOMMONWEALTH of Pennsylvania, v. Petitioner Wayne DAVIS, Respondent.\nSupreme Court of Pennsylvania.\nNov. 12, 2002."
+  },
+  "file_name": "0488-02",
+  "first_page_order": 590,
+  "last_page_order": 591
+}

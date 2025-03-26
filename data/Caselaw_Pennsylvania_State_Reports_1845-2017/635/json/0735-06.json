@@ -1,0 +1,80 @@
+{
+  "id": 12282672,
+  "name": "Dusman v. Board of Directors of Chambersburg Area School Dist.",
+  "name_abbreviation": "Dusman v. Board of Directors",
+  "decision_date": "2016-03-01",
+  "docket_number": "665, 666 MAL (2015)",
+  "first_page": "735",
+  "last_page": "735",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 735"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "123 A.3d 354",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6842558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/123/0354-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 194,
+    "ocr_confidence": 0.777,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24910641508443157
+    },
+    "sha256": "4779fdd8fa8f0c43593b61456fe19a912b5b252798df69ee8156cdfe2e8fed48",
+    "simhash": "1:65b722449a09cc44",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dusman v. Board of Directors of Chambersburg Area School Dist."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 123 A.3d 354",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Dusman v. Board of Directors of Chambersburg Area School Dist.\n03/01/2016\n665, 666 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0735-06",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

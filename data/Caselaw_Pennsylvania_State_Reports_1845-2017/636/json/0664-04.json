@@ -1,0 +1,80 @@
+{
+  "id": 12283516,
+  "name": "Fiedler, In re; Bitts, In re",
+  "name_abbreviation": "In re Fiedler",
+  "decision_date": "2016-08-03",
+  "docket_number": "95 MAL (2016)",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "132 A.3d 1010",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6822912
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/132/1010-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 86,
+    "ocr_confidence": 0.857,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2491539082008256
+    },
+    "sha256": "8f1f160d6009ea1b3ab6d924ade882255534d73ba8b21c9ae938ea91377d5aaf",
+    "simhash": "1:0bcd1c6ddf9d250b",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fiedler, In re; Bitts, In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 132 A.3d 1010",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fiedler, In re; Bitts, In re\n08/03/2016\n95 MAL (2016)"
+  },
+  "file_name": "0664-04",
+  "first_page_order": 716,
+  "last_page_order": 716
+}

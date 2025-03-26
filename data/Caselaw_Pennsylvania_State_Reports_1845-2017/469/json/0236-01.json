@@ -1,0 +1,86 @@
+{
+  "id": 1722102,
+  "name": "COMMONWEALTH of Pennsylvania v. Frank M. BEAVER, Jr., Appellant",
+  "name_abbreviation": "Commonwealth v. Beaver",
+  "decision_date": "1976-08-03",
+  "docket_number": "No. 243 Allocatur Docket; No. 146",
+  "first_page": "236",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "469 Pa. 236"
+    },
+    {
+      "type": "parallel",
+      "cite": "364 A.2d 1356"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "356 A.2d 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 Pa.Super. 703",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        817876,
+        817917,
+        818070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/240/0703-02",
+        "/pa-super/240/0703-01",
+        "/pa-super/240/0703-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 76,
+    "char_count": 796,
+    "ocr_confidence": 0.667,
+    "sha256": "30edb92a5cd1086c4f20f3cd24b3befb19211059617e40dcbb82ff08e550c875",
+    "simhash": "1:5d0e878169d18377",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T18:00:07.181477+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Frank M. BEAVER, Jr., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted. Judgment of sentence vacated. 240 Pa.Super. 703, 356 A.2d 367. Case remanded for an evidentiary hearing to determine if trial counsel\u2019s failure to move for mistrial or seek questioning of jurors, concerning their knowledge of newspaper articles about appellant which were published during trial, constituted ineffective assistance of counsel. If the hearing court determines that trial counsel was not ineffective, the judgment of sentence shall be reinstated. If the hearing court determines that trial counsel was ineffective, new trial shall be granted. The order of the hearing court may be appealed.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "364 A.2d 1356\nCOMMONWEALTH of Pennsylvania v. Frank M. BEAVER, Jr., Appellant.\nSupreme Court of Pennsylvania.\nAug. 3, 1976."
+  },
+  "file_name": "0236-01",
+  "first_page_order": 276,
+  "last_page_order": 276
+}

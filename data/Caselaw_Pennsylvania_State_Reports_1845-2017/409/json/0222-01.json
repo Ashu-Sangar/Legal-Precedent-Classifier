@@ -1,0 +1,68 @@
+{
+  "id": 1883191,
+  "name": "Bailey Estate",
+  "name_abbreviation": "Bailey Estate",
+  "decision_date": "1962-11-26",
+  "docket_number": "Appeal, No. 211",
+  "first_page": "222",
+  "last_page": "223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "409 Pa. 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 350,
+    "ocr_confidence": 0.465,
+    "pagerank": {
+      "raw": 5.339586395124834e-08,
+      "percentile": 0.33597711681260184
+    },
+    "sha256": "c8c171aab93e8d5f3aab86a44e083c0f3cccffa1ccd082b84685c2f929207895",
+    "simhash": "1:02104e585d3264a6",
+    "word_count": 55
+  },
+  "last_updated": "2023-07-14T18:07:53.890514+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Mtjsmanno, Jones, Cohen, Eagen, O\u2019Brien and Heim, JJ."
+    ],
+    "parties": [
+      "Bailey Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nper Curiam,\nDecree affirmed on the opinion of Judge Cox, each party to pay own costs.",
+        "type": "majority",
+        "author": "per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Isabel Bailey Btilley, appellant, in propria persona.",
+      "Thomas D. Thomson, with him Pringle, Bredin & Martin, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Bailey Estate.\nArgued October 10, 1962.\nBefore Bell, C. J., Mtjsmanno, Jones, Cohen, Eagen, O\u2019Brien and Heim, JJ.\nNovember 26, 1962:\nIsabel Bailey Btilley, appellant, in propria persona.\nThomas D. Thomson, with him Pringle, Bredin & Martin, for appellees."
+  },
+  "file_name": "0222-01",
+  "first_page_order": 268,
+  "last_page_order": 269
+}

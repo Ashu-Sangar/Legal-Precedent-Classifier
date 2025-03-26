@@ -1,0 +1,70 @@
+{
+  "id": 12282114,
+  "name": "Com. v. Franklin",
+  "name_abbreviation": "Com. v. Franklin",
+  "decision_date": "2015-12-31",
+  "docket_number": "558 MAL (2015)",
+  "first_page": "742",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 742"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1140",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "ocr_confidence": 0.739,
+    "sha256": "d3f0cb6b8503fd0c7bfe7937dacb8d9d791f43066ccfc1d434f5b9f5714b778f",
+    "simhash": "1:8da6a0fe9bab71c4",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Franklin"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1140",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Franklin\n12/31/2015\n558 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0742-08",
+  "first_page_order": 786,
+  "last_page_order": 786
+}

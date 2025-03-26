@@ -1,0 +1,946 @@
+{
+  "id": 817393,
+  "name": "ESTATE OF JACOB EICHELBERGER, DEC'D",
+  "name_abbreviation": "Estate of Eichelberger",
+  "decision_date": "1890-05-19",
+  "docket_number": "Nos. 390 and 401",
+  "first_page": "160",
+  "last_page": "172",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 Pa. 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "49 Pa. 111",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998443
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/49/0111-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 482",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057901
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/87/0196-01"
+      ]
+    },
+    {
+      "cite": "63 Pa. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/63/0481-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 9",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Pa. 29",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        478140
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/40/0029-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. 69",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        951273
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/2/0069-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 174",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0174-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 37",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002227
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/52/0257-01"
+      ]
+    },
+    {
+      "cite": "91 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        488056
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/91/0105-01"
+      ]
+    },
+    {
+      "cite": "86 Pa. 99",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056564
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/86/0099-01"
+      ]
+    },
+    {
+      "cite": "94 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        486128
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/94/0141-01"
+      ]
+    },
+    {
+      "cite": "92 Pa. 514",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        491071
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0514-01"
+      ]
+    },
+    {
+      "cite": "30 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        415635
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/30/0175-01"
+      ]
+    },
+    {
+      "cite": "23 Pa. 388",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        974077
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/23/0388-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Pa. 85",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988433
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0085-01"
+      ]
+    },
+    {
+      "cite": "28 Pa. 95",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981550
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/28/0095-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. 335",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028227
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/70/0335-01"
+      ]
+    },
+    {
+      "cite": "30 Pa. 170",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "119 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        558077
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/119/0108-01"
+      ]
+    },
+    {
+      "cite": "20 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 Pa. 835",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 Pa. 439",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "127 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        565750
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/127/0127-01"
+      ]
+    },
+    {
+      "cite": "1 Mona. 439",
+      "category": "reporters:state",
+      "reporter": "Monag.",
+      "case_ids": [
+        254580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/monaghan/1/0439-01"
+      ]
+    },
+    {
+      "cite": "116 Pa. 601",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        554336
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/116/0601-01"
+      ]
+    },
+    {
+      "cite": "12 Pa. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/12/0136-01"
+      ]
+    },
+    {
+      "cite": "93 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        442136
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/93/0209-01"
+      ]
+    },
+    {
+      "cite": "64 Pa. 15",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Pa. 886",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Pa. 78",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        420646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/46/0078-01"
+      ]
+    },
+    {
+      "cite": "4 Wh. 129",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Pa. 424",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        962717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/10/0424-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 890",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. 198",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "109 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        542326
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/109/0041-01"
+      ]
+    },
+    {
+      "cite": "128 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        567000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/128/0269-01"
+      ]
+    },
+    {
+      "cite": "42 Pa. 345",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        481471
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/42/0345-01"
+      ]
+    },
+    {
+      "cite": "10 W. 54",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pa. 575",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        964907
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/13/0575-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 340",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063259
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/89/0340-01"
+      ]
+    },
+    {
+      "cite": "65 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430694
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/65/0338-01"
+      ]
+    },
+    {
+      "cite": "40 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        478849
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/40/0057-01"
+      ]
+    },
+    {
+      "cite": "21 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        411523
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/21/0283-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 390",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852505
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0390-01"
+      ]
+    },
+    {
+      "cite": "6 W. 86",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Gr. 323",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        227534
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/2/0323-01"
+      ]
+    },
+    {
+      "cite": "5 W. 80",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "123 Pa. 438",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967116
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/123/0438-01"
+      ]
+    },
+    {
+      "cite": "5 W. 9",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "124 Pa. 387",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        563092
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/124/0387-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/105/0375-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 67",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063275
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/89/0067-01"
+      ]
+    },
+    {
+      "cite": "93 Pa. 83",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "70 Pa. 410",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028161
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/70/0410-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 203",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480234
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0203-01"
+      ]
+    },
+    {
+      "cite": "90 Pa. 345",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1065575
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/90/0345-01"
+      ]
+    },
+    {
+      "cite": "6 W. 254",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "99 Pa.. 483",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446181
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/99/0483-01"
+      ]
+    },
+    {
+      "cite": "61 Pa. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428635
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/61/0136-01"
+      ]
+    },
+    {
+      "cite": "25 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        975869
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/25/0468-01"
+      ]
+    },
+    {
+      "cite": "47 Pa. 378",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        485503
+      ],
+      "weight": 4,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/47/0378-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 432",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040350
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/78/0432-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 9",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418953
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/37/0009-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418902
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/37/0031-01"
+      ]
+    },
+    {
+      "cite": "49 Pa. 111",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998443
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/49/0111-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057901
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/87/0196-01"
+      ]
+    },
+    {
+      "cite": "63 Pa. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/63/0481-01"
+      ]
+    },
+    {
+      "cite": "40 Pa. 29",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        478140
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/40/0029-01"
+      ]
+    },
+    {
+      "cite": "52 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002227
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/52/0257-01"
+      ]
+    },
+    {
+      "cite": "91 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        488056
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/91/0105-01"
+      ]
+    },
+    {
+      "cite": "86 Pa. 99",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056564
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/86/0099-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454291
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/105/0375-01"
+      ]
+    },
+    {
+      "cite": "93 Pa. 83",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 W. & S. 203",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/6/0203-01"
+      ]
+    },
+    {
+      "cite": "61 Pa. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428635
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/61/0136-01"
+      ]
+    },
+    {
+      "cite": "25 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        975869
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/25/0468-01"
+      ]
+    },
+    {
+      "cite": "47 Pa. 378",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        485503
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/47/0378-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1086,
+    "char_count": 28362,
+    "ocr_confidence": 0.437,
+    "pagerank": {
+      "raw": 8.911592748289454e-07,
+      "percentile": 0.978445075369259
+    },
+    "sha256": "5b78bd6df327b4d35f68ef82dd3016d6ca573c86b15bdce490dd4dff302db319",
+    "simhash": "1:26cbeba04d70e210",
+    "word_count": 5060
+  },
+  "last_updated": "2024-02-27T20:27:25.875077+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Paxson, C. J., Sterrett, Williams, McCollum and Mitchell, JJ."
+    ],
+    "parties": [
+      "ESTATE OF JACOB EICHELBERGER, DEC\u2019D."
+    ],
+    "opinions": [
+      {
+        "text": "no. 390.\nOpinion,\nMb. Chief Justice Paxson :\nThis case involves the proper construction of the will of Joseph Eichelberger. The leading thought in that instrument is equality. This is clear from item 10, which declares: \u201c It is my will that each of my children shall have share and share alike.\u201d To produce this result, he puts a valuation upon the farms and other pieces of real estate which he had devised to his children respectively. Then follows the statement of the amount due his estate by each child. Item 15 of the will declares that \u201c my daughter Jane, married to John Badabaugh, is indebted to my estate thirty-six hundred dollars;\u201d and item 17, \u201c Martin Eichelberger is indebted to my estate two hundred and eighty-four dollars and twenty-eight cents.\u201d The indebtedness of the other children need not be stated, as it is not involved in this appeal. The auditor held that neither Jane nor Martin was chargeable in the distribution with the sum mentioned by the testator. This ruling was affirmed by the learned court below upon exceptions.\nThe learned auditor has found that there is no evidence of either debt, except the statement in the will; that Jane Radabaugh did not owe at any time the $3,600, or any portion thereof. He does lind. that at one time the testator aided Jane's husband, John Radabaugh, to buy a farm, and in doing so advanced him a considerable amount of money, but that this matter had been settled by a conveyance of the farm from John to the testator. This, however, occurred several years prior to the making of the will, and can have no bearing upon the present controversy.\nThe learned auditor and court below evidently treated the case as if it had been a suit by the estate against the legatees to recover the indebtedness named in the will. The auditor accordingly finds as conclusions of law that (a) the debts mentioned in the will are barred by the statute of limitations; and (5) to establish the debts referred to the declarations of the will are not sufficient; even if prima facie, they could be rebutted by counter evidence. Zimmerman v. Zimmerman, 47 Pa. 378, was cited in support of the latter proposition. It hardly needed authority to show that a mere declaration in a will that A. B. was indebted to the testator would not of itself sustain a suit against A. B., to recover the amount of such alleged debt. The will would not even be competent evidence for such purpose. A debt cannot be created by the mere declarations of a testator. In the case in hand, there was no attempt to enforce payment of these debts against the testator\u2019s children by suit. Hence, there was no room to apply the statute of limitations. For what purpose, then, were they specified in the will ? The appellees contend it was done for the information of the executors, and to enable them to proceed to collect the respective amounts from the children so charged. But the testator does not appear to have left behind him any evidence of such debts upon which his executors could have based a suit at law; and the declaration in the will, as before observed, could not have sustained an action.\nThe manifest object of the testator was to enable his executors to carry out the leading thought of his will, and distribute his estate to his children share and share alike. He first directs an equal distribution, and then designates the amount each child has received in his or her lifetime. For the purposes of this distribution, it matters little whether we call the sums advancements or debts. They may have been debts originally, and turned into advancements by the testator. This seems probable from the omission of any reference to interest, and from the fact that he refers to them as debts due to his estate instead of to himself. The two words are sometimes used interchangeably: Wright\u2019s App., 93 Pa. 83. The law is well settled that, when a person accepts a legacy, it is an election to stand by the provisions of the will: Fulton v. Moore, 25 Pa. 468; Pennsylvania Co. v. Stokes, 61 Pa. 136. I do not understand this principle to be disputed excepting in its application to the facts of the present case. While it was conceded that a testator can convert a debt however deceptive the possible proof of it, however it is barred by time, into a present advancement, and so make it deductible from the portions of his legatees, yet it is argued that this can only be done when his will expresses this purpose cleariy, as in Green v. Howell, 6 W. & S. 203; Grim\u2019s App., 105 Pa. 375. Our attention was also called to the fact that there is no direction in the will that these debts shall be deducted from the shares of the children against whom they are charged. It is true there is no such direction in terms. There is, however, a necessary implication that they shall be deducted; an implication so strong as to leave no reasonable doubt of the testator\u2019s intention, and which, for the purposes of this case, must be regarded as the equivalent of an express direction. When a testator says through his will to his executors, \u201c You shall divide my estate equally between my children, share and share alike,\u201d and then specifies the amount each has received in his lifetime, what rational conclusion are we to draw but that the amounts so received shall be deducted from their shares? Under such circumstances, the direction to divide equally necessarily involves such deduction.\nThe fact of the indebtedness of each child, and the amount thereof, was a matter within the personal knowledge of the testator, and he had a right to say that the indebtedness of his children, as he stated it in his will, should be deducted from their shares. Even if a mistake had been made, I am unable to see how it could be corrected upon distribution without making a new will for the testator. If the indebtedness of Mrs. Radabaugh was for money received by her husband, the testator had a right to charge it against her in his will. A legatee is bnt a volunteer, at best, and must take the bounty of the testator upon the terms in which it is bestowed. The assignments of error are sustained.\nThe decree is reversed at the costs of the appellees ; and it is ordered that the record be remitted with instructions to make distribution in accordance with this opinion.\nno. 401.\nOpinion,\nMr. Chiee Justice Paxson :\nThis contention arises upon the following clause of the will of Jacob Eichelberger:\n\u201c I give and bequeath to my son, Martin Eichelberger, a sum of money which shall be of equal value with the shares bequeathed to my other sons. The said sum of money to be placed on interest by my executors, and the interest thereof to be paid annually to my said son, Martin Eichelberger, during his natural life. In case the said Martin Eichelberger should die and leave no legitimate heirs of his own body, then the sum bequeathed to him shall revert to my other heirs.\u201d\nThe auditor and the court below held that under this clause Martin took but a life-estate in the sum of money mentioned, and awarded the corpus of the same to the trustees named in the will. From this decree Martin appealed.\nThe first clause of this bequest, had it stood alone, would have given the appellant the money absolutely. Is this controlled by what immediately follows? We regard the plain intent of the testator to have been that Martin should take the interest only of this fund during his life; that at his death it should go to his children, if he had any, and on default of children, then over to the other children of the testator. He intended to sever the product from the fund producing it, and give only the former to Martin. To carry this object into effect, he directs his executor to invest the fund, and pay over the interest only to Martin during his life. Is there any inflexible rule of law which will defeat the plainly expressed purpose of the testator? Where it is the manifest intent of a testator to sever the product from its source, a bequest of the income of an estate will not carry an absolute estate in the principal: Bentley v. Kauffman, 86 Pa. 99. The trust is an active one, intended to preserve the contingent remainders: Kay v. Scates, 37 Pa. 31; Sheets\u2019 Est., 52 Pa. 257; Eachus\u2019s App., 91 Pa. 105. Moreover a limitation over on the death of the first taker, or a direction that the interest of money shall be paid annually to him for life, is held to be evidence that he has but a life-interest: Myers\u2019s App., 49 Pa. 111; Sheets\u2019 Estate, supra. There is a line of cases which hold that the rules of construction admit of the use of the words \u201c heirs of the body \u201d or \u201c issue \u201d in the restricted sense of \u201c children,\u201d or in the enlarged sense of \u201c heirs of the body,\u201d in order to carry out the intent of the testator. In such instances, the intent is the key to ascertain the meaning of the words: Guthrie\u2019s App., 37 Pa. 9; Haldeman v. Haldeman, 40 Pa. 29; Taylor v. Taylor, 63 Pa. 481; Koppenhaffer\u2019s App., 87 Pa. 196. And in Peck\u2019s App., 78 Pa. 432, it was held that \u201call mere technical rules of construction must give way to the plainly expressed intention of a testator, if that intention is lawful.\u201d In the case in hand the clearly expressed intent of the testator was to give to Martin onty the income of this fund for life, with remainder over, as before stated, and to carry it into effect he created an active trust. We need not speculate as to his object in doing this; he has not stated it, and we have no concern with his motive. It is enough for us to know that such intent was lawful, and, not being in conflict with any law or rule of public policy, must be sustained.\nThe decree is affirmed and the appeal dismissed, at the costs of the appellant.",
+        "type": "majority",
+        "author": "Mb. Chief Justice Paxson : Mr. Chiee Justice Paxson :"
+      }
+    ],
+    "attorneys": [
+      "Mr. JE. W. Biddle and Mr. M. O. Herman, for Joseph and Jacob Eichelberger, appellants in No. 390:",
+      "Mr. J. Wl Wetzel (with him Mr. A. J. Herr), for the appellees in No. 390:",
+      "Mr. J. W. Wetzel (with him Mr. S. P. Wolverton), for Martin Eichelberger, appellant in No. 401:",
+      "Mr. Jo\u2019. W. Biddle and Mr. M. O. Herman, for the appellees in No. 401:"
+    ],
+    "corrections": "",
+    "head_matter": "ESTATE OF JACOB EICHELBERGER, DEC\u2019D.\nAPPEALS BY JOSEPH AND JACOB EICHELBERGER AND MARTIN EICHELBERGER FROM THE ORPHANS\u2019 COURT OF CUMBERLAND COUNTY.\nArgued April 30, 1890\nDecided May 19, 1890.\n[To be reported.]\n1. When a testator declares as his will that his children \u201c shall have share and share alike \u201d out of his estate, puts a valuation upon the pieces of real estate devised to them respectively, and follows these provisions with clauses stating that they are indebted to his estate in amounts specified, there is a necessary implication that the sums named as their debts are to be deducted from the shares of the children upon distribution.\n2. While a mere declaration in a will that a person is indebted to the testator would not be competent evidence of the debt in a suit for its recovery, a testamentary direction for the deduction of a debt from a legacy is conclusive on distribution, and the legatee may not show that the testator was mistaken as to its existence or amount, or that it was barred by limitation: Zimmerman v. Zimmerman, 47 Pa. 378, distinguished.\n3. A testator bequeathed to his son Martin a sum of money, directing that it be placed on interest by his executor and the interest paid annually to Martin during his life, and that, in case Martin should die leaving no heirs of his own body, the sum bequeathed to him should revert to the testator\u2019s other heirs: in such case, Martin was entitled simply to the income of the fund for life, and the principal was payable to the executor as an active trustee.\nBefore Paxson, C. J., Sterrett, Williams, McCollum and Mitchell, JJ.\nNos. 390 and 401 January Term 1890, Sup. Ct.; court below, number and term not given.\nAt the May Term, 1889, of the court below, the account of John Bixler, executor of the will of Jacob Eichelberger, deceased, was referred to Mr. William Trickett, as auditor, for the purpose, among other things, of reporting a distribution of the funds shown thereby to be in the hands of the accountant.\nThe auditor subsequently reported, finding the facts, so far as relating to the matters which are involved in these appeals, to be as follows:\nThe will of Jacob Eichelberger, deceased, was written and executed in 1886. By items 1, 2 and 3 he gave to his sons Joseph, Jacob and Adam, respectively, certain tracts of land, valuing the tract devised to Joseph at $100 per acre, and directing that Joseph pay over to his brother Jacob $100 for \u201c every acre he may have in excess of said Jacob Eichelberger; \u201d and provided that Adam should hold his tract, without power to sell or convey it, during life, and that at his death the same, or its proceeds, should be divided among his children. Item 4 was as follows:\n\u201cI give and bequeath to my son, Martin Eichelberger, a sum of money which shall be of equal value with the share bequeathed to my other sons. The said sum of money to be placed on interest by my executor, and the interest thereof to be paid annually to my said son, Martin Eichelberger, during his natural life. In case the said Martin Eichelberger should die and leave no legitimate heirs of his own body, then the sum bequeathed to him shall revert to my other heirs.\u201d '\nItem 5 gave to the testator\u2019s son Joseph a certain farm to be valued at $70 per acre, provided that Joseph pay to each of the testator\u2019s heirs, himself included, the sum of $35 yearly, \u201cuntil each shall have share and share alike out of said farm.\u201d By item 6 certain real estate was devised to the testator\u2019s daughter, Mary Bixler, at a valuation of $4,500, and by itehi 7 other real estate was devised to his daughter, Catharine Kilim oro, at a valuation of $2,150. In item 8 he gave to his daughter, Jane Radabaugh, certain realty, valued at $2,000, during life, at her death said property to belong to the heirs of her body. The will then proceeded as follows:\n\u201c 9 Item. All the rest of my real estate not otherwise disposed of shall be sold at public sale by my executor.\n\u201c 10 Item. It is my will that each of my children shall have share and share alike.\n\u201c11 Item. The land bequeathed to my sons, Adam and Jacob, shall be valued at one hundred dollars per acre.\n\u201c12 Item. Joseph Eiehelberger is indebted to my estate two hundred and two dollars.\n\u201c 13 Item. Adam Eiehelberger is indebted to my estate fourteen hundred and eighty-eight dollars and twenty-five cents.\n\u201c 14 Item. Jacob Eiehelberger is indebted to my estate six hundred and forty-one dollars and twenty-seven cents.\n\u201c15 Item. My daughter, Jane, married to John Radabaugh, is indebted to my estate thirty-six hundred dollars.\n\u201c 16 Item. Mary Ann, married to John Bixler, is indebted to my estate three hundred and seventy dollars.\n\u201c 17 Item. Martin Eiehelberger is indebted to my estate two hundred and eighty-four dollars and twenty-eight cents.\u201d\n\u201c 19 Item. Any one of my heirs having to pay out to the other heirs shall not be compelled to pay out more than thirty-five dollars to any one heir in any one year.\u201d\nThe testator\u2019s sons Joseph, Aciain and Jacob, owed the testator, at the time the will was written, the respective debts named therein as due from them. These debts were, however, more than six years old when the testator'died, and the statute of limitations was pleaded against them. Adam and Jacob had given the testator notes for what they owed him. Mary Ann Bixler and Martha Eiehelberger did not owe the sums named in the will as due from them, nor any part thereof, and there was no evidence of their indebtedness save the statements in the will.\nAfter an elaborate discussion of the various questions of law arising upon the facts found by him,\u2014citing and considering Fulton v. Moore, 25 Pa. 468; Stokes\u2019s Est., 61 Pa. 136 ; 1 Jar-man on Wills, *443; Zimmerman v. Zimmerman, 47 Pa. 378; Milne\u2019s App., 99 Pa.. 483; Watson v. Watson, 6 W. 254; Reed v. Marshall, 90 Pa. 345; Green v. Howell, 6 W. & S. 203; Whelen\u2019s App., 70 Pa. 410; Wright\u2019s App., 93 Pa. 83; Wright\u2019s App., 89 Pa. 67; Wigram on Wills, 58\u00b0; Grim\u2019s App., 105 Pa. 375; Mendinhall\u2019s App., 124 Pa. 387; Mussel-man\u2019s Est., 5 W. 9; Wolff\u2019s App., 123 Pa. 438; Hoak v. Hoak, 5 W. 80; Whitman\u2019s App., 2 Gr. 323; Houser v. Moore, 81 Pa. 34.6; Hengst\u2019s Est., 6 W. 86; Haverstock v. Sarbach, 1 W. & S. 390; High\u2019s App., 21 Pa. 283; Miller\u2019s App., 40 Pa. 57; Oiler v. Bonebrake, 65 Pa. 338; Merkel\u2019s App., 89 Pa. 340; Yundt\u2019s App., 13 Pa. 575; Kreider v. Boyer, 10 W. 54;\u2014the auditor reported as his conclusions of law, respecting the bequests to Jane Radabaugh and Martin Eichelberger, the following:\nAs a debt, the f8,600 cannot be deducted from Jane Radabaugh\u2019s share because (1) it was not her debt, but that of her husband; (2) it was barred by the statute of limitations; (3) it was not such as a feme covert was legally liable for; (4) it was not proven by competent evidence. \u201c The statement in the will, alone, or coupled with a claim under the will, not only does not preclude the alleged debtor from showing that the debt does not exist, but is not even prima facie evidence of the existence of such debt. Were it prima facie evidence, it has iu this case been overcome. Were it not overcome, the legal qualities of the debt are not stripped from it. As the debt of a married woman, or as barred by the statute of limitations, it could neither be collected by suit, nor set off in a distribution proceeding. Alleged to be a debt in the will, it cannot be regarded as made by it an advancement. But even if it could, it can be shown and has in this case been abundantly shown that the sum, if at all, was advanced to the daughter by advancement to her husband, and that it had been repaid.\u201d .....\u201c Martin Eichelberger takes an equitable life estate in the legacy to him, the principal of which must be retained by the executor as trustee and invested, and the interest thereof must be annually paid to Martin during his life. At his death the principal must be paid to his lineal next of kin, if he has any; if not, to those who are heirs of the testator.\u201d\nThe auditor thereupon reported a distribution in accordance with his findings of fact and conclusions of law stated, by which no charge against or deduction from the legacies to Jane Radabaugh and Martin Eichelberger was made on account of the debts stated by the will to bo due from those legatees, and the legacy in favor of Martin was awarded to the executor as trustee, for investment during Martin\u2019s life, etc.\nJoseph and Jacob Eichelberger excepted to the rulings of the auditor that Jane Radabaugh was not chargeable in the distribution with tbe sum of $3,600, as set forth in item 15 of the will, and in not charging her therewith accordingly;1 and in deciding that Martin Eichelberger was not chargeable in the distribution with the sum of $284.28, as set forth in item 17 of the will, and in not charging him therewith accordingly.3 Martin Eichelberger excepted to the conclusion of law reported by the auditor respecting the character of his legacy.**\nAfter argument, the court, in an opinion by Sadler, P. J., while modifying the distribution reported in some other respects, overruled the exceptions filed by Joseph and Jacob, and by Martin, respectively, and confirmed the distribution as so modified.\nThereupon Joseph and Jacob Eichelberger took the appeal at No. 390, assigning for error:\n1, 2. The overruling of their exceptions.1 3\nAnd Martin Eichelberger took the appeal at No. 401, specifying that the court erred:\n1. In not sustaining his exception.**\nMr. JE. W. Biddle and Mr. M. O. Herman, for Joseph and Jacob Eichelberger, appellants in No. 390:\n1. The sums mentioned in the will as debts are, under the will, charges on the respective shares of the children, and in accepting their legacies the legatees are precluded from denying the validity of the charges. In declining to sustain the position that the children were put to an election and required either to forego the legacies or concede the truth of the statements in the will, the auditor relied on Zimmerman v. Zimmerman, 47 Pa. 378. An analysis of that case will show that it was an unusual one. The determination of the court was of course upon the facts there shown, which differ materially from those of the present case, and, so far as we can discover, that decision has never since been referred to by this court.\n2. That the testator intended the sums named by him to be charges upon the respective shares of his children, is apparent from the context, which shows clearly that his scheme of equalization was to be wrought out under the terms of items 11 to 17. The fact that he did not design interest to run on these sums raises a strong presumption that he meant to change them from debts into advancements, as do the further facts that he declare * iiis children to be, indebted to his estate, not to himself, and that the notes which Adam and Jacob had given for their indebtedness were not found among the testator\u2019s papers. It was competent for him to turn debts into advancements at any time: Green v. Howell, 6 W. & S. 203. The words \u201cloaned\u201d and \u201cadvanced\u201d may be used interchangeably: Wright\u2019s App., 89 Pa. 67; and the use of the term loan, or debt, will not defeat the testator\u2019s manifest intention that the sum named shall bo treated as an advancement: Thompson\u2019s App., 42 Pa. 345. As between a loan, a gift, and an advancement, the presumption is in favor of an advancement because of its tendency to equality: Patterson\u2019s App., 128 Pa. 269.\n3. It was not competent to show that the testator was mistaken in declaring that Mrs. Radabaugh was indebted to his estate : Wharton on Ev., \u00a7 1908; O\u2019Hara on Construction of Wills, 57; Mendinhall\u2019s App., 124 Pa. 387. The doctrine of election, therefore, applies to this case, under which \u201c he who accepts a benefit under a deed or will must adopt the whole contents of the instrument, conforming to all its provisions and renouncing every right inconsistent with it: \u201d Jarman on Wills, *443.\nMr. J. Wl Wetzel (with him Mr. A. J. Herr), for the appellees in No. 390:\n1. The question of advancement depends upon the intention of the parent at the time the property is received by the child: Miller\u2019s App., 40 Pa. 57; Kirby\u2019s App., 109 Pa. 41. There is nothing in this will to show, nor is it shown otherwise, that the testator intended, at the time the money was parted with, that it should be an advancement. And the will does not make a specific charge upon the legacies. To create a charge it must appear by direct expression or plain implication that such was the testator\u2019s intention: Brandt\u2019s App., 8 W. 198; 3 Jarman on Wills, 402, note. There are in the will no inconsistent or alternative donations; no plurality of gifts with a manifest intention that one shall be a substitute for the other; and, therefore, there is nothing to put the legatees to an election : Stokes\u2019s Est., 61 Pa. 144; Zimmerman v. Zimmerman, 47 Pa. 380.\n2. The appellants concede in their argument that the $3,600 was a debt. If a debt, it could not be turned into an advancement or charge by the loose declarations of the testator, without an expression of such intention by acts or in writing: Haverstock v. Sarbach, 1 W. & S. 890; Kreider v. Boyer, 10 W. 54; Yundt\u2019s App., 13 Pa. 575; Seagrist\u2019s App., 10 Pa. 424; Whelen\u2019s App., 70 Pa. 410; High\u2019s App., 21 Pa. 283; Levering v. Rittenhouse, 4 Wh. 129; Oiler v. Bonebrake, 65 Pa. 338. The will does not contain a word indicating an intention to make such a change. The testator\u2019s words are mere naked declarations of indebtedness; disconnected, unexplained, and evidence of nothing. They are not even prima facie evidence of a debt sufficient to maintain an action: Zimmerman v. Zimmerman, 47 Pa. 378; Richards v. Richards, 46 Pa. 78. They must have their technical, legal and definite meaning, no matter what the testator\u2019s unexpressed intention was : Carroll v. Burns, 108 Pa. 886; Doebler\u2019s App., 64 Pa. 15; Phila. Trust etc. Co.\u2019s App., 93 Pa. 209.\n3. The only conclusion, then, is that the sums mentioned in the will as debts due the estate, are subject to all the legal incidents affecting the collection of debts. The extrinsic evidence received by the auditor, to show that they were not collectible as debts, was competent and admissible: Brownfield v. Brownfield, 12 Pa. 136; Watson v. Watson, 6 W. 254; Frey v. Heydt, 116 Pa. 601; Potts\u2019s App., 2 Pa. S. C. Dig. 264; Skinner\u2019s App., 1 Mona. 439; Lewis\u2019s App., 127 Pa. 127; Park\u2019s Est., 4 Pa. C. C. R. 560. It may thus be shown that an advancement has been repaid, as was done in this case: Musselman\u2019s Est., 5 W. 9; Hoak v. Hoak, 5 W. 80. If the contention of the appellants should prevail, the primary intention of the testator, viz., to give Jane and Martin an equal share with the rest, would fail, as Jane never got the $3,600, and Martin did not get' $284.28, whereas the other legatees did get the respective sums in which they were stated to be indebted.\nMr. J. W. Wetzel (with him Mr. S. P. Wolverton), for Martin Eichelberger, appellant in No. 401:\n1. The bequest to Martin is entirely of personalty, and we contend that he took an absolute estate in it. Clearly, the testator\u2019s primary intent was to bequeath the money to Martin and his heirs, and, on failure of such, to the testator\u2019s heirs. An estate of inheritance will therefore be presumed to have been intended: Dodson v. Ball, 60 Pa. 439; Yarnall\u2019s App., 70 Pa. 835. The language of the bequest imports an indefinite failure of issue: Vaughan v. Dickes, 20 Pa. 513; Reinoehl v* Shirk, 119 Pa. 108. Any form of words sufficient to show that the remainder is to go to those whom the law points out as the general or lineal heirs of the first taker, will enlarge his estate for life to an estate-tail by implication: Potts\u2019s App., 30 Pa. 170 ; Yarnall\u2019s App., 70 Pa. 335 ; Price v. Taylor, 28 Pa. 95. In this case, no words are used to show that the remaindermen are to take otherwise than as heirs of Martin, and therefore the bequest falls within the rule above stated, and Martin is entitled to the money.\n2. The trust attempted to be created is inactive, naked and useless, and will not prevent the operation of the rule laid down in Potts\u2019s App., supra; Train v. Fisher, 15 S. & R. 145; Bush\u2019s App., 33 Pa. 85. The estates for life and in remainder, being of the same quality, necessarily close together and form one estate of inheritance in Martin: Yarnall\u2019s App., 70 Pa. 335; Williams\u2019s App., 83 Pa. 391. We invoke, also, the familiar principles, that words in wills which, in relation to land would create an estate-tail, give an absolute right to chattels; that words creating a vested or absolute estate, will not, on a doubtful implication, be construed as making it contingent or defeasible ; and that prima facie the first taker is the principal object of the testator\u2019s bounty, and in doubtful cases the construction leans in favor of making the gift to him as effectual as possible: Rewalt v. Ulrich, 23 Pa. 388; Letchworth\u2019s App., 30 Pa. 175; Mickley\u2019s App., 92 Pa. 514; Fitzwater\u2019s App., 94 Pa. 141.\nMr. Jo\u2019. W. Biddle and Mr. M. O. Herman, for the appellees in No. 401:\n1. The testator clearly distinguishes between the sum bequeathed, and the interest annually to be derived from it. Therefore, the bequest does not carry to Martin an absolute estate in the principal: Bentley v. Kauffman, 86 Pa. 99. The trust is an active one, intended to preserve the contingent remainder's : Eachus\u2019s App., 91 Pa. 105; Sheets\u2019 Est., 52 Pa. 257. Such a trust will always be sustained: Kay v. Scates, 37 Pa. 37. Bequests of personal estate stand upon a foundation of testatorial intention, and language, such as that contained in the bequest made to Martin by this will, will be construed as referring to a definite failure of issue at the time of the first taker\u2019s death: Bentley v. Kauffman, 86 Pa. 99; Snyder\u2019s App., 95 Pa. 174; Hopkins v. Jones, 2 Pa. 69; Eachus\u2019s App., 91 Pa. 105.\n2. The rules of construction freely admit of the use of the words \u201cheirs of the body,\u201d or \u201cissue,\u201d either in the limited sense of children, or in the comprehensive sense of heirs of the body, the intention of the testator being the key to discover their meaning: Haldeman v. Haldernan, 40 Pa. 29; Guthrie\u2019s App., 87 Pa. 9; Taylor v. Taylor, 63 Pa. 481; Koppenhaffer\u2019s- App., 87 Pa. 196; Eachus\u2019s App., 91 Pa. 105. All mere technical rules must give way to the plainly expressed intention of the testator, if that be lawful: Beck\u2019s App., 78 Pa. 482. The bequest over on the death of Martin, and the creation of the trust, both indicate an intention to give him but a life-estate, and are inconsistent with an absolute estate in him: Sheets\u2019 App., 52 Pa. 257 ; Myers\u2019s App., 49 Pa. 111."
+  },
+  "file_name": "0160-01",
+  "first_page_order": 180,
+  "last_page_order": 192
+}

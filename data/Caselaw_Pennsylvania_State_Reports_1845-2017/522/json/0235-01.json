@@ -1,0 +1,82 @@
+{
+  "id": 1818936,
+  "name": "Edward Francis BROWNE, Petitioner, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION BUREAU OF TRAFFIC SAFETY",
+  "name_abbreviation": "Browne v. Commonwealth",
+  "decision_date": "1989-05-23",
+  "docket_number": "Petition No. 1157 E.D. Allocatur Docket 1988",
+  "first_page": "235",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "522 Pa. 235"
+    },
+    {
+      "type": "parallel",
+      "cite": "561 A.2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "521 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817472
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0242-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 562,
+    "ocr_confidence": 0.786,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06763985081755731
+    },
+    "sha256": "d6d24339dc661cae365f8de21536d04f253b4ab484a34892ed77d59b080dd859",
+    "simhash": "1:b5acaa5783bba878",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T23:49:15.809503+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward Francis BROWNE, Petitioner, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION BUREAU OF TRAFFIC SAFETY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nPetition Granted.\nAnd Now, this 23rd day of May, 1989, Petition granted and the Judgment of the Commonwealth Court of Pennsylvania at No. 494 C.D. 1988 is vacated, and this matter is remanded to the said Commonwealth Court of Pennsylvania for reconsideration in light of our decision in Commonwealth, Dept. of Trans. v. O\u2019Connell, 521 Pa. 242, 555 A.2d 873 (1989).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "561 A.2d 1\nEdward Francis BROWNE, Petitioner, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION BUREAU OF TRAFFIC SAFETY.\nSupreme Court of Pennsylvania.\nMay 23, 1989."
+  },
+  "file_name": "0235-01",
+  "first_page_order": 363,
+  "last_page_order": 364
+}

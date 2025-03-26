@@ -1,0 +1,93 @@
+{
+  "id": 1284930,
+  "name": "Commonwealth v. Minker, Appellant",
+  "name_abbreviation": "Commonwealth v. Minker",
+  "decision_date": "1959-05-28",
+  "docket_number": "Appeal, No. 350",
+  "first_page": "277",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "396 Pa. 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "152 A. 2d 428",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "396 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1284883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/396/0236-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 89,
+    "char_count": 946,
+    "ocr_confidence": 0.424,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0484358354483215
+    },
+    "sha256": "81189436d5ed51ba51f49d27377869ceaf975df66e8ff2d249dc0d9040a76f53",
+    "simhash": "1:85520f018f0eb5fe",
+    "word_count": 157
+  },
+  "last_updated": "2024-02-27T22:39:42.767283+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones and Cohen, JJ.",
+      "Mr. Justice McBride took no part in the consideration or decision of this case."
+    ],
+    "parties": [
+      "Commonwealth v. Minker, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Bell,\nThis appeal raises the same questions as were raised in Commonwealth v. Fudeman, and for the reasons set forth in that opinion, which is reported in 396 Pa. 236, 152 A. 2d 428, the Order of the Superior Court quashing the appeal is affirmed.\nMr. Justice McBride took no part in the consideration or decision of this case.",
+        "type": "majority",
+        "author": "Mr. Justice Bell,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Musmanno:\nThis appeal raises the same questions discussed in Commonwealth v. Fudeman, and, for the reasons set forth in my Dissenting Opinion in that case, I would reverse the order of the Superior Court quashing the appeal in this case.",
+        "type": "dissent",
+        "author": "Mr. Justice Musmanno:"
+      }
+    ],
+    "attorneys": [
+      "Jacob Kossman, with him Samuel R. Liever, for appellant.",
+      "Victor Wright, Deputy Attorney General, with him Thomas D. McBride, Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Minker, Appellant.\nArgued October 2, 1958.\nBefore Jones, C. J., Bell, Musmanno, Jones and Cohen, JJ.\nre-argument refused July 10, 1959.\nJacob Kossman, with him Samuel R. Liever, for appellant.\nVictor Wright, Deputy Attorney General, with him Thomas D. McBride, Attorney General, for appellee.\nMay 28, 1959:"
+  },
+  "file_name": "0277-01",
+  "first_page_order": 299,
+  "last_page_order": 300
+}

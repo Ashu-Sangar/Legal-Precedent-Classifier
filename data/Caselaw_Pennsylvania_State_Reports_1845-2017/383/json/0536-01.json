@@ -1,0 +1,87 @@
+{
+  "id": 1261980,
+  "name": "Lancaster City Annexation Case",
+  "name_abbreviation": "Lancaster City Annexation Case",
+  "decision_date": "1956-01-03",
+  "docket_number": "Appeal, No. 339",
+  "first_page": "536",
+  "last_page": "537",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "383 Pa. 536"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "98 A. 2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "374 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1241443
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/374/0543-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 93,
+    "char_count": 809,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.047515511522100325
+    },
+    "sha256": "fd606734f59d811b9088801d2b3053c25d5675dca20c62c02b8b56e2a9b6c47f",
+    "simhash": "1:200906c1a9c683b8",
+    "word_count": 134
+  },
+  "last_updated": "2024-02-27T19:05:43.789615+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stearns, Jones, Bell, Musmanno and Arnold, JJ."
+    ],
+    "parties": [
+      "Lancaster City Annexation Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Arnold,\nThese annexation proceedings have to do with the annexation of land, in which appellants claim that there was no physical contiguity of the annexed land at the time of enactment of the ordinance.\nThis appeal is dismissed on the authority of Lancaster City Annexation Case (No. 4), 374 Pa. 543, 98 A. 2d 33, in which the same question was decided adversely to the appellants.\nThe order of the court below is affirmed; costs to be paid by the appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Arnold,"
+      }
+    ],
+    "attorneys": [
+      "William B. Arnold, for appellant.",
+      "John B. Bengier, Assistant City Solicitor, with him Bernard M. Zimmerman, City Solicitor, Louis 8. Mag, W. O. Johnstone, Jr. and Brown & Zimmerman, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Lancaster City Annexation Case.\nArgued November 30, 1955.\nBefore Stearns, Jones, Bell, Musmanno and Arnold, JJ.\nWilliam B. Arnold, for appellant.\nJanuary 3, 1956:\nJohn B. Bengier, Assistant City Solicitor, with him Bernard M. Zimmerman, City Solicitor, Louis 8. Mag, W. O. Johnstone, Jr. and Brown & Zimmerman, for appellees."
+  },
+  "file_name": "0536-01",
+  "first_page_order": 588,
+  "last_page_order": 589
+}

@@ -1,0 +1,96 @@
+{
+  "id": 3016298,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Ivory PERKINS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Perkins",
+  "decision_date": "2007-03-14",
+  "docket_number": "No. 267 EAL 2004",
+  "first_page": "474",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "591 Pa. 474"
+    },
+    {
+      "type": "parallel",
+      "cite": "919 A.2d 912"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "912 A.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851813,
+        8444223
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0356-01",
+        "/a2d/912/0815-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851813
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0356-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 67,
+    "char_count": 659,
+    "ocr_confidence": 0.626,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0870241855799315
+    },
+    "sha256": "c6e2d3c4e39bf95d65466cc848789597fe4d8cd941825c84f1115640bfe4d65e",
+    "simhash": "1:45ff8c00848f1f8a",
+    "word_count": 104
+  },
+  "last_updated": "2024-02-27T23:32:40.197356+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Ivory PERKINS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of March, 2007, the Petition for Allowance of Appeal is hereby GRANTED, limited only to issue (e):\n\u201cWhether Petitioner is entitled to have his separate and consecutive sentence for criminal trespass vacated since it merged with petitioner\u2019s sentence for burglary.\u201d\nThe Order of the Superior Court is Vacated as to issue (e) only per Commonwealth v. Jones, 590 Pa. 356, 912 A.2d 815 (2006), with instructions to Remand to the trial court for further consideration consistent with Jones.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "919 A.2d 912\nCOMMONWEALTH of Pennsylvania, Respondent, v. Ivory PERKINS, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 14, 2007."
+  },
+  "file_name": "0474-02",
+  "first_page_order": 726,
+  "last_page_order": 727
+}

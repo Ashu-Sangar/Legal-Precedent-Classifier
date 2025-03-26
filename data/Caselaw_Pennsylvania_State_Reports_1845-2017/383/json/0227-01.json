@@ -1,0 +1,88 @@
+{
+  "id": 1261910,
+  "name": "Marra v. Marra, Appellant",
+  "name_abbreviation": "Marra v. Marra",
+  "decision_date": "1955-11-17",
+  "docket_number": "Appeal, No. 149",
+  "first_page": "227",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "383 Pa. 227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "113 A. 2d 320",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Pa. Superior Ct. 102",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        726404
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/178/0102-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 452,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 1.0531521401225892e-07,
+      "percentile": 0.5544614763254537
+    },
+    "sha256": "b7eb89df5f02d943f24f8374850f7491be280200940361643b891cf4aac04d71",
+    "simhash": "1:41290fcfeb2d7409",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T19:05:43.789615+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stern, C. J., Stearns, Jones, Musmanno and Arnold, JJ.",
+      "Mr. Justice Musmanno dissents."
+    ],
+    "parties": [
+      "Marra v. Marra, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPee Curiam,\nThe order is affirmed on the unanimous opinion of the Superior Court written by Judge Ross, reported at 178 Pa. Superior Ct. 102, 113 A. 2d 320.\nMr. Justice Musmanno dissents.",
+        "type": "majority",
+        "author": "Pee Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John B. Nioklas, Jr., with him McCrady & Nioklas, for appellant.",
+      "Clyde P. Bailey, with him William J. Graham, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Marra v. Marra, Appellant.\nArgued October 6, 1955.\nBefore Stern, C. J., Stearns, Jones, Musmanno and Arnold, JJ.\nNovember 17, 1955:\nJohn B. Nioklas, Jr., with him McCrady & Nioklas, for appellant.\nClyde P. Bailey, with him William J. Graham, for appellee."
+  },
+  "file_name": "0227-01",
+  "first_page_order": 279,
+  "last_page_order": 280
+}

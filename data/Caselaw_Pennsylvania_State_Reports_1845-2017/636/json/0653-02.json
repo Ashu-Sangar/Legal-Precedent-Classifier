@@ -1,0 +1,80 @@
+{
+  "id": 12281974,
+  "name": "Davis v. W.C.A.B. (PA Social Services Union)",
+  "name_abbreviation": "Davis v. W.C.A.B.",
+  "decision_date": "2016-06-08",
+  "docket_number": "38 WAL (2016)",
+  "first_page": "653",
+  "last_page": "653",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 653"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 537",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6826630
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/131/0537-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 102,
+    "ocr_confidence": 0.866,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24907108483930918
+    },
+    "sha256": "ab32598adcf92c82d2dc078121fb543b2a60d1c90c141482f0e84e0defd341cc",
+    "simhash": "1:011004595a620555",
+    "word_count": 16
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Davis v. W.C.A.B. (PA Social Services Union)"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 131 A.3d 537",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Davis v. W.C.A.B. (PA Social Services Union)\n06/08/2016\n38 WAL (2016)"
+  },
+  "file_name": "0653-02",
+  "first_page_order": 705,
+  "last_page_order": 705
+}

@@ -1,0 +1,80 @@
+{
+  "id": 12282384,
+  "name": "Com. v. Brown",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2016-07-26",
+  "docket_number": "93 EAL (2016)",
+  "first_page": "657",
+  "last_page": "657",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 657"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 1097",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6816037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/134/1097-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.771,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24909270772156986
+    },
+    "sha256": "d85f0ed9faa14f0498cd716f1a4eb2f50b26cb1ed496f325e1cddadd97894417",
+    "simhash": "1:8d76ab82a34e7acc",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Brown"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 1097",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Brown\n07/26/2016\n93 EAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0657-07",
+  "first_page_order": 709,
+  "last_page_order": 709
+}

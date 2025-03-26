@@ -1,0 +1,96 @@
+{
+  "id": 95741,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Taufeeq SADAT, Respondent",
+  "name_abbreviation": "Commonwealth v. Sadat",
+  "decision_date": "1999-12-30",
+  "docket_number": "Petition No. 435 E.D. Alloc. Dkt. 1998",
+  "first_page": "180",
+  "last_page": "180",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "560 Pa. 180"
+    },
+    {
+      "type": "parallel",
+      "cite": "743 A.2d 430"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "736 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838560,
+        11575941
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01",
+        "/a2d/736/0564-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838560
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 484,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0030746966328924967
+    },
+    "sha256": "ae8f67f9884325b8bfba9461c75cec19a6e65d289ad9a6b58fad49c8af96bf38",
+    "simhash": "1:86921aa8c19bf5be",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T17:16:51.704335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Taufeeq SADAT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of December, 1999, the Petition for Allowance of Appeal is granted. The Order of the Superi- or Court is affirmed insofar as it granted the Commonwealth\u2019s motion to quash the appeal. In all other respects, the Order of the Superior Court is vacated. See Commonwealth v. Lantzy, 558 Pa. 214, 736 A.2d 564 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "743 A.2d 430\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Taufeeq SADAT, Respondent.\nSupreme Court of Pennsylvania.\nDec. 30, 1999."
+  },
+  "file_name": "0180-01",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1165882,
+  "name": "Riebel's Estate",
+  "name_abbreviation": "Riebel's Estate",
+  "decision_date": "1936-03-23",
+  "docket_number": "Appeal, No. 459",
+  "first_page": "145",
+  "last_page": "153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "321 Pa. 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 312,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 4.263171570537205e-07,
+      "percentile": 0.9154676585391658
+    },
+    "sha256": "588c9e47acd6fcba4228fde6bd5f4c65929b480a5725c9923f77c26a0d0c9476",
+    "simhash": "1:e3138f565921371a",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T20:01:48.899731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, Maxey, Drew, Linn and Barnes, JJ."
+    ],
+    "parties": [
+      "Riebel's Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe decree is affirmed on the opinion of Judge Kun. Costs to be paid by the estate.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "George V. Strong, for appellant.",
+      "Frederick C. Thomas, Jr. and Edwin S. Ward, for appellees, were not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Riebel's Estate.\nArgued January 9, 1936.\nBefore Schaffer, Maxey, Drew, Linn and Barnes, JJ.\nGeorge V. Strong, for appellant.\nFrederick C. Thomas, Jr. and Edwin S. Ward, for appellees, were not heard.\nMarch 23, 1936:"
+  },
+  "file_name": "0145-01",
+  "first_page_order": 173,
+  "last_page_order": 181
+}

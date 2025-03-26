@@ -1,0 +1,99 @@
+{
+  "id": 1217425,
+  "name": "Oesterling Appeal",
+  "name_abbreviation": "Oesterling Appeal",
+  "decision_date": "1943-05-10",
+  "docket_number": "Appeal, No. 59",
+  "first_page": "241",
+  "last_page": "243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "347 Pa. 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "336 Pa. 469",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1195659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/336/0469-01"
+      ]
+    },
+    {
+      "cite": "323 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169626
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "p. 397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0390-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 3566,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 3.258438674968492e-07,
+      "percentile": 0.869372886218463
+    },
+    "sha256": "f163774481d09a84725b3c21a91df61e1402b698d9a66b46eff8246465202026",
+    "simhash": "1:a8cf1a5ac5997f10",
+    "word_count": 580
+  },
+  "last_updated": "2024-02-27T23:35:20.815372+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J.; Drew, Linn, Stern, Patterson, Parker and Stearns, JJ."
+    ],
+    "parties": [
+      "Oesterling Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Patterson,\nOn May 17, 1940, while operating his automobile upon a state highway, Paul Oesterling was stopped by two Pennsylvania Motor Policemen for exceeding the maximum speed limit of fifty miles per hour prescribed by section 1002(b) of the Motor Vehicle Code. An information was filed and Oesterling paid the fine and costs. Thereafter, on September 11, 1940, he was notified by the Secretary of Revenue that his operating privilege was suspended for a period of ninety days beginning September 10, 1940, because of his violation of the speed laws. On petition of Oesterling the court below allowed an appeal from this action of the Secretary and granted a supersedeas staying the suspension until final disposition. On September 29, 1942, more than two years after the hearing, the court entered an order reversing the suspension action and this appeal by the Secretary of Revenue followed.\nThe order of the court below must be reversed. Section 616 of the Vehicle Code, under which the appeal to the court below was taken, provides that the court shall have jurisdiction, and it shall be its duty, \u201cto set the matter down for hearing\u201d and \u201cto take testimony and examine into the facts of the case\u201d for the purpose of determining \u201cwhether the petitioner is subject to suspension of operator\u2019s license . . . under the provisions of this act.\u201d Referring to the procedure on appeal, we said in Commonwealth v. Funk, 323 Pa. 390, 399: \u201cThe language of the section clearly indicates that it is the duty of the court to hear de novo the witnesses of the Commonwealth and the witnesses of the licensee, and, from the testimony taken, to determine anew whether the operator\u2019s license should be suspended.\u201d This the court below did not do. Instead it sustained the appeal on the ground, as we understand its opinion, that the legislature could not have intended to authorize suspension merely upon a showing of operation at an illegal speed, or it would have provided ior mandatory suspension in all such cases. With this we cannot agree. As said in Commonwealth v. Funk, supra, (p. 397) : \u201cSuspension of the licensee\u2019s operating privilege is authorized . . . when the Secretary finds upon sufficient evidence that the offenses enumerated have been committed . . . The Secretary of Revenue [fulfills] the statutory mandates by holding the hearing and by finding [upon sufficient evidence] that the [licensee has] violated the motor vehicle laws of this Commonwealth.\u201d See also Commonwealth v. Cronin, 336 Pa. 469.\nUnder the circumstances we will reverse the order appealed from and remand the record to the court below for appropriate findings of fact and conclusions of law and for the entry of an order sustaining or reversing the action of the Secretary of Revenue based thereon. .\nOrder reversed and record remanded to the court below for further proceedings consistent with this opinion. Costs to abide the final result.\nSection 615(b) of tbe Vehicle Code, as amended, provides: \u201cThe secretary may suspend the operator\u2019s license of any person, after a hearing before the secretary or his representative, whenever the secretary finds upon sufficient evidence ... (2) That such person has committed any violation of the motor vehicle laws of this Commonwealth.\u201d",
+        "type": "majority",
+        "author": "Mr. Justice Patterson,"
+      }
+    ],
+    "attorneys": [
+      "George TP. Keitel, Deputy Attorney General, with him J. R. Heyison and James H. Duff, Attorney General, for appellant.",
+      "George M. O\u2019Hara, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Oesterling Appeal.\nArgued March 22, 1943.\nBefore Maxey, C. J.; Drew, Linn, Stern, Patterson, Parker and Stearns, JJ.\nGeorge TP. Keitel, Deputy Attorney General, with him J. R. Heyison and James H. Duff, Attorney General, for appellant.\nGeorge M. O\u2019Hara, for appellee.\nMay 10, 1943:"
+  },
+  "file_name": "0241-01",
+  "first_page_order": 263,
+  "last_page_order": 265
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12283741,
+  "name": "Com. v. Stultz",
+  "name_abbreviation": "Com. v. Stultz",
+  "decision_date": "2015-09-30",
+  "docket_number": "428 MAL (2015)",
+  "first_page": "767",
+  "last_page": "767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 767"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "114 A.3d 865",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.887,
+    "sha256": "57c370cffcf346114c862d3f75c523e3e0566b1e51a00562ba6e6ff6d9f185b7",
+    "simhash": "1:49448190d57c5dcb",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Stultz"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 114 A.3d 865",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Stultz\n09/30/2015\n428 MAL (2015)"
+  },
+  "file_name": "0767-03",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

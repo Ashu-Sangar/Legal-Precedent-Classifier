@@ -1,0 +1,84 @@
+{
+  "id": 163737,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Christopher BAUMGARDNER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Baumgardner",
+  "decision_date": "2002-02-15",
+  "docket_number": "Appeal No. 138 MAL 2001",
+  "first_page": "324",
+  "last_page": "324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "568 Pa. 324"
+    },
+    {
+      "type": "parallel",
+      "cite": "796 A.2d 965"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "785 A.2d 983",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        404546,
+        9461125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0111-01",
+        "/a2d/785/0983-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 447,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 1.2023519253339719e-07,
+      "percentile": 0.5939935108185844
+    },
+    "sha256": "b414c37a47c1dc17cfdf9e135922d713a6c9729f1a6bceebceac3c0564aaf6e0",
+    "simhash": "1:7c3c2b0091dda9b4",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T21:34:31.301758+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Justice SAYLOR dissents."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Christopher BAUMGARDNER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\n. AND NOW, this 15th day of February, 2002, the Petition for Allowance of 'Appeal is granted. The Superior Court Order dated January 23, 2001 is reversed based on our decision in Commonwealth v. Gleason, 785 A.2d 983 (Pa.2001).\nMr. Justice SAYLOR dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "796 A.2d 965\nCOMMONWEALTH of Pennsylvania, Respondent, v. Christopher BAUMGARDNER, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 15, 2002.\nReargument Denied May 6, 2002."
+  },
+  "file_name": "0324-01",
+  "first_page_order": 596,
+  "last_page_order": 596
+}

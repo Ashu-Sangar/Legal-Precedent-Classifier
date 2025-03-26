@@ -1,0 +1,887 @@
+{
+  "id": 1126421,
+  "name": "Cryan's Estate",
+  "name_abbreviation": "Cryan's Estate",
+  "decision_date": "1930-11-24",
+  "docket_number": "Appeal, No. 133",
+  "first_page": "386",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "301 Pa. 386"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "232 Pa. 25",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/232/0025-01"
+      ]
+    },
+    {
+      "cite": "173 Pa. 181",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        875865
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/173/0181-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 457",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057898
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/87/0457-01"
+      ]
+    },
+    {
+      "cite": "254 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1025421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/254/0464-01"
+      ]
+    },
+    {
+      "cite": "236 Pa. 235",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        986800
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/236/0235-01"
+      ]
+    },
+    {
+      "cite": "280 Pa. 131",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1084490
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/280/0131-01"
+      ]
+    },
+    {
+      "cite": "291 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1107273
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/291/0129-01"
+      ]
+    },
+    {
+      "cite": "79 Pa. Superior Ct. 314",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        651709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/79/0314-01"
+      ]
+    },
+    {
+      "cite": "233 Pa. 540",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/233/0540-01"
+      ]
+    },
+    {
+      "cite": "257 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032426
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/257/0468-01"
+      ]
+    },
+    {
+      "cite": "292 Pa. 37",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1109692
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/292/0037-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092069
+      ],
+      "pin_cites": [
+        {
+          "page": "166-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0164-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 49",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066044
+      ],
+      "pin_cites": [
+        {
+          "page": "51-4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/270/0049-01"
+      ]
+    },
+    {
+      "cite": "281 Pa. 190",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1087073
+      ],
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/281/0190-01"
+      ]
+    },
+    {
+      "cite": "290 Pa. 213",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1104407
+      ],
+      "pin_cites": [
+        {
+          "page": "216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/290/0213-01"
+      ]
+    },
+    {
+      "cite": "286 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1096532
+      ],
+      "pin_cites": [
+        {
+          "page": "386-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/286/0382-01"
+      ]
+    },
+    {
+      "cite": "282 Pa. 248",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1088320
+      ],
+      "pin_cites": [
+        {
+          "page": "250, 251"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/282/0248-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 480",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066009
+      ],
+      "pin_cites": [
+        {
+          "page": "485-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/270/0480-01"
+      ]
+    },
+    {
+      "cite": "224 Pa. 199",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963105
+      ],
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/224/0199-01"
+      ]
+    },
+    {
+      "cite": "156 Pa. 197",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        844908
+      ],
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/156/0197-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 491",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "pin_cites": [
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "294 Pa. 369",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "293 Pa. 263",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0263-01"
+      ]
+    },
+    {
+      "cite": "288 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100766
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0458-01"
+      ]
+    },
+    {
+      "cite": "300 Pa. 156",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1125911
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/300/0156-01"
+      ]
+    },
+    {
+      "cite": "299 Pa. 100",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1122330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/299/0100-01"
+      ]
+    },
+    {
+      "cite": "297 Pa. 216",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1118264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/297/0216-01"
+      ]
+    },
+    {
+      "cite": "295 Pa. 530",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1115113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/295/0530-01"
+      ]
+    },
+    {
+      "cite": "294 Pa. 142",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1113433
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/294/0142-01"
+      ]
+    },
+    {
+      "cite": "291 Pa. 507",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1107255
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/291/0507-01"
+      ]
+    },
+    {
+      "cite": "290 Pa. 448",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1104461
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/290/0448-01"
+      ]
+    },
+    {
+      "cite": "288 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0196-01"
+      ]
+    },
+    {
+      "cite": "288 Pa. 43",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100781
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0043-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 11",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092041
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0011-01"
+      ]
+    },
+    {
+      "cite": "283 Pa. 33",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090577
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/283/0033-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111130
+      ],
+      "pin_cites": [
+        {
+          "page": "495-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0490-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 21",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111120
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "24"
+        },
+        {
+          "page": "24, 25, 26, 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0021-01"
+      ]
+    },
+    {
+      "cite": "289 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1103356
+      ],
+      "pin_cites": [
+        {
+          "page": "110, 122, 123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/289/0101-01"
+      ]
+    },
+    {
+      "cite": "286 Pa. 509",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1096528
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/286/0509-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 453",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "pin_cites": [
+        {
+          "page": "460, 462"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "284 Pa. 26",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092091
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0026-01"
+      ]
+    },
+    {
+      "cite": "300 Pa. 439",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1125895
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/300/0439-01"
+      ]
+    },
+    {
+      "cite": "299 Pa. 402",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1122305
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/299/0402-01"
+      ]
+    },
+    {
+      "cite": "283 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090552
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "257-8"
+        },
+        {
+          "page": "257-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/283/0255-01"
+      ]
+    },
+    {
+      "cite": "279 U. S. 438",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3907706
+      ],
+      "pin_cites": [
+        {
+          "page": "454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0438-01"
+      ]
+    },
+    {
+      "cite": "277 U. S. 274",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3903140
+      ],
+      "pin_cites": [
+        {
+          "page": "288-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/277/0274-01"
+      ]
+    },
+    {
+      "cite": "276 U. S. 71",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3902274
+      ],
+      "pin_cites": [
+        {
+          "page": "89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/276/0071-01"
+      ]
+    },
+    {
+      "cite": "273 U. S. 70",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137329
+      ],
+      "pin_cites": [
+        {
+          "page": "74-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/273/0070-01"
+      ]
+    },
+    {
+      "cite": "219 U. S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3652922
+      ],
+      "pin_cites": [
+        {
+          "page": "356-7, 361-3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/219/0346-01"
+      ]
+    },
+    {
+      "cite": "300 Pa. 116",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1125958
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "124"
+        },
+        {
+          "page": "123-5"
+        },
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/300/0116-01"
+      ]
+    },
+    {
+      "cite": "297 Pa. 502",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1118160
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "504-8"
+        },
+        {
+          "page": "507"
+        },
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/297/0502-01"
+      ]
+    },
+    {
+      "cite": "297 Pa. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1118173
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "15-17"
+        },
+        {
+          "page": "16-17"
+        },
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/297/0013-01"
+      ]
+    },
+    {
+      "cite": "294 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1113411
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "372-5"
+        },
+        {
+          "page": "372-3, 375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/294/0368-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092095
+      ],
+      "pin_cites": [
+        {
+          "page": "463-4, 467-9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0455-01"
+      ]
+    },
+    {
+      "cite": "291 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1107273
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/291/0129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1237,
+    "char_count": 30494,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 1.0904202270262142e-06,
+      "percentile": 0.9853116919171736
+    },
+    "sha256": "19491635f628355f076d2ab1a0cd796f5d87f85af19dd087f9154fae026b69e7",
+    "simhash": "1:298510ddf41a99f3",
+    "word_count": 5133
+  },
+  "last_updated": "2024-02-27T21:43:26.565736+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ."
+    ],
+    "parties": [
+      "Cryan\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Moschzisker,\nMinnie C. Wineman petitioned the Orphans\u2019 Court of Somerset County for a declaratory judgment to determine the \u201cright, status and legal relations\u201d of all parties who might have an interest in certain real estate, which she had \u201cin charge\u201d as surviving executrix of the estate of S. Anice Cryan, deceased, and had been \u201ccaring for and renting\u201d since the latter\u2019s death. In rendering the judgment prayed for, the court below so construed the will of decedent that the petitioner, one other of the devisees named in that document, and the heirs at law of a deceased devisee, were declared to be owners in fee of the premises in controversy, as tenants in common. The petitioner, hereinafter called plaintiff, being dissatisfied with the judgment, has appealed.\nTwo principal questions are presented for our consideration. The first concerns the jurisdiction of the court below to render a declaratory judgment under the circumstances of this case. All parties joined in asking for such a judgment, but the question of jurisdiction was raised by this court when the present appeal came on for argument. The second question goes to the correctness of the construction placed by the court below on the will now before us.\nThe Declaratory Judgments Act of June 18, 1923, P. L. 840-41, section 1, provides \u201cThat courts of record, within their respective jurisdictions, shall have power to declare rights, status, and other legal relations, whether or not further relief is or could be claimed\u201d; further, that \u201cNo action or proceeding shall be open to objection on the ground that a declaratory judgment or decree is prayed for\u201d; also, that judicial declarations made thereunder \u201cshall have the force and effect of a final judgment or decree.\u201d Section 2 provides that \u201cAny person interested under a......will......may have determined any question of construction or validity arising under the instrument......and obtain a declaration of rights, status, or [and] other legal relations thereunder.\u201d Section 4 provides that, \u201cAny person interested, as or through an executor......or other fiduciary...... devisee, legatee, heir, next of kin, or cestui que trust, in the administration of a trust, or of the estate of a decedent,......may have a declaration of rights or legal relations in respect thereto \u2014 (a) To ascertain any class of......devisees, legatees, heirs, next of kin,......; or (b) To direct the executors, administrators or trustees to do or abstain from doing any particular act in their fiduciary capacity; or (c) To determine any question arising in the administration of the estate or trust, including questions of construction of wills and other writings.\u201d\nSection 5 provides that the foregoing enumerations are not to \u201climit or restrict\u201d the right to render a declaratory judgment in any case where \u201ca judgment or decree will terminate the controversy or remove an uncertainty.\u201d Section 6 provides that \u201cThe court may refuse to render or enter a declaratory judgment or decree where [it]......Avould not terminate the uncertainty or controversy giving rise to the proceeding.\u201d\nWe early decided that, under declaratory judgment statutes, (1) relief could be had only in cases where an actual controversy existed or Avas imminent, and that, (2) even there, it could not properly be given where another established remedy was available. Had this first point not been so ruled, the Act of 1923 must have been held unconstitutional, as a legislative effort to turn the courts from tribunals organized to determine controversies judicially into those for the giving of legal advice, a function not contemplated by our organic law: Kariher\u2019s Petition (No. 1), 284 Pa. 455, 463-4, 467-9; Ladner v. Seigel, 294 Pa. 368, 372-5; Reese v. Adamson, 297 Pa. 13, 15-17; Pittsburgh\u2019s Consolidated City Charter, 297 Pa. 502, 504-8; Sterrett\u2019s Est., 300 Pa. 116, 124. Showing the extreme view taken by some jurisdictions on the point in hand, all indications to date from the federal courts are that they cannot conceive of declaratory judgments as other than merely advisory judgments and therefore unconstitutional: Muskrat v. U. S., 219 U. S. 346, 356-7, 361-3; Liberty Warehouse Co. v. Grannis, 273 U. S. 70, 74-6; Liberty Warehouse Co. v. Burley, etc., Assn., 276 U. S. 71, 89; Willing v. Chicago Aud. Assn., 277 U. S. 274, 288-90; Ex parte Bakelite Corp., 279 U. S. 438, 454, and cases in note 14. As to the second point of construction, any interpretation other than that which we placed on the statute would have meant the practical abolition of all set forms of actions at law and equitable proceedings, a result in no wise intended by the legislature. The provision in section 1 of the statute, that the courts shall have the right to act thereunder \u201cwhether or not further relief is or could be claimed,\u201d does not mean that proceedings by declaratory judgment are available whenever any controversy exists, but rather that such relief may be had even though, for full relief, other and additional legal remedies must be resorted to after the issues in the declaratory judgment proceedings have been determined. The act as a whole shows this to be its meaning.\nThe right to construe wills and otherwise assist in the administration of estates by declaratory judgments has been repeatedly exercised by the courts. List\u2019s Estate, 283 Pa. 255, 257-8, was an early instance where the court below, and we on appeal, construed a will in such a proceeding. We there said that relief by declaratory judgment was \u201cprovided for the purpose of having issues speedily determined, which otherwise would be delayed [with] possible injury to those interested, if......compelled to await the ordinary course of judicial proceedings.\u201d While a declaratory judgment was sustained in that case, our court stated that this character of relief Avas not available \u201cin cases clearly aside from its obvious purpose\u201d; a warning often since reiterated in one form or another. See the following cases: Ladner v. Siegel, 294 Pa. 368, 372-3, 375; Reese v. Adamson, 297 Pa. 13, 16-17; Pittsburgh\u2019s Consolidated City Charter, 297 Pa. 502, 507; Taylor v. Haverford Twp., 299 Pa. 402, 406; Williamsport v. Williamsport Water Co., 300 Pa. 439, 448.\nIn B\u2019Nai B\u2019Rith Orphanage v. Roberts, 284 Pa. 26, a will was construed, but the facts giving rise to the application of the Declaratory Judgments Act as a remedy do not appear\".\nKariher\u2019s Petition (No. 1), 284 Pa. 453, 460, 462, is a case where this court passed upon the general constitutionality of the act now under discussion and laid down several rules as to its application. There three persons, claiming to be the owners of certain mineral property, negotiated a lease, and the proposed lessees questioned the title of one lessor. The controversy required construction of a will, and we held that relief by declaratory judgment was available.\nIn Dommell\u2019s Estate, 286 Pa. 509, the court beloxv construed a will in a declaratory judgment proceeding, and we affirmed Per Curiam, without stating the nature of the controversy or the facts which gave rise to it.\nIn Brown\u2019s Estate, 289 Pa. 101, 110, 122, 123, the court below, in a declaratory judgment proceeding, held invalid certain provisions in a decedent\u2019s will, \u201cas transgressing the rule against perpetuities.\u201d We reversed in part, holding that some of the points determined were not ripe for decision and that others were neither a matter of controversy nor likely to become such, and \u201ctherefore, under the rules applicable to declaratory judgments,\u201d would not be decided in that proceeding; but we entered judgment on the points properly involved. There again, the facts underlying the controverted points are not stated in the report.\nSmith\u2019s Estate, 291 Pa. 129, involved the construction of a will. Appellants, claiming property as devisees, had contracted to sell it, and a question of law arose between them and the vendee as to whether the vendors possessed a fee simple estate. This controversy gave rise to the declaratory judgment, but its propriety as a remedy was neither raised nor discussed.\nKidd\u2019s Estate, 293 Pa. 21, 24, was a declaratory judgment proceeding entertained by the courts, where we said: \u201cThe controversy resolves itself into one [for] the proper construction of the will of Andrew Kidd.\u201d\nAll of the above seven cases involved the interpretation of wills, and in each of them relief was afforded by declaratory judgment; but in the following two cases, also relating to wills, we held that, for reasons there given; such a remedy was not available.\nIn Lyman v. Lyman, 293 Pa. 490, 495-6, after some discussion concerning the hearing judge\u2019s construction of a will, we said: \u201cIt is unnecessary to pursue this subject further,......since, on the record before us, neither the court below nor we are in a position to decide the point sought to be presented for adjudication...... This case is not ripe for a declaratory judgment; first, because, so far as the record shows, there is no controversy pending or threatened; next, if the contention that plaintiff\u2019s heirs have an interest as purchasers is to be adjudicated, then it is necessary that a trustee or guardian ad litem be raised for his unborn children, who, in case of his death, might be his heirs.\u201d\nIn Sterrett\u2019s Estate, 300 Pa. 116, 123-5, we reversed, and remitted the record with directions to dismiss the petition for a declaratory judgment, because neither an actual controversy nor one which was inevitable and imminent was shown. We there said: \u201c[The record] shows no controversy whatever, only a desire by the petitioner to be instructed on the law,\u201d and added that \u201cthis state of affairs does not permit a declaratory judgment.\u201d As an additional ground of reversal we stated that, \u201cFrom the Kariher Case down......, this court has uniformly ruled that relief will not be granted [by way of a declaratory judgment] where another established remedy is available\u201d; further, that all questions brought up for determination in the declaratory judgment proceeding could have been decided by the orphans\u2019 court upon adjudication of the trustees\u2019 account; that, in point of fact, certain of them had been decided by that tribunal in disposing of one account, and the other questions could be decided on the adjudication of the final account.\nCases involving questions other than the construction of wills, where declaratory judgments were allowed, are as follows: Aaron v. Woodcock, 283 Pa. 33; Devlin\u2019s Trust Est., 284 Pa. 11; Cupp Grocery Co. v. Johnstown, 288 Pa. 43; Sloan v. Longcope, 288 Pa. 196; Garvin & Co. v. Lancaster Co., 290 Pa. 448; Girard Trust Co. v. Tremblay Motor Co., 291 Pa. 507; Evans v. Baldrige, 294 Pa. 142; Brown v. Levin, 295 Pa. 530; Malley v. Amer. Indem. Co., 297 Pa. 216; Schnee v. Elston, 299 Pa. 100; Taylor v. Haverford Twp., 299 Pa. 402; Reap v. Wyoming Valley Trust Co., 300 Pa. 156. In the following cases, involving questions other than the construction of wills, declaratory judgments were refused: Dempsey\u2019s Est., 288 Pa. 458; Leafgreen v. La Bar, 293 Pa. 263; Ladner v. Siegel, 294 Pa. 369; Reese v. Adamson, 297 Pa. 13; Pittsburgh\u2019s Consolidated City Charter, 297 Pa. 502; Williamsport v. Williamsport Water Co., 300 Pa. 439.\nIn Kariher\u2019s Petition (No. 1), supra, 471, we said: \u201cJurisdiction [by declaratory judgment] will never be assumed unless the tribunal appealed to is satisfied that an actual controversy or the ripening seeds of one exist [the italics are ours].\u201d The expression \u201cripening seeds\u201d is repeated in Lyman v. Lyman, 293 Pa. 491, 495; Reese v. Adamson, 297 Pa. 13, 15; Pittsburgh\u2019s Consolidated City Charter, 297 Pa. 502, 506; Sterrett\u2019s Est., 300 Pa. 116, 123. In the Pittsburgh Charter Case we explained that \u201cripening seeds\u201d meant a state of facts indicating \u201cimminent\u201d and \u201cinevitable\u201d litigation. See also Sterrett\u2019s Estate, supra, 123-4. If difference between the parties concerned, as to their legal rights, have reached the stage of antagonistic claims, which are being actively pressed on one side and opposed on the other, an actual controversy appears; where, however, the claims of the several parties in interest, while not having reached that active stage, are nevertheless present, and indicative of threatened litigation in the immediate future, which seems unavoidable, the ripening seeds of a controversy appear.\nThe averments before us in this proceeding show that, though plaintiff conceives she is entitled to take the real estate involved either as owner of the entire fee (on the theory that an intestacy occurred when these properties were not sold at the expiration of the five or six years mentioned in the will of testatrix), or to share the fee with Mary E. Hall, the only surviving sister of the deceased testatrix (on the theory that all the persons originally named as devisees or beneficiaries in connection with the properties here in question having died, except appellant and Mrs. Hall, they are the only two who have any rights in the premises), yet she has never assumed possession under such a claim; that, since the death of the testatrix, in 1913, to the present time, appellant has taken charge of and collected the rent from the premises in her capacity as surviving executrix. The averments further show that Ella C. Wagner and Annie C. Turner, the children of testatrix\u2019s deceased sister, Martha Jane Creswell, claim a vested interest, which neither plaintiff nor Mary E. Hall are willing to concede.\nThese additional facts also appear: Under authority of the orphans\u2019 court, the property here involved was mortgaged for $1,300, to meet debts of the testatrix, $300 of which mortgage has been paid off, in the course of appellant\u2019s administration of decedent\u2019s estate, and the balance is presently due and payable; the premises are now in need of extensive repairs, which will cost a considerable sum; when plaintiff attempted to borrow, in order to make these repairs, the trust company to which she applied for the loan expressed an unwillingness to advance money for that purpose until it was judicially determined who were the real owners of the property.\nAppellant suggests, and the other parties concede, that, \u201cif [she held or claimed to hold] possession [in her own right], a rule to bring ejectment [might] be in order, but [that] she is only in possession as executrix\u201d; that \u201cpartition might be resorted to, but this would result in a sale of the property, for it cannot be divided [and no one in interest desires to sell or purchase it at this time, hence], under present conditions, [partition] would mean a sacrifice of the property\u201d; that, \u201cif [there was] a surplus for distribution, the questions involved might be satisfactorily determined after the filing of an account by the executrix and a schedule of distribution passed upon by the court, [but] there is no money for distribution, and the rents are needed to take care of the encumbrance.\u201d Finally, both sides argue that the above state of facts sufficiently shows that an actual controversy is imminent and inevitable, or that one actually exists (as found by the hearing judge) which properly can be adjudicated by a declaratory judgment. In this we agree; the pleadings show antagonistic claims between parties entitled to property which, concededly, is being administered by appellant as the personal representative of a decedent, and this controversy points to inevitable litigation, which is imminent, and may prove injurious to those interested unless the issues are speedily determined. The executrix, having applied to the orphans\u2019 court for guidance in the premises, and all parties in interest having asked for settlement of their rights and status relating to the property in controversy, that tribunal, under the circumstances here presented, was vested with power to declare such rights and status, and, incidentally, to construe decedent\u2019s will.\nAs stated earlier in this opinion, in List\u2019s Estate, 283 Pa. 255, 257-8, we said that, where an actual controversy existed or litigation between those in interest was inevitable and imminent, one of the purposes of the Declaratory Judgments Act was to enable parties so situated to have \u201cissues speedily determined which otherwise would be delayed, to the possible injury of those interested [in them], if they were compelled to await the ordinary course of judicial proceedings.\u201d In Girard Trust Co. v. Tremblay M. Co., 291 Pa. 507, 525, we said that a prime purpose of the Declaratory Judgments Act was to \u201crender practical help\u201d in ending controversies, meaning those which had not reached the stage where other legal relief was immediately available, or those where, under the attending circumstances, old forms of action would not immediately afford the relief required; and we pointed out that the parties concerned in that case might have had their respective rights determined by declaratory judgment prior to the actual controversy there presented. Such a remedy is peculiarly appropriate to the orphans\u2019 court, vested as it is with supervisory powers over the administration of decedents\u2019 estates ; the court below did not err in granting that form of relief in the present case.\nThe Fiduciaries Act of June 7, 1917, P. L. 447, 476, provides, by section 14, that \u201cRents of real estate accruing after the death of the owner......shall be assets for the payment of. debts of such decedent whenever the personal estate shall be insufficient therefor,\u201d and that the orphans\u2019 court having charge of any particular estate may authorize the personal representative to collect such rents for such a time as might be necessary. Paragraph (c) of section 28 provides (pages 497-8) : \u201cAll powers, authorities and directions relating to real estate, contained in any last will and not given to any person by name or by description, shall be deemed to have been given to the executors thereof; but no such power, authority, or direction shall be exercised or carried into effect......except under the control and direction of the orphans\u2019 court.\u201d Both of these provisions are applicable to the facts here, involved, and in many instances, including the present case, the second of them can well be carried into effect by way of declaratory judgments.\nReturning to the facts at bar, for purposes of construing decedent\u2019s will and passing on the correctness of the declaratory judgment entered by the court below, S. Anice Cryan, the testatrix, died August 30, 1913, leaving to survive her as heirs, Minnie C. Wineman (plaintiff below and appellant here), a lawfully adopted daughter; also C. Gertrude Mays, a sister, who died April 8, 1914, unmarried and without issue; Ella A. Beck, a sister, who died June 25, 1925, a widow, without issue; Martha Jane Creswell, a sister, who died January 12, 1929, a widow, leaving two children, Ella C. Wagner and Annie C. Turner (respondents below and appellees here) ; John V. Mays, a brother, who died May 29, 1929, unmarried and without issue; and Mary E. Hall, a sister, who is still living.\nTestatrix gave a house in Philadelphia and some personal articles to appellant; she gave also some small monetary bequests to her sisters and certain nephews and nieces. Then she provided for the properties here in controversy as follows: \u201cI do not want my houses in Windber sold under five or six years and not then if my hears [heirs] want to keep them after all bills of repair on houses are paid, should my daughter Minnie want to finish paying for the Philadelphia home each month she is to take twenty dollars of the profits and I should say rent to help her to pay for the house she wants for her future home. Should she not do this but dispose of the Phila. [home] of which I place no restrictions she will only have her portion with the rest of the hears [heirs]. I want my houses kept up as I have always kept them. After the expenses are taken out of the rent not including Minnie\u2019s twenty dollars a month I want ten dollars a year paid to my sister Mrs. Ella Beck to keep up the cemetery plot and flowers. Should Mrs. Beck not be able to attend to this then sister Gertrude. Should my Windber houses be sold in the time stated then I want enough money deposited in the bank to make this good for twenty years which would be $200. The rent of my houses making allowance for taxes and water and repairs first, the balance to be divided between Minnie, sister Ellie, Gertrude, Bro. John and Sister Elizabeth and Sister Martha equal shares. And should the properties be sold in five years, thes [these] I have named last should they be living namely Minnie E. Naylor, Ella A. Beck, C. Gertrude Mays, Mary E. Hall, Martha Jane Creswell, get equal shares and brother John $50, fifty dollars.\u201d Testatrix appointed the present appellant, and one other person (since deceased) executors of her will, without specifically vesting them, or either of them, with power of sale over real estate or other special powers.\nDecedent, who evidently drew her own will, failed to make her meaning as clear as might be; but, in the words of the orphans\u2019 court, it is plain that she \u201cdid not intend to die intestate as to her Windber properties,\u201d for, at the beginning of the will, she states an intention to dispose of such estates as it had pleased God to entrust to her, thus plainly indicating a purpose to dispose of her whole estate. Her first provision as to these properties, \u201cI do not want my houses in Windber sold under five or six years and not then if my [heirs] want to keep them,\u201d denotes a gift; for \u201ckeep\u201d means to \u201cretain\u201d (Webster\u2019s Collegiate Dictionary), and one can retain only that which he already has, or possesses, and he cannot have or possess something belonging to another until the latter transfers it to him. The provision just quoted, standing alone, can be read only as giving the heirs the right to keep the houses in fee; in other words, the provision creates a fee. In this connection, see section 9, Act of April 8, 1833, P. L. (1832-3) 249-50, to the effect that \u201cAll devises of real estate shall pass the whole estate of the testator in the premises devised, although there be no words of inheritance or of perpetuity, unless it appear by a devise over, or by words of limitation, or otherwise, in the will, that the testator intended to devise a less estate.\u201d (See also same language in Wills Act of June 7, 1917, P. L. 403, 407, section 12.)\nTestatrix\u2019s suggestion that the properties should not be sold within five or six years from her death is in no sense a positive direction not to sell them in that period; this is made plain by the fact that, later on in the testamentary directions as to the Windber houses, provision is made for the event of a possible sale within five years, \u2014though there is no mandatory direction to sell at any time. In short, the provisions which relate to a possible sale have no effect on the fee given to the heirs; and the inquiry as to those testatrix meant to be her heirs is answered by the provisions following the devise of the fee, where the names of those she intended to take the Windber houses are enumerated.\nWhile our conclusion is reached by a somewhat different course, yet we agree with the court below that, reading as a whole the parts of the will which deal with the properties here involved, the intention is shown that those persons testatrix names as her heirs should take the Windber houses as tenants in common, share and share alike. Among other provisions, the one giving her adopted daughter (appellant) the right to reserve $20 a month from the rents of these houses, should she desire to pay off a debt on what the testatrix calls her Philadelphia home, or, should the daughter not do this, but dispose of the Philadelphia home, she was \u201conly [to] have her portion [of the Windber properties] with the rest of the [heirs],\u201d evidences an intention on the part of testatrix that, aside from the right of her adopted daughter to enjoy temporarily this special allowance from the rents of the Windber properties, and subject to other charges placed on such premises, the persons mentioned as heirs were to take the properties in common, share and share alike.\nThe last provision, in the part of the will we are now considering, concerning the division of such fund as might be realized from a sale of the Windber properties \u201cin five years\u201d (not after five or six years, the period first mentioned for a sale), which states that one of the heirs, namely, the brother, John, was to have only $50 if the houses were sold within that time, is no sufficient evidence that, in the event of the properties being retained; as they have been, testatrix intended the estate already devised to John, along with the other heirs, to be diminished. The provision under consideration cannot be given the effect of in any degree overriding the original gift of the fe\u00e9; to diminish a fee once given requires language which plainly and unqualifiedly shows such to be the set purpose of testator: Coles v. Ayres, 156 Pa. 197, 200; Cassidy\u2019s Est., 224 Pa. 199, 203; Long\u2019s Est., 270 Pa. 480, 485-6; Smith v. Bloomington Coal Co., 282 Pa. 248, 250, 251; Conner\u2019s Est., 286 Pa. 382, 386-7; Cross v. Miller, 290 Pa. 213, 216; Kidd\u2019s Est., 293 Pa. 21, 24, 25, 26, 27. See also Freeman\u2019s Est., 281 Pa. 190, 195. Some sixteen years have passed since the death of testatrix, and the properties in question are still unsold; so it may be assumed that the devisees \u201cwanted to keep them,\u201d and what would have happened had they been sold within the specified five years need not be further considered. But, in this connection, it may be noted that testatrix, though not so directing, indicates a wish to have the Windber houses retained in her estate till \u201call bills for repairs to them, owed by her, should be paid, and long enough to permit appellant to pay for the Philadelphia home at the rate of $20 per month, from the rents of these Windber houses, if her adopted daughter elected to follow that course. Testatrix apparently thought it would take at least five years after her death to accomplish these results; so, probably to discourage her brother John (the only male devisee) from attempting to force a sale within that period, after giving him a fee, along with the other devisees, she attempted to cut his share to $50, not in any and all events, but only in case the property devised was sold within five years. Whatever was her intention in that regard, it appears as a subordinate one, ill-expressed, which, as before said, cannot override or diminish the fee previously created: Pattin v. Scott, 270 Pa. 49, 51-4.\nWe agree with the court below that, \u201cUpon the death [in 1914] of C. Gertrude Mays, a sister [of testatrix], unmarried and without issue, her undivided......share ......in said real estate descended to her [three] surviving sisters and brother, and [the] adopted child of S. Anice Cryan\u201d; that, \u201cUpon the de\u00e1th [in 1925] of Ella A. Beck [sister of testatrix], a widow without issue, her undivided......share......descended to her [two] surviving sisters and brother and to Minnie C. Wineman, the adopted child of......S. Anice Cryan\u201d; that, \u201cUpon the death [in January, 1929] of Martha Jane Creswell [sister of testatrix], a widow, leaving to survive her two children, namely, Ella C. Wagner and Annie C. Turner, the respondents, her undivided...... share......descended to her said two children in equal shares\u201d; that, \u201cUpon the death [in May, 1929] of John Mays [brother of testatrix], unmarried and without issue, his undivided......share......descended to his sister, Mary Hall, to Minnie C. Wineman, the adopted daughter of S. Anice Cryan, and to Ella C. Wagner and Annie C. Turner, the children and heirs of Martha Jane Creswell, deceased.\u201d\nIt remains to say only that the original devisees enjoyed vested estates in the real property here involved; several of them (as hereinbefore recited) died intestate, after the testatrix, and, under section 16 (b) of the Intestate Act of June 7, 1917, P. L. 429, 439, appellant,\u2014 being an adopted child of the original decedent, and, because of this position, viewed in law as a niece of those devisees who died without issue (see Russell\u2019s Estate, 284 Pa. 164, 166-8), \u2014 inherited a portion of their respective shares. These facts and the statute last cited must be taken into consideration to understand the correctness of the judgment entered in this case.\nThe judgment of the court below, so far as it determines the interest of the present owners of the property in controversy to be \u201cMinnie C. Wineman, one-third, Mary E. Hall, one-third, Annie Creswell Turner, one-sixth, and Ella Creswell Turner, one-sixth,\u201d and that they hold in fee as tenants in common, is affirmed, costs to be divided pro rata according to the shares just stated.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Moschzisker,"
+      }
+    ],
+    "attorneys": [
+      "Archibald M. Matthews, for appellant.",
+      "Chas. H. Ealy, of Uhl & Ealy, with him John A. Hartman, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Cryan\u2019s Estate.\nArgued September 29, 1930.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ.\nArchibald M. Matthews, for appellant.\nThe intent of testatrix was that only the survivors among the named beneficiaries should share in the proceeds of her real estate : French\u2019s Est., 292 Pa. 37; Potter\u2019s Est., 257 Pa. 468; Hyde v. Rainey, 233 Pa. 540.\nChas. H. Ealy, of Uhl & Ealy, with him John A. Hartman, for appellees.\nAll rules for the construction of wills are subject to the one that the ascertainment of the will of testator should be of first consideration: Patton\u2019s Est., 79 Pa. Superior Ct. 314. Where testator\u2019s own language is used it should be given the meaning intended as gathered from the whole writing rather than a fixed technical meaning: Smith\u2019s Petition, 291 Pa. 129; and rules of grammar may not control if they conflict with such intention: Moyer\u2019s Est., 280 Pa. 131.\nIt is also said that a will must be construed so as to preclude partial intestacy, unless such construction is unavoidable: Lefebvre v. D\u2019Arcy, 236 Pa. 235; and an estate will be held as absolute or vested rather than as defeasible or contingent, if such construction be possible : Rau\u2019s Est., 254 Pa. 464.\nNovember 24, 1930:\nAs a general rule a gift of the income from property and the proceeds of a sale thereof is a gift of the corpus of the property itself: Millard\u2019s App., 87 Pa. 457; Kiefel v. Keppler, 173 Pa. 181; and the law encourages a construction of a will favorable to the unfettering of an estate rather than one which leads to a prolonged restraint on its free alienation: Mifflin\u2019s Est., 232 Pa. 25."
+  },
+  "file_name": "0386-01",
+  "first_page_order": 410,
+  "last_page_order": 427
+}

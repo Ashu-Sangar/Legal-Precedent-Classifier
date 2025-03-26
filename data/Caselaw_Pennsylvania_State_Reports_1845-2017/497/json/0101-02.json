@@ -1,0 +1,82 @@
+{
+  "id": 1775297,
+  "name": "COMMONWEALTH of Pennsylvania v. Jeffrey W. BECHTOLD, Petitioner",
+  "name_abbreviation": "Commonwealth v. Bechtold",
+  "decision_date": "1981-12-03",
+  "docket_number": "No. 190 W.D.Misc. Dkt.1981",
+  "first_page": "101",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "497 Pa. 101"
+    },
+    {
+      "type": "parallel",
+      "cite": "439 A.2d 620"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "496 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772862
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0188-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 323,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06640078243943952
+    },
+    "sha256": "e13342154c4fd28c8f8b79acee017d403dd3cfe992a101a7a94aa2bd706b913b",
+    "simhash": "1:b68fa124ad158a72",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T23:00:42.740020+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Jeffrey W. BECHTOLD, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted. The judgment of sentence is reversed and petitioner is granted a new trial, Commonwealth v. Scott, 496 Pa. 188, 436 A.2d 607 (1981).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "439 A.2d 620\nCOMMONWEALTH of Pennsylvania v. Jeffrey W. BECHTOLD, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 3, 1981."
+  },
+  "file_name": "0101-02",
+  "first_page_order": 167,
+  "last_page_order": 168
+}

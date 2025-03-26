@@ -1,0 +1,105 @@
+{
+  "id": 462734,
+  "name": "Keefer Estate",
+  "name_abbreviation": "Keefer Estate",
+  "decision_date": "1945-03-19",
+  "docket_number": "Appeal, No. 236",
+  "first_page": "343",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "351 Pa. 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "37 A. 2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "349 Pa. 417",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458200
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/349/0417-01"
+      ]
+    },
+    {
+      "cite": "25 A. 2d 803",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1213359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/345/0210-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 227,
+    "char_count": 2548,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 3.552440672580277e-07,
+      "percentile": 0.8853821207336798
+    },
+    "sha256": "99e1cae1359144974afe99f247ae97784cf7633a8c7a5bc97257ddd41b586502",
+    "simhash": "1:d474039a96b0db86",
+    "word_count": 426
+  },
+  "last_updated": "2024-02-27T19:06:58.233336+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "reargued January 11, 1945. Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ."
+    ],
+    "parties": [
+      "Keefer Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Allen M. Stearns,\nThe question is whether a case for declaratory judgment is presented.\nThe controversy concerns the construction of a will. Decedent was the executor of his wife\u2019s estate. Upon her decease he administered the estate and after filing an account made absolute distribution to himself. The husband died over three years after such distribution. Appellant, who claims under the wife\u2019s will, contends that under its terms decedent did not possess an absolute estate in the residue, but possessed only a life estate.\nIn Ray\u2019s Estate, 345 Pa. 210, 25 A. 2d 803, we decided that where a fiduciary has complied with the Fiduciaries Act of June 7, 1917, P. L. 447, 20 PS section 862, and has received no notice of claims, he may properly make distribution even without an accounting.\nIn counties not having a separate orphans\u2019 court, where a dispute arises over distribution, the court refers the audit of the account and all questions of distribution to an auditor. In counties with a separate orphans\u2019 court such matters are presented at the audit of the account.\nIn the present case the Orphans\u2019 Court of Cumberland County, not being a separate orphans\u2019 court, was in error in construing the will and decreeing distribution under the Uniform Declaratory Judgments Act of June 18, 1923, P. L. 840, 12 PS section 831, et seq., as amended. We pointed out in Gerety Estate, 349 Pa. 417, 37 A. 2d 792, that \u201cthe remedy under the Declaratory Judgments Acts is not an optional substitute for established and available remedies\u201d or \u201cwhere another statutory remedy has been specifically provided\u201d. The Orphans\u2019 Court Act of June 7, 1917, P. L. 363, 20 PS section 2082, et seq., and the Fiduciaries Act, supra, direct precisely how a decedent\u2019s estate shall be settled and distributed.\nThe appropriate place to pass upon the matters now in controversy is at the audit of the account which has already been filed, where all parties in interest will receive statutory notice and be given the opportunity to be heard. An account can only be audited and distribution decreed in a decedent\u2019s estate in the manner specifically provided by the statute.\nThe appeal is sustained; the decree reversed without prejudice and the record remitted. Each party to pay his own costs.",
+        "type": "majority",
+        "author": "Mr. Justice Allen M. Stearns,"
+      }
+    ],
+    "attorneys": [
+      "E. M. Biddle, Jr., for appellant.",
+      "Frederick J. Templeton, with him Hilton A. Russell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Keefer Estate.\nArgued November 29, 1944;\nreargued January 11, 1945. Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ.\nE. M. Biddle, Jr., for appellant.\nFrederick J. Templeton, with him Hilton A. Russell, for appellee.\nMarch 19, 1945:"
+  },
+  "file_name": "0343-01",
+  "first_page_order": 373,
+  "last_page_order": 375
+}

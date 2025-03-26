@@ -1,0 +1,80 @@
+{
+  "id": 12281634,
+  "name": "Peters v. National Interstate Ins. Co., Inc.",
+  "name_abbreviation": "Peters v. National Interstate Ins. Co.",
+  "decision_date": "2015-09-16",
+  "docket_number": "157 EAL (2015)",
+  "first_page": "750",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 750"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "108 A.3d 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6885412
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/108/0038-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 101,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2490567982921012
+    },
+    "sha256": "2b18a55c605c8b5bb74c77036e060e6a9f14b39edd1b34e016b212b8876055f1",
+    "simhash": "1:3113806e81786349",
+    "word_count": 16
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peters v. National Interstate Ins. Co., Inc."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 108 A.3d 38",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Peters v. National Interstate Ins. Co., Inc.\n09/16/2015\n157 EAL (2015)"
+  },
+  "file_name": "0750-02",
+  "first_page_order": 804,
+  "last_page_order": 804
+}

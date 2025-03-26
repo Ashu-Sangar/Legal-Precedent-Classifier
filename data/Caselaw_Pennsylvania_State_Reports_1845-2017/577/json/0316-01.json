@@ -1,0 +1,86 @@
+{
+  "id": 91724,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Walter CEO, Respondent",
+  "name_abbreviation": "Commonwealth v. Ceo",
+  "decision_date": "2004-02-24",
+  "docket_number": "Petition No. 652 EAL 2002",
+  "first_page": "316",
+  "last_page": "316",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "577 Pa. 316"
+    },
+    {
+      "type": "parallel",
+      "cite": "845 A.2d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2003 WL 22410210",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "837 A.2d 1157",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630434,
+        9303762
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0500-01",
+        "/a2d/837/1157-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 391,
+    "ocr_confidence": 0.711,
+    "sha256": "134ac2f38bedc35b7874a28feccc7d4e34ad2e04b97d37e6abdae70c45ac39d4",
+    "simhash": "1:48851be3f093bd12",
+    "word_count": 64
+  },
+  "last_updated": "2024-02-27T17:43:39.569073+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Walter CEO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of February 2004, we GRANT the Petition for Allowance of Appeal. It is further ordered that we REVERSE the Order of the Superior Court. See Commonwealth v. Robinson, 837 A.2d 1157, 2003 WL 22410210 (Pa. October 22, 2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "845 A.2d 199\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Walter CEO, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 24, 2004."
+  },
+  "file_name": "0316-01",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

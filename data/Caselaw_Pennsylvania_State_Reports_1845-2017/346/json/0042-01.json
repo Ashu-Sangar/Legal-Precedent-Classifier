@@ -1,0 +1,63 @@
+{
+  "id": 1216388,
+  "name": "Commonwealth ex rel. Orlando v. Smith, Warden",
+  "name_abbreviation": "Commonwealth ex rel. Orlando v. Smith",
+  "decision_date": "1943-01-04",
+  "docket_number": "Misc. Docket No. 8",
+  "first_page": "42",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "346 Pa. 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 608,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 1.6265687430421108e-07,
+      "percentile": 0.6881810483931688
+    },
+    "sha256": "8b908b47ad9d41836205cf6fa9d0e58258d0f2fd6a04e5d96ab89bba3736bd75",
+    "simhash": "1:bc3e32dc2c7a6515",
+    "word_count": 105
+  },
+  "last_updated": "2023-07-14T17:52:09.582688+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth ex rel. Orlando v. Smith, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis petition for a writ of habeas corpus filed by an inmate of the Eastern State P\u00e9nitentiary contains the same averments as were contained in a petition by the same person and for the same writ filed with the Superior Court and on which the following order was made on December 2, 1942: \u201cThe within petition presents no valid ground for release or discharge on habeas corpus. It is accordingly denied.\u201d\nThe relator having had his petition adjudicated in the Superior Court is not entitled to file the same petition in this court.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Orlando v. Smith, Warden.\nJanuary 4, 1943:"
+  },
+  "file_name": "0042-01",
+  "first_page_order": 64,
+  "last_page_order": 65
+}

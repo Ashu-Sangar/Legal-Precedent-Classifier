@@ -1,0 +1,70 @@
+{
+  "id": 12283817,
+  "name": "Com. v. Barry-Gibbons",
+  "name_abbreviation": "Com. v. Barry-Gibbons",
+  "decision_date": "2016-03-23",
+  "docket_number": "491 WAL (2015)",
+  "first_page": "747",
+  "last_page": "747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 747"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 79,
+    "ocr_confidence": 0.888,
+    "sha256": "d9954038268aad2d93c0ce6b68dc17b78dc83fdc656b586970b03dbc7bb43727",
+    "simhash": "1:ba82e99271ee6a91",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Barry-Gibbons"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 498",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Barry-Gibbons\n03/23/2016\n491 WAL (2015)"
+  },
+  "file_name": "0747-03",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

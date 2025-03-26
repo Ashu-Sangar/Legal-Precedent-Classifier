@@ -1,0 +1,81 @@
+{
+  "id": 1280967,
+  "name": "Kauffmann Naturalization Case",
+  "name_abbreviation": "Kauffmann Naturalization Case",
+  "decision_date": "1959-03-16",
+  "docket_number": "Appeal, No. 8",
+  "first_page": "625",
+  "last_page": "626",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "394 Pa. 625"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Pa. D. & C. 2d 788",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        8731364
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/13/0788-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 759,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 5.4394498013447783e-08,
+      "percentile": 0.342292735985766
+    },
+    "sha256": "76b831b633ed358f08bd2b7bcf0a012cddb3a8835e8067dc0cb450d7bf4117f2",
+    "simhash": "1:f0d1bcc33d90f3eb",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T21:42:42.920804+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, O. J., Bell, Musmanno, Jones, Cohen, Bok aud McBride, JJ."
+    ],
+    "parties": [
+      "Kauffmann Naturalization Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe Federal Government has appealed from a decree of naturalization entered by the Court of Common Pleas of Delaware County. Our study of the problem presented impels the conclusion that the opinion of President Judge Sweney for the court below correctly and satisfactorily disposed of the question raised by the appellant. Accordingly, the decree is affirmed on the opinion for the court below reported in 13 Pa. D. & C. 2d 788.\nOrder affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Mabel G. Turner, Assistant United States Attorney, and Harold K. Wood, United States Attorney, for appellant.",
+      "Donald W. Lehrlcinder, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Kauffmann Naturalization Case.\nMarch 16, 1959:\nSubmitted January 6, 1959.\nBefore Jones, O. J., Bell, Musmanno, Jones, Cohen, Bok aud McBride, JJ.\nMabel G. Turner, Assistant United States Attorney, and Harold K. Wood, United States Attorney, for appellant.\nDonald W. Lehrlcinder, for appellee."
+  },
+  "file_name": "0625-01",
+  "first_page_order": 657,
+  "last_page_order": 658
+}

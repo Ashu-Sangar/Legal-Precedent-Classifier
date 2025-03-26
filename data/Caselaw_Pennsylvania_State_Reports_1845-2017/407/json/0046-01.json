@@ -1,0 +1,833 @@
+{
+  "id": 1307341,
+  "name": "Axilbund, Appellant, v. McAllister",
+  "name_abbreviation": "Axilbund v. McAllister",
+  "decision_date": "1962-03-13",
+  "docket_number": "Appeal, No. 341",
+  "first_page": "46",
+  "last_page": "65",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "407 Pa. 46"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "178 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        885483
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/178/0258-01"
+      ]
+    },
+    {
+      "cite": "89 A. 556",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998910
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/242/0431-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. Superior Ct. 282",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        635474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/70/0282-01"
+      ]
+    },
+    {
+      "cite": "111 A. 2d 118",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1256056
+      ],
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/380/0305-01"
+      ]
+    },
+    {
+      "cite": "45 Pa. Superior Ct. 978",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "broker authorized to sell for $15,000; sold by owner at lower price; broker allowed percentage of actual sale price"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Pa. Superior Ct. 570",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        678578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/93/0570-01"
+      ]
+    },
+    {
+      "cite": "86 A. 695",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "239 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        995973
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/239/0180-01"
+      ]
+    },
+    {
+      "cite": "97 A. 111",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "252 Pa. 49",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021641
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/252/0049-01"
+      ]
+    },
+    {
+      "cite": "108 A. 605",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 Pa. 148",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1051882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/265/0148-01"
+      ]
+    },
+    {
+      "cite": "112 A. 444",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 Pa. 384",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/269/0384-01"
+      ]
+    },
+    {
+      "cite": "119 A. 731",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "276 Pa. 63",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1077738
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/276/0063-01"
+      ]
+    },
+    {
+      "cite": "127 A. 609",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 Pa. 189",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1088381
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/282/0189-01"
+      ]
+    },
+    {
+      "cite": "131 A. 723",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1095141
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/285/0141-01"
+      ]
+    },
+    {
+      "cite": "145 A. 912",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "296 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1116619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/296/0382-01"
+      ]
+    },
+    {
+      "cite": "24 A. 675",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        834405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/150/0391-01"
+      ]
+    },
+    {
+      "cite": "28 A. 1079",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Pa. 177",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        854142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/161/0177-01"
+      ]
+    },
+    {
+      "cite": "112 A. 530",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 Pa. 448",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063552
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/269/0448-01"
+      ]
+    },
+    {
+      "cite": "148 A. 915",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "299 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1122295
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/299/0017-01"
+      ]
+    },
+    {
+      "cite": "16 A. 2d 649",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Pa. Superior Ct. 547",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1028878
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/142/0547-01"
+      ]
+    },
+    {
+      "cite": "44 A. 2d 608",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Pa. Superior Ct. 189",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1063311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/158/0189-01"
+      ]
+    },
+    {
+      "cite": "151 A. 2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Pa. Superior Ct. 510",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        744964
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/189/0510-01"
+      ]
+    },
+    {
+      "cite": "54 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006306
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/54/0394-01"
+      ]
+    },
+    {
+      "cite": "148 A. 109",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "298 Pa. 208",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1120332
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/298/0208-01"
+      ]
+    },
+    {
+      "cite": "198 A. 36",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "329 Pa. 421",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1181428
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/329/0421-01"
+      ]
+    },
+    {
+      "cite": "158 A. 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "306 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1136871
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/306/0035-01"
+      ]
+    },
+    {
+      "cite": "90 Pa. Superior Ct. 443",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        671974
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/90/0443-01"
+      ]
+    },
+    {
+      "cite": "135 A. 736",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100832
+      ],
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0134-01"
+      ]
+    },
+    {
+      "cite": "83 A. 1016",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Pa. 232",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        984858
+      ],
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/235/0232-01"
+      ]
+    },
+    {
+      "cite": "68 A. 2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "363 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1221661
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/363/0001-01"
+      ]
+    },
+    {
+      "cite": "135 A. 735",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100827
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0180-01"
+      ]
+    },
+    {
+      "cite": "128 A.L.R. 430",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 A.L.R. 855",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 A.L.R. 1103",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 A.L.R. 2d 851",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 A. 1057",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "249 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1013696
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/249/0242-01"
+      ]
+    },
+    {
+      "cite": "68 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024563
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "43, 44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/68/0042-01"
+      ]
+    },
+    {
+      "cite": "135 A. 2d 395",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "390 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1275666
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/390/0331-01"
+      ]
+    },
+    {
+      "cite": "94 Pa. Superior Ct. 411",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        679950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/94/0411-01"
+      ]
+    },
+    {
+      "cite": "86 Pa. Superior Ct. 496",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        569659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/86/0496-01"
+      ]
+    },
+    {
+      "cite": "81 Pa. Superior Ct. 58",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        655612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/81/0058-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. Superior Ct. 98",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        8860019
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/48/0098-01"
+      ]
+    },
+    {
+      "cite": "42 A. 46",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Pa. 472",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        903557
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/189/0472-01"
+      ]
+    },
+    {
+      "cite": "138 A. 2d 149",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Pa. Superior Ct. 194",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        738565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/185/0194-01"
+      ]
+    },
+    {
+      "cite": "92 Pa. Superior Ct. 401",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        676145
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/92/0401-01"
+      ]
+    },
+    {
+      "cite": "86 A. 852",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "239 Pa. 277",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        996021
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/239/0277-01"
+      ]
+    },
+    {
+      "cite": "135 A. 734",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 Pa. 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100776
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0186-01"
+      ]
+    },
+    {
+      "cite": "35 A. 1108",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1263,
+    "char_count": 34170,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 7.468145911884072e-07,
+      "percentile": 0.9697652256946254
+    },
+    "sha256": "c82fababe7df0443b017af14337d6c46d3e83c2995b372e6d41c026556cc092b",
+    "simhash": "1:94e027b9d9ef9ae5",
+    "word_count": 5814
+  },
+  "last_updated": "2024-02-27T20:34:03.083546+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen and Alpern, JJ."
+    ],
+    "parties": [
+      "Axilbund, Appellant, v. McAllister."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Benjamin R. Jones,\nThis appeal challenges the propriety of the entry by the court below of a judgment n.o.v. in an assumpsit action instituted for the recovery of a real estate broker\u2019s commission.\nLanard & Axilbund (Axilbund) is a partnership engaged in the real estate business in Philadelphia. 917 Filbert Street Corporation (Filbert), of which D. Edward McAllister was the president and principal stockholder, was the owner of a building located at 24th and Locust Streets, Philadelphia. On September 24,1957, Filbert sold that building to one Julius Gross for $295,000.\nAxilbund then' instituted this assumpsit action against McAllister and Filbert in the Court of Common Pleas No. 7 of Philadelphia County claiming that its efforts as real estate brokers constituted the imme/diate, efficient and procuring cause of the sale of the \u00a1building to Gross by Filbert and, by reason thereof, it 'became entitled to a real estate broker\u2019s commission. After issue joined, the matter was tried before Judge Chtjdoff and a jury and the jury returned a verdict in favor of Axilbund and against Filbert in the amount of $17,644. Filbert filed motions for a new trial. and judgment n.o.v. and the court granted the motion for judgment n.o.v. From the entry of that judgment this appeal has been taken.\nIn passing upon the propriety of the entry of this judgment n.o.v. \u201cthe testimony must be read in the light most favorable to [Axilbund], all conflicts therein must be resolved in his favor, and [it] must be given the benefit of all facts and inferences from facts reasonably deducible from the evidence\u201d: Kuhns v. Bruger, 390 Pa. 331, 335, 135 A. 2d 395 and cases therein cited.\nIn such light we examine the record facts. Prior to May, 1957, Axilbund had dealt with Filbert, having on one occasion represented the seller of a property which Filbert purchased and on another occasion rented some building space for Filbert. It is undisputed that, in the early part of May, 1957, Jacob Axilbund, at Mc-Allister\u2019s invitation, met with McAllister to discuss the sale of the Filbert building and, at that meeting, Jacob Axilbund tried, without success, to secure from Filbert for Axilbund an exclusive sales agency for the building. Finally, as appears from a stipulation entered into at trial, McAllister, acting for Filbert, informed Axilbund that \u201cif they produced a purchaser for the premises for $300,000 net, the usual brokerage commission would be paid\u201d. At that meeting Jacob Axilbund told McAllister that Axilbund had a client named Julius Gross whom, he believed, could use the building and he said he would arrange to have Gross inspect the building.\nAt that time Axilbund, which two months previously had sold a property for Julius Gross, was looking for a building suitable for purchase by Gross and tc which he could move his printing establishment. Upon Jacob Axilbund\u2019s return from this meeting with Mc-Allister, he informed his partner Balsam of the availability for purchase of the Filbert building and Balsam then contacted Gross. From that time on Jacob Axilbund had only three contacts with Filbert: (1) that same day to arrange for an inspection of the building; (2) several days later to inquire whether a parking lot in the rear of the Filbert building belonged to Filbert; (3) in the latter part of September or the early part of October, after learning of the sale to Gross, Jacob Axilbund visited McAllister, stating \u201cyou sold that building to my customer and therefore I am entitled to my commission\u201d to which McAllister replied \u201cI don\u2019t know anything about that. All I know is that Mr. Gross came in to see me about this building.\u201d\nBalsam testified that, after being informed of the availability for purchase of the Filbert building, he contacted Gross by phone and arranged to meet him the next day and take him through the Filbert building. Balsam, George Axilbund and Gross the next day inspected the building; during the course of that inspection, there was a discussion whether the height of the ceiling would preclude the use of Gross\u2019 heavy printing presses and whether this difficulty could be overcome by digging into the ground, the availability of a railroad siding and the ownership of the adjoining parking lot. Balsam at that time informed Gross that the purchase price would be $315,000. Gross said he would discuss the matter with his son and son-in-law. From that time on Balsam, although he did not see Gross, called him eight or nine times on the telephone between May and October, 1957. In the early conversations Gross told Balsam that his son and son-in-law were too busy at that time to look at the property but, on or about June 1, 1957, Gross told Balsam that he was not interested in the Filbert building and wanted a one-story building or a piece of vacant land. However, even after that, Balsam continued to call Gross.\nThe parties stipulated that Julius Gross, for the Julius Gross Investment Corporation, without Axilbund\u2019s knowledge, purchased the building from Filbert, directly and without the intervention of any broker, for $295,000.\nFilbert\u2019s defense is two-fold: (1) that Axilbund did not procure the sale of the property but that the sale was induced by a direct contact between Gross and Filbert; (2) that, if there was any contract between Axilbund and Filbert (which the latter denies), the contract was a \u201cspecial contract\u201d, i.e., that Axilbund was retained by Filbert on a non-exclusive basis to sell the Filbert building for not less than $300,000 net, and, inasmuch as the building was ultimately sold for the gross price of $295,000, it is legally immaterial whether Axilbund did procure the sale because Axilbund had not performed its part of the contract.\nIn support of its defense, Filbert called several witnesses. William A. Corry, inside production man for Progressive Composition Company with which Gross\u2019 printing concern did business, testified that, in the late spring of 1957, Milton Gross, Julius Gross\u2019 son, came to see him concerning a typortional camera; while taking Milton Gross to see this camera which was on another floor of the building in which Corry worked, they passed a scale model of the Filbert building. After examining the model and questioning Corry who was familiar with the Filbert building, Milton Gross said that \u201cit would be an ideal building for their company\u201d to which Corry replied that his company had \u201cfirst choice on it\u201d. In the latter part of July or August, 1957 when Milton Gross came to see Corry in connection with another matter, the latter told him that his company was not going to take the Filbert building.\nMilton Gross, corroborating Corry\u2019s testimony as to the time and circumstances when he learned of the Filbert building and its availability for purchase, stated that, while on his way to work following his conversation with Corry, he stopped to look at the building but could not get in. At Corry\u2019s suggestion, he contacted Robert McAllister and made arrangements for his father and himself to inspect the building. After their inspection of the building, Gross and Milton Gross met with the McAllisters at their office, told them they were interested in the building and ascertained the asking price was $300,000. Two days later an agreement was made by Gross with McAllister to purchase the building for $295,000.\nJulius Gross corroborated Milton Gross\u2019 testimony as to when and how he learned of the availability for purchase of the building. He testified that he did not \u201crecollect\u201d going with Balsam and George Axilbund to inspect the property, that Balsam gave him no price for the building, that as of June 1, 1957 he did not know of the availability of the building for purchase, that Balsam did not call Mm on the telephone about this building and that he had no dealings with anybody concerning this building, except with the McAllisters. He further stated that Axilbund did nothing to persuade him to buy this building and that it was Milton Gross who interested him in its purchase.\nWhile we have recited in some detail the defense testimony, it is evident that the jury credited Axilbund\u2019s testimony rather than that of Filbert and the jury verdict resolves for us the facts arising by way of implication from that verdict.\nThe leading case on the subject of real estate brokers\u2019 commission is Keys v. Johnson, 68 Pa. 42, 43, 44, written 91 years ago by Justice (later Chief Justice) Shabswood. In Keys it was said: \u201cBrokers are persons whose business it is to bring buyer and seller together. They need have nothing to do with the negotiation of the bargain: [citing a case]. A broker becomes entitled to his commissions whenever he procures for his principal a party with whom he is satisfied, and who actually contracts for the purchase of the property at a price acceptable to the owner: [citing a case]. He must establish his employment as broker, either by previous authority, or by the acceptance of his agency and the adoption of his acts, and also must prove that his agency was the procuring cause of the sale; and when, being duly authorized to sell property at private sale, he has commenced a negotiation with a purchaser, the owner cannot, while such negotiation is pending, take it into his own hands and complete it either at or below the price first limited, and then refuse to pay the commissions: Chilton v. Butler, 1 E. D. Smith 150. \u2018If vendors were permitted,\u2019 said Woodruff, J., \u2018to employ brokers to look up purchasers, and call the attention of buyers to the property which they desired to sell, limiting them as to the terms of sale, and then while such purchasers were negotiating, take the matter into their own hands, avail themselves of the labor, services and expenses of the broker in bringing the property into market and accomplish a sale by an abatement in the price, and yet refuse to pay the broker anything, the business of a broker would not be worth pursuing, gross injustice would be done, every unfair and illiberal vendor would limit his property at a price slightly above the market, and make use of the broker to bring it into notice, and then make his own terms with the buyers who were in reality procured by the efforts of the agent\u2019.\u201d\nIn Keys, the broker was authorized to sell a farm \u201cas a whole or divided\u201d, a price being set for each part, and the owner stated that if \u201cone purchaser takes the whole the price will be $16,000\u201d; the broker secured a prospect who wanted to exchange his city property for the farm but the broker said the owner wanted money, not an exchange; the prospective purchaser negotiated directly with the owner and purchased the farm at $17,000 giving him, inter alia, the city property in exchange. This Court said that, although the price was limited, there was no evidence such price was to be exclusively cash. In the letter of authority to the broker the owner had said he would sell \u201con terms to suit the purchaser\u201d. The Court then said: \u201cIt was no more legitimately to be inferred that [the broker] was not to receive any commission if these terms were varied . . . than that such a result would follow if [the owner] came down a few hundred dollars in the price . . . On the contrary, if the broker procures a person with whom a bargain is made upon any terms* he is entitled to his commission unless there is something special in the contract of employment,* or the circumstances of the case, to preclude him.\u201d\nIn this area of the law certain principles are well established: (1) a broker cannot recover a commission, even though he brought the seller and buyer together, unless he can prove a contract of employment, express or implied, oral or written, between himself and the buyer (or seller) or an acceptance and ratification of his acts by the buyer (or seller); (2) in the absence of an exclusive agency, if the actions of a broker constitute the efficient cause of the production of a buyer (or seller), he is generally entitled to his commission even though the sale was finally concluded and completed by the seller (or buyer) himself, or another broker; (3) the mere fact that the broker has carried on negotiations with a prospective buyer (or seller) does not entitle the broker to a commission unless his efforts constituted \u201cthe efficient procuring cause of the sale\u201d; (4) where the prospective buyer (or seller) and the seller (or buyer) or the broker-agent fail to reach an agreement and there is a break in their negotiations; and, at a later date, the property is sold to (or bought by) the same prospective buyer, the original broker is not entitled to a commission: Bowney v. Bair, supra.\nThe rationale of the court below which induced the entry of judgment n.o.v. was expressed in one paragraph of its opinion: \u201c. . . the uncontradicted testimony of [Balsam], is that as of June 1, 1957, Julius Gross had expressed to him that Balsam\u2019s efforts to interest him in the property had failed; that Julius Gross would not take the property at the price of $315,000, and he refused to do so. That action clearly ended [Axilbund\u2019s] right to claim its commission under the oral agreement. Its services failed to bring about the sale at the stipulated price.\u201d With this conclusion we cannot agree. Balsam did not testify that Gross said \u201che would not take the property at the price of $315,000\u201d or that \u201che refused to do so\u201d; Balsam did testify that Gross told him he was not interested in this building but that he wanted a one-story building or a piece of vacant ground. Such testimony related to the question whether or not there had been a break in the negotiations to the extent that a later sale of the property to Gross would preclude Axilbund\u2019s claim for commissions ; under the facts on this record that question was clearly for the jury, not the court, to determine. The court failed to take into consideration the testimony that for upwards of one year Gross had been looking for a desirable location for his plant, that the Filbert building was the only building which Gross had seen which was desirable, that, under Gross\u2019s testimony, within four days after he saw the building he bought it and that, even after June 1, 1957 (the date Gross said he was not interested in this building), Balsam continued to talk over an extended period of time with Gross concerning the purchase of this building.\nIf the reasoning adopted by the court below is sound an absurd situation results. Assume that a broker takes a prospective customer to inspect a property, having notified the prospective seller of the prospective buyer\u2019s name and that an inspection would take place, and later on the prospective buyer, admittedly, tells the broker that he is not interested in the property. Under the reasoning of the court below, if the prospective buyer and the seller then deal directly and effect a sale, the broker is deprived as a matter of law of his commissions because the prospective buyer had told him he was not interested, even though the broker brought the parties together and even though the broker\u2019s actions constituted the efficient procuring cause of the sale (as has been established in this case by the verdict of the jury). No broker should be deprived of his commission as a matter of law on such basis.\nThe court below, although it did not cite it by name, obviously relied on Groskin v. Moore, 249 Pa. 242, 94 A. 1057. Groslcin is clearly inapposite. In Groslcin} the broker offered in evidence a portion of his opponent\u2019s affidavit of defense which, in substance, averred that the broker\u2019s efforts had not been the efficient procuring cause of the sale and the testimony was uneontradicted that it was another broker who was the only one who contributed to the consummation of the sale.\nThe main thrust of Filbert\u2019s argument in support of the entry of judgment n.o.v. is that there was a \u201cspecial contract\u201d between Axilbund and Filbert which was not performed by Axilbund. Filbert argues that the \u201conly employment proved by [Axilbund] . . . was that they had been retained by [Filbert], on a nonexclusive basis, to sell [Filbert\u2019s] building . . . for not less than $300,000, net of all brokerage commissions\u201d and, since \u201cthe property was ultimately sold for the gross price of $295,000, it is immaterial under the law, whether [Axilbund] were, or were not, the inducing cause of the sale.\u201d Such argument raises two questions: (1) what was the contract of employment? \u2014 a question of fact; (2) if the contract was a \u201cspecial contract\u201d limited as to price, i.e., only to sell for $300,000 net, then is a commission to Axilbund precluded, even though the jury has found (at least by implication) that Axilbund\u2019s efforts were the efficient inducing cause of the sale to Gross? \u2014 a question of law.\nThe complaint averred: \u201c. . . [Filbert] advised Mr. Jacob Axilbund . . . that he was placing on sale a building . . . located at . . . [the corner of 24th and Locust Streets, Philadelphia] .. . and that if [Axilbund] could produce a purchaser for said property, he would pay [Axilbund] a commission of five per cent of the sales price.\u201d At the outset of the trial, Axilbund\u2019s counsel offered this paragraph of the complaint and the corresponding answer into evidence. At that point \u2014 before the paragraph and answer thereto were admitted into evidence \u2014 the court said: \u201cSuppose we agree, for the record . . . that the parties agree that D. Edward Mc-Allister informed [Axilbund] that if they produced a purchaser for the premises for $300,000 net, the usual brokerage commission would be paid.\u201d To that suggestion of the court, Filbert\u2019s counsel agreed and Axilbund\u2019s counsel, by his silence, acquiesced. Jacob Axilbund testified that at his meeting with McAllister, the latter said: \u201cI am asking $315,000. You bring me a customer . . . .\u201d Balsam testified that he told Gross the sale price was $315,000. It is clear, therefore, that the terms of the oral contract of employment provided that, if Axilbund obtained a buyer for Filbert\u2019s building at a price which would net Filbert $300,000, then Axilbund would be entitled to a commission. Filbert contends that this oral contract was a \u201cspecial contract\u201d, noted in Keys, supra, which constitutes an exception to the principles usually applied in this area of the law.\nThe general rule is that \u201cif property is placed in the hands of a real-estate broker for sale at a certain price and a sale is brought about through the broker as a procuring cause, he is entitled to commissions on the sale even though the final negotiations are conducted through the owner, who in order to make a sale accepts a price less than that stipulated to the broker\u201d: 46 A.L.R. 2d 851 and cases therein cited. See also: 43 A.L.R. 1103 et seq.; 47 A.L.R. 855 et seq.; 128 A.L.R. 430 et seq. To this general rule there is an exception: \u201cIf the broker\u2019s contract of employment expressly makes the payment of commissions dependent upon the obtaining of a certain price for the property, he cannot recover, even though the owner sells at a lower price to a person to whom the broker first shows the property unless the broker is prevented from making the sale by the fault, fraud, or bad faith of the principal:\u201d 46 A.L.R. 2d 851 and cases therein cited.\nSection 447 of the Restatement (2d), Agency, recognizes this exception: \u201cAn agent whose compensation is conditional upon procuring a transaction on specified terms is not entitled to such compensation if, as a result of his efforts, a transaction is effected on different or modified terms, although the principal thereby benefits.\u201d Comment a to Section 447 states: \u201c. . . a clearly expressed condition that the principal will pay a commission only if the agent\u2019s services result in a transaction with another on specified terms is binding, and the agent is not entitled to a commission if the principal, acting in good faith ,* enters into a transaction Avith another procured by the agent, but with terms less favorable to the principal\u201d: Restatement (2d), Agency, \u00a7447. The existence of this exception was recognized by this Court in Bennett v. Crew Levick Co., 288 Pa. 180, 184, 135 A. 735: \u201cThe general rules governing real estate brokers, as to bringing the parties together, the efficient cause of the sale, when the commissions are earned, etc., are not applicable here because of the special contract.\u201d\nWhile generally our courts have recognized the existence of this exception to the general rule, it is rather difficult to reconcile some of the decisions; in some instances the \u201cspecial contract\u201d rule has been applied, in other instances such application has not been made.\nThe more sound, albeit the more strict, rule is that, if the owner of property enters into a contract (whether oral or written) of employment with a broker and such contract expressly provides that payment of a commission to the broker is contingent upon the broker obtaining a certain stated price for the property, the broker\u2019s right to a commission arises only if and when he produces a buyer ready and willing to pay the price stated in the contract. That rule prevails even though the owner effects a sale at a lesser price to a buyer produced by the broker, provided, always, that the owner is not at fault and acts in good faith and without fraud. Adherence to the terms of the contract is the rationale of the rule; if by his contract of employment the broker undertakes a special task and if he fails to perform that task, why should he be entitled to the fruits of that contract?\nIn the case at bar, the stipulation at trial and the testimony of Jacob Axilbund and Balsam have defined the terms of Axilbund\u2019s contract of employment. Under such terms, Filbert non-exclusively authorized Axilbund to sell its building for a stated price, i.e., $300,-000 net; if Axilbund produced a buyer ready and willing to pay $300,000 net, then it became entitled to a commission. There is adequate evidence on this record that Axilbund brought Gross and Filbert together but there is no evidence that Gross was ready and willing to pay snch price for the building as would net Filbert $300,000 and yield a commission to Axilbund. Therefore, Axilbund did not perform in accordance with the terms of the contract. Under such circumstances, the sale by Filbert to Gross of this building for $295,000 net would not entitle Axilbund to a commission unless Filbert had acted fraudulently or in bad faith. Whether Filbert acted fraudulently or in bad faith was never submitted to nor passed on by the jury in the court below.\nOn this record there is evidence that Gross\u2019 possible interest in the purchase of this building was first brought to Filbert\u2019s attention by Axilbund, that the inspection of the building by Axilbund and Gross was arranged through Filbert, that Gross, with Axilbund, did inspect the property, that Axilbund gave Gross the sale price of $315,000, that Axilbund made repeated efforts over an extended period of time to effect a sale at that price and that it was Axilbund who brought Gross and Filbert together. On the other hand, there is Gross\u2019 denial of any contact with Axilbund concerning this building and Gross\u2019 complete lack of any recollection of an inspection with Axilbund of this building, a building which Gross admitted so impressed him that four days after he inspected it with his son he purchased it for a price which almost approximated that which Filbert told Axilbund he wanted net for the building and yet precluded the payment of any commission to Axilbund. On this state of the record, whether Filbert acted in good faith and without fraud was a question for determination by the jury.\nThe trial court instructed the jury that the sole issue for its determination was whether Axilbund had produced and procured Gross as the purchaser of the building. That was not the sole issue. Assuming that Axilbund brought Gross and Filbert together, in the absence of any evidence that Gross was ready and willing to pay for the building a price which would net Filbert $300,000 and allow for a commission to Axilbund, Axilbund would not be entitled to a commission by reason of the sale of the building directly to Gross by Filbert unless the latter acted in bad faith or fraudulently and that issue was never submitted to the jury. In this respect the court below erred.\nOn the posture of this record, Filbert is correct in its position that the Filbert-Axilbund employment contract falls within the \u201cspecial contract\u201d rule and that Axilbund did not perform in accordance with the terms of that contract. However, to be entitled to have this judgment n.o.v. sustained under the rule which Filbert invokes the record must show a lack of any evidence from which the jury could have found Filbert to have acted in bad faith or fraudulently. In our view, the set of circumstances herein presented might well have justified the jury in finding that Filbert acted in bad faith, perhaps even fraudulently, as to Axilbund. For this reason, judgment n.o.v. should not have been entered and such entry must be reversed.\nIn the court below, Filbert moved for a new trial as well as for judgment n.o.v.; in view of the entry of judgment n.o.v. the court did not pass upon the motion for a new trial. Ordinarily, in reversing judgment n.o.v., in such a situation, we would reinstate the motion for a new trial and remand the record to the court below to dispose of that motion: Foley v. The Pittsburgh-Des Moines Co., 363 Pa. 1, 39, 68 A. 2d 517. However, since, for the reasons given, it is evident that the jury was not instructed on all the issues involved in this case, a new trial is inevitable: rather than remand the record to the court below for that purpose, we should and do direct that a new trial be had. The language of this Court in Joynes v. Pennsylvania R.R., 235 Pa. 232, 240, 83 A. 1016 is appropriate: \u201c. . . the question submitted to the jury to pass on was outside the case. . . . This [the entry of judgment n.o.v.], as we have indicated, was error, and the judgment must be reversed for this reason. Since, however, the case was not tried on the issues which were properly involved, we shall enter such judgment as will afford the parties another opportunity to have the case tried according to the law and evidence.\u201d See also: Dattola v. Burt Bros., Inc., 288 Pa. 134, 139, 135 A. 736.\nJudgment reversed and a venire facias de novo awarded.\nLanard & Axilbund is a partnership composed of Jacob Axilbund, Arthur Balsam, Lester Krawitz and George Axilbund. Suit was instituted by the partners as individuals and the partnership as an entity.\nMcAllister, sued with Filbert as a codefendant, died prior to trial. A voluntary nonsuit was taken as to him at the outset of the trial.\nAmount of commission claimed ($14,750) plus interest ($2,-894).\nIn view of the entry of judgment n.o.v., the court did not pass on Filbert\u2019s motion for a new trial,\n\u201c. . . the word \u2018net\u2019 means clear of all charges and deductions, being the opposite of \u2018gross\u2019 \u201d or clear and above any commissions: John Fink Agency v. Dougherty, 90 Pa. Superior Ct. 443, 445.\nAt the time of that sale Julius Gross told Balsam of Axilbund that he \u201cdid a real good job of selling [that building] after another agent couldn\u2019t sell it for a long time\u201d.\nNet for seller $300,000, commission for broker $15,000,\nSee: Shapira v. Union Trust Co., 306 Pa. 35, 158 A. 564, wherein this Court said: \u201cKeys v. Johnson, supra, is perhaps the leading case on the subject.\u201d\nEmphasis supplied.\nEmphasis supplied.\nClark v. Provident Trust Co., 329 Pa. 421, 198 A. 36; Zellner v. Murdock, 298 Pa. 208, 148 A. 109; Bennett v. Crew Levick Co., 288 Pa. 180, 135 A. 735; Earp v. Cummins, 54 Pa. 394; Seligson v. Young, 189 Pa. Superior Ct. 510, 151 A. 2d 792; Pratt Appeal, 158 Pa. Superior Ct. 189, 44 A. 2d 608; L. M. Hagedorn & Co. v. Goodwin & Strauss, 142 Pa. Superior Ct. 547, 16 A. 2d 649.\nKeys v. Johnson, supra; Shapira v. Union Trust Co., 306 Pa. 35, 158 A. 564; Prenzel v. Apex Hosiery Co., Inc., 299 Pa. 17, 148 A. 915; Sowney v. Bair, 269 Pa. 448, 112 A. 530; Gibson's Estate, 161 Pa. 177, 28 A. 1079; Hartley v. Anderson, 150 Pa. 391, 24 A. 675.\nShapira v. Union Trust Co., supra; Engelberg v. Browar, 296 Pa. 382, 145 A. 912; Girsh v. Rolland, 285 Pa. 141, 131 A. 723; Wilson v. Franklin, 282 Pa. 189, 127 A. 609; Bossart v. Erie Coal Mining Co., 276 Pa. 63, 119 A. 731; Aber v. Penna. Co. for Insurance on Lives, etc., 269 Pa. 384, 112 A. 444; Sowney v. Bair, supra; Mitchell v. Baldwin, 265 Pa. 148, 108 A. 605; Read v. Ely, 252 Pa. 49, 97 A. 111; Speer v. Benedum-Trees Oil Co., 239 Pa. 180, 86 A. 695; Seligson v. Young, supra; Martin v. Gelbach, 93 Pa. Superior Ct. 570; Peters v. Holmes, 45 Pa. Superior Ct. 978.\nHelmig v. Rockwell Mfg. Co., 380 Pa. 305, 311, 111 A. 2d 118; Zellner v. Murdock, supra; Engelberg v. Browar, supra; Bossart v. Erie Coal Mining Co., supra; Earp v. Cummins, supra; McDonald v. Kimmell, 70 Pa. Superior Ct. 282.\nIf there is a conflict of testimony whether there was a break in the negotiations, the resolution of that question is for the jury: Bossart v. Erie Coal Mining Co., supra; Croll v. McCullough, 242 Pa. 431, 89 A. 556; Fenn v. Dickey, 178 Pa. 258, 35 A. 1108.\nVery wisely, Filbert\u2019s brief mates no attempt to sustain the entry of judgment on this ground.\nThe opinion of the court below contains substantially verbatim, except for substitution of names, the language used by this Court in Qroskin, supra, p. 244.\nIn the corresponding paragraph of tlie answer, this averment in the complaint was denied and it was averred, inter alia, that \u201c[Filbert] did inform . . . [Axilbund] that if [Axilbund] or any other broker produced a purchaser for the said premises at a price which would yield the sum of not less than $300,000 after deduction of brokerage commissions, brokerage commissions at the customary rates would be paid on such sales price.\u201d\nIn Shapira, supra, Justice (later Chief Justice) Kephaet defined a \u201cspecial contract\u201d: \u201cWhere there are special incidents in any contract apart from securing a satisfactory person who is willing to contract at an agreeable price, such incidents have been termed \u2018special features\u2019 and the contracts \u2018special contracts\u2019. In all of these we have held that it is necessary to carry out the terms of the contract, and the cases cited stand for no more than that an agent must comply with the terms of his contract before he can recover.\u201d (p. 39)\nEmphasis supplied.\nEmphasis supplied.\nSpeer v. Benedum-Trees Oil Co., 239 Pa. 180, 86 A. 695 (broker authorized to sell oil lease interest for $1,000,000; owner sold to customer of broker for $900,000. No commission allowed); Elin v. Mark, 288 Pa. 186, 135 A. 734 (broker authorized to sell land at $225 per foot; owner sold to customer produced by broker for $150 per foot. No commission allowed); Patterson v. United Gas Improvement Co., 239 Pa. 277, 86 A. 852 (prospective buyer engaged broker to (a) search for acceptable property and (b) negotiate immediate possession and financial arrangement. Broker found property but could not negotiate immediate possession and financial arrangements to buyer\u2019s satisfaction. Through another broker buyer secured the property. No commission allowed); John Fink Agency v. Dougherty, 90 Pa. Superior Ct. 443 (broker authorized to sell 13 houses for $50,000 net cash, commission to come from sale of last house; broker sold all the houses for a top price of $50,000. Held \u201cnet\u201d meant clear of commissions, hence under contract no recovery of commission); Uram & Ernst v. Dessner, 92 Pa. Superior Ct. 401 (brokers given 30 day option to sell owner\u2019s property for $7000 net dollars; secured a buyer for $7500 who paid $200 down and then defaulted; commission denied because under the contract only the excess above $7000 belonged to broker); Curtin v. Marson, 185 Pa. Superior Ct. 194, 138 A. 2d 149 (owner agreed to pay broker commission on a sale at $22,500 net; property sold to broker\u2019s customer through another broker for $22,500 gross; no commission allowed).\nKeys v. Johnson, supra; Gibson's Estate, supra (broker authorized to sell for $16,000; owner contracted to sell to broker\u2019s customer for $17,000; commission of percentage of sale price allowed); Hipple v. Laird, 189 Pa. 472, 42 A. 46 (broker authorized to sell for $50,000, commission.of 2% of proceeds; owner contracted with broker\u2019s customer to exchange property; .broker allowed recovery of some commission); Peters v. Holmes, supra (broker authorized to sell for $15,000; sold by owner at lower price; broker allowed percentage of actual sale price); Warne v. Johnston, 48 Pa. Superior Ct. 98 (broker authorized to sell for $2400; owner sold to broker\u2019s customer for $2200; commission allowed on basis of actual sale price); Weller v. Hochman, 81 Pa. Superior Ct. 58 (asked price $27,000; owner sold to broker\u2019s customer for $26,500; commission allowed); MacDonald v. Smith, 86 Pa. Superior Ct. 496 (broker authorized to sell for $30,000 and to receive 5% commission; owner sold to broker\u2019s customer for $28,500; commission allowed); Blau v. Kettling, 94 Pa. Superior Ct. 411 (owner sold for less than price authorized to broker; commission allowed).\nWhere the evidence as to the terms of an oral contract is conflicting, it is for the jury to define its terms; otherwise, for the court.\nThe sale price was approximately one and one-half percent (1%%) less than the price given Axilbund by Filbert.\nIn its instructions, inter alia, the court said: \u201c. . . the main question that you have to decide in this ease is simply this: Were [Axilbund] the persons who, so far as [Filbert] is concerned, discovered and brought [Gross] to [Filbert] ? If they were, [Axilbund] can recover. If they were not the efficient and procuring cause of this sale, then [Axilbund] cannot recover.\u201d",
+        "type": "majority",
+        "author": "Mr. Justice Benjamin R. Jones,"
+      }
+    ],
+    "attorneys": [
+      "Allen J. Levin, with him Fobs, Bard, Kamsler, Goodis & Greenfield, for appellants.",
+      "George P. Williams, III, with him Sohnader, Harrison, Segal & Lewis, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Axilbund, Appellant, v. McAllister.\nArgued November 28, 1961.\nBefore Bell, C. J., Jones, Cohen, Eagen and Alpern, JJ.\nMarch 13, 1962:\nreargument refused May 3, 1962.\nAllen J. Levin, with him Fobs, Bard, Kamsler, Goodis & Greenfield, for appellants.\nGeorge P. Williams, III, with him Sohnader, Harrison, Segal & Lewis, for appellee."
+  },
+  "file_name": "0046-01",
+  "first_page_order": 68,
+  "last_page_order": 87
+}

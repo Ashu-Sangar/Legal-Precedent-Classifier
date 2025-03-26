@@ -1,0 +1,70 @@
+{
+  "id": 12286668,
+  "name": "Com. v. Konopki",
+  "name_abbreviation": "Com. v. Konopki",
+  "decision_date": "2015-12-16",
+  "docket_number": "395 EAL (2015)",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 785"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 454",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.882,
+    "sha256": "ba6e408095415b2dc0ab2fa76c865f36d1a9df3370b55f78cb4c8583d507113a",
+    "simhash": "1:a882289a96740151",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Konopki"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 454",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Konopki\n12/16/2015\n395 EAL (2015)"
+  },
+  "file_name": "0785-14",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

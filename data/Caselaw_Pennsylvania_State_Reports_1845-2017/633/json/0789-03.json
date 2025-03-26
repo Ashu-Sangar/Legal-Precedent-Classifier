@@ -1,0 +1,70 @@
+{
+  "id": 12287314,
+  "name": "Wishnefsky v. Evans",
+  "name_abbreviation": "Wishnefsky v. Evans",
+  "decision_date": "2015-12-07",
+  "docket_number": "634 MAL (2015)",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 789"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 446",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 77,
+    "ocr_confidence": 0.84,
+    "sha256": "1951c4aff289ccaf9787c0a4e3616a38febde895550cb0ad64256a5bd32a5248",
+    "simhash": "1:38072144405b04c1",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wishnefsky v. Evans"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 446",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wishnefsky v. Evans\n12/07/2015\n634 MAL (2015)"
+  },
+  "file_name": "0789-03",
+  "first_page_order": 843,
+  "last_page_order": 843
+}

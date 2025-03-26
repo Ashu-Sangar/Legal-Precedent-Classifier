@@ -1,0 +1,70 @@
+{
+  "id": 12281388,
+  "name": "Com. v. Pointer",
+  "name_abbreviation": "Com. v. Pointer",
+  "decision_date": "2016-07-14",
+  "docket_number": "43 WAL (2016)",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 668",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.822,
+    "sha256": "e16eb43604837677637c5bbedbcf0962a164cd6f058650d1d88dfd532d26f601",
+    "simhash": "1:f040e0be4df3e025",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Pointer"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 668",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Pointer\n07/14/2016\n43 WAL (2016)"
+  },
+  "file_name": "0648-05",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

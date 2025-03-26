@@ -1,0 +1,81 @@
+{
+  "id": 1884526,
+  "name": "Hurst Estate",
+  "name_abbreviation": "Hurst Estate",
+  "decision_date": "1963-03-19",
+  "docket_number": "Appeal, No. 174",
+  "first_page": "104",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 Pa. 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "29 Pa. D. & C. 2d 361",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1672348
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/29/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 76,
+    "char_count": 570,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34609932857089354
+    },
+    "sha256": "b9db55f1d0ff9d84cd8b735053a7cbd6f37d364932ee7cbeaccc5a77a6942999",
+    "simhash": "1:e0111a427cac10db",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T20:55:28.541542+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Hurst Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe decree of the Orphans\u2019 Court of Montgomery County is affirmed on the opinion of President Judge Taxis, Jr., reported in 29 Pa. D. & C. 2d 361. Each party to pay own costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "James J. Began, Jr., with him Robert M. Taylor, for appellant.",
+      "J. Pennington Straus, with him Victor J. Roberts, Ralph S. Snyder, William M. Barnes, and Schnader, Harrison, Segal & Lewis, and High, Schwartz, Roberts and Seidel, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Hurst Estate.\nArgued January 21, 1963.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nJames J. Began, Jr., with him Robert M. Taylor, for appellant.\nJ. Pennington Straus, with him Victor J. Roberts, Ralph S. Snyder, William M. Barnes, and Schnader, Harrison, Segal & Lewis, and High, Schwartz, Roberts and Seidel, for appellees.\nMarch 19, 1963:"
+  },
+  "file_name": "0104-01",
+  "first_page_order": 126,
+  "last_page_order": 127
+}

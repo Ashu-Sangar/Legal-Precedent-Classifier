@@ -1,0 +1,766 @@
+{
+  "id": 860303,
+  "name": "John J. Carter v. Producers & Refiners Oil Co., Ltd., et al., Appellants",
+  "name_abbreviation": "Carter v. Producers & Refiners Oil Co.",
+  "decision_date": "1894-10-22",
+  "docket_number": "Appeal, No. 82",
+  "first_page": "463",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "164 Pa. 463"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "37 La. 663",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "154 U. S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3579432
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/154/0362-01"
+      ]
+    },
+    {
+      "cite": "15 Ct., Cl. 111",
+      "category": "reporters:specialty",
+      "reporter": "Ct., Cl.",
+      "case_ids": [
+        8283672
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us-ct-cl/15/0111-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 460",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Kan. 365",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        609264
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/21/0365-01"
+      ]
+    },
+    {
+      "cite": "3 Paige Ch. 222",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2048371
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/3/0222-01"
+      ]
+    },
+    {
+      "cite": "40 Cal. 27",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "75 Pa. 296",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 Barb. 43",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "59 N. H. 85",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4470613,
+        4471430
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/59/0085-02",
+        "/nh/59/0085-01"
+      ]
+    },
+    {
+      "cite": "6 Hun, 366",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "130 Ill. 268",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        12124706
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/130/0268-01"
+      ]
+    },
+    {
+      "cite": "8 Hun, 1",
+      "category": "reporters:state",
+      "reporter": "Hun,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 R. I. 260",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        729591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ri/13/0260-01"
+      ]
+    },
+    {
+      "cite": "92 Pa. 407",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        491068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0407-01"
+      ]
+    },
+    {
+      "cite": "12 Phila. 404",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Iowa, 469",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2337125
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/58/0469-01"
+      ]
+    },
+    {
+      "cite": "27 Ark. 228",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Kan. 557",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Mo. 536",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8851940
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/27/0536-01"
+      ]
+    },
+    {
+      "cite": "4 B. Mon. 453",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4436255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/43/0453-01"
+      ]
+    },
+    {
+      "cite": "4 Phila. 252",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "121 Pa. 442",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "136 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        820007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/136/0408-01"
+      ]
+    },
+    {
+      "cite": "22 Pa. 25",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Mona. 184",
+      "category": "reporters:state",
+      "reporter": "Monag.",
+      "case_ids": [
+        258000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/monaghan/2/0184-01"
+      ]
+    },
+    {
+      "cite": "16 Atl. R. 19",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "142 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Me. 139",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Fed. R. 826",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "134 N. Y. 269",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2252948
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/134/0269-01"
+      ]
+    },
+    {
+      "cite": "9 Fed. R. 640",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3782340
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/9/0640-01"
+      ]
+    },
+    {
+      "cite": "18 N. J. Eq. 178",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        805221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/18/0178-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. 30",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 N. J. Eq. 401",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        797907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/9/0401-01"
+      ]
+    },
+    {
+      "cite": "51 Fed. R. 156",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3812415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/51/0156-01"
+      ]
+    },
+    {
+      "cite": "103 Pa. 554",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Barb. 578",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5062152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/33/0578-01"
+      ]
+    },
+    {
+      "cite": "22 Fed. R. 763",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Minn. 264",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        758291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/45/0264-01"
+      ]
+    },
+    {
+      "cite": "24 N. J. Eq. 455",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        531193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/24/0455-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 223",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478389
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0223-01"
+      ]
+    },
+    {
+      "cite": "149 Pa. 308",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        832550
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/149/0308-01"
+      ]
+    },
+    {
+      "cite": "49 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/49/0310-01"
+      ]
+    },
+    {
+      "cite": "57 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 Mass. 315",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2113099
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/111/0315-01"
+      ]
+    },
+    {
+      "cite": "12 Allen, 326",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Barb. 585",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ohio, 205",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts, 152",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844062
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0152-01"
+      ]
+    },
+    {
+      "cite": "9 Watts, 544",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0544-01"
+      ]
+    },
+    {
+      "cite": "75 Pa. 291",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1036808
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/75/0291-01"
+      ]
+    },
+    {
+      "cite": "1 Whart. 460",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 Pa. 103",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/88/0103-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S. 348",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481817
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0348-01"
+      ]
+    },
+    {
+      "cite": "46 Pa. 435",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Pa. 569",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/108/0569-01"
+      ]
+    },
+    {
+      "cite": "108 Pa. 630",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539232
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/108/0630-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 36",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842387
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0036-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 450",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3492788
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/104/0450-01"
+      ]
+    },
+    {
+      "cite": "40 N. H. 548",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        459167
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/40/0548-01"
+      ]
+    },
+    {
+      "cite": "6 Allen, 52",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2124572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/88/0052-01"
+      ]
+    },
+    {
+      "cite": "18 Howard, 341",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Phila. 251",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "121 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        561269
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/121/0437-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 217",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/37/0217-01"
+      ]
+    },
+    {
+      "cite": "30 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        415549
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/30/0042-01"
+      ]
+    },
+    {
+      "cite": "44 Pa. 535",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        484249
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/44/0535-01"
+      ]
+    },
+    {
+      "cite": "14 Phila. 10",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539263
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/108/0546-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. 29",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        422269
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/48/0029-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 894,
+    "char_count": 13415,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 1.0732317683666316e-07,
+      "percentile": 0.5602623936762336
+    },
+    "sha256": "6ff234c5a583a52097a6524b6188bea94b8c40d56d83b2ed4c93db731767bc62",
+    "simhash": "1:71dbe45a717a3681",
+    "word_count": 2386
+  },
+  "last_updated": "2024-02-27T22:27:41.564391+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Sterrett, C. J., Green, Williams, McCollum, Mitchell and Fell, JJ."
+    ],
+    "parties": [
+      "John J. Carter v. Producers & Refiners Oil Co., Ltd., et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe only subjects of complaint in this case are, granting the preliminary injunction, and afterwards continuing the same \u201c until further order of court.\u201d\nThe very able and ingenious arguments of the learned counsel for appellants on the questions presented by the record, followed by a careful consideration of those questions, have failed to convince us that there has, been, thus far, any error that calls for our intervention.\nIn the class of cases to which this belongs, we purposely abstain from any extended comment on the merits of the case, for the reason that, in its subsequent- development, as it progresses to final decree in the court below, some of the questions that may now appear to have an important bearing on the final result may be eliminated, and others may arise.\nThe decree continuing the preliminary injunction is affirmed and the appeal dismissed with costs to be paid by appellants.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Roger Sherman, J. W. Eee and Clarence Walker with him, for appellants.",
+      "A. Leo Weil and Jas. K. Reed, Pearson Ohwreh, Samuel Grrum\u00edine, Greo. F. Davenport and P. O. Knox, with them, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "John J. Carter v. Producers & Refiners Oil Co., Ltd., et al., Appellants.\nLimited partnership\u2014Sale of business\u2014Injunction\u2014Act of June 2,1874.\nA preliminary injunction will be granted to restrain the managers of a limited partnership association, organized under the act of June 2, 1874, P. L. 271, from selling the entire business and property of the association without the consent of all the shareholders, at suit of one having a mere equity in the capital.\nArgued Oct. 10, 1894.\nAppeal, No. 82, July T., 1894, by defendant, from decree of C. P. Crawford Co., May T., 1894, No. 1, granting preliminary injunction.\nBefore Sterrett, C. J., Green, Williams, McCollum, Mitchell and Fell, JJ.\nAffirmed.\nBill for injunction to restrain managers of limited partnership association from selling business and property of company.\nThe court below stated the facts as follows :\n\u201c A partnership association entitled \u2018 Producers Oil Company, Limited,\u2019 was formed on June 4, 1891, under the provisions of the act of June 2, 1874, P. L. 271, with a capital stock of $600,GOO, divided into shares of $10.00 each, of which capital complainant owns $3,000.\n\u201c The business to be conducted was stated in the articles of association to be : \u2018 The producing, storing, buying, selling, piping and transporting of petroleum, crude and refined, and the products of petroleum, and the acquisition and holding of such property, real, personal or mixed, as may be necessary for these purposes or any of them, or incidental or auxiliary thereto.\u2019 The duration of the partnership was fixed at twenty years. The company has five managers.\n\u201c The company entered into the business of buying, selling and transporting oil in Allegheny and Washington counties, and, for the purpose of promoting the business of the company, constructed a pipe line from a portion of the Allegheny and Washington county oil field to Coraopolis, on the Ohio river.\n\u201c The business of the company not proving entirely satisfactory to the management, a plan was developed in connection with refiners of oil in Venango and Crawford counties, for the construction of a pipe line from Coraopolis to Titusville, via Reno and Oil City.\n\u201c To accomplish this undertaking, and for the other purposes stated in the articles of association, another partnership association was formed on the 13th day of May, 1892, called the \u2018 Producers and Refiners Oil Company, Limited,\u2019 with a capital stock of $250,000, divided into shares of $100 each; the duration of which association was fixed at twenty years from June 4, 1892. Five managers of the association were chosen.\n\u201c Of the capital of the association last named the Producers Oil Company, Limited, contributed $170,000. Substantially all of the capital of the Producers and Refiners Oil Company, Limited, was invested in right of way, pipe lines, tanks, telegraph lines, etc., necessary for the construction and operation of the pipe line referred to, from Coraopolis to Titusville.\n\u201c After the organization of the last named association, a lease was executed to it by tbe Producers Oil Company, Limited, of tbe tanks and pipe lines of the latter company. J. W. Lee, George H. Torrey and A. D. Wood are managers in each of the associations.\n\u201c A corporation known as the United States Pipe Line Company has a system of pipe lines in operation from Oil City and Bradford to Wilkes-Barre. On Dec. 14, 1893, the board of managers of the Producers and Refiners Oil Company, Limited, at a meeting then held, adopted the following resolutions :\n\u201c \u2018 Resolved that, whereas a combination of the several independent pipe lines doing business in the Pennsylvania oil field in a single organization is highly desirable, therefore\n\u201c \u2018 Resolved, that the managers of this company will take into consideration at any time the question of uniting the several companies, in any feasible plan mutually satisfactory to all parties concerned.\u2019\n\u201cAnd, on Jan. 27, 1894, at a meeting of the board of managers of the said association, another resolution was passed, reciting that of Dec. 14, 1893, and continuing as follows: \u2018 Now, therefore, to carry out the purpose expressed in the above resolution, we hereby authorize the following proposition to be made to the United States Pipe Line Company, subject to confirmation by majority of number and right of interest of the members of the Producers and Refiners Oil Companjq Limited, viz: The Producers and Refiners Oil Company, Limited, to sell to the United States Pipe Line Company all of the rights of way, pipe line, telegraph line, tankage, real estate, gas wells, etc., comprising all of the property owned hy them, and used in and belonging to the business of transporting and storing oil, but not to include crude oil; for which the United States Pipe Line Company is to pay the Producers and Refiners Oil Company, Limited, in the stock of the United States Pipe Line Company the sum of $250,000; and also, as part of the consideration for the said sale, shall pay or secure to be paid, before the transfer of the property is made, all of the outstanding indebtedness of the said Producers and Refiners Oil Company, Limited. And the said United States Pipe Line Company, as a condition precedent to said sale, shall agree to extend its pipe line forthwith from Bradford, Pa., to Titusville, Pa., and to connect with the line of the Producers and Refiners Oil Company, Limited. And the United States Pipe Line Company shall assume and carry out the existing contracts of the Producers and Refiners Oil Company, Limited, with certain refiners at Titusville, Oil City and Reno, Pa., as to the delivery of crude oil, storage and pipeage of the same.\u2019\n\u201c This resolution was adopted by the managers present, four in number.\n\u201c The complainant sought to restrain the proposed sale of the property of the Producers and Refiners Oil Company, Limited, alleging that it was in violation of the articles of association of the said company, and prejudicial to his interest therein.\u201d\n. The court\u2014citing Bedford R. R. v. Bowser, 48 Pa. 29; Balliet v. Brown, 108 Pa. 546 ; 1 Morawetz on Corp. \u00a7\u00a7 249, 513; Beach on Corp. \u00a7 357; Martin v. Ry., 14 Phila. 10 ; McCurdy v. Myers, 44 Pa. 535 ; Lauman v. R. R., 30 Pa. 42 ; Abbott v. Rubber Co., 33. Barb. 578; Sloan v. Moore, 37 Pa. 217; McNair v. Wilcox, 121 Pa. 437 ; Wallace v. Yeager, 4 Phila. 251; Taylor on Corp. \u00a7\u00a7 226, 288; Hoole v.-Ry., L. R. 3 Ch. Ap. 262; Dodge v. Woolsey, 18 Howard, 341; Peabody v. Flint, 6 Allen, 52; Gray v. Lewis, L. R. 8 Eq. 526 ; Green\u2019s Ultra Vires, 647 ; March v. Ry., 40 N. H. 548; Spelling, Ext. Rel. \u00a7\u00a7 590, 760 ; Ry. v. Rushout, 10 E. L. & E. Rep. 72; Ryan v. Ry., 12 Randolph, 365, to the effect that directors are limited to the management and not the sale of the business\u2014 awarded a preliminary injunction and subsequently continued it until further order.\nErrors assigned were 'above orders, quoting them.\nRoger Sherman, J. W. Eee and Clarence Walker with him, for appellants.\nPlaintiff, not being a subscriber to the capital of defendant company, and having never become the purchaser of any interest in its capital, cannot be elected to membership; hence cannot, through the courts- or otherwise, control his co-partners, or the managers they have chosen, in the conduct of the business committed by the law to their judgment and discretion : Acts of June 2, 1874, \u00a7\u00a7 1, 4, 5, 6, 8, P. L. 271; June 25, 1885, \u00a7 4, P. L. 182; May 1, 1876, \u00a7 1, P. L. 89; Morawetz on Corp. \u00a7\u00a7 281, 258, 259, 381, 383, 385; Angell & Ames on Corp. \u00a7 113; Green\u2019s Brice\u2019s Ultra Vires, 126 ; Anderson\u2019s Law Dictionary, p. 974, 975 and 977; Hawes v. Oakland, 104 U. S. 450 ; Tindel v. Park, 154 Pa. 36 ; Tidewater Pipe Co., Ltd., v. Kitchenman, 108 Pa. 630; Satterfield v. Tidewater Pipe Co., Ltd., 12 W. N. 457 ; Karnes v. R. R., 4 Abbott\u2019s Pr. R., N. S. 106; Goodwin v. Hardy, 57 Maine, 143; Eliot v. Himrod, 108 Pa. 569-579.\nThe association had power to adopt to reasonable and lawful by-laws, or rules, for the government of its \u25a0 internal affairs and details of business, both by express provision of and implication from the act of 1874, and by the general rules of law applicable to corporations and .similar bodies: Lindley on Part. 566; Peacock v. Chambers, 46 Pa. 435 ; Tidewater Pipe Co. v. Kitchenman, 108 Pa. 630 ; Satterfield v. Tidewater Pipe Co., 12 W. N. 457; Patterson v. Tidewater Pipe Co., 12 W. N. 452; Story on Part. \u00a7 123 ; Ins. Co. v. Perrine, 7 W. & S. 348; Logan v. McNaugher, 88 Pa. 103; Phila. Savings Institution, 1 Whart. 460-468; Diligent Fire Co. v. Com., 75 Pa. 291; Wolf v. Goddard, 9 Watts, 544; Angell & Ames on Corp. \u00a7 342.\nThe proposed sale was not ultra vires : Act of June 2, 1874, \u00a7 1, P. L. 271; Story on Part. \u00a7\u00a7 94, 101, 123; Angell & Ames on Corp. \u00a7\u00a7 187, 190, 193, 194; Corporation of St. Mary\u2019s Church, 7 S. & R. 517; Com. v. Lancaster, 5 Watts, 152; Green\u2019s Brice\u2019s Ultra Vires, pp. 65, 66, 69, 91; Reynolds v. Stark Co., 5 Ohio, 205; Barry v. Bank, 1 Sand. Ch. N. Y. 280 ; Brady v. Mayor, 1 Barb. 585; Brown v. Winnisimmet Co., 12 Allen, 326; Lyndeborough Glass Co. v. Mass. Glass Co., 111 Mass. 315 ; Morawetz on Corporations, \u00a7\u00a7 164, 241, 387; Burton\u2019s Ap., 57 Pa. 218; Gravestine\u2019s Ap., 49 Pa. 310 ; Layng v. French Spring Co., Ltd., 149 Pa. 308 ; Patterson v. Tidewater Pipe Co., Ltd., 12 W. N. 452; Dana v. Bank, 5 W. & S. 223-243.\nA. Leo Weil and Jas. K. Reed, Pearson Ohwreh, Samuel Grrum\u00edine, Greo. F. Davenport and P. O. Knox, with them, for appellee.\nThis is an attempted consolidation and ultra vires: 1 Beach on Corp. \u00a7\u00a7 326, 353; Black v. Canal Co., 24 N. J. Eq. 455 ; Small v. Minneapolis Electro-Matrix Co., 45 Minn. 264 ; Knoxville v. R. R., 22 Fed. R. 763; Drew\u2019s Case, 16 L. T. R. 657; Assurance Co., 30 L. J. (N. S.) 137; Mowrey v. R. R., 4 Bissel, 78; Clearwater v. Meredith, 1 Wal. 40; Nugent v. Supervisors, 19 Wal. 248 ; Lauman v. R. R., 30 Pa. 42.\nTreating the transaction as a sale it is ultra vires: Abbott v. American Hard Rubber Co., 33 Barb. 578; Buford v. Packet Co., 3 Mo. Ap. 159 ; Balliet v. Brown, 103 Pa. 554; Easum v. Brewing Co., 51 Fed. R. 156 ; Kean v. Johnson, 9 N. J. Eq. 401; R. R. Co. v. Bowser, 48 Pa. 30; Zabriskie v. R. R., 18 N. J. Eq. 178; Cass v. Steel Co., 9 Fed. R. 640; McCurdy v. Myers, 44 Pa. 535; People v. Ballard, 134 N. Y. 269 ; Lauman v. R. R., 30 Pa. 46; Nashua & L. R. R. v. R. R., 27 Fed. R. 826; Martin v. Ry., 14 Phila. 10; Rollins v. Clay, 33 Me. 139; 1 Collier on Part. \u00a7 214; 2 Beach on Corp. \u00a7 910; Patterson v. Tidewater Pipe Line Co., 12 W. N. 452; Coal Co. v. Rodgers, 108 Pa. 151; Stevens v. Base Ball Club, 142 Pa. 61; Jennings\u2019s Ap., 16 Atl. R. 19; s. c. 2 Mona. 184; King v. Faber, 22 Pa. 25 ; Clarke v. R. R., 136 Pa. 408; McNair v. Wilcox, 121 Pa. 442 ; Wallace v. Yeager, 4 Phila. 252 ; 1 Lindley on Part. 316 ; Hewitt v. Sturdevant, 4 B. Mon. 453 ; Cayton v. Hardy, 27 Mo. 536; Blaker v. Sands, 29 Kan. 557 ; 1 Bates on Part. \u00a7 404; Drake v. Thyng, 27 Ark. 228; Loeb v. Pierpoint & Tuttle, 58 Iowa, 469; Kimball v. Ins. Co., 8 Bosworth, (N. Y.) 495; Kirby v. Ingersoll, Harrington Ch. (Mich.) 172.\nAs an investment of the capital of the Producers and Refiners\u2019 Oil Company, Limited, in stock of the United States Pipe Line Company, the proposed transaction is ultra vires : 1 Cook on Stockholders, \u00a7 64; McMillan v. Mining Co., 12 Phila. 404; Roberts\u2019s Ap., 92 Pa. 407; Clay v. Carter, 16 W. N. 385; Natusch v. Irving, 1 Lindley on Part. (Ewell\u2019s ed.) *601; Boston etc. R. R. v. R. R., 13 R. I. 260; Taylor v. Earle, 8 Hun, 1; Chicago Gas Trust Case, 130 Ill. 268; Frothingham v. Barney, 6 Hun, 366 ; Ashbury Co., Ltd., v. Riche, L. R. 7 H. L. 653; State v. Concord R. R., 59 N. H. 85; 1 Morawetz on Corp. \u00a7\u00a7 431, 492, 496; Wood on Railways, \u00a7 174; Ry. v. Allerton, 18 Wallace, 233; Blatchford v. Ross, 54 Barb. 43; Diligent Fire Co. v. Com., 75 Pa. 296; Wright v. Oroville Co., 40 Cal. 27; Langolf v. Seiberlitch, 2 Pars. Eq. Cas. 76; Robinson v. Smith, 3 Paige Ch. 222 ; March v. R. R., 40 N. H. 548 ; Ryan v. Ry., 21 Kan. 365; Heath v. R. R., 8 Blatchford, 347; Ry. v. Rushout, 5 De G. & S. 290 ; Hawes v. Oakland, 104 U. S. 460; Kellogg Bridge Co. v. United States, 15 Ct., Cl. 111 ; Regan v. Trust Co., 154 U. S. 362; Simonton v. McLain, 37 La. 663.\nEven with the consent of a majority of stockholders, the company cannot dispose of its property and invest its capital in the stock of the United States Pipe Line Company, and any shareholder may interfere to prevent this.\nOct. 22,1894:"
+  },
+  "file_name": "0463-01",
+  "first_page_order": 487,
+  "last_page_order": 493
+}

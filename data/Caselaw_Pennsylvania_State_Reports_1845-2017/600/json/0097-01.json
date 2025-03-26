@@ -1,0 +1,135 @@
+{
+  "id": 4192815,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Dennis TOBY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Toby",
+  "decision_date": "2008-12-17",
+  "docket_number": "Petition No. 475 MAL 2008",
+  "first_page": "97",
+  "last_page": "98",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "600 Pa. 97"
+    },
+    {
+      "type": "parallel",
+      "cite": "963 A.2d 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "887 A.2d 220",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988486,
+        8998462
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0624-01",
+        "/a2d/887/0220-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 624",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988486
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0624-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8997761,
+        2471758
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "636",
+          "parenthetical": "holding that in trials occurring before our decision in Commonwealth v. Pressley, 584 Pa. 624, 887 A.2d 220 (2005"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0633-01",
+        "/pa/585/0160-01"
+      ]
+    },
+    {
+      "cite": "585 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        2471758
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that in trials occurring before our decision in Commonwealth v. Pressley, 584 Pa. 624, 887 A.2d 220 (2005"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/585/0160-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 104,
+    "char_count": 1148,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13778467393272736
+    },
+    "sha256": "f58d715edfbd56577b0475b5719a149222d89b6e14fa35b063946f616b798d48",
+    "simhash": "1:97bd0723442d9bb4",
+    "word_count": 192
+  },
+  "last_updated": "2024-02-27T23:00:30.573246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Dennis TOBY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of December 2008, the Petition for Allowance of Appeal is GRANTED, limited to the question of whether the Superior Court erred when, on the basis of waiver, it refused to consider the trial court\u2019s failure to instruct the jury on the offense of involuntary manslaughter and the defense of duress. Further, the Superior Court\u2019s decision is VACATED to the extent it found waived Petitioner\u2019s challenge to the trial court\u2019s refusal to instruct the jury on the offense of involuntary manslaughter and the defense of duress in light of our decision in Commonwealth v. Garcia, 585 Pa. 160, 888 A.2d 633, 636 (2005) (holding that in trials occurring before our decision in Commonwealth v. Pressley, 584 Pa. 624, 887 A.2d 220 (2005), a party does not waive an issue regarding the jury charge where a requested instruction is rejected by the trial court and the party does not object when the trial court charges the jury). The matter is REMANDED to Superior Court to address this issue.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "963 A.2d 902\nCOMMONWEALTH of Pennsylvania, Respondent v. Dennis TOBY, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 17, 2008."
+  },
+  "file_name": "0097-01",
+  "first_page_order": 205,
+  "last_page_order": 206
+}

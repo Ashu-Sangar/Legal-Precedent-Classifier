@@ -1,0 +1,89 @@
+{
+  "id": 1910405,
+  "name": "Commonwealth v. Wilson, Petitioner",
+  "name_abbreviation": "Commonwealth v. Wilson",
+  "decision_date": "1967-10-03",
+  "docket_number": "No. 120",
+  "first_page": "71",
+  "last_page": "72",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "427 Pa. 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "230 A. 2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "425 Pa. 612",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1906685
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/425/0612-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 1322,
+    "ocr_confidence": 0.472,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06966911970543456
+    },
+    "sha256": "15f488a5064b3fe4e1f7f857a46fb11428c737ad6f5586964b985f877d5ef3c2",
+    "simhash": "1:4002ae510de5343c",
+    "word_count": 211
+  },
+  "last_updated": "2024-02-27T18:19:06.695168+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Wilson, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nPetitioner seeks the allowance of an appeal from the order of the Superior Court, affirming the dismissal without hearing by the Court of Quarter Sessions of Delaware County of his petition under the Post Conviction Hearing Act. In his petition for post-conviction relief, petitioner attacks the voluntariness Of the guilty plea which forms the basis of the judgment of sentence.\nThe allegations of the petition, if true, entitle petitioner to relief, and since his allegations are not refuted by the record, he is entitled to a hearing, to determine the truth or falsity of his allegations. Commonwealth v. Wood, 425 Pa. 612, 230 A. 2d 729 (1967).\nThe prayer of the petition is granted, an appeal is allowed, the order of the Superior Court is reversed, the order of the Court of Quarter Sessions of Delaware County is vacated, and the case is remanded to the Court of Quarter Sessions of Delaware County, with instructions to conduct a hearing to determine the voluntariness of petitioner\u2019s guilty plea.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "James Charles Wilson, petitioner, in propria persona.",
+      "Vram Nedwian, Jr., Assistant District Attorney, and Paul R. Sand, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Wilson, Petitioner.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nJames Charles Wilson, petitioner, in propria persona.\nVram Nedwian, Jr., Assistant District Attorney, and Paul R. Sand, District Attorney, for Commonwealth, appellee.\nOctober 3, 1967:"
+  },
+  "file_name": "0071-01",
+  "first_page_order": 95,
+  "last_page_order": 96
+}

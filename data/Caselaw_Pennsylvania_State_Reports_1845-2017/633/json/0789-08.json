@@ -1,0 +1,80 @@
+{
+  "id": 12287402,
+  "name": "Gibraltar Rock, Inc. v. New Hanover Tp.; New Hanover Tp., In re",
+  "name_abbreviation": "Gibraltar Rock, Inc. v. New Hanover Tp.",
+  "decision_date": "2015-12-16",
+  "docket_number": "508 MAL (2015)",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 789"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "118 A.3d 461",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6860648
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/118/0461-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24947284571417097
+    },
+    "sha256": "ecd27a63ff8eb04d6f7b39364a8cfc370134da74a016c839cd1c013f345ae485",
+    "simhash": "1:3d35028c62232f31",
+    "word_count": 21
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gibraltar Rock, Inc. v. New Hanover Tp.; New Hanover Tp., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 118 A.3d 461",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gibraltar Rock, Inc. v. New Hanover Tp.; New Hanover Tp., In re\n12/16/2015\n508 MAL (2015)"
+  },
+  "file_name": "0789-08",
+  "first_page_order": 843,
+  "last_page_order": 843
+}

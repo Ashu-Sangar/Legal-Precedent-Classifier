@@ -1,0 +1,80 @@
+{
+  "id": 1159569,
+  "name": "Gross's Case",
+  "name_abbreviation": "Gross's Case",
+  "decision_date": "1935-03-25",
+  "docket_number": "Appeal, No. 81",
+  "first_page": "143",
+  "last_page": "144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "318 Pa. 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "269 Pa. 416",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/269/0416-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 164,
+    "char_count": 1680,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.042612522969485866
+    },
+    "sha256": "da93cf6d34a78e179623e04fc3f46a268425fd65b6d580431bc80a7c708012a2",
+    "simhash": "1:89de0f9f761c545c",
+    "word_count": 278
+  },
+  "last_updated": "2024-02-27T23:35:14.112531+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaefer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Gross\u2019s Case."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nGeorge J. Gross appeals from the order of the Court of Common Pleas of Berks County, making absolute a rule adjudging him to be in contempt of court and for disbarment as a member of the bar of that court.\nIt appeared that appellant prepared a written document impugning the court\u2019s motives and questioning the honesty and integrity of its members in the course of their official conduct. This paper was prepared, signed and sworn to by appellant, brought into open court and read by him in open public session and in the presence of the judges. That such conduct was contemptuous cannot be successfully denied; nor was it privileged. The foregoing acts could only have been undertaken with a view to incite popular prejudice against the court and the administration of justice in connection with criminal proceedings, with respect to which a rule for a new trial was pending at the time of appellant\u2019s offense. Given several opportunities to apologize or retract his accusations, appellant persistently refused so to do.\nThis appeal is ruled by Wilhelm\u2019s Case, 269 Pa. 416, in which we held that an attorney, who, in a public address, incites popular feeling against the judges for the purpose of interfering with a fair and impartial consideration of a pending case, may be disbarred. In the present case, appellant\u2019s conduct was only the more reprehensible because committed in open court.\nThe assignments of error are overruled and the order is affirmed at appellant\u2019s costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "George J. Gross, appellant, appeared in propria persona."
+    ],
+    "corrections": "",
+    "head_matter": "Gross\u2019s Case.\nArgued January 29, 1935.\nBefore Frazer, C. J., Simpson, Kephart, Schaefer, Maxey, Drew and Linn, JJ.\nGeorge J. Gross, appellant, appeared in propria persona.\nMarch 25, 1935:"
+  },
+  "file_name": "0143-01",
+  "first_page_order": 171,
+  "last_page_order": 172
+}

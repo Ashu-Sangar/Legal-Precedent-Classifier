@@ -1,0 +1,70 @@
+{
+  "id": 12285248,
+  "name": "Com. v. Motter",
+  "name_abbreviation": "Com. v. Motter",
+  "decision_date": "2015-11-02",
+  "docket_number": "205 MAL (2015)",
+  "first_page": "777",
+  "last_page": "777",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 777"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 387",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.908,
+    "sha256": "8ce2dfcd4f65162195737cee6c67f34f629963bdf896111c7e4bafea3c148364",
+    "simhash": "1:6a00443cd4724143",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Motter"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 387",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Motter\n11/02/2015\n205 MAL (2015)"
+  },
+  "file_name": "0777-03",
+  "first_page_order": 831,
+  "last_page_order": 831
+}

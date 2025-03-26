@@ -1,0 +1,708 @@
+{
+  "id": 1104457,
+  "name": "Ruler, Appellant, v. York County et al.",
+  "name_abbreviation": "Ruler v. York County",
+  "decision_date": "1927-06-25",
+  "docket_number": "Appeal, No. 160; Appeal, No. 173",
+  "first_page": "427",
+  "last_page": "437",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "290 Pa. 427"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "156 Pa. 315",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        844924
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/156/0315-01"
+      ]
+    },
+    {
+      "cite": "163 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        859034
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/163/0210-01"
+      ]
+    },
+    {
+      "cite": "274 Pa. 489",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1072836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/274/0489-01"
+      ]
+    },
+    {
+      "cite": "282 Pa. 575",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1088407
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/282/0575-01"
+      ]
+    },
+    {
+      "cite": "5 Pa. Superior Ct. 159",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        280081,
+        280115
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/5/0159-01",
+        "/pa-super/5/0159-02"
+      ]
+    },
+    {
+      "cite": "130 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        569004
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/130/0032-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. Superior Ct. 388",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        868601
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/33/0388-01"
+      ]
+    },
+    {
+      "cite": "27 Pa. Superior Ct. 648",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        856438
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/27/0648-01"
+      ]
+    },
+    {
+      "cite": "286 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1096479
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/286/0137-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1053575
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/84/0487-01"
+      ]
+    },
+    {
+      "cite": "263 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047439
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/263/0211-01"
+      ]
+    },
+    {
+      "cite": "235 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        984868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/235/0622-01"
+      ]
+    },
+    {
+      "cite": "2 Pa. Superior Ct. 91",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        270688
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/2/0091-01"
+      ]
+    },
+    {
+      "cite": "65 Pa. 205",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430681
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/65/0205-01"
+      ]
+    },
+    {
+      "cite": "54 Pa. 310",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006265
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/54/0310-01"
+      ]
+    },
+    {
+      "cite": "148 U. S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3566709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/148/0312-01"
+      ]
+    },
+    {
+      "cite": "123 U. S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3523851
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/123/0288-01"
+      ]
+    },
+    {
+      "cite": "119 U. S. 543",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8300137
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/119/0543-01"
+      ]
+    },
+    {
+      "cite": "21 Wall. 456",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3411452
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/88/0456-01"
+      ]
+    },
+    {
+      "cite": "154 U. S. 204",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3578936
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/154/0204-01"
+      ]
+    },
+    {
+      "cite": "153 U. S. 289",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3576910
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/153/0289-01"
+      ]
+    },
+    {
+      "cite": "11 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404694
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/11/0356-01"
+      ]
+    },
+    {
+      "cite": "212 Pa. 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/212/0230-01"
+      ]
+    },
+    {
+      "cite": "209 Pa. 619",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        480004
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/41/0269-01"
+      ]
+    },
+    {
+      "cite": "218 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        999655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/218/0578-01"
+      ]
+    },
+    {
+      "cite": "212 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941827
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/212/0622-01"
+      ]
+    },
+    {
+      "cite": "281 Pa. 62",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1087082
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/281/0062-01"
+      ]
+    },
+    {
+      "cite": "187 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        900243
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/187/0318-01"
+      ]
+    },
+    {
+      "cite": "79 Pa. Superior Ct. 247",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        651800
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/79/0247-01"
+      ]
+    },
+    {
+      "cite": "106 Pa. 377",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        455702
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/106/0377-01"
+      ]
+    },
+    {
+      "cite": "117 Pa. 647",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        555836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/117/0647-01"
+      ]
+    },
+    {
+      "cite": "273 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/273/0204-01"
+      ]
+    },
+    {
+      "cite": "280 Pa. 601",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1084493
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/280/0601-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 304",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092003
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/284/0304-01"
+      ]
+    },
+    {
+      "cite": "281 Pa. 109",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1087038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/281/0109-01"
+      ]
+    },
+    {
+      "cite": "256 Pa. 312",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1030665
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/256/0312-01"
+      ]
+    },
+    {
+      "cite": "209 Pa. 247",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        936186
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/209/0247-01"
+      ]
+    },
+    {
+      "cite": "200 Pa. 130",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        924409
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/200/0130-01"
+      ]
+    },
+    {
+      "cite": "145 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 Pa. Superior Ct. 124",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        8860363
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/76/0124-01"
+      ]
+    },
+    {
+      "cite": "40 York Leg. Rec. 85",
+      "category": "reporters:state",
+      "reporter": "York",
+      "opinion_index": -1
+    },
+    {
+      "cite": "166 Pa. 152",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        864191
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/166/0152-01"
+      ]
+    },
+    {
+      "cite": "127 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        565727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/127/0074-01"
+      ]
+    },
+    {
+      "cite": "148 U. S. 92",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3566872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/148/0092-01"
+      ]
+    },
+    {
+      "cite": "287 Pa. 376",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1099556
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/287/0376-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 245",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1091993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0245-01"
+      ]
+    },
+    {
+      "cite": "282 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1088366
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/282/0157-01"
+      ]
+    },
+    {
+      "cite": "281 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1086984
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/281/0207-01"
+      ]
+    },
+    {
+      "cite": "156 Pa. 315",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        844924
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/156/0315-01"
+      ]
+    },
+    {
+      "cite": "123 U. S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3523851
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/123/0288-01"
+      ]
+    },
+    {
+      "cite": "218 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        999655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/218/0578-01"
+      ]
+    },
+    {
+      "cite": "212 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941827
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/212/0622-01"
+      ]
+    },
+    {
+      "cite": "187 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        900243
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/187/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 918,
+    "char_count": 19497,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 1.45704578439476e-07,
+      "percentile": 0.6561313034080365
+    },
+    "sha256": "f67534a6baaac089ab9674ab93764aff501e86271f093d963ba6315f514257a9",
+    "simhash": "1:47b0a430f66d99f5",
+    "word_count": 3480
+  },
+  "last_updated": "2024-02-27T17:05:07.812814+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ."
+    ],
+    "parties": [
+      "Ruler, Appellant, v. York County et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Schaffer,\nThe voters of Lancaster and York Counties have expressed their approval of the project of building an inter-county bridge across the Susquehanna River between Columbia and Wrightsville to carry the Lincoln Highway and to cost $3,000,000. This is not only one of the most important river crossings within the bounds of the Commonwealth but of the Nation. It is manifest from the enormous traffic which naturally flows to this point that a new bridge there is a matter of first importance. The citizens of the two counties have so considered it by voting a large amount of their public funds to the project. We should not stand in the way of the accomplishment of their purpose unless there is no legal warrant for what they have undertaken to do. In the case of Lancaster County the favoring popular vote was only advisory to its county commissioners as the amount to be expended will not increase that county\u2019s indebtedness beyond the two per cent limit, whereas in York County the mandate of the voters was essential, as the debt increase there will exceed two per cent of the county\u2019s assessed valuation. This appeal is by a taxpayer of York County challenging its right to issue the necessary bonds to raise its share of the required money and to proceed with the work.\nThe grounds of challenge are (1) that as the line between the two counties is low water mark on the west (York County) side of the Susquehanna River, the whole bridge, with the exception of a few hundred feet thereof from low water mark to the west end of the bridge, will be in Lancaster County, and, as the entire river where it flows between the two counties is in the latter, the bridge will not be on the boundary line between the two counties as required by the Act of . May 13, 1925, P. L. 667, nor over a river or stream upon the line as required by the Act of June 28, 1923, P. L. 875; (2) that York County may not finance such a bridge by bonds issued under the Act of April 20, 1874, P. L. 65, because under the electoral authority to increase its debt the question which was submitted to the voters was \u201cShall the bonded indebtedness of the County of York be increased by the additional sum of $1,500,000 for the purpose of the construction and erection jointly and in equal proportions with the County of Lancaster, Pennsylvania, of a joint county toll bridge across the Susquehanna River between Wrightsville, in the County of York, and Columbia, in the County of Lancaster, agreeably to the provisions of the Act of Assembly approved June 28, 1923, P. L. 875\u201d; (3) York County may not collect tolls for traffic on such bridge, and apply them in ease of the tax securing such bonds.\nWe will take these questions up in their order, including in the disposition of them the subsidiary ones which arise out of each, as in appellant\u2019s brief much emphasis is laid on some of these subsidiary propositions.\nWe think it would be a narrow view, sticking much too close to the bark, to hold that because in the erection of York County out of Lancaster it was provided that the boundary of the latter should extend to low water mark on the west side of the Susquehanna River, as we have determined it does (York Haven Water & Power Co.\u2019s App., 212 Pa. 622; York Haven Water & Power Co.\u2019s Assessment, 218 Pa. 578), the legislation providing for the erection of inter-county bridges spanning the streams of the.State which geographically separate the counties does not apply to these two or others similarly situated. The legislative purpose was that the rivers of the State should be bridged where the demands of travel call for it to be done and the fact that the boundary line between two counties may not be the center of the stream is of no real consequence. Here the bridge will be partly within the territorial limits of each of the counties, more of its extent in Lancaster than in York, but its benefits will accrue to the people of both in the same measure precisely as though the boundary between them were the thread of the stream. The same question arose under an almost similar state of facts in Keiser v. Union Co., 156 Pa. 315, and it was determined that the bridge could be built at the expense of the two counties which it would connect. We are of opinion that the location of the boundary line between the two counties does not render inoperative the legislation providing for the construction of an inter-county bridge.\nThe second ground of challenge is in substance that the bridge may not be financed by a bond issue under the Act of April 20, 1874, P. L. 65, as the question upon which the vote was taken was whether the indebtedness should be increased for the erection of a joint county toll bridge \u201cagreeably to the provisions of the\u201d Act of June 28, 1923, P. L. 875; in other words, that the submission to the voters was misleading and that they were misled. In their printed brief, appellant\u2019s counsel say that this question involved will be discussed under two heads: whether the issue was properly authorized and whether the Act of June 28, 1923, P. L. 875, is constitutional. As to the first, the argument is that the reference in the question submitted to the voters to the 1923 Act negatived any thought of issuing bonds under the Act of 1874 and its amendments to pay for the construction of the bridge and led the voters to believe that the cost of the construction would be paid for entirely by tolls. This position supposes that the voters thought the Act of 1923 authorizes the issue of bonds in payment of the construction of county bridges, payable only out of tolls collected, in other words without any basic tax, and that they were in ignorance of section 10 .of article IX of the state Constitution requiring that \u201cAny county ......incurring any indebtedness shall, at or before the time of so doing, provide for the collection of an annual tax sufficient to pay the interest and also the principal thereof within thirty years.\u201d For reasons which are obvious we could not so conclude. The electors knew they were voting to increase their bonded indebtedness $1,500,000, as the question submitted so states, and must conclusively be presumed to have known that the increase must be constitutionally made. Tolls, as will be pointed out later, are not taxes. Furthermore, our conclusion is that it is now too late to raise the contention that the voters were misled. No one can know that they were and there is now no way to establish that proposition. We have held in the broader field of constitutional amendment that after a vote has been taken on the adoption of an amendment it is too late to raise questions as to the validity of the submission (Armstrong v. King, 281 Pa. 207; Hollinger v. King, 282 Pa. 157; see also Com. v. Washington City, 284 Pa. 245); and we now decide that questions such as that before us, which go to the preliminaries of a popular submission on a question of increase of municipal indebtedness must be raised before the vote takes place. If not raised until afterwards, our conclusion must be, as it is on the record before us, that the action of the electorate was intelligently taken, with full notice and knowledge of the resulting burdens assumed, and if in the question voted upon there was sufficient and proper indication of the main purpose intended, as there is in the instant case, effect is to be given to the voter\u2019s approval.\nThe attack on the constitutionality of the Act of June 28,1923, P. L. 875, is a scattering one, the shots taking a wide range. As is usual when this occurs, none hits a vital spot in the enactment. Concentrated fire on a single target is usually the only effective method of warfare on a statute because of alleged unconstitutionality since it is only when plainly violative of the fundamental law that it can be brought down: Reeves v. Phila. Suburban Water Co., 287 Pa. 376. It is argued that the act violates article III, section 3, of the Constitution, because of its title which is \u201cAn act relating to county bridges, authorizing counties to issue and sell bonds for the erection thereof, and for the acquisition of toll bridges and providing for the division of the cost of construction and erection or acquisition of joint county bridges or toll bridges and the collection of tolls thereon.\u201d It is suggested that the use of the two terms \u201ccounty bridges\u201d and \u201cjoint\u201dcounty bridges\u201d is misleading. It does not so strike us. An inter-county bridge is still a county bridge and the designation of one of the kinds of county bridges does not confuse or mislead. It is urged that if a joint county bridge is not a county bridge, the title and the act contain more than one subject, but to our minds it is obvious that a joint county bridge is a county bridge and hence this position falls. It is also set up that as the entire river between the counties is in Lancaster County any legislation under which York County is authorized to expend its funds for the construction of a bridge in Lancaster County is an attempt to have the former obtain or appropriate money for or lend its credit to the latter in violation of article IX, section 7, of the Constitution. As heretofore pointed out, the entire bridge is not in Lancaster County and therefore this alleged breach of the provision of the Constitution to which attention is called drops from consideration. It is suggested that the act is local or special legislation \u201cregulating the affairs of counties\u201d and also \u201crelating to bridges\u201d in violation of article III, section 7, in that it classifies counties and also inter-county bridges, separating the latter into those costing more than $400,000 and those costing less than that sum-and permitting the collection of tolls only on the former kind. Bridges may be classified: Seabolt v. Northumberland Co., 187 Pa. 318, and it would seem a proper classification to base it on cost so far as the collection of tolls is concerned. It might be well within the financial ability of two counties to build a $400,000 bridge but far beyond their means to construct a great span such as the one contemplated in this proceeding to cost $3,000,000 unless aided by the travelling public at large to carry the burden through the instrumentality of tolls. Furthermore, the cost of bridges has been used as a method of classification of them for well on to a century : Act June 13, 1836, P. L. 560. We think there is no improper classification of either counties, or bridges. As to the contention that the Act of 1923 and the Act of May 13, 1925, P. L. 667, \u00e1re amendments to preexisting laws and void because they violate article III, section 6, of the Constitution, providing against the revival or amendment of laws except by reenactment, it is sufficient to say that neither statute is an amendment or supplement to any other. Each is an independent piece of legislation. The provision of the Constitution said to be violated relates only to express amendments: Sea-right\u2019s Est., 163 Pa! 210. We reach the conclusion that the Acts of 1923 and 1925 are not unconstitutional.\nThis determination makes unnecesary any consideration of the contention that as prior legislation divided the cost of an inter-county bridge between the counties according to population, it was unlawful for the commissioners to agree to divide the cost of the erection of the bridge equally between the two counties, they not being the same in population. Tbe acts in question authorize them so to agree.\nAppellant\u2019s third question involved is thus stated: \u201cMay York County collect tolls for traffic on such bridge and apply them in ease of the tax securing such bonds ?\u201d The Act of 1923 expressly provides that the county commissioners of the counties may, Avitli the consent of the State Higlrway Department, if the cost of the bridge is in excess of $400,000, collect tolls for the use of the bridge to pay the interest and to create a sinking fund for the payment of the bonds, such tolls to cease Avhen the bonds are redeemed. It is argued that as nothing is said in the title to the act about the consent of the State Highway Department this provision is unconstitutional. The consent of the department is but an incident to the main purpose of the act and it Avas not necessary to mention it in the title: Reeves v. Phila. Suburban Water Co., 287 Pa. 376. It Avould seem, noAV that all State highways are under the control of the highway department, and that this provision is wise, as the department ought to have some control over the imposition of tolls on the highways constructed by state funds. Much research and learning are expended in the briefs to demonstrate the undemonstrable proposition that tolls are taxes in Pennsylvania. They have never been so regarded here. The fact that the tolls when collected may be used in relief of taxation no more makes them a tax than Avould a donation made to the counties and so used be such. The constitutional taxes necessary to pay the interest and retire the bonds are to be levied, but if the counties have funds as time goes on from which the interest and principal of the bonds can be paid there is no reason why they shall not be thus discharged. To say that a county which has funds from other sources than taxation may not use them to pay its debts but must continue to levy taxes to do so, would be laying down a rule verging on the ridiculous. Tolls on highways are not taxes: Sands v. Manistree River Imp. Co., 123 U. S. 288; State Freight Tax Case, 15 Wallace 232, 278; St. Louis v. Western Union Telegraph Co., 148 U. S. 92.\nNothing brought to our attention leads us to conclude that the disposition of the case by the learned court below was erroneous.\nThe decree of the court of common pleas dismissing plaintiff\u2019s bill and of the court of quarter sessions approving the issue and sale of bonds are affirmed at appellant\u2019s cost.",
+        "type": "majority",
+        "author": "Mr. Justice Schaffer,"
+      }
+    ],
+    "attorneys": [
+      "Bernard J. Myers and George Hay Kain, with them Richard E. Cochran, for appellant.",
+      "Walter B. Hays, County Solicitor, with him V. K. Keesey and Allen C. Wiest, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Ruler, Appellant, v. York County et al.\nBridges\u2014Inter-county bridges\u2014Construction of\u2014Issue of bonds \u2022\u2014Acts of June 28, 1928, P. L. 876, and May 18, 1926, P. L. 667.\n1. The Acts of June 28, 1923, P. L. 875, and May 13, 1925, P. L. 667, relating to the construction- of inter-county bridges, apply where two counties are separated by a river and the boundary line is not the centre of the stream but the low water line of one of the two counties.\nConstitutional law\u2014Title of act\u2014Bridges\u2014Act of June 28, 1928, P. L. 875.\n2. The Act of June 28, 1923, P. L. 875, is not unconstitutional as defective in title.\n3. The use of terms \u201ccounty bridges\u201d and \u201cjoint county bridges\u201d in the title of the act is not misleading, nor do the terms indicate that the title and the act contain more than one subject.\n4. A joint county bridge is a county bridge.\nConstitutional law\u2014Counties\u2014Loan of credit\u2014Article IX, section 7, of Constitution\u2014Amendment of statutes\u2014Acts of June 281 1923, P. L. 875, and Mary 13, 1925, P. L. 667\u2014Classification of bridges and counties\u2014Cost\u2014Special acts\u2014Tolls not taxes.\n5. An issue of bonds under the Act of June 28, 1923, P. L. 875, relating to the construction of inter-county bridges is not violative of article IX, section 7, of the Constitution, forbidding one county to lend its credit to another, where the bridge contemplated will extend over the territory of both counties concerned in its construction.\n6. The Act of June 28, 1923, P. L. 875, is not local or special legislation in violation of article III, section 7, of the Constitution.\n7. Bridges may be classified according to their cost.\n8. The Act of 1923 does not involve an unconstitutional classification of counties.\n9. The Acts of June 28, 1923, P. L. 875, and May 13, 1925, P. L. 667, are not amendments or supplements of any other acts, but are independent pieces of legislation.\n10. The Act of June 28, 1923, P. L. 875, providing that county commissioners may, with the consent of the Highway Department, collect tolls on a bridge, is not unconstitutional, because there is no reference in the title of the act to the consent of the Highway Department.\n11. Tolls on bridges and highways are not taxes.\n12. Tolls may be levied by counties on inter-county bridges, and applied to the payment of bonds issued for the construction of such bridges.\nConstitutional law\u2014Increase of debt\u2014Vote of the people.\n13. Questions which go to the preliminaries of a popular submission on a matter of increase of municipal indebtedness must be raised before the vote takes place.\nArgued May 16, 1927.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Schaffer, JJ.\nAppeal, No. 160, Jan. T., 1927, by Irvin I. Ruler, Sr., from order of Q. S. York Co., approving issue and sale of bonds in case of Petition of County Commissioners of York Co.\nAffirmed.\nAppeal, No. 173, Jan. T., 1927, by Irvin I. Ruler, Sr., from decree of C. P. York Co., dismissing bill in equity for injunction, in case of Irvin I. Ruler, Sr., v. York County et al.\nAffirmed,\nPetition for approval of bonds for construction of bridge across Susquehanna River. Before Niles, P. J.\nBill for injunction. Before Niles, P. J. and Stock, J. The opinion of the Supreme Court states the facts. Petition granted and bill dismissed. Irvin I. Ruler,\nSr., appealed in each proceeding.\nErrors assigned, inter alia, were order and decree, quoting records.\nBernard J. Myers and George Hay Kain, with them Richard E. Cochran, for appellant.\nThe proposed bonds cannot be legally issued: Rainsburg Boro. v. Fyan, 127 Pa. 74; Bruce v. Pittsburgh, 166 Pa. 152; Myers v. Lancaster Co., 40 York Leg. Rec. 85; Maginnis v. Schlottman, 76 Pa. Superior Ct. 124; Com. v. Bell, 145 Pa. 375; Keller v. Scranton, 200 Pa. 130; Major v. Boro., 209 Pa. 247; Raff v. Phila., 256 Pa. 312; Halpin v. Rochester, 281 Pa. 109; McAnulty v. Pittsburgh, 284 Pa. 304; Jackson v. School Disk, 280 Pa. 601; Campbell v. Twp., 273 Pa. 204; Chester Co. v. Brower, 117 Pa. 647; Davis v. Clark, 106 Pa. 377; Seiber v. Co., 79 Pa. Superior Ct. 247; Seabolt v. Co., 187 Pa. 318.\nThe proposed bridge cannot be legally built: Union Co. v. Co., 281 Pa. 62; York Haven W. & P. Co.\u2019s App., 212 Pa. 622; York Haven W. & P. Co.\u2019s Assessment, 218 Pa. 578; Kittanning Academy v. Brown, 41 Pa. 269; Bucher v. Co., 209 Pa. 619; Com. v. Baker, 212 Pa. 230; Roaring Creek Road, 11 Pa. 356.\nThe proposed tolls cannot be collected: Brennan v. Titusville, 153 U. S. 289; Covington v. Kentucky, 154 U. S. 204; R. R. v. Maryland, 21 Wall. 456; Huse v. Glover, 119 U. S. 543; Sands v. Imp. Co., 123 U. S. 288; Monongahela, etc., Co. v. U. S. 148 U. S. 312; Boyle v. R. R., 54 Pa. 310; Penna. R. R. v. Sly, 65 Pa. 205.\nWalter B. Hays, County Solicitor, with him V. K. Keesey and Allen C. Wiest, for appellees.\nThe proposed bond issue is legal: Major v. Boro., 209 Pa. 247; Raff v. Phila., 256 Pa. 312; Lumberman\u2019s Exchange v. Lutz, 2 Pa. Superior Ct. 91; Reber\u2019s Petition, 235 Pa. 622; Com. v. Friebertshauser, 263 Pa. 211; Williamsport v. Com., 84 Pa. 487; Garr v. Fuls, 286 Pa. 137; Com. v. Rothermel, 27 Pa. Superior Ct. 648; Com. v. Immel, 33 Pa. Superior Ct. 388; Com. v. Sellers, 130 Pa. 32; Hays v. Cumberland Co., 5 Pa. Superior Ct. 159; Com. v. Wert, 282 Pa. 575; Mahon v. Coal Co., 274 Pa. 489; Seabolt v. Co., 187 Pa. 318.\nThe bridge can be legally built: Searight\u2019s Est., 163 Pa. 210; Keiser v. Co., 156 Pa. 315; Seabolt v. Com., 187 Pa. 318.\nThe proposed tolls can be collected: Com. v. Sellers, 130 Pa. 32; Hays v. Cumberland Co., 5 Pa. Superior Ct. 159; Sands v. Imp. Co., 123 U. S. 288.\nJune 25, 1927:"
+  },
+  "file_name": "0427-01",
+  "first_page_order": 449,
+  "last_page_order": 459
+}

@@ -1,0 +1,822 @@
+{
+  "id": 475484,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. John M. BLOUNT, Appellant",
+  "name_abbreviation": "Commonwealth v. Blount",
+  "decision_date": "1994-08-24",
+  "docket_number": "",
+  "first_page": "156",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "538 Pa. 156"
+    },
+    {
+      "type": "parallel",
+      "cite": "647 A.2d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "502 U.S. 959",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6528420,
+        6527756,
+        6528543,
+        6527886,
+        6527917,
+        6528492,
+        6528049,
+        6528302,
+        6527987,
+        6528373,
+        6527807,
+        6528151,
+        6528094,
+        6528223
+      ],
+      "weight": 3,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0959-12",
+        "/us/502/0959-01",
+        "/us/502/0959-14",
+        "/us/502/0959-03",
+        "/us/502/0959-04",
+        "/us/502/0959-13",
+        "/us/502/0959-06",
+        "/us/502/0959-10",
+        "/us/502/0959-05",
+        "/us/502/0959-11",
+        "/us/502/0959-02",
+        "/us/502/0959-08",
+        "/us/502/0959-07",
+        "/us/502/0959-09"
+      ]
+    },
+    {
+      "cite": "499 U.S. 931",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11351872,
+        11352385,
+        11352721,
+        11352497,
+        11352019,
+        11352598,
+        11351740,
+        11352158,
+        11352287
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0931-02",
+        "/us/499/0931-06",
+        "/us/499/0931-09",
+        "/us/499/0931-07",
+        "/us/499/0931-03",
+        "/us/499/0931-08",
+        "/us/499/0931-01",
+        "/us/499/0931-04",
+        "/us/499/0931-05"
+      ]
+    },
+    {
+      "cite": "503 Pa. 566",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785935
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0566-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823719
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0147-01"
+      ]
+    },
+    {
+      "cite": "512 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1798681,
+        1798711
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0231-01",
+        "/pa/511/0232-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 232",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798711
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0232-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798690
+      ],
+      "weight": 4,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0429-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 162",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 211",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "484 U.S. 873",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "513 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802590
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0318-01"
+      ]
+    },
+    {
+      "cite": "116 L.Ed.2d 442",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 3,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 422",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 3,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "526 Pa 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825890
+      ],
+      "weight": 6,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/526/0578-01"
+      ]
+    },
+    {
+      "cite": "235 A.2d 349",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "427 Pa. 599",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1910363
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/427/0599-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833026
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "8"
+        },
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0001-01"
+      ]
+    },
+    {
+      "cite": "467 Pa. 168",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1717323
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/467/0168-01"
+      ]
+    },
+    {
+      "cite": "561 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1818936,
+        1818964
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0235-01",
+        "/pa/522/0236-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818964
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0236-01"
+      ]
+    },
+    {
+      "cite": "548 A.2d 254",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "519 Pa. 664",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "571 A.2d 380",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "no basis for remand without affidavits from relatives who allegedly would have provided helpful testimony"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "524 Pa. 617",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "no basis for remand without affidavits from relatives who allegedly would have provided helpful testimony"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "381 Pa.Super. 483",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        461360
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "497"
+        },
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/381/0483-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772891
+      ],
+      "weight": 4,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0428-01"
+      ]
+    },
+    {
+      "cite": "463 Pa. 216",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708004
+      ],
+      "weight": 4,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/463/0216-01"
+      ]
+    },
+    {
+      "cite": "113 L.Ed.2d 269",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 1338",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "524 Pa. 135",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822776
+      ],
+      "weight": 4,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0135-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 162",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822759
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "171"
+        },
+        {
+          "page": "946"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0162-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829784
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "151"
+        },
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0125-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808565
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0460-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 719",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730774
+      ],
+      "weight": 6,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0719-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811671
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0405-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 412",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959771
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "424"
+        },
+        {
+          "page": "852"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0412-01"
+      ]
+    },
+    {
+      "cite": "494 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1769044
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/494/0229-01"
+      ]
+    },
+    {
+      "cite": "491 Pa. 215",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1765642
+      ],
+      "weight": 18,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/491/0215-01"
+      ]
+    },
+    {
+      "cite": "492 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1767206
+      ],
+      "weight": 18,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/492/0558-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1806092
+      ],
+      "weight": 10,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "515 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806001,
+        1806092
+      ],
+      "weight": 10,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-01",
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "521 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817452
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0134-01"
+      ]
+    },
+    {
+      "cite": "510 Pa. 537",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1797005
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0537-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1452",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 31",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 1236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6262746
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/1236-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 6,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "53"
+        },
+        {
+          "page": "956"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    },
+    {
+      "cite": "520 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815634
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/520/0338-01"
+      ]
+    },
+    {
+      "cite": "523 Pa. 384",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820339
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/523/0384-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1457,
+    "char_count": 41227,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 5.327976866960778e-07,
+      "percentile": 0.9429852860147445
+    },
+    "sha256": "331d5257cdf60cacabad677d4094c0344b65b6754d131f3f999e6c6539c6ce1d",
+    "simhash": "1:1b54e666721d5dd8",
+    "word_count": 6589
+  },
+  "last_updated": "2024-02-27T22:17:05.862396+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NIX, C.J., and LARSEN, FLAHERTY, ZARPALA, PAPADAKOS, CAPPY and MONTEMURO, JJ.",
+      "LARSEN, J., did not participate in the decision of this case.",
+      "PAPADAKOS, J., files a dissenting opinion.",
+      "MONTEMURO, J., was an appointed Justice of the Court at the time of argument."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. John M. BLOUNT, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nCAPPY, Justice.\nWe have before us an automatic direct appeal from the judgments of sentence of death and concurrent and consecutive terms of imprisonment imposed upon Appellant, John M. Blount, by the Court of Common Pleas of Philadelphia County, Criminal Division. Sentence was. imposed following the jury\u2019s verdict that Appellant had, beyond a reasonable doubt, committed two murders of the first degree, possessed an instrument of crime, and abused a corpse. On the record before us, we affirm the Appellant\u2019s convictions, but vacate the judgments of sentence of death and remand the matter to the Court of Common Pleas of Philadelphia County, Criminal Division, for a new sentencing hearing on Appellant\u2019s murder convictions.\nOn October 29, 1990, Appellant was brought to trial by jury in connection with the shooting deaths of Andre Ramsey and Robert Robertson, which occurred on September 28th or 29th of 1989, inside a residence owned by Appellant\u2019s mother. The jury found Appellant guilty of two counts of murder in the first degree, possessing an instrument of crime, and abusing a corpse. A separate penalty hearing was held regarding the murder convictions. With regard to his conviction for the death of Andre Ramsey, the jury found one aggravating circumstance, determined that the aggravating circumstance outweighed any mitigating circumstances, and fixed Appellant\u2019s penalty at death. With regard to Appellant\u2019s conviction for the death of Robert Robertson, the jury found two aggravating circumstances, which it determined outweighed any mitigating circumstances, and again fixed Appellant\u2019s penalty at death. Appellant was immediately sentenced to two consecutive sentences of death by the trial court. Sentencing on the remaining counts was deferred pending the receipt of post-trial motions, which were subsequently filed, argued and denied. On February 25, 1991, Appellant was sentenced to one to two years imprisonment on the abuse of a corpse count, and two and one-half to five years imprisonment on the possession of an instrument of crime count, both to run concurrent to each other, but consecutive to the sentences of death.\nInitially, we must conduct an independent review of the sufficiency of the evidence without regard to whether the appellant has challenged the conviction on that ground. Commonwealth v. Zettlemoyer, 500 Pa. 16, 26-27 n. 3, 454 A.2d 937, 942 n. 3 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983), reh\u2019g denied, 463 U.S. 1236, 104 S.Ct. 31, 77 L.Ed.2d 1452 (1983). The test for establishing sufficiency is whether the evidence, and all reasonable inferences deducible therefrom, viewed in the light most favorable to the Commonwealth as verdict-winner, are sufficient to establish all the elements of the offense(s) beyond a reasonable doubt. Commonwealth v. Rhodes, 510 Pa. 537, 510 A.2d 1217 (1986). The following facts established by the evidence produced by the Commonwealth clearly satisfy this test.\nAppellant lived in his mother\u2019s residence. Andre Ramsey, one of the victims, was a tenant in the same residence. On the evening of September 28th or 29th of 1989, Appellant returned home and entered Ramsey\u2019s room and fired two gunshots at close range into the heads of Ramsey and Robertson. Ramsey was shot in the back of the head and Robertson was shot in the temple. After the killings, Appellant removed money, jewelry and car keys belonging to Ramsey, and with the aid of Robert Stackhouse, the boyfriend of Appellant\u2019s mother, moved the victims\u2019 corpses to an oil pit in the basement garage of the residence. Ramsey\u2019s room and other areas of the residence were then cleaned by Appellant, Stack-house and members of his family in order to conceal Appellant\u2019s crimes. The next day, Appellant, who was unemployed and had been unable to repay a minor debt to a friend, suddenly was able to undertake unusual expenditures and repay a portion of his debt. Thereafter, Appellant went into hiding, and ultimately hired two men to remove the victims\u2019 corpses from his basement because they had begun to decompose.\nOn October 3, 1989, the police discovered the victims\u2019 decomposing corpses on 66th Avenue between 11th and 12th Streets in Philadelphia. On October 24, 1989, Appellant was arrested at the home of his uncle and aunt where he had taken up residence after the murders. Appellant subsequently admitted to the police that he had shot both victims in Ramsey\u2019s room, moved their bodies, cleaned the room to conceal the crime, and hired two men to dispose of the victims\u2019 corpses. However, Appellant also maintained that he had shot the victims in self-defense because he believed Ramsey and Robertson had been reaching for guns during an alleged argument that had taken place in Ramsey\u2019s room. The jury was free to disbelieve the testimony presented in support of this defense. Commonwealth v. Edwards, 521 Pa. 134, 555 A.2d 818 (1989). Accordingly, we conclude that the evidence was sufficient to support Appellant\u2019s convictions.\nThrough appellate counsel, Appellant has advanced ten claims of ineffectiveness of trial counsel, together with a constitutional challenge to the Pennsylvania death penalty statute. 42 Pa.C.S. 9711.\nGuilt Phase\nIn order for appellant to prevail on a claim of ineffectiveness, he must demonstrate that: (1) the underlying claim is of arguable merit; (2) the particular course chosen by counsel did not have some reasonable basis designed to effectuate his interests; and (3) counsel\u2019s ineffectiveness prejudiced him. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987). Counsel can never be found ineffective for having elected not to raise a meritless claim. Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980). Moreover, we begin with the presumption that trial counsel was not ineffective. Commonwealth v. Miller, 494 Pa. 229, 431 A.2d 233 (1981).\nAppellant first claims that trial counsel was ineffective in connection with voir dire, because he failed to object to the manner in which the Assistant District Attorney undertook the process of \u201cdeath-qualifying\u201d potential jurors, and failed to pursue a similar line of questioning aimed at \u201clife-qualifying\u201d those individuals.\nUnquestionably, the prosecutor is entitled to exclude an individual possessing views on capital punishment that would \u201cprevent or substantially impair the performance of his duties as a juror in accordance with his instructions and his oath.\u201d Wainwright v. Witt, 469 U.S. 412, 424, 105 S.Ct. 844, 852, 83 L.Ed.2d 841 (1985). Commonwealth v. Holland, 518 Pa. 405, 543 A.2d 1068 (1988). Similarly, in order to prevent the service of a juror incapable of returning a verdict of life imprisonment, a defendant is permitted to pose \u201clife-qualification\u201d questions during voir dire pursuant to the Due Process Clause of the Fourteenth Amendment to the United States Constitution. Morgan v. Illinois, 504 U.S. 719, 112 S.Ct. 2222, 119 L.Ed.2d 492 (1992).\nThe record reveals that the Assistant District Attorney prefaced his alleged \u201cdeath-qualification\u201d questions by stating \u201cthere will come a point in time in this trial in which the jury will consider the issue of the death penalty.\u201d N.T., 10/24/90, p. 27. Appellant\u2019s claim is that this language led the jury to believe that he had conceded a first-degree murder conviction. We disagree.\nThe trial court instructed the jury concerning, inter alia, the presumption of Appellant\u2019s innocence, his right to a fair and impartial jury to decide his guilt or innocence, and the Commonwealth\u2019s burden of proof. Counsel questioned the potential jurors concerning their ability to decide Appellant\u2019s guilt or innocence in a fair and impartial manner. At trial, Appellant maintained that he had killed the victims in self defense. Given these factors together with the nature of the proceedings, we conclude that the words employed by the Assistant District Attorney to \u201cdeath-qualify\u201d the jury could not have led the jury to believe that Appellant had conceded any conviction whatsoever.\nWith regard to Appellant\u2019s other claim, that counsel failed to \u201clife-qualify\u201d the jury, it is clear that this claim must also fail. This argument has been repeatedly rejected by this Court. In Commonwealth v. Jermyn, 516 Pa. 460, 533 A.2d 74 (1987), this Court stated:\nThe mere fact that counsel may not have posed the specific question as to whether a prospective juror would vote for a sentence of life imprisonment in an appropriate case does not justify the conclusion that counsel failed to assure that a fair and impartial jury was selected. Such a talismanic requirement would clearly place form over substance.\nId. at 488, 533 A.2d at 87. See also, Commonwealth v. Tilley, 528 Pa. 125, 151, 595 A.2d 575, 587 (1991); Commonwealth v. Porter, 524 Pa. 162, 171, 569 A.2d 942, 946 (1990). Appellant\u2019s assertion that Morgan v. Illinois, 504 U.S. 719, 112 S.Ct. 2222, 119 L.Ed.2d 492 (1992), mandates a different result is incorrect. .Morgan involved a situation where \u201clife-qualification\u201d was precluded by the trial court. In the instant matter, although counsel made no attempt to \u201clife-qualify\u201d the jury, Appellant has failed to justify the conclusion that in so doing counsel failed to assure the selection of a fair and impartial jury. Accordingly, as these claims are meritless, counsel cannot be deemed ineffective. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAppellant next asserts that counsel was ineffective in failing to object to certain portions of the testimony of the medical examiner concerning the manner of death of the two victims. The record provides that the medical examiner opined, to a reasonable degree of medical certainty, that the manner of death of both victims was homicide. Appellant claims that the following additional testimony by the medical examiner, which supplemented his opinion, was beyond his area of expertise and severely prejudiced Appellant by inferring that the victims were executed:\nQ. Now to go a little bit farther if I might, Doctor, in terms of the gunshot wounds to Mr. Robertson and Mr. Ramsey, are you able to give us your opinion as to how they might have been situated when they were shot?\nA. Well, I am basing my opinion upon my prior experience. And I have performed over 150 autopsies in which the manner of death was determined to be homicide.\nQ. And if I might, just not to cut you off, Doctor, and you could also take it, I would make it somewhat of a hypothetical question, that there has been testimony in this ease that both individuals were shot in a bedroom and that in fact blood was seen by an individual near one end of the bed, take that into account, Doctor?\nA. Well, the fact that \u2014 well, based upon my experience and of those 150 I would say that in approximately 100 of those homicide autopsies the cause of death was gunshot wound or gunshot wounds. And from the various constellation of gunshot wounds that I have noted, it is my opinion in this case, where there is no evidence of a struggle present upon either body, that these individuals were either bound or held down in some manner prior to being shot, or they were asleep.\nQ. And why do you say that, Doctor?\nA. Because the gunshot wound to the back of Mr. Ramsey\u2019s head is an execution-style gunshot wound. And the gunshot wound to the side of Mr. Robertson\u2019s head is also an execution-style gunshot wound. I am not saying that these \u00e1re execution killings; I am saying that the findings are consistent with that based upon my prior experience.\nN.T. 10/30/90, p. 2.140-141.\nAppellant further claims that trial counsel exacerbated his failure to object to the testimony of the medical examiner or move for a mistrial by immediately emphasizing his opinion on cross-examination as follows:\nQ. Doctor, you cannot say with any degree of medical certainty that these were executions; is that correct?\nA. That is correct, it is purely based upon my prior experience and the pattern that\u2019s present.\nN.T. 10/30/90, p. 2.141.\nInitially, we note that Appellant has provided no authority whatsoever for his claim that this opinion was rendered beyond the medical examiner\u2019s area of expertise. Upon review of the qualifications of the medical examiner together with the further evidence of record, we conclude that this testimony by the medical examiner was not objectionable. The opinion of the medical examiner was provided based upon his specialized knowledge and experience in gunshot cases, and hypothetical reasonably based upon the evidence at trial. Commonwealth v. Henry, 524 Pa. 135, 569 A.2d 929 (1990), cert. denied, 499 U.S. 931, 111 S.Ct. 1338, 113 L.Ed.2d 269 (1991); Commonwealth v. Bamber, 463 Pa. 216, 344 A.2d 799 (1975); Commonwealth v. Roberts, 496 Pa. 428, 437 A.2d 948 (1981). Moreover, the medical examiner did not state that these killings were executions. Rather, he simply stated that they were consistent with that type of killing based upon certain conclusive findings and his experience with other cases. This was essential to rebut Appellant\u2019s claim of self-defense. Finally, when presented with such evidence, trial counsel reasonably sought to limit its impact by emphasizing that the opinion was not rendered to a reasonable degree of medical certainty. Accordingly, as the evidence of record justified the carefully limited opinion of the medical examiner, this claim is meritless and counsel cannot be found ineffective. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAppellant next claims that trial counsel was ineffective in failing to object to the testimony of a police officer presented by the Commonwealth as an expert in firearms and marksmanship. Appellant again cites no legal authority to support his claim.\nThe record reflects that this officer was qualified to render expert opinions with regard to firearms and their use. Nevertheless, Appellant argues that he was prejudiced by the opinions of this witness to the extent that those opinions provided insight into the degree of the shooter\u2019s accuracy in shooting both victims in the head. Specifically, the officer testified that the shooter was either lucky, or very experienced and accurate, or the victims were unaware of the danger. N.T. 10/30/90, p. 2.187-193. Thereafter, the officer discounted the likelihood of luck, and agreed that it was possible that the victims had been sleeping. N.T. 10/30/90, p. 2.193.\nAppellant contends that the officer\u2019s opinions were beyond the scope of his expertise, and that he was prodded into his opinion about the victims having been sleeping, which prejudiced Appellant because it provided a further basis for the prosecutor to dispute the claim of self-defense. We disagree. The opinion testimony objected to by Appellant was reasonably within the scope of the officer\u2019s specialized knowledge and expertise and in response to hypotheticals reasonably based upon the evidence at trial. Commonwealth v. Henry, 524 Pa. 135, 569 A.2d 929 (1990), cert. denied, 499 U.S. 931, 111 S.Ct. 1338, 113 L.Ed.2d 269 (1991); Commonwealth v. Bamber, 463 Pa. 216, 344 A.2d 799 (1975); Commonwealth v. Roberts, 496 Pa. 428, 437 A.2d 948 (1981). Moreover, given the nature of the officer\u2019s testimony, which provided insight into the degree of the shooter\u2019s accuracy, it cannot be concluded that the officer was prodded into his opinion that it was possible that the victims had been sleeping. Finally, trial counsel reasonably chose to prevent further emphasis of these opinions, and to seek to limit their impact by having the officer reiterate that the opinions were only based upon hypothetical and that a very different scenario may have led to the deaths of the victims. Thus, this claim is meritless, and counsel cannot be deemed ineffective. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAppellant next claims that trial counsel was ineffective in failing to object to the testimony of a police officer, which provided evidence of Appellant\u2019s motive for the killing, and that trial counsel exacerbated his previous failure to object through his questions to this witness on cross-examination. Appellant again cites no legal authority in support of his claim.\nAt trial, Appellant\u2019s girlfriend, Tahara Underwood, testified that after the crime Appellant had told her that \u201cthey\u201d (presumably the victims) were going to kill him. N.T. 10/30/90, p. 2.66. However, when interviewed by Detective Dougherty after the crime, Tahara Underwood had made no such statement. Instead, she had told Detective Dougherty that Appellant had quarreled with the victims for twenty minutes, after which she heard gunshots, and that Appellant then told her that he had killed the victims and taken money, jewelry and car keys. Given the difference between Tahara Underwood\u2019s testimony and her statement to Detective Dougherty, the prosecutor asked Detective Dougherty if Tahara Underwood had told him why Appellant had killed the victims. In response, Detective Dougherty quoted that portion of her statement in which sfie related that Appellant had taken money, jewelry and car keys. N.T. 10/30/90, p. 2.96-97.\nAppellant claims this \u201canswer\u201d was not responsive and prejudiced him because it suggested a theft motive for the killings, and thus, trial counsel was ineffective in failing to object. We disagree. This testimony clearly responded to the prosecutor\u2019s question, and was reasonably designed to establish that Tahara Underwood had, shortly after the crime, suggested only theft as the motive, not fear of the victims as she had indicated at trial. Moreover, given the testimony of Detective Dougherty, trial counsel cannot be faulted for his efforts in cross-examining Detective Dougherty, which simply yielded from Detective Dougherty an admission that Tahara Underwood herself had never explicitly stated why Appellant had killed the victims. Accordingly, these claims are merit-less, and trial counsel cannot be deemed ineffective. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAppellant next claims that trial counsel was ineffective in failing to present character testimony on his behalf. Specifically, Appellant finds fault with trial counsel\u2019s decision to present only Appellant\u2019s testimony, thus excluding other family members and friends who were allegedly present in court and/or had been made known to trial counsel, and allegedly would have testified to Appellant\u2019s good character traits for being peaceful and honest.\nIn support of this claim, Appellant only refers to \u201cnumerous character witnesses, including [his] mother, father, aunt and uncle.\u201d In so doing, Appellant has not only failed to sufficiently identify all of those individuals who were allegedly available to testify (with the exception of his mother and father), but has also failed to sufficiently identify how these individuals would have testified. See Commonwealth v. Davis, 381 Pa.Super. 483, 497, 554 A.2d 104, 111 (1989), allocatur denied, 524 Pa. 617, 571 A.2d 380 (1989) (no basis for remand without affidavits from relatives who allegedly would have provided helpful testimony). Furthermore, Appellant has failed to argue that any of these witnesses would have testified to his reputation for good character, but rather, only vaguely argues that they would have testified that he was peaceful and honest. This is insufficient, as character evidence is not the opinion of one person or even a handful of persons, but must represent the consensus of the community. Commonwealth v. Neely, 519 Pa. 664, 548 A.2d 254 (1988), rev\u2019d on other grounds, 522 Pa. 236, 561 A.2d 1 (1989); Commonwealth v. Boone, 467 Pa. 168, 354 A.2d 898 (1975). For these reasons alone, Appellant\u2019s claim is rejected.\nMoreover, in support of this claim Appellant relies upon the decision of this Court in Commonwealth v. Weiss, 530 Pa. 1, 606 A.2d 439 (1992), for the proposition that trial counsel\u2019s failure to present character witnesses that were willing and available to testify constitutes ineffectiveness per se. Appellant\u2019s reliance upon Weiss is misplaced.\nIn Weiss, the defendant was convicted by a jury of numerous sexual offenses committed against his four-year-old daughter. We subsequently reversed upon a determination that trial counsel was ineffective because defense counsel had failed to present character evidence on behalf of the defendant. In so doing, we did not hold, as advanced by Appellant, that under all circumstances the failure to call character witnesses was ineffectiveness per se. Rather, our decision was based upon the particular circumstances of that case.\nSpecifically, we first determined that given the nature of the evidence, which involved only two direct witnesses, character evidence was critical to a determination of credibility. As such evidence is substantive, and may in and of itself give rise to a reasonable doubt of guilt, we concluded that the defendant\u2019s claim was not without merit. Thereafter, we concluded that defense counsel\u2019s decision \u201cwas not a tactical one made after weighing all of the alternatives, but was based on the fact that he had failed to interview and prepare potential character witnesses, and consult with his client thereto.\u201d Id. at 8, 606 A.2d at 443. These failures by counsel were precipitated by defense counsel\u2019s perception that familial character witnesses were per se worthless.\nHad the Appellant in the matter sub judice sufficiently identified those individuals who allegedly would have testified, and argued that such witnesses would have testified to his good reputation in the community, it is arguable that Appellant\u2019s claim in the matter sub judice may have possessed merit despite the absence of direct testimony to contradict his testimony that he committed the killings in self-defense. However, unlike defense counsel in Weiss, there is no allegation or evidence that trial counsel\u2019s decision herein to not present character witnesses on Appellant\u2019s behalf was based upon any preconceived notion concerning the value of the character testimony of Appellant\u2019s relatives and friends, or a total failure to inquire into the usefulness of such evidence. Rather, there exists a reasonable basis for trial counsel\u2019s decision.\nIn Commonwealth ex rel. Washington and Maroney, 427 Pa. 599, 235 A.2d 349 (1967), this Court stated:\nWe cannot emphasize strongly enough, however, that our inquiry ceases and counsel\u2019s assistance is deemed constitutionally effective once we are able to conclude that the particular course chosen by counsel had some reasonable basis designed to effectuate his client\u2019s interests. The test is not whether other alternatives were more reasonable, employing a hindsight evaluation of the record. Although weigh the alternatives we must, the balance tips in favor of a finding of effective assistance as soon as it is determined that trial counsel\u2019s decisions had any reasonable basis.\nId. at 604, 235 A.2d at 352. See also, Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987), partially overruling Maroney on other grounds.\nUnquestionably, it would have been dangerous for trial counsel to present these witnesses. Aside from the obvious bias of these witnesses arising from their close association with Appellant, several, if not all, of those alleged character witnesses vaguely identified by Appellant were involved in cleaning up the crime scene, disposing of evidence, concealing the crime from the police and aiding Appellant in his attempts to evade capture. As accomplices to the crime, they would have benefited from a verdict exonerating Appellant and would have been rendered utterly incredible for establishing his good character. In fact, it is likely that these witnesses would have provided evidence of Appellant\u2019s bad reputation arising from his activities including those as a drug dealer. Appellant admitted that he had taken steps to conceal his crimes, and had dealt drugs in partnership with one of the victims.\nAccordingly, as Appellant has failed to provide sufficient support for this claim, we conclude that it is meritless. Therefore, trial counsel cannot be deemed ineffective on this basis. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAppellant next claims that trial counsel was ineffective in failing to object to numerous portions of the Assistant District Attorney\u2019s closing argument during the guilt phase of Appellant\u2019s trial. In support of this claim, Appellant points to the Assistant District Attorney\u2019s references to: robbery as a motive; the experts\u2019 opinions that the victims may have been sleeping; the Appellant\u2019s statement that he was a drug dealer; and other unrelated murders committed at the home of an intended victim for the purpose of refuting Appellant\u2019s argument that those who commit intentional murders do not commit them in their own homes. While Appellant has raised this claim under the guise of ineffectiveness of trial counsel, in order for Appellant to prevail on this claim he must first establish the existence of prosecutorial misconduct warranting an objection by trial counsel.\nIt is well settled that the prosecutor is permitted wide latitude in making argument to the jury. Commonwealth v. Chester, 526 Pa 578, 587 A.2d 1367 (1991), cert. denied, 502 U.S. 959, 112 S.Ct. 422, 116 L.Ed.2d 442 (1991). Guidelines governing the review of allegedly improper remarks made by a prosecutor during argument were set forth in Commonwealth v. Zettlemoyer, 500 Pa. 16, 454 A.2d 937 (1982):\nThe primary guideline in assessing a claim of error of this nature is to determine whether the unavoidable effect of the contested comments was to prejudice the jury, forming in their minds fixed bias and hostility towards the accused so as to hinder an objective weighing of the evidence and impede the rendering of a true verdict. In making such a judgment, we must not lose sight of the fact that the trial is an adversary proceeding, Code of Professional Responsibility (Canon 7 E.C. 7-19 \u2014 7-39), and the prosecution, like the defense, must be accorded reasonable latitude in fairly presenting its version of the case to the jury. Nevertheless, we do require that the contentions advanced must be confined to the evidence and the legitimate inferences to be drawn therefrom. Deliberate attempts to destroy the objectivity and impartiality of the finder of fact so as to cause the verdict to be a product of the emotion rather than reflective judgment will not be tolerated. The verdict must flow from the respective strengths and weaknesses of the evidence presented and not represent a response to inflammatory pleas for either leniency or vengeance.\n500 Pa. at 53, 454 A.2d at 956 [citations omitted]. See also, Commonwealth v. Chester, 526 Pa 578, 587 A.2d 1367 (1991), cert. denied, 502 U.S. 959, 112 S.Ct. 422, 116 L.Ed.2d 442 (1991); Commonwealth v. Banks, 513 Pa. 318, 521 A.2d 1 (1987), cert. denied, 484 U.S. 873, 108 S.Ct. 211, 98 L.Ed.2d 162 (1987); Commonwealth v. Carpenter, 511 Pa. 429, 515 A.2d 531 (1986); Commonwealth v. Whitney, 511 Pa. 232, 512 A.2d 1152 (1986).\nWith these principles in mind, we have reviewed the entire closing argument presented by the Assistant District Attorney during the guilt phase of Appellant\u2019s trial, including those specific portions referenced by Appellant, and conclude that the Assistant District Attorney did not deliberately seek to destroy the objectivity of the fact finder. We further conclude that his argument did not have the \u201cunavoidable effect\u201d of prejudicing the jury, forming in their mind a fixed bias and hostility towards Appellant so that they could not weigh the evidence objectively and render a true verdict. The argument of the Assistant District Attorney was reasonably based upon the evidence presented at trial and the reasonable inferences therefrom, and merely exhibited a degree of oratorical flair, license and passion that was permissible during his arguments to the jury. Commonwealth v. Chester, 526 Pa. 578, 587 A.2d 1367 (1991), cert. denied, 502 U.S. 959, 112 S.Ct. 422, 116 L.Ed.2d 442 (1991). As the prosecutor did not exceed the bounds of reasonable advocacy, trial counsel cannot be deemed ineffective for failing to object on the basis of prosecutorial misconduct. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAppellant next claims that trial counsel was ineffective in failing to object to portions of the trial court\u2019s charge to the jury during the guilt phase of Appellant\u2019s trial. Specifically, Appellant contends that trial counsel should have requested that the trial court further explain the \u201cunreasonable belief\u2019 aspects of voluntary manslaughter and self-defense. This claim is meritless.\nThe trial court has discretion in phrasing its instructions to the jury, and is not limited to particular language, provided the law is clearly, adequately, and accurately presented to the jury. Commonwealth v. Prosdocimo, 525 Pa. 147, 578 A.2d 1273 (1990); Commonwealth v. Ohle, 503 Pa. 566, 470 A.2d 61 (1983). The trial court\u2019s instructions, when read as a whole, clearly, adequately, and accurately presented to the jury the law concerning voluntary manslaughter and self-defense. This is all that is required. The mere fact that Appellant may believe that further explanation would have been beneficial does not render this charge defective. Accordingly, this claim is meritless, and counsel cannot be deemed ineffective for not requesting that the trial court provide further instructions. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nPenalty Phase\nAppellant next argues that trial counsel was ineffective in failing to object to the trial court\u2019s response to a question posed by the jury during its deliberations on penalty.\nThe question raised by the jury was as follows:\nIf all 12 jurors agree on the aggravating circumstances, is the death penalty automatic, or is the sentencing still the choice of the jurors?\nIn response, the trial court stated:\nThe Sentencing Code provides that the verdict must be a sentence of death if the jury unanimously finds at least one aggravating circumstance and no mitigating circumstance, or if the jury unanimously finds one or more aggravating circumstances which outweigh any mitigating circumstances. In all other cases the verdict must be a sentence of life imprisonment.\nAs I told you before, the mitigating circumstances need not be unanimous. However, if they are not unanimous, then you must take that into consideration when you are weighing whether the mitigating outweigh the aggravating.\nIf that answers your question, all right. If it doesn\u2019t, let me know, give me another question and I will try to be more specific. I don\u2019t want to go beyond the question that you have asked. But if you have any other questions, let me know.\nN.T. 11/7/90, p. 6.55. (emphasis added).\nAppellant complains that the emphasized portion of the instruction by the trial court was extremely prejudicial, because it deprived him of the right to have each juror weigh and evaluate the various factors according to their individual conscience. In essence, his claim is that through its instruction the trial court improperly infringed upon the sole province of the jury to weigh aggravating and mitigating circumstances. We agree.\n42 Pa.C.S. \u00a7 9711(c) provides only that the jury must determine whether one or more aggravating circumstances \u201coutweigh\u201d any mitigating circumstances. The statute offers no specific formula concerning how the jury should go about weighing these factors. In the absence of such guidance, the \u201cprocess\u201d of weighing must be left to the individual members of the jury. Thus, when the trial court instructed the jury that they must consider the lack of unanimity regarding findings of mitigating circumstances when determining whether the mitigating circumstances were outweighed by the aggravating circumstances, the trial court interfered with the province of the jury. In making this statement, the trial court, in contravention of the Statute, invaded the exclusive function of the jury to assess what weight each factor deserved within the particular case before them. This instruction had the unavoidable effect of telling the jury that the weight to be accorded to mitigating circumstances was governed by the number of jurors that had found them to exist\u2014 i.e., how weighty or serious can the evidence in mitigation be if only a few members of the jury found it.\nGiven the seriousness of the trial court\u2019s action in this instance we can discern no reasonable basis why trial counsel failed to object. Moreover, as any one of the jurors that found the mitigating circumstance of age to exist could have compelled a sentence of life imprisonment on either murder conviction by simply determining that the mitigating circumstance outweighed the aggravating circumstance(s), we conclude that Appellant was prejudiced by trial counsel\u2019s failure to object. There exists a reasonable probability that the jury\u2019s weighing process may have yielded a different result. Hence, the fundamental fairness of the proceeding was undermined by trial counsel\u2019s failure to object to the instruction, and a new hearing as to penalty is warranted. Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987); Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Giknis, 491 Pa. 215, 420 A.2d 419 (1980).\nAccordingly, we affirm Appellant\u2019s convictions, but vacate the judgments of sentence of death and remand the matter to the Court of Common Pleas of Philadelphia County, Criminal Division, for a new sentencing hearing on Appellant\u2019s murder convictions.\nJurisdiction relinquished.\nLARSEN, J., did not participate in the decision of this case.\nPAPADAKOS, J., files a dissenting opinion.\nMONTEMURO, J., was an appointed Justice of the Court at the time of argument.\n. See, 42 Pa.C.S. \u00a7\u00a7 722(4), 9711(h)(1); Pa.R.A.P. 702(b) and 1941.\n. 18 Pa.C.S. \u00a7 2502(a).\n. 18 Pa.C.S. \u00a7 907.\n. 18 Pa.C.S. \u00a7 5510.\n. The defendant has been convicted of another murder, committed either before or at the time of the offense at issue. 42 Pa.C.S. \u00a7 971 l(d)(l 1).\n. The age of the defendant at the time of the crime, 42 Pa.C.S. 9711(e)(4). The record reveals that Appellant was 17 years of age at the time of his offenses.\n. (1) The victim was a prosecution witness to a murder or other felony committed by the defendant and was killed for the purpose of preventing his testimony against the defendant in any grand jury or criminal proceeding involving such offenses, 42 Pa.C.S. \u00a7 9711(d)(5); and (2) The defendant has been convicted of another murder, committed either before or at the time of the offense at issue. 42 Pa.C.S. \u00a7 971 l(d)(l 1).\n. The age of the defendant at the time of the crime, 42 Pa.C.S. 9711(e)(4). The record reveals that Appellant was 17 years of age at the time of his offenses.\n. 42 Pa.C.S. \u00a7 9711(g).\n. Appellant\u2019s related claims with regard to the re-direct and re-cross examination of Detective Dougherty, which did nothing more than serve to reiterate his previous testimony on direct and cross-examination, cannot serve as a basis for finding trial counsel ineffective. In addition, Appellant\u2019s claim concerning the Assistant District Attorney's question to Appellant with regard to the truthfulness of the testimony of Detective Dougherty is also meritless. As Appellant gave testimony that was contradictory to that of Detective Dougherty and essentially all other Commonwealth witnesses, the Commonwealth was free to seek to expose the credibility of Appellant\u2019s testimony. See Commonwealth v. Carpenter, 511 Pa. 429, 515 A.2d 531 (1986).\n. Given our disposition of this issue, we need not address Appellant\u2019s remaining claims, which all arise in connection with the penalty phase of Appellant's trial.\n. The Prothonotary of the Supreme Court is directed to transmit the complete record of the case sub judice to the Court of Common Pleas of Philadelphia County, Criminal Division.",
+        "type": "majority",
+        "author": "CAPPY, Justice."
+      },
+      {
+        "text": "PAPADAKOS, Justice,\ndissenting.\nI must dissent from the conclusion reached by the Majority in this case that trial counsel was ineffective for failing to object to the trial court\u2019s charge to the jury concerning the weighing and evaluation procedures to be employed in determining whether the aggravating circumstances found outweighed the mitigating circumstances. Our sentencing scheme allows an individual juror to consider and weigh for himself or herself whether mitigating circumstances exist in any case and whether their existence mitigates in favor of life or death. Commonwealth v. O\u2019Shea, 523 Pa. 384, 410, 567 A.2d 1023 (1990); Commonwealth v. Frey, 520 Pa. 338, 554 A.2d 27 (1989). Accordingly, any charge should be reviewed in light of this standard to insure that no juror is prevented from assessing for himself or herself whether mitigating eircumstances, when found by a particular juror, outweigh in his or her mind the aggravating circumstances found by the entire jury.\nHere, the Majority complains that when the trial judge told the jury they must take into consideration the fact a particular mitigating circumstance was not found unanimously, the trial judge channelled the jury into believing that a particular weight had to be accorded a mitigating circumstance in proportion to the number of jurors who found that particular circumstance to be present. While this is an interesting interpretation of the trial court\u2019s charge, I do not believe it to be the \u201cunavoidable\u201d meaning to be assigned to this language or that the trial court interfered with the province of the jury in delivering this charge.\nIn pertinent part, the language of the charge was as follows: \u201cAs I told you before, the mitigating circumstances need not be unanimous. However, if they are not unanimous, then you must take that into consideration when you are weighing whether the mitigating outweigh the aggravating.\u201d\nAs I read this language, the trial court was speaking to the jurors individually in light of the first sentence which explains that mitigating circumstances can be properly found by less than unanimous vote. As I read the next sentence, the trial court is still addressing the jurors individually because he is discussing mitigating circumstances that are found by less than the full jury and simply tells them that, in spite of their lack of unanimity on a particular mitigating circumstance, the individual juror who finds mitigating circumstances must nonetheless \u201ctake that into consideration,\u201d i.e., consider the mitigating circumstance found by that juror when weighing whether the particular mitigating circumstance outweighs the aggravating circumstance which might have been found by the full jury. In other words, the individual juror who finds a particular mitigating circumstance is still required to consider the impact of this circumstance in his deliberations even if the full jury did not agree with his or her finding of the presence of such a circumstance. Significantly, the trial court had just finished telling the jurors in the preceding sentence that their findings with regard to mitigating circumstances would be accorded validity even if they were not unanimous, and for this reason I see no reason to read his second sentence in a way which calls into question the validity of what had just been characterized as a proper finding as the Majority has.\nIn my view, the charge fully complies with the statute\u2019s goal in not precluding an individual juror from considering and weighing any mitigating circumstance in his or her deliberations and the ineffective assistance of counsel claim based on trial counsel\u2019s failure to object to the charge is meritless. I would affirm the verdict and sentence of death.",
+        "type": "dissent",
+        "author": "PAPADAKOS, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Bernard L. Siegel, Philadelphia, for J.M. Blount.",
+      "Catherine Marshall, Alan Sacks, Philadelphia, for Com.",
+      "Robert A. Graci, Harrisburg, for Atty. Gen."
+    ],
+    "corrections": "",
+    "head_matter": "647 A.2d 199\nCOMMONWEALTH of Pennsylvania, Appellee, v. John M. BLOUNT, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 19, 1993.\nDecided Aug. 24, 1994.\nBernard L. Siegel, Philadelphia, for J.M. Blount.\nCatherine Marshall, Alan Sacks, Philadelphia, for Com.\nRobert A. Graci, Harrisburg, for Atty. Gen.\nBefore NIX, C.J., and LARSEN, FLAHERTY, ZARPALA, PAPADAKOS, CAPPY and MONTEMURO, JJ.\nMr. Justice Montemuro is sitting by designation as Senior Justice pursuant to Judicial Assignment Docket No. 94 R1801, due to the unavailability of Mr. Justice Larsen, see No. 127 Judicial Administrative Docket No. 1, filed October 28, 1993."
+  },
+  "file_name": "0156-01",
+  "first_page_order": 322,
+  "last_page_order": 345
+}

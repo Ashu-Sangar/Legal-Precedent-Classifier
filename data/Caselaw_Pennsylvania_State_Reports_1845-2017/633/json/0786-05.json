@@ -1,0 +1,70 @@
+{
+  "id": 12286744,
+  "name": "Com. v. Neppach",
+  "name_abbreviation": "Com. v. Neppach",
+  "decision_date": "2015-12-02",
+  "docket_number": "256 WAL (2015)",
+  "first_page": "786",
+  "last_page": "786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 786"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.815,
+    "sha256": "521a869a6be80c8a14eb297f035bdb426cc999fc86aa76efbde6734833c5a078",
+    "simhash": "1:082128bcf0c44851",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Neppach"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1123",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Neppach\n12/02/2015\n256 WAL (2015)"
+  },
+  "file_name": "0786-05",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

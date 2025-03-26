@@ -1,0 +1,145 @@
+{
+  "id": 1240352,
+  "name": "Harding v. Pennsylvania Mutual Life Insurance Co., Appellant",
+  "name_abbreviation": "Harding v. Pennsylvania Mutual Life Insurance",
+  "decision_date": "1953-02-14",
+  "docket_number": "Appeal, No. 311",
+  "first_page": "270",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "373 Pa. 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "171 Pa. Super. Ct. 236",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        475615
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/171/0236-01"
+      ]
+    },
+    {
+      "cite": "90 A. 2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Pa. Super. Ct. 236",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        475615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/171/0236-01"
+      ]
+    },
+    {
+      "cite": "95 A. 2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "373 Pa. 231",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1240401
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/373/0231-01"
+      ]
+    },
+    {
+      "cite": "95 A. 2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "373 Pa. 231",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1240401
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/373/0231-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 246,
+    "char_count": 3888,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 1.7866983139876227e-07,
+      "percentile": 0.7142995595496108
+    },
+    "sha256": "9dcaf05b3d151385fb3db216706ee456f8d6f7d2ce836525273ae7ae8d844f1d",
+    "simhash": "1:3adbe47ae0d7a6d5",
+    "word_count": 647
+  },
+  "last_updated": "2024-02-27T20:55:10.981692+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stern, C. J., Stearne, Jones, Bell, Chidsey and Musmanno, JJ."
+    ],
+    "parties": [
+      "Harding v. Pennsylvania Mutual Life Insurance Co., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Horace Stern,\nThis case is parallel with that of the Beley case in which an opinion has this day been handed down.\nThe insured here was Clyde P. Harding. The beneficiary of his policy at the time of his death was his minor wife, Catherine Harding, who, by her guardian, brought the present action to recover on the policy, the face amount of which was $2,500.00 with a supplementary contract providing for double indemnity if death resulted solely through external, violent and accidental means. Harding was a member of the 28th Division, Pennsylvania National Guard, which was inducted into the federal service on September 5, 1950. He was hilled on September 11, 1950, in a railroad accident while enroute to Camp Atterbury, Indiana, for military training.\nHarding\u2019s policy, as far as its face amount was concerned, did not contain the clause which appeared in the Beley policy exempting the Insurance Company from liability if the insured engaged in military or naval service in time of war; accordingly, the Company, in the present case, admitted liability for the face amount of the policy. It resisted payment, however, of the additional accidental death benefit because, as to that, there were the same provisions as in the Beley policy, namely, that the Company should not be liable if the death of the insured resulted by reason of military, air or naval service in time of war, and that the right to the additional accidental death benefit should immediately terminate if the insured should at any time, voluntarily or involuntarily, engage in military, air or naval service in time of war. While, as the Company admitted, Harding\u2019s death did not result by reason of his military service, defendant claimed that the insured was engaged in military service in time of war. This raises the same question as that involved in the Beley case, namely, whether the conflict in Korea constituted \u201cwar\u201d within the meaning of that term as used in the policy. The Court of Common Pleas of Luzerne County, where the present action was instituted, held that plaintiff could recover only for the face amount of the policy and not for the additional accidental death benefit. On appeal, the Superior Court reversed this decision and awarded judgment for plaintiff for both of the claimed items of recovery (171 Pa. Superior Ct. 236, 90 A. 2d 589). For the reasons stated in our opinion in the Beley case we are of opinion that the judgment so entered was correct.\nThe judgment of the Superior Court is affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Horace Stern,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Bell:\nThe lower Court held that the beneficiary could not recover accidental death benefits under a policy which provided: \u201cTermination: \u2014 These provisions for the additional accidental death benefit shall immediately terminate: ... (b) if the Insured shall at any time, voluntarily or involuntarily, engage in military, air or naval service in time of war; . . .\u201d.\nIt is indisputable that the insured voluntarily or involuntarily engaged in military service and the only question is the meaning of the words \u201cin time of war\u201d. For the pertinent reasons which are set forth at length in my dissenting opinion in Beley v. Pennsylvania Mutual Life Insurance Co., 373 Pa. 231, 95 A. 2d 202. I would affirm the judgment of the Court of Common Pleas.",
+        "type": "dissent",
+        "author": "Mr. Justice Bell:"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Chidsey:\nI dissent in this case for the reasons set forth in my dissenting opinion in Beley v. Pennsylvania Mutual Life Insurance Co., 373 Pa. 231, 95 A. 2d 202.",
+        "type": "dissent",
+        "author": "Mr. Justice Chidsey:"
+      }
+    ],
+    "attorneys": [
+      "M. Stuart Goldin, with him Abe J. Goldin and Goldin & Goldin, for appellant.",
+      "William A. Valentine, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Harding v. Pennsylvania Mutual Life Insurance Co., Appellant.\nArgued November 19, 1952.\nBefore Stern, C. J., Stearne, Jones, Bell, Chidsey and Musmanno, JJ.\nreargument refused March 24, 1953.\nSame case in Superior Court: 171 Pa. Super. Ct. 236.\nM. Stuart Goldin, with him Abe J. Goldin and Goldin & Goldin, for appellant.\nWilliam A. Valentine, for appellee.\nFebruary 14, 1953:"
+  },
+  "file_name": "0270-01",
+  "first_page_order": 298,
+  "last_page_order": 301
+}

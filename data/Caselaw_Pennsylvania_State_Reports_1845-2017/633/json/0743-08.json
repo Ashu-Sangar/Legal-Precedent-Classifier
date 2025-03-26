@@ -1,0 +1,70 @@
+{
+  "id": 12281000,
+  "name": "Com. v. Dates",
+  "name_abbreviation": "Com. v. Dates",
+  "decision_date": "2015-09-09",
+  "docket_number": "430 MAL (2015)",
+  "first_page": "743",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 743"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 441",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.905,
+    "sha256": "8547790645479146042f4e89cef9c087e0981048d32d284bc196a9c3306012f7",
+    "simhash": "1:09060094c5105dc0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dates"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 441",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dates\n09/09/2015\n430 MAL (2015)"
+  },
+  "file_name": "0743-08",
+  "first_page_order": 797,
+  "last_page_order": 797
+}

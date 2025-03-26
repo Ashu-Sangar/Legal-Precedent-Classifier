@@ -1,0 +1,944 @@
+{
+  "id": 607113,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Mark David BREAKIRON, Appellant",
+  "name_abbreviation": "Commonwealth v. Breakiron",
+  "decision_date": "1999-04-09",
+  "docket_number": "",
+  "first_page": "519",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "556 Pa. 519"
+    },
+    {
+      "type": "parallel",
+      "cite": "729 A.2d 1088"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "661 A.2d 352",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7870893,
+        470782
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/661/0352-01",
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470782
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "710 A.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11827068,
+        507821
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Travaglia, 541 Pa. 108, 130 n. 15, 661 A.2d 352, 366 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/710/0031-01",
+        "/pa/551/0258-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507821
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Travaglia, 541 Pa. 108, 130 n. 15, 661 A.2d 352, 366 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0258-01"
+      ]
+    },
+    {
+      "cite": "108 L.Ed.2d 635",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1500",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "494 U.S. 1038",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5146,
+        4804,
+        5220,
+        5221,
+        5222,
+        5007,
+        5012,
+        5461,
+        4884,
+        4762,
+        5021,
+        5023
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/1038-09",
+        "/us/494/1038-11",
+        "/us/494/1038-10",
+        "/us/494/1038-06",
+        "/us/494/1038-02",
+        "/us/494/1038-05",
+        "/us/494/1038-07",
+        "/us/494/1038-03",
+        "/us/494/1038-01",
+        "/us/494/1038-08",
+        "/us/494/1038-12",
+        "/us/494/1038-04"
+      ]
+    },
+    {
+      "cite": "141 L.Ed.2d 151",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 S.Ct. 2076",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 F.3d 916",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11889446
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "Becker, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/132/0916-01"
+      ]
+    },
+    {
+      "cite": "703 A.2d 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        281131,
+        11881140
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/550/0062-01",
+        "/a2d/703/0426-01"
+      ]
+    },
+    {
+      "cite": "550 Pa. 62",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        281131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/550/0062-01"
+      ]
+    },
+    {
+      "cite": "281 Pa.Super. 392",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        152772
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "399"
+        },
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/281/0392-01"
+      ]
+    },
+    {
+      "cite": "604 A.2d 700",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1831229,
+        1831213
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0386-02",
+        "/pa/529/0387-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 387",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831213
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0387-01"
+      ]
+    },
+    {
+      "cite": "645 A.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775506,
+        7860965
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0514-01",
+        "/a2d/645/0189-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 514",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775506
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0514-01"
+      ]
+    },
+    {
+      "cite": "687 A.2d 1112",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360681,
+        466722
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1113"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/687/1112-01",
+        "/pa/546/0616-01"
+      ]
+    },
+    {
+      "cite": "546 Pa. 616",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        466722
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "619"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/546/0616-01"
+      ]
+    },
+    {
+      "cite": "491 Pa. 607",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1765704
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1051"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/491/0607-01"
+      ]
+    },
+    {
+      "cite": "387 A.2d 661",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1740650,
+        1740621
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "663"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/478/0621-01",
+        "/pa/478/0619-01"
+      ]
+    },
+    {
+      "cite": "478 Pa. 621",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1740650
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/478/0621-01"
+      ]
+    },
+    {
+      "cite": "501 Pa. 178",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1782455
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "in order to appoint special prosecutor in PCHA proceedings, the defendant must show an actual impropriety, which taints the proceedings"
+        },
+        {
+          "parenthetical": "in order to appoint special prosecutor in PCHA proceedings, the defendant must show an actual impropriety, which taints the proceedings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/501/0178-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 179",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Breakiron I"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 224",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Breakiron I"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "498 U.S. 881",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6443882
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Breakiron I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0881-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822795
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "296-97"
+        },
+        {
+          "page": "1042"
+        },
+        {
+          "page": "41, 42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0282-01"
+      ]
+    },
+    {
+      "cite": "523 Pa. 51",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820332
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "65"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0051-01"
+      ]
+    },
+    {
+      "cite": "698 A.2d 43",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        960516,
+        11998055
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0441-01",
+        "/a2d/698/0043-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 441",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960516
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0441-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813570
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0571-01"
+      ]
+    },
+    {
+      "cite": "656 A.2d 877",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7880936,
+        472219
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/656/0877-01",
+        "/pa/540/0192-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472219
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0192-01"
+      ]
+    },
+    {
+      "cite": "520 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815634
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "348"
+        },
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0338-01"
+      ]
+    },
+    {
+      "cite": "701 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11898539,
+        18399
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/701/0541-01",
+        "/pa/549/0450-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18399
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0450-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 367",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217594
+      ],
+      "weight": 3,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0367-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818950
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0256-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841472
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0210-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833002
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "153"
+        },
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0127-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805857,
+        765946,
+        765988,
+        11805966
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "699"
+        },
+        {
+          "page": "700"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0693-01",
+        "/pa/554/0030-01",
+        "/pa/554/0031-01",
+        "/a2d/720/0693-02"
+      ]
+    },
+    {
+      "cite": "554 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765988
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0031-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217116
+      ],
+      "weight": 6,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "364-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0356-01"
+      ]
+    },
+    {
+      "cite": "49 L.Ed.2d 1226",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 S.Ct. 3234",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 U.S. 923",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194090,
+        6193611,
+        6194306,
+        6193871
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0923-03",
+        "/us/428/0923-01",
+        "/us/428/0923-04",
+        "/us/428/0923-02"
+      ]
+    },
+    {
+      "cite": "465 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1712671
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/465/0134-01"
+      ]
+    },
+    {
+      "cite": "139 L.Ed.2d 284",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 S.Ct. 364",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        991597
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/213/0364-02"
+      ]
+    },
+    {
+      "cite": "688 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366050,
+        468654
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/688/1152-01",
+        "/pa/547/0071-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468654
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0071-01"
+      ]
+    },
+    {
+      "cite": "459 Pa. 196",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        481059
+      ],
+      "weight": 2,
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/459/0196-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822795
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "Breakiron I"
+        },
+        {
+          "parenthetical": "Breakiron I"
+        },
+        {
+          "page": "1046"
+        },
+        {
+          "page": "1046"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/524/0282-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1535,
+    "char_count": 46814,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 1.0677034434012323e-07,
+      "percentile": 0.5587802609341317
+    },
+    "sha256": "8a57f326a97bafb2d458300c9af81a5878fade16623a43d39eb6a1b608c2bb8f",
+    "simhash": "1:aa69870ef67e9bb6",
+    "word_count": 7628
+  },
+  "last_updated": "2024-02-27T17:54:55.560527+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, and SAYLOR, JJ.",
+      "Justices CAPPY and SAYLOR concur in the result.",
+      "Justice ZAPPALA files a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Mark David BREAKIRON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nNEWMAN, Justice.\nIn this capital case, Mark David Breakiron (\u201cBreakiron\u201d) appeals from an order denying post-conviction relief.\nI. FACTS\nOn March 24, 1987, Breakiron stabbed Saundra Marie Martin (Ms. Martin) at Shenanigan\u2019s Lounge, the bar at which she was working. He then took her purse and the bags that contained the bar\u2019s cash receipts for the day. He threw Ms. Martin\u2019s body in his pick up truck and hid it in the woods near his grandparents\u2019 house, where the police discovered the body the next day. At the time the body was discovered, it was nude except for a sock on her foot. The pathology reports indicated that Ms. Martin had been stabbed twenty times and her neck was slashed. She had defensive wounds on her hands and signs of blunt force trauma to her head.\nAt trial, Breakiron\u2019s sole defense to the crime was \u201cdiminished capacity.\u201d The only witness was Breakiron, who testified that because of his alcohol intoxication on the evening of the murder, he did not remember the incident, but that he recalled portions, \u201c... like a TV screen inside [his] head and [he] saw someone laying there getting stabbed.\u201d (N.T. at 1256) In addition, Breakiron testified that he went to the bar where Ms. Martin was working and had a number of beers, after already drinking about fourteen beers, and shots of liquor. At about 12:30 a.m. all of the other patrons had left the bar except Breakiron. Ms. Martin came around the bar, and sat on a barstool near him. They talked for awhile and then Breakiron went to a pinball machine at the back of the bar. Ms. Martin came over to him and he tried to put his arm around her. \u201cThe next thing\u201d he recalls is \u201cgetting hit over the head with something heavy.\u201d (N.T. at 1253) He fell to the floor and remembers nothing else. When he regained consciousness, Ms. Martin was on the floor of the bar with a knife in her back. Breakiron proceeded to pull the knife out of her back, hurry out of the bar, and get in his truck. (N.T. at 1255) He tried to get out of there because \u201ceverything was wrong.\u201d Id. As he was driving, he felt that he was \u201cpart of it\u201d and that \u201che had to correct it.\u201d Id. He returned to the lounge, went to the body, felt that it was cold, picked her up, carried her outside and put her in the bed of the truck. At that time, he took bags of money, which contained the receipts of the bar for the evening and he took Ms. Martin\u2019s purse.\nEllis Price, a prison mate of Breakiron\u2019s, testified that Breakiron told him that when Breakiron got to the bar, another man and woman were there, so he went into the bathroom to hide until they left. Breakiron asked for another drink, and the barmaid said it was closing time, and he had to leave. He then picked up an ashtray and started hitting Ms. Martin. When she would not \u201cgo to the floor,\u201d he pulled out a knife. Then he dragged her to his truck and took her to his \u201cPap\u2019s\u201d house where he \u201cfinished her off.\u201d\nFollowing the presentation of evidence, a jury convicted Breakiron of first-degree murder and robbery. At a hearing on April 14, 1998, the jury sentenced Breakiron to death, finding two aggravating circumstances: that Ms. Martin was tortured, and that the murder was committed in the course of a robbery. No mitigating circumstances were found. We affirmed the judgment of sentence on March 14, 1990. Commonwealth v. Breakiron, 524 Pa. 282, 571 A.2d 1035 (1990), cert. denied, 498 U.S. 881, 111 S.Ct. 224, 112 L.Ed.2d 179 (1990) (Breakiron I). Trial counsel represented Breakiron through the direct appeal and during a petition for certiorari to the United States Supreme Court.\nOn March 11, 1996, Breakiron filed a pro se petition pursuant to the Post-Conviction Relief Act (PCRA), alleging claims of ineffective assistance of counsel and trial court error and requesting appointment of counsel. The main thrust of the pro se petition was that trial counsel was ineffective in handling certain mental health issues. The Court of Common Pleas of Fayette County (PCRA court) appointed new counsel to represent Breakiron during the PCRA proceedings, and appointed the Attorney General\u2019s office to handle the prosecution because of a conflict within the District Attorney\u2019s office. PCRA counsel filed an amended PCRA petition, on which the PCRA court held hearings on July 17 and 18, 1997 and September 17 and 19, 1997. The PCRA court denied relief, holding that Breakiron\u2019s claims were either waived, previously litigated or were without merit. This appeal followed.\nII. ANALYSIS\nIn this appeal, Breakiron seeks review of the denial of relief, by the PCRA court, on a number of grounds. First, he argues that the PCRA court should have recused the Attorney General from prosecuting the PCRA issues because the Attorney General\u2019s office improperly enlisted the aid of the Fayette County District Attorney\u2019s office, which had previously been recused from prosecuting the PCRA petition. Additionally, Breakiron raises two issues regarding both his conviction for first degree murder and the imposition of the death penalty. We first address Breakiron\u2019s arguments that the PCRA court should have recused the Attorney General from involvement in this matter. We will then discuss the issues related to alleged error in the guilt and penalty phases of the trial.\nA. RECUSAL OF THE ATTORNEY GENERAL\nBecause of an alleged conflict of the Attorney General\u2019s office, Breakiron requests that we remand this matter for a new PCRA hearing. We disagree that the Attorney General\u2019s office had any actual conflict in this matter.\nDuring the PCRA proceedings, Breakiron requested that the PCRA court appoint special counsel from the Attorney General\u2019s office because in the interim from Breakiron\u2019s trial to the PCRA filing, both of Breakiron\u2019s trial and direct appeals counsel, Richard Bower and Jack Heneks of the Public Defender\u2019s office, became Assistant District Attorneys. Consequently, the Fayette County District Attorney\u2019s office had a conflict of interest in prosecuting the matter before the PCRA court. (The Fayette County' District Attorney\u2019s office consisted of only five attorneys, including the two who had worked on Breakiron I.) The trial court granted the request to recuse the District Attorney. (Apparently, the District Attorney\u2019s office agreed that a conflict existed and requested that the Attorney General\u2019s office take over the matter.) Following this motion and Order of the PCRA court, Chief Deputy Attorney General Robert Graci assumed the prosecution of the PCRA claims pursuant to 71 P.S. \u00a7 732-205.\nA short while after the appointment of Attorney Graci, Breakiron filed a motion to recuse Attorney Graci and to appoint another special prosecutor. The basis for the motion was that Attorney Graci allegedly created a conflict of interest because he asked trial counsel Bower to review a file that was still in the Public Defender\u2019s office. In addition, Attorney Graci had also requested Attorney Bower to review PCRA filings before the pleadings were filed with the court. On January 23, 1997, the PCRA court held a hearing regarding Breakiron\u2019s motion for recusal of the Attorney General. On March 10, 1997, the PCRA court denied the motion, holding that it:\n[found] no conflict to warrant recusal of the Attorney General. We must note initially that our decision should not be construed as our condonation or approval of the actions taken by Attorney Graci in soliciting Attorney Bower\u2019s assistance, or Attorney Bower\u2019s review of the file in the public defender\u2019s office... Our research has revealed no case on point. Nevertheless, we find that the effect is de minimis at this early stage of the proceedings... Any alleged conflict is not so severe as to warrant the drastic measures of recusing the Attorney General and appointing a special prosecutor.\nWe agree with the trial court that while the Attorney General\u2019s actions in this matter are not to be condoned, removal of the Attorney General was not an appropriate remedy, and the effect, if any, on the PCRA proceeding was de minimis. Breakiron did not meet his burden of showing that there was any actual impropriety in Attorney Graci\u2019s conduct. See, e.g., Commonwealth v. Harris, 501 Pa. 178, 460 A.2d 747 (1983) (in order to appoint special prosecutor in PCHA proceedings, the defendant must show an actual impropriety, which taints the proceedings). We deny Breakiron\u2019s request that we remand this matter for another PCRA hearing.\nB. INEFFECTIVE ASSISTANCE OF COUNSEL\nBreakiron next raises a number of arguments attacking the effectiveness of his trial counsel, which were properly raised to the PCRA court because that was his first opportunity to bring such a challenge. Commonwealth v. Seachrist, 478 Pa. 621, 623, 387 A.2d 661, 663 (1978). These claims can be categorized as follows: (1) those that relate to counsel\u2019s trial preparation; (2) those that relate to jury selection; (3) those that relate to the court\u2019s jury instructions during the guilt phase of trial; (4) those that relate to the aggravating circumstance of torture; (5) those that relate to counsel\u2019s remarks during closing argument in the penalty phase; (6) counsel\u2019s presentation of mitigating circumstances, (7) counsel\u2019s presentation of Breakiron\u2019s alcohol abuse; and (8) trial counsel\u2019s handling of mental health issues in both the guilt and penalty phase of trial. We address each of these below.\n1. COUNSEL\u2019S TRIAL PREPARATION\nIt is Breakiron\u2019s contention that counsel failed to interview and consult with him adequately, claiming that he and counsel met only two or three times before trial. However, Attorney Bower testified at the PCRA hearing that he had numerous telephone calls with Breakiron and met with him on a number of occasions before trial. The PCRA court found counsel\u2019s statements credible and denied the claim. We find no reason to reverse that decision. The length of time that trial counsel spends with defendant does not, by itself, imply the extent of trial counsel\u2019s preparation for trial. Commonwealth v. Bundy, 491 Pa. 607, 421 A.2d 1050, 1051 (1980). This claim does not have arguable merit and the PCRA court appropriately rejected it.\n2. JURY SELECTION\nDuring general voir dire regarding a jury panel\u2019s knowledge of the case, the following interaction took place:\nThe Court: All light. Anybody else that we missed?\nJuror No. 67: I know.about it from reading it in the papers and I know some of the family.\nThe Court: Whose Family?\nJuror 67: Breakirons.\nThe Court: All Right.\nJuror 67: I know the boy. I lived in the terrace and he used to do a lot of robbing there.\nThe Court: From what you know of the family and what you may have learned, do you have a fixed opinion about this case that could not be changed no matter what you hear in this room?\nJuror 67: Yes.\nThe Court: In other words, you could not judge the case impartially, is that what you are telling us?\nJuror 67: Right.\nThe Court: You could not be a fair juror, possibly?\nJuror 67: Right.\nThe Court: We are going to excuse you sir. You are now excused.\n(N.T. at 440-41, 448) (emphasis added).\nOne of the other veniremen in this panel, Juror 114, eventually sat on the jury. At the time of the statement, trial counsel did not object, did not make any motion to strike the panel, nor did he request that the trial court question the remaining jurors as to whether they had heard the statement. (N.T. at 448-49) After, dismissing Juror 67, the court immediately began another general question about whether any member of the jury panel was acquainted with the parties, or the attorneys, in the case.\nAfter the general voir dire by the court, the defense and prosecution individually questioned the jurors. During individual questioning of Juror No. 114, defense counsel asked him about his positive response to hearing about the incident, and whether he had spoken to anyone about the case. Juror 114 responded that he had not spoken to anyone other than his wife. Defense counsel also specifically asked Juror 114 the following:\nQ: Have you heard anyone in your presence talk about this case other than your wife?\nA: No.\nQ: As a result of what you have talked with your wife, have you formed an opinion as to the guilt or innocence of Mr. Breakiron?\nA: No.\n(N.T. at 511-512). Juror No. 114 was then questioned as to whether he could be a fair an impartial juror and he indicated that he could. Id. He was selected as an acceptable juror by both the defense and prosecution.\nBreakiron argues that he is entitled to a new trial because trial counsel did not move to strike the jury panel or request a mistrial after the panel heard prejudicial statements of Breakiron\u2019s alleged criminal past. He would be entitled to a new trial only if he could establish that his claim has arguable merit, that trial counsel lacked a reasonable strategy for not striking this panel or requesting a mistrial, and that the trial counsel\u2019s error prejudiced him. See generally Commonwealth v. Collins, 546 Pa. 616, 619, 687 A.2d 1112, 1113 (1996); Commonwealth v. Pierce, 537 Pa. 514, 525, 645 A.2d 189, 195 (1994).\nUnder these circumstances, a motion to strike the jury panel may have been an appropriate course of action. See, e.g., Commonwealth v. Harkins, 459 Pa. 196, 328 A.2d 156 (1974). Nonetheless, trial counsel is not ineffective for failing to do so. At the PCRA hearing, trial counsel testified that he did not make a motion to strike or move for a mistrial because the seated juror had stated that he could render an unbiased opinion, and consequently there was no basis to strike the panel or move for a mistrial. (PCRA N.T., 7/17/97, at 76-77). The PCRA court found that this was a plausible trial tactic, and therefore Breakiron failed to meet his burden that counsel\u2019s actions were not reasonably based.\nAfter reviewing the jury voir dire of the juror in question (N.T. at 512-521), we agree with the PCRA court, and find that trial counsel had a reasonable basis for his actions. The juror stated that he could be a fair and unbiased juror, and that no one spoke of the case in his presence. The PCRA court did not err in denying Breakiron\u2019s petition. See, e.g., Commonwealth v. Gibson, 547 Pa. 71, 688 A.2d 1152 (1997), cert. denied, \u2014 U.S. -, 118 S.Ct. 364, 139 L.Ed.2d 284 (1997); Commonwealth v. Martin, 465 Pa. 134, 348 A.2d 391 (1975), cert. denied, 428 U.S. 923, 96 S.Ct. 3234, 49 L.Ed.2d 1226 (1976).\n3. JURY INSTRUCTION REGARDING THEFT\nThe next claim of ineffectiveness is that counsel, during the guilt phase of the trial, did not request a jury instruction as to theft. The argument is that if the jury was given the option, they might have found Breakiron guilty of theft but not robbery. Without the robbery conviction, the prosecution could not use it as an aggravating factor during the sentencing. We find that even if this argument had merit and that trial counsel could have requested a theft and a robbery jury charge, Breakiron cannot establish that he was prejudiced.\nThe charge of the trial court instructed the jury not to return a guilty verdict of robbery without first finding that a theft had occurred. (N.T. at 1352-54) Moreover, trial counsel argued to the jury during closing argument that there could be no robbery, but solely a theft because Breakiron took money only after Ms. Martin was dead. (N.T. at 1312, 1320-21) The jury rejected this argument and convicted Breakiron of robbery. In Breakiron I, we held that the evidence supported this verdict because there was no question that Breakiron took the victim\u2019s purse and the bags of money from the bar. Breakiron I, 524 Pa. at 296-97, 571 A.2d at 1042. Had a theft instruction been given, it is not likely that the jury would have returned a verdict only on the theft charge. Moreover, the jury found an additional aggravating circumstance\u2014torture\u2014and no mitigating factors. Thus, Breakiron cannot show that the claimed error prejudiced him.\n4. COUNSEL\u2019S REMARKS AT PENALTY PHASE\nBreakiron claims that trial counsel erred in his handling of the robbery issue because during the penalty phase, trial counsel stated that the prosecution had shown that the \u201cmurder took place in commission of robbery.\u201d This statement, Breakiron argues, was ineffective assistance of counsel because counsel conceded an aggravating factor during the sentencing, where robbery itself may not have had an aggravating impact on the commission of the crime. Trial counsel testified at the PCRA hearing that the admission was a reasonable strategy because the jury already found Breakiron guilty of robbery and counsel would lose credibility with the jury to argue otherwise. We agree that trial counsel articulated a reasonable trial strategy and Breakiron has not met his burden of proof to establish that counsel was ineffective.\n5. TORTURE\nA number of Breakiron\u2019s challenges to counsel\u2019s representation of him relate to the handling of the aggravating circumstance of torture. First, he claims that PCRA relief was warranted because his trial counsel failed properly to perform pre-trial investigation and research regarding the aggravating factor of torture. He goes on to argue that the prosecution\u2019s main evidence of torture was that Ms. Martin suffered defensive wounds, that she lived for about fifteen minutes after suffering extensive stab wounds, and that Breakiron took Ms. Martin from the lounge to his grandparents home where he completed the murder. Further, Breakiron asserts that prudent defense counsel should have investigated the timing of how long it took to drive back and forth from the lounge to the home, to show that Ms. Martin must have been dead at the lounge, as testified to by Breakiron, and not at the home, as the prosecution postulated.\nThe PCRA court denied th\u00e9 Petition on this claim, holding that this issue was already litigated in the direct appeal, and Breakiron was improperly attempting to relitigate the issue of whether the evidence supported the aggravating circumstance of torture. We agree. Also, Breakiron\u2019s claim is flawed and without merit because a thorough review of the trial transcript reveals that the use of torture as an aggravating circumstance arose out of the multiple stab wounds and other injuries inflicted on Ms. Martin, not necessarily the time that it took her to die. Whether trial counsel investigated the amount of time it took to drive from the lounge to Breakiron\u2019s grandparents home is irrelevant to the factual basis for the evidence of torture. This claim is without merit, and has been previously litigated. Accordingly, the PCRA court properly denied the Petition on these grounds.\nNext, Breakiron maintains that to the extent that torture as an aggravating factor is defined in the death penalty statute as a murder committed in an \u201cespecially heinous, atrocious, or cruel manner,\u201d it is unconstitutionally vague under the holding of the Supreme Court in Maynard v. Cartwright, 486 U.S. 356, 108 S.Ct. 1853, 100 L.Ed.2d 372 (1988). This argument was waived, as it was not raised in the direct appeal. Pursuant to Commonwealth v. Albrecht, 554 Pa. 31, 720 A.2d 693, 699 (1998), we no longer apply a relaxed waiver in PCRA cases. However, because this claim has been raised also in terms of trial counsel\u2019s ineffectiveness, it is within the examination of this Court. Id., 720 A.2d at 700.\nBreakiron claims that counsel was ineffective because counsel failed to raise the issue of the vagueness of the definition of torture contained within the death penalty statute. We hold that this argument is without merit because we have previously held that the death penalty at 42 Pa.C.S. \u00a7 9711(d)(8) is not unconstitutionally vague. Commonwealth v. Wharton, 530 Pa. 127, 153, 607 A.2d 710, 723 (1992).\nIn a related argument, Breakiron posits that the jury charge regarding torture was vague and violated Maynard, supra. We apply the same analysis as above and examine this claim in terms of trial counsel\u2019s ineffectiveness. The trial court charged the jury in the following manner:\nThe law defines torture as follows: the offense of murder committed by means of torture is designed for the defendant who causes a considerable amount of pain and that the language used for this particular aggravating circumstance is that the murder was especially heinous, atrocious, or cruel and manifesting exceptional depravity. In order to establish that the offense' was committed by means of torture, the Commonwealth must prove beyond a reasonable doubt that a defendant had a specific intent to inflict unnecessary pain, suffering or both pain and suffering in addition to the specific intention to kill.\n(N.T. at 1439). This claim lacks merit as we have upheld similar instructions to the jury in Commonwealth v. Edmiston, 535 Pa. 210, 634 A.2d 1078 (1993) and Commonwealth v. Thomas, 522 Pa. 256, 561 A.2d 699 (1989). Moreover, Breakiron\u2019s suggested interpretation of Maynard is incorrect. Maynard held that a jury instruction that defined an aggravating circumstance only as a murder that was \u201cespecially heinous, atrocious or cruel,\u201d without any additional limiting construction was unconstitutionally vague. However, such language was not constitutionally deficient if limited to circumstances of torture or serious physical abuse, as was done in this case. Maynard 486 U.S. at 364-65, 108 S.Ct. 1853. The torture instruction given in this case was not vague under the Maynard analysis, and Breakiron\u2019s claim lacks merit.\nLast, Breakiron argues that trial counsel was ineffective for failing to challenge, in the direct appeal, the unconstitutionality and inadequacy of the torture charge. The PCRA court rejected these claims of ineffectiveness because at the PCRA hearing, no evidence was produced as to why counsel did not raise the issue, which prevented the PCRA court from finding whether counsel\u2019s actions were reasonably based. Therefore, the PCRA court denied relief finding that Breakiron failed to meet his burden. We agree. Additionally, the jury charge for torture was not in error, as discussed, supra, and Breakiron\u2019s claim lacks merit.\n6. JURY CHARGE AS TO MITIGATING CIRCUMSTANCES\nBreakiron claims that he is entitled to a new death penalty hearing because the trial court improperly instructed the jury regarding mitigating circumstances. Again, under Albrecht, we analyze this argument as one for ineffective assistance of counsel.\nDuring Breakiron\u2019s trial, the trial court instructed the jury, with respect to the finding of aggravating and mitigating factors, that a \u201cverdict must be a sentence of death if you unanimously find at least one aggravating circumstance and no mitigating circumstances; or if you unanimously find one or more aggravating circumstances which outweigh any mitigating circumstances. In all other cases, your verdict must be a sentence of life imprisonment.\u201d (N.T. at 1443).\nRelying on Mills v. Maryland, 486 U.S. 367, 108 S.Ct. 1860, 100 L.Ed.2d 384 (1988), Breakiron argues that this instruction was in error because the jury may well have concluded that it must be unanimous regarding a mitigating circumstance. He claims that both trial and appellate counsel were ineffective for failing to object and raise this argument on direct appeal. The PCRA court determined that the issue was waived because it was not addressed in the direct appeal. In addition, the PCRA court held that Breakiron had not sustained his burden of proof regarding the claims of ineffectiveness because, during the PCRA proceedings, trial counsel was not questioned as to the strategy employed in failing to object to the court\u2019s charge on mitigation. Consequently, the PCRA court did not have a record to determine the issue, and rejected the claim. We agree. Further, Breakiron\u2019s claims lack merit because we have previously held that instructions quite similar to those used by the trial court in this matter do not violate Mills. See, e.g., Commonwealth v. Hardcastle, 549 Pa. 450, 701 A.2d 541 (1997); Commonwealth v. Frey, 520 Pa. 338, 554 A.2d 27 (1989).\n7. ALCOHOL HISTORY\nBreakiron next argues that trial counsel was ineffective in both the guilt and penalty phases of the trial for failing to present a complete picture of his alcohol abuse history. Although counsel presented evidence of Breakiron\u2019s alcohol intake on the night of the murder, he did not present it in context to his long history of alcohol abuse and mental health problems and in context to the fact that Breakiron had an extended period of abstinence from alcohol and drugs (Breakiron had been incarcerated for some 11^ months and had been released from prison a few weeks before the murder, on March 12, 1987, for indecent assault.) According to this line of argument, trial counsel was ineffective for failing to present the effect that drinking a large quantity of alcohol would have on Breakiron under these circumstances and in combination with his personality disorder.\nThis claim lacks merit and Breakiron was not prejudiced. Trial counsel presented evidence at trial that Breakiron drank a large quantity of beer and was intoxicated on the night of the murder. Counsel argued that this intoxication was such that Breakiron could not form a specific intent to kill. The jury also heard testimony that Breakiron drove, drank, and could function, even though he had consumed excessive amounts of alcohol. After hearing this evidence, the jury rejected Breakiroris defense of diminished capacity and sentenced him to death. There is not a reasonable likelihood that the evidence that Breakiron had refrained from alcohol for nearly a year before the incident would have changed the jury\u2019s verdict in this matter, and the PCRA court appropriately denied relief.\n8. MENTAL HEALTH ISSUES\nThe bulk of Breakiroris claims that counsel was ineffective focus on counsel\u2019s handling of Breakiroris mental health issues. The facts relevant to this claim are as follows. On March 27, 1987, following the murder of Ms. Martin, Breakiron was in jail for public drunkenness and parole violations unrelated to Ms. Martin\u2019s death. There was some concern that he was suicidal and Dr. Thomas Adamski of the Fayette County Department of Mental Health (Fayette County) performed a psychiatric examination. Dr. Adamski determined that Breakiron was not in need of psychiatric treatment. On April 3, 1987, following Dr. Adamski\u2019s initial examination, Breakiron was formally charged with the murder of Ms. Martin. The record indicates that following the formal charge, on May 21, 1987, Breakiron\u2019s first attorney with the Public Defender\u2019s office, Attorney Kristobak, filed a Petition seeking that the \u201cCourt direct that defendant be transported for an evaluation and recommendation for a period of ninety (90) days and that said reports be furnished the Public Defender immediately upon completion.\u201d On May 4, 1987, the court entered an order that the \u201cFayette County Mental Health is hereby directed to evaluate the defendant herein, to determine whether defendant is competent to stand trial and assist counsel with his defense, to determine if defendant was competent at the time of the incident, and to determine whether defendant is in need of treatment.\u201d\nThereafter, Dr. Adamski, the same psychiatrist from Fayette County who had previously seen Breakiron, performed another interview. Dr. Adamski wrote a report, dated August 27, 1987, (August report) and made specific reference to his March report concerning Breakiron. In the August report, Dr. Adamski concluded that Breakiron was \u201ccompetent to stand trial and assist counsel with his defense\u201d and \u201ccompetent at the time of the incident.\u201d During the course of Dr. Adamski\u2019s second interview in preparation for the August 1987 report, it appears that Dr. Adamski told Breakiron that any statements that he made at that time could be used at trial against Breakiron. As a result of these warnings, Breakiron claims that he did not fully cooperate with the evaluation. On February 26, 1988, Breakiron\u2019s third public defender, Attorney Bower, petitioned for a second court-ordered psychiatric examination. Specifically, counsel asked that the \u201cCourt direct that defendant be transported for an evaluation and recommendation for a period of sixty (60) days and that said reports be furnished the Public Defender immediately upon completion.\u201d The trial court then entered an Order for a second psychiatric evaluation with the Fayette County facility. During this second examination, Breakiron apparently was told again that his statements could be used at trial, he did not cooperate, and the examination did not go forward. (Breakiron claims that counsel told him not to cooperate, counsel denies this assertion.) No counsel or independent psychiatrist was present. Trial counsel did not request a competency or sanity hearing before trial.\nAccording to Breakiron, counsel was ineffective because he failed to follow the Mental Health Procedures Act (MHPA), 50 P.S. 7101 et seq, and because he faded to properly present his psychiatric history to the jury as a mitigating factor.\na. The Mental Health Procedures Act\nIn relevant part to this matter, the MHPA provides a statutory procedure for assessing a defendant\u2019s competency to stand trial. Section 7402(c) provides that the prosecution, the defense, or a warden may present to the court an application for an order directing an evaluation for the competency of a criminal defendant. Following the examination, the court appoints a psychiatrist, who then prepares a report and submits it to \u201cthe court and to counsel.\u201d Section 7402(e). The MHPA contains specific rules concerning the conduct of the mental health examination, and provides the parameters for when it is to be used in a court proceeding. Id. In particular, the MHPA provides that the defendant is entitled to have counsel present and that \u201c[njothing said or done by such person during the examination may be used as evidence against him in any criminal proceedings on any issue other than that of his mental condition.\u201d Section 7402(e)(3). The MHPA also provides that the defendant, is entitled to the appointment of his own private psychiatrist to attend the examination, if the defendant has a \u201csubstantial objection\u201d to the conclusions reached by the court-appointed psychiatrist. Section 7402(f).\nBreakiron asserts that counsel failed to employ the MHPA properly in that the court-appointed psychiatrist, Dr. Adam-ski, improperly conducted the examination and essentially gave him \u201cMiranda\u201d warnings during the August 1987 interview that were not in accordance with the MHPA. He then argues that, pursuant to the MHPA, he had some expectation of confidentiality, that he had a right to have trial counsel present, and that he had a right to a defense expert psychiatrist following his objection to Dr. Adamski\u2019s conduct. These errors, Breakiron asserts, prejudiced him because the effect was to deprive him of the opportunity to have a private psychiatrist testify as to his mental health and psychiatric history during both the guilt and sentencing phase of the trial.\nIn reviewing the record in this matter, it appears that trial counsel did mishandle the competency evaluation in a number of respects. No counsel was present and following objection to Dr. Adamski\u2019s \u201cMiranda\u201d warnings, trial counsel did not request a private defense expert to be present at a second court ordered examination. Further, in reviewing the PCRA testimony of this matter, trial counsel was not able to articulate a reasonable basis for failing to comply with the MHPA. Thus, our determination in this matter hinges upon whether these errors were prejudicial to the defendant at either the guilt or the sentencing phase of the trial. We hold that they were not.\nAlthough Breakiron presents a persuasive argument that trial counsel had a basic misunderstanding of the MHPA, he is unable to articulate how he was prejudiced. Breakiron postulates that had an evaluation been performed in accordance with Section 7402, counsel may have chosen a different trial strategy. He surmises that trial counsel\u2019s failure to follow the MHPA left the attorney without any psychiatric evidence to assist in Breakiron\u2019s defense or to present mitigating evidence at trial. We find that Breakiron has not met his burden of establishing that counsel\u2019s errors prejudiced him because he cannot establish that had an examination been done according to the MHPA, the defense strategy, or the outcome of either the guilty verdict or sentence of death, would have changed. Instead, the PCRA proceedings show that Breakiron was competent at the time of trial, and there was no evidence that trial counsel could have presented an insanity defense. Therefore, the only defense available to trial counsel was of diminished capacity, which was presented and rejected by the jury at trial. Thus, the alleged errors, had they been corrected, would not have led to a different result, and we cannot find that Breakiron was prejudiced in the guilt phase of the trial.\nLikewise, while trial counsel in this matter might have mishandled Breakiron\u2019s mental health examination by-not attending and by not requesting a private expert following the objections to Dr. Adamski, the outcome of the sentencing was not likely to have changed. The fact remains that the evaluation was ordered to assess Breakiron\u2019s competency to stand trial, and there is no real dispute that Breakiron was competent. Indeed, at the PCRA hearing, both Dr. Adamski and Breakiron\u2019s private psychiatrist testified, and neither opined that Breakiron was incompetent at the time of trial. We fail to see how trial counsel\u2019s alleged errors, where Breakiron was clearly competent to stand trial, had any bearing on the penalty phase of the trial.\nThe MHPA provides for a private defense expert to attend the competency examination, but does not give Breakiron a right to a private psychiatrist during the penalty phase to present evidence of mitigating circumstances. See, e.g., Commonwealth v. Christy, 540 Pa. 192, 656 A.2d 877, 887 (1995); Commonwealth v. Yarris, 519 Pa. 571, 549 A.2d 513 (1988). Breakiron has failed to establish that his counsel\u2019s mishandling of his competency examination prejudiced him, and we reject his claim and affirm the determination of PCRA\u2019s court.\nb. Admission of Psychiatric History\nBreakiron argues that he was prejudiced in the penalty phase of his trial because counsel did not present, as mitigating circumstances, any evidence of his past psychiatric problems during the penalty phase of his trial, including his history of black outs, drug abuse and psychiatric treatment. He alleges that he was prejudiced because had counsel properly used the MHPA, as discussed supra, he would have had the benefit of the private psychiatrist to testify as to these issues. We reject Breakiron\u2019s claim because it appears that trial counsel had a reasonable trial tactic in failing to admit evidence of Breakiron\u2019s psychiatric history into the trial.\nAt the sentencing hearing, trial counsel presented mitigating evidence concerning Breakiron\u2019s alcohol abuse, via the testimony of Breakiron\u2019s mother, and through Reverend Collins. Trial counsel testified that his decision to present only these witnesses and to omit any of Breakiron\u2019s past psychiatric admissions was a reasonable trial tactic because such history would show his past violence and aggressiveness, which would have an adverse impact on the jury. The PCRA court, citing Commonwealth v. Lark, 548 Pa. 441, 698 A.2d 43, 51 (1997), found that counsel\u2019s tactics were reasonable given the potential negative impact on the jury. We should scrupulously follow the presumption that attorneys act in the interests of their clients, and insist that defendants meet their burden of proving that their attorneys had no reasonable basis for their action. See, e.g., Commonwealth v. Watson, 523 Pa. 51, 65, 565 A.2d 132, 139 (1989). Here, Breakiron has not done this and we affirm the order of the PCRA court denying relief.\nIII. CONCLUSION\nFor the reasons set forth in this Opinion, we affirm the determination denying the petition for post-conviction collateral relief.\nJustices CAPPY and SAYLOR concur in the result.\nJustice ZAPPALA files a dissenting opinion.\n. In Breakiron I, we rejected the arguments that pre-trial publicity was prejudicial, and that the warrants for the search of Breakiron\u2019s home, person, and truck were improper. We determined that the trial court did not \"chill\u201d his right to an insanity defense by providing copies of the report to the prosecution, that the evidence supported the determination that the killing was committed by means of torture and that the evidence supported a finding that the killing occurred \"in the course of a robbery.\u201d We also rejected Breakiron's argument that there was insufficient evidence to support a first-degree murder charge. The jury had sufficient evidence to reject Breakiron\u2019s defense that the killing was a third degree murder because he had a diminished capacity due to his alcohol consumption on the night of the murder. Also, as is relevant to this appeal, we performed a proportionality review and determined that the death penalty was not a product of passion, prejudice, or any arbitrary factor. Justices Zappala and Nix dissented because they believed that the handling of the mental health issues and competency hearing was prejudicial error. They also particularly noted that counsel\u2019s handling of the mental health issue constituted ineffective assistance of counsel.\n. We find the cases cited by Breakiron, Commonwealth v. Eskridge, 529 Pa. 387, 604 A.2d 700 (1992) and Commonwealth v. Miller, 281 Pa.Super. 392, 399, 422 A.2d 525, 529 (1980), inapposite because, unlike here, they dealt with situations of actual conflict arising during the trial.\n. Breakiron also argues that the database we used to assess Petitioner\u2019s sentence in Breakiron I was flawed, inaccurate and incomplete. Break-iron then requests us to revisit the proportionality review, citing, Commonwealth v. Gribble, 550 Pa. 62, 703 A.2d 426 (Pa.1997). It does not appear that Breakiron has raised sufficient information to indicate that the figures used in 1990 were invalid. This argument lacks merit, was previously litigated in Breakiron I, and we will not revisit this issue here.\n. In Harkins, the defendant was convicted of prison breach. During jury selection, one of the prospective jurors, in the presence of other prospective jurors said aloud, \"I don\u2019t think I should sit on this case.\u201d When the trial court asked whether the juror had some contact with the case, the juror replied, \u201cYes, he stole my car.\u201d The trial court denied a motion to strike the jury panel, but the juror who made the statement was excused. The Superior Court affirmed, but we reversed because other jurors, who eventually sat on the jury, heard evidence of a previously committed crime.\n. In Gibson, we held that the trial court did not err in refusing to dismiss the entire jury panel after one of the veniremen stated, within hearing of other potential jurors, that he knew one of the victims and that drugs were involved in the crime. We so held because the appellant failed to demonstrate that any of the seated jurors actually had been exposed to the comment in question.\n. In Martin, we held that the trial court did not err in refusing to strike a jury panel where a juror in the panel made comments to other potential jurors in the case. The Appellant failed to show any prejudice that the seated jury could not render a fair and unbiased opinion.\n. Note, however, that the Third Circuit vacated defendant's sentence in Frey v. Fulcomer, 132 F.3d 916 (1997)(Becker, J.), cert. denied,-U.S. -, 118 S.Ct. 2076, 141 L.Ed.2d 151 (1998). The Third Circuit found that an essentially similar jury instruction to the one at issue here improperly limited the jury\u2019s consideration of mitigating circumstances. We reached a contrary result in Commonwealth v. Frey, 520 Pa. 338, 348, 554 A.2d 27, 31 (1989), cert. denied, 494 U.S. 1038, 110 S.Ct. 1500, 108 L.Ed.2d 635 (1990) and we Eire not bound to accept the Third Circuit\u2019s interpretation of this issue. Commonwealth v. Clark, 551 Pa. 258, 710 A.2d 31 (1998) (citing Commonwealth v. Travaglia, 541 Pa. 108, 130 n. 15, 661 A.2d 352, 366 (1995))\n. In Breakiron I, we discussed the evidence of intoxication. Id. 571 A.2d at 41, 42.\n. Dr. Adamski\u2019s report, dated March 27, 1987 (March report) indicates that Breakiron\u2019s medical history is significant for heavy alcohol use \"producing a deep alcoholic sleep,\u201d and for problems with drugs. The March report notes that Breakiron \"admits to having blackouts and tolerance with alcohol.\u201d There was discussion of Breakiroris previous arrest history, with a notation that a \u201clot of his arrests stem from alcohol and intoxication, including demonstration of poor judgment, impulsivity and explosiveness.\u201d Breakiron was noted to have a past psychiatric history significant for being seen by a psychiatrist when he was 13 years old, difficulty controlling his temper, and for attempted suicide when he was 8 or 9 years old. The report indicated that Breakiron had two prior psychiatric admissions for \"detox\" in 1985 and for \"evaluation\u201d in 1984. The March report diagnosed Breakiron as alcohol dependent with \u201cantisocial personality disorder.\u201d However, he was not suicidal and did not need treatment at that time.\n. Dr. Adamski determined in his August 1987 report that based on his observations of Breakiron in March, as well as his conversations with friends and family, Breakiron was competent. Additionally, in preparation for the PCRA proceeding, Dr. Adamski reviewed the trial transcript of Breakiron\u2019s description of the crime, and opined that it did not change his opinion. He testified that had he been called to testify, as of the time of Breakiron\u2019s trial, that he would opine that Breakiron was competent and sane at the time. Appellant presented no contrary evidence.\n. Trial counsel argued that Breakiron could not form a specific intent to kill because of his diminished capacity due to alcohol and his lack of memory of the event. Trial counsel presented evidence at trial that Breakiron was drinking on the night of the murder and he did not remember the incident. Counsel argued that Breakiron had a diminished capacity due to this alcohol intake. The jury rejected this defense and a review of the trial transcript in this matter shows that the evidence of Breakiron\u2019s guilt was overwhelming. Four witnesses, including Breakiron himself, testified that Appellant was the last person in the bar with Ms. Martin. Traces of blood matching her type were found on his truck and on his boots. Moreover, Breakiron testified at trial that he recalls Ms. Martin being \"stabbed,\u201d and that he pulled the knife from her back. He then admitted to dragging her body from the bar, and taking it to his grandparents to dispose of the body. Breakiron admits that he took the money from the bar. Breakiron\u2019s testimony did not suggest that he was so intoxicated that he could hot walk, drive, and dispose of a body.\n. Breakiron asserts that he was prejudiced and in support presented at the PCRA hearing the expert psychiatric testimony of Dr. Christine Martone. Dr. Martone testified that Breakiron suffered from mental health problems and had alcohol and drug problems. She testified that he was institutionalized on a number of occasions for alcohol and aggression against his mother and sister four years before the murder, and that he had a history of explosive violent behavior when drinking, and suffered black out spells. Specifically, she testified that he was highly intoxicated at time of the incident and blacked out. She discussed the effects of the alcohol with his particular mental health problems, and opined that Breakiron could have this black out and it would still be consistent with an ability to maintain motor control. She testified that Breakiron had a limited ability to control frustration and anger, and had personality disorders, which would cause him to fly into a rage, which drinking exacerbates. She recounted the available medical reports from Dr. Adamski, and his other psychiatric reports, which indicated that he had a long psychiatric history, drug and alcohol problems.\nDr. Martone testified that:\nIn my opinion, this individual, given his past history and his tendency towards an explosive disorder, with the amount of alcohol and drugs he ingested, his frustration tolerance, his judgment, and his impulse control, would all be diminished to the extent that there would be, within a reasonable degree of medical certainty, mitigating circumstances in, terms of his state of mind at the time of the crime.\n(PCRA N.T. 9/17.97, a.m. at 41-42) Dr. Martone based her opinion on the report of Dr. Adamski, Breakiron\u2019s medical records, and an interview with Breakiron.",
+        "type": "majority",
+        "author": "NEWMAN, Justice."
+      },
+      {
+        "text": "ZAPPALA, Justice,\ndissenting.\nWhen the Appellant\u2019s judgment of sentence came before this Court on direct appeal, Commonwealth v. Breakiron, 524 Pa. 282, 571 A.2d 1035 (1990) (Breakiron I), Mr. Chief Justice Nix authored a Dissenting Opinion, which I joined, in which he concluded based solely on the existing record that trial counsel \u201cwas blatantly remiss\u201d in his handling of issues regarding the Appellant\u2019s mental status and evaluation under the Mental Health Act. He characterized it as \u201ca grievous failure to provide effective representation in a capital case.\u201d Id. 571 A.2d at 1046. Because the question of ineffective assistance of counsel had not been raised by the parties, however, it was not specifically addressed in the Opinion of the Court.\nA challenge to counsel\u2019s stewardship has now been squarely presented in the context of the Appellant\u2019s petition under the Post-Conviction Relief Act. The majority concedes \u201cit appears that trial counsel did mishandle the competency evaluation in a number of respects,\u201d and in his testimony at the PCRA hearing \u201ctrial counsel was not able to articulate a reasonable basis for failing to comply with the [Act].\u201d Opinion at 1099. Nevertheless, the majority determines that these errors were not prejudicial at either the guilt or the sentencing phase of the trial. Because I continue to believe that \u201cwe cannot say with certainty that appellant was competent to stand trial or that an insanity defense was inappropriate,\u201d Breakiron I, 571 A.2d at 1046, (Nix, C.J., dissenting), I respectfully dissent.",
+        "type": "dissent",
+        "author": "ZAPPALA, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Phyllis A. Jin, Uniontown, Michael J. Savona, Brownsville, for M. Breakiron.",
+      "Robert A. Graci, Marianne E. Kreisher, Harrisburg, for Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "729 A.2d 1088\nCOMMONWEALTH of Pennsylvania, Appellee, v. Mark David BREAKIRON, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted July 20, 1998.\nDecided April 9, 1999.\nPhyllis A. Jin, Uniontown, Michael J. Savona, Brownsville, for M. Breakiron.\nRobert A. Graci, Marianne E. Kreisher, Harrisburg, for Commonwealth.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, and SAYLOR, JJ."
+  },
+  "file_name": "0519-01",
+  "first_page_order": 639,
+  "last_page_order": 665
+}

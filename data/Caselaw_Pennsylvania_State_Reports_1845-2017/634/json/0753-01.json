@@ -1,0 +1,80 @@
+{
+  "id": 12283247,
+  "name": "Logue v. W.C.A.B.(Com. Dept. of Transp.)",
+  "name_abbreviation": "Logue v. W.C.A.B.(Com. Dept. of Transp.)",
+  "decision_date": "2015-12-28",
+  "docket_number": "548 EAL (2015)",
+  "first_page": "753",
+  "last_page": "753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 753"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "119 A.3d 1116",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6859561
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/119/1116-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 168,
+    "ocr_confidence": 0.705,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24913846328492512
+    },
+    "sha256": "f1c295d0868c0a09274af23ae590033889f170208d7236513c131fdead001744",
+    "simhash": "1:057ae3f83b0921cc",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Logue v. W.C.A.B.(Com. Dept. of Transp.)"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 119 A.3d 1116",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Logue v. W.C.A.B.(Com. Dept. of Transp.)\n12/28/2015\n548 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0753-01",
+  "first_page_order": 797,
+  "last_page_order": 797
+}

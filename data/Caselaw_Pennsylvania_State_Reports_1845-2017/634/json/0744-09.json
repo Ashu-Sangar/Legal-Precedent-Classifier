@@ -1,0 +1,70 @@
+{
+  "id": 12282364,
+  "name": "Com. v. Mays",
+  "name_abbreviation": "Com. v. Mays",
+  "decision_date": "2015-12-30",
+  "docket_number": "619 MAL (2015)",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "91 A.3d 1289",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 138,
+    "ocr_confidence": 0.687,
+    "sha256": "254fd4d2e64217f099814229122750b7fa40eddb35197d5bf31fe7ef85a6aa27",
+    "simhash": "1:0567e83fbf09a385",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Mays"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 91 A.3d 1289",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Mays\n12/30/2015\n619 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0744-09",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

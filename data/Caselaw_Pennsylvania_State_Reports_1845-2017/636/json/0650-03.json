@@ -1,0 +1,80 @@
+{
+  "id": 12281659,
+  "name": "Deutsche Bank Nat. Trust Co. v. Gardner",
+  "name_abbreviation": "Deutsche Bank Nat. Trust Co. v. Gardner",
+  "decision_date": "2016-05-03",
+  "docket_number": "699 EAL (2015)",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 1221",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6848024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/125/1221-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905795666079375
+    },
+    "sha256": "ca0f1fcedd969440daae4314a466f3a418f9aa890f7e86da609ee4f7521fc534",
+    "simhash": "1:f75ea847cbe40d5b",
+    "word_count": 21
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Deutsche Bank Nat. Trust Co. v. Gardner ."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 1221",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Deutsche Bank Nat. Trust Co. v. Gardner .\n05/03/2016\n699 EAL (2015)\n. Reconsideration Denied June 16, 2016."
+  },
+  "file_name": "0650-03",
+  "first_page_order": 702,
+  "last_page_order": 702
+}

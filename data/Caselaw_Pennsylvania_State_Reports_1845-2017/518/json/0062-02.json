@@ -1,0 +1,82 @@
+{
+  "id": 1811643,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Michael BRESLIN",
+  "name_abbreviation": "Commonwealth v. Breslin",
+  "decision_date": "1988-03-23",
+  "docket_number": "Appeal No. 324 E.D. Allocatur Docket 1987",
+  "first_page": "62",
+  "last_page": "63",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "518 Pa. 62"
+    },
+    {
+      "type": "parallel",
+      "cite": "540 A.2d 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808559
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0300-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 439,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0674010338054458
+    },
+    "sha256": "8aaec44233ecdc9bad54ce5b92681e11e8647ae78bf84f9c90bf6f5a9557713e",
+    "simhash": "1:b599879e8499adac",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T21:15:45.792540+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Michael BRESLIN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Commonwealth\u2019s Petition for Allowance of Appeal is granted. The Order of the Superior Court, as it related to the sentence of Michael Breslin, is vacated, and the sentence of the Court of Common Pleas of Philadelphia is reinstated. See Commonwealth v. Samuels, 516 Pa. 300, 532 A.2d 404 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "540 A.2d 529\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Michael BRESLIN.\nSupreme Court of Pennsylvania.\nMarch 23, 1988."
+  },
+  "file_name": "0062-02",
+  "first_page_order": 158,
+  "last_page_order": 159
+}

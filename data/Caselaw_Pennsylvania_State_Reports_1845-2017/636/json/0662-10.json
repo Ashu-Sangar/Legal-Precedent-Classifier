@@ -1,0 +1,102 @@
+{
+  "id": 12283081,
+  "name": "Com. v. Thompson",
+  "name_abbreviation": "Com. v. Thompson",
+  "decision_date": "2016-08-08",
+  "docket_number": "270 MAL (2016)",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 662"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "145 A.3d 770",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12487201,
+        12487202,
+        12487203,
+        12487204,
+        12487205,
+        12487206,
+        12487207,
+        12487208,
+        12487209,
+        12487210,
+        12487211,
+        12487212,
+        12487213,
+        12487214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/145-2/0770-10",
+        "/a3d/145-2/0770-11",
+        "/a3d/145-2/0770-12",
+        "/a3d/145-2/0770-13",
+        "/a3d/145-2/0770-14",
+        "/a3d/145-2/0770-01",
+        "/a3d/145-2/0770-02",
+        "/a3d/145-2/0770-03",
+        "/a3d/145-2/0770-04",
+        "/a3d/145-2/0770-05",
+        "/a3d/145-2/0770-06",
+        "/a3d/145-2/0770-07",
+        "/a3d/145-2/0770-08",
+        "/a3d/145-2/0770-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.885,
+    "sha256": "c451fe820ae156a180f40fcdafd19a5ac8dd495609f4c14e14a33fc494c6d012",
+    "simhash": "1:9385fade03b159ab",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Thompson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 145 A.3d 770",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Thompson\n08/08/2016\n270 MAL (2016)"
+  },
+  "file_name": "0662-10",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

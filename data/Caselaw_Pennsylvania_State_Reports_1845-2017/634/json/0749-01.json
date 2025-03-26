@@ -1,0 +1,70 @@
+{
+  "id": 12282828,
+  "name": "J.P.W. v. A.N.H.",
+  "name_abbreviation": "J.P.W. v. A.N.H.",
+  "decision_date": "2016-01-20",
+  "docket_number": "465 WAL (2015)",
+  "first_page": "749",
+  "last_page": "749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 749"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 109",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 159,
+    "ocr_confidence": 0.752,
+    "sha256": "c3938235d82b0e16c007b33b60839013390035dcaf26349266ebee5f4b7c4cb5",
+    "simhash": "1:8962b34ca18efa84",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J.P.W. v. A.N.H."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 109",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J.P.W. v. A.N.H.\n01/20/2016\n465 WAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter,"
+  },
+  "file_name": "0749-01",
+  "first_page_order": 793,
+  "last_page_order": 793
+}

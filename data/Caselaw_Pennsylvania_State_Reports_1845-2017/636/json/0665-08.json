@@ -1,0 +1,80 @@
+{
+  "id": 12283717,
+  "name": "Oliver v. Ball",
+  "name_abbreviation": "Oliver v. Ball",
+  "decision_date": "2016-07-27",
+  "docket_number": "116 WAL (2016)",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6802666
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/136/0162-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 170,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2491645265805072
+    },
+    "sha256": "a6f00384e5eb2b6c883d58e78a77ae3592e7bb061a6a4d8fb924bed84a4459e2",
+    "simhash": "1:bb735ae4bbee51df",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oliver v. Ball"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 162",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Oliver v. Ball\n07/27/2016\n116 WAL (2016)\n. Justices DONOHUE and MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0665-08",
+  "first_page_order": 717,
+  "last_page_order": 717
+}

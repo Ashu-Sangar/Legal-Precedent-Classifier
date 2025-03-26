@@ -1,0 +1,79 @@
+{
+  "id": 4207207,
+  "name": "Ex rel., Dante MORRIS, Relator in Propria Persona Sui Juris, Petitioner v. US DISTRICT COURT EASTERN DISTRICT, Respondent",
+  "name_abbreviation": "Morris v. US District Court Eastern District",
+  "decision_date": "2012-01-26",
+  "docket_number": "No. 131 EM 2011",
+  "first_page": "334",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "614 Pa. 334"
+    },
+    {
+      "type": "parallel",
+      "cite": "37 A.3d 1175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "18 U.S.C. \u00a7 3231",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "\"district courts of the United States shall have original jurisdiction, exclusive of the courts of the States, of all offenses against the laws of the United States.\""
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 557,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.1393757112631504
+    },
+    "sha256": "4990f82f6b9c90ec2b26a12ef86a83c334973466d52b8cb0974e8e3b269a691f",
+    "simhash": "1:1c2ffc1753d90577",
+    "word_count": 93
+  },
+  "last_updated": "2024-02-27T20:32:19.210464+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex rel., Dante MORRIS, Relator in Propria Persona Sui Juris, Petitioner v. US DISTRICT COURT EASTERN DISTRICT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of January, 2012, the Application for Leave to File Original Process and the Petition for Writ of Habeas Corpus are DISMISSED. See 18 U.S.C. \u00a7 3231 (\u201cdistrict courts of the United States shall have original jurisdiction, exclusive of the courts of the States, of all offenses against the laws of the United States.\u201d)",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "37 A.3d 1175\nEx rel., Dante MORRIS, Relator in Propria Persona Sui Juris, Petitioner v. US DISTRICT COURT EASTERN DISTRICT, Respondent.\nNo. 131 EM 2011.\nSupreme Court of Pennsylvania.\nJan. 26, 2012."
+  },
+  "file_name": "0334-01",
+  "first_page_order": 376,
+  "last_page_order": 376
+}

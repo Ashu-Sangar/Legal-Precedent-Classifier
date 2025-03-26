@@ -1,0 +1,70 @@
+{
+  "id": 12286335,
+  "name": "Com. v. Brooks",
+  "name_abbreviation": "Com. v. Brooks",
+  "decision_date": "2015-12-10",
+  "docket_number": "500 MAL (2015)",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 784"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1120",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.877,
+    "sha256": "705668c186d6f65a9636f951f43c8c4e605ee07f48908b00c8e0ddf4ae1a7914",
+    "simhash": "1:8854a4b4c2f04542",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Brooks"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1120",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Brooks\n12/10/2015\n500 MAL (2015)"
+  },
+  "file_name": "0784-02",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

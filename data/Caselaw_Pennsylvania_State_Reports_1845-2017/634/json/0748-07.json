@@ -1,0 +1,78 @@
+{
+  "id": 12282788,
+  "name": "Herr-Voss Stamco, Inc. v. Bauer",
+  "name_abbreviation": "Herr-Voss Stamco, Inc. v. Bauer",
+  "decision_date": "2015-11-20",
+  "docket_number": "389 EAL (2015)",
+  "first_page": "748",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 748"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 408",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12280444,
+        6839925
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/633/0414-01",
+        "/a3d/125/0408-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 89,
+    "ocr_confidence": 0.827,
+    "sha256": "d958146262da2e05a59a4bfc62b4974888e4f45461cadbc90afb3d65a2c214bf",
+    "simhash": "1:6d4fe4c4bafa455f",
+    "word_count": 14
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herr-Voss Stamco, Inc. v. Bauer"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 408",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Herr-Voss Stamco, Inc. v. Bauer\n11/20/2015\n389 EAL (2015)"
+  },
+  "file_name": "0748-07",
+  "first_page_order": 792,
+  "last_page_order": 792
+}

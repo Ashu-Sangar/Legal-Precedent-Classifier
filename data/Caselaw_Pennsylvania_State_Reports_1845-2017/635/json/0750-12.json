@@ -1,0 +1,70 @@
+{
+  "id": 12284379,
+  "name": "Com. v. Kesselly",
+  "name_abbreviation": "Com. v. Kesselly",
+  "decision_date": "2016-03-23",
+  "docket_number": "893 MAL (2015)",
+  "first_page": "750",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 750"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 109",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.865,
+    "sha256": "333f9c557916bf8a7fdb9ad8e3b27475caa0e22d1f3df9eb3a29808a33c5c02b",
+    "simhash": "1:90006108c53640a0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Kesselly"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 109",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Kesselly\n03/23/2016\n893 MAL (2015)"
+  },
+  "file_name": "0750-12",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

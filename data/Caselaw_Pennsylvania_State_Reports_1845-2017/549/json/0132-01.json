@@ -1,0 +1,1611 @@
+{
+  "id": 18421,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Joseph ELLIOTT, Appellant",
+  "name_abbreviation": "Commonwealth v. Elliott",
+  "decision_date": "1997-08-20",
+  "docket_number": "No. 0085 Capital Appeal Docket",
+  "first_page": "132",
+  "last_page": "159",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "549 Pa. 132"
+    },
+    {
+      "type": "parallel",
+      "cite": "700 A.2d 1243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "514 U.S. 1114",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1340160,
+        1339820,
+        1338605,
+        1338862,
+        1340367,
+        1339692,
+        1339153,
+        1339762,
+        1339856,
+        1339759,
+        1338968,
+        1339416,
+        1339802,
+        1340187
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/1114-07",
+        "/us/514/1114-01",
+        "/us/514/1114-02",
+        "/us/514/1114-13",
+        "/us/514/1114-06",
+        "/us/514/1114-03",
+        "/us/514/1114-10",
+        "/us/514/1114-11",
+        "/us/514/1114-08",
+        "/us/514/1114-04",
+        "/us/514/1114-12",
+        "/us/514/1114-09",
+        "/us/514/1114-14",
+        "/us/514/1114-05"
+      ]
+    },
+    {
+      "cite": "648 A.2d 315",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867004,
+        475543
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/648/0315-01",
+        "/pa/538/0297-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475543
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0297-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 Pa.Super. 719",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 L.Ed.2d 859",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 1970",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "650 A.2d 433",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11325083,
+        474197
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "441",
+          "parenthetical": "\"discovery is a matter for the trial court's discretion.... A defendant has no right to the statement of a witness until after the witness testifies on direct examination.\" (citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/650/0433-01",
+        "/pa/539/0085-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 85",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474197
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "103",
+          "parenthetical": "\"discovery is a matter for the trial court's discretion.... A defendant has no right to the statement of a witness until after the witness testifies on direct examination.\" (citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0085-01"
+      ]
+    },
+    {
+      "cite": "90 L.Ed.2d 692",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 2245",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 U.S. 1140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12704,
+        12960,
+        12866,
+        12739,
+        12648,
+        12685,
+        12654,
+        12624,
+        12466,
+        12824,
+        12441,
+        13021
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/1140-07",
+        "/us/476/1140-03",
+        "/us/476/1140-02",
+        "/us/476/1140-05",
+        "/us/476/1140-06",
+        "/us/476/1140-08",
+        "/us/476/1140-09",
+        "/us/476/1140-04",
+        "/us/476/1140-10",
+        "/us/476/1140-12",
+        "/us/476/1140-01",
+        "/us/476/1140-11"
+      ]
+    },
+    {
+      "cite": "507 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792370
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "462-63"
+        },
+        {
+          "page": "822-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/507/0440-01"
+      ]
+    },
+    {
+      "cite": "102 L.Ed.2d 156",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 187",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "488 U.S. 871",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1494934
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/488/0871-01"
+      ]
+    },
+    {
+      "cite": "510 Pa. 363",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796965
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "389"
+        },
+        {
+          "page": "1180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0363-01"
+      ]
+    },
+    {
+      "cite": "612 A.2d 1349",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1834385,
+        1834386
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0320-01",
+        "/pa/531/0322-01"
+      ]
+    },
+    {
+      "cite": "531 Pa. 322",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1834386
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0322-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 940",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7373922,
+        1843214
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "942"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0940-01",
+        "/pa/536/0153-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843214
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0153-01"
+      ]
+    },
+    {
+      "cite": "239 A.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Pa. 555",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1913490
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/429/0555-01"
+      ]
+    },
+    {
+      "cite": "83 L.Ed.2d 296",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 360",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "469 U.S. 963",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12034269,
+        12034334
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0963-01",
+        "/us/469/0963-02"
+      ]
+    },
+    {
+      "cite": "504 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787710
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0428-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 1175",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7881733,
+        775510
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/644/1175-01",
+        "/pa/537/0464-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775510
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0464-01"
+      ]
+    },
+    {
+      "cite": "653 A.2d 626",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474242,
+        7869772
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "634",
+          "parenthetical": "quoting Commonwealth v. Thomas, 522 Pa. 256, 277, 561 A.2d 699, 709 (1989)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0499-01",
+        "/a2d/653/0626-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 499",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474242
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "514",
+          "parenthetical": "quoting Commonwealth v. Thomas, 522 Pa. 256, 277, 561 A.2d 699, 709 (1989)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0499-01"
+      ]
+    },
+    {
+      "cite": "645 A.2d 1300",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874424,
+        475553
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1304"
+        },
+        {
+          "page": "1304"
+        },
+        {
+          "page": "1304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/645/1300-01",
+        "/pa/538/0086-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 86",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475553
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "93"
+        },
+        {
+          "page": "93"
+        },
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0086-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 1072",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1169",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "493 U.S. 1093",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11495046,
+        11495080,
+        11495018,
+        11495116,
+        11494999,
+        11494973
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/1093-04",
+        "/us/493/1093-05",
+        "/us/493/1093-03",
+        "/us/493/1093-06",
+        "/us/493/1093-02",
+        "/us/493/1093-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813556
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "254",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1109",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0236-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817452
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "151",
+          "parenthetical": "no abuse of discretion in admitting thirteen close-up photographs of rape/murder victim showing extensive facial injuries, strangulation marks, and numerous bite marks"
+        },
+        {
+          "page": "822-27",
+          "parenthetical": "no abuse of discretion in admitting thirteen close-up photographs of rape/murder victim showing extensive facial injuries, strangulation marks, and numerous bite marks"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0134-01"
+      ]
+    },
+    {
+      "cite": "499 Pa. 597",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1778917
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "602"
+        },
+        {
+          "page": "549"
+        },
+        {
+          "page": "603"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/499/0597-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 1305",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867898,
+        465173
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1318"
+        },
+        {
+          "page": "1318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/1305-01",
+        "/pa/545/0521-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 521",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465173
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "544"
+        },
+        {
+          "page": "544-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0521-01"
+      ]
+    },
+    {
+      "cite": "690 A.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11922741,
+        468687
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "216-17"
+        },
+        {
+          "page": "217",
+          "parenthetical": "no abuse of discretion in admitting slides and photos of the victim's body showing extensive beating and two gunshot wounds to the head"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/690/0203-01",
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 294",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468687
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "319-23"
+        },
+        {
+          "page": "321-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0294-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818950
+      ],
+      "weight": 4,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "272"
+        },
+        {
+          "page": "707"
+        },
+        {
+          "page": "277"
+        },
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0256-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 524",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745029
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "532"
+        },
+        {
+          "page": "1013"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/480/0524-01"
+      ]
+    },
+    {
+      "cite": "119 L.Ed.2d 214",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 2290",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "504 U.S. 946",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11766816,
+        11766505,
+        11766188,
+        11766700,
+        11766351,
+        11766452,
+        11766550,
+        11766391,
+        11766235,
+        11766300
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0946-10",
+        "/us/504/0946-07",
+        "/us/504/0946-01",
+        "/us/504/0946-09",
+        "/us/504/0946-04",
+        "/us/504/0946-06",
+        "/us/504/0946-08",
+        "/us/504/0946-05",
+        "/us/504/0946-02",
+        "/us/504/0946-03"
+      ]
+    },
+    {
+      "cite": "528 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829794
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "577"
+        },
+        {
+          "page": "639"
+        },
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0558-01"
+      ]
+    },
+    {
+      "cite": "455 A.2d 1187",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1781050,
+        1781069
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0269-01",
+        "/pa/500/0270-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 270",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781069
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0270-01"
+      ]
+    },
+    {
+      "cite": "614 A.2d 684",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1834319
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "687-88"
+        },
+        {
+          "page": "688"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0582-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "656 A.2d 1335",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7889297,
+        472159
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1340-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/656/1335-01",
+        "/pa/540/0237-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 237",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472159
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "247-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0237-01"
+      ]
+    },
+    {
+      "cite": "133 L.Ed.2d 859",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 S.Ct. 932",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "664 A.2d 1310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7878656,
+        470777
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1318",
+          "parenthetical": "evidence that appellant lured other victims of similar race and weight into his car, took them to remote areas to force sex upon them, beat them in a similar manner, and killed or attempted to kill them admissible to prove common scheme, plan, or design"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/664/1310-01",
+        "/pa/541/0531-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 531",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470777
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "548",
+          "parenthetical": "evidence that appellant lured other victims of similar race and weight into his car, took them to remote areas to force sex upon them, beat them in a similar manner, and killed or attempted to kill them admissible to prove common scheme, plan, or design"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0531-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 423",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817459
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "458"
+        },
+        {
+          "page": "1282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0423-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 168",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817463
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "177"
+        },
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0168-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12043856,
+        458423
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "228-29"
+        },
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0221-01",
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458423
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "176"
+        },
+        {
+          "page": "181"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 293",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461481,
+        7348286
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "297"
+        },
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0429-01",
+        "/a2d/672/0293-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461481
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "437-39"
+        },
+        {
+          "page": "437-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0429-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 1044",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868032,
+        463539
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1047"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/674/1044-01",
+        "/pa/544/0105-01"
+      ]
+    },
+    {
+      "cite": "544 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        463539
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "110-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0105-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1452",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 31",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 1236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6262746
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/1236-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 4,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 931",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11351872,
+        11352385,
+        11352721,
+        11352497,
+        11352019,
+        11352598,
+        11351740,
+        11352158,
+        11352287
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when, prior to strangling the victim, the defendant viciously beat, raped and sodomized her, and repeatedly cut her neck with a piece of broken glass and bit her face"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/499/0931-02",
+        "/us/499/0931-06",
+        "/us/499/0931-09",
+        "/us/499/0931-07",
+        "/us/499/0931-03",
+        "/us/499/0931-08",
+        "/us/499/0931-01",
+        "/us/499/0931-04",
+        "/us/499/0931-05"
+      ]
+    },
+    {
+      "cite": "134 L.Ed.2d 935",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when the defendant repeatedly slashed the face and hands of the victims, which are areas sensitive to pain yet unlikely to result in death"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "116 S.Ct. 1831",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when the defendant repeatedly slashed the face and hands of the victims, which are areas sensitive to pain yet unlikely to result in death"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "662 A.2d 645",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470785,
+        7863343
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/541/0260-01",
+        "/a2d/662/0645-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 260",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470785
+      ],
+      "year": 1995,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/541/0260-01"
+      ]
+    },
+    {
+      "cite": "113 L.Ed.2d 269",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when, prior to strangling the victim, the defendant viciously beat, raped and sodomized her, and repeatedly cut her neck with a piece of broken glass and bit her face"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "111 S.Ct. 1338",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when, prior to strangling the victim, the defendant viciously beat, raped and sodomized her, and repeatedly cut her neck with a piece of broken glass and bit her face"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "524 Pa. 135",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822776
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/524/0135-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841472
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "236"
+        },
+        {
+          "page": "1091"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/535/0210-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 441",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808551
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "448"
+        },
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/516/0441-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 262",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804591
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "279-280"
+        },
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/514/0262-01"
+      ]
+    },
+    {
+      "cite": "653 A.2d 626",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474242,
+        7869772
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when victim was alive when defendant inflicted injuries including multiple stab wounds, blunt force injuries, a fractured nose, abrasions, lacerations; victim was stabbed repeatedly and set on fire"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/539/0499-01",
+        "/a2d/653/0626-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 499",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474242
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "torture established when victim was alive when defendant inflicted injuries including multiple stab wounds, blunt force injuries, a fractured nose, abrasions, lacerations; victim was stabbed repeatedly and set on fire"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/539/0499-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 1305",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867898,
+        465173
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1321"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/681/1305-01",
+        "/pa/545/0521-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 521",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465173
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/545/0521-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1626,
+    "char_count": 43260,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 5.430803954377705e-07,
+      "percentile": 0.9449176380553461
+    },
+    "sha256": "9bea0b2e1294c244fe1ab9819ec9a3d922fe699a3fe79a5f67a2987dbbf33337",
+    "simhash": "1:c34fc7aff4e5845d",
+    "word_count": 7009
+  },
+  "last_updated": "2024-02-27T17:16:05.296648+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ.",
+      "ZAPPALA, J., files a concurring opinion.",
+      "CAPPY, J., concurs in the result."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Joseph ELLIOTT, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nNIGRO, Justice.\nOn October 28,1994, following a jury trial, Appellant Joseph Elliott was found guilty of first-degree murder for the killing of Kimberly Griffith. The jury returned a verdict of death, and on December 8, 1994, the. trial court formally imposed the death sentence. This direct appeal followed. For the reasons presented herein, we affirm the judgment of sentence.\nIn all capital cases, this Court is obliged to conduct an independent review of the record to determine whether the Commonwealth has established each of the elements necessary to sustain a conviction for first-degree murder. See Commonwealth v. Zettlemoyer, 500 Pa. 16, 26 n. 3, 454 A.2d 937, 942 n. 3 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983), reh\u2019g denied, 463 U.S. 1236, 104 S.Ct. 31, 77 L.Ed.2d 1452 (1983). In conducting such a review, we must examine the evidence, and all reasonable inferences drawn therefrom, in the light most favorable to the Commonwealth as verdict winner and determine whether the jury could find every element of the crime beyond a reasonable doubt. See Commonwealth v. Michael, 544 Pa. 105, 110-11, 674 A.2d 1044, 1047 (1996). To obtain a conviction for first-degree murder, the Commonwealth must prove that a human being was unlawfully killed; that the defendant did the killing; and that the killing was done intentionally. See 18 Pa.C.S. \u00a7 2502(a), (d) (1983); Commonwealth v. Wilson, 543 Pa. 429, 437-39, 672 A.2d 293, 297 (1996).\nThe relevant facts are as follows. At approximately 2:30 a.m. on May 7, 1992, Frank Nardone and Appellant, a black male, went to Purgatory, an after-hours nightclub in Philadelphia. Kimberly Griffith, a twenty-seven year old white female who worked at the club as a part-time bartender, was present with a friend. Appellant, Nardone, and Griffith, all of whom knew each other, began to socialize.\nAt approximately 4:00 a.m., Griffith accompanied Nardone and Appellant to Nardone\u2019s house. Once there, Appellant and Griffith ingested cocaine in Nardone\u2019s kitchen and bedroom. Appellant and Nardone then began giving Griffith a massage. Nardone, however, was intoxicated and soon passed out. At 1:30 p.m. that afternoon, Nardone awoke and discovered Griffith\u2019s naked and battered body lying on a couch in his living room. After Nardone and a neighbor determined that she was dead, they summoned the police. Later that day, the body was taken to the Medical Examiner\u2019s office. An autopsy indicated that Griffith had died of strangulation, performed manually and with a cord, and had been beaten and dragged along the floor. The examination also revealed injuries to the vagina and anus, indicating forced sexual penetration. See N.T., 10/25/94, at 90-92, 101-03. Analysis of sperm found in the victim\u2019s vagina indicated that the sperm could not have come from Nardone, but could have come from Appellant. See N.T., 10/24/94, at 145. At trial, the medical examiner stated that Griffith had survived for thirty to sixty minutes after the onset of the attack. See N.T., 10/25/94, at 103, 105. The medical examiner also stated that the death had occurred between 5:00 a.m. and approximately 9:00 a.m. See N.T., 10/27/94, at 128,143.\nAfter speaking with Nardone on May 7, 1992, the police interviewed Appellant. He stated that he had had consensual sex -with Griffith after Nardone fell asleep. He also stated that the victim was alive when he left Nardone\u2019s house. During the interview, police observed scratch marks on Appellant\u2019s arms and body and a bruise in the shape of a straight line on the back of his right hand. He explained that one of the scratches was made by Griffith while he was having sex with her. He could not explain the others. See N.T., 10/24/94, at 193-94. At trial, Appellant indicated that he left the nightclub with Nardone and the victim around 4:00 a.m. and that he left Nardone\u2019s house at approximately 10:00 a.m. See N.T., 10/26/94, at 140,184.\nAlso at trial, Lynn Cardinal, Barbera Gogos, and Iris Berson testified concerning prior, unrelated sexual and physical assaults inflicted upon them by Appellant. Each of these women are white and in their twenties. They were each attacked by Appellant in the early morning hours, and all had similar violence inflicted upon them. See N.T., 10/25/94, at 116-30; 10/26/94, at 3-22, 69-83.\nWe find this evidence sufficient to demonstrate that Appellant beat and strangled Griffith and did so with the specific intent to kill. Thus, the jury could have found each element of first-degree murder beyond a reasonable doubt. See 18 Pa.C.S. \u00a7 2502(a), (d) (1983); Wilson, 543 Pa. at 437-39, 672 A.2d at 297.\nOn October 28, 1994, Appellant was found guilty of first-degree murder, rape, and involuntary deviate sexual intercourse (\u201cIDSI\u201d). After a penalty hearing, the jury found two aggravating circumstances and no mitigating circumstances. The jury therefore returned a verdict of death, which the trial court formally imposed on December 8, 1994. This direct appeal followed.\nAppellant now raises, inter alia, a specific insufficiency of the evidence claim. He contends that a new trial is required because the evidence presented was insufficient to establish that the deceased individual in this case was indeed Kimberly Griffith. He suggests that without this identification evidence the Commonwealth has failed to demonstrate that Griffith is in fact dead or that the body autopsied by the medical examiner was Griffith\u2019s. He then claims that, a fortiori, the evidence is insufficient to establish that he committed a murder. This claim is meritless. As noted above, after a thorough review of the record, we have concluded that the evidence was sufficient to allow the jury to find each element of first-degree murder beyond a reasonable doubt. Moreover, at trial, the preliminary hearing testimony of Frank Nardone was read into evidence. In that testimony, Nardone identified the body he discovered in his living room as that of Kimberly Griffith. See N.T., 10/24/94, at 230-32, 239. Further, there was testimony concerning both the transportation of Griffith\u2019s body from the crime scene to the Medical Examiner\u2019s office and regarding the autopsy performed on her remains. See N.T., 10/24/94, at 130-31; 10/25/94, at 85-106. Moreover, Appellant himself testified that he knew the victim as \u201cKim\u201d prior to the date of the killing, and that he had known her for five or six years. See N.T., 10/19/94, at 92. This evidence is clearly sufficient to establish both that the decedent in this case was Kimberly Griffith and that the body viewed by the medical examiner was Griffith\u2019s. Appellant\u2019s claim fails.\nNext, Appellant argues that the trial court abused its discretion by admitting evidence of Appellant\u2019s assaults on Lynn Cardinal, Barbera Gogos, and Iris Berson.\nFirst, he claims that the prosecution violated discovery rules by not disclosing its intention to use this evidence until the day the trial commenced, resulting in unfair surprise. We disagree. Defense counsel filed a discovery request pursuant to Pa.R.Crim.P. 305(B). See N.T., 10/25/94, at 21-25. Rule 305(B)(1) states, in pertinent part: \u201cIn all court cases, on request by the defendant, ... the Commonwealth shall disclose to the defendant\u2019s attorney all of the following requested items or information, provided they are material to the instant case____\u201d The Rule then sets out the seven categories of evidence that this language applies to. The names and statements of prior assault victims such as Cardinal, Gogos, and Berson do not fall within any of these categories. See Pa.R.Crim.P. 305(B)(1)(a)\u2014(g). Accordingly, the Commonwealth was not required under Rule 305(B)(1) to supply that information, even if defense counsel had requested it.\nIn any event, defense counsel learned of the Commonwealth\u2019s planned use of the evidence in question approximately one week before Cardinal, Gogos, or Berson testified. See N.T., 10/18/94, at 8-9, 41-44. Moreover, Appellant\u2019s assault on Lynn Cardinal led to a trial and conviction for indecent assault and related crimes. Defense counsel in the instant case also represented Appellant at that trial, during which the evidence of his assaults on Gogos and Berson was admitted over counsel\u2019s objection. See N.T., 10/24/94, at 20-22; Trial Ct. Op. at 3-4. Given that counsel had prior knowledge of the incidents in question by virtue of his previous representation of Appellant, we cannot conclude that the trial court abused its discretion in admitting the complained-of evidence.\nAppellant also challenges the trial court\u2019s substantive ruling on admissibility. He suggests that the prior assaults were not sufficiently similar to the instant case to justify their admission to show common scheme, plan, or design.\nGenerally, evidence of criminal activity unrelated to the offense in question is inadmissible against a defendant. See Commonwealth v. LaCava, 542 Pa. 160, 176, 666 A.2d 221, 228-29 (1995); Commonwealth v. Billa, 521 Pa. 168, 177, 555 A.2d 835, 840 (1989). However, such evidence may be admitted as proof of a common scheme, plan, or design where the crimes are so related that proof of one tends to prove the others. See Commonwealth v. Hughes, 521 Pa. 423, 458, 555 A.2d 1264, 1282 (1989); Billa.\nThe three prior assaults at issue were sufficiently similar to the attack in this case to permit their introduction at trial. Lynn Cardinal, a white woman in her twenties, testified that at approximately 3:00 a.m. on November 1, 1992, Appellant approached her at a bus stop and asked if he knew her from the Purgatory club. He then told her that she was unsafe due to the presence of several black teenagers at the bus stop. He persuaded Cardinal to walk to his house, telling her that he would call his sister to drive her home. Once inside the house, Appellant threatened Cardinal -with a knife, choked her, ordered her to undress, and announced his intention to perform oral sex upon her. When Cardinal refused, Appellant banged her head into the floor several times. He ultimately undressed her and inserted a finger into her vagina. See N.T., 10/26/94, at 69-82.\nBarbera Gogos, a white female in her twenties, testified that sometime after 2:00 a.m. on December 1, 1991, she met Appellant at Purgatory and offered him a ride home. Appellant persuaded Gogos to accompany him to the third floor of a building in West Philadelphia where Appellant intended to purchase drugs. Once inside the room, Appellant threatened Gogos with a knife, forced her to ingest methamphetamine, choked her, partially undressed her, and stated that he intended to sodomize her. See N.T., 10/26/94, at 3-20.\nIris Berson, also white and in her twenties, testified that at approximately 4:30 a.m. on March 31, 1992 she left the Purgatory club. When she stopped to take her purse from the trunk of her car, Appellant grabbed her from behind and called her a \u201cwhite bitch\u201d and a \u201cwhite cunt.\u201d He then punched her in the face and groin, knocking her unconscious. When she awoke, she found her skirt and pantyhose torn. See \u2022N.T., 10/25/94, at 116-25.\nLike Kimberly Griffith, Cardinal, Gogos, and Berson were all white women in their twenties. They were all attacked in the early morning hours after finding themselves alone with Appellant. Each of the assaults had sexual overtones. Each of the women were choked or beaten, or both. Given the close similarities between these assaults, we cannot conclude that the trial court abused its discretion in admitting the testimony of Cardinal, Gogos, and Berson to show common scheme, plan, or design. See Commonwealth v. Miller, 541 Pa. 531, 548, 664 A.2d 1310, 1318 (1995) (evidence that appellant lured other victims of similar race and weight into his car, took them to remote areas to force sex upon them, beat them in a similar manner, and killed or attempted to kill them admissible to prove common scheme, plan, or design), cert. denied, \u2014 U.S. -, 116 S.Ct. 932, 133 L.Ed.2d 859 (1996); see also Commonwealth v. May, 540 Pa. 237, 247-49, 656 A.2d 1335, 1340-41 (1995).\nFinally, Appellant claims that the trial court abused its discretion by concluding that the probative value of the evidence outweighed its prejudicial effect. We disagree. At trial, Appellant suggested that the injuries to Griffith were the result of consensual \u201crough sex.\u201d See N.T., 10/25/94, at 107-OS. The Commonwealth introduced the prior assaults evidence, in part, to rebut this claim. Moreover, the trial court gave several cautionary instructions to the jury indicating that the evidence could not be used to infer bad character or criminal tendencies. See N.T., 10/25/94, at 114-16; 10/26/94, at 66-68. The court repeated this charge in its final instructions. See N.T., 10/28/94, at 34-38. Accordingly, no relief is due.\nAppellant also argues that the trial court abused its discretion in refusing to instruct the jurors that they could not consider the prior assaults evidence unless they found that those crimes and the assault on Griffith were all committed in a manner distinctive enough to be considered a \u201csignature.\u201d\nAppellant\u2019s claim is without merit. An examination of the record reveals that the trial court\u2019s instruction adequately charged the jury concerning the use of the prior assaults evidence and the law regarding the common scheme, plan, or design exception. See N.T., 10/28/94, at 36-39. Accordingly, we find no abuse of discretion.\nAppellant next claims that the trial court abused its discretion in admitting the preliminary hearing testimony of Frank Nardone, who had died prior to Appellant\u2019s trial. Nardone gave three statements to the police prior to the preliminary hearing. Appellant identifies certain comments or assertions by Nardone, given in the course of these three statements to police, that he believes constitute prior inconsistent statements. He argues that he was denied a fair opportunity to cross-examine Nardone at the preliminary hearing because he was unaware of these allegedly inconsistent statements.\nNo relief is due. Appellant admits that at the preliminary hearing he was notified that Nardone had given two statements to police. See Appellant\u2019s Br. at 32; N.T., 3/21/94, at 21. At that time, however, defense counsel did not request a copy of these statements. See N.T., 3/21/94, at 21; 10/19/94, at 116-17. And, although defense counsel did not learn until later that Nardone had also given a third statement to the police, it is clear that Appellant was not prejudiced by this.\nTwo of the comments Appellant characterizes as inconsistent with Nardone\u2019s preliminary hearing testimony are, in fact, not inconsistent.\nThe remaining three comments Appellant identifies as inconsistent entitle him to no relief. These three comments represent discrepancies between Nardone\u2019s first and third statements to police. Appellant has failed to demonstrate how any of these comments contradict Nardone\u2019s preliminary hearing testimony. Rather, citing this Court\u2019s decision in Commonwealth v. Bazemore, 581 Pa. 582, 614 A.2d 684 (1992), he suggests that the Commonwealth\u2019s failure to inform him of the existence of Nardone\u2019s third statement to police, and thus of the presence of the three inconsistencies he points to, denied him the right to a fair cross-examination of Nardone at the preliminary hearing.\nThis claim fails. At the preliminary hearing in Bazemore, defense counsel cross-examined the sole Commonwealth witness in the case but had not been informed that the witness had made a prior inconsistent statement, had a criminal record, and could potentially be charged with homicide and conspiracy in connection with the same incident that gave rise to the charges against the defendant. In holding that the defendant had been denied a fair opportunity to cross-examine, this Court noted the critical nature of the witness\u2019 testimony to the Commonwealth\u2019s case:\nGiven the significance of [the witness\u2019] testimony, as evidenced by the Commonwealth\u2019s certification in the Statement of Jurisdiction in its brief to the Superior Court that the order barring the use of his testimony effectively terminates the prosecution of appellant, the credibility of [the witness] is undoubtedly of vital importance in this case.\nBazemore, 531 Pa. at 589, 614 A.2d at 687-88. Further, we stated that \u201c \u201cwhen the reliability of a given witness may well be determinative of guilt or innocence, nondisclosure [on the part of the Commonwealth] of evidence affecting credibility\u2019 violates due process.\u201d Id. at 591, 614 A.2d at 688 (quoting Commonwealth v. Wallace, 500 Pa. 270, 276, 455 A.2d 1187, 1190 (1983)).\nIt is apparent that Nardone\u2019s testimony was simply not as critical to the determination of guilt or innocence in this case as was that of the witness in Bazemore. Nardone was not an eyewitness to the crime, as was the witness in Bazemore, and nothing in his testimony was inconsistent with the information offered by Appellant himself at trial and in his statements to police. Thus, Nardone\u2019s credibility was not of \u201cvital importance\u201d in the instant case because he was not the sole source of inculpatory evidence, as was the witness in Bazemore. Accordingly, we decline to conclude that the presence of three minor discrepancies between Nardone\u2019s first and third statements to police denied Appellant a fair opportunity to cross-examine Nardone at the preliminary hearing. See Thompson; Bazemore.\nAppellant next claims that the trial court abused its discretion in allowing the medical examiner in the case to render an opinion as to the approximate time of Griffith\u2019s death because the opinion was based on the not-of-record results of a \u201clividity\u201d test that the examiner did not personally perform. Appellant testified at trial and stated that when he left Nardone\u2019s house at approximately 10:00 a.m., Griffith was still alive. The Commonwealth then recalled the medical examiner to the stand to offer an opinion as to the time of death. The trial court did not abuse its discretion in allowing this testimony. Generally, an expert may not render an opinion which is not based on evidence of record. See Commonwealth v. Chambers, 528 Pa. 558, 577, 599 A.2d 630, 639 (1991), cert. denied, 504 U.S. 946, 112 S.Ct. 2290, 119 L.Ed.2d 214 (1992). However, \u201cthis Court has determined that a medical expert is permitted to express opinion testimony on medical matters based, in part, on reports of others which are not in evidence, but which the medical expert customarily relies upon in the practice of his profession.\u201d Chambers, 528 Pa. at 577, 599 A.2d at 639 (citing Commonwealth v. Smith, 480 Pa. 524, 532, 391 A.2d 1009, 1013 (1978)). The medical examiner in Appellant\u2019s case testified that in fixing times of death, it was standard procedure for her to use the results of lividity tests performed by members of her office. Given this, the trial court did not abuse its discretion in allowing the examiner to offer her opinion as to the approximate time of death. See Chambers; Smith.\nNext, Appellant contends that the trial court abused its discretion in allowing the medical examiner to offer her opinion that the killing was committed by means of torture. He suggests that this opinion was irrelevant and highly prejudicial.\nWe disagree. This Court has previously stated that \u201c[e]vidence of continuing infliction of excruciating pain is relevant to the issue of intent to kill.\u201d Commonwealth v. Thomas, 522 Pa. 256, 272, 561 A.2d 699, 707 (1989). Moreover, the eomplained-of opinion was a natural inference to be drawn from the evidence presented and was, as Appellant concedes, a \u201cmatter within [the examiner\u2019s] realm of expertise.\u201d Appellant\u2019s Br. at 54. Further, a review of the record reveals that the opinion was stated briefly and without undue dramatics. See N.T., 10/25/94, at 105-06. Accordingly, we find no abuse of discretion.\nNext, Appellant claims that the trial court abused its discretion in permitting the jury to view six black-and-white, five-by-seven-inch photographs of the victim taken at the crime scene and twelve photographic slides of the victim, in color, taken during the autopsy. He contends that these photographs were particularly gruesome and that their potential to inflame the jury outweighed their evidentiary value.\nWe disagree. The admission of such photographs is within the sound discretion of the trial court and will not be reversed absent an abuse of that discretion. See Commonwealth v. Marinelli, 547 Pa. 294, 319-23, 690 A.2d 203, 216-17 (1997); Commonwealth v. Auker, 545 Pa. 521, 544, 681 A.2d 1305, 1318 (1996). In ruling on admissibility, the trial court must determine whether the photographs are inflammatory, and, if so, whether they are of \u201csuch essential evidentiary value that their need clearly outweighs the likelihood of inflaming the minds and passions of the jurors.\u201d Commonwealth v. McCutchen, 499 Pa. 597, 602, 454 A.2d 547, 549 (1982); see also Auker, 545 Pa. at 544-45, 681 A.2d at 1318.\nThe photographs of the crime scene in the instant case showed that the victim had been placed on a couch and covered with a blanket, and that her hair had been arranged to cover her neck wounds. The Commonwealth introduced these pictures to demonstrate that Appellant had attempted to delay discovery of the crime. The color slides were taken during the autopsy, after the surface of the body had been cleaned of blood. They depicted the injuries suffered by the victim, including strangulation marks, bruises and abrasions, a black eye, and injury to the vagina and anus. See N.T., 10/25/94, at 93-103. The medical examiner stated her opinion that the slides were necessary to accurately convey to the jury the nature and extent of these injuries. See id. at 77-80. The jury viewed each of the slides for only a brief period. Moreover, given Appellant\u2019s claim that he had had consensual \u201crough sex\u201d with Griffith, the slides depicting vaginal and anal damage were highly probative.\nUpon due consideration of the nature of the photographs and slides in question, and in light of their probative value, we cannot conclude that the trial court abused its discretion in admitting them. See, e.g., Marinelli, 547 Pa. at 321-23, 690 A.2d at 217 (no abuse of discretion in admitting slides and photos of the victim\u2019s body showing extensive beating and two gunshot wounds to the head); Commonwealth v. Edwards, 521 Pa. 134, 151, 555 A.2d 818, 822-27 (1989) (no abuse of discretion in admitting thirteen close-up photographs of rape/murder victim showing extensive facial injuries, strangulation marks, and numerous bite marks); McCutchen, 499 Pa. at 603, 454 A.2d at 550 (no abuse of discretion in admitting slides of the naked body of a six-year-old homosexual rape/murder victim showing bruises, head wounds, missing teeth, and spread buttocks indicating anal tears).\nNext, Appellant contends that the prosecutor engaged in misconduct during closing argument by referring to facts not in evidence and by urging the jury to make improper use of the evidence concerning Appellant\u2019s prior assaults.\nA prosecutor\u2019s remarks fall within the ambit of fair comment if they are supported by evidence and they contain inferences which are reasonably derived from that evidence. A new trial is not mandated every time a prosecutor makes an intemperate or improper remark. To constitute reversible error, the language must be such that its unavoidable effect would be to prejudice the jury, forming in their minds fixed bias and hostility towards the defendant, so that they could not weigh the evidence and render a true verdict.\nCommonwealth v. Hardcastle, 519 Pa. 236, 254, 546 A.2d 1101, 1109 (1988) (citations omitted), cert. denied, 493 U.S. 1093, 110 S.Ct. 1169, 107 L.Ed.2d 1072 (1990); see also Commonwealth v. LaCava, 542 Pa. 160, 181, 666 A.2d 221, 231 (1995).\nFirst, Appellant claims that the prosecutor argued facts not in evidence when he \u201cspecifically stated that the decedent said \u2018No\u2019 \u201d during Appellant\u2019s attack. Appellant\u2019s Br. at 44. This claim fails. When read in context, it is apparent that the complained-of remark was simply offered metaphorically in an attempt to indicate to the jury the level of resistance offered by the victim.\nAppellant also takes issue with the prosecutor\u2019s statement that Appellant cut the cord from the electric heater in Nardone\u2019s home and used it to strangle the victim. The medical examiner opined that the strangulation marks on the victim\u2019s neck were consistent with the shape of the cord. Also, when Appellant was questioned the day after the murder, he had a straight-line bruise on the back of his hand. Finally, during the investigation at the crime scene, it was discovered that a knife had been taken from Nardone\u2019s kitchen. The prosecutor\u2019s remarks concerning Appellant\u2019s use of the cord could be fairly inferred from these facts and were therefore not improper.\nAppellant also argues that the prosecutor\u2019s comments regarding the jury\u2019s use of the evidence of Appellant\u2019s prior assaults constituted misconduct. After careful review, we find that the record does not support this argument. Appellant\u2019s claims are either factually incorrect or meritless. The prosecutor\u2019s comments were not improper given the facts of the case and did not mislead the jury concerning the use of prior crimes evidence, which was introduced to show common scheme, plan, or design. See N.T., 10/28/94, at 13-17. Moreover, as noted previously, the trial court gave a cautionary instruction to the jury explaining the proper use of such evidence. See N.T., 10/25/94, at 114-16; 10/26/94, at 66-68; 10/28/94, at 34-38. No relief is due.\nAppellant next argues that trial counsel was ineffective for failing to move for judgments of acquittal on the charges of rape and IDSI because there was no evidence that Appellant had either vaginal or anal intercourse with Griffith against her will. These claims are devoid of merit. The medical evidence in the case established that Griffith\u2019s vagina was not lubricated when intercourse occurred and that both her vagina and anus had been torn and lacerated. The medical examiner opined that these injuries were inconsistent with consensual \u201crough sex.\u201d See N.T., 10/25/94, at 109. The evidence further established that Griffith had been held down and beaten and that the sperm found in her body could have come from Appellant. In light of this evidence, we find no merit in either of Appellant\u2019s underlying claims. Accordingly, his ineffectiveness claims fail. See Commonwealth v. Howard, 538 Pa. 86, 93, 645 A.2d 1300, 1304 (1994).\nLastly, Appellant argues that the evidence was insufficient to prove either of the two aggravating circumstances found by the jury: that the killing occurred during the perpetration of a felony and that it was committed by means of torture. See 42 Pa.C.S. \u00a7 9711(d)(6), (8) (Supp.1997).\nFirst, as discussed above, the evidence in this case was clearly sufficient to support the charges of rape and IDSI. Given this, Appellant\u2019s claim that the evidence did not support the finding that the killing was committed in the course of a felony is meritless.\nSecond, to establish the aggravating circumstance of torture, the Commonwealth must prove that the defendant intended to inflict \u201ca considerable amount of pain and suffering on a victim which is unnecessarily heinous, atrocious, or cruel manifesting exceptional depravity.\u201d Commonwealth v. Rompilla, 539 Pa. 499, 514, 653 A.2d 626, 634 (1995) (quoting Commonwealth v. Thomas, 522 Pa. 256, 277, 561 A.2d 699, 709 (1989)); see also Commonwealth v. Daniels, 537 Pa. 464, 473, 644 A.2d 1175, 1180 (1994). During the attack in the instant case, Griffith was beaten, dragged across the floor, raped, sodomized, and strangled both manually and with a cord. She sustained numerous bruises and lacerations, multiple bone fractures and extensive soft tissue injury in the neck, severe damage to her vagina and anus, and the internal bleeding associated with these injuries. Moreover, the medical examiner testified that Griffith was alive for thirty to sixty minutes after the attack began. See N.T., 10/25/94, at 105. This evidence is more than sufficient to support the jury\u2019s finding of torture.\nHaving concluded that Appellant\u2019s claims for relief are without merit, we must affirm the judgment of sentence unless we determine that\n(i) the sentence of death was the product of passion, prejudice or any other arbitrary factor;\n(ii) the evidence fails to support the finding of at least one aggravating' circumstance specified in subsection (d); or\n(in) the sentence of death is excessive or disproportionate to the penalty imposed in similar cases, considering both the circumstances of the crime and the character and record of the defendant.\n42 Pa.C.S. \u00a7 9711(h)(3) (Supp.1997).\nUpon review of the record, we conclude that the sentence was not the product of passion, prejudice or any other arbitrary factor. Rather, it was based upon evidence properly admitted at trial. As noted above, we also conclude that the evidence was sufficient to support the finding of both aggravating circumstances, that the killing occurred in the course of a felony and that it was committed by means of torture. See id. \u00a7 9711(d)(6), (8).\nLastly, we have reviewed Appellant\u2019s sentence in light of the sentencing data compiled and monitored by the Administrative Office of the Pennsylvania Courts. See Commonwealth v. Frey, 504 Pa. 428, 475 A.2d 700, cert. denied, 469 U.S. 963, 105 S.Ct. 360, 83 L.Ed.2d 296 (1984). We conclude that the sentence of death imposed upon Appellant is not excessive or disproportionate.\nAccordingly, we affirm the judgment of sentence.\nZAPPALA, J., files a concurring opinion.\nCAPPY, J., concurs in the result.\n. Appellant, who is six feet four inches tall and weighs 230 pounds, had worked as a bouncer at Purgatory, but had been fired approximately a year before the date of the killing. See N.T., 10/24/94, at 42, 200.\n. At Nardone\u2019s house, police observed a space heater from which the electrical cord had been cut. At trial, the medical examiner who performed the autopsy on Griffith opined that this cord was the object that had been used to accomplish the strangulation. See N.T., 10/25/94, at 95-98.\n. See 18 Pa.C.S. \u00a7 2502(a) (1983).\n. See id. \u00a7 3121 (Supp.1997).\n. See id. \u00a73123.\n. The jury found that the killing occurred during the perpetration of a felony and that it was committed by means of torture. See 42 Pa.C.S. \u00a7 9711(d)(6), (8) (Supp.1997).\n. On the rape and IDSI charges, the trial court sentenced Appellant to seven to fifteen years and three to six years in prison, respectively. These sentences were made concurrent to the sentence of death imposed for the first-degree murder conviction. See N.T., 12/8/94, at 17.\n. Pursuant to 42 Pa.C.S. \u00a7 9711(h)(1) (Supp.1997) and Pa. R.A.P.1941.\n. In Appellant\u2019s words, \u201d[a]t the conclusion of the case, [he] requested that the trial court enter a verdict of not guilty because the prosecution had presented no evidence showing that the body about which the medical examiner testified was, in fact, that of Kimberly Griffi[th], the person [he] was accused of killing.\u201d Appellant's Br. at 55.\n. In a murder prosecution, the Commonwealth must prove that the alleged victim is dead and that the death resulted from criminal activity. See, e.g., Commonwealth v. Dews, 429 Pa. 555, 239 A.2d 382 (1968).\n. Nardone had died prior to trial. See N.T., 10/24/94, at 163-64.\n. The admissibility of evidence is a matter solely within the discretion of the trial court. This Court will reverse an evidentiary ruling only when a clear abuse of discretion has occurred. See Commonwealth v. Johnson, 536 Pa. 153, 157, 638 A.2d 940, 942 (1994); Commonwealth v. Foy, 531 Pa. 322, 325, 612 A.2d 1349, 1351 (1992).\n. These categories are:\n(a) Any evidence favorable to the accused which is material either to guilt or to punishment, and which is within the possession or control of the attorney for the Commonwealth;\n(b) any written confession or inculpatory statement, or the substance of any oral confession or inculpatory statement, and the identity of the person to whom the confession or inculpatory statement was made, which is in the possession or control of the attorney for the Commonwealth;\n(c) the defendant\u2019s prior criminal record;\n(d) the circumstances and results of any identification of the defendant by voice, photograph, or in-person identification;\n(e) any results or reports of scientific tests, expert opinions, and written or recorded reports of polygraph examinations, or other physical or mental examinations of the defendant, which are within the possession or control of the attorney for the Commonwealth;\n(f) any tangible objects, including documents, photographs, fingerprints, or other tangible evidence; and\n(g) the transcripts and recordings of any electronic surveillance, and the authority by which the said transcripts and recordings were obtained.\nPa. R.Crim. P. 305(B)(l)(a)-(g).\n. It appears that defense counsel did request \"all written or recorded statements [or] substantially verbatim oral statements of eyewitnesses] the Commonwealth intends to call at trial.\" N.T., 10/25/94, at 22. This language closely tracks the wording of Pa. R.Crim. P. 305(B)(2)(a)(ii). Despite this, the statements of Cardinal, Gogos, and Berson were not discoverable under this rule because none of those women were eyewitnesses to the Griffith killing. See Commonwealth v. Buehl, 510 Pa. 363, 389, 508 A.2d 1167, 1180 (1986), cert. denied, 488 U.S. 871, 109 S.Ct. 187, 102 L.Ed.2d 156 (1988); Commonwealth v. Colson, 507 Pa. 440, 462-63, 490 A.2d 811, 822-23 (1985), cert. denied, 476 U.S. 1140, 106 S.Ct. 2245, 90 L.Ed.2d 692 (1986); see also Commonwealth v. Ford, 539 Pa. 85, 103, 650 A.2d 433, 441 (1994) (\"discovery is a matter for the trial court\u2019s discretion.... A defendant has no right to the statement of a witness until after the witness testifies on direct examination.\u201d (citations omitted)), cert. denied, 514 U.S. 1114, 115 S.Ct. 1970, 131 L.Ed.2d 859 (1995).\n. Appellant was tried and convicted by a jury in September 1994 before the Honorable Pamela Pryor Cohen. See Commonwealth\u2019s Br. at 14 n. 9. The Superior Court affirmed this conviction. See Commonwealth v. Elliott, 449 Pa.Super. 719, 674 A.2d 313 (1995).\n. Prior testimony of an unavailable witness may be introduced at trial where the defendant had a full and fair opportunity to cross-examine the witness at the prior hearing. See 42 Pa.C.S. \u00a7 5917 (1982); Commonwealth v. Thompson, 538 Pa. 297, 311, 648 A.2d 315, 322 (1994); Commonwealth v. Bazemore, 531 Pa. 582, 614 A.2d 684 (1992).\n. Appellant suggests that counsel was ineffective for failing to request these statements. To prevail on an ineffective assistance of counsel claim, Appellant must demonstrate (1) that the underlying claim is of arguable merit; (2) that counsel's course of conduct was without a reasonable basis designed to effectuate his client's interest; and (3) that he was prejudiced by counsel's ineffectiveness. See Commonwealth v. Howard, 538 Pa. 86, 93, 645 A.2d 1300, 1304 (1994). For the reasons presented above, Appellant has failed to demonstrate that he was prejudiced by counsel's failure to request Nardone\u2019s prior statements. Accordingly, this claim fails.\n. These two comments are as follows: 1) In his second statement to police, Nardone remarked that he and Appellant had given the victim a massage just before Nardone passed out.\n2) In his third statement to police, Nardone commented that he had met Appellant at another bar prior to going to Purgatory. See Appellant\u2019s Br. at 33.\nThen, at the preliminary hearing, Nardone testified that he and Appellant had given the victim a massage and that he had been at another bar with Appellant before they went to Purgatory. See N.T., 10/24/94, at 230, 234-35.\n. These three comments are as follows: 1) In his third statement to police, Nardone remarked that he had paid Appellant's entry fee at Purgatory. This fact did not appear in hi first statement.\n2) In his third statement to police, Nardone commented that he had not begun to socialize with the victim until just before leaving Purgatory. In his first statement, he indicated that he had done so sometime prior to that.\n3) In his third statement to police, Nardone stated that he had not offered to drive the victim to her home. Appellant states that this was contradictory to Nardone's first statement. See Appellant's Br. at 33.\n. The medical examiner stated:\n[W]e can tell whether or not the livi[d]ity is congealed or not by pressing on the body, and our investigators at the Medical Examiner\u2019s Office are instructed to press on the body and tell us about the lividity, and that is very important to us.\nWe can\u2019t go to every scene so we use the investigator's report to estimate the lividity.\nN.T., 10/27/94, at 129, 133.\n. This claim was not raised before the trial court and is therefore waived. We will consider it, however, in light of the relaxed waiver rule applicable to capital cases. See Commonwealth v. Zettlemoyer, 500 Pa. 16, 26 n. 3, 454 A.2d 937, 942 n. 3 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983), reh\u2019g denied, 463 U.S. 1236, 104 S.Ct. 31, 77 L.Ed.2d 1452 (1983).\n. The prosecutor stated:\nWith the injuries to his body\u2014evidence of this man being kicked and punched, a struggle, a fierce struggle where [Ms. Griffith] is saying yes to her life and no to his murderous assault.\n[Defendant] held [Ms. Griffith's] mouth closed with his powerful hand over her mouth and nose.... So in the awful struggle of death there emerges from this picture an element of virtue; a young woman saying no, even in the face of this murderous assault.\nN.T., 10/28/94, at 8-10; Commonwealth's Br. at 48.\n. Specifically, Appellant claims that the prosecutor:\n1) . Argued that because [Appellant] allegedly told Ms. Berson that he was going to kill her, he did kill the decedent.\n2) . Argued that because the [A]ppellant apparently lured and manipulated Ms. Gogos and Ms. Cardinal, the [A]ppellant did so here, thereby demonstrating a similarity between those cases and the instant one even though the facts showed that the [A]ppellant did not lure the decedent to Nardone\u2019s apartment.\n3) . Argued that [A]ppellant exercised dominion and control over women when he got them alone as demonstrated by the prior cases even though there was no indication that this occurred here.\n4) . Argued that because the [A]ppellant may have acted a certain way in the past he did so here, thus misstating the law with respect to other crimes evidence.\nAppellant\u2019s Br. at 44 (citations omitted).\n. To prevail on an ineffectiveness claim, Appellant must demonstrate (1) that the underlying claim is of arguable merit; (2) that counsel\u2019s course of conduct was without a reasonable basis designed to effectuate his client\u2019s interest; and (3) that he was prejudiced by counsel\u2019s ineffectiveness. See Commonwealth v. Howard, 538 Pa. 86, 93, 645 A.2d 1300, 1304 (1994).\n. The Prothonotary of the Supreme Court is directed to transmit the complete record of this case to the Governor of Pennsylvania. See 42 Pa.C.S. \u00a7 971 l(i) (Supp.1997).",
+        "type": "majority",
+        "author": "NIGRO, Justice."
+      },
+      {
+        "text": "ZAPPALA, Justice,\nconcurring.\nI join in affirming the judgement of sentence. I write separately, however, to express my disagreement with the conclusion that sufficient evidence supported the aggravating circumstance of torture, 42 Pa.C.S. \u00a7 9711(d)(8). Because there was sufficient evidence supporting the aggravating circumstance that the killing was committed while in the perpetration of a felony, 42 Pa.C.S. \u00a7 9711(d)(6), and no mitigating circumstances were found, the death sentence may be affirmed despite this conclusion. See 42 Pa.C.S. \u00a7 971 l(h)(3)(ii).\nIn our recent decision in Commonwealth v. Auker, 545 Pa. 521, 681 A.2d 1305 (1996), we discussed what is necessary to establish the aggravating circumstance of torture.\nAs [former] Chief Justice Nix noted in Commonwealth v. Nelson, 514 Pa. 262, 523 A.2d 728 (1987),\nThe aggravating circumstance provides an additional element to the intentional killing which justifies the ultimate sentence. Thus subsection 8 of section 9711 must of necessity require more than a mere intent to kill.\nImplicit in subsection 8 is the requirement of an intent to cause pain and suffering in addition to the intent to kill.\nId. at 279-280, 523 A.2d at 737. (footnote omitted). Neither the efficacy of the means employed by a defendant to murder his victim nor the immediacy of death is itself determinative of the question whether the offense was committed by means of torture. Commonwealth v. Caldwell, 516 Pa. 441, 448, 532 A.2d 813, 817 (1987). There must be an indication that the killer was not satisfied with the killing alone. Commonwealth v. Edmiston, 535 Pa. 210, 236, 634 A.2d 1078, 1091 (1993).\nId. at 551, 681 A.2d at 1321.\nThe majority fails to apply these concepts. The record establishes that the victim was beaten, dragged across the floor, raped, sodomized, and strangled both manually and with a severed electrical cord. Although the acts committed by Appellant are deplorable, we must adhere to the legal definition of the word torture. As stated in Auker, many homicide victims suffer considerable pain and anguish, yet only a narrow category of \u201ctorturous\u201d acts warrant the most severe penalty of death. See Commonwealth v. Henry, 524 Pa. 135, 569 A.2d 929 (1990), cert. denied, 499 U.S. 931, 111 S.Ct. 1338, 113 L.Ed.2d 269 (1991) (torture established when, prior to strangling the victim, the defendant viciously beat, raped and sodomized her, and repeatedly cut her neck with a piece of broken glass and bit her face); Commonwealth v. Rompilla, 539 Pa. 499, 653 A.2d 626 (1995) (torture established when victim was alive when defendant inflicted injuries including multiple stab wounds, blunt force injuries, a fractured nose, abrasions, lacerations; victim was stabbed repeatedly and set on fire); Commonwealth v. Lee, 541 Pa. 260, 662 A.2d 645 (1995), cert, denied, \u2014 U.S.-, 116 S.Ct. 1831, 134 L.Ed.2d 935 (1996) (torture established when the defendant repeatedly slashed the face and hands of the victims, which are areas sensitive to pain yet unlikely to result in death).\nIn the aforementioned cases, the defendants all inflicted injuries which were not necessary to the killing of the victim and which establish that the defendant specifically intended for the victim to suffer rather than merely die. To the contrary, the abhorrent acts committed by Appellant in this case did not establish a separate intent to inflict pain beyond that which was necessary to complete the crimes of rape and murder. Accordingly, I am constrained to conclude that the aggravating circumstance of torture was not established.",
+        "type": "concurrence",
+        "author": "ZAPPALA, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Lee Mandell, Philadelphia, for J. Elliott.",
+      "Catherine Marshall, Philadelphia, for Commonwealth, Anthony V. Pomerang.",
+      "Robert A. Graci, Harrisburg, for Commonwealth, Office of Attorney General."
+    ],
+    "corrections": "",
+    "head_matter": "700 A.2d 1243\nCOMMONWEALTH of Pennsylvania, Appellee, v. Joseph ELLIOTT, Appellant.\nSupreme Court of Pennsylvania.\nArgued Dec. 9, 1996.\nDecided Aug. 20, 1997.\nReargument Denied Sept. 19, 1997.\nLee Mandell, Philadelphia, for J. Elliott.\nCatherine Marshall, Philadelphia, for Commonwealth, Anthony V. Pomerang.\nRobert A. Graci, Harrisburg, for Commonwealth, Office of Attorney General.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+  },
+  "file_name": "0132-01",
+  "first_page_order": 214,
+  "last_page_order": 241
+}

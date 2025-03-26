@@ -1,0 +1,102 @@
+{
+  "id": 12284779,
+  "name": "Com. v. Martinez",
+  "name_abbreviation": "Com. v. Martinez",
+  "decision_date": "2016-08-30",
+  "docket_number": "118 EAL (2016)",
+  "first_page": "673",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 189",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486435,
+        12486436,
+        12486437,
+        12486438,
+        12486439,
+        12486440,
+        12486441,
+        12486442,
+        12486443,
+        12486444,
+        12486445,
+        12486446,
+        12486447,
+        12486448
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0189-10",
+        "/a3d/144-2/0189-11",
+        "/a3d/144-2/0189-12",
+        "/a3d/144-2/0189-13",
+        "/a3d/144-2/0189-14",
+        "/a3d/144-2/0189-01",
+        "/a3d/144-2/0189-02",
+        "/a3d/144-2/0189-03",
+        "/a3d/144-2/0189-04",
+        "/a3d/144-2/0189-05",
+        "/a3d/144-2/0189-06",
+        "/a3d/144-2/0189-07",
+        "/a3d/144-2/0189-08",
+        "/a3d/144-2/0189-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.897,
+    "sha256": "06e35a2d44b76dad5d44e374a4261b8cc78b5db90e05de8df1aa32ed3220c83d",
+    "simhash": "1:7074d2f7c0798824",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Martinez"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 189",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Martinez\n08/30/2016\n118 EAL (2016)"
+  },
+  "file_name": "0673-08",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

@@ -1,0 +1,80 @@
+{
+  "id": 12282472,
+  "name": "Lichtman v. Glazer; Lichtman v. Vignola; Lichtman v. Williams",
+  "name_abbreviation": "Lichtman v. Glazer",
+  "decision_date": "2015-09-23",
+  "docket_number": "366, 369, 370 EAL (2015)",
+  "first_page": "758",
+  "last_page": "758",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 758"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "111 A.3d 1225",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6891190
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/111/1225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 131,
+    "ocr_confidence": 0.856,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24909714813489126
+    },
+    "sha256": "3287dc1bd8977297e3f90ca261e5ed2d4f71ac55322fad40aac1d69008a8b063",
+    "simhash": "1:5d01422802644e02",
+    "word_count": 20
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lichtman v. Glazer; Lichtman v. Vignola; Lichtman v. Williams"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 111 A.3d 1225",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lichtman v. Glazer; Lichtman v. Vignola; Lichtman v. Williams\n09/23/2015\n366, 369, 370 EAL (2015)"
+  },
+  "file_name": "0758-07",
+  "first_page_order": 812,
+  "last_page_order": 812
+}

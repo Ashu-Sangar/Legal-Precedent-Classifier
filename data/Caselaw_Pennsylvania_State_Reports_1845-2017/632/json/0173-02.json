@@ -1,0 +1,90 @@
+{
+  "id": 12173232,
+  "name": "David KNELLER, Petitioner v. Marsha C. STEWART, Respondent",
+  "name_abbreviation": "Kneller v. Stewart",
+  "decision_date": "2015-07-08",
+  "docket_number": "No. 63 MM 2015",
+  "first_page": "173",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 173"
+    },
+    {
+      "type": "parallel",
+      "cite": "118 A.3d 1106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804592
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a petitioner may not obtain mandamus relief unless he establishes the absence of another adequate remedy"
+        },
+        {
+          "parenthetical": "holding that a petitioner may not obtain mandamus relief unless he establishes the absence of another adequate remedy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0339-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 587,
+    "ocr_confidence": 0.582,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24706556250962894
+    },
+    "sha256": "c865b5afb88b57e707ed47161dc50132574547a044568da6815efa776f120be4",
+    "simhash": "1:1c276a0f079d690c",
+    "word_count": 99
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David KNELLER, Petitioner v. Marsha C. STEWART, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of July, 2015, as Petitioner may pursue redress in a civil action, mandamus relief is not available. See Relosky v. Sacco, 514 Pa. 339, 523 A.2d 1112 (1987) (holding that a petitioner may not obtain mandamus relief unless he establishes the absence of another adequate remedy). As such, the Petition for Review in the Nature of Mandamus is DENIED, and the Application to Disqualify Counsel is DISMISSED as moot.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "118 A.3d 1106\nDavid KNELLER, Petitioner v. Marsha C. STEWART, Respondent.\nNo. 63 MM 2015.\nSupreme Court of Pennsylvania.\nJuly 8, 2015."
+  },
+  "file_name": "0173-02",
+  "first_page_order": 227,
+  "last_page_order": 228
+}

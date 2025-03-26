@@ -1,0 +1,70 @@
+{
+  "id": 12284848,
+  "name": "Com. v. Diaz",
+  "name_abbreviation": "Com. v. Diaz",
+  "decision_date": "2015-11-16",
+  "docket_number": "495 MAL (2015)",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 775"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1142",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.879,
+    "sha256": "03b63bfaa5254d81959ec52e71dd9af240a5e58ac422c12a239f4866605b58ca",
+    "simhash": "1:8928a0b4d3f271b0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Diaz"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1142",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Diaz\n11/16/2015\n495 MAL (2015)"
+  },
+  "file_name": "0775-04",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

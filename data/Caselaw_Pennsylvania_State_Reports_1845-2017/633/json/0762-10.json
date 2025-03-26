@@ -1,0 +1,70 @@
+{
+  "id": 12282928,
+  "name": "Com. v. Engram",
+  "name_abbreviation": "Com. v. Engram",
+  "decision_date": "2015-10-14",
+  "docket_number": "204 WAL (2015)",
+  "first_page": "762",
+  "last_page": "762",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 762"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1144",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.835,
+    "sha256": "e6149b5aae52873f538a25a75cfe23113efbf4be8b8490b9ac686efb30aa8c4b",
+    "simhash": "1:300660a955ae0442",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Engram"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1144",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Engram\n10/14/2015\n204 WAL (2015)"
+  },
+  "file_name": "0762-10",
+  "first_page_order": 816,
+  "last_page_order": 816
+}

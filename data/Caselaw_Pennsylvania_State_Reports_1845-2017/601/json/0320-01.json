@@ -1,0 +1,101 @@
+{
+  "id": 4194526,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Jonathan ALLEN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Allen",
+  "decision_date": "2009-05-21",
+  "docket_number": "No. 26 EM 2009",
+  "first_page": "320",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "601 Pa. 320"
+    },
+    {
+      "type": "parallel",
+      "cite": "972 A.2d 486"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "825 A.2d 630",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9116632,
+        197215
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/825/0630-01",
+        "/pa/573/0375-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197215
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0375-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 550,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13789375365127465
+    },
+    "sha256": "2787093f8f58f634ecd42a1f2a77aea799e3eb418b15471c82768f294438f24c",
+    "simhash": "1:5cb8c6ae23ea6f9b",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T22:17:58.079625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Jonathan ALLEN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of May, 2009, the \u201cPetition for Extension of Time to File Allowance of Appeal\u201d and the \u201cApplication for Relief 123, Pursuant to Pa.R.Crim.P. Rule 122(c)(3); Motion for Appointment of Counsel for Allowance of Appeal to Your Honorable Supreme Court of Pennsylvania; as of Right Pursuant to Com. v. Liebel, 573 Pa. 375, 825 A.2d 630, 635 (2003)\u201d are hereby denied.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "972 A.2d 486\nCOMMONWEALTH of Pennsylvania, Respondent, v. Jonathan ALLEN, Petitioner.\nNo. 26 EM 2009.\nSupreme Court of Pennsylvania.\nMay 21, 2009."
+  },
+  "file_name": "0320-01",
+  "first_page_order": 394,
+  "last_page_order": 394
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1787705,
+  "name": "Michael J. CUNNINGHAM, Petitioner, v. Walter BROWN, Jr., and Joseph Miniconzi, and Eastern States Transportation Company, Inc., Respondents",
+  "name_abbreviation": "Cunningham v. Brown",
+  "decision_date": "1983-12-29",
+  "docket_number": "Petition No. 533 E.D. Allocatur Docket 1983",
+  "first_page": "178",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "504 Pa. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "470 A.2d 938"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "464 A.2d 532",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        89527,
+        89538,
+        89431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/317/0635-02",
+        "/pa-super/317/0634-02",
+        "/pa-super/317/0636-01"
+      ]
+    },
+    {
+      "cite": "317 Pa.Super. 635",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        89475,
+        89527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/317/0635-01",
+        "/pa-super/317/0635-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 809,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34692273564983905
+    },
+    "sha256": "b11ac66cdb3687ebd0fbc7e9c7fb0612b06d8983e09593316f0644b4063808b1",
+    "simhash": "1:089457e7afd985ad",
+    "word_count": 133
+  },
+  "last_updated": "2024-02-27T22:38:40.474701+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "NIX, J., notes a dissent to this order.",
+      "McDERMOTT, J., would vote to grant allocatur, but dissents from the Per Curiam disposition of this case."
+    ],
+    "parties": [
+      "Michael J. CUNNINGHAM, Petitioner, v. Walter BROWN, Jr., and Joseph Miniconzi, and Eastern States Transportation Company, Inc., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nCase below: 317 Pa.Super. 635, 464 A.2d 532.\nPER CURIAM.\nAND NOW, this 29th day of December, 1983, the petition for allowance of appeal is granted and the Order of the Superior Court of August 12, 1983 at No. 712 Philadelphia, 1981 affirming the Order of the Court of Common Pleas of Philadelphia County at Civil No. 5826, June Term, 1975, is reversed. The matter is remanded to the Court of Common Pleas with directions to reinstate petitioner\u2019s complaint.\nNIX, J., notes a dissent to this order.\nMcDERMOTT, J., would vote to grant allocatur, but dissents from the Per Curiam disposition of this case.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "470 A.2d 938\nMichael J. CUNNINGHAM, Petitioner, v. Walter BROWN, Jr., and Joseph Miniconzi, and Eastern States Transportation Company, Inc., Respondents.\nSupreme Court of Pennsylvania.\nDec. 29, 1983."
+  },
+  "file_name": "0178-01",
+  "first_page_order": 294,
+  "last_page_order": 295
+}

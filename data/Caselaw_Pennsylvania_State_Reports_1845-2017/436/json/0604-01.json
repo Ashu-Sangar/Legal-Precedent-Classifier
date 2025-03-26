@@ -1,0 +1,101 @@
+{
+  "id": 1926177,
+  "name": "Commonwealth v. Skipper, Petitioner",
+  "name_abbreviation": "Commonwealth v. Skipper",
+  "decision_date": "1969-12-02",
+  "docket_number": "No. 252",
+  "first_page": "604",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "436 Pa. 604"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "396 U.S. 900",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11385279,
+        11385055,
+        11384972,
+        11385215
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/396/0900-04",
+        "/us/396/0900-02",
+        "/us/396/0900-01",
+        "/us/396/0900-03"
+      ]
+    },
+    {
+      "cite": "408 F. 2d 1186",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2203538
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/408/1186-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 417,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07004192136298294
+    },
+    "sha256": "ae93a44750d5183130120a4a8a1b189bf65546b6e50a3e4c6bd7c2eb47be5f39",
+    "simhash": "1:f0440ad4ed888af1",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T21:46:11.038829+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Skipper, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nPetition granted and appeal allowed. Counsel\u2019s attention is directed to U. S. ex rel. Chambers v. Ma roney, 408 F. 2d 1186 (3d Cir. 1969), cert. granted, 396 U.S. 900 (1969).",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Thomas M. Reese, for petitioner.",
+      "Amos Davis, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Skipper, Petitioner.\nBefore Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nThomas M. Reese, for petitioner.\nAmos Davis, District Attorney, for Commonwealth, appellee.\nDecember 2, 1969:"
+  },
+  "file_name": "0604-01",
+  "first_page_order": 654,
+  "last_page_order": 655
+}

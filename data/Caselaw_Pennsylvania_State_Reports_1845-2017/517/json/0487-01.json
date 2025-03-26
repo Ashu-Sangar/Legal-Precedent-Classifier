@@ -1,0 +1,96 @@
+{
+  "id": 1809923,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Alfred VAUGHN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Vaughn",
+  "decision_date": "1988-01-20",
+  "docket_number": "Petition No. 689 E.D. Allocatur Docket 1986",
+  "first_page": "487",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 487"
+    },
+    {
+      "type": "parallel",
+      "cite": "539 A.2d 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "532 A.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1808593,
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0364-01",
+        "/pa/516/0365-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 813,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.067322457795802
+    },
+    "sha256": "345bd79e58b39e7486f82d77874167f2a3fc6d3e050e8c9e043c7deee85126d9",
+    "simhash": "1:9da706ebe1e3a9b2",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Alfred VAUGHN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nPetitioner has challenged the judgment of sentence against him on grounds the sentencing guidelines, upon which the sentencing court relied, are violative of the Constitution of Pennsylvania. Superior Court rejected petitioner's claims and affirmed. Because we recently invalidated the guidelines upon which the sentencing court relied, Commonwealth v. Sessoms, 516 Pa. 365, 532 A.2d 775 (1987), it is hereby ordered that the petition for allowance of appeal be granted, the Order of Superior Court be reversed, and the record be remanded to the Court of Common Pleas for reconsideration of petitioner's sentence in accordance with our decision in Sessoms, supra.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "539 A.2d 340\nCOMMONWEALTH of Pennsylvania, Respondent, v. Alfred VAUGHN, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 20, 1988."
+  },
+  "file_name": "0487-01",
+  "first_page_order": 555,
+  "last_page_order": 556
+}

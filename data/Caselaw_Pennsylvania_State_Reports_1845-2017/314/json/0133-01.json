@@ -1,0 +1,93 @@
+{
+  "id": 1154675,
+  "name": "Ferrier's Appeal",
+  "name_abbreviation": "Ferrier's Appeal",
+  "decision_date": "1934-01-30",
+  "docket_number": "Appeal, No. 384",
+  "first_page": "133",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "314 Pa. 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "314 Pa. 132",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1154670
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/314/0132-01"
+      ]
+    },
+    {
+      "cite": "314 Pa. 130",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1154641
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/314/0130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 119,
+    "char_count": 1013,
+    "ocr_confidence": 0.472,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.042435099498078846
+    },
+    "sha256": "189204bfb9473b0b5a77b8771997eb605367e35d472d7fa319d949a4a26d5f3f",
+    "simhash": "1:2000c518c2ad1a14",
+    "word_count": 163
+  },
+  "last_updated": "2024-02-27T20:07:13.969336+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaefer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Ferrier\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe premises, No. 900 Chestnut Street, Philadelphia, a four story office building, 34 x 230 feet, was assessed for the tax year 1932, at $418,000. The court below, upon appeal from the board of revision of taxes, after hearing several experts produced by the property owner and the city, determined that the market value of this building and land was $397,184; it reduced the assessment to that amount.\nThe case is affirmed for the reasons given in Appeal of Westbury Apartments, Inc., 314 Pa. 130, and Appeal of 222 S. Nineteenth Street Corporation, 314 Pa. 132.\nDecree affirmed at the cost of appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Milton A. Kamsler, with him Joseph First, of Bundheim, Foils & Bundheim, for appellant.",
+      "Theodore F. Jenkins, Solicitor for School District, Moyne R. Longstreth, Assistant City Solicitor, and Dmid J. Smyth, City Solicitor, for appellee, submitted paper books."
+    ],
+    "corrections": "",
+    "head_matter": "Ferrier\u2019s Appeal.\nArgued January 2, 1934.\nBefore Frazer, C. J., Simpson, Kephart, Schaefer, Maxey, Drew and Linn, JJ.\nMilton A. Kamsler, with him Joseph First, of Bundheim, Foils & Bundheim, for appellant.\nTheodore F. Jenkins, Solicitor for School District, Moyne R. Longstreth, Assistant City Solicitor, and Dmid J. Smyth, City Solicitor, for appellee, submitted paper books.\nJanuary 30, 1934:"
+  },
+  "file_name": "0133-01",
+  "first_page_order": 161,
+  "last_page_order": 162
+}

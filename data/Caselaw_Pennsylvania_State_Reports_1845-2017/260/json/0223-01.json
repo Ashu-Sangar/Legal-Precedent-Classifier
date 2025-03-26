@@ -1,0 +1,676 @@
+{
+  "id": 1040313,
+  "name": "Commonwealth Trust Company of Pittsburgh, Appellant, v. First-Second National Bank of Pittsburgh et al.",
+  "name_abbreviation": "Commonwealth Trust Co. v. First-Second National Bank",
+  "decision_date": "1918-01-21",
+  "docket_number": "Appeal, No. 118",
+  "first_page": "223",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "260 Pa. 223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "176 U. S. Rep. 618",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5704662
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/176/0618-01"
+      ]
+    },
+    {
+      "cite": "75 N. W. Rep. 911",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "110 U. S. 330",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3504390
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/110/0330-01"
+      ]
+    },
+    {
+      "cite": "55 Fed. 465",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        7853464
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/55/0465-01"
+      ]
+    },
+    {
+      "cite": "152 U. S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3574608
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/152/0346-01"
+      ]
+    },
+    {
+      "cite": "165 U. S. 538",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8298770,
+        8298799
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/165/0538-01",
+        "/us/165/0538-02"
+      ]
+    },
+    {
+      "cite": "167 U. S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3594397
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/167/0362-01"
+      ]
+    },
+    {
+      "cite": "174 U. S. 364",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3606914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/174/0364-01"
+      ]
+    },
+    {
+      "cite": "153 U. S. 540",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3576886
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/153/0540-01"
+      ]
+    },
+    {
+      "cite": "216 U. S. 196",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8288182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/216/0196-01"
+      ]
+    },
+    {
+      "cite": "227 Pa. 235",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1008735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/227/0235-01"
+      ]
+    },
+    {
+      "cite": "239 Pa. 602",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        995930
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/239/0602-01"
+      ]
+    },
+    {
+      "cite": "155 U. S. 54",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3580317,
+        3580886
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/155/0054-01",
+        "/us/155/0054-02"
+      ]
+    },
+    {
+      "cite": "144 Fed. 587",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6723779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/144/0587-01"
+      ]
+    },
+    {
+      "cite": "201 U. S. 230",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        344973
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/201/0230-01"
+      ]
+    },
+    {
+      "cite": "174 U. S. 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3607244
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/174/0125-01"
+      ]
+    },
+    {
+      "cite": "236 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        986766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/236/0035-01"
+      ]
+    },
+    {
+      "cite": "223 Pa. 409",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        961050
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/223/0409-01"
+      ]
+    },
+    {
+      "cite": "192 U. S. 138",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        360357
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/192/0138-01"
+      ]
+    },
+    {
+      "cite": "174 Pa. 466",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        878559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/174/0466-01"
+      ]
+    },
+    {
+      "cite": "6 Pa. 496",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        954568
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/6/0496-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 307",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842430
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0307-01"
+      ]
+    },
+    {
+      "cite": "101 U. S. 196",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5630857
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/101/0196-01"
+      ]
+    },
+    {
+      "cite": "160 U. S. 514",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/160/0514-01"
+      ]
+    },
+    {
+      "cite": "107 U. S. 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3500236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/107/0098-01"
+      ]
+    },
+    {
+      "cite": "68 Ohio 9",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 N. J. L. 232",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        311302
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/63/0232-01"
+      ]
+    },
+    {
+      "cite": "97 Fed. 843",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3835196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/97/0843-01"
+      ]
+    },
+    {
+      "cite": "70 C. C. A. 357",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "137 Fed. 781",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3864505
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/137/0781-01"
+      ]
+    },
+    {
+      "cite": "237 Fed. 942",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3530766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/237/0942-01"
+      ]
+    },
+    {
+      "cite": "135 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        817441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/135/0188-01"
+      ]
+    },
+    {
+      "cite": "1 Sadler 260",
+      "category": "reporters:state",
+      "reporter": "Sadler",
+      "case_ids": [
+        236057
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sadler/1/0260-01"
+      ]
+    },
+    {
+      "cite": "93 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        442128
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/93/0356-01"
+      ]
+    },
+    {
+      "cite": "241 Pa. 21",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976004
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/241/0021-01"
+      ]
+    },
+    {
+      "cite": "139 U. S. 67",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3551520
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/139/0067-01"
+      ]
+    },
+    {
+      "cite": "28 Pa. Superior Ct. 413",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        858904
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/28/0413-01"
+      ]
+    },
+    {
+      "cite": "197 Pa. 80",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        918630
+      ],
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/197/0080-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434602
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/72/0456-01"
+      ]
+    },
+    {
+      "cite": "212 Pa. 238",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/212/0238-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 324",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063206
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/89/0324-01"
+      ]
+    },
+    {
+      "cite": "85 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        440521
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/85/0299-01"
+      ]
+    },
+    {
+      "cite": "195 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        914100
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/195/0211-01"
+      ]
+    },
+    {
+      "cite": "226 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/226/0440-01"
+      ]
+    },
+    {
+      "cite": "141 Fed. 926",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3900633
+      ],
+      "pin_cites": [
+        {
+          "page": "928"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/141/0926-01"
+      ]
+    },
+    {
+      "cite": "176 U. S. Rep. 618",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5704662
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/176/0618-01"
+      ]
+    },
+    {
+      "cite": "152 U. S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3574608
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/152/0346-01"
+      ]
+    },
+    {
+      "cite": "165 U. S. 538",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8298770,
+        8298799
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/165/0538-01",
+        "/us/165/0538-02"
+      ]
+    },
+    {
+      "cite": "167 U. S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3594397
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/167/0362-01"
+      ]
+    },
+    {
+      "cite": "237 Fed. 942",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3530766
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/237/0942-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 981,
+    "char_count": 23028,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 9.6833424143692e-08,
+      "percentile": 0.5292692740001445
+    },
+    "sha256": "78ea0bad00adb5f97a7b1c8a437456e05c1f71aabaa66592b81385048c601fd4",
+    "simhash": "1:b4b08383583ace1b",
+    "word_count": 4082
+  },
+  "last_updated": "2024-02-27T16:58:39.930012+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Brown, C. J., Hotter, Moschzisker, Frazer and Walling, JJ."
+    ],
+    "parties": [
+      "Commonwealth Trust Company of Pittsburgh, Appellant, v. First-Second National Bank of Pittsburgh et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justices Walling,\nIn November, 1912, the First National Bank of Pittsburgh established among its employees, numbering about one hundred twenty, a benefit plan by which three active officers of the bank were named as trustees, to whom each employee could at his option pay six and two-thirds per cent, of his semi-monthly salary. In that event, and in that event only, the bank agreed to add thereto a sum equal to ten per cent, of such salary, making a total savings fund of sixteen and two-thirds per cent. Practically all of the employees joined in the plan and were called \u201cparticipants.\u201d The bank at its expense was to provide a bookkeeper. The plan contemplated eight-year cycle periods, but the bank reserved the right to discontinue it on the first day of January of any year after 1914, by giving thirty days\u2019 notice. The plan provided for disposition of the fund belonging to a participant on his quitting the service. In no event could the bank derive profit from the plan and only on a certain contingency was money paid in by it to be returned. The plan com teinplated that the fund should be invested by the trustees and permitted them to subscribe for one thousand shares of the bank\u2019s new stock, at $175 per share, the par value being $100. But such permission was conditioned on the trustees procuring and paying the bank the $175-,-000 in cash for the stock, which stock was to remain in the hands of the trustees until the employee severed his connection with the bank. The directors approved the plan but it was not submitted to the stockholders. From about December 1, 1912, to June 30, 1913, the participants paid the trustees as stipulated; and in each case the bank paid its ten per cent. In fact, as matter of convenience, the bank during that time retained the six and'two-thirds per cent, and paid it direct to the trustees. In March, 1913, Oscar L. Telling, who was president of the bank and also one of said trustees, requested of plaintiff, the Commonwealth Trust Company of Pittsburgh, a loan of sixty thousand dollars. He stated that the request was made on behalf of the bank; also explained the plan and that the money was to purchase stock of the bank, which would be put up as collateral. The officers of the trust company took the matter under advisement for some days.'' Meantime at their request he furnished them a full copy of the plan, including the resolution of the directors relating thereto. During the negotiations Mr. Telling stated to said officers that the bank was baek of- the! loan. \u2022 \u2022 \u2022 \" \u2018 1 ........\nPending these negotiations the bank made a preliminary agreement of merger with the Second National Bank of Pittsburgh, by which, when completed, the latter purchased the assets and assumed the liabilities of the former and became the First-Second National Bank of Pittsburgh. The president thereof, Mr. W. S. Kuhn, also took up the matter of the loan with the plaintiff and wrote its president a letter expressing his intention of continuing in operation the benefit plan for the employees of the First National Bank. The letter also states that \u201cI am aware that the trustees for the clerks of the First National Bank have applied to your good institution for a loan of $60,000 to be secured by 450 shares of the capital stock of the First National Bank of Pittsburgh, and this application has been made with my knowledge and approval.\u201d Subsequent to the receipt of i Ait letter and upon further consideration the trust com- ;; my accepted the loan and took therefor a collateral ..Me of sixty thousand dollars drawn payable to the order of the trustees, and signed and endorsed by them as each. The collateral consisted of four hundred fifty chares of the stock of the First National Bank of Pittsburgh, which in said note is stated to be of the market value of $67,500. The trust company turned over the sixty thousand dollars by a treasurer\u2019s check payable to the order of the trustees and endorsed by them as such. Before the loan was made plaintiff knew that Mr. Telling was one of the trustees; and the loan was entered and continued on the books of the trust company as a loan to them. The chancellor and court below find that the loan was made to the trustees and not to Mr. Telling as president or agent of the bank. The trustees bought four shares of the stock of the First National Bank SO' deposited as collateral and the remaining four hundred and forty-six shares of Mr. Telling, paying in each case $150 per share. The sixty thousand dollars, with seven thousand five hundred dollars which had accumulated under the plan, paid for the stock. The trustees turned the sixty thousand dollar check over to Mr. Telling, who deposited it in his private account in the First National Bank, and later checked it out in payment of his indebtedness to that bank. Mr. Telling\u2019s employment as president of the bank was by contract which gave him the powers usually conferred upon presidents of national banks of like size, and also ample authority to exercise his discretion in the internal administration of the affairs of the bank, with complete control of the subordinate officers and employees of the bank.\nOn July 7, 1913, the First-Second National Bank was closed by the controller of the currency and remained so until April, 1914. Meantime the First. National Bank went into liquidation and its stock became practically worthless. No formal action was taken to abandon the benefit plan but nothing was paid to the .trustees thereon after the bank was closed. The trustees paid plaintiff three thousand dollars on account of the loan and there is now a balance of $305.55 of trust funds in their hands, for which they have ever been ready to account. The trust company filed its bill in this case to compel the bank to pay the note or to so continue the benefit plan as to raise funds sufficient for that purpose. The chancellor heard the case upon bill, answer, replication and testimony, and found the facts and legal conclusions; and the court, below passed upon the exceptions filed thereto and dismissed the bill. Plaintiff took this appeal.\nWe have considered each assignment of error but find nothing to justify a reversal of the decree. The loan was made either to the trustees or to the bank, and the finding that it was made to the former accords with the evidence. If so, Mr. Telling\u2019s assertion that he represented the bank, or that it was back of the loan, would not render the bank liable. The president of a national bank has no authority to obligate it as guarantor, surety or endorser: First National Bank of Duncan v. Anderson, 141 Fed. 926, 928; Western National Bank of N. Y. v. Armstrong, 152 U. S. 346; Monongahela Nat. Bk. v. Harmony Land Co., 226 Pa. 440; Worthington v. Schuylkill Electric Ry. Co., 195 Pa. 211. In Aldrich v. Chemical National Bank, 176 U. S. 618, the bank was held liable because it received the money.\nThis was such an exceptional transaction that, even considering it as a loan to the bank, the rule that the president or other executive officer of such institution has implied authority to borrow money on its behalf in the usual course of business would not apply. See Dorsey v. Abrams et al., 85 Pa. 299; First Natl. Bank of Allentown v. Hoch, 89 Pa. 324. Treating it as a loan to the trustees, the bank would not be liable on the parol guarantee of its president, especially as a national bank has no power to become an endorser or guarantor of the debt of another without benefit to itself: National Bank of Brunswick v. Sixth National Bank, 212 Pa. 238. Mr. Telling had no express authority from the bank to negotiate or secure this loan on its account, neither had he any implied authority. It was not a transaction relating to the internal management of the corporation and there is nothing to indicate that it was such as ordinarily appertains to the office of bank president. So he could not obligate the bank for the loan even assuming that he attempted to do so. The court below finds on sufficient evidence that the bank did not receive the proceeds of the loan, so it is not liable on that ground. Telling got the money. True, he used it to pay a note to the bank, but the note was a valid obligation which the bank exchanged for the money and its assets were not increased. Telling got the benefit in the payment of his note.\nNotwithstanding a determined effort on behalf of plaintiff, the court below finds that the 446 shares of stock turned over to the trustees by Telling belonged to him and not to the bank. So it is not apparent how the bank received any benefit in a legal sense from this loan. The purchase of the stock from Telling was not a breach of trust; for while the trustees were given permission to purchase the stock from the bank they were under no obligation to do so.\nIt is urged for plaintiff that in any event the bank must continue the benefit plan .until a fund sufficient to pay the loan in question is realized; and that it should do so in exoneration of its trustees. This seems to be a misconception of the situation. The bank could realize no profit out of the benefit plan; the participants were the beneficiaries. The bank\u2019s agreement was to pay to the trustees when and only when the participants paid. It never assumed to compel the participants to pay, or to guarantee that they should do so, or to pay obligations incurred by the trustees. The plan recites that the trustees are to procure the cash to purchase the stock; the bank assumed no such obligation. Plaintiff\u2019s construction of the benefit plan, if correct, would in our opinion render it ultra vires the bank. A national bank has only such powers as are given expressly or by necessary implication. See McCormick v. Market Natl. Bank of Chicago, 165 U. S. 538, 550; California Saving Bank v. Kennedy, 167 U. S. 362; Fowler v. Scully, 72 Pa. 456; Bly v. White Deer Mt. Water Co., 197 Pa. 80, 92; Bank of Barnwell v. Sixth National Bank, 28 Pa. Superior Ct. 413. The implied powers are only such as are reasonably necessary for the main purpose: Logan County Natl. Bank v. Townsend, 139 U. S. 67. Such bank has no power to borrow money, or to guarantee the payment of money borrowed by trustees, for use in the purchase of its stock to be parcelled out among employees as a benefit fund. That a corporation is liable for money received by it on an ultra vires contract cannot assist plaintiff, because the bank did not get the'money. And we agree with the conclusion of the court below \u201cthat the creation of a liability to collect from the employees a stipulated percentage and to contemporaneously therewith make a contribution to a fund so that a loan incurred in the administration of that fund might be paid, is beyond the power of a bank.\u201d\nA national bank cannot purchase its own stock, except to prevent loss upon a debt previously contracted. So, on the theory that the bank and the trustees were one, that part of the plan, providing for the purchase of the new stock by the trustees would be invalid; and the bank having received no benefit from the transaction, could set that up as a defense to the loan which was made for such purpose. It is not necessary now to decide whether a national bank can create a benefit fund for, or share surplus earnings with, employees; for we are satisfied that what plaintiff contends the bank assumed to do here was beyond its power. Plaintiff relies upon Heinz v. National Bank of Commerce, 237 Fed. 942. There, however, the stockholders authorized the bank to appropriate not to exceed one-tenth of the net profits in excess of six per cent, for the purpose of an employee\u2019s pension and profit-sharing fund. And it was held to be within the implied powers of the bank, and that expenditures so made could not be recovered back at the instance of a stockholder. There no indebtedness was created nor any liability imposed upon the bank except to distribute the fractional part of the net surplus as directed by the stockholders, to whom it in reality belonged. The decision there also rests on other grounds, but, assuming its entire accuracy, it is not parallel with the case at bar:\nEvidence as to the inability of the trustees to personally pay the note in suit was properly excluded as there was no claim or proof that they were personally liable or had mismanaged the trust. Under such circumstances that question could not affect the liability of the bank. Mr. Telling was acting as president of the bank and it was not material to show that he actually exercised the powers conferred upon him by his contract of employment; nor was it material to prove that for ten years previously the First National Bank had given its employees an annual bonus as additional compensation under a somewhat similar plan. That would not change the rights of the parties, as this action is based upon the new plan.\nThe original deposit slips, showing a deposit of the money in Mr. Telling\u2019s private account, were properly proven and competent to corroborate other evidence: Littieri v. Freda, 241 Pa. 21; Donahue v. Connor, 93 Pa. 356; Charles v. Bishoff, 1 Sadler 260; Pallman v. Smith, 135 Pa. 188.\nThere is nothing in the other rulings on questions of evidence that seems to require comment.\nThe assignments of error are overruled and the decree is affirmed at the costs of appellant.",
+        "type": "majority",
+        "author": "Me. Justices Walling,"
+      }
+    ],
+    "attorneys": [
+      "John M. Freeman, with him E. F. Stambaugh and Watson \u00e9 Freeman, for appellant.",
+      "George E. Alter, of McKee, Mitchell S Alter, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth Trust Company of Pittsburgh, Appellant, v. First-Second National Bank of Pittsburgh et al.\nBanks and banking \u2014 National banks \u2014 President\u2014Implied powers \u2014 Power of national bank to act as guarantor \u2014 Employees\u2019 beneficial fund \u2014 Loans to trustees of fund \u2014 Liability of bank \u2014 Evidence.\n1. The president of a national bank has no authority to obligate it as guarantor, surety or endorser.\n2. A national bank has only such powers as are given it expressly or by necessary implication. Its implied powers are only such as are reasonably necessary for its main purpose.\n3. A national bank has no power to borrow money or to guarantee the payment of money borrowed by trustees for use in the purchase of its stock to be parcelled out among employees as a benefit fund.\n4. A national bank has no power to purchase its own stock except for the purpose of preventing loss upon a debt previously contracted.\n5. A national bank cannot be held liable on an alleged guaranty of a loan to the trustee of a beneficial fund created by it for the benefit of its employees, where it does not appear that the corporation received any of the funds obtained by means of the loan, or any pecuniary benefit therefrom.\n6. A national bank created a benefit fund to which its employees were permitted to subscribe. The plan as adopted by the directors was that the fund should be invested by the trustees and they were allowed to subscribe for 1,000 shares of the bank\u2019s new stock, conditioned upon their procuring and paying the bank cash for the stock. It was provided that the bank could under no circumstances derive a profit from the plan. The president of the bank was one of the trustees. He requested of a trust company a loan of $60,000 and stated that the request was made on behalf of the bank and explained the plan for the employees\u2019 benefit fund, and that the money was to purchase stock of the bank, which would be put up as collateral. He further stated to the trust company that the bank was back of the loan. The bank merged with another bank, which purchased its assets and assumed its liabilities. The loan was accepted by the trust company and the money paid to the trustees upon their collateral note, secured by 450 shares of the stock of the original bank which they purchased with the money so borrowed. Thereafter, the original bank went into liquidation and its stock became worthless and the merged bank was closed by the controller of the currency. The trust company brought a suit in equity against the two banks and the trustees to secure payment of the note. Plaintiff contended that the original bank had guaranteed the loan through the representations of its president and that if this were not the case the bank should continue the benefit plan until a fund sufficient to pay the loan had been realized. The lower court dismissed the bill. Held, that the original bank had no power to guarantee the loan secured by the trustees of the employees\u2019 beneficial' fund and that as it had derived no pecuniary benefit from the transaction it could not be held liable therefor, and the bill was properly dismissed.\n7. In such case evidence of the inability of the trustees to personally pay the note in suit was properly excluded, where there was no claim that they were personally liable or' had mismanaged the trust.\n8. In such case it was not material to show that for ten years previously the bank had given its employees an annual bonus as additional compensation under a somewhat similar plan.\n9. In such case the original deposit slips, showing the deposit of the money received upon the loan in the private account of one of the trustees was admissible to corroborate other evidence showing that the bank derived no pecuniary benefit from the loan.\nArgued Oct. 19, 1917.\nAppeal, No. 118, Oct. T., 1917, by plaintiff, from decree of O. P. Allegheny Co., Oct. T., 1915, No. 673, dismissing bill in equity to require payment of a note, in case of the Commonwealth Trust Company of Pittsburgh, a state corporation, v. First-Second National Bank of Pittsburgh, and the First National Bank of Pittsburgh, federal corporations, Thomas C. Griggs, Oscar L. Telling and William F. Benkiser, as Trustees and individually.\nBefore Brown, C. J., Hotter, Moschzisker, Frazer and Walling, JJ.\nAffirmed\nBill in equity to require payment of a note. Before Macfarlane, J.\nFrom the record it \u00e1ppears that deposit slips showing a deposit of the money received upon the loan in the private account of Mr. Telling were admitted in evidence to corroborate other evidence to show that the bank received no pecuniary benefit from the loan.\nOther facts appear in the opinion of the Supreme Court.\nThe court dismissed the bill. Plaintiff appealed.\nErrors assigned were in dismissing exceptions to various findings of fact and conclusions of law, to rulings on evidence and the decree of the court.\nJohn M. Freeman, with him E. F. Stambaugh and Watson \u00e9 Freeman, for appellant.\nThe establishment of the employees\u2019 beneficial fund was not ultra vires the bank. Its purpose was to make all its employees stockholders in the bank, thereby giving them a personal interest in the business and securing greater cooperation, efficiency and integrity, and was clearly within the incidental or implied powers of the bank: Heinz v. National Bank of Commerce, 237 Fed. 942; Burnes v. Bumes, 137 Fed. 781, 70 C. C. A. 357; Colorado Springs Co. v. American Publishing Co., 97 Fed. 843; Henderson v. Bank of Australasia, 40 Ch. D. 170; Beck v. Penna. R. R. Co., 63 N. J. L. 232; State ex rel. Sheets v. Pittsburgh, C., C. & St. L. Ry. Co., 68 Ohio 9; Green Bay and Minnesota R. R. Co. v. Union Steamboat Co., 107 U. S. 98; Jacksonville M. P. Ry. & Nav. Co. v. Hooper, 160 U. S. 514; Morse on Banks and Banking, 5th Ed., Sec. 56.\nAs the bank created the trust and controlled its continuance and was a beneficiary thereunder, it is bound to exonerate the trustees. against all obligations properly incurred by them in carrying out the trust, and in equity a creditor has the right to be substituted for the trustees and enforce their right of exoneration: Pompton v. Cooper Union, 101 U. S. 196; Jervis v. Wolferstan, L. R. 18, Eq., 18, 24; Hardoon v. Belilios, 1901 A. C. 118; Blundell v. Blundell, 44 Ch. D. 1; Woodrop v. Weed, 154 Pa. 307; Mathews v. Stephenson, 6 Pa. 496.\nUnder the parol agreement between the plaintiff and the First National Bank, made through its president, Oscar L. Telling, at the time the loan was made, the bank promised to pay the same, and the loan was the direct obligation of the bank: Wanner v. Emanuel\u2019s Church, of Evangelical Assn., 174 Pa. 466.\nThe bank is liable for the further reason that the trustees, in procuring this loan, were the bank\u2019s agents, acting within the scope of their authority.\nTelling as president of the First National Bank had authority to borrow this money for the bank and pledge the bank\u2019s liability therefor: New York County Natl. Bank v. Massey, 192 U. S. 138; Prudential Trust Company\u2019s Assignment, 223 Pa. 409; Com. v. Stone, 236 Pa. 35; Auten v. U. S. National Bank of N. Y., 174 U. S. 125; Wyman v. Wallace, 201 U. S. 230; Cherry v. City National Bank of Kansas City, Mo., 144 Fed. 587; Lewis v. Pima County, 155 U. S. 54; Hartzell v. Ebbvale Mining Co., 239 Pa. 602; Chestnut Street Trust & Saving Fund Co. v. Record Publishing Co., 227 Pa. 235.\nThe bank actually got the money under this plan and it cannot escape payment on the plea of ultra vires or want of its president\u2019s authority to make the contract: Prudential Trust Co.\u2019s Assignment, 223 Pa. 409; New York County Natl. Bank v. Massey, 192 U. S. 138; Citizens\u2019 Central National Bank v. Appleton, 216 U. S. 196.\nIt is clearly evident from the testimony that the bark and its president owned the 450 shares of its stock which were turned over to the trustees.\nThe default of the bank in discontinuing the plan was the sole cause of the failure of the trustees to pay the loan and by reason of such default the bank is liable: Anvil Mining Co. v. Humble, 153 U. S. 540.\nGeorge E. Alter, of McKee, Mitchell S Alter, for appellees.\nThe bank had no authority to guarantee that the contributions would be made to the fund or to become responsible for the payment of loans made' to the trustees: Fowler v. Scully, 72 Pa; 456; Concord First Natl. Bank v. Hawkins, 174 U. S. 364; California Saving Bank v. Kennedy, 167 U. S. 362; McCormick v. Market Natl. Bank of Chicago, 165 U. S. 538.\nThe plaintiff has no right to recover on the theory of money had and received: Western Natl. Bank of N. Y. v. Armstrong, 152 U. S. 346; Natl. Bank of Commerce of Kansas City v. Atkinson, 55 Fed. 465.\nIt is vain for the plaintiff to argue that the bank got the money or that the stock purchased by the trustees belonged to the bank.\nThe burden of proof as to the ownership of the stock and the disposition of the proceeds of the loan was upon the plaintiff.\nThe parol agreement alleged to have been made by Mr. Telling on behalf of the bank was not binding upon the bank.\nThe claim that the trustees in procuring the loan were the bank\u2019s agents, acting within the scope of their authority, was not supported by the evidence: Taylor v. Davis, 110 U. S. 330; Wells-Stone Mercantile Co. v. Grover et al., 75 N. W. Rep. 911.\nThe claim that Telling, by virtue of his office as president of the bank, had authority to borrow money and pledge the bank\u2019s liability therefor was without merit: Aldrich v. Chemical Natl. Bank, 176 U. S. Rep. 618; Western Natl. Bank of N. Y. v. Armstrong, 152 U. S. 346; National Bank of Commerce of Kansas City v. Atkinson, 55 Fed. Rep. 465.\nJanuary 21, 1918:"
+  },
+  "file_name": "0223-01",
+  "first_page_order": 255,
+  "last_page_order": 266
+}

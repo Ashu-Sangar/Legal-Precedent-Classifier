@@ -1,0 +1,137 @@
+{
+  "id": 432326,
+  "name": "Lewis's Appeal",
+  "name_abbreviation": "Lewis's Appeal",
+  "decision_date": "1870-10-28",
+  "docket_number": "",
+  "first_page": "312",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "66 Pa. 312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts 134",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1844070
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0134-01"
+      ]
+    },
+    {
+      "cite": "6 W. & S. 333",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0333-01"
+      ]
+    },
+    {
+      "cite": "5 Binn. 505",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0505-01"
+      ]
+    },
+    {
+      "cite": "2 Yeates 274",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812656,
+        812676
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0274-01",
+        "/yeates/2/0274-02"
+      ]
+    },
+    {
+      "cite": "1 Am. Law Reg. 632",
+      "category": "reporters:state",
+      "reporter": "Am. Law Reg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Watts 404",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 409,
+    "char_count": 6142,
+    "ocr_confidence": 0.469,
+    "pagerank": {
+      "raw": 2.042734462806219e-07,
+      "percentile": 0.7479300916771595
+    },
+    "sha256": "d983349d4f12f0edfe78c1dd9e6e0f7f72267f55d1dbf81d30c82b9ff4ed7264",
+    "simhash": "1:ce0a6bc6c5266de5",
+    "word_count": 1119
+  },
+  "last_updated": "2024-02-27T20:36:35.390854+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Thompson, C. J., Read, Agnew, Sharswood and Williams, JJ."
+    ],
+    "parties": [
+      "Lewis's Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of tbe court was delivered, January 3d 1871, by\nWilliams, J.\n\u2014 By a devise of tbe reversion the rent with its incidents passes to tbe devisee, and consequently tbe appellee became entitled to tbe rent of tbe demised premises, devised to ber for life, which fell due after ber husband\u2019s death, and she might have distrained for it as incident to the reversion. It is true, that at common law distress for rent was allowed only during a subsisting tenancy, but tbe remedy by distress was extended by tbe Statute 8 Anne, cb. 14, wbicb provided that if a tenant retained possession of tbe estate after tbe expiration of bis tenancy, the landlord, if bis interest continued, might distrain within six months for tbe rent due and unpaid. The right of distress was further enlarged by our Act of tbe 21st March 1772, wbicb declares that \u201c it shall and may be lawful for any person or persons having any rents in arrear, or due upon any lease for life or lives, or for one or more years, or at will, ended or determined, to distrain for such arrears, after the determination of the said respective leases, in the same manner as they might have done if such lease or leases had not been ended or determined \u2014 provided, that such distress be made during the continuance of such lessor\u2019s title or interest.\u201d There can be no doubt of the appellee\u2019s right, under the provisions of this act, to distrain the goods of the tenant on the demised premises, at the time of the sheriff\u2019s sale, for the arrears of rent which accrued under the original lease, after her husband\u2019s death, notwithstanding the expiration of the term and the subsisting tenancy under the new lease. And, therefore, she was entitled, under the Act of 1836, to payment out of the proceeds of the sheriff\u2019s sale. The landlord\u2019s right to be paid out of the proceeds of sale, as ruled in Moss\u2019s Appeal, 11 Casey 162, depends on his power to distrain on the goods sold; and a landlord having power to distrain, after the determination of the term, is entitled to payment out of the proceeds of a sheriff\u2019s sale of goods found on the premises, under an execution against the lessee. His right to distrain, after the termination of the term, is without limitation as to time; the statute gives him this right whenever the rent is in arrear, and he retains the title. It follows that the court below was clearly,right in decreeing the payment of the arrears of rent in controversy out of the proceeds of sale for distribution.\nDecree affirmed at the costs of the appellant.",
+        "type": "majority",
+        "author": "Williams, J."
+      }
+    ],
+    "attorneys": [
+      "J. M. Thompson (with whom was D. S. Porter), for appellant.",
+      "H. W. Weir (with whom were Taylor & Morehead), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Lewis's Appeal.\n1. A lessor died during the term having devised the premises to his wife for life. Held, that she might distrain for rent in arrear under the lease.\n2. She was consequently entitled to receive the rent due from the proceeds of sheriff's sale of tenant's goods on the premises, although the term had expired and the tenant was holding under a new lease from herself.\n3. The landlord's right to receive his rent from a sheriff's sale depends upon his right to distrain the goods sold.\n4. The landlord may distrain whenever the rent is in arrear and he retains the title.\n5. The landlord\u2019s right to distrain is without limitation as to time.\nOctober 28th 1870.\nBefore Thompson, C. J., Read, Agnew, Sharswood and Williams, JJ.\nAppeal from the decree of the Court of Common Pleas of Indiana county: No. 211, to October and November Term 1870. In the distribution of the proceeds of sheriff\u2019s sale of the personal property of James W. Mahan.\nOn the 25th of February 1868, Henry Kinter leased a tavern to Mahan for one year from the first day of the following April, at the rent of $475, payable quarterly. \u2019 Henry Kinter died in September 1868, devising the tavern to his wife Catharine for life. There was a receipt without date on the lease, by one of the executors, for $160, \u201c leaving a balance due on 1st and 2d quarterly payments of $44.\u201d\nOn the 17th of February 1869, the widow leased the same premises to Mahan for one year from the next 1st of April, at the rent of $475, payable quarterly. The amount due April 1st 1869 to the widow under the lease to her husband and the devise was for three quarters, or $356.25. Executions, one at the suit of William Sims, for $475, were issued against Mahan, and his goods levied on. Up to the day of sale, December 17th 1869, various payments had been made to Mrs. Kinter, and on that day she gave the sheriff notice that there was due to her for rent in arrear the sum of $243.26, wbicb was in fact less than was due to her. Tbe proceeds of tbe sheriff\u2019s sale were brought into court. Tbe auditor to whom tbe distribution was referred, awarded $243.26 to Mrs. Kinter, and after awarding tbe amount due on another execution and costs, reported $39.89 to Lewis. Tbe Court of Common Pleas confirmed tbe report.\nLewis appealed to tbe Supreme Court, and assigned tbe decree of confirmation for error.\nJ. M. Thompson (with whom was D. S. Porter), for appellant.\nNone but tbe immediate landlord is entitled to rent from tbe proceeds of a sheriff\u2019s sale: Bromley v. Hopewell, 2 Harris 400; Comm\u2019th. v. Conter, 9 Id. 266; Greider\u2019s Appeal, 5 Barr 422.\nH. W. Weir (with whom were Taylor & Morehead), for appellee.\nThe wife was entitled to tbe rent of the first year as reversioner: Coke Litt. 47 a, 143 a, 3 Bacon\u2019s Ab. 62, 63; Johnson v. Smith, 3 Penna. R. 500; Bank of Penna. v. Wise, 3 Watts 404; Woodfall Land. & T. 305, 2 Black. Com. 41, 42; 3 Kent\u2019s Com. 469. Rent is never apportioned in respect to time: Clem\u2019s Case, 10 Rep. 127; Jenner v. Morgan, 1 P. Wms. 392; Hay v. Palmer, 2 Id. 502, Litt. \u00a7 222; Gilbert on Rents 152, 163, 164; Co. Litt. 147 b, 148 a. Distress may be taken for any kind of rent in arrear: 3 Black. Comm. 6 Coke Litt. 214. The landlord\u2019s right to bis rent from tbe proceeds of sheriff\u2019s sale depends on his right to distrain tbe goods levied on: Moss\u2019s Appeal, 11 Casey 162; Rowland v. Goldsmith, 1 Am. Law Reg. 632; Parker\u2019s Appeal, 5 Barr 393; West v. Sink, 2 Yeates 274; Binn v. Hudson, 5 Binn. 505; Morgan v. Moody, 6 W. & S. 333; Collins\u2019s Appeal, 11 Casey 83; Ege v. Ege, 5 Watts 134; Wickey v. Eyster, 8 P. F. Smith 501."
+  },
+  "file_name": "0312-01",
+  "first_page_order": 312,
+  "last_page_order": 314
+}

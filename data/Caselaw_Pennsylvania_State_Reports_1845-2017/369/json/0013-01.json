@@ -1,0 +1,89 @@
+{
+  "id": 1232363,
+  "name": "Smith v. Jones, Appellant",
+  "name_abbreviation": "Smith v. Jones",
+  "decision_date": "1951-12-27",
+  "docket_number": "Appeal, No. 71",
+  "first_page": "13",
+  "last_page": "14",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "369 Pa. 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "76 A. 2d 645",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 Pa. 613",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1225525
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/365/0613-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 145,
+    "char_count": 1600,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 2.9066908516499324e-07,
+      "percentile": 0.8454936948061451
+    },
+    "sha256": "d6c909e72d101d0aaf9982d15cf53e6f834e72c2f53307fdbd34810a5c0cc7dd",
+    "simhash": "1:105e8151f0d6bd51",
+    "word_count": 274
+  },
+  "last_updated": "2024-02-27T19:45:06.042741+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Drew, C. J., Stern, Stearne, Ladner and Chidsey, JJ."
+    ],
+    "parties": [
+      "Smith v. Jones, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThis is an appeal from an order of the court below discharging a motion for judgment on the pleadings. The motion was discharged June 21, 1951. The appeal was entered October 16, 1951. A motion to quash the appeal was filed because more than three months had elapsed from the date of the order.\nThe record shows that on July 25, 1951, the court granted a reargument but without a stay of proceedings,\" subsequently heard reargument and on October 4, 1951, entered the following order: \u201cOctober 4, 1951. . . . motion for judgment on the pleadings having been reconsidered on briefs submitted by the parties, we see no reason for reversing our order of June 21, 1951, dismissing same, and, therefore, confirm said order as of the date on which it was entered.\u201d\nAppellants argue that the appeal period runs from the date of the order last quoted and not from the date of the original order. The appeal must be quashed. As recently as Baily Petition, 365 Pa. 613, 76 A. 2d 645 (1950), we held that a petition for reargument and proceedings thereunder do not operate to arrest the running of the time.limit for an appeal unless a stay of proceedings is granted. Here there was no stay and the court did not vacate its original order but on the contrary expressly confirmed it as of the date originally entered.\nAppeal quashed at appellants\u2019 costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Isadore Stern, for appellants.",
+      "Allen J. Levin, with him Sundheim, Folz, Kamsler & Goodis, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. Jones, Appellant.\nDecember 27, 1951:\nArgued November 23, 1951.\nBefore Drew, C. J., Stern, Stearne, Ladner and Chidsey, JJ.\nIsadore Stern, for appellants.\nAllen J. Levin, with him Sundheim, Folz, Kamsler & Goodis, for appellees."
+  },
+  "file_name": "0013-01",
+  "first_page_order": 83,
+  "last_page_order": 84
+}

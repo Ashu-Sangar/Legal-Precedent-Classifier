@@ -1,0 +1,80 @@
+{
+  "id": 12283157,
+  "name": "Com. v. Hollingshead",
+  "name_abbreviation": "Com. v. Hollingshead",
+  "decision_date": "2015-10-14",
+  "docket_number": "101 WAL (2015)",
+  "first_page": "763",
+  "last_page": "763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 763"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "111 A.3d 186",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6884548
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/111/0186-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 78,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24913440899450123
+    },
+    "sha256": "f8b9c6ef56a816dbf43d3970a6d992d433acd490cb25d4f07f630fe068057314",
+    "simhash": "1:0ad0e0ad111fd280",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hollingshead"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa,Super,, 111 A.3d 186",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hollingshead\n10/14/2015\n101 WAL (2015)"
+  },
+  "file_name": "0763-11",
+  "first_page_order": 817,
+  "last_page_order": 817
+}

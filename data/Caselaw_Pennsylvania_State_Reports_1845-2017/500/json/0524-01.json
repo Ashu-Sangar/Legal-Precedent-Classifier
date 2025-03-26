@@ -1,0 +1,96 @@
+{
+  "id": 1781109,
+  "name": "COMMONWEALTH of Pennsylvania v. Donald KIBLER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kibler",
+  "decision_date": "1983-04-27",
+  "docket_number": "Petition No. 216 W.D. Alloc. Dkt. 1982",
+  "first_page": "524",
+  "last_page": "524",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "500 Pa. 524"
+    },
+    {
+      "type": "parallel",
+      "cite": "458 A.2d 935"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "500 Pa. 355",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781035
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "reargument denied, March 11, 1983"
+        },
+        {
+          "parenthetical": "reargument denied, March 11, 1983"
+        },
+        {
+          "parenthetical": "Nix, J. dissenting joined by Hutchinson, J."
+        },
+        {
+          "parenthetical": "Nix, J. dissenting joined by Hutchinson, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0355-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 570,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06653496014632514
+    },
+    "sha256": "66e8bb214c42bbb8fcd8136d6d0cb0a2a36f513ba1456244205d453182b10d0c",
+    "simhash": "1:08876022240ee786",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T23:49:15.316484+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Donald KIBLER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nPetition for allowance of appeal granted. Order of the Superior Court vacated and case remanded for consideration in light of Commonwealth v. Sorrell, 500 Pa. 355, 456 A.2d 1326 (1982) (reargument denied, March 11, 1983).\nMr. Justice NIX, Mr. Justice McDERMOTT and Mr. Justice HUTCHINSON dissent. See Commonwealth v. Sorrell, 500 Pa. 355, 456 A.2d 1326 (1982) (Nix, J. dissenting joined by Hutchinson, J.) (McDermott, J. dissenting).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "458 A.2d 935\nCOMMONWEALTH of Pennsylvania v. Donald KIBLER, Petitioner.\nSupreme Court of Pennsylvania.\nApril 27, 1983."
+  },
+  "file_name": "0524-01",
+  "first_page_order": 574,
+  "last_page_order": 574
+}

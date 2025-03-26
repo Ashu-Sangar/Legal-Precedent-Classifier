@@ -1,0 +1,102 @@
+{
+  "id": 12285224,
+  "name": "Com. v. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2016-08-24",
+  "docket_number": "239 MAL (2016)",
+  "first_page": "675",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 189",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486435,
+        12486436,
+        12486437,
+        12486438,
+        12486439,
+        12486440,
+        12486441,
+        12486442,
+        12486443,
+        12486444,
+        12486445,
+        12486446,
+        12486447,
+        12486448
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0189-10",
+        "/a3d/144-2/0189-11",
+        "/a3d/144-2/0189-12",
+        "/a3d/144-2/0189-13",
+        "/a3d/144-2/0189-14",
+        "/a3d/144-2/0189-01",
+        "/a3d/144-2/0189-02",
+        "/a3d/144-2/0189-03",
+        "/a3d/144-2/0189-04",
+        "/a3d/144-2/0189-05",
+        "/a3d/144-2/0189-06",
+        "/a3d/144-2/0189-07",
+        "/a3d/144-2/0189-08",
+        "/a3d/144-2/0189-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.861,
+    "sha256": "5d1f9a6f1bde157d643cc19cc04d6af113b2abfe02fdf55b0873f01302f3bba9",
+    "simhash": "1:6a04527296fba025",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 189",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Smith\n08/24/2016\n239 MAL (2016)"
+  },
+  "file_name": "0675-13",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

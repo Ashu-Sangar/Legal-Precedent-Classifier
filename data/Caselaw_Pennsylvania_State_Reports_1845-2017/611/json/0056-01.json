@@ -1,0 +1,67 @@
+{
+  "id": 4204268,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. James WHITE, Petitioner",
+  "name_abbreviation": "Commonwealth v. White",
+  "decision_date": "2011-03-09",
+  "docket_number": "No. 155 EM 2010",
+  "first_page": "56",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "611 Pa. 56"
+    },
+    {
+      "type": "parallel",
+      "cite": "23 A.3d 966"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 249,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.13916842813210817
+    },
+    "sha256": "70fd6c8851fe6988ac674de6bbf90fb38c0ecc5996e25b2c0ea300834b09f0a1",
+    "simhash": "1:478e820551f61d96",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T20:49:12.364482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. James WHITE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of March, 2011, the Petition for Extraordinary Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "23 A.3d 966\nCOMMONWEALTH of Pennsylvania, Respondent v. James WHITE, Petitioner.\nNo. 155 EM 2010.\nSupreme Court of Pennsylvania.\nMarch 9, 2011."
+  },
+  "file_name": "0056-01",
+  "first_page_order": 116,
+  "last_page_order": 116
+}

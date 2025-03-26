@@ -1,0 +1,102 @@
+{
+  "id": 12284562,
+  "name": "Com. v. Harvey",
+  "name_abbreviation": "Com. v. Harvey",
+  "decision_date": "2016-08-18",
+  "docket_number": "138 WAL (2016)",
+  "first_page": "672",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 672"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 195",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486528,
+        12486529,
+        12486530,
+        12486531,
+        12486532,
+        12486533,
+        12486534,
+        12486535,
+        12486536,
+        12486537,
+        12486538,
+        12486525,
+        12486526,
+        12486527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0195-13",
+        "/a3d/144-2/0195-14",
+        "/a3d/144-2/0195-01",
+        "/a3d/144-2/0195-02",
+        "/a3d/144-2/0195-03",
+        "/a3d/144-2/0195-04",
+        "/a3d/144-2/0195-05",
+        "/a3d/144-2/0195-06",
+        "/a3d/144-2/0195-07",
+        "/a3d/144-2/0195-08",
+        "/a3d/144-2/0195-09",
+        "/a3d/144-2/0195-10",
+        "/a3d/144-2/0195-11",
+        "/a3d/144-2/0195-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.866,
+    "sha256": "d337a141a8a2888824bf7817df64b9af9c9dbd5b1afa59d1ba7bb50173f26e28",
+    "simhash": "1:4494c06750eb2817",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Harvey"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 195",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Harvey\n08/18/2016\n138 WAL (2016)"
+  },
+  "file_name": "0672-05",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

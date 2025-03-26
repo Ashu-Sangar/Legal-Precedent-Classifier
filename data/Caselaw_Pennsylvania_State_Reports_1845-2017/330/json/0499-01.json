@@ -1,0 +1,164 @@
+{
+  "id": 1183007,
+  "name": "Fenelli's Estate",
+  "name_abbreviation": "Fenelli's Estate",
+  "decision_date": "1938-05-16",
+  "docket_number": "Appeal, No. 185",
+  "first_page": "499",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 Pa. 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "330 Pa. 493",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1182993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/330/0493-01"
+      ]
+    },
+    {
+      "cite": "300 U. S. 255",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        336824
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/300/0255-01"
+      ]
+    },
+    {
+      "cite": "178 U. S. 449",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3612175
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/178/0449-01"
+      ]
+    },
+    {
+      "cite": "191 A. 613",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "326 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1174498
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/326/0198-01"
+      ]
+    },
+    {
+      "cite": "175 A. 383",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "316 Pa, 463",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1159022
+      ],
+      "pin_cites": [
+        {
+          "page": "467"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0463-01"
+      ]
+    },
+    {
+      "cite": "185 A. 758",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "323 Pa. 49",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169601
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0049-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 246,
+    "char_count": 2664,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 1.388194195985048e-07,
+      "percentile": 0.6418924423779147
+    },
+    "sha256": "75341ecaf8467b42c0126144e123b80b5b216f7e83d9640f80c3d9b7436dfc09",
+    "simhash": "1:e7fbaa5001df4eb4",
+    "word_count": 466
+  },
+  "last_updated": "2024-02-27T16:21:13.587988+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephajrt, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Fenelli\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Linn,\nBut little need be added to what was said when the case was here before: 323 Pa. 49, 185 A. 758. After the record was returned, additional evidence was taken and the learned court below found that the beneficiaries of the trust did not know that the trust property was invested in the two mortgages or that title to them had been taken by the bank in its own name. The \" beneficiaries, exercising the option vested in them (Yost\u2019s Estate, 316 Pa, 463, 467, 175 A. 383) rejected the investments and insisted upon cash. The learned court below next took up the matter of tracing the fund into assets in the hands of the receiver (see Erie Trust Company\u2019s Case, 326 Pa. 198, 191 A. 613) and held that it was established by a stipulation of counsel. We think the stipulation went no further than to say that the bank received the money and invested it in the mortgages and that they were still in the receiver\u2019s possession; there is no statement of any other assets. But as the case involves the liquidation of a national bank, a proceeding governed by federal law, it was not essential in the orphans\u2019 court to trace the fund to the receiver. The order made by the learned court below, and which is the basis of the only assignment of error, is as follows: \u201cThe prayer of the petitioner must be sustained and it is, therefore, ordered, adjudged and decreed that the petitioner is entitled to the payment of the full amount of the original fund with interest, less any payments heretofore made on account of interest and principal.\u201d We see no objection to that order.\nWhen the case was here before, we said: \u201cIf the final ruling on this issue [giving rise to the beneficiaries\u2019 option to accept or reject the mortgage investments] be in favor of the petitioner, it will then be incumbent upon it, in appropriate proceedings, to produce testimony sufficient to identify the trust res as a part of the present assets of the insolvent trustee.\u201d The \u201cappropriate proceedings\u201d mean proceedings in the jurisdiction having charge of distribution of the assets of the national bank: see National Banking Act, 12 USCA sections 191 et seq.; Earle v. Pennsylvania, 178 U. S. 449; Hoffmam v. Rauch, 300 U. S. 255.\nThe order appealed from does not adjudicate a preference as the learned counsel for appellant seemed to think: cf. Stopp\u2019s Estate, 330 Pa. 493.\nOrder affirmed, costs to be paid by appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Linn,"
+      }
+    ],
+    "attorneys": [
+      "Robert A. Henderson, for appellant.",
+      "Samuel J. Gottesfeld, with him Frank B. Warfel and B. A. Sciotto, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Fenelli\u2019s Estate.\nArgued April 19, 1938.\nBefore Kephajrt, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nRobert A. Henderson, for appellant.\nSamuel J. Gottesfeld, with him Frank B. Warfel and B. A. Sciotto, for appellee.\nMay 16, 1938:"
+  },
+  "file_name": "0499-01",
+  "first_page_order": 533,
+  "last_page_order": 535
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1802540,
+  "name": "Anthony T. REBO, Petitioner, v. COMMONWEALTH of Pennsylvania, UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent",
+  "name_abbreviation": "Rebo v. Commonwealth",
+  "decision_date": "1986-12-19",
+  "docket_number": "Petition No. 776 W.D. Allocatur Docket 1985",
+  "first_page": "33",
+  "last_page": "33",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "513 Pa. 33"
+    },
+    {
+      "type": "parallel",
+      "cite": "518 A.2d 807"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798656
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0264-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 643,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06707977955471535
+    },
+    "sha256": "9cc8f32bd646a4e749327724b0976f9355e8a3577b0da6902cf9ae0bd6a02420",
+    "simhash": "1:bdcda33c9a4a2ca4",
+    "word_count": 104
+  },
+  "last_updated": "2024-02-27T23:49:18.512517+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony T. REBO, Petitioner, v. COMMONWEALTH of Pennsylvania, UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER OF COURT\nPER CURIAM.\nAND NOW, this 19th day of December, 1986, the petition for allowance of appeal from the order of the Commonwealth Court is granted.\nThe parties are further directed to brief, and be prepared to orally argue, the effect in this case, if any, of this Court\u2019s recent decision in Cugini v. Commonwealth Unemployment Compensation Board of Review, 511 Pa. 264, 512 A.2d 1169 (1986).\nPetition for Stay denied as moot. Motion for Remand is denied.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "518 A.2d 807\nAnthony T. REBO, Petitioner, v. COMMONWEALTH of Pennsylvania, UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent.\nSupreme Court of Pennsylvania.\nDec. 19, 1986."
+  },
+  "file_name": "0033-01",
+  "first_page_order": 113,
+  "last_page_order": 113
+}

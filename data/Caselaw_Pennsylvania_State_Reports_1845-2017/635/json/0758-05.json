@@ -1,0 +1,70 @@
+{
+  "id": 12285476,
+  "name": "Com. v. Armour",
+  "name_abbreviation": "Com. v. Armour",
+  "decision_date": "2016-04-12",
+  "docket_number": "572 EAL (2015)",
+  "first_page": "758",
+  "last_page": "758",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 758"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1126",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.851,
+    "sha256": "68c1dce764445d477b3c66dc8c765ee664606e58e39009c31fff149321e93e0c",
+    "simhash": "1:3b96209a94d04140",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Armour"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1126",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Armour\n04/12/2016\n572 EAL (2015)"
+  },
+  "file_name": "0758-05",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

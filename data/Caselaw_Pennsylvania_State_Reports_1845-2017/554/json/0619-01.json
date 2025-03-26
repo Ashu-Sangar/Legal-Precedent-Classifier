@@ -1,0 +1,100 @@
+{
+  "id": 765948,
+  "name": "Nancy Lee EATON, Petitioner, v. Beth A. DRASZKIEWICZ, Respondent",
+  "name_abbreviation": "Eaton v. Draszkiewicz",
+  "decision_date": "1999-01-07",
+  "docket_number": "Petition No. 649 W.D. Alloc. Dkt.1997",
+  "first_page": "619",
+  "last_page": "619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "554 Pa. 619"
+    },
+    {
+      "type": "parallel",
+      "cite": "722 A.2d 674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "719 A.2d 733",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11681384,
+        11681305,
+        356259,
+        11681548
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0733-02",
+        "/a2d/719/0733-01",
+        "/pa/553/0432-02",
+        "/a2d/719/0733-03"
+      ]
+    },
+    {
+      "cite": "553 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356236
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0434-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 395,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.02778019104588723
+    },
+    "sha256": "c02220683a6f7b37ccf0e809094205604d34b17f0b809f2becd98bad1b191b8e",
+    "simhash": "1:9c2fe08fcd038dbd",
+    "word_count": 67
+  },
+  "last_updated": "2024-02-27T17:22:54.622856+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nancy Lee EATON, Petitioner, v. Beth A. DRASZKIEWICZ, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 7th day of January 1999, the Petition for Allowance of Appeal is GRANTED and this matter is REMANDED to the trial court for further consideration in light of this Court\u2019s decision in Washington v. Baxter, 553 Pa. 434, 719 A.2d 733 (1998).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "722 A.2d 674\nNancy Lee EATON, Petitioner, v. Beth A. DRASZKIEWICZ, Respondent.\nSupreme Court of Pennsylvania.\nJan. 7, 1999."
+  },
+  "file_name": "0619-01",
+  "first_page_order": 683,
+  "last_page_order": 683
+}

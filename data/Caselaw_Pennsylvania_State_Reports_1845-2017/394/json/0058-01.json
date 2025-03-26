@@ -1,0 +1,81 @@
+{
+  "id": 1280905,
+  "name": "Pittsburgh v. Pennsylvania Railroad, Appellant",
+  "name_abbreviation": "Pittsburgh v. Pennsylvania Railroad",
+  "decision_date": "1958-11-10",
+  "docket_number": "Appeal, No. 117",
+  "first_page": "58",
+  "last_page": "60",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "394 Pa. 58"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Pa. D. & C. 2d 499",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1629383
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/14/0499-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 509,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 8.526274362870746e-08,
+      "percentile": 0.48727223092929356
+    },
+    "sha256": "50ac9ab83c5202b5d0d3a4dfced64757c72a57b48824d9995f39e5b678e9bd84",
+    "simhash": "1:8912cd0df5026901",
+    "word_count": 79
+  },
+  "last_updated": "2024-02-27T21:42:42.920804+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before. Jones, C. J., Bell, Musmanno, Jones and Cohen, JJ."
+    ],
+    "parties": [
+      "Pittsburgh v. Pennsylvania Railroad, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgment is affirmed on the thorough and well considered opinion of Judge Nixon for the court below reported in 14 Pa. D. & C. 2d 499.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John David. Rhodes, with him Pringle, Bredin & Martin, for appellant.",
+      "H. Stewart Dunn, Assistant City Solicitor, - with drim J. Frank McKenna, Jr., City Solicitor, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Pittsburgh v. Pennsylvania Railroad, Appellant.\nArgued September 29, 1958.\nBefore. Jones, C. J., Bell, Musmanno, Jones and Cohen, JJ.\nJohn David. Rhodes, with him Pringle, Bredin & Martin, for appellant.\nH. Stewart Dunn, Assistant City Solicitor, - with drim J. Frank McKenna, Jr., City Solicitor, for appellee.\nNovember 10, 1958:"
+  },
+  "file_name": "0058-01",
+  "first_page_order": 90,
+  "last_page_order": 92
+}

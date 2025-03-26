@@ -1,0 +1,80 @@
+{
+  "id": 12282015,
+  "name": "Hartman v. Zoning Hearing Bd. of Cumru Twp.",
+  "name_abbreviation": "Hartman v. Zoning Hearing Bd. of Cumru Twp.",
+  "decision_date": "2016-06-23",
+  "docket_number": "187 MAL (2016)",
+  "first_page": "653",
+  "last_page": "653",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 653"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 806",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6819229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/133/0806-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 102,
+    "ocr_confidence": 0.789,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24907378769959176
+    },
+    "sha256": "d767414dadac539217f306e2aa00f9f3760d6f274ad51089d449c6a660e68c88",
+    "simhash": "1:8dc5806dcdbc4415",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hartman v. Zoning Hearing Bd. of Cumru Twp."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 133 A.3d 806",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hartman v. Zoning Hearing Bd. of Cumru Twp.\n06/23/2016\n187 MAL (2016)"
+  },
+  "file_name": "0653-06",
+  "first_page_order": 705,
+  "last_page_order": 705
+}

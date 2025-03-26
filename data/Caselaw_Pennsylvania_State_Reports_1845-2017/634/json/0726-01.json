@@ -1,0 +1,70 @@
+{
+  "id": 12280549,
+  "name": "Com. v. Jarrett",
+  "name_abbreviation": "Com. v. Jarrett",
+  "decision_date": "2015-12-22",
+  "docket_number": "408 WAL (2015)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 726"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 439",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.889,
+    "sha256": "258927d1a4660f80b4d251d4390ebdefb6652513125b079251fd8ab1257c937c",
+    "simhash": "1:6e07048cbe735413",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jarrett"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 439",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jarrett\n12/22/2015\n408 WAL (2015)"
+  },
+  "file_name": "0726-01",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

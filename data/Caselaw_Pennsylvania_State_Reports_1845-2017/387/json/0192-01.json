@@ -1,0 +1,105 @@
+{
+  "id": 1270978,
+  "name": "Sheriff, Appellant, v. Eisele",
+  "name_abbreviation": "Sheriff v. Eisele",
+  "decision_date": "1956-12-29",
+  "docket_number": "Appeal, No. 249",
+  "first_page": "192",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "387 Pa. 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "123 A. 2d 432",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "385 Pa. 618",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1267070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/385/0618-01"
+      ]
+    },
+    {
+      "cite": "82 A. 2d 11",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 Pa. 12",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230352
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/368/0012-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 96,
+    "char_count": 725,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.048007625154980076
+    },
+    "sha256": "86aced27a819394e22dd587f37d0334b1facfdd90aab8ffdc27e6997ee507ec0",
+    "simhash": "1:8a5c400aa1ff4f9b",
+    "word_count": 128
+  },
+  "last_updated": "2024-02-27T22:56:38.141990+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stern, C. J., Jones, Bell, Chidsey and Musmanno, JJ."
+    ],
+    "parties": [
+      "Sheriff, Appellant, v. Eisele."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nIt will suffice to say that Ebersole v. Beistline, 368 Pa. 12, 82 A. 2d 11, and Gayne v. Carey Mfg. Co., 385 Pa. 618, 123 A. 2d 432, are recent analogous cases which further support the able opinion of the lower Court and rule this case in favor of the defendants.\nThe Order is affirmed on the opinion of President Judge Shughart, which is reported in 7 D. & C. 2d 546.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Herman L. Weary, with him F. Brewster Wickersham, and Weary, Hess & Humer, for appellant.",
+      "George F. Douglas, Jr. and J. Boyd Landis, with them Fatter \u00e9 Douglas and Landis & McIntosh, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Sheriff, Appellant, v. Eisele.\nArgued. November 16, 1956.\nBefore Stern, C. J., Jones, Bell, Chidsey and Musmanno, JJ.\nDecember 29, 1956:\nHerman L. Weary, with him F. Brewster Wickersham, and Weary, Hess & Humer, for appellant.\nGeorge F. Douglas, Jr. and J. Boyd Landis, with them Fatter \u00e9 Douglas and Landis & McIntosh, for appellees."
+  },
+  "file_name": "0192-01",
+  "first_page_order": 226,
+  "last_page_order": 227
+}

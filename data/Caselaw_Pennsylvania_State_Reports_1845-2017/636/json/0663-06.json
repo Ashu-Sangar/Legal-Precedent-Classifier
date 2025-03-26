@@ -1,0 +1,104 @@
+{
+  "id": 12283386,
+  "name": "Com. v. Yingling",
+  "name_abbreviation": "Com. v. Yingling",
+  "decision_date": "2016-08-04",
+  "docket_number": "279-281 MAL (2016)",
+  "first_page": "663",
+  "last_page": "663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 663"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486720,
+        12486721,
+        12486722,
+        12486723,
+        12486724,
+        12486725,
+        12486711,
+        12486712,
+        12486713,
+        12486714,
+        12486715,
+        12486716,
+        12486717,
+        12486718,
+        12486719
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0207-04",
+        "/a3d/144-2/0207-05",
+        "/a3d/144-2/0207-06",
+        "/a3d/144-2/0207-07",
+        "/a3d/144-2/0207-08",
+        "/a3d/144-2/0207-09",
+        "/a3d/144-2/0207-10",
+        "/a3d/144-2/0207-11",
+        "/a3d/144-2/0207-12",
+        "/a3d/144-2/0207-13",
+        "/a3d/144-2/0207-14",
+        "/a3d/144-2/0207-15",
+        "/a3d/144-2/0207-01",
+        "/a3d/144-2/0207-02",
+        "/a3d/144-2/0207-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 163,
+    "ocr_confidence": 0.773,
+    "sha256": "e4fd05da8e83b4dca6f988b3957ce5b214d24335bc8de63a323acb92f6420247",
+    "simhash": "1:2f3e32cabbcf8a36",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Yingling"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 207",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Yingling\n08/04/2016\n279-281 MAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0663-06",
+  "first_page_order": 715,
+  "last_page_order": 715
+}

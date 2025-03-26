@@ -1,0 +1,963 @@
+{
+  "id": 1900408,
+  "name": "Conrad v. Pittsburgh",
+  "name_abbreviation": "Conrad v. Pittsburgh",
+  "decision_date": "1966-04-22",
+  "docket_number": "No. 80",
+  "first_page": "492",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Pa. 492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.E. 2d 91",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 Va. 629",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2042204
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/205/0629-01"
+      ]
+    },
+    {
+      "cite": "242 Iowa 272",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4427270
+      ],
+      "weight": 2,
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/242/0272-01"
+      ]
+    },
+    {
+      "cite": "35 N.E. 2d 78",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "376 Ill. 633",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2540337
+      ],
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/376/0633-01"
+      ]
+    },
+    {
+      "cite": "229 Ala. 61",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8487146
+      ],
+      "weight": 2,
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/229/0061-01"
+      ]
+    },
+    {
+      "cite": "169 S.W. 2d 151",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10201104,
+        2310182
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/169/0151-01",
+        "/tex/140/0609-01"
+      ]
+    },
+    {
+      "cite": "140 Tex. 609",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2310182
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/tex/140/0609-01"
+      ]
+    },
+    {
+      "cite": "161 S.W. 2d 821",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10224516
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/161/0821-01"
+      ]
+    },
+    {
+      "cite": "172 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3604490
+      ],
+      "weight": 2,
+      "year": 1898,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/172/0001-01"
+      ]
+    },
+    {
+      "cite": "252 Pac. 929",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1927,
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wash. 249",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        805418
+      ],
+      "year": 1927,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/142/0249-01"
+      ]
+    },
+    {
+      "cite": "9 Utah 2d 388",
+      "category": "reporters:state",
+      "reporter": "Utah 2d",
+      "case_ids": [
+        8867872
+      ],
+      "weight": 2,
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/utah-2d/9/0388-01"
+      ]
+    },
+    {
+      "cite": "47 N.Y.S. 2d 604",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 N.Y.S. 2d 655",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 N.Y.S. 2d 302",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Misc. 1052",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        909790
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/180/1052-01"
+      ]
+    },
+    {
+      "cite": "74 N.Y.S. 2d 675",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Misc. 366",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        937103
+      ],
+      "year": 1947,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/190/0366-01"
+      ]
+    },
+    {
+      "cite": "70 N.D. 474",
+      "category": "reporters:state",
+      "reporter": "N.D.",
+      "case_ids": [
+        5492643
+      ],
+      "weight": 2,
+      "year": 1940,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nd/70/0474-01"
+      ]
+    },
+    {
+      "cite": "349 Mo. 712",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        1320054
+      ],
+      "weight": 2,
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/349/0712-01"
+      ]
+    },
+    {
+      "cite": "353 Mo. 981",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        1914824
+      ],
+      "weight": 2,
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/353/0981-01"
+      ]
+    },
+    {
+      "cite": "23 N.E. 788",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1890,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Ind. 292",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1382562
+      ],
+      "year": 1890,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/124/0292-01"
+      ]
+    },
+    {
+      "cite": "342 P. 2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1959,
+      "pin_cites": [
+        {
+          "parenthetical": "semble"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal. 2d 620",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4383971
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "parenthetical": "semble"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/52/0620-01"
+      ]
+    },
+    {
+      "cite": "32 P. 2d 622",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Cal. 548",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2195638
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/220/0548-01"
+      ]
+    },
+    {
+      "cite": "146 A. 2d 724",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "394 Pa. 194",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1280926
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/394/0194-01"
+      ]
+    },
+    {
+      "cite": "182 A. 2d 696",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "698"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 Pa. 79",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1308416
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/408/0079-01"
+      ]
+    },
+    {
+      "cite": "398 Pa. 446",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "448-49"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 A. 2d 501",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 Pa. 121",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1308380
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "122-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/408/0121-01"
+      ]
+    },
+    {
+      "cite": "109 A. 2d 331",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "379 Pa. 566",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1253580
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/379/0566-01"
+      ]
+    },
+    {
+      "cite": "160 A. 2d 539",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "541"
+        },
+        {
+          "page": "541"
+        },
+        {
+          "page": "541-42"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 Pa. 446",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1290596
+      ],
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/399/0446-01"
+      ]
+    },
+    {
+      "cite": "215 A. 2d 894",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "420 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1898587
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/420/0014-01"
+      ]
+    },
+    {
+      "cite": "191 A. 2d 265",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "411 Pa. 316",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1885985
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/411/0316-01"
+      ]
+    },
+    {
+      "cite": "34 Atl. 854",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1896,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Pa. 528",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        880540
+      ],
+      "year": 1896,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/175/0528-01"
+      ]
+    },
+    {
+      "cite": "85 Atl. 839",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1912,
+      "opinion_index": 0
+    },
+    {
+      "cite": "237 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988946
+      ],
+      "year": 1912,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/237/0501-01"
+      ]
+    },
+    {
+      "cite": "182 Atl. 501",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163591
+      ],
+      "year": 1936,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/320/0449-01"
+      ]
+    },
+    {
+      "cite": "173 Atl. 289",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "316 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1158989
+      ],
+      "weight": 2,
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0065-01"
+      ]
+    },
+    {
+      "cite": "104 A. 2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "376 Pa. 555",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1246164
+      ],
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/376/0555-01"
+      ]
+    },
+    {
+      "cite": "159 A. 2d 705",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 Pa. 80",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1290550
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/399/0080-01"
+      ]
+    },
+    {
+      "cite": "361 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476375
+      ],
+      "weight": 2,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/361/0543-01"
+      ]
+    },
+    {
+      "cite": "91 Pa. 398",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        487742
+      ],
+      "weight": 2,
+      "year": 1879,
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/91/0398-01"
+      ]
+    },
+    {
+      "cite": "30 Atl. 959",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "962"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Pa. 479",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        862117
+      ],
+      "weight": 2,
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/165/0479-01"
+      ]
+    },
+    {
+      "cite": "49 Atl. 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 Pa. 130",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        924409
+      ],
+      "weight": 2,
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/200/0130-01"
+      ]
+    },
+    {
+      "cite": "3 A. 2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 Pa. 281",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1186572
+      ],
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/332/0281-01"
+      ]
+    },
+    {
+      "cite": "190 Atl. 140",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 4,
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "145"
+        },
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "325 Pa. 337",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1172236
+      ],
+      "weight": 4,
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "347"
+        },
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/325/0337-01"
+      ]
+    },
+    {
+      "cite": "64 A. 2d 659",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "685"
+        },
+        {
+          "page": "665"
+        },
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "370 Pa. 150",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1234553
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/370/0150-01"
+      ]
+    },
+    {
+      "cite": "335 Pa. 6",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1193017
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/335/0006-01"
+      ]
+    },
+    {
+      "cite": "182 Pa. Superior Ct. 28",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        734111
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-super/182/0028-01"
+      ]
+    },
+    {
+      "cite": "346 Pa. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1216508
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/346/0013-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1648,
+    "char_count": 35496,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 2.660381810880439e-07,
+      "percentile": 0.8248990578215177
+    },
+    "sha256": "4d54fa16a6f828656ba9091fff88e8580fd5857a7a3368904b7aa4e32138a374",
+    "simhash": "1:3989d27b0c7f8cde",
+    "word_count": 5979
+  },
+  "last_updated": "2024-02-27T21:35:37.728133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Conrad v. Pittsburgh."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Roberts,\nOn October 29, 1965, plaintiff, a resident and taxpayer of the City of Pittsburgh, Allegheny County, Pennsylvania, instituted an action in the Court of Common Pleas of Allegheny County to restrain defendants, the City of Pittsburgh and the Stadium Authority of the City of Pittsburgh, from proceeding with a contemplated construction of a multi-purpose public stadium. Plaintiff also sought to have adjudged illegal and void a contract entered into between defendants for the purpose of carrying out said project.\nDefendants, on November 8, 1965, filed a preliminary objection in the nature of a demurrer to plaintiff\u2019s complaint. On the same date, defendants petitioned this Court to assume original jurisdiction of the cause. In view of the exigency which exists in the matter to which the suit relates, on November 22, 1965, we directed the issuance of a special certiorari to the court below removing the record in the proceedings for consideration and action by this Court. Such is the present posture of tbe litigation.\nDue to tbe nature of the action and the issues presented, it is necessary that the factual background of the litigation, as established by the averments of plaintiff\u2019s complaint and the exhibits annexed to defendants\u2019 preliminary objection, and thereby made part of the record of the case, be set forth.\nThe City of Pittsburgh, desiring to provide its residents with a facility for civic and athletic events of interest to the community, organized the Stadium Authority of the City of Pittsburgh. The Authority was formed pursuant to the Public Auditorium Authorities Law [herein referred to as the \u201cenabling act\u201d], Act of July 29, 1953, P. L. 1034, 53 P.S. \u00a7\u00a723841-23857, for the purpose of constructing a public stadium facility. In order to facilitate the project, the City proposed to provide the site upon which the stadium was to be constructed and to loan certain sums to the Authority for the purpose of initiating the endeavor.\nActing with the approval of the City and in accordance with powers granted under the enabling act, the Authority adopted a plan whereby it would finance and construct a multi-purpose stadium to be leased to private parties for operation as an Authority facility. In furtherance of that plan, the Authority entered into negotiations with various parties for the construction, financing and letting of the proposed facility.\nAs a result of these negotiations, agreement was reached with the Pittstad Management Corporation, subject to the execution of formal instruments, under which Pittstad would enter into a lease of the stadium for a forty year term at an annual rental of $860,000. Pittstad, in turn, proposed to sub-let the facility for a like term to the Pittsburgh Athletic Co., Inc. and the Pittsburgh Steelers Football Club, Inc. at an aggregate annual rental of $421,000.\nAt the same time, tentative agreement was also reached with the Public Parking Authority of the City of Pittsburgh, a public corporation organized pursuant to the Act of June 5, 1947, P. L. 458, 53 P.S. \u00a7\u00a7341-356, for a lease of the parking facilities to be constructed in connection with the stadium. It is contemplated that these facilities would in turn be sub-let to the Aleo Parking Corporation for a term of forty years at an annual rental of $500,000.\nOn June 30, 1965, the Stadium Authority, proceeding under powers granted by the enabling act, Act of June 29, 1953, P. L. 1034, \u00a75, 53 P.S. \u00a723845(B) (i), entered into a loan agreement with various banks under which interim financing in the amount of $28,000,000 was obtained to pay construction and other costs of the project pending the sale of Authority bonds. Concurrently with the execution of the above mentioned agreement, the City and the Stadium Authority entered into the agreement which is the principal subject of the present suit.\nSection 10(B) of the enabling act provides as follows: \u201cAny municipality may and it [sic] is hereby authorized to make annual grants from current revenues to the Authority to assist in defraying the costs of operation, maintenance and debt service of the project and to enter into long term agreements providing for the payment of the same.\u201d Act of July 29, 1953, P. L. 1034, 53 P.S. \u00a723850(B).\nActing pursuant to this provision, the City and the Stadium Authority entered into an agreement where-under the City agreed to make an annual grant to the Authority in the event and to the extent of any deficiency between the income to be derived from the tenants of the stadium and the amount required by the Authority to service its debt and maintain the facility. Specifically, the agreement provides that the City shall appropriate and pay to the Authority from \u201ccurrent revenues\u201d a sum equal to \u201cthe amount... by which the total funds . . . available in . . . [each] calendar year to pay the cost to the Authority of the operation and maintenance of the Project and debt service on the Bonds are less than the cost to the Authority of such operation, maintenance and debt service.\u201d The agreement to remain in force for the duration of any outstanding indebtedness of the Authority on its bonds, further provides that \u201cin the event that any annual grant is not paid in full when due, the deficiency is to be paid out of the current revenues of the City in the subsequent year or years.\u201d\nPlaintiff, attacking the agreement, contends that the provision therein contained providing for annual grants by the City in the event of an operating deficiency by the Authority constitutes a debt incurred in violation of \u00a7\u00a78 and 10 of Article IX of the Constitution of this Commonwealth.\nArticle IX, \u00a78 of the Constitution of Pennsylvania provides: \u201cThe debt of any county, city, borough, township, school district, or other municipality or incorporated district . . . shall never exceed seven (7) per centum upon the assessed value of the taxable property therein, nor shall any such county, municipality or district incur any debt, or increase its indebtedness to an amount exceeding two (2) per centum upon such assessed valuation of property, without the consent of the electors thereof at a public election in such manner as shall be provided by law.\u201d\nSection 10 of Article IX requires: \u201cAny county, township, school district or other municipality incurring any indebtedness shall, at or before the time of so doing, provide for the collection of an annual tax sufficient to pay the interest and also the principal thereof within thirty years.\u201d\nAs of the execution of the agreement, the assessed valuation of taxable property of the City of Pittsburgh was $1,694,897,000. Its outstanding indebtedness was $18,000,000. Thus, the City was free to incur an additional indebtedness of $15,897,000 without the prior approval of the electorate.\nIt is the position of plaintiff, however, that by reason of its agreement with the Authority, the City has undertaken to guarantee the $28,000,000 obligation of the Authority and has thereby incurred an \u201cindebtedness\u201d within the meaning of Article IX, \u00a7\u00a78 and 10, which, when aggregated to its present indebtedness, exceeds 2% of the assessed valuation of taxable property of the City. Since the City did not submit the issue of the grant to the voters or levy a tax sufficient to amortize the asserted \u201cdebt\u201d, plaintiff contends that the obligation sought to be created is invalid and the agreement null and void. We are unable to agree with the proposition urged.\nAt the outset, we note that the obligation of the City under the agreement with the Authority is both contingent and unliquidated. Performance is required and payment due only in the event and to the ewtent that the Authority sustains a deficit between its operating income and its debt service and maintenance costs. This Court has not to date had the occasion to determine whether such an obligation constitutes a \u201cdebt\u201d within the meaning of Article IX, \u00a7 \u00a78 and 10. The decisions of courts of other jurisdictions which have considered the problem in light of restraints on municipal spending similar to those contained in our Constitution have not been uniform.\nHowever, we find it unnecessary to reach the question of whether a contingent liability is a debt within the meaning of Article IX, \u00a7\u00a78 and 10, since our consideration of the matter compels the conclusion that the decision of this Court in Greenhalgh v. Woolworth, 361 Pa. 513, 64 A. 2d 659 (1949), requires the rejection of plaintiff\u2019s contention.\nIn Greenhalgh v. Woolworlh, supra, an injunction was sought to restrain the School District of the Borough of West Mifflin from entering into a proposed lease agreement with the State Public School Building Authority on the ground that the agreement would work a subterfuge whereby the School District would acquire a capital asset and incur a debt in violation of the Constitution. Under the challenged agreement, the Authority was to construct a school building to be leased to the School District for a term of thirty years at a rental sufficient to pay the interest and principal of the bonds issued to finance the construction and that portion of the Authority\u2019s administrative expenses allocable to the project. As in the instant case, rental payments were to be paid only from current revenues of the School District and it was expressly provided that if the entire rental for any year was not paid out of the current revenues of that year, the balance remaining due was to be paid out of the current revenues of succeeding years. In the event of default by the School District or the Authority, the power of any receiver appointed was limited to the operation and maintenance of the project. Thus, the assets of the Authority or the land upon which the project was erected could not be sold or disposed of by such receiver.\nFinding that the current and reasonably anticipated future revenues of the School District would be sufficient to meet its rental obligations under the lease agreement, the Court held that the project was \u201cself-liquidating\u201d within the special meaning given that term in Kelley v. Earle, 325 Pa. 337, 190 Atl. 140 (1937), and that no debt within the contemplation of the Constitution was thereby created. Since obligations which do not overreach current revenues are not debts within the meaning of Article IX, \u00a7\u00a7 8 and 10, see, e.g., Gemmill v. Galder, 332 Pa. 281, 284, 3 A. 2d 7, 9 (1938); Kelley v. Earle, 325 Pa. 337, 347, 190 Atl. 140, 145 (1937) ; Keller v. Scranton, 200 Pa. 130, 135, 49 Atl. 781, 782 (1901); Wade v. Oakmont Borough, 165 Pa. 479, 488, 30 Atl. 959, 962 (1895) ; Appeal of the City of Erie, 91 Pa. 398, 403 (1879), the anticipated ability of the School District to provide the required rental payments out of current revenues when such obligations become due was held sufficient to dispose of the objection.\nMore significantly for the case at hand, the Court determined that the immunity of the project from sale or execution on default and the inability of the creditors to compel payments beyond sums available from current revenues was of itself sufficient to support the conclusion that no debt in the constitutional sense was created. As the Court stated: \u201c[Ijnasmuch as the rental is, by the terms of the proposed lease, payable solely from current revenues, there is no question present of any possible increase in the indebtedness of the School District through its execution of the proposed contract with the Authority and the consequent lease.\u201d Greenhalgh v. Woolworth, 361 Pa. 543, 555, 64 A. 2d 659, 685 (1949).\nAlthough in the instant case we are not confronted with a lease agreement, we are of the view that the principles underlying the decision of this Court in Greenhalgh v. Woolworth, supra, are equally applicable here. We discern no distinction between the nature of the obligation undertaken by the City in the instant case and that incurred by the School District in Greenhalgh v. Woolworth which would justify according them different treatment for purposes of Article IX, \u00a7\u00a78 and 10.\nIn the present case, as in Greenhalgh v. Woolworth, the obligation of the City of Pittsburgh to make payment to the Stadium Authority in the event the Authority sustains an operating deficit is expressly limited to the availability of current revenues. This is made abundantly clear by that provision of the agreement which provides that in the event current revenues are not available to meet the deficit of the Authority in any given year, the unpaid balance shall be paid out of the current revenues of the City in the subsequent year or years. Thus, the contract, by its very terms, could not overreach the City\u2019s current revenues. Of. Chreenhalgh v, Woolioorih, supra, at 555, 64 A. 2d at 665. As this Court has consistently held, contracts or engagements which create obligations not exceeding current revenues do not constitute debts within the contemplation of the Constitution. Apollo Borough School District v. Kiskiminetas Township School District, 399 Pa. 80, 159 A. 2d 705 (1960); Detweiler v. Hatfield Boro. School District, 376 Pa. 555, 104 A. 2d 110 (1954); Greenhalgh v. Woolworth, 361 Pa. 543, 64 A. 2d 659 (1949); Gemmill v. Colder, 332 Pa. 281, 3 A. 2d 7 (1938); Kelley v. Earle, 325 Pa. 337, 190 Atl. 140 (1937); Keller v. Scranton, 200 Pa. 130, 49 Atl. 781 (1901); Wade v. Oakmont Borough, 165 Pa. 479, 30 Atl. 959 (1895); Appeal of the City of Erie, 91 Pa. 398 (1879).\nMoreover, in the event of default by the City and the Authority, the power of the bondholders is limited to the operation and maintenance of the project and they are without power to sell or dispose of any assets held in connection with the project. Act of July 29, 1953, P. L. 1034, \u00a77, 53 P.S. \u00a723847. Thus, the limitation restricting the City\u2019s obligation to current revenues may not be circumvented by subjecting the assets of the project to sale or execution. Cf. Greenhalgh v. Woolworth, supra; Kelley v. Earle, supra; Tranter v. Allegheny County Authority, 316 Pa. 65, 173 Atl. 289 (1934). Under such circumstances, we are unable to conclude that the provision of the agreement between the City of Pittsburgh and the Stadium Authority here in dispute creates a debt within the purview of the Constitution.\nPlaintiff cites Kelley v. Earle, 320 Pa. 449, 182 Atl. 501 (1936); Lesser v. Warren Borough, 237 Pa. 501, 85 Atl. 839 (1912); and Brown v. City of Corry, 175 Pa. 528, 34 Atl. 854 (1896), contending that they compel a contrary conclusion. These cases are inapposite as each involved the acquisition of a capital asset Avhich was subject to execution and sale in the event of default. See Greenhalgh v. Woolworth, supra at 556, 64 A. 2d at 665, Kelley v. Earle, 325 Pa. 337, 351, 190 Atl. 140, 147 (1937).\nOur conclusion that the challenged agreement does not violate the restrictions contained in Article IX, \u00a7\u00a78 and 10 is reinforced by the recent decision of this Court in MacCalman v. Bucks County, 411 Pa. 316, 191 A. 2d 265 (1963) (per curiam). In MacCalman, an authority was created to construct and operate a sewer line and treatment plant designed to serve certain municipalities located within Bucks County. The Authority proposed to enter into agreements with the municipalities to be served. Under the proposal, each municipality Avould pay a proportionate share of the annual debt service and operating expense of the Authority. Since it Avas anticipated that the participating municipalities would be unable to supply the required sums until such time as the number of sewer connections had increased sufficiently so as to provide funds to liquidate the annual expense, the County proposed to enter into a so-called \u201cservice agreement\u201d, by the terms of which the County would provide funds sufficient to make up any deficiency between the income and expenses, including debt service, of the facility. The agreement contemplated the appropriation from current revenues of amounts which would not exceed, on the average, $120,000 annually over a ten year period. Presumably, at the end of that term, it was contemplated that the number of connections would have increased sufficiently to make the project self-sustaining and further county aid unnecessary.\nThe proposed \u201cservice agreement\u201d was sought to be enjoined on the ground that it constituted an unlawful incurring of indebtedness by the County. The complaint was dismissed and this Court affirmed. By the very terms of the agreement, no indebtedness in the constitutional sense could be incurred. The source of payment having been limited expressly to current revenues, payment beyond the County\u2019s ability to provide the grant from current revenues could not be compelled. Thus, in MaeCalman, as in the present case, no debt in the constitutional sense was created by the agreement.\nWe have carefully examined and considered the remaining allegations contained in plaintiff\u2019s complaint and are of the view that they fail to state a cause of action which would entitle him to the relief sought. Cf. Martin v. Philadelphia, 420 Pa. 14, 215 A. 2d 894 (1966); Hyam v. Upper Montgomery Joint Authority, 399 Pa. 446, 160 A. 2d 539 (1960); Blumenschein v. Pittsburgh Housing Authority, 379 Pa. 566, 109 A. 2d 331 (1954); Tranter v. Allegheny County Authority, 316 Pa. 65, 173 Atl. 289 (1934).\nThe preliminary objection is sustained and the complaint dismissed with prejudice.\nEach party to pay own costs.\nAlso named as defendants in the complaint were the Mayor of. the City of Pittsburgh, members of the City Council, the Director of Parks and Recreation, and the members of the Board of Directors of the Stadium Authority.\nArticle V, \u00a73 of the Constitution of Pennsylvania vests in this Court, in the exercise of its discretion, Hyam v. Upper Montgomery Joint Authority, 399 Pa. 446, 448 n.2, 160 A. 2d 539, 541 n.2 (1960), \u201coriginal jurisdiction in cases of injunction where a corporation is a party defendant . . . .\u201d \u201cSuch jurisdiction extends to corporations which are municipal in nature.\u201d Ibid: Breslow v. Baldwin Township School District, 408 Pa. 121, 122-23, 182 A. 2d 501, 502 (1982).\nSince the present matter comes before this Court upon the pleadings, on defendants\u2019 preliminary objection to plaintiff\u2019s complaint, it is appropriate to note at the outset that such objection admits only those facts which are well pleaded and relevant and the inferences which may be reasonably deduced therefrom. Hyam v. Upper Montgomery Joint Authority, 398 Pa. 446, 448-49, 160 A. 2d 539, 541 (1960). Thus, conclusions of law, expressions of opinion, argumentative allegations or inferences unwarranted by the admitted facts are not deemed admitted. Id. at 449, 160 A. 2d at 541. Finally, if to sustain the preliminary objections will result in a denial of plaintiff\u2019s claim, such objections will be sustained only in those cases which are clear and free from doubt. Schrader v. Heath, 408 Pa. 79, 182 A. 2d 696, 698 (1962) ; Hyam v. Upper Montgomery Joint Authority, supra at 449, 160 A. 2d at 541-42.\nPlaintiff\u2019s complaint refers to various documents upon which reliance is placed in seeking equitable relief. Such documents were not annexed to the complaint. In their preliminary objection demurring to the complaint, defendants attached as exhibits true and correct copies of such documents. These documents, forming in part the foundation of the suit, may be considered by this Court in determining whether plaintiff has alleged facts which justify the equitable relief sought. See Detweiler v. Hatfield Borough School District, 376 Pa. 555, 104 A. 2d 110 (1954); St. Peter\u2019s Roman Catholic Parish v. Urban Redevelopment Authority of Pittsburgh, 394 Pa. 194, 146 A. 2d 724 (1958).\nSee note 3 supra.\nThe enabling act provides: \u201cEvery Authority incorporated under this act shall be a public body, corporate and politic, exercising public powers of the Commonwealth as an agency thereof, and shaU be for the purpose of acquiring, holding, constructing, improving, maintaining and operating, owning, leasing, either in the capacity of lessor or lessee, public auditoriums, the purpose and interest of this act being to benefit the people of the Commonwealth by, among other things, increasing their commerce and prosperity and promoting their educational, cultural, physical, civic, social and moral welfare.\u201d Act of July 29, 1953, P. L. 1034, \u00a75, 53 P.S. \u00a723845. The term \u201cpublic auditorium\u201d is defined to include \u201cany structure appropriate for large public assemblies, the holding of conventions, sporting tournaments, athletic contests and exhibitions . . . and other business, social, cultural, scientific and recreational events and all facilities necessary or incident thereto, including provisions for adequate off-street parking.\u201d Act of July 29, 1953, P. L. 1034, \u00a72, 53 P.S. \u00a723842.\nSee Act of July 29, 1953, P. L. 1034, \u00a75, 53 P.S. \u00a7\u00a723845(A), 23845(B) (d).\nNumerous courts have ruled that the mere incurring of a contingent future liability does not create an indebtedness within the ambit of such restrictions. See, e.g., American Co. v. City of Lakeport, 220 Cal. 548, 32 P. 2d 622 (1934), but see City of Palm Springs v. Ringwald, 52 Cal. 2d 620, 342 P. 2d 898 (1959) (semble); Quill v. City of Indianapolis, 124 Ind. 292, 23 N.E. 788 (1890); City of Springfield v. Monday, 353 Mo. 981, 185 S.W. 2d 788 (1945); City of Lebanon v. Schneider, 349 Mo. 712, 163 S.W. 2d 588 (1942) ; Marks v. City of Mandan, 70 N.D. 474, 296 N.W. 39 (1940); Borek v. Colder, 190 Misc. 366, 74 N.Y.S. 2d 675 (S. Ct. Oneida Co. 1947); Davidson v. City of Elmira, 180 Misc. 1052, 44 N.Y.S. 2d 302 (S. Ct. Chemung Co.), aff\u2019d 46 N.Y.S. 2d 655 (App. Div. 1943), appeal denied, 47 N.Y.S. 2d 604 (App. Div. 1944); Pearson v. Salt Lake County, 9 Utah 2d 388, 346 P. 2d 155 (1959); Comfort v. City of Tacoma, 142 Wash. 249, 252 Pac. 929 (1927); cf. Walla Walla City v. Walla Walla Water Co., 172 U.S. 1, 19 S. Ct. 77 (1898); Ward v. City of Big Spring, 161 S.W. 2d 821 (Tex. Civ. App. 1942), rev\u2019d on other grounds, 140 Tex. 609, 169 S.W. 2d 151 (1943). See also 15 McQuillin, Municipal Corporations \u00a7\u00a741.18, 41.23 (3d ed. 1950).\nOther courts, however, while recognizing that a contingent liability is not a \u201cdebt\u201d in the technical sense of that term, have resolved the issue by placing a more general and comprehensive construction . on restrictions on municipal spending and have held such restrictions applicable to obligations incurred in any manner, or for any purpose, including contingent liabilities. See, e.g., Smith v. Town of Cain, 229 Ala. 61, 155 So. 865 (1934); Austin v. Healy, 376 Ill. 633, 35 N.E. 2d 78 (1941); Wickey v. Muscatine County, 242 Iowa 272, 46 N.W. 2d 32 (1951); Button v. Day, 205 Va. 629, 139 S.E. 2d 91 (1964).",
+        "type": "majority",
+        "author": "Mr. Justice Roberts,"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Chief Justice Bell:\nThe provisions with respect to a 40-year agreement and payments of deficits and debts by the City certainly violate the spirit and I believe the language of the Constitution mandated in Article IX, \u00a7\u00a78 and 10.\nThere is probably no Judge on the bench who is as rabid a football fan as I, and who would like as much as I would to see an appropriate, attractive stadium built for football and other sports in Pittsburgh. However, this furnishes neither an excuse nor a justification for violating the Constitution.\nNevertheless, because of several prior decisions of this Court \u2014 with which I strongly disagree \u2014 I feel obliged to concur in the result.",
+        "type": "concurrence",
+        "author": "Mr. Chief Justice Bell:"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Justice Musmanno:\nI heartily concur in the Majority Opinion which has excellently covered the various issues involved in this litigation. I would make an observation on the constitutional aspects of the ease raised by the plaintiff and the Civic Club of Allegheny County, amicus curiae. The plaintiff contends that the agreement between the Stadium Authority and the City of Pittsburgh creates a debt which is violative of \u00a7\u00a78 and 10 of Article IX of the Pennsylvania Constitution. The word \u201cdebt\u201d is at most an ambiguous, equivocal term. As stated by this Court in Pennsylvania, Co. v. Scott, 346 Pa. 13, \u201cIt is true that, while every debt is an obligation, not every obligation is a debt.\u201d The word, therefore, where the Constitution is involved, must be given its popular meaning. \u201cAny provision of the Constitution must be interpreted in the popular sense and as understood by the people who adopted it.\u201d Goodwin v. Allegheny County, 182 Pa. Superior Ct. 28.\nThe Pennsylvania Legislature made its interpretation of the word \u201cdebt\u201d very clear when it declared in the Act of June 29, 1953, P. L. 1034, that: \u201cAny municipality may and it is hereby authorized to make annual grants from current revenues to the Authority to assist in defraying the costs of operation, maintenance and debt service of the project and to enter into long term agreements providing for the payment of the same.\u201d\nIt is to be noted here that the Legislature laid down no restrictions or limitations on grants to be made by the municipality. Did the Legislature violate the Constitution in so authorizing the City to enter into the agreements here in controversy? I do not believe so. In Com. ex rel. v. Sunbury School District 335 Pa. 6, we specifically stated: \u201cAll legislation must be construed as intending to favor the public interest.\u201d\nThe Legislature in making the authorization, which the City has utilized, was not only presumably acting in the public interest but its sole purpose was to make possible the fulfillment of a public need. What is meant by public need? Public need \u201cshould be construed in such manner as to give constitutional sanction and life to the constantly changing conditions and needs of the people, not only of the horse and buggy age and the automobile age, but also of the airplane age, and the atomic age.\u201d (Evans v. W. Norriton Township Municipal Authority, 370 Pa. 150.)\nIn this litigation we are not dealing with the horse and buggy age, but with the atomic age. But, more than that, we are dealing with a modern development in an age which properly regards as essentials for all the people services which heretofore were enjoyed only by the wealthy and the affluent. There is need today to provide the public with facilities for recreation, sports and enjoyment of outdoor athletic competition. Even passive participation as an onlooker in competitive sports stimulates a desire for physical exercise. In any event it takes the spectator into the open air and provides him with exuberant escape from the cares of the day and arms him with recharged energy to meet responsibilities as a citizen. All this helps to build up a healthy community.\nIt is argued by the Civic Club of Allegheny County, amicus curiae, that the construction of the Pittsburgh Stadium is not a proper use of municipal authority because, it says, it provides for \u201cluxury service rather than an essential service.\u201d Therefore, the construction should not be allowed under the conditions set out in the various obligations. It says that \u201cthe community can survive without a baseball and football stadium, but it must have police, fire, school, sewage disposal, and other basic services.\u201d\nThe objective of a community is not merely to survive, but to progress, to go forward into an ever-increasing enjoyment of the blessings conferred by the rich resources of this nation under the benefaction of the Supreme Being for the benefit of all the people of that community.\nIf a well governed city were to confine its governmental functions merely to the task of assuring survival, if it were to do nothing but provide \u201cbasic services\u201d for an animal survival, it would be a city without parks, swimming pools, zoo, baseball diamonds, football gridirons and playgrounds for children. Such a city would be a dreary city indeed. As man cannot live by bread alone, a city cannot endure on cement, asphalt and pipes alone. A city must have a municipal spirit beyond its physical properties, it must be alive with an esprit de corps, its personality must be such that visitors \u2014 both business and tourist \u2014 are attracted to the city, pleased by it and wish to return to it. That personality must be one to which the population contributes by mass participation in activities identified with that city.\nHardly anything in America symbolizes a large city more than its National or American League baseball team. To take the Pittsburgh baseball team out of Pittsburgh would be to deprive its people of the opportunity for a spontaneous outburst of civic pride, for which there is no substitute. In fact, it is practically impossible to visualize Pittsburgh without its Pirates. To take the Pirates out of Pittsburgh would be like taking them out of the history of the Spanish Main, it would be like diverting the course of the Allegheny and Monongahela River so that they would not form the Ohio at the immortally historical Fort Pitt, it would be like turning the Golden Triangle into a Tin Pan Alley, it would be like transforming the 42-story Cathedral of Learning into a one-room country schoolhouse.\nBut it is not enough to want the Pirates to stay, they must have a home. The Civic Club of Allegheny County says it does not argue against the Pirates, yet to deprive them of a place in which to perform their wholesome and exciting endeavors is equivalent to driving them out of Pittsburgh. Since Forbes Field will soon be only a memory, where are the Pirates to battle for the glory and pride of Pittsburgh, if the stadium is not constructed? It would be a sad day indeed if the Pirates should leave Pittsburgh and not return. Not to have the gladsome and thrilling Opening Day of the Baseball Season each spring, not to watch the tension-charged race of the home team against the teams from afar, not to be constantly buoyed up with the hope that with every game Pittsburgh may be getting closer to the coveted National League pennant and then go on to the electrifying sensation of the World Series \u2014 when for a week, all foreign and domestic troubles and the vexations of the high cost of living are drowned out in the flood of throbbing anticipations \u2014 not to have all this would be tragedy indeed in the history and life of Pittsburgh.\nThe Civic League does not seem to realize this and simply refers to baseball as a \u201cluxury service\u201d instead of accepting it, which it is, as an indispensably integral part of our municipal American way of life. If the Civic League wants to do away with all services except those which are indispensable to maintain life in a humdrum, lackluster existence, they should urge also the elimination of city parks, city swimming pools, city recreation centers, city museum, flower conservatory and public libraries.\nThe Civic Club speaks derogatorily of the Pittsburgh Stadium as a \u201cfacility used exclusively for athletic sports.\u201d So are the parks and swimming pools devoted exclusively to athletic sports. Athletics are conducive to good health, they keep the blood stream supplied with invigorating oxygen, developing muscles and stamina, and it is as much a part of municipal function to encourage athletics as it is to clean out the swamps and malarial marshes. Rome and Greece at the height of their glory were as proud of their athletic excellences as they were of their military conquests.\nThe Civic Club says that the City is buying a \u201cpig in a poke.\u201d It is difficult to see how one can call the proposed stadium a \u201cpig in a poke.\u201d There is nothing clandestine about it; it will be large enough for the world to see, its financing is as clear as the sunshine in which it will operate. To employ the colloquialism of the Civic Club, it could be said that not only is the Pittsburgh Stadium not a \u201cpig in a poke,\u201d but not to have a stadium would be to put Pittsburgh in the class of \u201ca slow poke\u201d so far as large cities are concerned, in the great race of athletic competition which does as much for the spirit of any community as prosperity does for its economic circulation.\nThen the Civic Club complains because the financial commitment of the City will run for 40 years. Is 40 years long in the life of a city the size of Pittsburgh? What are 40 years in the history of Rome, Paris or London? 40 years may be a long time to wait for a bus or streetcar, but in the sands of time running through the hour glass of history, 40 years is but a wink into posterity.\nThe Civic Club looks to the future pessimistically and argues that Pittsburgh may not meet its obligations. It paints the coming years with the black paint of gloom, and it ties mortuary ribbons on the long horizon. It says that we cannot depend on continued prosperity and then summons up the skeletons of the depression of yesteryear, dismally predicting that those same skeletons may again dance a grisly hornpipe across the greensward of Pittsburgh\u2019s tomorrow.\nThis kind of thinking, if it had been adhered to through the years since the time of the Indians, would have retained Pittsburgh as a trading post on the Ohio, visited by teachers and school children who would listen to a guide relate how George Washington had come to this backwoods frontier in 1753, and how it might have developed into a city, indeed a metropolis, except for groups of well-intentioned citizens that condemned expansion of the post, strengthening of the fort, development of the stage trails and later laying down of railroad tracks for fear that the financial commitments involved might not be met. \u201cThe next tour of the colonial cemetery will be at 3 o\u2019clock in the afternoon.\u201d\nI am certain that the members of the Civic Club will change their minds about the Pittsburgh Stadium after the baseball season has begun, and is under way. There is nothing in sportsland to surpass the thrill of watching the Flag rising on the Center Field flagpole to the accompaniment of the spine-tingling strains of the Star Spangled Banner, of jumping with attention to the umpire\u2019s sonorous cry of \u201cPlay Ball!\u201d, of listening to the dramatic crack of the bat as the ball goes soaring out into space, then watching the dust of the diamond exploding into clouds as the runner with the winning run comes furiously sliding into the home plate.\nThere is no song more symbolical of America\u2019s love of outdoor fun than \u201cTake Me Out To The Ball Game!\u201d I am sure that the Civic Club will, upon reflection, be happy that this Court will now assure Western Pennsylvania and surrounding territory that we will always have a ball game to watch and a home team to cheer. The Club will have further reason for gratification that Pittsburgh will also continue to be assured of a home for the Pittsburgh Steelers. And it will be a matter of civic pride and local patriotism, always wholesome for a community, that these two fine teams will continue to have the opportunity to display their talents and abilities in the new, beautiful and magnificent Pittsburgh Stadium.",
+        "type": "concurrence",
+        "author": "Mr. Justice Musmanno:"
+      }
+    ],
+    "attorneys": [
+      "John B. Nieblas, Jr., with him MeCrady & Nieblas, for plaintiff.",
+      "David, Stahl, City Solicitor, with him Thomas S. White and Cyril A. Fox, Jr., Assistant City Solicitors, for City of Pittsburgh, defendant.",
+      "George E. Flinn, C. Holmes Wolfe, Jr., and Moor-head & Knox, for Stadium Authority of City of Pittsburgh.",
+      "Charles M. Thorp, Jr., John H. Neely, and Thorp, Reed & Armstrong, and Neely, Stockdale & Phillips, for amicus curiae.",
+      "Kennedy Smith, and Kline & Smith, for amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "Conrad v. Pittsburgh.\nArgued January 11, 1966.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nJohn B. Nieblas, Jr., with him MeCrady & Nieblas, for plaintiff.\nDavid, Stahl, City Solicitor, with him Thomas S. White and Cyril A. Fox, Jr., Assistant City Solicitors, for City of Pittsburgh, defendant.\nGeorge E. Flinn, C. Holmes Wolfe, Jr., and Moor-head & Knox, for Stadium Authority of City of Pittsburgh.\nCharles M. Thorp, Jr., John H. Neely, and Thorp, Reed & Armstrong, and Neely, Stockdale & Phillips, for amicus curiae.\nKennedy Smith, and Kline & Smith, for amicus curiae.\nApril 22, 1966:"
+  },
+  "file_name": "0492-01",
+  "first_page_order": 532,
+  "last_page_order": 552
+}

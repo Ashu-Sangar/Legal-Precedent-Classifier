@@ -1,0 +1,110 @@
+{
+  "id": 12175434,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Kareem BARNES, Petitioner",
+  "name_abbreviation": "Commonwealth v. Barnes",
+  "decision_date": "2015-09-18",
+  "docket_number": "",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "122 A.3d 1034"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699057
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0099-01"
+      ]
+    },
+    {
+      "cite": "117 A.3d 247",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6863226,
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/117/0247-01",
+        "/pa/632/0036-01"
+      ]
+    },
+    {
+      "cite": "632 Pa. 36",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/632/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 100,
+    "char_count": 913,
+    "ocr_confidence": 0.623,
+    "pagerank": {
+      "raw": 4.673158368853873e-08,
+      "percentile": 0.2934657580422642
+    },
+    "sha256": "60f85130f2d505bf22b1a229a989f44faaebbd45658245a0a96341279f29de86",
+    "simhash": "1:9c4b0604c6c6cd3f",
+    "word_count": 146
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Kareem BARNES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of September, 2015, the Petition for Allowance of Appeal is GRANTED LIMITED TO the issues set forth below. Allocatur is DENIED as to all remaining issues. The issues, rephrased for clarity, are:\n(1) Whether a challenge to a sentence pursuant to Alleyne v. United States, \u2014 U.S. -, 133 S.Ct. 2151, 186 L.Ed.2d 314 (2013), implicates the legality of the sentence and is therefore non-waivable.\n(2) Whether contemporaneous convictions of possession with intent to deliver, pursuant to 35 P.S. \u00a7 780-113, and possession of a firearm prohibited, pursuant to 18 Pa.C.S. \u00a7 6105, allow application of the mandatory minimum sentence found at 42 Pa.C.S. \u00a7 9712.1 in light of our decision in Commonwealth v. Hopkins, 632 Pa. 36, 117 A.3d 247 (2015).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "122 A.3d 1034\nCOMMONWEALTH of Pennsylvania, Respondent, v. Kareem BARNES, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 18, 2015."
+  },
+  "file_name": "0650-01",
+  "first_page_order": 704,
+  "last_page_order": 704
+}

@@ -1,0 +1,76 @@
+{
+  "id": 903562,
+  "name": "Philadelphia, Appellant, v. J. Otis Paul",
+  "name_abbreviation": "Philadelphia v. Paul",
+  "decision_date": "1899-01-30",
+  "docket_number": "No. 106",
+  "first_page": "559",
+  "last_page": "559",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "189 Pa. 559"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        872188
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/170/0284-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 389,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03185147087725964
+    },
+    "sha256": "c6d01bc462fb0adef1013eb84fdb413e6762f24ae0f65817963d81622f32339d",
+    "simhash": "1:ec012c1cb106b4fb",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T18:14:13.861116+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Philadelphia, Appellant, v. J. Otis Paul."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe judgment heretofore entered by this Court (170 Pa. 284) having been reversed by the Supreme Court of the United States, it is now ordered that the judgment of the court of quarter sessions of Philadelphia county be and the same is hereby affirmed \"with costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Philadelphia, Appellant, v. J. Otis Paul.\nNo. 106, July T., 1894. Appeal from Q. S. Phila. Co.\nJanuary 30, 1899:"
+  },
+  "file_name": "0559-03",
+  "first_page_order": 579,
+  "last_page_order": 579
+}

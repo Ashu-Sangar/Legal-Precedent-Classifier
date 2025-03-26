@@ -1,0 +1,106 @@
+{
+  "id": 4078413,
+  "name": "William EVANS, Petitioner v. The COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Evans v. Court of Common Pleas",
+  "decision_date": "2014-03-19",
+  "docket_number": "No. 2 EM 2014",
+  "first_page": "618",
+  "last_page": "619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "624 Pa. 618"
+    },
+    {
+      "type": "parallel",
+      "cite": "87 A.3d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 442,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12978787566379352
+    },
+    "sha256": "72b5735c7ec37ea842cfd76b50acba6fcdb34cf8aacf484dd4c6c305cfe99568",
+    "simhash": "1:142e827b815d34b5",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T21:02:06.836768+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William EVANS, Petitioner v. The COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of March, 2014, the Petition for Writ of Mandamus is DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward this filing to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "87 A.3d 806\nWilliam EVANS, Petitioner v. The COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 2 EM 2014.\nSupreme Court of Pennsylvania.\nMarch 19, 2014."
+  },
+  "file_name": "0618-02",
+  "first_page_order": 668,
+  "last_page_order": 669
+}

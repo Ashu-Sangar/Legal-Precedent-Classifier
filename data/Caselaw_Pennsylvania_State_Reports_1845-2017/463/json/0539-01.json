@@ -1,0 +1,202 @@
+{
+  "id": 1708133,
+  "name": "COMMONWEALTH of Pennsylvania v. J. L. MOTT CORPORATION, Appellant",
+  "name_abbreviation": "Commonwealth v. J. L. Mott Corp.",
+  "decision_date": "1975-10-03",
+  "docket_number": "No. 72",
+  "first_page": "539",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "463 Pa. 539"
+    },
+    {
+      "type": "parallel",
+      "cite": "345 A.2d 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "316 A.2d 921",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "unanimous"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 A.2d 204",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "205",
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "482 Pa. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 A.2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1939,
+      "opinion_index": 0
+    },
+    {
+      "cite": "336 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1195631
+      ],
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/336/0209-01"
+      ]
+    },
+    {
+      "cite": "89 L.Ed. 1394",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        6157829
+      ],
+      "year": 1944,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/324/0826-07"
+      ]
+    },
+    {
+      "cite": "65 S.Ct. 857",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "324 U.S. 827",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157856,
+        6157885
+      ],
+      "year": 1944,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/324/0827-01",
+        "/us/324/0827-02"
+      ]
+    },
+    {
+      "cite": "38 A.2d 329",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "350 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461176
+      ],
+      "year": 1944,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/350/0236-01"
+      ]
+    },
+    {
+      "cite": "42 A.2d 158",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "352 Pa. 120",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        464107
+      ],
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/352/0120-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 525,
+    "char_count": 12479,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 7.578924433977877e-08,
+      "percentile": 0.4490674938963623
+    },
+    "sha256": "76ea4b21e69faa52d106343c7e43575d7781f65d94bd575ace914746bd8c2831",
+    "simhash": "1:a1efa6c9ad342534",
+    "word_count": 1972
+  },
+  "last_updated": "2024-02-27T16:13:26.253989+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before JONES, C. J., and EAGEN, O\u2019BRIEN, ROBERTS, POMEROY and NIX, JJ.",
+      "MANDERINO, J., did not participate in the consideration or decision of this case."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. J. L. MOTT CORPORATION, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nROBERTS, Justice.\nThis is an appeal from the decision of the Commonwealth Court dismissing an appeal from the denial by the Board of Finance and Revenue of a petition for review of the settlement of appellant\u2019s 1962 franchise tax and entering a judgment in favor of the Commonwealth for $824. A portion of appellant\u2019s gross receipts is rent paid by tenants who lease manufacturing plants from appellant. The sole issue in this appeal is whether the manufacturer\u2019s exemption contained in the franchise tax entitles appellant to exclude those rents from the numerator of the gross receipts fraction used to compute the tax.\nPennsylvania imposes a franchise tax on foreign corporations doing business in Pennsylvania or having capital or property employed or used in this Commonwealth. This tax is assessed upon the value to the taxpayer of the franchise to do business in this state. Commonwealth v. Monessen Amusement Co., 352 Pa. 120, 42 A.2d 158 (1945); Commonwealth v. Ford Motor Co., 350 Pa. 236, 38 A.2d 329, appeal dismissed, 324 U.S. 827, 65 S.Ct. 857, 89 L.Ed. 1394 (1944); Commonwealth v. Columbia Gas & Electric Corp., 336 Pa. 209, 8 A.2d 404 (1939).\nThe value of the franchise is computed by multiplying the value of the corporation\u2019s capital stock by the arithmetic mean of three fractions: the tangible property fraction, the compensation fraction, and the gross receipts fraction. These three fractions are calculated as follows:\nTo encourage manufacturing in the Commonwealth, the franchise tax statute permits a taxpayer to reduce its tax liability by excluding from the numerator of the tangible property fraction the value of the taxpayer\u2019s tangible property in Pennsylvania \u201cactually and exclusively used in manufacturing;\u201d from the numerator of the compensation fraction, the compensation paid its employees \u201cexclusively engaged in manufacturing in this Commonwealth;\u201d and from the numerator of the gross receipts fraction, gross receipts \u201cfrom business strictly incident or appurtenant to manufacturing in this Commonwealth.\u201d\nAppellant J. L. Mott Corp. is a New Jersey Corporation empowered by its articles of incorporation to engage in manufacturing and authorized to do business in Pennsylvania. It does not, however, manufacture anything in Pennsylvania. During the tax year in question, appellant owned certain industrial plants in Philadelphia which it leased to other corporations which used the property in manufacturing. In computing its franchise tax liability, appellant sought to exclude the rental receipts from this property from the numerator of the gross receipts fraction as receipts from business incident or appurtenant to manufacturing. The Department of Revenue concluded that appellant was not entitled to the exclusion and settled appellant\u2019s tax accordingly. Appellant petitioned the Board of Finance and Revenue for review which was denied. The Commonwealth Court affirmed the denial of the petition and entered judgment in favor of the Commonwealth. This appeal ensued.\nAppellant claims that it is entitled to the deduction because the receipts from the rental of manufacturing plants are \u201cgross receipts from business strictly incident or appurtenant to manufacturing.\u201d We cannot agree.\nIn Commonwealth v. Weldon Pajamas, Inc., 482 Pa. 481, 248 A.2d 204 (1966), we were faced with an analogous problem. In that case, Weldon Pajamas, a New York corporation authorized to do business in Pennsylvania purchased cloth and shipped it to its Pennsylvania subsidiary which manufactured the cloth into pajamas and stored them in its warehouse. The finished products were shipped to Weldon Pajamas\u2019 customers on Weldon Pajamas\u2019 order. Throughout, the cloth, the goods in process, and the inventory were the property of Weldon Pajamas.\nIn its 1959 franchise tax report, the taxpayer sought to exclude the average value of the raw materials, goods in process and the finished inventory from the numerator of the tangible property fraction. It maintained that these were tangible property \u201cactually and exclusively\u201d used in manufacturing and thus excludable from that fraction. It also sought to exclude the wages and salaries of its Pennsylvania employees from the compensation fraction. These were claimed to be compensation paid employees \u201cexclusively engaged in manufacturing in this Commonwealth\u201d and thus also excludable from the appropriate fraction.\nOn the basis of our analysis of the franchise tax statute and its history, we held that tangible property and compensation are excludable from the appropriate fraction under the manufacturer\u2019s exemption only when the taxpayer is actually engaged in manufacturing in Pennsylvania and the tangible property and the employees to whom the wages and salaries are paid are employed in the taxpayer\u2019s Pennsylvania manufacturing business. Because Weldon Pajamas did not actually engage in manufacturing in Pennsylvania, we held that it was not entitled to the claimed exclusions.\nAlthough we did not address in Weldon Pajamas whether the principles there stated also apply to the computation of the gross receipts fraction, there is no reason why a different rule should be followed in this computation. We therefore hold that receipts are \u201cgross receipts from business . . . strictly incident or appurtenant to manufacturing\u201d only when they result from the taxpayer\u2019s actual manufacturing activities in the state. Because appellant admittedly engages in no manufacturing activities in Pennsylvania, it may not under this statute exclude its rental receipts from the numerator of the fraction.\nAppellant, however, claims that the Act of July 11, 1901, P.L. 688, \u00a7 1, 72 P.S. \u00a7 1893 (1949), creates an exception to the requirement that the firm claiming the exclusion must actually be engaged in manufacturing in Pennsylvania. The Act of 1901 provides:\n\u201cNo corporation . . . organized for manufacturing purposes, whose manufacturing plant or plants, in whole or in part, are or may be leased to another corporation, limited partnership, individual or individuals, shall, by reasons of such leasing, be deprived of the exemption from taxation upon its capital stock or any part thereof, to which under existing law it would be entitled if such lease had not been made.\u201d\nInitially we note this Act, by its terms, would seem to apply only to the capital stock tax. Because we conclude that appellant is not entitled to avail itself of this provision in any event, we need not decide (1) whether the Act of 1901 applies to the franchise tax and (2) whether if applicable it would permit the claimed exclusion for a taxpayer qualifying under its provisions.\nThe Act of 1901 operates only to protect a Pennsylvania manufacturer which leases its plants to others from being deprived of an exemption to which it would otherwise be entitled by another statute. Thus for the provisions of this Act to apply, the taxpayer must show that prior to the lease, it was entitled to the exclusion under another statute. To conclude otherwise would permit corporations engaged only in real estate investment to obtain the tax benefits created by the Legislature exclusively for Pennsylvania manufacturers.\nHere appellant claims that the Act of 1901 permits it to take the manufacturer\u2019s exemptions created by the franchise tax statute. However, the record is barren of any evidence that prior to the lease appellant ever actually engaged in manufacturing in Pennsylvania. Appellant was therefore not entitled to the exemption prior to the lease. Thus appellant is not \u201cby reason of such leasing be[ing] deprived of [an] exemption to which . it would be entitled if such lease had not been made.\u201d Appellant may not avail itself of the Act of 1901\u2019s provisions.\nThe Commonwealth Court having correctly determined that appellant was not entitled to the claimed exception, the judgment must be affirmed.\nJudgment affirmed.\nMANDERINO, J., did not participate in the consideration or decision of this case.\n. During the tax year in question the tax was imposed by the Act of May 16, 1935, P.L. 184, \u00a7 1, amending the Act of June 1, 1889, P.L. 420, \u00a7 21, formerly codified as 72 P.S. \u00a7 1871(b). It provided in pertinent part:\n\u201c(b) Every foreign corporation, joint-stock association, limited partnership, and company whatsoever, from which a report is required under the twentieth section hereof, shall be subject to and pay into the treasury of the Commonwealth annually, through the Department of Revenue, a franchise tax at the rate of five mills upon a taxable value to be determined in the following manner. The actual value of its whole capital stock of all kinds, including common, special, and preferred, shall be ascertained in the manner prescribed in the twentieth section of this act, and shall then be divided into three equal parts.\n\u201c(1) Of one third, such portion shall be attributed to business carried on within the Commonwealth, as shall be found by multiplying said third by a fraction, whose numerator is the value of the taxpayer\u2019s tangible property not actually and exclusively used in manufacturing, situated within the Commonwealth, and whose denominator is the value of all the taxpayer\u2019s tangible property wherever situated.\n\u201c(2) Of another third, such portion shall be attributed to business carried on within the Commonwealth, as shall be found by multiplying said third by a fraction, whose numerator is the expenditures of the taxpayer for wages, salaries, commissions, or other compensation to its employes not exclusively engaged in manufacturing in this Commonwealth and assignable to this Commonwealth as hereinafter provided, and whose denominator is the total expenditures of the taxpayer for wages, salaries, commissions, or other compensation to all its employes.\n\u201c(3) Of the remaining third, such portion shall be attributed to business carried on within the Commonwealth, as shall be found by multiplying said third by a fraction, whose numerator is the amount of the taxpayer\u2019s gross receipts from business not strictly incident or appurtenant to manufacturing in this Commonwealth assignable to this Commonwealth as hereinafter provided, and whose denominator is the amount of the taxpayer\u2019s gross receipts from all its business.\n\u201cThe sum of the amounts, determined in accordance with the foregoing three rules, shall be the taxable value. In a case where only two of the foregoing three rules are applicable, the remaining third equal part of the value of the entire capital stock shall be divided into two equal parts, each of which shall be apportioned in accordance with one of the remaining two rules. If only one of the three rules is applicable, that part of the entire capital stock attributed to business carried on within the Commonwealth shall be determined solely by that rule.\u201d\nSubsequently the Act of 1889 and the Act of 1915, as amended, were repealed by the Act of March 4, 1971, P.L. 92, art. VI, \u00a7 605 and reenacted by the Act of March 4, 1971, P.L. 6, \u00a7 602, 72 P.S. \u00a7 7602 (Supp.1975).\n. More precisely, it owned an undivided one-third interest in the plants. In its tax report, appellant sought to exclude only its share of the rental receipts.\n. Appellant in its tax report also excluded from the numerator of the tangible property fraction the value of its share of the property leased to others, and from the numerator of the compensation fraction, the compensation paid employees who maintained the property. In settling appellant\u2019s tax, the Department of Revenue permitted the exclusion from the tangible property fraction but not the exclusion from the compensation fraction. The Commonwealth Court concluded that the Department of Revenue correctly refused to permit the exclusion from the compensation fraction. Appellant does not now challenge that holding.\n. J. L. Mott Corp. v. Commonwealth, 12 Pa.Cmwlth. 493, 316 A.2d 921 (1974) (unanimous).\n. See Appellate Court Jurisdiction Act of 1970, Act of July 31, 1970, P.L. 673, art. II, \u00a7 203, 17 P.S. \u00a7 211.203 (Supp.1975).\n. See Commonwealth v. Weldon Pajamas, supra, at 484, 248 A.2d at 205 (dictum).",
+        "type": "majority",
+        "author": "ROBERTS, Justice."
+      }
+    ],
+    "attorneys": [
+      "Harry J. Rubin, Krekstein, Rubin & Lasday, Harrisburg, for appellant.",
+      "Eugene J. Anastasio, Deputy Atty. Gen., Dept, of Revenue, Harrisburg, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "345 A.2d 650\nCOMMONWEALTH of Pennsylvania v. J. L. MOTT CORPORATION, Appellant.\nSupreme Court of Pennsylvania.\nArgued May 6, 1975.\nDecided Oct. 3, 1975.\nHarry J. Rubin, Krekstein, Rubin & Lasday, Harrisburg, for appellant.\nEugene J. Anastasio, Deputy Atty. Gen., Dept, of Revenue, Harrisburg, for appellee.\nBefore JONES, C. J., and EAGEN, O\u2019BRIEN, ROBERTS, POMEROY and NIX, JJ."
+  },
+  "file_name": "0539-01",
+  "first_page_order": 573,
+  "last_page_order": 580
+}

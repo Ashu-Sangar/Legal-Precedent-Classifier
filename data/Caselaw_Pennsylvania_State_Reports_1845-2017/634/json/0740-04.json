@@ -1,0 +1,70 @@
+{
+  "id": 12281841,
+  "name": "Com. v. Adcock",
+  "name_abbreviation": "Com. v. Adcock",
+  "decision_date": "2015-12-29",
+  "docket_number": "295 WAL (2015)",
+  "first_page": "740",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 740"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "ocr_confidence": 0.755,
+    "sha256": "4e0924fd459b0af9dc3c77fbfb41428d789cfabe104a1f9c2e17477f96d48a2f",
+    "simhash": "1:6573e04dba0ff7fe",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Adcock"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 460",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Adcock\n12/29/2015\n295 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0740-04",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

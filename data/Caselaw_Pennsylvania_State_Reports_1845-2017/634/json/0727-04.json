@@ -1,0 +1,70 @@
+{
+  "id": 12280692,
+  "name": "Com. v. Ramzee",
+  "name_abbreviation": "Com. v. Ramzee",
+  "decision_date": "2015-12-22",
+  "docket_number": "685 MAL (2015)",
+  "first_page": "727",
+  "last_page": "727",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 727"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 90",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.887,
+    "sha256": "4baa76395a14de44c438e91c8556e54cda6a9addeb39cf8800cfdc6f76a7ef07",
+    "simhash": "1:9902caa8c01a6911",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Ramzee"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 90",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Ramzee\n12/22/2015\n685 MAL (2015)"
+  },
+  "file_name": "0727-04",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

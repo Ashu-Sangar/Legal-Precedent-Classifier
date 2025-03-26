@@ -1,0 +1,143 @@
+{
+  "id": 1912408,
+  "name": "Commonwealth v. Sapp, Petitioner",
+  "name_abbreviation": "Commonwealth v. Sapp",
+  "decision_date": "1968-02-15",
+  "docket_number": "Appeal, No. 122",
+  "first_page": "377",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "428 Pa. 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "227 A. 2d 168",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "424 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1905012
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/424/0394-01"
+      ]
+    },
+    {
+      "cite": "227 A. 2d 845",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "424 Pa. 576",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1904951
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "581"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/424/0576-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 199,
+    "char_count": 2168,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 2.3386320414108634e-07,
+      "percentile": 0.7919210733907652
+    },
+    "sha256": "a012e7f44dbde0e8d408ce4d135dbcb58ffde5087eccb9c1551c9167799c6145",
+    "simhash": "1:b2db8ce95af8edb6",
+    "word_count": 369
+  },
+  "last_updated": "2024-02-27T22:12:57.337362+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Sapp, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Roberts,\nSteve Sapp was sentenced after a plea of guilty to a minimum of five and a maximum of ten years on one count of burglary and one count of larceny. After serving approximately three and one-half years of this sentence, Sapp filed in April of 1967 a petition under the Post Conviction Hearing Act. This petition was denied without a hearing by the Court of Quarter Sessions of Westmoreland County and this denial affirmed without opinion by the Superior Court. A petition for allocatur was filed and is hereby granted.\nSapp alleged, an allegation uncontradicted of record, that trial counsel did not inform him that he had the right to the assistance of counsel for purposes of appeal. Nor does it appear of record that the trial court so informed Sapp. Thus, a denial of the right mandated in Douglas v. California, 372 U.S. 353, 83 S. Ct. 814 (1963) was alleged. Section 9 of the Post Conviction Hearing Act, Act of January 25, 1966 P. L. (1965) 1580, \u00a79, 19 P.S. \u00a71180-9 (Supp. 1966), clearly requires that a hearing be held when a petition alleges facts which, if proven, would entitle petitioner to relief. A hearing on Sapp\u2019s Douglas claim was therefore necessary.\nWe reject, as we have in the past, the Commonwealth\u2019s theory that the grant of Douglas relief after the entry of a guilty plea would be fruitless. This argument is premised upon the fact a conviction based upon a plea of guilty offers no grounds for appellate attack, a premise rejected in both Commonwealth ex rel. Neal v. Myers, 424 Pa. 576, 581, 227 A. 2d 845, 847 (1967) and Commonwealth ex rel. Booker v. Maroney, 424 Pa. 394, 403, 227 A. 2d 168, 174 (1967).\nThe order of the Superior Court is reversed. The order of the Court of Quarter Sessions of Westmoreland County is reversed and the record remanded to that court for proceedings consistent with this opinion.",
+        "type": "majority",
+        "author": "Mr. Justice Roberts,"
+      }
+    ],
+    "attorneys": [
+      "Steve Sapp, petitioner, in propria persona.",
+      "Qilfert M. Mihalieh, Assistant District Attorney, and Joseph M. Loughran, District Attorney, for Commonwealth, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Sapp, Petitioner.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nSteve Sapp, petitioner, in propria persona.\nQilfert M. Mihalieh, Assistant District Attorney, and Joseph M. Loughran, District Attorney, for Commonwealth, respondent.\nFebruary 15, 1968:"
+  },
+  "file_name": "0377-01",
+  "first_page_order": 481,
+  "last_page_order": 483
+}

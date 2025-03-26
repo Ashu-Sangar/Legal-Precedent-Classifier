@@ -1,0 +1,626 @@
+{
+  "id": 905058,
+  "name": "Commonwealth v. James A. Clemmer, Appellant",
+  "name_abbreviation": "Commonwealth v. Clemmer",
+  "decision_date": "1899-03-13",
+  "docket_number": "Appeal, No. 349",
+  "first_page": "202",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "190 Pa. 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "98 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 Pa. 291",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061168
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/88/0291-01"
+      ]
+    },
+    {
+      "cite": "91 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        488409
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/91/0057-01"
+      ]
+    },
+    {
+      "cite": "85 Pa. 139",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        440508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/85/0139-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. 187",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1053584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/84/0187-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. 107",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1053525
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/84/0107-01"
+      ]
+    },
+    {
+      "cite": "44 Ark. 122",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1893402
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/44/0122-01"
+      ]
+    },
+    {
+      "cite": "83 Ga. 549",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        73342
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/83/0549-01"
+      ]
+    },
+    {
+      "cite": "23 Fla. 478",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1120504
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/fla/23/0478-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 459",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842768
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0459-01"
+      ]
+    },
+    {
+      "cite": "25 S. W. Rep. 590",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "89 Ky. 555",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        2347885
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/89/0555-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 463",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988397
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0463-01"
+      ]
+    },
+    {
+      "cite": "8 Pa. C. C. 11",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Kulp, 505",
+      "category": "reporters:state",
+      "reporter": "Kulp",
+      "opinion_index": -1
+    },
+    {
+      "cite": "118 Pa. 77",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        556769
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/118/0077-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842343
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0160-01"
+      ]
+    },
+    {
+      "cite": "55 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1470671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/55/0468-01"
+      ]
+    },
+    {
+      "cite": "29 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        982793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/29/0129-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 424",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856301
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0424-01"
+      ]
+    },
+    {
+      "cite": "2 Rawle, 139",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1820636
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/2/0139-01"
+      ]
+    },
+    {
+      "cite": "74 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1034729
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/74/0458-01"
+      ]
+    },
+    {
+      "cite": "36 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        992198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/36/0305-01"
+      ]
+    },
+    {
+      "cite": "38 Md. 15",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1840680
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/38/0015-01"
+      ]
+    },
+    {
+      "cite": "28 S. E. Rep. 908",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "45 Ark. 328",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1892045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/45/0328-01"
+      ]
+    },
+    {
+      "cite": "6 S. W. Rep. 720",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "110 N. Y. 317",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2215734
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/110/0317-01"
+      ]
+    },
+    {
+      "cite": "21 Mich. 24",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1315330
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/21/0024-01"
+      ]
+    },
+    {
+      "cite": "16 Mass. 220",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035325
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/16/0186-01"
+      ]
+    },
+    {
+      "cite": "14 Pick. 196",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2019023
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/31/0196-01"
+      ]
+    },
+    {
+      "cite": "8 Pa. Superior Ct. 30",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        286907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/8/0030-01"
+      ]
+    },
+    {
+      "cite": "103 Mass. 440",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2146253,
+        2146263
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/103/0440-01",
+        "/mass/103/0440-02"
+      ]
+    },
+    {
+      "cite": "17 Pa. 288",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 W. & S. 338",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1854659
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/3/0338-01"
+      ]
+    },
+    {
+      "cite": "67 Pa. 386",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1022522
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/67/0386-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 338",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430593
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/65/0059-01"
+      ]
+    },
+    {
+      "cite": "41 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479968
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/41/0102-01"
+      ]
+    },
+    {
+      "cite": "4 Watts, 51",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842719
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0051-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452149
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0339-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988445
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0338-01"
+      ]
+    },
+    {
+      "cite": "82 Pa. 306",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047901
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/82/0306-01"
+      ]
+    },
+    {
+      "cite": "84 Pa. 276",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1053564
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/84/0276-01"
+      ]
+    },
+    {
+      "cite": "181 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        891452
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/181/0017-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1065572
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/90/0192-01"
+      ]
+    },
+    {
+      "cite": "96 Pa. 344",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        494665
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/96/0344-01"
+      ]
+    },
+    {
+      "cite": "118 Pa. 77",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        556769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/118/0077-01"
+      ]
+    },
+    {
+      "cite": "96 Pa. 344",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        494665
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/96/0344-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1604,
+    "char_count": 47910,
+    "ocr_confidence": 0.456,
+    "pagerank": {
+      "raw": 3.228810846229607e-07,
+      "percentile": 0.8675714298401181
+    },
+    "sha256": "401e17aafd6814382252d941dff66862002c887295836c35a91c37807b861117",
+    "simhash": "1:b74a6030472ce4b8",
+    "word_count": 8332
+  },
+  "last_updated": "2024-02-27T21:33:51.582649+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Sterrett, C. J., Williams, McCollum, Mitchell, Dean and Fell, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. James A. Clemmer, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Sterrett,\nOn an indictment properly charging the defendant, James A. Clemmer, with the murder of Emma P. Kaiser, on the evening of October 28, 1896, he was duly tried, found guilty of murder of the first degree and sentenced to suffer the penalty affixed by the law to that high felony.\nThe testimony introduced by the commonwealth tended strongly to prove not only that Mrs. Kaiser was brutually murdered at the time and place laid in the indictment, but also that the murder was committed by the defendant and Charles O. Kaiser, Jr., the murdered woman\u2019s husband, in pursuance of a conspiracy, the object of which was to secure the proceeds of certain policies of insurance which had been placed on Mrs. Kaiser\u2019s life; that, while driving with her husband, Mrs. Kaiser was intentionally shot and killed by the defendant, who, at the same time, and in pursuance of the prearranged plan, shot and wounded her husband in the arm. On the trial, the murdered woman\u2019s husband testified, in substance, that the defendant fired the fatal shot. One of the commonwealth\u2019s witnesses, Elizabeth DeKalb, testified that the defendant admitted his guilt to her and gave her Mrs. Kaiser\u2019s watch, with instructions to throw it away. Letters from the defendant to the same witness, urgently requesting her not to testify against him, were also produced and put in evidence by the commonwealth. It was also testified that on the evening of the murder the defendant had hired a horse which was subsequently seen near the scene of the murder; and one of the witnesses identified the defendant as a person he had seen near the place of the shooting and about the time it occurred. Numerous facts and circumstances were also in evidence which tended to corroborate the commonwealth\u2019s witnesses and establish the fact of defendant\u2019s guilty participation hi the murder. Among these were his admissions and expressions to several persons, tending- to show his knowledge of the killing of Mrs. Kaiser; also his flight from the state, change of his name, and the finding of the murdered woman\u2019s watch at Pottsville, where Elizabeth DeKalb testified she had dropped it at the defendant\u2019s request. Without further reference to the substance of the evidence on which the commonwealth relied, it is sufficient to say that, if believed by the jury, it was quite sufficient to establish the corpus delicti, and the fact that the defendant actively participated in the murder of Mrs. Kaiser, under circumstances which indicate that the killing was wilful, deliberate and premeditated \u2014 a coldblooded murder.\nAfter a fair and impartial trial, in which all the defendant\u2019s rights appear to have been carefully guarded, the case was fairly. submitted to the jury in a clear, comprehensive and fully adequate charge, to which no just exception can be taken, and they by their verdict pronounced him guilty of murder of the first degree. A subsequent consideration of the defendant\u2019s motion in arrest of judgment, reasons for a new trial, etc., appears to have satisfied the learned tidal court that there was no material error in the proceedings leading up to and including the verdict; and thereupon, final judgment was pronounced. Our consideration of the record, including the rulings and instructions of the court, has satisfied us all as to the substantial correctness of the proceeding in the court below; and we might well conclude with an affirmance of the judgment, but the zealous efforts of counsel in behalf of their client have induced them to present numerous specifications of error, nearly all of which have been satisfactorily disposed of by the learned trial judge in his opinion overruling the motion in arrest of judgment and reasons for new trial.\nThe first specification charges error in refusing to quash the array of petit jurors on the ground that John H. McDowell, who participated in the selection of the persons whose names were placed in the jury wheel, was not eligible to the office of jury commissioner at the November election in 1897. This is the result of an erroneous construction of the act under which Mr. McDowell was re-elected jury commissioner in 1897, but if this were not so, a sufficient answer to the objection is that, as against all parties except the commonwealth, his acts as jury commissioner, under his second election, could not be called in question. He was at least jury commissioner de facto: Campbell v. Commonwealth, 96 Pa. 344. In that case, two persons sat as associate judges not learned in the law, and participated with the president of the court in the trial and sentence of persons convicted of arson. It was objected that under the present constitution the electors of the county in which the court sat had no power to elect lay judges; but this Court held that the associate judges in question were judges de facto, and as against everybody except the commonwealth they were judges de jure, and that their title to the office they respectively held could not be questioned in any other way than by writ o\u00a3 quo warranto at the suit of the commonwealth.\nThe second, fourth and fifth specifications, relating to the refusal of the court to quash the array of petit jurors, because certain names that had been in the previous array, which had been quashed, had been again placed in the wheel, etc., cannot be sustained. It appeared that the former array had been quashed by the court because of an irregularity hr the method of selection, and not because of any objection to the jurors themselves. The learned judge of the court below, in his opinion on the motion in arrest of judgment, says: \u201cEach commissioner and the judge came in with new lists made up without reference to those who had been selected in January. It was in every sense a new selection from the body of the county, even if some names were the same as had been before deposited \u201d in the wheel. It thus clearly appears that the defendant could not have been in any way injured by the action of the jury commissioners.\nThere is no merit in the third specification which complains of the court\u2019s action in sending the bill of indictment on which the defendant was convicted before the grand jury while a previous indictment was pending. In Rosenberger v. Com., 118 Pa. 77, it was said: \u201c It was also urged that no conviction could be bad upon tbe second indictment so long as the first\u2014 the missing indictment \u2014 was undisposed of. There is no merit in this. If both indictments had been in court, the defendant could have been tried on either.\u201d\nThe sixth specification, alleged incompetency of Charles O. Kaiser, Jr., as a witness for the commonwealth, because he had been previously convicted of murder and, when called, was under sentence of death. Under the Act of May 28, 1887, P. L. 158, we think he was clearly a competent witness.\nThe seventh to the thirteenth specifications, inclusive, and also the twenty-first specification, relating to various rulings of . the court below on evidence offered to prove that the motive of the murderer was to obtain the proceeds of insurance policies on the life of the murdered woman, cannot be sustained. There was uo error in any of these rulings. Nor do we find any error in the instructions referred to in the fourteenth to the twentieth specifications, inclusive, and in the twenty-second and twenty-third specifications. There is nothing in either of them that requires extended comment.\nWe find nothing in the record to justify the two remaining specifications. They both appear to be lacking in fairness to the learned trial judge. The amount of testimony introduced by the defendant was very much less than that of the commonwealth, and it is not at all surprising that the time required for necessary reference to the former should be very much less than that necessarily occupied in calling the jury\u2019s attention to the latter.\nFourteen points for charge, bearing on nearly every possible phase of the defense, were submitted to and answered by the learned trial judge quite as favorably to the defendant as he was entitled to. Ten of these points were affirmed without qualification, two were properly qualified and the remaining two were refused. Neither of the four that were not affirmed without qualification has been assigned as error.\nIn affirming the following points without qualification the learned judge instructed the jury, in the language thereof, as follows:\n\u201c2. In order to justify an inference of guilt the inculpatory facts must be incompatible with the innocence of the accused and incapable of explanation upon any other reasonable hypothesis than that of guilt.\n\u201c 3. It is not sufficient that the circumstances, pointing to guilt create a probability, even a strong probability, of the prisoner\u2019s guilt; but to convict, the jury must be convinced beyond a reasonable doubt that the circumstances exclude, to a moral certainty, every other hypothesis except that of guilt. . . .\n\u201c5. Questions, concerning the identity of persons, animals and vehicles are liable to confusion, uncertainty and mistake, and before the jury can convict the prisoner of the murder of Emma P. Kaiser it must be convinced beyond a reasonable doubt that the prisoner was present and either assisted in the killing, or was present counseling and abetting it. . . .\n\u201c 8. An accomplice occupies a position of disrepute; and from the very character of such a witness, the law and the courts look with great caution upon their testimony, whilst their credibility is for the jury, yet taking into account their disreputable character and position, it would be very dangerous and unsafe for the jury to convict the prisoner upon such testimony. . . .\n\u201c 10. The burden of proof rests upon the commonwealth from first to the last to satisfy the jury beyond a reasonable doubt that the prisoner either committed the murder of Emma P. Kaiser, or aided, assisted or abetted it, or they must render a verdict of not guilty.\n\u201c 11. The presumption of innocence clings to the prisoner through every successive step of his trial, and this presumption is never weakened, relaxed or destroyed until there is a conviction. . . .\n\u201c13. The testimony of Elizabeth DeKalb and Charles O. Kaiser, Jr., both being self-confessed accomplices, cannot be considered by the jury as corroborating each other; the testimony of each must stand alone, and it would be unsafe to convict the prisoner on such testimony unless such testimony is corroborated by other facts and circumstances independent of the testimony of both.\u201d\nThese and other instructions given by affirming other points of the defendant undoubtedly furnished as favorable a rule as he was entitled to for the guidance of the jury in dealing with the evidence before them. If other specific instructions were deemed desirable they should have been requested. The trial was conducted throughout with marked fairness and impartiality.\nWe have given to the consideration of this case that degree of care which the gravity of the judgment against the defendant demands, and our conclusion is that there is no error in the record before us that requires correction.\nThe judgment of the court below is therefore affirmed, and it is ordered that the record be remitted to said court for the purpose of execution.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Sterrett,"
+      }
+    ],
+    "attorneys": [
+      ".Errors assigned sufficiently appear by the opinion of the Supreme Court.",
+      "Edw. F. Kane, with him Henry M. BrownbaaJe, for appellant.",
+      "J. A. Strassburger, district attorney, and James B. Holland,"
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. James A. Clemmer, Appellant.\nJury commissioners \u2014 Election of \u2014 Re-election\u2014Act of April 10, 1867, sec. 1.\nSection 1 of the Act of April 10, 1867, P. L. 62, which provides that \u201cthe same person or persons shall not be eligible for re-election more than once in any period of six years,\u201d does not prohibit a re-election once in six years, or a continuous service of six years by an election and a reelection.\nCriminal law \u2014 Murder\u2014Quashing array of jurors \u2014 Jury commissioners.\nThe array of petit jurors in a murder case will not be quashed because of an alleged illegality of tenure of office of a jury commissioner, if it appears that such commissioner holds his office under color of an election by the people, and has actually entered upon it and is performing its duties. In such case he is a jury commissioner de facto, and, as against everybody except the commonwealth, he is a jury commissioner de jure. His title can be questioned only by writ of quo warranto at the instance of the commonwealth.\nThe court will not quash the array of petit jurors because certain names that had been in a previous array which had been quashed had been again placed in the wheel, where it appears that the former array had been quashed by the court because of an irregularity in the method of selection, and not because of any objection to the jurors themselves.\nCriminal law \u2014 Murder\u2014Indictment\u2014Pending indictment.\nA conviction of murder of the first degree will not be reversed because the trial court sent the bill of indictment on which the prisoner was convicted before the grand jury while a previous indictment, which was missing, was undisposed of.\nCriminal law \u2014 Murder\u2014Motive\u2014Evidence.\nIn a prosecution for murder., evidence tending to show that the motive of the murder was to obtain the proceeds of policies on the life of deceased was admissible.\nCriminal law \u2014 Murder\u2014Evidence\u2014Competency of witness \u2014 Conviction of murder.\nOn the trial of an indictment for murder a person who has been convicted of murder and is under sentence of death at the time of the trial, is a competent witness on behalf of the commonwealth.\nMurder \u2014 Charge of court.\nThe fact that the trial judge took much more time in charging the jury in regard to the state\u2019s evidence than he did in charging as to defendant\u2019s evidence does not show any impropriety, where the state\u2019s evidence was much more voluminous than defendant\u2019s.\nCriminal law \u2014 Murder\u2014Evidence.\nAt a murder trial there was evidence that the murder was committed by the prisoner and the deceased woman\u2019s husband in pursuance of a conspiracy, the object of which was to secure insurance on the life of the deceased; that while driving with her husband the deceased was intentionally shot and killed by the defendant who, at the same time and in pursuance of the prearranged plan, shot and wounded her husband in the arm. The husband testified that the prisoner fired the fatal shot. Another witness testified that the defendant admitted his guilt to her, and gave her the deceased\u2019s watch with instructions to throw it away. Letters from the prisoner to this witness were offered showing urgent requests to her not to testify against him. There was also evidence that on the evening of the murder the prisoner had hired a horse which was subsequently seen near the scene of the murder; and one of the witnesses identified the prisoner as a person he had seen near the place of the shooting, and about the time it occurred. There was evidence of admissions of the prisoner tending to show his knowledge of the killing. There was also shown his flight from the state, change of his name, and the finding of the deceased\u2019s watch at the place where it had been thrown away at the prisoner\u2019s request. Held, that the evidence was sufficient to sustain a conviction of murder of the first degree.\nArgued Jan. 2, 1899.\nAppeal, No. 349, Jan. T., 1898, by-defendant, from judgment of O. and T. Montgomery Co., June T., 1898, No. 79, on verdict of guilty of murder of the first degree.\nBefore Sterrett, C. J., Williams, McCollum, Mitchell, Dean and Fell, JJ.\nAffirmed.\nIndictment for murder.\nThe facts appear by the opinion of the Supreme Court, and by the opinion of Weand, J., on motion in arrest of judgment and for a new trial, which opinion is as follows:\nAfter a trial lasting twelve days the defendant was found guilty of murder of the first degree, and now moves in arrest of judgment and for a new trial. As the motion in arrest of judgment is based upon the same reasons which, inter alia, are also urged as reasons for a new trial the motions will be considered together.\nThe unlawful killing of Emma Kaiser was proved beyond dispute. The evidence against the defendant was both direct and circumstantial. The direct testimony which proved his presence at the time and place of killing was that of Benjamin Hughes who identified him as being in the vicinity of the place of murder; of Elizabeth DeKalb to the same effect, and to whom Clemmer admitted his guilt and gave the murdered woman\u2019s watch to be thrown away, and of Charles O. Kaiser, Jr., the murdered woman\u2019s husband, who swore that Clemmer fired the fatal shot. Kaiser had been previously tried, convicted and sentenced for complicity in the crime. The circumstantial evidence consisted in evidence of Clemmer hiring a horse and driving in the direction of the murder with Elizabeth DeKalb, the identification of the horse near the place; the finding of Mrs. Kaiser\u2019s watch at Pottsville where Elizabeth DeKalb testified she dropped it at Clemmer\u2019s request; letters from Clemmer to Elizabeth DeKalb urging her not to testify and he would save her and not to turn him down, admissions and expressions of Clemmer to various persons showing knowledge of the murder, etc.; his presence at Norristown after Kaiser\u2019s arrest and his efforts to procure counsel for him; his flight from the state and change of name, with various other circumstances showing guilt.\nIf Elizabeth DeKalb\u2019s testimony was to be believed there could be no possible doubt of the prisoner\u2019s guilt. She was corroborated in a material part by the evidence of Benjamin Hughes whose testimony if believed completely destroyed the prisoner\u2019s defense. Thirty-eight reasons are assigned for a new trial. They refer to the competency of McDowell as a jury commissioner, to the filling of the jury wheel, to the competency of jurors, the competency of witnesses,\"the admission of testimony and the charge of the court, detached sentences of which are assigned and which do not give full weight to the charge as a whole. During the trial every ruling possible was made in defendant\u2019s favor, and the jury were told what was necessary to convict. The evidence was overwhelmingly against the prisoner, but we have gone all over the reasons for a new trial carefully in order that no injustice might be done him.\nFour grounds are assigned in support of the first reason :\n1. The claim is made that John H. McDowell, one of the jury commissioners who assisted in filling the jury wheel and drawing the jury therefrom for June term, 1898, was not a legally elected jury commissioner and that th\u00e9 array of jurors should for that reason be quashed. McDowell was elected in 1894 and re-elected in 1897. He was elected only twice, and consequently was not \u201cre-elected more than once in any period of six years.\u201d The prohibition is only against a re-election more than once in said period. If the legislature had intended that a jury commissioner should serve only one term in six years the most appropriate language would have been \u201cnot elected more than once,\u201d etc. Re-elected is a term that can bear but one meaning, i. e., to elect again \u2014 that is he shall not be again elected twice in six years. Webster\u2019s Dictionary defines re-elect, to elect again. The Century Dictionary defines it, re-elect, to elect again. Re-election \u2014election a second time for the same office, etc. When we say that A has been re-elected twice we mean that he has been elected three times \u2014 the word re-election referring to his second election. In speaking of B as having served as recorder for eighteen years we say that he has been re-elected five times. The period from which re-election is computed in all eases commences from the end of the first election. In this case therefore the six years during which John H. McDowell could not be re-elected dates from the expiration of his first term and he has been re-elected only once.\nBut even if we are in error in our construction of the act the right to this office cannot thus be attacked collaterally. McDowell is a de facto jury commissioner and before the office can be declared vacant or his election declared illegal he is entitled to a hearing and the remedy is by quo warranto at the instance of the commonwealth. As a jury commissioner de facto as against all parties but the commonwealth he is a jury commissioner de jure: Campbell v. Com., 96 Pa. 344; Shartzer v. School District, 90 Pa. 192; Gregg Township v. Jamison, 66 Pa. 468; Com. v. Yalsalka, 181 Pa. 17.\n2. The array of jurors for March term, 1898, was quashed by the court because of an irregularity in the method of selection and not because of any objection to the jurors themselves. At the same time the court directed that the names remaining in the jury wheel be taken therefrom and that 800 names be placed therein to serve for the balance of the current year. In pursuance of this order the names were taken from the wheel and de posited in a sealed envelope which remained unopened in the custody of the clerk of the jury commissioners until brought into court during this trial. The judge and two jury commissioners then refilled the wheel from names selected from the body of the county, not using the paper\u2019s on which the names of those taken from the wheel had been written. It happened that amongst the names thus deposited were a number who had been placed therein at the filling of the wheel in January,'1898, but none of whom except one had served as a juror during 1898. The first filling of the wheel was on January 12, 1898, and the second on April 20 and 21,1898. The first term of court in 1898 was the March term, beginning first Monday of March; the second term was June term, beginning first Monday in June.\nIt is now contended that, because the names of some of those who had been taken from the wheel had again been selected and deposited, the whole selection and filling was illegal. It was not' pretended or shown, but on the contrary it was disproved, that the names taken from the wheel were again bodily put back or that the ballots were again used. On the contrary each commissioner and the judge came with new lists made up without reference to those who had been selected in January. It was in every sense a new selection from the body of the county, even if some names were the same as had been before deposited. The case of Kell et al. v. Brillinger, 84 Pa. 276, did not present the same facts for in that case after the names had been taken from the wheel they were divided amongst the commissioners and again redeposited. That was not a new selection. In the present case 800 names were again prepared irrespective of those that had been taken out and were deposited alternately as required by law. The persons whose names were taken from the wheel by direction of the court were not ineligible. The commissioners were required to make a new selection only and not to adopt the first one. If they had decided that the names taken from the wheel could not again be used in a new selection it would not have been from the body of the county, and if such is the law, in some counties with a sparse population if the array should be quashed more than once in any one year, there might not be enough persons subject to jury duty. In Com. v. Baranowski, 6 Pa. C. C. Rep. 157, Judge Pershing in quashing an array and directing a refilling ordered that the names of those men in the jury wheel should be excluded in the new selection, but afterward concluded that such action was in contravention of the act which requires jurors to be selected from the whole qualified electors of the county, and he revoked his former order. This reason is therefore overruled.\n8. When the jury commissioners and judge met to take out the names from the wheel and again fill it, the wheel was produced and the sheriff was obliged to be present to unlock it. The names were then taken out by the sheriff or commissioners, but certainly in the presence of the judge and commissioners, and under their supervision and direction. We do not see any irregularity or impropriety in this, even if we admit that the sheriff removed the names. The essential act was to empty the wheel. This was done by direction of and in presence of the jury commissioners, and by no possibility could this defendant be injured by such action.\n4. This reason is partly disposed of by our ruling on the second reason. John P. Jones had served as a petit juror at March sessions, and by mistake his name was again placed in the wheel at the refilling. He had been drawn and served as a juror at March sessions before the array was quashed, but was not drawn for the June term at which this case was tried. The requisite number of jurors were drawn and appeared at tbe June term and defendant, therefore, had no cause of complaint, for he was not injured in his challenges. The act of assembly forbids the return to the wheel of the name of any person who may have served as a juror during the year in which such service shall be rendered, and provides a penalty on the officer who shall intentionally do so, but this is a matter of which the defendant cannot complain as it did not curtail his challenges. A defendant has no right to any particular jurors, nor can he complain that a less number of qualified persons were summoned: Buchanan v. Com., 5 Central Rep. 738 : Holland v. Com., 82 Pa. 306; Foust v. Com., 33 Pa. 338. If this reason should sustain a challenge to the array, then the placing of the name of any one unqualified person in the jury wheel would always be a ground for challenge. Considering the difficulty of selecting 1,000 names, as is now done in Montgomery county at the beginning of each year, it would be almost impossible not occasionally to make a mistake arising from change of residence, death, noncitizenship and other causes. This view of the law would make it absurd, and we cannot sustain the view of defendant\u2019s counsel.\nFive grounds are assigned in support of the second reason tor a new trial:\nFirst. This ground is not sustained by the fact and the record. The second bill of indictment was sent before the grand jury by leave of court, and the first bill was quashed before commencement of the trial on the second bill, the reason assigned being that the first bill was found by a grand jury composed of the array which had been quashed. In Smith v. Com., 104 Pa. 339, it was ruled that the pendency of an indictment is not ground for a plea in abatement to a second indictment, charging substantially the same offense.\nThe second, third, fourth and fifth grounds under second reason are precisely the same as those advanced under the first reason. The same reasoning applies, and the second reason is overruled.\nThe third, fourth, fifth, sixth, seventh and eighth reasons are based upon the qualifications of the jurors named therein upon the ground that they were of those deposited in the jury wheel in January, and again deposited in April, none of them having served during the year. We have already disposed of this matter in ruling under the first and second reasons.\nNinth. The offer complained of in this reason was to prove a matter having no possible relation to the case on trial. The act offered to be proved was something which, if true, occurred long after the murder, and had no possible connection with it. It was an attempt to contradict a witness on an immaterial and foreign matter brought out by the defense. If a witness be cross-examined as to a matter irrelevant to the issue, the party cannot discredit him by proving that he has testified falsely in relation thereto; a party who cross-examines a witness as to a collateral fact is bound by his answers : Griffith v. Eshelman, 4 Watts, 51; Wright v. Cumpsty, 41 Pa. 102; Hildeburm v. Curran, 65 Pa. 59.\nTenth. The defendant had written several letters to the witness DeKalb cautioning her to keep silent and he would prove her innocence. These ietters showed that defendant desired the witness not to testify and contained other matter which could be construed into a knowledge of the crime. They were clearly evidence against the defendant and were admissible for various reasons. In one of them he said he was in great danger, and they all referred to her arrest in connection with the murder and were of such a character throughout as to show his complicity in the crime charged against him and in fact were admissions of guilt.\nEleventh. When Charles O. Kaiser, Jr., was called as a witness he was objected to as incompetent upon the ground that he had been found guilty of murder in the first degree and sentenced to be hanged. Kaiser was a willing witness in the sense that he was willing to testify, although it would implicate himself. He was allowed to testify, and this is assigned as error. Whatever may have been the status of this witness before the passage of the act of 1887 we think that under said act he was competent. The object of the act itself and those which preceded it relating to the competency of witnesses was to render all persons competent except a certain class designated in the act of 1887. Before the passage of the enabling acts a defendant in a criminal proceeding amounting to a felony was incompetent as a witness. This was not by statute but a common-law disqualification \u2014 our criminal laws did not refer to the subject and in Com. v. Shaver, 8 W. & S. 338, Judge Kennedy said, \u201c It has unquestionably been clearly settled that the conviction of a person of an infamous crime, renders him incompetent to be a witness thereafter,\u201d and the offenses which disqualify a person to give evidence, when convicted of tlxe same, are treason, felony and \u201c every species of the eximen falsi \u2014 such as forgery, perjury,\u201d etc. In Schuylkill Co. v. Copley, 67 Pa. 386, Judge Agnew also says, \u201cInfamous crimes are treason, felony, and every species of the crimen falsi, such as forgery, perjury,\u201d etc. It will therefore be seen that the disqualification followed any conviction of felony whether murder, robbery, burglary and also perjury. When the legislature passed the act of 1887, it had knowledge that a conviction for certain offenses disqualified the person convicted as a witness. In order to distinguish between offenses that would hereafter disqualify and those that would not, the act specifies those in which persons are not competent and all other persons shall be fully competent. As perjury was an infamous crime, disqualifying as a witness, its retention in the act of 1887 as the one disqualification clearly evidences the intention to remove the disqualification in all other cases of conviction. At common law murder was no more an infamous crime than treason, felony or forgery. \u201c It is the infamy of the crime, and not the nature or mode of the punishment, that destroys competency: \u201d Schuylkill Co. v. Copley, 67 Pa. 386; Com. v. Shaver, 3 W. & S. 338. In Com. v. Barry, 8 Pa. C. C. R. 216, the defendant was indicted for an assault with an intent to kill, and offered himself as a witness. The record of his conviction and sentence for manslaughter was then offered in evidence for the purpose of impeaching his credit as a witness. In ruling on the subject Judge Arnold said: \u201c Under the old law the prisoner would not have been compelled to testify in any case. His conviction and sentence for a felony would have excluded him as an infamous person, etc. The objection to competency having been removed, by the development of the common law as well as by statute, the previous conviction and sentence of a witness may now be shown to affect his credibility.\u201d The object of all evidence is to develop the truth \u2014 under the old law the parties most cognizant of the fact were excluded, but time and experience has demonstrated that the best way to elicit the truth is to allow all persons to testify (except in enumerated cases), and allow the jury to pass upon the credibility of the witness. If defendant\u2019s contention is correct then, if Kaiser had been willing to admit his own guilt and Clemmer\u2019s innocence, he would have been excluded. The result of such ruling shows its impropriety; and if a conviction of murder disqualifies so also could a conviction for larceny, robbery, forgery, or any felony. Such lias not been the view taken by the courts since the passage of the act of 1887, for at least in this court convicted felons have been brought into court to testify without objection. It is strenuously urged that in law Kaiser was civilly dead because of his conviction and sentence. This doctrine has no place in the jurisprudence of Penn' sylvania. In 3 Am. & Eng. Ency. of Law (1st ed.), p. 27.\", it is thus defined: Civiliter mortuis \u2014 civilly dead. The legal punition or extinction of a person\u2019s rights and capacities among his fellow members of society. \u2014 Abbott\u2019s Law Diet. A man is said to be civilly dead when he has been attainted of treason or felony, etc. He must be attainted before he is incompetent as a witness. A conviction of a felony without attainder does not destroy the competency of a witness : Skinner v. Perot, 1 Ash. 57. In Pennsylvania there can be no attainder by legislation, for by the constitution it is expressly provided, sec. 18, art. 1, Declaration of Rights, \u201c No person shall be attainted of treason or felony by the legislature.\u201d By sec. 10, art. 1, Constitution of the United States, it is provided that \u201cNo state shall pass any bill of attainder.\u201d If there is an attaint it must therefore follow from the conviction. As the act of 1887 prescribed the qualification of witnesses, it removed the disqualification imposed by the common law, and thereafter all persons are witnesses except those convicted of perjury. In England and most of the United States the disqualification of infamy is removed by statute, leaving the fact of conviction to be proved for the consideration of the jury upon the sole question of credibility. Such is the present state of the law in California, Colorado, Connecticut, Delaware, Georgia, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Rhode Island, Vermont, Virginia and Wisconsin: 10 Am. & Eng. Ency. of Law (1st ed.), p. 612. The doctrine is odious and not in harmony with the more advanced humane ideas of modern society. We no longer treat criminals with the rigor of olden times but as human beings subject to punishment, but without the unreasonable consequences which followed conviction in the earlier ages. The basis of the exclusion of an infamous witness Avas the unreliability of his testimony, but that a man on the threshold of the grave, Avith every inducement then to speak the truth, should be disqualified, although the jury might believe him truthful, because he has been comdcted of a crime, has not been declared to be the law by any court in this state, and we are unwilling to adopt such a doctrine, except in the cases especially designated by the legislature.\nTwelfth. Certain shoe marks Avere discovered on the ground Avhere it was alleged the murder had been committed. The commonwealth AA'as endeavoring to show the condition of the ground as illustrating how the murder had been committed. It was claimed that Clemmer and Kaiser had committed the murder and, as bearing on the subject, Kaiser\u2019s shoes having a peculiar patch on the soles, were offered in evidence and compared with the marks on the ground. Kaiser identified the shoes as those he had on that night, and the marks on the ground compared with those on the shoes. It was part of the res geste, and it Avas the duty of the commonAvealth in the interest of the defendant to show the fact. The defendant contended that he was not present; and the testimony therefore as to Kaiser\u2019s being out of the wagon was in his interest. In any view however the evidence was competent and should not have been withheld by the commonwealth: Hollinshead v. Allen, 17 Pa. 288; Com. T. Pope, 103 Mass. 440.\nThirteenth, fourteenth and fifteenth. These reasons relate to the policies of insurance on the life of the murdered woman, and to recover which it was alleged the murder was committed. The commonwealth was endeavoring to prove a motive for the crime. Clemmer had told Elizabeth DeKalb that their object was to obtain this insurance money. When the commonwealth alleged that Clemmer and Kaiser had conspired to insure Mrs. Kaiser and then kill her it was certainly competent to prove the fact of insurance as bearing on motive.\nSixteenth. This evidence was admitted to contradict the prisoner and to prove his connection with Elizabeth DeKalb at a certain place in reference to a wagon alleged to have been stolen by her and which wagon was the one driven by Kaiser on the night of the murder.\nSeventeenth, eighteenth, nineteenth and twentieth referred to the policies of insurance, the admissibility of which testimony has been passed upon in our ruling.\nTwenty-first. This testimony related to the presence of the prisoner after the murder and the knowledge of his employer as to his whereabouts. It was competent for that purpose, but if incompetent worked no harm to defendant.\nTwenty-second. The evidence of Mr. Brunner was to contradict the defendant as to his presence in Norristown on the night of the murder and his actions on that occasion. It was important as testing his credibility and his desire to shield Kaiser. Mr. Brunner was not counsel for Clemmer.\nTwenty-third. Frank S. Mancill had been a witness in the ease of Com. v. Kaiser-and had testified as to the time he had arrived at the place of Mr. Dettra on the night of the murder. On the trial he fixed a slightly different time, and the commonwealth was allowed to call his attention to the discrepancy by asking him as to his testimony in the Kaiser case. We see no error in this.\nTwenty-fourth. The testimony of Elizabeth DeKalb was that the murder was to be committed as if done by highway robbers. That the newspapers stated this theory in one issue on the morning after the murder and the next day stated that the theory was doubted. That Clemmer had read the papers next day and became alarmed and made preparations for flight. When arrested in Newark he at once produced to the officer clippings from the record relating to the murder. This evidence bore strongly on his subsequent actions and flight and was corroborative of Elizabeth DeKalb\u2019s statement of what Clemmer had told her of the murder \u2014 its plan and how it was to be made to appear as a robbery.\nTwenty-fifth. Mrs. Hazzard had seen Kaiser drive past her house in the direction of the scene of the murder followed by another carriage which she described. The object and effect of her testimony was to show that Clemmer had driven past her house after Kaiser \u2014 other testimony showing the kind of carriage he had taken.\nTwenty-sixth. Criticism is made of the expression used by the court, \u201cYet by these letters Clemmer advises her not to go upon the stand, to stand mute, not to give him away.\u201d We were calling the attention of the jury to the effect of the letters and not to the exact language. The letters were read to the jury who could not mistake the words and meaning used in them. In one of the letters he asked her \u201c not to turn him down.\u201d\nIn Mann v. Cowan, 8 Pa. Superior Ct. 30, it is said, \u201cA trial judge is not held to a literal and verbatim statement of the testimony of a witness. It is only necessary that he should give correctly the substance of the testimony. If a serious mistake in quoting testimony is made by the judge, counsel should call his attention to it immediately after the charge.\u201d In ordinary parlance \u201c turning him down \u201d and \u201c giving him away \u201d have the same significance.\nTwenty-seventh. In instructing the jury as to their duty we called their attention to the testimony of certain witnesses as to the time mentioned by them and said: \u201c Here is where probably you may have some trouble in remembering the testimony of the different witnesses, but because you have this difficulty would be no reason why you should not arrive at a correct conclusion. It is your duty to examine all this testimony and reconcile it in the best manner possible. You are only required to reconcile that which is material to the case and which is necessary to point unerringly to the guilt of this defendant, and when you have done that to the best of your knowledge and ability, then you have discharged your duty under the law.\u201d The jury are here in effect told that immaterial testimony, which did not unerringly connect defendant with the murder need not prevent a conclusion; in other words, to exclude that which was irrelevant or not bearing on the guilt or innocence of the defendant and. which did not show his guilt unerringly. Why should the jury reconcile testimony not material or which did not point to his.guilt conclusively ? It was simply saying to the jury, immaterial testimony need not be considered, nor any testimony that does not point unerringly to Iris guilt. It was greatly in favor of defendant, for it confined their consideration alone to that which was necessary to convict. If the evidence claimed to establish guilt was contradictory it must be reconciled before there could be a conviction. If it did not have that tendency it need not be reconciled.\nNumbers twenty-eight, twenty-nine, thirty, thirty-one, thirty-two, thirty-three and thirty-four refer to answers to points and to the charge. After reviewing our answers to points and the charge we see no error on the matters here complained of.\nThirty-fifth. Elizabeth DeKalb testified that Clemmer had told her of the murder on the same night; that she assisted in burning his bloody cuffs and washing his bloody clothes; that he gave her Mrs. Kaiser\u2019s watch which she took to Bethlehem and Pottsville, and other facts which showed that she was at least an accessory after tide fact. It was necessary to say that she was implicated in order to explain the reason why she should be corroborated and the effect of her testimony as an accomplice, and besides the instruction was given in answer to defendant\u2019s thirteenth request for instruction.\nThirty-sixth. In tins instruction we simply called the attention of the jury to the watch and pistol as independent facts in the ease without passing upon their effect, leaving that to the jury. The place where the pistol was found and the finding of the watch in Pottsville were significant' facts to be considered by the jury in determining how and by whom the murder was committed. Elizabeth DeKalb\u2019s presence in Pottsville and the finding of the watch there were facts which taken in connection with the other testimony were important.\nThirty-seventh and thirty-eighth. Complaint is made that the court did not explain the prisoner\u2019s ease as fully and explicitly as that of the commonwealth. We endeavored to give the prisoner the benefit of every doubt and repeatedly told the jury of their duty to recall all the testimony and not rely alone upon that referred to by the court. It would be almost impossible without reading the entire notes for the court to refer to every circumstance. We tried to recall the prominent points for and against the prisoner, and if the preponderance was in favor of the commonwealth it was because there were so few in favor of the prisoner. His defense consisted of his own unsupported assertion that he was not at the scene of the murder and there was nothing for the court to dilate upon. Considering the length of time taken in the trial of this case, the volume of testimony and the number of witnesses, it is of course easy to say that all matters were not recalled to the jury. This is not unusual in trials of this character, but unless serious omissions are made or unless the court unfairly presents the ease against the prisoner it should not be good cause for a new trial. The fact that thirty-eight errors have been assigned shows how diligently counsel have sought for flaws, but of this we do not complain.\nAnd now, October 4,1898, the motions in arrest of judgment and for a new trial are both overruled, and on motion of the district attorney the prisoner will be brought up for sentence.\nVerdict of guilty of murder of the first degree on which sentence was passed. The prisoner appealed.\n.Errors assigned sufficiently appear by the opinion of the Supreme Court.\nEdw. F. Kane, with him Henry M. BrownbaaJe, for appellant.\n\u2014In Montgomery county and in every other county of the state, as far as counsel have been able to ascertain, until the election of McDowell in 1897, it was always considered that a jury commissioner was ineligible to succeed himself: Taylor v. Delaney, 2 Caines\u2019s Cas. (N. Y.) 151; Com. v. Grant, 2 Woodward, 879.\nIt is contended that the redepositing of 200 names in the jury wheel of said county taken from those whose names had been removed by order of the court is contrary to the provisions of the Act of March'18, 1874, P. L. 46: Kell v. Brillinger, 84 Pa. 276; Brewerv. Inhabitants of Tyringham, 14 Pick. 196; Swan\u2019s Case, 16 Mass. 220.\nThe sending of the bill of indictment upon which the defendant was convicted before the grand jury while the bill found at March term, 1898, was pending, was error.\nThe fact of infamy was not the only reason why a. criminal sentenced to death was incompetent to testify at common law. That furnished the only reason why a criminal sentenced for a term of years was incompetent; but in the case of a sentence of death there was an additional reason for holding the convict incompetent. Upon a capital conviction of felony, the defender was civilly dead as far as his present rights were ascertained: Crane v. Reeder, 21 Mich. 24; Avery v. Everett, 110 N. Y. 317 ; Reg. v. Webb, 11 Cox\u2019s Crim. Cas. 133; St. Louis, I. N. &. L. Ry. Co. v. Harper, 6 S. W. Rep. 720; Foster v. State, 45 Ark. 328; State v. Franks, 28 S. E. Rep. 908; Davis v. State, 38 Md. 15; The Queen v. Payne, L. R. 1 Crown Cases Reserved, 349; Shay v. Com., 36 Pa. 305; Staup v. Com., 74 Pa. 458.\nJ. A. Strassburger, district attorney, and James B. Holland,\nfor the commonwealth, were not heard, but argued in their printed brief-: Where one comes to office by color of title his acts cannot be questioned by the public, and his acts are good as to strangers: Cornish v. Young, 1 Ash. 153 ; Riddle v. Bedford County, 7 S. & R. 387; Keyser v. McKissan, 2 Rawle, 139; McGargell v. Hazleton Coal Co., 4 W. & S. 424; Clark v. Com., 29 Pa. 129; Gregg Twp. v. Jamison, 55 Pa. 468; Shartzer v. School Dist., 90 Pa. 192; Campbell v. Com., 96 Pa. 344; King v. Phila., 154 Pa. 160; Com. v. Valsalka, 181 Pa. 17.\n. The filling of the wheel was in every sense a new selection from the body of the county, even if some names were the same as had been before deposited: Kell v. Brillinger, 84 Pa. 276; Com. v. Baranowski, 6 Pa. C. C. R. 157; Com. v. Lippard, 6 S. & R. 395; Foust v. Com., 33 Pa. 338; Buchanan v. Com., 5 Cent. Rep. 733; Rolland v. Com., 82 Pa. 306.\nThe pendency of an indictment is not ground for a plea in abatement to a second indictment charging substantially the same offence: Rosenberger v. Com., 118 Pa. 77; Wharton's Crim. Pleading & Practice, sec. 390.\nCharles O. Kaiser, Jr., was a competent witness for the commonwealth : Wharton\u2019s Crim. Evidence, sec. 363; Meredith v. Thomas, 4 Kulp, 505; Com. v. Barry, 8 Pa. C. C. 11. 216; Com. v. Shaver, 3 W. & S. 338; Schuylkill Co. v. Copley, 67 Pa. 386; Bickel v. Fasig, 33 Pa. 463; Com. v. Minor, 89 Ky. 555; Comhs v. Com., 25 S. W. Rep. 590; Com. v. Murphy, 3 Clark, 290; Skinner v. Perot, 1 Ash. 57; Steel v. Young, 4 Watts, 459; Willingham v. King, 23 Fla. 478; Dade Coal Co. v. Haslett, 83 Ga. 549 ; Werner v. State, 44 Ark. 122.\nOn the trial of a capital offense evidence of motive is always admissible: Carroll v. Com., 84 Pa. 107; Campbell v. Com., 84 Pa. 187 ; Hester v. Com., 85 Pa. 139; McManus v. Com., 91 Pa. 57; Sayres v. Com., 88 Pa. 291; Erb v. Com., 98 Pa. 347.\nMarch 13, 1899:"
+  },
+  "file_name": "0202-01",
+  "first_page_order": 222,
+  "last_page_order": 242
+}

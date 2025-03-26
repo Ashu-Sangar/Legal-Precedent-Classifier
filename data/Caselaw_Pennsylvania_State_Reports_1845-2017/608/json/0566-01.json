@@ -1,0 +1,106 @@
+{
+  "id": 4200102,
+  "name": "Troy BAYLOR, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Baylor v. Commonwealth",
+  "decision_date": "2011-01-25",
+  "docket_number": "No. 150 EM 2010",
+  "first_page": "566",
+  "last_page": "566",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "608 Pa. 566"
+    },
+    {
+      "type": "parallel",
+      "cite": "13 A.3d 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not allowed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not allowed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 516,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13826539694013049
+    },
+    "sha256": "47fb7b4c4874c8fd6a4f9510df8d3b8943ad108b1daf775928004da286ee0215",
+    "simhash": "1:649f0ba941d5e823",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T22:37:33.257297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troy BAYLOR, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of January, 2011, the Application for Leave to File Original Process and the \u201cWrit of Habeas Corpus Motion in Violation Pursuant to Pa. Rule 600\u201d are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not allowed). The Prothonotary is directed to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "13 A.3d 462\nTroy BAYLOR, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent.\nNo. 150 EM 2010.\nSupreme Court of Pennsylvania.\nJan. 25, 2011."
+  },
+  "file_name": "0566-01",
+  "first_page_order": 624,
+  "last_page_order": 624
+}

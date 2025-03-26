@@ -1,0 +1,87 @@
+{
+  "id": 4366428,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Jason A. DOUGHTY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Doughty",
+  "decision_date": "2014-10-09",
+  "docket_number": "No. 265 MAL 2014",
+  "first_page": "5",
+  "last_page": "5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "628 Pa. 5"
+    },
+    {
+      "type": "parallel",
+      "cite": "101 A.3d 1150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Pa. 533",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815608
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0533-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 630,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3784332600085951
+    },
+    "sha256": "17b9d22c29f6988d7b2d7b751677fbfa7181d14b093e56984b790521de936669",
+    "simhash": "1:3985b200e83b2ff4",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T20:45:03.566989+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Jason A. DOUGHTY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of October, 2014, the Petition for Allowance of Appeal is GRANTED. The issue is:\nWhether the [h]olding of this Honorable Supreme Court in Commonwealth v. Brachbill, [520 Pa. 533] 555 A.2d 82, 92 (1989), should be partially overturned[ ] or clarified so that it isn\u2019t in conflict with the plain language reading of 18 Pa.C.S.[ ] \u00a7 4952 and in conflict with the well[-]recognized rule of statutory construction that penal statutes must be strictly construed.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "101 A.3d 1150\nCOMMONWEALTH of Pennsylvania, Respondent v. Jason A. DOUGHTY, Petitioner.\nSupreme Court of Pennsylvania.\nOct. 9, 2014."
+  },
+  "file_name": "0005-01",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

@@ -1,0 +1,68 @@
+{
+  "id": 477395,
+  "name": "Love Estate",
+  "name_abbreviation": "Love Estate",
+  "decision_date": "1949-05-23",
+  "docket_number": "Appeals, Nos. 131 and 132",
+  "first_page": "105",
+  "last_page": "110",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "362 Pa. 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 416,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 2.354020038223346e-07,
+      "percentile": 0.7935609373365011
+    },
+    "sha256": "8157f619ad6e2791ff08ca9cc26111a307cc038800bc978193d8d8cc3184db49",
+    "simhash": "1:89274d4eff71b6ca",
+    "word_count": 65
+  },
+  "last_updated": "2023-07-14T19:40:17.774752+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ."
+    ],
+    "parties": [
+      "Love Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nDecree affirmed on the unanimous opinion of the learned Orphans\u2019 Court of Philadelphia County.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Walter Y. Anthony, Jr., and Rowland C. Evans, Jr., with them Erusen, Evwns & Shaw, for appellants.",
+      "John Earper, with him Irvin E. Campbell and Ear-per, Buchanan & Driver, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Love Estate.\nArgued April 15,1949,\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Jones, JJ.\nWalter Y. Anthony, Jr., and Rowland C. Evans, Jr., with them Erusen, Evwns & Shaw, for appellants.\nJohn Earper, with him Irvin E. Campbell and Ear-per, Buchanan & Driver, for appellees.\nMay 23, 1949:"
+  },
+  "file_name": "0105-01",
+  "first_page_order": 127,
+  "last_page_order": 132
+}

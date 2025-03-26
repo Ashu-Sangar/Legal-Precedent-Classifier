@@ -1,0 +1,70 @@
+{
+  "id": 12280622,
+  "name": "Com. v. Neely",
+  "name_abbreviation": "Com. v. Neely",
+  "decision_date": "2016-06-02",
+  "docket_number": "32 MAL (2016)",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 639"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 454",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.87,
+    "sha256": "e9ccd899d2fc500a7dba7e7e605bead697af91f183a83f694ace224c773f9424",
+    "simhash": "1:3646e84e8ce5231d",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Neely"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 454",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Neely\n06/02/2016\n32 MAL (2016)"
+  },
+  "file_name": "0639-11",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

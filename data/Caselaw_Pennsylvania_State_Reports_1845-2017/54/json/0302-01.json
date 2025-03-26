@@ -1,0 +1,170 @@
+{
+  "id": 1006272,
+  "name": "Cowton versus Wickersham",
+  "name_abbreviation": "Cowton v. Wickersham",
+  "decision_date": "1867-02",
+  "docket_number": "",
+  "first_page": "302",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Pa. 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wright 140",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wright 310",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wright 31",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Watts 98",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842726
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0098-01"
+      ]
+    },
+    {
+      "cite": "1 Wh. 229",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829033
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/1/0229-01"
+      ]
+    },
+    {
+      "cite": "2 Wright 146",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wright 229",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Jones 272",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "weight": 4,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wh. 313",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Binn. 427",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1795157
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/6/0427-01"
+      ]
+    },
+    {
+      "cite": "2 Wright 147",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 410,
+    "char_count": 5920,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03529588018452041
+    },
+    "sha256": "d8ec3f9fc49a503ebb236b077a15ad655646197c49e98e2f4ae758b5e429adf8",
+    "simhash": "1:79690edfb36e329b",
+    "word_count": 1070
+  },
+  "last_updated": "2024-02-27T20:47:58.117177+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Woodward, C. J., Thompson, Strong, and Read, JJ. Agnew, J., at Nisi Prius."
+    ],
+    "parties": [
+      "Cowton versus Wickersham."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nRead, J.\nJohn Dick and wife conveyed to Elizabeth Stein-ruck, a married woman, a lot of ground, reserving a. yearly ground-rent of $700, payable semi-annually. The deed contained all the usual provisions and covenants on her part for herself, her heirs and assigns, for the payment of the rent. Mr. and Mrs. Steinruck executed to the defendant a mortgage of the premises to secure the payment of $4000. Under proceedings on the mortgage the defendant became the purchaser at sheriff\u2019s sale of the premises, subject to the ground-rent of $700, which ground-rent was conveyed by Dick and wife to the plaintiff.\nIf Mrs. Steinruck had been a single woman, the defendant would not have demurred to the demand of rent, but he does so because she is a married woman, and yet all the title he has to the land comes through her, and the validity of it depends entirely upon her power to receive and transmit it to the defendants. A conveyance to a married woman is good, and if the land is encumbered, it passes to her subject to that encumbrance. If the deed reserves a ground-rent it passes subject to the ground-rent, and whoever succeeds to her title takes it as she took it\u2014 subject to the ground-rent.\nOur cases of Patterson v. Robinson, 1 Casey 81, and Ramborger\u2019s Adm\u2019rs. v. Ingraham, 2 Wright 147, give the principles which establish the complete validity of the ground-rent and of the title to it in the plaintiff, and the defendant is estopped from disputing the competency of Mrs. Steinruck, through whom his title to the land is derived.\nAn acceptor cannot plead that the drawer is a married woman, and he is estopped from denying or disputing her competency: Byles on Bills 50, 185. So, in this case, he cannot set up Mrs. Steinruck\u2019s incompetency to defeat the ground-rent, which would have been a lien on an estate if the land had remained hers, and wrhen he purchased the land he became bound as assignee to perform every covenant in the deed, exactly as if Mrs. Steinruck had been a single woman.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "O. Gribbons and W. A. Porter, for plaintiff in error,",
+      "J. R. Read and P. Archer, Jr., for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Cowton versus Wickersham.\n1. A conveyance to a married woman is good, and if the land is encumbered, it passes to her subject to the encumbrance.\n2. If the deed to a married woman reserves a ground-rent it passes subject to the rent, and whoever succeeds to her title takes it as she took it, \u2014 subject to the rent.\n3. A successor to the title is estopped from denying the competency of the married woman from whom it is derived.\n4. A ground-rent reserved in a deed to a married woman, which she after-wards conveyed, would have been a lien on the estate if it had remained hers; the purchaser from her became bound as assignee to perform every covenant in the deed as if she had been a single woman.\nFebruary 13th 1867.\nBefore Woodward, C. J., Thompson, Strong, and Read, JJ. Agnew, J., at Nisi Prius.\nThis was an action of covenant on a ground-rent deed, commenced' June 3d 1865, by Morris S. Wickersham against Arthur Cowton.\nJohn Dick, on the 5th of October 1852, conveyed to Elizabeth Steinruck, wife of Jacob Steinruck, in fee, certain real estate in Philadelphia, reserving a ground-rent of $700 per annum. The deed was signed by the grantor and wife, and also by the grantee and her husband. On the 7th of October 1853, Jacob Steinruck and wife executed a mortgage of the premises to Cowton the defendant. The premises were sold under the mortgage and bought by Cowton, who received the sheriff\u2019s deed June 14th 1856, and paid the ground-rent until October 1st 1862. The ground-rent having \u25a0 been conveyed to the plaintiff by Dick, this suit has been brought to recover the arrears from the date last mentioned. These facts having been submitted to the court below in a case stated, judgment was entered for the plaintiff, and the damages assessed at $1933.75.\nThe defendant took a writ of error and assigned for error that the court erred in entering such judgment, and also \u201c in deciding that under our law a married woman can make a valid covenant under her hand and seal to pay an annual ground-rent.\u201d\nO. Gribbons and W. A. Porter, for plaintiff in error,\ncited 12 Modern 609; 6 Id. 230; Norton v. Turville, 2 P. Wms. 145 ; Reed v. Jewson, 4 T. R. 362; 1 Levinz 51; Roberts v. Pierson, 2 Willes 3 ; Caldwell v. Walters, 6 Harris 79; Baxter v. Smith, 6 Binn. 427; Dorrance v Scott, 3 Wh. 313; Jamison v. Jamison, 3 Id. 457; 3 Johns. Chan. R. 144; Act of 11th April 1848, Purd. 699, et seq., Pamph. L. 536 ; Cumming\u2019s Appeal, 1 Jones 272; Stoops v. Blackford, 3 Casey 213; Pettit v. Fritz, 9 Id. 120 ; Bear\u2019s Administrator v. Bear, 9 Id. 525 ; Black v. Galway, 12 Harris 18 ; Glyde v. Kiester, 8 Casey 88 ; Heugh v. Jones, 8 Id. 432 ; Keen v. Coleman, 3 Wright 229 ; Keiper v. Helfricker, 6 Id. 325; Steinman v. Ewing, 7 Id. 63; Glass v. Warwick, 4 Id. 140 ; Thorndell v. Morrison, 1 Casey 326 ; Stoops v. Blackford, 3 Id. 213 ; Richards v. McClellan, 5 Id. 385 ; Pettit v. Fritz, 9 Id. 118; Gliddon v. Strupler, 2 P. F. Smith 400; Patterson v. Robinson, 1 Casey 81; Ramborger v. Ingraham, 2 Wright 146 ; 1 Roll. Abr. 421; 2 Cruise\u2019s Dig. 35; Streaper v. Fisher, 1 Rawie 161; Charnley v. Hansbury, J Harris 21.\nFebruary 1867,\nJ. R. Read and P. Archer, Jr., for defendant in error,\ncited St. Mary\u2019s Church v. Miles, 1 Wh. 229 ; Franciscus v. Reigart, 4 Watts 98 ; Ingersoll v. Sergeant, Id. 337 ; Irwin v. Bank U. S., 1 Barr 349 ; McQuigg v. Morton, 3 Wright 31; 4 Cruise\u2019s Dig. 25 ; Smith v. Baxter, 6 Binn. 427 ; Coke Litt. 3 a ; 1 Com. Dig. 566, tit. Baron and Berne, p. 2 ; 2 Black. Com. 203 ; Patterson v. Robinson, 1 Casey 81; Williams\u2019s Appeal, 11 Wright 310; Ramborger v. Ingraham, 2 Id. 146 ; Black v. Galway, 12 Harris 18 ; 3 Johns. Ch. R. 144; 1 Roll. Abr. 421; 2 Cruise\u2019s Dig. 35; Patterson v. Robinson, 1 Casey 81; 4 Cruise\u2019s Dig. 25; Glass v. Warwick, 4 Wright 140 ; Bortz v. Bortz, 12 Id. 382 ; Naglee v. Ingersoll, 7 Barr 185."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 302,
+  "last_page_order": 304
+}

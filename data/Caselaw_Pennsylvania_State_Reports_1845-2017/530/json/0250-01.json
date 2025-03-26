@@ -1,0 +1,82 @@
+{
+  "id": 1832987,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Ricardo RODRIQUEZ, Petitioner",
+  "name_abbreviation": "Commonwealth v. Rodriquez",
+  "decision_date": "1992-04-21",
+  "docket_number": "",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "530 Pa. 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "608 A.2d 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "602 A.2d 823",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1831218
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0155-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 501,
+    "ocr_confidence": 0.766,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06797056507927682
+    },
+    "sha256": "98cad40b8d3f70fab4dd0bcfcb2810a5200b8ddc5a20d201fe68f9f3ea22ef33",
+    "simhash": "1:52332277a34bcea6",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T22:25:32.530667+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "McDERMOTT, J., did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Ricardo RODRIQUEZ, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is granted. The Order of the Superior Court is vacated and the case is remanded to the Superior Court for consideration of the substantive issues. See, Commonwealth v. Pizzo, 602 A.2d 823 (Pa.1992).\nJurisdiction relinquished.\nMcDERMOTT, J., did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "608 A.2d 485\nCOMMONWEALTH of Pennsylvania, Respondent, v. Ricardo RODRIQUEZ, Petitioner.\nSupreme Court of Pennsylvania.\nApril 21, 1992."
+  },
+  "file_name": "0250-01",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

@@ -1,0 +1,106 @@
+{
+  "id": 12281457,
+  "name": "Com. v. Rudd",
+  "name_abbreviation": "Com. v. Rudd",
+  "decision_date": "2016-06-29",
+  "docket_number": "69 EAL (2016)",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 601",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486048,
+        12486049,
+        12486050,
+        12486051,
+        12486052,
+        12486053,
+        12486054,
+        12486055,
+        12486056,
+        12486057,
+        12486058,
+        12486059,
+        12486060,
+        12486045,
+        12486046,
+        12486047
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0601-13",
+        "/a3d/141-2/0601-14",
+        "/a3d/141-2/0601-15",
+        "/a3d/141-2/0601-16",
+        "/a3d/141-2/0601-01",
+        "/a3d/141-2/0601-02",
+        "/a3d/141-2/0601-03",
+        "/a3d/141-2/0601-04",
+        "/a3d/141-2/0601-05",
+        "/a3d/141-2/0601-06",
+        "/a3d/141-2/0601-07",
+        "/a3d/141-2/0601-08",
+        "/a3d/141-2/0601-09",
+        "/a3d/141-2/0601-10",
+        "/a3d/141-2/0601-11",
+        "/a3d/141-2/0601-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.815,
+    "sha256": "1ef11c4c2bc64ada7eeca90a53982cee403da3d4afa7c1ebaf7c5dde5bba16f3",
+    "simhash": "1:4e050456e8603ba3",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Rudd."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 601",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Rudd.\n06/29/2016\n69 EAL (2016)"
+  },
+  "file_name": "0648-14",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

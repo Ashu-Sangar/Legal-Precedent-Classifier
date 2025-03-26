@@ -1,0 +1,657 @@
+{
+  "id": 1238024,
+  "name": "Irvine Estate",
+  "name_abbreviation": "Irvine Estate",
+  "decision_date": "1952-11-25",
+  "docket_number": "Appeal, No. 4",
+  "first_page": "110",
+  "last_page": "125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "372 Pa. 110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "199 A. 327",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "330 Pa. 247",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1182989
+      ],
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/330/0247-01"
+      ]
+    },
+    {
+      "cite": "185 A. 725",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "323 Pa. 154",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169587
+      ],
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0154-01"
+      ]
+    },
+    {
+      "cite": "131 A. 360",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "284 Pa. 410",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0410-01"
+      ]
+    },
+    {
+      "cite": "64 A. 2d 821",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 Pa. 340",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476443
+      ],
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/361/0340-01"
+      ]
+    },
+    {
+      "cite": "68 A. 2d 734",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "363 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1221631
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/363/0042-01"
+      ]
+    },
+    {
+      "cite": "41 A. 2d 339",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Pa. Superior Ct. 655",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1058401
+      ],
+      "pin_cites": [
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/156/0655-01"
+      ]
+    },
+    {
+      "cite": "79 A. 138",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Pa. 530",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        971819
+      ],
+      "pin_cites": [
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/229/0530-01"
+      ]
+    },
+    {
+      "cite": "122 A. 169",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "278 Pa. 19",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1080508
+      ],
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/278/0019-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 568",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498415
+      ],
+      "pin_cites": [
+        {
+          "page": "570-1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/100/0568-01"
+      ]
+    },
+    {
+      "cite": "110 A. 236",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "266 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056043
+      ],
+      "pin_cites": [
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/266/0485-01"
+      ]
+    },
+    {
+      "cite": "49 A. 2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "355 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468922
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/355/0202-01"
+      ]
+    },
+    {
+      "cite": "57 A. 2d 872",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "358 Pa. 566",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845990
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/358/0566-01"
+      ]
+    },
+    {
+      "cite": "36 A. 2d 812",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "349 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        459495
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/349/0236-01"
+      ]
+    },
+    {
+      "cite": "73 A. 916",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "224 Pa. 509",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963049
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/224/0509-01"
+      ]
+    },
+    {
+      "cite": "103 A. 549",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "260 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040323
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/260/0161-01"
+      ]
+    },
+    {
+      "cite": "113 A. 361",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "270 Pa. 288",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066069
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/270/0288-01"
+      ]
+    },
+    {
+      "cite": "61 A. 904",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "212 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941925
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/212/0274-01"
+      ]
+    },
+    {
+      "cite": "81 A. 184",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "232 Pa. 159",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977926
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/232/0159-01"
+      ]
+    },
+    {
+      "cite": "153 A. 146",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "302 Pa. 152",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1129044
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/302/0152-01"
+      ]
+    },
+    {
+      "cite": "34 Pa. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        417928
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/34/0475-01"
+      ]
+    },
+    {
+      "cite": "39 A. 2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "350 Pa. 467",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461201
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/350/0467-01"
+      ]
+    },
+    {
+      "cite": "134 A. 442",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "286 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1096492
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/286/0578-01"
+      ]
+    },
+    {
+      "cite": "169 A. 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "313 Pa. 25",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1152620
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/313/0025-01"
+      ]
+    },
+    {
+      "cite": "130 A. 304",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "284 Pa. 73",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092024
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/284/0073-01"
+      ]
+    },
+    {
+      "cite": "70 A. 2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "363 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1221673
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/363/0405-01"
+      ]
+    },
+    {
+      "cite": "194 A. 893",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "328 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1179677
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/328/0273-01"
+      ]
+    },
+    {
+      "cite": "131 A. 360",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "284 Pa. 410",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092016
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/284/0410-01"
+      ]
+    },
+    {
+      "cite": "64 A. 2d 821",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "361 Pa. 340",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476443
+      ],
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/361/0340-01"
+      ]
+    },
+    {
+      "cite": "68 A. 2d 734",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "363 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1221631
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/363/0042-01"
+      ]
+    },
+    {
+      "cite": "79 A. 138",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "229 Pa. 530",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        971819
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/229/0530-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1104,
+    "char_count": 26668,
+    "ocr_confidence": 0.471,
+    "pagerank": {
+      "raw": 9.870850079832653e-08,
+      "percentile": 0.5347278934022794
+    },
+    "sha256": "0d46f303f44bfa3e2a99e78e5738317f1b37d9a3cc6fcd810340498900dafd54",
+    "simhash": "1:f63be5861340c173",
+    "word_count": 4571
+  },
+  "last_updated": "2024-02-27T18:12:52.345447+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Drew, C. J., Steen, Steabne, Jones, Bell, Chius ey and Musmanno, JJ.",
+      "Mr. Justice Musmanno joins in this dissenting opinion."
+    ],
+    "parties": [
+      "Irvine Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justice Jones,\nThis is an appeal from a decree of the Orphans\u2019 Court of Washington County awarding to Agnes Tarr and Edward E. Tarr (husband and wife) the sum of $3,213.82 from the estate of Agnes Irvine, deceased, for room, board and laundry supplied the decedent in her lifetime by the Tarrs which she accepted. The award was limited to the period of time permitted a claimant by the statute of limitations. The appellant is Alice Lipps, a niece of the decedent and her sole heir and next of kin.\nThe appellant contends that the proofs adduced by the claimants were neither the quantity nor quality required to establish their claim, that they failed to overcome the presumption of payment and that they also failed to rebut the presumption of satisfaction. What the evidence did prove, qua facts, is clear and precise enough. The question involved is as to the legal sufficiency of the proofs to imply a promise to pay. No departure from the long and well established rules of law relative to claims against decedents\u2019 estates, resting in parol, is either suggested or effected by the result reached by the learned court below.\nThe auditing judge specifically found, and the evidence supports the findings, (1) that the claimants furnished the decedent with board, room and laundry continuously over a period of approximately ten years prior to her death and (2) that such services were reasonably worth $12 a week. In addition to these specific findings, the following facts are established by the adjudication of the auditing judge which was confirmed by the court en banc.\nThe decedent, a widow, went to live in the home of the Tarrs around 1938 and continued to live there without interruption until her death on May 2, 1948. She was not related to the Tarrs either by blood or marriage. She had the exclusive use of a room in the Tarr home as her bedroom and also had the freedom and use of the downstairs which included a bath room. Her meals, which the Tarrs supplied, she ate at their table. She was 78 years old at the time of her death and, during all of the time she lived with the Tarrs with the exception of a few weeks, she was able to move around the house, tidy up her own room and occasionally help with the dishes and cooking. Her laundry work was done by Mrs. Tarr.\nThe decedent owned a lot of ground in Washington, Pa., improved with a two-story dwelling which, after her death, was sold by her administrator for the payment of debts for the sum of $4,575. She left personalty of a total value of $42. Her only income, while she lived with the Tarrs, was $20 per month which she received as rent for her house. Out of that, she took care of her clothing, paid for the upkeep and taxes on her real estate and gave the Tarrs $3 a month. She wished not to convert her real estate in her lifetime, telling a friend (an almost daily visitor), who was a disinterested witness, that she paid the Tarrs \u201c$3.00 a month for her room rent, and it was not enough,\u201d but that, if she sold her property, by the time \u201c. . . she paid Agnes and Ed [the claimants] she wouldn\u2019t have anything to come and go on at all.\u201d She told another witness substantially the same thing.\nAs was said in Gibb\u2019s Estate, 266 Pa. 485, 487, 110 A. 236, \u201cOrdinarily, an implied promise exists to pay for services rendered and accepted, and the burden is on the person denying liability to show no debt was, in fact, intended.\u201d This rule has long been recognized and followed by the courts of this State. In Miller\u2019s Appeal, 100 Pa. 568, 570-1, it was said that, \u201cNothing is better settled than that the performance and receipt of services, or the furnishing of board, raises an implied assumpsit by the one who receives to compensate the other . . . .\u201d Such is the legal situation which the established facts in this case import. There was no relationship between the claimants and the decedent to negative the legal implication that the services would be paid for. Contrary to the statement contained in the appellant\u2019s brief, there is not a word of competent testimony in the record to show that Mrs. Tarr in her childhood had spent any time in the home of Mrs. Irvine or under her care. The suggestion in such regard emanates from avowed hearsay not shown to have been uttered in the hearing of Mrs. Tarr who, incidentally, was excluded as a witness upon objection to her competency.\nThere is another legal presumption, however, that services so furnished and accepted were paid for periodically. See Brown v. McCurdy, 278 Pa. 19, 23, 122 A. 169; Winfield v. Beaver Trust Company, 229 Pa. 530, 532, 79 A. 138; and Dowman Estate, 156 Pa. Superior Ct. 655, 658, 41 A. 2d 339. But, the learned court below concluded, and we think correctly, that the evidence in the case overcame the presumption of payment. As already stated, the findings establish that the board, room and laundry work furnished by the Tarrs and accepted by the decedent were reasonably worth $12 a week. That fact was competently found and is not open to dispute here. It is also undisputed that, while Mrs. Irvine resided with the Tarrs, she had an income of but $20 per month and no capital assets that she could invade for the payment of her keep. From her income, she had nothing left after paying for clothing, the upkeep and taxes on her property and the $3 she gave the Tarrs each month. It is thus mathematically demonstrated that she could not possibly have paid currently the reasonable worth of the services the Tarrs were supplying. Indeed, Mrs. Irvine expressly so admitted to her friend and daily visitor when she acknowledged that the $3 a month she was paying the Tarrs was not enough and further recognized her indebtedness to them when she said that, if she sold her house and lot, by the time she paid the Tarrs, she would have nothing left \u201cto come and go on.\u201d\nThe decedent\u2019s monthly payment of $3 to the Tarrs was manifestly incapable of supporting a conclusive presumption of satisfaction. Mrs. Irvine\u2019s acknowledgment of her unpaid indebtedness to the Tarrs, as contained in her statements to the two witnesses, whom the auditor accredited, sufficiently refuted the idea that the $3 monthly payment was tendered and accepted in satisfaction of the claimants\u2019 services. As already quoted, the $3 a month was \u201cfor her room rent\u201d according to the decedent. In Dowman Estate, supra, the Superior Court said (p. 658) that the auditing judge was not required to conclude that even a $25 monthly payment by the recipient of board, lodging and nursing services was payment in full of a claim for such services made after the recipient\u2019s death. Not only does the evidence in the instant case not disclose any agreement of the parties that the $3 monthly payment was to be in full satisfaction of the services furnished by the Tarrs but Mrs. Irvine\u2019s own statements refute any such idea. The decedent was, of course, entitled to a credit for the $3 monthly payments and, that, the court below properly allowed her estate against the reasonable worth of the claimants\u2019 recoverable services.\nBraden Estate, 363 Pa. 42, 68 A. 2d 734, which the appellant cites as presenting a factual situation similar to the present, is not in point. It is not only a case of a Mood relationship between the claimants and the deceased but, more important still, the claim there was founded on an express contract which the claimants failed to prove. Where a claimant pleads, but fails to prove, an express contract but does prove performance of valuable services which the beneficiary willingly accepted, the claim cannot be rested on a quantum meruit. As Chief Justice Maxey said in Lach v. Fleth, 361 Pa. 340, 348, 64 A. 2d 821, \u201cSuch an action [on an express contract] and an action on a quantum meruit are utterly distinct\u201d (citing cases). In Roch\u2019s Estate, 16 D. & C. 700, 703, Mr. Justice Stearne, then on the Orphans\u2019 Court of Philadelphia County, correctly said that \u201cIt is the general rule, based upon sound reason and logic, that one who alleges a contract and fails in his proofs may not thereafter rely upon a quantum meruit,\u201d citing Witten v. Stout, 284 Pa. 410, 131 A. 360. See, also, Nuebling v. Topton Borough, 323 Pa. 154, 156, 185 A. 725; and Luzerne Township v. Fayette County, 330 Pa. 247, 254, 199 A. 327. Apparently, the appellant misconceives the rationale of a contract implied from a given factual situation. In her brief she states that the instant claimants failed to prove an express contract. Of course, they did. They never averred one. She points, also, to the finding of the auditing judge that \u201cthere is no evidence ... as to any [express] agreement, contract, or understanding . . . between decedent and claimants . . . .\u201d That finding is entirely consonant with an obligation to pay, implied in the circumstances, where an express contract is neither averred nor relied on.\nDecree affirmed at the appellant\u2019s costs.",
+        "type": "majority",
+        "author": "Me. Justice Jones,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMe. Justice Bell:\nThis is a claim against a decedent\u2019s estate. It has been firmly established for a century that claims which could and ordinarily would have been, but were not presented in the lifetime of the decedent must be clearly established by direct, positive and convincing evidence or as it is ofttimes expressed by \u201cevidence that is clear, precise and indubitable\u201d. Mooney\u2019s Estate, 328 Pa. 273, 194 A. 893; Stafford v. Reed, 363 Pa. 405, 70 A. 2d 345; Gross\u2019s Estate, 284 Pa. 73, 130 A. 304; Copeland\u2019s Estate, 313 Pa. 25, 169 A. 367; Braden Estate, 363 Pa. 42, 68 A. 2d 734; Schleich\u2019s Estate, 286 Pa. 578, 134 A. 442; Roberts Estate, 350 Pa. 467, 39 A. 2d 592; Graham v. Graham\u2019s Executors, 34 Pa. 475.\nPeriodically every month for ten years decedent paid claimants $3.00 a month for board, lodging and laundry. Regular periodic payments, especially when made, received and accepted for a period of ten years, raise a strong presumption that the payments were made and accepted in full payment and satisfaction of all claims for the services rendered. Schleich\u2019s Estate, 286 Pa., supra; Calvert v. Eberly, 302 Pa. 152, 153 A. 146; Wise v. Martin, 232 Pa. 159, 81 A. 184; Grossman v. Thunder, 212 Pa. 274, 61 A. 904. In Schleich\u2019s Estate, 286 Pa., supra, the Court said (page 582) : \u201c\u2018To establish such claim [for wages as housekeeper] by parol evidence requires proof direct and positive .... Moreover, appellant is also faced with the proposition that, having received a certain sum of money each month, for services, the presumption would be the payment thus received was in full satisfaction of any demand: [citing cases].\u2019 \u201d Furthermore, as with the presumption of payment, \u201c \u2018This presumption \u201cwill gather strength with each succeeding year, and the evidence to overthrow it must of course be correspondingly increased.\u201d \u2019 \u201d Roberts Estate, 350 Pa. 467, 469, 39 A. 2d 592; Mooney\u2019s Estate, 328 Pa., supra; Gilbraith\u2019s Estate, 270 Pa., supra.\nWas the evidence produced by claimants so clear, precise and indubitable as to establish their claim and overcome the presumption that periodic monthly payments by decedent to claimants for ten years were made and received in full payment and satisfaction of all claims for the services rendered?\nThe facts are undisputed. Mrs. Irvine lived with the claimants, Mrs. Tarr and her husband, for the last' ten years of her life. The only income she had came from a house which she owned which was rented for $20.00 a month. Out of this rental, decedent paid taxes and repairs and the upkeep of the house, clothed herself and paid claimants $3.00 a month for ten years for board, lodging and laundry. Solely from a monetary-point of view, $3.00 a month was grossly inadequate. Unfortunately, Mrs. Irvine died intestate and thus failed to provide for the claimants as she morally should have done. Decedent left a personal estate of only $42.00, and the aforesaid house, which was subsequently sold for $4575.00 gross. The balance for distribution was $3265.82, all of which was awarded to Mrs. Tarr and her husband on a quantum meruit claim for board, lodging and laundry. The appellant is a niece and heir at law of decedent whom she rarely if ever saw in the last 15 years of her life.\nThese facts make crystal clear why every Judge would like to decide this ease in favor of the claimants even though a demand for additional compensation was never made by the claimants in Mrs. Irvine\u2019s lifetime; and even though after Mrs.' Irvine\u2019s death Mrs. Tarr admitted to two witnesses that \u201cAuntie didn\u2019t owe anything except the funeral bill\u201d; and even though as we shall see, there was no evidence legally sufficient to support the claim.\nThe majority, unsupported by any prior decision and contrary to the principles, tests and language of all our prior decisions, have sustained this claim. All Judges know but sometimes forget that hardship cases make bad law and create haunting precedents. Because of my conviction that the decision of the majority will breach and undermine the walls which the Courts for over a century have erected and maintained to safeguard dead men\u2019s estates, I am impelled to vigorously dissent.\nThe first question that naturally arises is \u2014 why didn\u2019t Mrs. Tarr, in Mrs. Irvine\u2019s lifetime, object to these small monthly payments, and make a request or demand or obtain a promise or an agreement, written or oral, for additional compensation? This is the $64 question which the majority cannot answer. The reason adduced by the majority \u2014 that it would have been useless to ask for more money since Mrs. Irvine was unable to pay more \u2014 is but a partial answer. If Mrs. Tarr was not satisfied, she could have said so and Mrs. Irvine could easily have promised or agreed to pay claimant at her death an additional sum or to leave her her house or a definite legacy. Why didn\u2019t Mrs. Tarr protest and ask Mrs. Irvine for more money or for a legacy if she wasn\u2019t satisfied with what she was being paid? The record discloses the likely reason. Mrs. Tarr\u2019s sister as a child, lived with and was supported by the decedent in the latter\u2019s home for three years; Mrs. Tarr herself as a child had lived with and was supported by the decedent for an undisclosed period of time; she called the decedent Auntie and in the words of one witness, \u201cshe [the decedent] said she practically raised her\u201d. Isn\u2019t it only natural that Mrs. Tari* should wish to take care of Mrs. Irvine in the last years of her life because she wanted to return the love and affection and the care and support which she and her sister had received from Mrs. Irvine!\nThe decree of the Court below should be reversed because the claimant and her husband utterly and completely failed to overcome the presumption of payment in full.\nHow can this long and wisely established presumption \u2014 that regular periodic payments were made and accepted in full payment and satisfaction \u2014 be overcome? Certainly not by loose or vague or equivocal or ambiguous or indefinite statements: Winfield v. Bearer Trust Co., 229 Pa. 530, 79 A. 138; Gilbraith\u2019s Estate, 270 Pa. 288, 113 A. 361; Braden Estate, 363 Pa. 42, 68 A. 2d 734; or by showing that the payments which had been received and accepted without protest for 10 years are now considered inadequate. Yet, taking claimants\u2019 evidence at its best, that is all they produced. Before discussing tbe evidence, it may be helpful to analyze the real questions which are involved. If decedent had made no payments at all, claimants would have had to overcome by clear, direct, precise and indubitable evidence the presumption that payments were regularly made in decedent\u2019s lifetime. Mooney\u2019s Estate, 328 Pa., supra; Braden Estate, 363 Pa., supra; Flaccus v. Wood, 260 Pa. 161, 103 A. 549; Gilbraith\u2019s Estate, 270 Pa., supra; Cummiskey\u2019s Estate, 224 Pa. 509, 73 A. 916; Hunter, Pennsylvania Orphans\u2019 Court Commonplace Book, Vol. I, p. 297. To overcome such presumption, claimants would only have to prove (by clear, precise and indubitable evidence) (1) that payments had not been made by decedent to claimant in decedent\u2019s lifetime, and (2) what the reasonable value of the services was. But to overcome and rebut the presumption of payment in full arising from these regular periodic payments of |3.00 a month, claimants must prove (by clear, precise and indubitable evidence) (1) that claimants had refused to accept these payments as payments in full, or that decedent had promised or agreed to pay more, viz., an additional fixed sum or the reasonable value of the services, and (unless a fixed sum was agreed upon) (2) what the reasonable value of the services was. The record will be searched in vain for such a promise or agreement, or for proof that claimant had refused to accept these periodic payments as payments in full. Moreover, in view of the receipt by claimants of $3.00 a month for 10 years, with no evidence of protest or a demand for more money, it is clear that it could not even be reasonably implied that the decedent and the claimants had agreed, when the services began or at any other time, that the services should be rendered at their fair and reasonable value\u2014 certainly there is no clear, precise and indubitable evidence to prove such an agreement or even to permit such an implication. If these words \u2014 clear, direct, positive and convincing or clear, precise and indubitable mean what they say, and if they are to be interpreted the way they have been without deviation or qualification for one hundred years, then these claimants certainly failed to make out a case.\nNot only did claimants completely fail to prove any protest or demand by claimants, or any promise or agreement by decedent to pay more, but the Chancellor specifically found and the parties agree that \u201cthere is no evidence in the case as to any agreement, contract or understanding, in so many words, between decedent and claimants bearing on reimbursement of claimants for their servicesThis, in my judgment, is an insurmountable barrier to this claim.\nIf, however, we assume as the majority do that this finding is not conclusive, claimants\u2019 only proof is an equivocal statement made by the decedent separately to two witnesses in the absence of claimant and eight years after the commencement of these services. This statement was made during the course of a conversation concerning the possible sale of decedent\u2019s house and was as follows: \u201c. . . the only income was out of her house which was $20.00 a month . . . and she said that that was the only income she had, and if she sold it, again she paid Agnes and Ed, she wouldn\u2019t have anything to come and go on at all.\u201d This establishes no protest and demand by claimants and no promise or agreement by decedent to pay claimants any additional sum of money, definite or indefinte; it is merely an explanation of why she regrettably could not afford to pay the Tarrs more money. Certainly and in any event it is not the clear, direct, positive, precise and indubitable evidence which is required by all the countless prior decisions of this Court. Furthermore, even the inference which the claimants draw from this statement of the decedent, is itself rebutted and overcome by the admissions made by the claimant herself after the funeral to two witnesses that \u201cAuntie did not owe anything, only the balance of the funeral bill\u201d.\nMoreover, even if decedent\u2019s equivocal statement, as related by the claimants\u2019 two witnesses, stood unchallenged and unrefuted, it would still fall far short of the high standard of proof which this Court has for a century required in claims against a dead man\u2019s estate. Cf., inter alia, Braden Estate, 368 Pa., supra; Stafford v. Reed, 363 Pa., supra; Roberts Estate, 350 Pa., supra; Moore Estate, 349 Pa. 236, 36 A. 2d 812; Mooney\u2019s Estate, 329 Pa., supra; Copeland\u2019s Estate, 313 Pa., supra; Gilbraith\u2019s Estate, 270 Pa., supra; Graham v. Graham\u2019s Executors, 34 Pa., supra.\nIn Mooney\u2019s Estate, 328 Pa., supra, appellant claimed on a quantum meruit for services rendered decedent as nurse, adviser and companion for a period of 6 years. To overcome the presumption of periodic payments, appellant\u2019s niece testified that she knew her aunt was not being paid because she had to give her carfare to go to decedent\u2019s house, and further that she heard decedent say: \u201cIf I don\u2019t get my money and get things straightened up to pay her while I am living, I will certainly leave it to her in my will . . . .\u201d Decedent died possessed of an estate worth at least $60,000., which included numerous marketable securities. The Court held that \u201cThe testimony was not nearly sufficiexit to support the claim. . . . [it] requires some pertinent testimony that is \u2018clear, precise and indubitable.\u2019 \u201d\nIn Qilbraith\u2019s Estate 270 Pa., supra, a claim was presented on a quantum meruit for the value of claimant\u2019s services for board and nursing. The witnesses testified that decedent said, inter alia: \u201c \u2018I did hear [decedent] say . . . that [claimant] would be well paid for her trouble. \u201cI know I am a lot of trouble to Margaret now, but she will get well paid.\u201d \u2019 \u201d\nAnother witness testified: \u201c \u2018I heard [decedent] tell [claimant] that she was good and kind to her; [decedent] was in bed, and she said to me \u201cI do not know what I would have done if it had not been for [claimant], but I will pay her for her trouble, when I am passed away she will be well paid . . . for what she has done for me.\u201d \u2019 \u201d\n\u201cClaimant\u2019s son testified: \u2018I heard her more than once say my mother would be well paid\u2019 \u201d. The Court said (page 294, 295) : \u201cWhether the evidence submitted by plaintiff is enough to rebut the presumption of payment is primarily a question for the court\u201d: . . . \u201cthe evidence was insufficient to rebut the presumption of periodic payments\u201d (and was likewise inadequate to uphold a promise of payment before or after death).\nBraden Estate, 363 Pa., supra, is one of a score of cases which are analogous and controlling. In that case Mr. and Mrs. Roberts, (the latter of whom was a niece of decedent) presented a claim for board, lodging and general care of the decedent under an oral contract by which decedent agreed to pay claimants \u201cwhatever was right\u201d. No specific sum was agreed upon and they therefore sued on a quantum meruit, alleged an express agreement of employment, and proved that the reasonable value of the services rendered was $10.00 a week. There, as here, the claimants unquestionably furnished the services, but this Court held that those facts plus decedent\u2019s declarations were not sufficient to overcome the presumption of payment. Chief Justice Maxey said (pages 44-46) : \u201c. . . the only testimony . . . to sustain the position of exceptants as to there being an understanding or agreement between Lizzie Braden, the decedent, and [themselves] was that of Erma Long, [a servant] who testified that she heard Lizzie Braden say that: \u2018just as soon as she got out of there [apparently a \u201csick bed\u201d] she intended to see that Ida and Jim got paid and paid well for what they had done for her.\u2019 \u201d [This was certainly stronger in favor of claimants than the statement made by decedent in the instant case.] \u201c. . . If claims against decedent\u2019s estates should be allowed on such testimony, no decedent\u2019s estate would be safe from spoliation.\u201d\nThe majority \u2014 having no authority to support their decision \u2014 vainly attempt to distinguish Braden Estate on two grounds: (1) that the relationship between the claimants and the deceased in that case was a blood relationship and (2) Braden Estate was not a case of quantum meruit but a suit upon an express contract. A moment\u2019s reflection will suffice to convince that a friend is often closer and dearer than a relative, but in the instant case the claimant was more than a friend of the decedent \u2014 the decedent had \u201cpractically raised her\u201d and although called \u201cAuntie\u201d obviously stood in loco parentis.\nAlthough we consider it is immaterial to the disposition of this case, whether or not the claim in Braden Estate was based upon a quantum meruit, nevertheless, contrary to the assertion in the majority opinion, it was a claim upon a quantum meruit according to the contention of counsel in his paper book in that case, and according to the opinion of the lower Court in that case, and (impliedly) of this Court. Furthermore, it is clear as Chief Justice Maxey said in Lach v. Fleth, 361 Pa. 340, 348, 64 A. 2d 821; \u201cWhen one contracts for the services of another and receives and accepts those services, but without specifying what the compensation shall be, a recovery for the value of the services must be by an action of quantum meruit.\u201d This has been the law for centuries: see Blackstone\u2019s Commentaries, Lewis\u2019s Edition, Vol. III, page 1154, sec. 163. It is obvious therefore that Braden Estate, like a score of other decisions of this Court, controls this case and cannot be distinguished.\nTo allow Mr. and Mrs. Tarr\u2019s claim under the loose, equivocal and flimsy evidence presented in this case flies in the teeth of a myriad decisions of this Court and makes meaningless the clear and controlling language of those opinions. Moreover, it will inevitably weaken the safeguards and erode the barriers which for a hundred years the Courts of this Commonwealth have erected and maintained to protect dead men\u2019s estates, and will thus open wide the door to countless false or fraudulent or imaginary claims.\nMr. Justice Musmanno joins in this dissenting opinion.\nBecause of the majority opinion the' Courts hereafter will be swamped with claims against decedents\u2019 estates where claimant unprotestingly received $75. or $100. a month for board and lodging or for wages but proves that a fair and reasonable sum during said period would have been $10. or $25. or $100. a month higher than that actually received.\nSince the majority opinion seems to place such stress on the question of quantum meruit, we may say parenthetically that we believe the appellant does not misconceive when assumpsit on a quantum meruit will lie. It is only where there is (a) an express contract for personal services at a fixed compensation or for a sum certain or (b) a promise to leave a definite legacy, that an action can be brought upon the express contract; and where such an express contract exists or is alleged, plaintiff cannot recover upon a quantum meruit; Cf. Witten v. Stout, 284 Pa. 410, 131 A. 360; Conti Co. Inc. v. Donovan, 358 Pa. 566, 57 A. 2d 872; Cramer v. McKinney, 355 Pa. 202, 49 A. 2d 374.",
+        "type": "dissent",
+        "author": "Me. Justice Bell:"
+      }
+    ],
+    "attorneys": [
+      "Clarence B. Nixon, Jr., for appellant.",
+      "William R. Dennison, Jr., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Irvine Estate.\nArgued Marcli 26, 1952; reargued October 8, 1952.\nBefore Drew, C. J., Steen, Steabne, Jones, Bell, Chius ey and Musmanno, JJ.\nClarence B. Nixon, Jr., for appellant.\nWilliam R. Dennison, Jr., for appellee.\nNovember 25, 1952:"
+  },
+  "file_name": "0110-01",
+  "first_page_order": 134,
+  "last_page_order": 149
+}

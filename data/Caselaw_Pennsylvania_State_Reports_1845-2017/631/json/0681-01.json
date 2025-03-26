@@ -1,0 +1,100 @@
+{
+  "id": 6789400,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Daniel LABRAKE, Respondent",
+  "name_abbreviation": "Commonwealth v. Labrake",
+  "decision_date": "2015-06-03",
+  "docket_number": "No. 37 EAL 2013",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "631 Pa. 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "115 A.3d 1278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "107 A.3d 709",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4276270,
+        6893386,
+        4277132,
+        6893470
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/630/0577-01",
+        "/a3d/107/0709-01",
+        "/pa/630/0576-01",
+        "/a3d/107/0709-02"
+      ]
+    },
+    {
+      "cite": "630 Pa. 577",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4276270
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/630/0577-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 451,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18251662548665964
+    },
+    "sha256": "1237152afd5981d3c32d5d0d1873915340ab406b2fe88541c7df524c50aa9c18",
+    "simhash": "1:7dde0baea1a7af26",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T22:14:17.598985+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Daniel LABRAKE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of June, 2015, the Petition for Allowance of Appeal is GRANTED, and the order of the Commonwealth Court is VACATED. See Commonwealth v. Allen, 630 Pa. 577, 107 A.3d 709 (2014). The matter is REMANDED for consideration of Respondent\u2019s remaining appellate issues.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "115 A.3d 1278\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Daniel LABRAKE, Respondent.\nNo. 37 EAL 2013.\nSupreme Court of Pennsylvania.\nJune 3, 2015."
+  },
+  "file_name": "0681-01",
+  "first_page_order": 737,
+  "last_page_order": 737
+}

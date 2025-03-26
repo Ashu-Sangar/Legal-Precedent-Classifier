@@ -1,0 +1,866 @@
+{
+  "id": 706215,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Kirk REKASIE, Appellant",
+  "name_abbreviation": "Commonwealth v. Rekasie",
+  "decision_date": "2001-08-20",
+  "docket_number": "No. 86 W.D. Appeal Docket 1999",
+  "first_page": "85",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 85"
+    },
+    {
+      "type": "parallel",
+      "cite": "778 A.2d 624"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "736 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11575860,
+        838543
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0552-01",
+        "/pa/558/0191-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 191",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838543
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0191-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 953",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7374163,
+        1843171
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "defendants' raised voices, audible through the wall of their home, defeated their expectation of privacy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0953-01",
+        "/pa/536/0180-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 180",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843171
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "defendants' raised voices, audible through the wall of their home, defeated their expectation of privacy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0180-01"
+      ]
+    },
+    {
+      "cite": "532 U.S. 67",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9300726
+      ],
+      "weight": 3,
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/532/0067-01"
+      ]
+    },
+    {
+      "cite": "327 Pa.Super. 253",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        604370
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/327/0253-01"
+      ]
+    },
+    {
+      "cite": "694 N.E.2d 1264",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1267-68"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "427 Mass. 595",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        310292
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/427/0595-01"
+      ]
+    },
+    {
+      "cite": "708 A.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        507877,
+        11825926
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0001-01",
+        "/a2d/708/1251-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507877
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0001-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817445
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0405-01"
+      ]
+    },
+    {
+      "cite": "440 U.S. 741",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188710
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "750-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0741-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714876
+      ],
+      "weight": 5,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "752",
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "parenthetical": "plurality"
+        },
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0745-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 427",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11718713
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "438",
+          "parenthetical": "no expectation of privacy in conversation with IRS agent"
+        },
+        {
+          "parenthetical": "no expectation of privacy in conversation with IRS agent"
+        },
+        {
+          "parenthetical": "no expectation of privacy in conversation with IRS agent"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0427-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 435",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178379
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "bank depositor has no expectation of privacy in financial information voluntarily conveyed to banks and exposed to their employees in the ordinary course of business"
+        },
+        {
+          "parenthetical": "bank depositor has no expectation of privacy in financial information voluntarily conveyed to banks and exposed to their employees in the ordinary course of business"
+        },
+        {
+          "parenthetical": "bank depositor has no expectation of privacy in financial information voluntarily conveyed to banks and exposed to their employees in the ordinary course of business"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0435-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813568
+      ],
+      "weight": 4,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0450-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532082
+      ],
+      "weight": 6,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "739-40"
+        },
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0735-01"
+      ]
+    },
+    {
+      "cite": "389 U.S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339173
+      ],
+      "weight": 5,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "361-62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0347-01"
+      ]
+    },
+    {
+      "cite": "486 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1757589
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/486/0032-01"
+      ]
+    },
+    {
+      "cite": "669 A.2d 917",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11335793,
+        461613
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "920"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/669/0917-01",
+        "/pa/543/0086-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 86",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461613
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0086-01"
+      ]
+    },
+    {
+      "cite": "652 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474153,
+        7866155
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "288-89"
+        },
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0256-01",
+        "/a2d/652/0287-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474153
+      ],
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0256-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736929
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/476/0543-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5514
+      ],
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/494/0299-01"
+      ]
+    },
+    {
+      "cite": "708 A.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        507877,
+        11825926
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/551/0001-01",
+        "/a2d/708/1251-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507877
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/551/0001-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817445
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/521/0405-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813568
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/519/0450-01"
+      ]
+    },
+    {
+      "cite": "486 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1757589
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/486/0032-01"
+      ]
+    },
+    {
+      "cite": "652 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474153,
+        7866155
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/539/0256-01",
+        "/a2d/652/0287-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474153
+      ],
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/539/0256-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736929
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "550"
+        },
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/476/0543-01"
+      ]
+    },
+    {
+      "cite": "327 Pa.Super. 253",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        604370
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-super/327/0253-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817445
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/521/0405-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 435",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178379
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "one does not have a legitimate expectation of privacy in his bank records because they are readily accessible to bank and bank employees"
+        },
+        {
+          "parenthetical": "one does not have a legitimate expectation of privacy in his bank records because they are readily accessible to bank and bank employees"
+        },
+        {
+          "parenthetical": "one does not have a legitimate expectation of privacy in his bank records because they are readily accessible to bank and bank employees"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/425/0435-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532082
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/442/0735-01"
+      ]
+    },
+    {
+      "cite": "486 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1757589
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "Article I, Section 8 of the Pennsylvania Constitution requires a warrant based on probable cause in order for police to gain access to bank records"
+        },
+        {
+          "parenthetical": "Article I, Section 8 of the Pennsylvania Constitution requires a warrant based on probable cause in order for police to gain access to bank records"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/486/0032-01"
+      ]
+    },
+    {
+      "cite": "652 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474153,
+        7866155
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "289",
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "289",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/539/0256-01",
+        "/a2d/652/0287-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474153
+      ],
+      "year": 1994,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/539/0256-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817445
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1259"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/521/0405-01"
+      ]
+    },
+    {
+      "cite": "652 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474153,
+        7866155
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "289",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/539/0256-01",
+        "/a2d/652/0287-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 256",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474153
+      ],
+      "year": 1994,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/539/0256-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1472,
+    "char_count": 48640,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 1.992207708616476e-07,
+      "percentile": 0.741930127972712
+    },
+    "sha256": "9e8a9b8074882b880199850e848e9b372fbde53f1c3e417eabcf0d0db7f5b05a",
+    "simhash": "1:d1e4643367cbbf18",
+    "word_count": 7582
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: JOHN P. FLAHERTY, Chief Justice, and ZAPPALA, CAPPY, CASTILLE, N1GRO, NEWMAN, AND SAYLOR, JJ.",
+      "CASTILLE, Justice, files a concurring opinion joined by SAYLOR, Justice, who also joins the majority opinion.",
+      "ZAPPALA, Justice, files a dissenting opinion in which FLAHERTY, Chief Justice, joins.",
+      "NIGRO, Justice, files a dissenting opinion in which FLAHERTY, Chief Justice and ZAPPALA, Justice, join.",
+      "This concurring opinion is joined by SAYLOR, Justice, who also joins the majority opinion.",
+      "FLAHERTY, Chief Justice, joins this dissenting opinion.",
+      "FLAHERTY, Chief Justice, and ZAPPALA, Justice, join in the dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Kirk REKASIE, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nCAPPY, Justice.\nIn this appeal, our court revisits the area of one party consensual wire interceptions. The sole issue before our court is whether Article I, Section 8 of the Pennsylvania Constitution requires the Commonwealth to obtain a determination of probable cause by a neutral, judicial authority before an agent of the Commonwealth may initiate a telephone call to an individual in his home and record that conversation. For the reasons that follow, we hold that Appellant Kirk Rekasie did not have a reasonable expectation that his telephone conversation would be free from consensual participant monitoring. Thus, we find that under the Pennsylvania Constitution, the Commonwealth was not required to obtain a determination of probable cause before recording the contents of a telephone call placed by a cooperative informant to Rekasie in his home.\nThe facts of this case are not in dispute. On June 23,1992, pursuant to an ongoing drug investigation, agents of the Attorney General\u2019s Office and officers of the Cranberry Township Police Department seized 36.8 grams of cocaine from Thomas Tubridy. Tubridy told the agents that he received the cocaine from Vincent Rizzo, who lived in Florida. Tubridy also stated that Rekasie was Rizzo\u2019s drug courier. Tubridy agreed to participate in an investigation of Rekasie and Rizzo and consented to have his telephone conversations with them taped.\nIn accordance with the Wiretapping and Electronics Surveillance Control Act (the \u201cAct\u201d), the officers contacted Linda Barr, the Deputy Attorney General who had been designated to review the requests for voluntary intercepts. Barr approved the request for interception after she concluded that Tubridy voluntarily consented to the recording of his conversations with Rizzo, Rekasie, and \u201cothers\u201d for the period of June 25,1992 through July 15, 1992.\nThe first and second interceptions occurred on June 25, 1992 when Tubridy twice telephoned Rizzo at Rizzo\u2019s residence. The calls were placed from the police station and were recorded by a standard cassette tape recorder. The third interception occurred the next day when Tubridy telephoned Rizzo\u2019s brother, Vaughn, at Vaughn\u2019s residence. The fourth interception also occurred on June 26, 1992, when Tubridy called Rekasie at Rekasie\u2019s home. The fifth interception took place on June 29, 1992, when Tubridy again called Rizzo at Rizzo\u2019s residence. The sixth and final conversation that was intercepted occurred on June 30, 1992 when Tubridy wore a body wire when speaking with Rekasie at Tubrid/s place of employment.\nBased on the intercepts, a search warrant was issued which permitted the Attorney General\u2019s office to seize and search Rekasie\u2019s luggage while he was disembarking from an airplane flight from Fort Lauderdale, Florida to Pittsburgh, Pennsylvania. The search revealed ten ounces of cocaine.\nRekasie and Rizzo were subsequently charged with possession with intent to deliver a controlled substance, possession of a controlled substance and criminal conspiracy. Both men filed motions to suppress on the ground that their constitutional rights had been violated by the interceptions. A suppression hearing was held in which the Commonwealth presented evidence that it had permission to record the conversations pursuant to section 5704(2)(ii) of the Act.\nThe trial court initially denied the motion to suppress. After reconsideration, however, the court granted the motion on the basis of our then-recent decision in Commonwealth v. Brion, 539 Pa. 256, 652 A.2d 287 (1994). As discussed more fully below, this court in Brion found that the Pennsylvania Constitution requires a determination of probable cause by a neutral, judicial authority before the Commonwealth may conduct an electronic interception of a face-to-face conversation in one\u2019s home by an individual wearing a body wire.\nThe Superior Court reversed. The Superior Court held that Brion was limited to the use of a body wire by a confidential informant in the home of a defendant and did not apply to the interception of telephone conversations. Accordingly, the Superior Court ruled that the trial court erred in suppressing the first five interceptions on the basis of Brion. It likewise found Brion inapplicable to the sixth interception because that interception occurred at a place of business rather than at a private residence. The court ruled that because the trial court made no factual findings regarding the circumstances surrounding the sixth interception, it could not determine whether the recorded party had a justifiable expectation of non-interception. Thus, it reversed the trial court\u2019s order suppressing the first five interceptions and remanded to the suppression court for an evidentiary hearing as to the sixth interception.\nJudge Brosky dissented, concluding that a telephone conversation placed from, or received in, one\u2019s home is an oral communication occurring within one\u2019s home, and therefore, pursuant to Brion, is not available for interception without authorization by a neutral judicial authority.\nThis court granted allocatur to determine whether our Commonwealth\u2019s Constitution requires that the Commonwealth obtain a probable cause determination from a neutral judicial authority before it may monitor a telephone conversation between a cooperative informant and another individual.\nAs noted earlier, the Act dictates that the Commonwealth must obtain approval for a consensual interception from an individual designated by the Attorney General or District Attorney. 18 Pa.C.S. \u00a7 5704(2)(ii). The Act does not require a probable cause determination. However, this court has determined that in certain circumstances, Article I, Section 8 of the Pennsylvania Constitution provides privacy protections in addition to the Act and requires that the Commonwealth obtain a probable cause determination by a neutral tribunal before the Commonwealth may intercept a communication. Brion. Thus, we must resolve whether under the circumstances described above, the Pennsylvania Constitution provides protections in addition to those contained in the Act.\nAs is the case with all constitutional issues, our logical starting point is the language of the Constitution. Article I, Section 8 of the Pennsylvania Constitution places limitations on governmental searches and seizures of the citizens of our Commonwealth, their homes, and their possessions:\nThe people shall be secure in their persons, houses, papers and possessions from unreasonable searches and seizures, and no warrant to search any place or to seize any person or things shall issue without describing them as nearly as may be, nor -without probable cause, supported by oath or affirmation subscribed to by the affiant.\nPa. Const. Art. I, \u00a7 8.\nThis court has recognized the tenet that Article I, Section 8 of the Pennsylvania Constitution requires that searches and seizures by the Commonwealth be permitted only upon obtaining a warrant based upon probable cause issued by a neutral and detached magistrate. Commonwealth v. Labron, 543 Pa. 86, 669 A.2d 917, 920 (1995). Thus, broadly speaking, searches and seizures conducted without a prior determination of probable cause are unreasonable for constitutional purposes. Id.\nHowever, this probable cause requirement only applies to situations in which the citizen possesses a reasonable privacy expectation in the item searched or seized. See e.g. Commonwealth v. DeJohn, 486 Pa. 32, 403 A.2d 1283 (1979). Therefore, we must initially determine whether Rekasie held a reasonable expectation of privacy in his telephonic communication with Tubridy. The Commonwealth relies, inter alia, on the principle that once Rekasie disclosed information to another in conversation, he lost any expectation of privacy in that information. Thus, the Commonwealth argues that it was not required to obtain a probable cause determination prior to monitoring the telephone conversation between Rekasie and Tubridy. The analytical framework, which this court has applied in considering privacy expectations recognized under the Pennsylvania Constitution, has been less than clear. Thus, consideration of the proper analytical construct to be applied in resolving the issue before the court becomes necessary.\nThe United States Supreme Court\u2019s decision in Katz v. United States, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967), sets forth the foundation for both federal and Pennsylvania constitutional law analysis with respect to constitutionally-protected privacy expectations. Thus, any discussion of whether Rekasie has a justifiable expectation of privacy in a telephone conversation that is protected from unreasonable searches and seizures must necessarily begin with Katz.\nIn Katz, governmental agents attached an electronic listening and recording device to the outside of a public telephone booth and were able to overhear the defendant discussing wagering information over the telephone. The Court determined that the government\u2019s electronic listening to, and recording of, the defendant\u2019s words violated the privacy upon which he justifiably relied while using the telephone booth. In his concurring opinion, Justice Harlan articulated his view of the appropriate inquiry with respect to determining privacy rights under the Fourth Amendment. In determining in which zones or areas a person has a constitutionally-protected expectation of privacy, Justice Harlan set forth a two-fold requirement that a person: (1) have exhibited an actual (subjective) expectation of privacy; and (2) that the expectation be one that society is prepared to recognize as reasonable. Katz, 389 U.S. at 361-62, 88 S.Ct. 507 (Harlan, J., concurring).\nAs the law has developed, it has been Justice Harlan\u2019s concurrence that has been utilized in evaluating expectations of privacy in cases challenging governmental intrusion. Indeed, Harlan\u2019s concurrence has become the standard in determining expectations of privacy under federal law. Smith v. Maryland, 442 U.S. 735, 739-40, 99 S.Ct. 2577, 61 L.Ed.2d 220 (1979).\nFor purposes of this Commonwealth\u2019s Constitutional jurisprudence, our court has also adopted the two-prong Katz construct as the appropriate inquiry for consideration of an individual\u2019s expectation of privacy under Article I, Section 8 of our Constitution. See, e .g., Commonwealth v. Brion, 539 Pa. 256, 652 A.2d 287, 288-89 (1995); Commonwealth v. Blystone, 519 Pa. 450, 549 A.2d 81, 87 (1988).\nWhile oar court has adopted and consistently utilized the Katz standard as the test to determine constitutionally-recognized privacy expectations when interpreting the Pennsylvania Constitution, it has nevertheless declined to follow strictly the post-Katz federal jurisprudence regarding the effect when an individual discloses information to another. Specifically, under Fourth Amendment jurisprudence, a consistent view has evolved that a citizen has virtually no legitimate expectation of privacy in information he or she voluntarily turns over to another. United States v. Miller, 425 U.S. 435, 96 S.Ct. 1619, 48 L.Ed.2d 71 (1976)(bank depositor has no expectation of privacy in financial information voluntarily conveyed to banks and exposed to their employees in the ordinary course of business); Smith v. Maryland, 442 U.S. 735, 744, 99 S.Ct. 2577, 61 L.Ed.2d 220 (1979)(no expectation of privacy in telephone number in context of utilization of pen register; having used his telephone, \u201cpetitioner voluntarily conveyed numerical information to the telephone company and \u2018exposed\u2019 that information to its equipment in the ordinary course of business. In doing so, petitioner assumed the risk that the company would reveal to police the numbers he dialed.\u201d).\nSimilarly, in the context of oral conversations, the United States Supreme Court has made clear that a person cannot have a justifiable and constitutionally-protected expectation that a person with whom he is conversing will not then or later reveal that conversation to the police. Lopez v. United States, 373 U.S. 427, 438, 83 S.Ct. 1381, 10 L.Ed.2d 462 (1963)(no expectation of privacy in conversation with IRS agent); United States v. White, 401 U.S. 745, 752, 91 S.Ct. 1122, 28 L.Ed.2d 453 (1971)(plurality)(no protection to individual against recording of statements by informant using transmitter; \u201cone contemplating illegal activities must realize and risk that his companions may be reporting [his acts and statements] to the police.\u201d); see also United States v. Caceres, 440 U.S. 741, 750-51, 99 S.Ct. 1465, 59 L.Ed.2d 733 (1979).\nThis concept, that one does not have an expectation of privacy in information voluntarily disclosed to another, has been consistently applied by the federal high court in denying assertions of expectations of privacy under the Fourth Amendment; yet, our court has not followed federal jurisprudence lock-step. While on occasion, this court has utilized the disclosure concept to vitiate an assertion of a privacy expectation, most notably in Blystone, more recent case law makes clear that our court has not strictly adhered to the federal tenet that an individual maintains no expectation of privacy in information disclosed to others. Thus, under Pennsylvania Constitutional jurisprudence, it is manifest that a citizen\u2019s expectation of privacy can extend, in some circumstances, to information voluntarily disclosed to others.\nFor example, in DeJohn, swpra, this court found that an individual\u2019s bank records were constitutionally protected, even though such records constituted information disclosed to a third party. Thus, our court diverged from the United States Supreme Court\u2019s disclosure analysis utilized in Miller. Likewise, in Commonwealth v. Melilli, 521 Pa. 405, 555 A.2d 1254 (1989), this court, in addressing an attempt by the police to install a pen register, recognized a privacy interest in telephone numbers accessible by a telephone company, eschewing the reasoning in Smith that there could be no privacy expectation in telephone numbers that were revealed to a telephone company.\nIn the context of a verbal communication, in Brion, our court held that Article I, Section 8 prevents police from sending a confidential informant into the home of an individual to electronically record his conversation by use of a body wire absent a prior determination of probable cause by a neutral judicial authority. In finding a constitutionally-recognized expectation of privacy, our court\u2019s primary focus was on the zone of privacy in the home and the face-to-face conversations taking place therein. The majority did not embrace an analysis based on the disclosure of information, which, as described above, and by the dissenters in Brion, would have resulted in no recognized expectation of privacy. Thus, contrary to the analysis utilized in White, our court, while still applying the Katz privacy expectation construct, found a legitimate expectation of privacy in face-to-face conversations conducted within one\u2019s home.\nMost recently, in Commonwealth v. Alexander, 551 Pa. 1, 708 A.2d 1251 (1998)(plurality) three members of a six member court found no expectation of privacy in a conversation taking place in a defendant-physician\u2019s medical office. While a plurality opinion, Alexander is nevertheless noteworthy. It continues utilization of the Katz standard in this area. Moreover, it is the most recent example of this court\u2019s rejection of an analysis based strictly upon the disclosure of information. Although recognizing the disclosure principle utilized by federal courts, and cited to in Blystone, the three members announcing the judgment of the court declined to extend the court\u2019s previous ruling in Brion to cover interceptions at the defendant\u2019s workplace \u201cunder the circumstances of the case,\u201d Alexander, 708 A.2d at 1257, and opined that a heightened level of expectation of privacy in the workplace might be recognized where communication sought to be intercepted is strictly internal or where the listener was subject to control of the initiator of conversation. Id. Thus, our court has recently affirmed the possibility of a reasonable privacy expectation in information disclosed to another in certain circumstances.\nIn summary, unlike the United States Supreme Court, our court has declined to embrace a constitutional analysis under Article I, Section 8 that relies primarily upon a principle of disclosure. For over twenty years, our court has transcended such a limited analysis and has focused, even when information is voluntarily disclosed to another, on the test in Katz, i.e., both the person\u2019s actual expectation of privacy and the societal recognition of such an expectation of privacy as being reasonable \u2014 a construct which in this Commonwealth takes into account the circumstances of the situation surrounding the disclosure of information as well as the individual\u2019s conduct. We now turn to application of this standard.\nApplying the Katz privacy expectation construct that has evolved under this court\u2019s jurisprudence to the case sub judice, we find that while Rekasie might have possessed an actual or subjective expectation of privacy in the telephone conversation with Tubridy, because of the nature of telephonic communication, it is not an expectation that society would recognize as objectively reasonable. A telephone call received by or placed to another is readily subject to numerous means of intrusion at the other end of the call, all without the knowledge of the individual on the call. Extension telephones and speakerphones render it impossible for one to objectively and reasonably expect that he or she will be free from intrusion. The individual cannot take steps to ensure that others are excluded from the call. Based upon these realities of telephonic communication, and the fact that Rekasie could not reasonably know whether Tubridy had consented to police seizure of the contents of the conversation, we hold that Rekasie did not harbor an expectation of privacy in his telephone conversation with Tubridy that society is willing to recognize as reasonable. Thus, we find that the Commonwealth was not required to obtain a determination of probable cause by a neutral judicial authority prior to monitoring the telephone conversation between Rekasie and the confidential informant Tubridy. See Commonwealth v. Eason, 427 Mass. 595, 694 N.E.2d 1264, 1267-68 (1998).\nRekasie argues that our decision in Brion compels a different result. We disagree. In Brion, this court held that the Pennsylvania Constitution requires a warrant before police may send a confidential informant into one\u2019s home with a body wire to record a conversation with the defendant. This court determined that interception of an oral conversation within one\u2019s home could only pass constitutional muster if a neutral judicial authority makes a prior determination of probable cause.\nQualitatively different than a face-to-face interchange occurring solely within the home in which an individual reasonably expects privacy and can limit the uninvited ear, on a telephone call, an individual has no ability to create an environment in which he or she can reasonably be assured that the conversation is not being intruded upon by another party. On the telephone, one is blind as to who is on the other end of the line. Thus, while society may certainly recognize as reasonable a privacy expectation in a conversation carried on face-to-face within one\u2019s home, we are convinced society would find that an expectation of privacy in a telephone conversation with another, in which an individual has no reason to assume the conversation is not being simultaneously listened to by a third party, is not objectively reasonable.\nRekasie also analogizes the expectation of privacy in a telephone conversation with another to the expectation of privacy that this court has recognized in telephone numbers. Melilli. According to Rekasie, if an individual has a reasonable expectation of privacy in the telephone number that he dials, then he must have a reasonable expectation of privacy in the contents of his or her conversation. We find that this court\u2019s decision in Melilli does not necessarily lead to a conclusion that one possesses a reasonable expectation of privacy in a telephone conversation with another where the other individual has consented to allow police to record the contents of that conversation.\nThe primary issue before the court in Melilli was whether Pennsylvania jurisprudence encompassed a good faith exception to the requirement of probable cause to support an application for the installation of pen registers. As part of the analysis, the court considered whether the installation of pen registers required support by probable cause. In resolving this secondary issue, the court held a pen register cannot be utilized by law enforcement authorities without an order based upon probable cause. In finding that the installation of pen register required a determination of probable cause, the Melilli court, relying heavily upon the analysis undertaken by the Superior Court in Commonwealth v. Beauford, 327 Pa.Super. 253, 475 A.2d 783 (1984), found that there existed a privacy interest in the telephone number that one dials. In recognizing this privacy expectation, the court suggested a privacy expectation in all telephone activities:\nIn Beauford, the Superior Court intended to equate telephone numbers with other forms of telephone communication which are regarded as private. Telephone activities are largely of one piece, and efforts to create distinctions between numbers and conversational content are constitutionally untenable in our view.\nWe do not find Rekasie\u2019s analogy to Melilli to be apt; rather, we regard Melilli to be distinguishable from this case. First, the reasonableness of an expectation of privacy in a telephone number was before the court in Melilli. Conversely, the issue of whether there existed a reasonable expectation of privacy in other telephone activities was not presented in Melilli. In fact, the issue has been first presented to this court in the matter sub judice. Thus, any assumption of a privacy interest in all telephone activities was merely that, an untested assumption.\nMoreover, the Melilli court\u2019s suggestion of a privacy expectation in all telephone activities was not considered in the context of consensual participant monitoring; this changes the complexion of any analysis of a reasonable privacy expectation. Unlike the consensual monitoring situation, there is no other direct participant in the mere dialing of a telephone number. As noted by the court in Beauford, while the number that one dials is conveyed to a telephone company, it is done so to an entity that is a common carrier that has a virtual monopoly over this form of communication and is provided to the telephone company for limited record keeping purposes. Taking into consideration the entity to which a telephone number is disclosed and the limited business purpose for which such information is given, it is reasonable to conclude that society would find an objectively reasonable expectation of privacy in telephone numbers. Thus, this court\u2019s decision in Melilli does not necessarily lead to the conclusion that there exists a reasonable expectation of privacy in a telephone conversation with another.\nAs we find that under the Katz privacy expectation construct, the Appellant\u2019s expectation of privacy in a telephone conversation with another is not one that society is prepared to recognize as objectively reasonable, and that this court\u2019s prior case law does not compel a contrary resolution of this issue, we affirm the order of the Superior Court.\nCASTILLE, Justice, files a concurring opinion joined by SAYLOR, Justice, who also joins the majority opinion.\nZAPPALA, Justice, files a dissenting opinion in which FLAHERTY, Chief Justice, joins.\nNIGRO, Justice, files a dissenting opinion in which FLAHERTY, Chief Justice and ZAPPALA, Justice, join.\n. Act of October 21, P.L. 1000, No. 115, Section 1, et seq., 18 Pa.C.S. \u00a7\u00a7 5701-5727.\nThe Commonwealth proceeded under 18 Pa.C.S. \u00a7 5704(2)(ii):\nIt shall not be unlawful and no prior court approval shall be required under this chapter for:\n(2) Any investigative enforcement officer or any person acting at the direction or request of an investigative or law enforcement officer to intercept a wire, electronic or oral communication involving suspected criminal activities including, but not limited to, the crimes enumerated in section 5708 (relating to order authorizing interception of wire, electronic or oral communications), where:\n(ii) one of the parties to the communication has given prior consent to such interception. However, no interception under this paragraph shall be made unless the Attorney General or a deputy attorney general designated in writing by the Attorney General ... has reviewed the facts and is satisfied that the consent is voluntary and has given prior approval for the interception----\n. Rekasie notes in his brief that the Superior Court erred in finding that there was a recorded conversation between Rekasie and Tubridy at Rekasie's place of employment; rather, the conversation occurred in a garage where Tubridy was employed.\n. Although the Superior Court opinion initially notes that the sixth interception was obtained by the use of a body wire at Tubridy\u2019s place of business, Slip Op. at 9, it subsequently states that the body wire interception occurred at Rekasie\u2019s place of employment. Slip Op. at 10. Based on the latter finding, the court concluded that the record was insufficient to determine whether Rekasie possessed a justifiable expectation of non-interception. A review of the record reveals, and the parties agree, that the body wire interception took place at Tubridy\u2019s place of employment. N.T. July 19, 1993, at 58; Rekasie Brief at 7, n. 2. Although the Commonwealth recognizes the Superior Court\u2019s mistake, Commonwealth Brief, at 14, n. 6, it did not appeal the Superior Court's remand order. Thus, the propriety of the order remanding for an evidentiary hearing on the sixth interception is not at issue in this appeal.\n. As our court stated in Commonwealth v. Blystone, 519 Pa. 450, 549 A.2d 81 (1988), \"a thing remains secret until it is told to other ears, alter which one cannot command its keeping. What was private is now on other lips and can no longer belong to the teller. What one chooses to do with another\u2019s secrets may differ from the expectation of the teller, but it is no longer his secret.\u201d Id., at 87-88.\n. But cf. Ferguson v. City of Charleston, 532 U.S. 67, 121 S.Ct. 1281, 149 L.Ed.2d 205 (2001) in which the United States Supreme Court may have altered its analysis under the Fourth Amendment with respect to the voluntary disclosure of information to another. However, as the issue of voluntary disclosure was only discussed by the dissent, the import of this decision is unknown.\n. Indeed, the United States Supreme Court in White specifically addressed the issue of whether the Fourth Amendment bars from evidence the testimony of governmental agents who related certain conversations which had occurred between the defendant and a government informant which the agents overheard by monitoring the frequency of a radio transmitter carried by the informant into, inter alia, the defendant\u2019s home. The Court found there to be no justifiable expectation of privacy in the conversations. That one conversation took place in the home did not alter the analysis or result. White, 401 U.S. at 751, 91 S.Ct. 1122.\n. Indeed, if it is purely a disclosure analysis that controls, it is impossible to reconcile that construct with the decisions by our court in which a defendant divulged certain information to another, yet our court recognized a constitutionally-protected privacy interest in that information. See, e.g., Brion; Melilli; DeJohn.\n. See Brion (location of the face to face conversation); Melilli (information disclosed to telephone company); DeJohn (information disclosed to banking institution).\n. The court noted in Brian that a defendant\u2019s conduct could be a factor in determining whether an expectation of privacy was reasonable. Brion, 652 A.2d at 289; see also Commonwealth v. Louden, 536 Pa. 180, 638 A.2d 953 (1994)(defendants\u2019 raised voices, audible through the wall of their home, defeated their expectation of privacy).\n. While the interception involved in the case sub judice occurred prior to the decision in Brion, this court has held that the rule articulated in Brion applies to cases on direct appeal where the issue in question was properly preserved at all stages of the adjudication. Commonwealth v. Ardestani, 558 Pa. 191, 736 A.2d 552 (1999). The issue in this case was properly preserved.\n. Our decision today is limited to telephonic communication in the context of consensual wire interceptions. Moreover, we do not address privacy expectations in other means of communication where steps may or may not have been taken to insulate intrusion by others, for example, encrypted communication.",
+        "type": "majority",
+        "author": "CAPPY, Justice."
+      },
+      {
+        "text": "CASTILLE, Justice,\nconcurring.\nI join the majority opinion, subject to one essential qualification. It is clear to me that there is nothing in Article I, \u00a7 8 of the Pennsylvania Constitution that requires the Commonwealth to obtain a determination of probable cause by a neutral, judicial authority before an agent of the Commonwealth may make a simple phone call to an individual\u2019s home telephone number and police may record the ensuing conversation.\nMy point of qualification concerns dicta in the majority opinion concerning whether and when a person may retain a reasonable expectation of privacy in the information itself that he discloses to others. Majority Op. at 629-31. With respect to this discussion, it is essential to recognize what is and is not at issue in this case. This Court does not face a claim that the substance of appellant\u2019s telephone conversation with Tubridy was subject to suppression; i.e., there is no claim that Tubridy should be constitutionally precluded from repeating in court the specific words that he recalled appellant saying to him telephonically. Instead, here, as in Commonwealth v. Brion, 539 Pa. 256, 652 A.2d 287 (1994), Commonwealth v. Blystone, 519 Pa. 450, 549 A.2d 81 (1988), aff'd on other grounds, Blystone v. Pennsylvania, 494 U.S. 299, 110 S.Ct. 1078, 108 L.Ed.2d 255 (1990), and Commonwealth v. Alexander, 551 Pa. 1, 708 A.2d 1251 (1998), the claim is that a tape recording of that conversation, made with Tubridy\u2019s express consent, should be excluded from evidence.\nThe distinction is significant. In my view, the teaching in Commonwealth v. Blystone, respecting the nature of oral communications, remains controlling as to the expectation of privacy one may have in what one says to another. Citing with approval to authority from the United States Supreme Court in that Article I, \u00a7 8 case, Blystone noted that, \u201ca thing remains secret until it is told to other ears, after which one cannot command its keeping. What was private is now on other lips and can no longer belong to the teller. What one chooses to do with another\u2019s secrets may differ from the expectation of the teller, but it is no longer his secret.\u201d 549 A.2d at 87. Implicit in this observation about the very nature of privacy expectations in oral communications was the recognition that one\u2019s listeners can, and often do, repeat the content of a conversation to anyone they choose. That reality, in turn, suggests that, at least in the absence of some recognized privilege, the speaker cannot be said to possess any reasonable expectation that the contents of the conversation itself will remain private once the words are related to another.\nHowever, where, as here, there is more than mere passive listening involved by the government agent \u2014 ie., the government actually records or seizes the words or \u201cdisclosures\u201d at issue, and the defendant seeks to have excluded from evidence the separate fruits of that seizure \u2014 the matter has proven to be more complicated. As the majority accurately notes, this Court\u2019s precedents \u2014 the correctness of which are not at issue in this case \u2014 have disapproved of certain of those seizures, even though the seizure was of information arguably \u201cdisclosed\u201d by the defendant. Although I understand the reason for the majority\u2019s attempt to synthesize the various precedents, the attempted synthesis is not necessary to resolve this appeal. It is enough that, unlike Commonwealth v. Melilli, 521 Pa. 405, 555 A.2d 1254 (1989) and Commonwealth v. DeJohn, 486 Pa. 32, 403 A.2d 1283 (1979), this case involves oral statements the defendant made to another and, unlike Brion, the recording/seizure of the oral statements did not result from the physical entry of a government agent into the defendant\u2019s home, the place where a person \u201cmay legitimately expect the highest degree of privacy known to our society.\u201d Brion, 652 A.2d at 289, quoting Commonwealth v. Shaw, 476 Pa. 543, 383 A.2d 496, 499 (1978).\nHere, as the majority recognizes, appellant knowingly engaged in a conversation that was not confined to the four walls of his home. Even if it is assumed that appellant was standing within the four walls of his home as he spoke into the phone \u2014 this point can only be assumed because, given modem telephone technology, we do not even know if appellant was actually in the home, as opposed to, for example, being on a cordless phone outside his \u201csanctuary\u201d \u2014 he knowingly and voluntarily related his words to Mr. Tubridy, his drug dealing confederate, who was somewhere outside that sanctuary. The police did not violate the \u201csanctity\u201d of appellant\u2019s home in order to seize his words \u2014 appellant freely chose to transmit his words to another outside his home where, within the confines of a police station, they were \u201cseized\u201d by a tape recorder. Whatever expectations of privacy may be found to exist in other circumstances, I agree with the majority that there was no reasonable expectation of non-interception as to this conversation.\nSubject to the qualification explained above, I join the majority opinion.\nThis concurring opinion is joined by SAYLOR, Justice, who also joins the majority opinion.",
+        "type": "concurrence",
+        "author": "CASTILLE, Justice,"
+      },
+      {
+        "text": "ZAPPALA, Justice,\ndissenting.\nToday the majority holds that the Pennsylvania Constitution affords no protection against the government listening to, recording and reporting the details of our private telephone conversations. By holding that we have no expectation of privacy in the confidential messages and conversations transmitted from our telephones, it has placed the freedom of every citizen into the hands of law enforcement authorities. As I believe this decision flies in the face of constitutional liberties and intrudes upon the sanctity of one\u2019s home and the privacy of one\u2019s communications, I most vigorously dissent and join the dissent authored by Mr. Justice Nigro.\nThe majority has authorized the government to seize our words as spoken to another on a telephone in our own homes, requiring nothing more than a willing participant to place the call. This conclusion rests on the majority\u2019s finding that an expectation of privacy in a telephone conversation is not one that society is prepared to recognize as objectively reasonable. The practical effect of this decision, however, goes even farther. For when it is determined that no expectation of privacy exists, there remains nothing of constitutional significance to protect. In other words, if one does not have an expectation of privacy in a telephone conversation engaged in at home, then such a conversation is completely unprotected from government intrusion of any nature. The scant protection afforded by the statute, i.e., the requirement of one-party consent, is rendered superfluous when viewing the right to privacy in this context. Following the majority\u2019s analysis to its logical conclusion, there is no constitutional precept preventing the government from tapping any individual\u2019s telephone line for any reason. Such a conclusion is preposterous given the clear pronouncements of this Court as to the degree of protection afforded an individual\u2019s right to privacy under Article I, Section 8 of the Pennsylvania Constitution.\nIn Commonwealth v. Brion, 539 Pa. 256, 652 A.2d 287 (1994), our Court expressly held that society recognizes a reasonable expectation of privacy in one\u2019s home and that therefore a warrant is required prior to interception of oral communications spoken there. In Brion, the police sent a confidential informant wearing a consensual body wire into the home of the defendant in order to electronically record his conversations and transmit them to law enforcement officers. We ruled that although section 5704(2)(ii) of the Wire Tap Act allows for the interception of communications where one party has consented, when applied to the interception of oral communications occurring within one\u2019s home, this provision could only pass constitutional muster if a neutral judicial authority makes a prior determination of probable cause. We stated:\nIf nowhere else, an individual must feel secure in his ability to hold a private conversation within the four walls of his home. For the right to privacy to mean anything, it must guarantee privacy to an individual in his own home. As then-justice Roberts stated in Commonwealth v. Shaw, 476 Pa. 543, 550, 383 A.2d 496, 499 (1978): Upon closing the door of one\u2019s home to the outside world, a person may legitimately expect the highest degree of privacy known to our society. (Citations omitted.)\n652 A.2d at 289 (footnotes omitted).\nBecause there was no prior determination of probable cause by a neutral judicial authority, we held that the consensual body wire violated Article I, Section 8, and the recording of the conversation in the defendant\u2019s home should have been suppressed. The majority erroneously concludes that this heightened expectation of privacy does not apply in the instant case. The controlling factor in Brion was that the intercepted communications were uttered in the sanctity of the defendant\u2019s private residence, where he possessed a recognized expectation of privacy and noninterception. The decision was not based upon the manner of interception, i.e., the body wire worn by the informant to transmit the defendant\u2019s conversations. Our Court expressly stated that \u201can individual can reasonably expect that his right to privacy will not be violated in his home through the use of any electronic surveillance.\u201d 652 A.2d at 289 (emphasis added). Thus, the salient fact is that Appellant\u2019s words were uttered in the privacy of his home and were intercepted by the government without a showing of probable cause.\nThe majority also misinterprets case law addressing the expectation of privacy one has in his telephone conversations. In Commonwealth v. Beauford, 327 Pa.Super. 253, 475 A.2d 783 (1984), the Superior Court examined whether the utilization by law enforcement agencies of pen registers or dialed number recorders (DNR) requires a judicial order based upon probable cause. The Act provided that it was not unlawful for \u201c[a]ny investigative or law enforcement officer ... to use a pen register.\u201d 18 Pa.C.S. \u00a7 5704(5). Notwithstanding this statutory language, the Superior Court ruled that because the order authorizing the DNRs was not based on probable cause, the evidence gathered through use of the DNRs should be suppressed. It held that a Pennsylvania citizen\u2019s expectation of privacy in the telephone numbers he calls is reasonable, legitimate and therefore constitutionally protected against government surveillance without probable cause.\nIn rejecting a contrary analysis employed by the United States Supreme Court in Smith v. Maryland, 442 U.S. 735, 99 S.Ct. 2577, 61 L.Ed.2d 220 (1979), the court stated:\n[W]e are convinced that a person picking up his telephone in his home or office fully expects that the number he is about to dial will remain as private as the contents of the communication he is about to have. That number provides a strong, sometimes conclusive inference as to whom is being called, unquestionably a private matter. The caller certainly evidences no intention to shed his veil of privacy merely because he chooses to use the telephone to make private contacts. In modern-day America, the telephone call is a nearly indispensable tool used to conduct the widest range of business, government, political, social, and personal affairs. Certainly the vast majority of calls are unrelated to criminal enterprise, and yet the vast majority of callers would not think of allowing the destination of their every call to be recorded by the police.... In any case we do not hesitate to say that a caller and the person he calls expect and are entitled to as much privacy in the fact they are talking to one another as in what they say to each other.\n475 A.2d at 789. The court asserted that its decision drew independent support from Pennsylvania\u2019s long history of affording special protection to the privacy interest inherent in a telephone call.\nOur Court adopted the Beauford court\u2019s analysis in Commonwealth v. Melilli, 521 Pa. 405, 555 A.2d 1254 (1989), where we found that \u201cBeauford represents the marked trend of our state law to bring intrusions into telephone communications within the confines of an expectation of privacy under the State Constitution and thereby be subject to the requirements demonstrating probable cause.\u201d Id. at 1258. The majority\u2019s attempts to cloud this clear pronouncement of the law are unavailing. It is simply beyond cavil that one\u2019s expectation of privacy in the contents of a conversation is greater than any expectation of privacy in the telephone numbers one dials. I therefore cannot agree that the citizens of this Commonwealth reasonably expect the government to intercept telephone conversations that occur in their homes merely because speaker phones and extension lines have facilitated the means of doing so. Our right to privacy does not rise and fall with technology, but rather is grounded in our state constitution, which has afforded the right to privacy the utmost protection. The future holds more subtle and effective means of invading privacy than we have ever imagined. Rather than relinquish our privacy rights in the face of modem innovation, we should fiercely protect them.\nAccordingly, consistent with Brion and Melilli, the citizens of this Commonwealth have a reasonable expectation of privacy in telephone conversations they engage in at home and therefore a determination of probable cause by a detached judicial authority is required prior to interception. Such a requirement does not create too onerous a burden on the Commonwealth when considering the fundamental rights at stake. As no prior judicial approval was obtained in the instant case, the recording of the telephone conversation Appellant engaged in from his residence should have been suppressed.\nFLAHERTY, Chief Justice, joins this dissenting opinion.\n. At the time, the Act defined \u201cpen register\u201d as a mechanical or electronic device which attaches to a particular telephone line, and which records outgoing numbers dialed by a particular telephone, but does not monitor the contents of any communication or record the origin of an incoming communication. 18 Pa.C.S. \u00a7 5702. The DNR utilized in Beauford had the additional capability of monitoring the length of time the targeted phone was off the hook during outgoing and incoming calls.\n. In Smith, the United States Supreme Court held that the use of a pen register was not a search under the Fourth and Fourteenth Amendments to the United States Constitution. It reasoned that a telephone caller could entertain no legitimate expectation of privacy in the numbers he dialed because the telephone company had access to the information, much like a bank has access to one\u2019s bank records. See United States v. Miller, 425 U.S. 435, 96 S.Ct. 1619, 48 L.Ed.2d 71 (1976) (one does not have a legitimate expectation of privacy in his bank records because they are readily accessible to bank and bank employees). But cf. Commonwealth v. DeJohn, 486 Pa. 32, 403 A.2d 1283 (1979) (Article I, Section 8 of the Pennsylvania Constitution requires a warrant based on probable cause in order for police to gain access to bank records).",
+        "type": "concurrence",
+        "author": "ZAPPALA, Justice,"
+      },
+      {
+        "text": "NIGRO, Justice,\ndissenting.\nIn holding that the citizens of this Commonwealth have no expectation of privacy in their telephone conversations, the majority has unwittingly cast aside the Constitution of this Commonwealth as well as controlling precedent of this Court. Because I believe that the majority has compromised our settled jurisprudence merely to reach a desired end result, I emphatically dissent.\nI am mystified by the fact that while an individual has a reasonable expectation of privacy in a dialed telephone number, see Commonwealth v. Melilli, 521 Pa. 405, 555 A.2d 1254 (1989), that person, according to the majority, has absolutely no privacy expectation in the content of his conversation. The majority\u2019s attempt to distinguish Melilli by noting that the question of privacy in \u201call telephone activities\u201d was not the issue before the Melilli court ignores the illogic of protecting a dialed telephone number but not the content of the conversation. The majority\u2019s analysis is a prime example of failing to see the forest for the trees.\nThe majority\u2019s decision effectively renders this Court\u2019s decision in Commonwealth v. Brion, 539 Pa. 256, 652 A.2d 287 (1994), moot. Now that the Commonwealth may record an individual\u2019s statements made in his home over a telephone line without any prior judicial determination of probable cause, why would the Commonwealth ever bother sending an informant into the home in order to intercept conversations? By way of a simple telephone call, the Commonwealth can now record any conversation at its discretion without having to obtain the judicial approval needed to record a face-to-face conversation.\nThe majority alleges that Brion is distinguishable because an individual has less control over who may intrude upon a telephone conversation, as opposed to a face-to-face conversation. I simply cannot agree, however, that it is unreasonable for a person who receives a telephone call to conclude that others are not listening in on the conversation. Moreover, as Mr. Justice Zappala notes in his dissent, the majority\u2019s analysis ignores Brion\u2019s holding that \u201can individual can reasonably expect that his right to privacy will not be violated in his home through the use of any electronic surveillance.\u201d Brion, 652 A.2d at 289 (emphasis added). Thus, Brion is clear that whether the intercepted conversation occurs face-to-face or over the telephone is irrelevant if a person is in the privacy of his home.\nAccording to the majority, the existence of extension telephones and speakerphones make it unreasonable for citizens to assume that their telephone conversations are private. Given the ever-increasing technological means for eavesdropping into private affairs, it appears, under the majority\u2019s rationale, that it is only a matter of time before there is no privacy anywhere or in anything. In my view, the constantly expanding ways in which the Commonwealth is able to intrude upon our private affairs calls for heightened, rather than diminished, protection of our constitutional rights. Requiring the Commonwealth to obtain a judicial determination of probable cause prior to interception of an individual\u2019s telephone conversation is not so heavy a burden as to outweigh a citizen\u2019s fundamental constitutional right to be free from such intrusion. I respectfully dissent.\nFLAHERTY, Chief Justice, and ZAPPALA, Justice, join in the dissenting opinion.\n. The majority claims that Melilli's recognition of a privacy right in all telephone activities was merely an \u201cuntested assumption.\u201d Op. at 632. However, Melilli clearly stated that \"[tjelephone activities are largely of one piece, and efforts to create distinctions between numbers and conversational content are constitutionally untenable in our view.\u201d Melilli, 555 A.2d at 1259.",
+        "type": "dissent",
+        "author": "NIGRO, Justice,"
+      }
+    ],
+    "attorneys": [
+      "James R. Wilson for K. Rekasie.",
+      "Caroline Roberto, and Paul D. Boas, Pittsburgh, for amicus.",
+      "Michael W. Streily, Pittsburgh, for Commonwealth of PA."
+    ],
+    "corrections": "",
+    "head_matter": "778 A.2d 624\nCOMMONWEALTH of Pennsylvania, Appellee, v. Kirk REKASIE, Appellant.\nSupreme Court of Pennsylvania.\nArgued March 8, 2000.\nDecided Aug. 20, 2001.\nReargument Denied Nov. 27, 2001.\nJames R. Wilson for K. Rekasie.\nCaroline Roberto, and Paul D. Boas, Pittsburgh, for amicus.\nMichael W. Streily, Pittsburgh, for Commonwealth of PA.\nBefore: JOHN P. FLAHERTY, Chief Justice, and ZAPPALA, CAPPY, CASTILLE, N1GRO, NEWMAN, AND SAYLOR, JJ."
+  },
+  "file_name": "0085-01",
+  "first_page_order": 195,
+  "last_page_order": 218
+}

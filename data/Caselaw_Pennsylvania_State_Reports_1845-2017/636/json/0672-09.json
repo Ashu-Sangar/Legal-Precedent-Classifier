@@ -1,0 +1,70 @@
+{
+  "id": 12284611,
+  "name": "Com. v. Jessee",
+  "name_abbreviation": "Com. v. Jessee",
+  "decision_date": "2016-08-23",
+  "docket_number": "752 MAL (2015)",
+  "first_page": "672",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 672"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 108",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.712,
+    "sha256": "d9ab3b57fc5ccb032008c73b98a5d18e9cb1c466521ba8ea37b53c6058ba6aa4",
+    "simhash": "1:af73fac1bb4f70d4",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jessee"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 108",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jessee\n08/23/2016\n752 MAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0672-09",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

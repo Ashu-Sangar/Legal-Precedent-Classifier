@@ -1,0 +1,575 @@
+{
+  "id": 896111,
+  "name": "W. H. Saylor, Appellant, v. The Pennsylvania Canal Company",
+  "name_abbreviation": "Saylor v. Pennsylvania Canal Co.",
+  "decision_date": "1897-11-08",
+  "docket_number": "Appeal, No. 378",
+  "first_page": "167",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Pa. 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "52 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/52/0117-01"
+      ]
+    },
+    {
+      "cite": "68 Pa. 357",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/68/0357-01"
+      ]
+    },
+    {
+      "cite": "56 Pa. 325",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1009177
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/56/0325-01"
+      ]
+    },
+    {
+      "cite": "18 Pa. 187",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        969159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/18/0187-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0175-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 85",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483385
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/8/0085-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 38",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "66 Pa. 91",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        432483
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/66/0091-01"
+      ]
+    },
+    {
+      "cite": "41 Pa. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        480002
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/41/0147-01"
+      ]
+    },
+    {
+      "cite": "46 Pa. 130",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "101 Pa. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 Pa. 304",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "115 Pa. 184",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        551790
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/115/0184-01"
+      ]
+    },
+    {
+      "cite": "53 Cal. 403",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2343061
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/53/0403-01"
+      ]
+    },
+    {
+      "cite": "21 Minn. 502",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        738402
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/21/0502-01"
+      ]
+    },
+    {
+      "cite": "122 Mass. 1",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2134579
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/122/0001-01"
+      ]
+    },
+    {
+      "cite": "113 Mass. 218",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        741037
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/113/0218-01"
+      ]
+    },
+    {
+      "cite": "15 Gray, 1",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        2089367
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/81/0001-01"
+      ]
+    },
+    {
+      "cite": "2 Gray, 137",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1998259
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/68/0137-01"
+      ]
+    },
+    {
+      "cite": "19 Conn. 135",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Phila. 199",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "54 Pa. 401",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006299
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/54/0401-01"
+      ]
+    },
+    {
+      "cite": "62 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1017259
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/62/0218-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. 91",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/50/0091-01"
+      ]
+    },
+    {
+      "cite": "28 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981638
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/28/0108-01"
+      ]
+    },
+    {
+      "cite": "10 Bosw. 180",
+      "category": "reporters:state",
+      "reporter": "Bosw.",
+      "case_ids": [
+        1318728
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/23/0180-01"
+      ]
+    },
+    {
+      "cite": "34 Conn. 1",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        507708
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/34/0001-01"
+      ]
+    },
+    {
+      "cite": "37 N. Y. 650",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 N. Y. 402",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 N. Y. 161",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "115 Pa. 197",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Pa. 109",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        979562
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/27/0109-01"
+      ]
+    },
+    {
+      "cite": "14 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        405933
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/14/0065-01"
+      ]
+    },
+    {
+      "cite": "117 Pa. 613",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        555839
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/117/0613-01"
+      ]
+    },
+    {
+      "cite": "116 Pa. 472",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        554356
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/116/0472-01"
+      ]
+    },
+    {
+      "cite": "17 W. N. C. 198",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 W. N. C. 50",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 Pa. 352",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        545216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/111/0352-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 73",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988375
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0073-01"
+      ]
+    },
+    {
+      "cite": "22 Pa. 54",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        413749
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/22/0054-01"
+      ]
+    },
+    {
+      "cite": "90 Pa. 181",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1065607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/90/0181-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057840
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/87/0240-01"
+      ]
+    },
+    {
+      "cite": "73 Pa. 491",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032306
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/73/0491-01"
+      ]
+    },
+    {
+      "cite": "51 Pa. 351",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        999763
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/51/0351-01"
+      ]
+    },
+    {
+      "cite": "46 Pa. 223",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        420605
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/46/0223-01"
+      ]
+    },
+    {
+      "cite": "90 Pa. 281",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1065616
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/90/0281-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. 91",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425182
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/50/0091-01"
+      ]
+    },
+    {
+      "cite": "73 Pa. 491",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/73/0491-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 768,
+    "char_count": 13930,
+    "ocr_confidence": 0.454,
+    "pagerank": {
+      "raw": 1.3921606401901122e-07,
+      "percentile": 0.6430164461325738
+    },
+    "sha256": "7eeb027a3821bfc44b0f136074e008cf7876f15019df3e1d16f6f4676a2cb9fa",
+    "simhash": "1:f83b0fec543f80b4",
+    "word_count": 2505
+  },
+  "last_updated": "2024-02-27T17:43:11.667986+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Sterrett, C. J., Green, Williams, McCollum and Dean, JJ."
+    ],
+    "parties": [
+      "W. H. Saylor, Appellant, v. The Pennsylvania Canal Company."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice McCollum,\nIt was held in Buck Mountain Coal Company v. The Lehigh Coal and Navigation Company, 50 Pa. 91, that a bill in equity to enforce the performance of public duties by a corporation cannot be maintained by a private party in the absence of a special right or authority. Thompson, J., in delivering the opinion of the court said: \u201c There are many authorities in England and in this country which deny the right of private parties, in their own names \u2014 in the absence of special laws \u2014 when their interests are only in common with the public, to compel the performance of a duty to the public. The reason is that if one individual may interpose, any other may, and as the decision in one individual case would be no bar to any other, there would be no end to litigation and strife. The general laws of order, so necessary to good government, forbid anything like this.\u201d It follows from the decision in the ease cited that the plaintiff in the case under consideration cannot maintain an action to compel the'performance by the Pennsylvania Canal Company of the duty imposed by the Act of May 16,1857, P. L. 519. The commonwealth may compel it, but a private citizen cannot. The learned counsel for the plaintiff concedes this much, but contends that a party who is injured by the company\u2019s neglect to perform it may have an action for damages. The duty of the defendant company undoubtedly was to keep the canal open and in repair as a public highway, \u201c for the use and enjoyment of all parties desiring to use and enjoy the same.\u201d That portion of the Juniata division of the canal to which the contention of the plaintiff relates was virtually destroyed by the flood of 1889. It has not been navigable since, and the company has made no effort to reconstruct it. It extends from the Millers-town dam to the Newton Hamilton dam, a distance of fifty-four miles. No claim is made that prior to the flood referred to the company was remiss in the performance of its duty to keep this canal in repair. It was not therefore responsible for injuries occasioned by the flood: Penna. Railroad Company v. Patterson, 73 Pa. 491, and Penna. Canal Company v. Burd, 90 Pa. 281. The plaintiff\u2019s boat was not destroyed or injured by the flood or by the failure of the defendant company to reconstruct the canal between the points above mentioned. He could not after the flood, use his boat for the transportation of goods and passengers between these points, nor could any other lessee or owner of a boat use his for a like purpose. The business in which the plaintiff was engaged was open to all persons using or desiring to use the canal for the purpose for which it was constructed. The privilege he exercised and enjoyed was not special or peculiar, nor was the injury he alleges lie sustained by the neglect or failure of the company to repair or reconstruct the highway it was required as a purchaser to maintain. The privilege was such as any person who chose to exercise it wa\u00bb entitled to, and the injury done by the abandonment of the highway was not to the plaintiff alone but to him in common vith the public. The difference, if any, was only in degree, and t'ais will not sustain his suit.\nThe eases cited by the plaintiff from our own reports are plainly distinguishable in their facts from the case under consideration, and are not applicable to it, as an examination of them will clearly show. It follows from what has been said that the learned court below did not err in directing a verdict for the defendant.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice McCollum,"
+      }
+    ],
+    "attorneys": [
+      "William H. Sponsler, for appellant.",
+      "B. F. Junkin and L. F. Atkinson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "W. H. Saylor, Appellant, v. The Pennsylvania Canal Company.\nEquity \u2014 Parlies\u2014Public corporation \u2014 Bill to enforce the performance of public duties.\nA bill in equity to enforce the performance of public duties by a corporation cannot be maintained by a private party in the absence of a special right or authority.\nA private citizen has no standing to recover damages from a canal company for failure to reconstruct a portion of its canal which was destroyed by a flood, because he was prevented from using his boat on the canal, from which use he derived a profit.\nArgued May 24, 1897.\nAppeal, No. 378, Jan. T., 1896, by plaintiff, from judgment of C. P. Perry Co., Aug. T., 1891, No. 5, on verdict for defendant.\nBefore Sterrett, C. J., Green, Williams, McCollum and Dean, JJ.\nAffirmed.\nSterrett, C. J., dissents.\nTrespass to recover damages for failure to repair a canal. Before Lyons, P. J.\nThe facts appear by the charge of the court below, which was as follows:\nWilliam H. Saylor, the plaintiff in this suit, brings- this action of trespass against the defendant, the Pennsylvania Canal Company, to recover damages which he alleges he sustained by reason of the negligence of the defendant in not keeping in good repair and operating condition that part of the Juniata division of the canal extending from the Millerstown dam to' the Newton Hamilton dam, a distance of fifty-four miles, within a reasonable time from and after the first of June, 1889. The plaintiff alleges that at that time, and for some time prior thereto, he was the owner of a canal boat, the Louis E. Atkinson, and was engaged in the business of boating, and that he had established a regular and certain trade upon that division of the canal by which he was enabled to make large gains and profits. That by reason of the neglect of the defendant company to keep and maintain that portion of the canal in good repair and navigable condition his boat was rendered almost valueless, because it was not adapted to the trade on the other portions of the said canal on account of the smallness of its dimensions, and that in consequence of this failure and neglect on the part of the defendant he was unable to secure freight to carry, and that he lost large sums of money on that account. The plaintiff has produced testimony tending to show that he has sustained damages as alleged.\nIt is not denied that the defendant has wholly neglected to put in good repair and navigable condition, and so maintain the same, that portion of the canal from the Millerstown dam to the Newton Hamilton dam from about June 1, 1889, to-the date of the bringing of this suit, which was April 20,1891, but alleges that it could not reasonably have been required to do so within the time, owing to the magnitude of the work required to repair the damages occasioned by the disastrous flood which occurred about June 1, 1889, and which swept over the entire' line of tbe canal, destroying bridges, washing away embankments and aqueducts, and in some places filling up and almost obstructing the canal. But as I understand the law as applicable to this case it will be unnecessary to trouble you with determining these questions of fact and ascertaining the amount of damages which the plaintiff has sustained.\nThe disastrous flood of 1889 rendered this portion of the canal entirely unnavigable and it has so remained. The Act of Assembly of May 16,1857, P. L. 519, entitled \u201can act for the sale of the main line of the public works,\u201d provided that immediately after the purchaser or purchasers, or their assigns, shall take possession of tbe canal, the said purchaser, or purchasers, or assigns, shall be bound ever after to keep in good repair and operating condition the line of said railroad and canal, and extending from Hollidayslrarg to Philadelphia. The Juniata division, extending from the Millerstown dam to the Newton Hamilton dam, is a part of this canal. [The Pennsylvania Railroad Company became the purchaser under that act of assembly, and its rights to the same were duly conveyed to the Pennsylvania Canal Company, by deed dated March 80, 1867, and all the duties which the Pennsylvania Railroad Company owed to keep the said canal in repair and navigable condition devolved on the defendant. It will thus be seen that it was the duty of the defendant to keep this canal in good repair, so that the same \u201cshall be and remain forever a public highway for the use of all persons or companies engaged, or wishing to engage, in the business of the transportation of tonnage, or passengers, they paying just and fair charges therefor.\u201d But while it was the duty of the defendant company to thus keep this, as well as other portions of the canal in repair, the plaintiff had no other or greater right to demand the performance of this duty than other citizens of the commonwealth. The right to demand and compel the performance of this duty rests in the commonwealth alone. No private citizen can enforce it. We, therefore, say to you as a matter of law that under the facts of this case, this plaintiff cannot recover, and your verdict will be for the defendant.] [8]\nVerdict and judgment for defendant. Plaintiff appealed.\nError assigned among others was (8) above instruction, quoting it.\nWilliam H. Sponsler, for appellant.\nThe idea that, because the contract established by the act of 1857 was between the purchaser of the canals and the commonwealth, it was not in the power of an individual by his action at law to recover damages for special injury to himself for failure of the purchaser of the canals to do its duty, has always been repudiated by this court: Penna. It. It. v. Duquesne, 46 Pa. 223; Com. v. Penna. It. R. 51 Pa. 351; Penna. R. R. v. Patterson, 73 Pa. 491; Penna. Canal Co. v. Manning, 87 Pa. 240; Penna. Canal Co. v. Burd, 90 Pa. 181; Pittsburgh v. Grier, 22 Pa. 54; Schuylkill Nav. Co. v. McDonough, 33 Pa. 73.\nWhenever a public statute enacts anything for the benefit of a certain person or class of persons, and the person or body' whose duty it is under the statute to perform that benefit for the other fails to do it, an action lies by the beneficiary to recover damages for the failure: 1 Comyn\u2019s Digest, 230; 3 Robinson\u2019s Practice, 424; Penna. R. R. v. Duncan, 111 Pa. 352; Levering v. Phila., Germantown and Chestnut Hill R. R., 18 W. N. C. 50; P. & R. R. R. v. Patent, 17 W. N. C. 198; Penna. R. R. v. Lippincott, 116 Pa. 472; North Cent. Ry. Co. v. Holland, 117 Pa. 613.\nIt is admitted that if a remedy had been given to the boat owner by the statute by which he could have obtained damages for his loss as fully as by his common-law action, it would have been his duty to have pursued it: McKinney v. Monongahela' Nav. Co., 14 Pa. 65; Weller v. Weyand, 2 Gr. Cases, 103; Brown v. White Deer Twp., 27 Pa. 109.\nThe rule as to what will take an individual who has suffered injury along with the general public out of the general class and give him a right of action for damages against the wrongdoer has been stated by this court in Gold v. Philadelphia, 115 Pa. 197.\nWhether the duties owed by the defendant were contractual or imposed, it seems to us it was bound to perform them, and a failure to do so within a reasonable time is negligence : Shearman & Redfield on Negligence (3d ed.). sec. 4 ; Weet v. Broekport, 16 N. Y. 161; Robinson v. Chamberlain, 34 N. Y. 402; Fulton Ins. Co. v. Baldwin, 37 N. Y. 650; Regis v. Henley, 27 Eng. Com. Law Rep. 375; Jones v. New Haven, 34 Conn. 1; Claybnrgh v. Chicago, 25 111. 440; Exchange Ins. Co. v. D. & H. Canal Co., 10 Bosw. 180.\nB. F. Junkin and L. F. Atkinson, for appellee.\nThe complaint is for not restoring tbc canal so that the plaintiff could have gone on with his business of boating. The defendant says:\n1. That even though there was a neglect of a duty imputable to this defendant in not repairing the canal mentioned, yet said duty is only enforceable at the instance of the commonwealth of Pennsylvania._\n2. That plaintiff had no legal right to sue for alleged damages consequent on its non reconstruction between Millerstown dam and Newton Hamilton dam, fifty-four miles, after June Hood of 1889.\n3. That the basis of said alleged damage is wholly speculative; plaintiff cannot know as a fact that the rates fixed by said canal company, if said canal had been maintained by said defendant, would have been less for transportation than those paid to railroad companies.\n4. That had the plaintiff been afforded the canal for boating, it cannot be told by themselves, or anybody else, whether they would have lost or gained in pursuing the business of boating : Heffner v. Com., 28 Pa. 108; Buck Mountain Coal Co. v. Le-high Coal and Nav. Co., 50 Pa. 91; Cumberland Valley R. R. Co.\u2019s App., 62 Pa. 218; Sparhawk v. Pass. Ry., 54 Pa. 401; Peterson v. Ry. Co., 5 Phila. 199: Pierce v. Dart, 7 Cowen, 609 ; Lansing v. Smith, 8 Cowen, 146; Seeley v. Bishop, 19 Conn. 135; Higbee v. C. & A. R. R., 19 N. J. Equity, 278 ; Blood v. N. & L. R. R., 2 Gray, 137; Harvard College v. Stearns, 15 Gray, 1; Bray ton v. Fall River, 113 Mass. 218; Blackwell v. R. R., 122 Mass. 1; Shawbut v. R. R., 21 Minn. 502; Bigley v. Neman, 53 Cal. 403 ; Benjamin v. Storr, L. R., 9 C. P. 400; Lyon v. Fishmongers Co., L. R. 1 App. Cas. 662; Gold v. Phila., 115 Pa. 184 ; Pittsburgh, etc., R. R. v. Jones, 111 Pa. 304; Proprietors of Quincy Canal v. Newcomb, 7 Metcalf, 276 ; Beltzlioover Borough v. Gollings, 101 Pa. 295; Monongaliela Bridge Co. v. Kirk, 46 Pa. 130; Clarke v. Birmingham, etc., Bridge Co., 41 Pa. 147; Freeland v. P. R. R. Co., 66 Pa. 91; Whitaker v. Del. & Hudson Canal Co., 87 Pa. 38.\nA common-law action does not lie against a corporation for consequential injuries occasioned by the construction and operation of its works: Monongaliela Nav. Co. v. Coons, 6 W. & S.101; Henry v. Bridge Co., 8 W. & S. 85; Erie R. R. v. Young, 33 Pa. 175; O\u2019Connor v. Pittsburgh, 18 Pa. 187; Cleveland, etc., R. R. v. Speer, 56 Pa. 325; West Branch Canal Co. v. Mulliner, 68 Pa. 357.\nThe Pennsylvania act authorizing the sale of the state canals imposed upon the purchasers the duties and liabilities of the commonwealth only: Del. Div. Canal Co. v. McKeen, 52 Pa. 117; Freeland v. P. R. R. Co., 66 Pa. 91; Com. v. P. R. R. Co., 51 Pa. 351; Moore v. Wabash Canal, 7 Indiana, 462; 28 Am. & Eng. Ency. of Law, 1051. '\nNovember 8, 1897:"
+  },
+  "file_name": "0167-01",
+  "first_page_order": 187,
+  "last_page_order": 193
+}

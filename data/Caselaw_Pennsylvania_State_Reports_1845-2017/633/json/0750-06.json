@@ -1,0 +1,70 @@
+{
+  "id": 12281674,
+  "name": "Com. v. Halstead",
+  "name_abbreviation": "Com. v. Halstead",
+  "decision_date": "2015-09-14",
+  "docket_number": "381 MAL (2015)",
+  "first_page": "750",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 750"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "109 A.3d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.901,
+    "sha256": "db3209eb52a5347d3a952c40d94cd5091ad73c13e52dc347b536238fd5716e6a",
+    "simhash": "1:1a30111d45105583",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Halstead"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 109 A.3d 372",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Halstead\n09/14/2015\n381 MAL (2015)"
+  },
+  "file_name": "0750-06",
+  "first_page_order": 804,
+  "last_page_order": 804
+}

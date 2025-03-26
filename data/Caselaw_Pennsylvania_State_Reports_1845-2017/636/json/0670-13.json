@@ -1,0 +1,108 @@
+{
+  "id": 12284323,
+  "name": "Com. v. Chester",
+  "name_abbreviation": "Com. v. Chester",
+  "decision_date": "2016-08-16",
+  "docket_number": "168 EAL (2016)",
+  "first_page": "670",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 670"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486694,
+        12486695,
+        12486696,
+        12486697,
+        12486698,
+        12486699,
+        12486700,
+        12486701,
+        12486702,
+        12486703,
+        12486704,
+        12486705,
+        12486706,
+        12486707,
+        12486708,
+        12486709,
+        12486710
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0206-10",
+        "/a3d/144-2/0206-11",
+        "/a3d/144-2/0206-12",
+        "/a3d/144-2/0206-13",
+        "/a3d/144-2/0206-14",
+        "/a3d/144-2/0206-15",
+        "/a3d/144-2/0206-16",
+        "/a3d/144-2/0206-17",
+        "/a3d/144-2/0206-01",
+        "/a3d/144-2/0206-02",
+        "/a3d/144-2/0206-03",
+        "/a3d/144-2/0206-04",
+        "/a3d/144-2/0206-05",
+        "/a3d/144-2/0206-06",
+        "/a3d/144-2/0206-07",
+        "/a3d/144-2/0206-08",
+        "/a3d/144-2/0206-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.799,
+    "sha256": "5e78f6e64d1626520f0d49c9650d5a993937013de8303f528b024aff64a39b25",
+    "simhash": "1:2d36eacaaee77ad6",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Chester"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 206",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Chester\n08/16/2016\n168 EAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0670-13",
+  "first_page_order": 722,
+  "last_page_order": 722
+}

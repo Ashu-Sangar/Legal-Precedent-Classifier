@@ -1,0 +1,175 @@
+{
+  "id": 1303555,
+  "name": "Descamp Estate",
+  "name_abbreviation": "Descamp Estate",
+  "decision_date": "1961-12-05",
+  "docket_number": "Appeal, No. 246",
+  "first_page": "331",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "405 Pa. 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "38 U.S.C.A. \u00a7101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 U.S.C.A. \u00a7102",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 U.S.C.A. \u00a71001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        },
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "355 U. S. 608",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170294,
+        6170215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/355/0608-02",
+        "/us/355/0608-01"
+      ]
+    },
+    {
+      "cite": "153 F. Supp. 826",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4281472
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/153/0826-01"
+      ]
+    },
+    {
+      "cite": "298 U. S. 94",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1486216
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/298/0094-01"
+      ]
+    },
+    {
+      "cite": "305 U. S. 85",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/305/0085-01"
+      ]
+    },
+    {
+      "cite": "38 U.S.C.A. \u00a7\u00a73404",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Stat. 1238",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 800,
+    "char_count": 15492,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 9.565339784941073e-08,
+      "percentile": 0.5254995561517293
+    },
+    "sha256": "21a0971ecdbed70f610327b45aebf20910acf8f9e763ff85b2a097f7fa59dc53",
+    "simhash": "1:13998e500e4dc577",
+    "word_count": 2545
+  },
+  "last_updated": "2024-02-27T17:55:57.255417+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen and Alpern, JJ.",
+      "Mr. Justice Cohen concurs in the result."
+    ],
+    "parties": [
+      "Descamp Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justice Musmanno,\nJudith Ruth Descamp is the helpless stepchild of a deceased war veteran of the United States. About a year before the minor\u2019s eighteenth birthday, her guardian was notified by the Veterans\u2019 Administration and Social Security Administration that all benefits payable in her behalf by those agencies would cease as of her eighteenth birthday. The guardian, Pittsburgh National Bank, appealed from this decision to the agencies involved. Counsel was engaged to press the claims of the ward. The appeals were successful. and counsel charged a fee of $1100 for his services. The guardian paid the amount, but at the audit of its account in the Orphans\u2019 Court of Allegheny County the Veterans\u2019 Administration, as an interested party under the Act of April 24, 1929, P. L. 647, 20 PS \u00a7788, filed exceptions to payment of the $1100 fee, asserting that the maximum amount payable to attorneys in the circumstances indicated was $10, as specified by the Act of Congress of September 2, 1958, P. L. 85-857, 72 Stat. 1238-1239, 38 U.S.C.A. \u00a7\u00a73404, 3405.\nThe Court sustained the position of the Veterans\u2019 Administration and surcharged the guardian in the amount of $1090, giving the guardian credit for the $10 allowed by the Act of Congress. The guardian appealed.\nSection 3404 of the Act of 1958 above referred to provides in part: \u201c(a) The administrator may recognize any individual as an agent or attorney for the. preparation, presentation, and prosecution of claims under laws administered by the Veterans\u2019 Administration . .'. (c) The Administrator shall determine and pay fees to agents or attorneys recognized under this section, in allowed claims for monetary benefits under laws administered by the Veterans\u2019 Administration. Such fees (1) shall be determined and paid as pregcribed by the Administrator; (2) shall not exceed $10 with respect to any one claim; and (3) shall be deducted from monetary benefits claimed and allowed.\u201d (Emphasis supplied.)\nThe appellant contends that this statutory provision was not binding on counsel because he did not apply to be recognized under Section 3404 and that, therefore, not being recognized, the limitation under (c) (2) cannot influence his standing. The interpretation asked for by counsel would lead to the absurdity that attorneys not formally recognized could obtain a greater amount of compensation than those recognized by the Veterans\u2019 Administration. This would mean that by remaining without the walls of protection erected for the disabled veteran, one could obtain a larger fee than those who enter by the gate and submit themselves to Congressional regulation and direction. Certainly Congress never intended such stultification.\nNor could the effect of the Congressional Act under consideration be avoided by the fact that counsel employed \u201cthe services of the Disabled American Veterans\u2019 representative to conduct the questioning at the Veterans\u2019 Administration hearing.\u201d\nWhether the questioning was done by the attorney employed by the guardian or by someone employed by the attorney, the net result is the same: legal services were performed for which a fee of $1100 was charged and paid. But, without attributing any moral or ethical impropriety to counsel, it is clear that the circuitous route followed by counsel did not achieve the result desired, because the statute prohibits such circuity. Section 3405 provides that: \u201cWhoever (1) directly or indirectly solicits, contracts for, charges, or receives, or attempts to solicit, contract for, charge, or receive, any fee or compensation except as provided in sections 8404 or 784 of this title . . . shall be fined not more than $500 or imprisoned at hard labor for not more than two years, or both.\u201d (Emphasis supplied.)\nAs will be seen by a case later to be cited there have been convictions under similar Congressional acts.\nThen the appellant argues that the guardian is not bound by the pertinent provisions of the Act of 1958 because the money obtained from the Veterans\u2019 Administration was paid to counsel after it had come into the possession of the guardian for the ward and had been mingled with other assets in the estate. The appellant argues that counsel could have been paid from moneys other than those obtained through his efforts in the Veterans\u2019 Administration. In support of this contention counsel cites a lower Court\u2019s decision (Taggart Estate, 11 Fiduc. Rep. 271), where the court held that money once paid over to the state-appointed guardian has \u201cinured wholly to the benefit of the guardian,\u201d and, after having been invested by him, \u201clost the impress of government money.\u201d\nWe cannot accept this decision as an expression of binding law. While, of course, government money does not retain its individuality forever and cannot, unlike the Gulf Stream, be traced at all times across the vast ocean of daily preoccupations, neither can it be said that the wallet of protection within which the money is handed to the beneficiary disintegrates immediately after it leaves the hands of the government agent. What an attorney may not charge (because of statutory prohibition) while the fund is still in the treasury of the United States he. may not collect the moment the money reaches the pocket of the beneficiary. It is to be noted that subsection (c) contains no limitation such as that, contended for. It provides that \u201cThe Administrator shall determine and pay fees to agents or attorneys\u201d and that \u201cSuch fees . . . shall not exceed flO with respect to any one claim . . .\u201d. It does not say that such fees from the amount received shall not exceed flO or that the Administrator shall determine and pay fees from the fund received. In construing the public purpose of the Act, we may not interpret it to have limitations which are clearly not there and certainly not intended, having in view the obviously broad humanitarian purposes of the Act.\nWhile it would seem to be unquestioned that counsel\u2019s efforts in this case brought good results to the ward, and that those efforts in the open forum of wholesome professional activity would entitle him to a fee exceeding $10, we are here concerned not with the reasonable value of an attorney\u2019s services but with an Act of Congress which definitively spells out what the fee shall be.\nIn the case of Hines v. Lowery, 305 U. S. 85, the Supreme Court of the United States passed upon Section 500 of the World War Veterans\u2019 Act which also contained a limit of $10 for counsel fee, as provided in the Act of 1958. The attorney there performed valuable services for the guardian of an insane veteran and he was paid $1500 by the guardian. The Administrator of Veterans\u2019 Affairs protested the payment of this fee and the ensuing litigation reached the Supreme Court of the United States which held that the fee could not exceed $10: \u201cThe history of section 500 manifests beyond doubt the clear establishment of a public policy against the payment of fees for prosecution of veterans\u2019 claims in excess of those fixed by statute. Collection of a greater fee than that fixed in the statute is made a crime, and this Court has sustained a conviction under the statute. Contracts for the coll\u00e9ction of fees in excess of valid statutory limitations and for services validly prohibited by statute cannot stand, whether made with a competent veteran or the guardian of an incompetent veteran. Nor can any court having jurisdiction over an incompetent award a fee in violation of a valid statute. Congress clearly intended to protect all veterans, competent and incompetent, in all courts, state and federal, against the imposition or payment of fees in excess of the amount fixed by statute. In furtherance of this policy the Administrator of Veterans\u2019 Affairs was charged with the express duty of appearing in all courts where it appears that 'any guardian . . . or other person ... is attempting to collect fees . . . in excess of those allowed by law.\u2019 The progressive strengthening of this particular legislative policy precludes any probability that Congress intended to exempt mental incompetents from its protection, and Congress alone is vested with constitutional power to de-; termine the wisdom of this policy.\n''Congressional enactments in pursuance of consth tutional authority are the supreme law of the land. Section 500 is a valid exercise of congressional power. 'The laws of the United States are laws in the several States, and just as much, binding on the citizens and courts thereof as the State laws are.\u2019 \u201d (Emphasis supplied. )\nSection 500 of the World War Veterans\u2019 Act was the precursor of the provision in the -Act of 1958 which is before us for interpretation and enforcement.\nAppellant\u2019s counsel in his brief urges that the Hines v. Lowery case is not controlling in the case at bar but that, on the contrary, the issue here in controversy must be resolved according to the reasoning in Hines v. Stein, 298 U. S. 94. At the oral argument, however, counsel said that the Lowery and the Stein cases were contradictory of each other and that it wa.s up to this Court to decide which of these two authorities to follow. We do not see that the decision is a matter of seesawing between Hines v. Lowery and Hines v. Stein. These cases not only individually cover different sets of circumstances but where they meet in a common circle of comparison the Supreme Court in the Lowery case specifically distinguishes Stein from Lowery as follows: ''Respondent seeks to sustain the $1,500 fee upon the theory that the general power of the New York court to fix fees for services rendered an incompetent under that court\u2019s jurisdiction is not subject to the limitation of $10 for fees as provided in section 500. He' urges that the present case is controlled by the decision in Hines v. Stein, 298 U. S. 94, 98. In that case the Court said, \u2018Nothing brought to our attention would justify the view that Congress intended to deprive ;state courts of their usual authority over fiduciaries, or to sanction the promulgation of rules to that end by executive officers or bureaus.\u2019 This language did not refer to section 500, which we now consider, but toas a construction and interpretation of rules promulgated by the Administrator of Veterans\u2019 Affairs under- authority of sections 4 and 7 of an Act of March 20, 1933, c. 3, 48 8tat. 9, which rules were traceable to sections 111, 114 and 115, Title 38, U.8.G. These code sections are based upon an Act passed in 1884-\n\u201cObviously, the interpretation given rules promulgated in furtherance of a line of legislation dating from I884 cannot be accepted as controlling in determining the intent and effect of a separate and distinct Act (section 500) differing in form, substance and historical background. The rules and statutes construed in Hines v. Stein, supra, have no bearing on this case, which must be determined by the application of section 500.\u201d (Emphasis supplied) (Pages 87-88)\nIn the instant case we are also not dealing with rules promulgated by the Administrator of Veterans\u2019 Affairs, but with a statutory limitation enacted by Congress, similar to that contained in Section 500 of the World War Veterans\u2019 Act. The fact that the claim involved in the present appeal is that of a helpless child of a deceased veteran and not a war risk claim as in the -Hines v. Lowery case is a difference without distinction. The limitation of fees applies to all claims under laws administered by the Veterans\u2019 Administration, the limitation as specified in Sections 1238 and 1239, supra, being as binding as Section 500 interpreted in Hines v. Lowery.\nWhatever may be the feeling of the bar about the legislation under discussion, it is historical fact that for practically one hundred years Congress has consistently limited fees chargeable for legal service rendered to war veterans in the processing of their claims before government bureaus. The first law on this subject was passed in the second year of the Civil War (Act of July 14, 1862, 12 Stafc 568). Since then Congress has not deviated from its protective role in this field.\nIt may be that, as the government provides gratuitous medical services to those who have served the nation in war or national emergency, it intends to make similar provisions where legal services are involved, since it must be obvious that $10, especially today, is not even the shadow of a fee. Whatever a ten dollar bill may have accomplished for a lawyer a half century ago, it today can scarcely compensate the attorney for getting his automobile out of the parking lot and starting for the government bureau and parking it again at the place where he must perform his legal ministrations.\nAttempts have been made to attack the constitutionality of statutes limiting fees for services rendered by attorneys to war veterans, on the basis that such limitation deprives the veteran of counsel, in violation of constitutional guarantees. One such notable attempt occurred in the case of Gostovich v. Valore, D. C. Pa., 1957, 153 F. Supp. 826. There Attorney Hymen Schlesinger of the Allegheny County Bar entered into a contract with a disabled war veteran whereby he was to receive an obese fee of 40% for all sums collected as compensation for the soldier\u2019s disablement. The Veterans\u2019 Administration refused to approve this arrangement because the relevant statute, limited the applicable fee to $10. Mr. Schlesinger contended that this statute was unconstitutional, and the issue was heard by a three-judge tribunal in the United States District Court of Western Pennsylvania. The court decided against Schlesinger\u2019s position and remanded the case to the District Court for any further action required.\nThe denial by the three-judge court was made the subject of an appeal to the Supreme Court of the United States which dismissed the appeal (355 U. S. 608). The remanded case was then heard by the U. S. District Court where Attorney Schlesinger argued that the Administrative Procedure Act, 5 U.S.C.A. \u00a71001 et seq., particularly \u00a71005 (a) which provides that \u201cAny person . . . shall be accorded the right to be accompanied, represented, and advised by counsel . . .\u201d etc., passed by Congress in 1946, supersedes 38 U.S.C.A. \u00a7102 et seq., which became effective in 1936. Judge Willson presiding rejected this contention, stating: \u201cThis court holds that the Administrative Procedure Act of June 11, 1946, 5 U.S.C.A. \u00a71001 et seq., did not repeal the provisions of Title 38 U.S.C.A. \u00a7101 et seq., relating to the presentation of claims before the Veterans Administration.\u201d\nSchlesinger perseveringly appealed from the District Court to the United States Court of Appeals which affirmed the action of the District Court, stating that the dismissal by the United States Supreme Court of Schlesinger\u2019s appeal to that Court \u201csettles the matter:\u201d\nWe are satisfied that there can be no further question about the authority of Congress to circumscribe the payment of attorney\u2019s fees as above indicated, and that, therefore, the action of the lower court in the instant case was proper and just and should be affirmed, and it is accordingly.\nAffirmed.\nMr. Justice Cohen concurs in the result.",
+        "type": "majority",
+        "author": "Me. Justice Musmanno,"
+      }
+    ],
+    "attorneys": [
+      "Robert W. MeWhinney, with him Goehring, MeWhinney & Grubbs, for appellant.",
+      "Daniel J. Parent, with him Joseph E. Kifer, and Arthur E. Ashton, for Veterans\u2019 Administration, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Descamp Estate.\nArgued October 4, 1961.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen and Alpern, JJ.\nRobert W. MeWhinney, with him Goehring, MeWhinney & Grubbs, for appellant.\nDaniel J. Parent, with him Joseph E. Kifer, and Arthur E. Ashton, for Veterans\u2019 Administration, appellee.\nDecember 5, 1961:"
+  },
+  "file_name": "0331-01",
+  "first_page_order": 367,
+  "last_page_order": 375
+}

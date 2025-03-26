@@ -1,0 +1,81 @@
+{
+  "id": 470683,
+  "name": "Whalen Estate",
+  "name_abbreviation": "Whalen Estate",
+  "decision_date": "1947-01-28",
+  "docket_number": "Appeal, No. 43",
+  "first_page": "9",
+  "last_page": "9",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "356 Pa. 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "356 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470677
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/356/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 684,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.01720351263722325
+    },
+    "sha256": "8f8597e8ca4384b465ce52ca13f1a84c5cc5b526829fe625caa45c794c834922",
+    "simhash": "1:67795825fb9189f6",
+    "word_count": 122
+  },
+  "last_updated": "2024-02-27T17:48:41.677463+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ. ."
+    ],
+    "parties": [
+      "Whalen Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis is an appeal from an order of the Orphans\u2019 Court of Philadelphia County refusing a petition for a citation to show cause why the report of a master, appointed by an auditing judge to assist him in ascertaining the heirs and nest of kin of a decedent, should not be filed with the clerk of the Orphans\u2019 Court and not with the auditing judge. Such an order is clearly interlocutory, from which no appeal lies. See Aman Estate, 356 Pa. 1.\nAppeal quashed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John M. Smith, Jr., for appellant.",
+      "No one appeared or filed a brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Whalen Estate.\nArgued January 8, 1947.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ. .\nJohn M. Smith, Jr., for appellant.\nNo one appeared or filed a brief for appellee.\nJanuary 28, 1947:"
+  },
+  "file_name": "0009-01",
+  "first_page_order": 33,
+  "last_page_order": 33
+}

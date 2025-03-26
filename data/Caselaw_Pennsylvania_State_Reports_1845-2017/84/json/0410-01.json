@@ -1,0 +1,75 @@
+{
+  "id": 1053582,
+  "name": "In re Road in Lewistown",
+  "name_abbreviation": "In re Road in Lewistown",
+  "decision_date": "1877-06-11",
+  "docket_number": "",
+  "first_page": "410",
+  "last_page": "411",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "84 Pa. 410"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wright 368",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 152,
+    "char_count": 1962,
+    "ocr_confidence": 0.454,
+    "pagerank": {
+      "raw": 9.16326390348451e-08,
+      "percentile": 0.5084999164043927
+    },
+    "sha256": "63f8a91b6f6f3c31da989337d17c76760e987cd6898d280ef20366fda610507e",
+    "simhash": "1:cf1174e08aae5db8",
+    "word_count": 333
+  },
+  "last_updated": "2024-02-27T21:29:53.440524+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Agnew, O. J., Sharswood, Mercur, Gordon, Paxson, Woodward and Sterrett, JJ."
+    ],
+    "parties": [
+      "In re Road in Lewistown."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Gordon\ndelivered the opinion of the court,\nIn this case there was a view of the road or street which is the subject of controversy, on which there was a favorable report, and an assessment of damages in favor of George Blymyer of $833. A re-view was granted, on which there was a report unfavorable to the proposed way or street; and finally, on a re-re-view, the report was favorable to the road as first reported and located by the original view, and damages were found in favor of George Blymyer in the sum of $350. The court confirmed the first report, including the assessment of damages. This was wrong. The discretion of the court did not extend to a choice between the damages assessed by the first and last sets of viewers. The approval should have embraced the damages last assessed: Road in Bensalem Township, 2 Wright 368.\nThe order of the Court of Quarter Sessions is reversed, and the record is remitted with a procedendo.",
+        "type": "majority",
+        "author": "Mr. Justice Gordon"
+      }
+    ],
+    "attorneys": [
+      "D. W. Woods, for plaintiffs in error.",
+      "Andrew Reed and John A. McKee, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "In re Road in Lewistown.\nWhere viewers have assessed the damages for a road and re-viewers report the same road with a different amount of damages, the court cannot choose between the two assessments, but must approve the damages last assessed.\nMay 29th 1877.\nBefore Agnew, O. J., Sharswood, Mercur, Gordon, Paxson, Woodward and Sterrett, JJ.\n. Certiorari to the Quarter Sessions of Mifflin county: Of May Term 1877, No. 110.\nYiewers were appointed to lay out and extend Dorcas street in the borough of Lewistown, who reported in favor of said street and assessed the damages to George Blymyer at $333. Subsequently re-viewers were appointed whose report was adverse to said street. Upon petition of other citizens, re-re-viewers were appointed, who assessed the damages to Blymyer at $350.\nThe associate judges (the president judge dissenting) confirmed the first report, which was assigned for error.\nD. W. Woods, for plaintiffs in error.\nAndrew Reed and John A. McKee, for defendants in error.\nJune 11th 1877."
+  },
+  "file_name": "0410-01",
+  "first_page_order": 410,
+  "last_page_order": 411
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12287163,
+  "name": "Com. v. Green",
+  "name_abbreviation": "Com. v. Green",
+  "decision_date": "2016-05-03",
+  "docket_number": "28 WAL (2016)",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 770"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 82",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 166,
+    "ocr_confidence": 0.731,
+    "sha256": "219b50c762477714b419644b75ef5ac009958b2c58bb4297d8f8c27a13c96a4f",
+    "simhash": "1:af7afadefacf58d4",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Green"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 82",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Green\n05/03/2016\n28 WAL (2016)\n. Justice DONOHUE and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0770-08",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

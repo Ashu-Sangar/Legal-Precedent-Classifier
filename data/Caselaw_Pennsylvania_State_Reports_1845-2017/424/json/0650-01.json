@@ -1,0 +1,117 @@
+{
+  "id": 1905020,
+  "name": "Commonwealth v. Bennett, Appellant",
+  "name_abbreviation": "Commonwealth v. Bennett",
+  "decision_date": "1967-03-21",
+  "docket_number": "Appeals, Nos. 322, 332, 333 and 334",
+  "first_page": "650",
+  "last_page": "651",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "424 Pa. 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 2,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "468-69"
+        },
+        {
+          "page": "1625"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "226 A. 2d 765",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 1
+    },
+    {
+      "cite": "423 Pa. 541",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1903093
+      ],
+      "year": 1967,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/423/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 124,
+    "char_count": 1090,
+    "ocr_confidence": 0.451,
+    "pagerank": {
+      "raw": 6.403774483135233e-08,
+      "percentile": 0.39632831875526336
+    },
+    "sha256": "3104423ef97adbb50d54824231cf18d316f67e31c1907eb6366b2aa493e2de52",
+    "simhash": "1:2b112062dd29c122",
+    "word_count": 175
+  },
+  "last_updated": "2024-02-27T23:35:32.544785+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and BobERTS, JJ.",
+      "Mr. Justice Roberts joins in this dissenting opinion."
+    ],
+    "parties": [
+      "Commonwealth v. Bennett, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      },
+      {
+        "text": "Dissenting Opinion, by\nMr. Justice Eagen :\nThe trial in this case occurred in September 1965. Over objection, a confession given by Bennett to. the police was permitted to be introduced in evidence, although, admittedly, at the time it was obtained he was not forewarned of his right to remain silent. This requires the grant of a new trial. See Commonwealth v. Jefferson, 423 Pa. 541, 226 A. 2d 765 (1967). The fact that Bennett may have been aware of his rights in this regard is not controlling. See, Miranda v. Arizona, 384 U.S. 436, 468-69, 86 S. Ct. 1602, 1625 (1966).\nI dissent.\nMr. Justice Roberts joins in this dissenting opinion.",
+        "type": "dissent",
+        "author": "Mr. Justice Eagen :"
+      }
+    ],
+    "attorneys": [
+      "David Kanner, with him Donald F. Copeland, and Kannef, Stein and Feinberg, for appellant.",
+      "Alan J. Davis, Assistant. District Attorney, with him Robert M. Borden, Assistant District Attorney, and Arlen Specter, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Bennett, Appellant.\nArgued November 22, 1966.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and BobERTS, JJ.\nDavid Kanner, with him Donald F. Copeland, and Kannef, Stein and Feinberg, for appellant.\nAlan J. Davis, Assistant. District Attorney, with him Robert M. Borden, Assistant District Attorney, and Arlen Specter, District Attorney, for Commonwealth, appellee.\nMarch 21, 1967:"
+  },
+  "file_name": "0650-01",
+  "first_page_order": 674,
+  "last_page_order": 675
+}

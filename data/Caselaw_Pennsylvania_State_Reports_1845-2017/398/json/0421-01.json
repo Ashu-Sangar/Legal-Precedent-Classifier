@@ -1,0 +1,88 @@
+{
+  "id": 1289121,
+  "name": "Boyd Estate",
+  "name_abbreviation": "Boyd Estate",
+  "decision_date": "1960-03-15",
+  "docket_number": "Appeals, Nos. 49 and 50",
+  "first_page": "421",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "398 Pa. 421"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "146 A. 2d 816",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "394 Pa. 225",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1280929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/394/0225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 267,
+    "char_count": 3123,
+    "ocr_confidence": 0.456,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04863681241647679
+    },
+    "sha256": "8304d2ab1bcc1c0e2114bb79c09e9e391b100f722c1a2bdc67d805dd8b61d0c4",
+    "simhash": "1:2902c48b3bc6f55d",
+    "word_count": 499
+  },
+  "last_updated": "2024-02-27T23:35:30.032264+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "Boyd Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nWhen this matter was previously before this Court (Boyd Estate, 394 Pa. 225, 146 A. 2d 816), we \u201c. . . remanded [it] to the Orphans\u2019 Court of Delaware County for a determination of the priority and payment of the claims held to be valid . . . .\u201d\nAt that time there was a fund in that court in the amount of $25,000 available for the payment of claims. This fund was created in the following manner: the decedent, Boyd, and one William B. Albright entered into a written contract on December 10, 1947, supplemented by another written contract on January 9, 1948, under which Albright, as general contractor, was to perform certain construction work on property owned by Boyd; Albright was adjudged a bankrupt on November 27, 1951 and Boyd died March 29, 1954; subcontractors and furnishers of supplies in connection with the construction work presented claims against the Boyd Estate, said claims being based on either attachment proceedings or assignments from Albright; Boyd\u2019s executor and the trustee in bankruptcy in Al-bright\u2019s bankruptcy proceedings entered an agreement as to the balance due and owing under the Boyd-Al-bright contract, to wit, $25,000, and this amount was set aside in the Orphans\u2019 Court of Delaware County for the payment of valid claims. After our remand the Orphans\u2019 Court allocated an additional sum of $1,000 to the fund as interest from the date of that court\u2019s supplemental adjudication so that the present fund amounts to $26,000.\nThe court below determined the following creditors were entitled to share in the distribution of the $26,000 fund, the order of priority and amounts being:\n1. Alex Guerrina & Sons, Inc. $ 8,470.10\n2. William R. Parker, Jr. 5,752.33\n3. Austin Supply Company 1,552.71\n4. George I. Terpening 4,596.59\n5. Berks Products Corporation 455.75\n6. Ready Mixed Concrete Company 1,212.92\n7. Armando D\u2019Angeli and Emilio\nD\u2019Angeli 1,821,43\n8. D\u2019Angeli Brothers (a/c of claim\nof $7,736.40) 2,138.17\n$26,000.00\nThe court below refused to allow Guerrina interest on its claim from January 12, 1950 and Austin interest on its claim from February 1, 1950. From that action of the court below Guerrina and Austin appealed.\nWe have considered at length the several contentions of the parties. Under the particular circumstances herein presented the disallowance of interest to both Guerrina and Austin was fully justified. We agree with the court below that the allowance of interest on these two claims would be highly unfair and inequitable.\nDecree affirmed at appellants\u2019 costs.\nIt is to be noted that, even without the payment of interest to Guerrina and Austin, D\u2019Angeli Brothers will receive only about 2T% of their claim and other claimants will receive nothing.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Laurence II. Eldredge, with him Roland J. Christy, for appellant, Guerrina.",
+      "David E. Thomas, with him George H. Class, and Raspin, Espenshade, Heins, Erskine & Stewart, for appellant, Austin Supply Co.",
+      "George W. Thompson, with him Baile, Thompson & Shea, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Boyd Estate.\nArgued January 12,1960.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nMarch 15, 1960:\nLaurence II. Eldredge, with him Roland J. Christy, for appellant, Guerrina.\nDavid E. Thomas, with him George H. Class, and Raspin, Espenshade, Heins, Erskine & Stewart, for appellant, Austin Supply Co.\nGeorge W. Thompson, with him Baile, Thompson & Shea, for appellee."
+  },
+  "file_name": "0421-01",
+  "first_page_order": 577,
+  "last_page_order": 580
+}

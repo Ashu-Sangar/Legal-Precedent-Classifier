@@ -1,0 +1,63 @@
+{
+  "id": 12281499,
+  "name": "Com. v. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2015-12-29",
+  "docket_number": "401 WAL (2015)",
+  "first_page": "735",
+  "last_page": "735",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 735"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "ocr_confidence": 0.781,
+    "sha256": "8ddf855887f2e5ee799a032aa1e3aa851bce1eba557c208d349ecc0ca3da9394",
+    "simhash": "1:0d47a2dc9adaf7cd",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T15:35:14.432984+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Smith\n12/29/2015\n401 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0735-10",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

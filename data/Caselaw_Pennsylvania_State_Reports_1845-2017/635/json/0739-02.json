@@ -1,0 +1,80 @@
+{
+  "id": 12282989,
+  "name": "Com. v. Coleman",
+  "name_abbreviation": "Com. v. Coleman",
+  "decision_date": "2016-03-16",
+  "docket_number": "486 WAL (2015)",
+  "first_page": "739",
+  "last_page": "739",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 739"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "130 A.3d 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6823447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/130/0038-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.867,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24912417673771714
+    },
+    "sha256": "12a38570bf277e0042a8ddaa552849b1e01046473ed95fa2720b244fb1af50c7",
+    "simhash": "1:4b5b680d213890c1",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Coleman"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 130 A.3d 38",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Coleman\n03/16/2016\n486 WAL (2015)"
+  },
+  "file_name": "0739-02",
+  "first_page_order": 799,
+  "last_page_order": 799
+}

@@ -1,0 +1,80 @@
+{
+  "id": 12285012,
+  "name": "E.R. v. J.N.B.",
+  "name_abbreviation": "E.R. v. J.N.B.",
+  "decision_date": "2016-03-23",
+  "docket_number": "72 MAL (2016)",
+  "first_page": "754",
+  "last_page": "754",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 754"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "129 A.3d 521",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6767134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/129/0521-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 138,
+    "ocr_confidence": 0.741,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2492400136069709
+    },
+    "sha256": "66c06427440cb5c604067e2b18244c92ecec5b37b40c3810f822d302129cc56f",
+    "simhash": "1:4f44aa0733ab17d4",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.R. v. J.N.B."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super,, 129 A.3d 521",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E.R. v. J.N.B.\n03/23/2016\n72 MAL(2016)\n. Justice WECHT did not participate in the decision of this matter."
+  },
+  "file_name": "0754-09",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

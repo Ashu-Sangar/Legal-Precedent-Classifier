@@ -1,0 +1,107 @@
+{
+  "id": 91735,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Sean Alan HUFF, Respondent",
+  "name_abbreviation": "Commonwealth v. Huff",
+  "decision_date": "2004-03-10",
+  "docket_number": "Petition No. 785 MAL 2003",
+  "first_page": "251",
+  "last_page": "251",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "577 Pa. 251"
+    },
+    {
+      "type": "parallel",
+      "cite": "844 A.2d 549"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "662 A.2d 1043",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7867196,
+        470804
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1047",
+          "parenthetical": "reasonable suspicion is all that is required to support initial investigative detention"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/662/1043-01",
+        "/pa/541/0285-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 285",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470804
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "reasonable suspicion is all that is required to support initial investigative detention"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 482,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.002994962254556154
+    },
+    "sha256": "b76f3be5c641f40b3499a6bfb1e531d42aa8bc545144d2b85f0ffef65751a083",
+    "simhash": "1:5fd3df14c79214b9",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T17:43:39.569073+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Sean Alan HUFF, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10 th day of March, 2004, the Petition for Allowance of Appeal is GRANTED, and the order of the Superior Court is REVERSED, pursuant to Commonwealth v. Ellis, 541 Pa. 285, 662 A.2d 1043, 1047 (1995) (reasonable suspicion is all that is required to support initial investigative detention). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "844 A.2d 549\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Sean Alan HUFF, Respondent.\nSupreme Court of Pennsylvania.\nMarch 10, 2004."
+  },
+  "file_name": "0251-01",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

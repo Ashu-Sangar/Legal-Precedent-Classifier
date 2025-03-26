@@ -1,0 +1,80 @@
+{
+  "id": 12282233,
+  "name": "Com. v. Walker",
+  "name_abbreviation": "Com. v. Walker",
+  "decision_date": "2015-09-23",
+  "docket_number": "260 EAL (2015)",
+  "first_page": "756",
+  "last_page": "756",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 756"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "110 A.3d 1000",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6889510
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/110/1000-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.824,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24908440607927335
+    },
+    "sha256": "07598882e8c4fc1c630f2db5a147986a5a00e217636184b9a7b1cbba7bbd5067",
+    "simhash": "1:3b366a0a91686152",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Walker"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 110 A.3d 1000",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Walker\n09/23/2015\n260 EAL (2015)"
+  },
+  "file_name": "0756-06",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

@@ -1,0 +1,448 @@
+{
+  "id": 1900273,
+  "name": "Arrott Estate",
+  "name_abbreviation": "Arrott Estate",
+  "decision_date": "1966-03-22",
+  "docket_number": "Appeal, No. 236",
+  "first_page": "275",
+  "last_page": "283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 Pa. 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "118 A. 2d 187",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1261930
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/383/0228-01"
+      ]
+    },
+    {
+      "cite": "103 A. 2d 409",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "377 Pa. 250",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1249593
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/377/0250-01"
+      ]
+    },
+    {
+      "cite": "105 A. 2d 353",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "377 Pa. 473",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1249643
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/377/0473-01"
+      ]
+    },
+    {
+      "cite": "115 A. 2d 159",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "382 Pa. 311",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1259938
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/382/0311-01"
+      ]
+    },
+    {
+      "cite": "149 A. 2d 72",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "395 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1282799
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/395/0001-01"
+      ]
+    },
+    {
+      "cite": "85 S. Ct. 900",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "380 U.S. 913",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524986,
+        1525130,
+        1525132,
+        1525134,
+        1524954,
+        1524571
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0913-06",
+        "/us/380/0913-02",
+        "/us/380/0913-01",
+        "/us/380/0913-04",
+        "/us/380/0913-05",
+        "/us/380/0913-03"
+      ]
+    },
+    {
+      "cite": "203 A. 2d 538",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "542"
+        },
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Pa. 427",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1891805
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/415/0427-01"
+      ]
+    },
+    {
+      "cite": "200 Atl. 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "37"
+        },
+        {
+          "page": "37"
+        },
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184381
+      ],
+      "weight": 2,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "120-22"
+        },
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/331/0117-01"
+      ]
+    },
+    {
+      "cite": "88 Atl. 865",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1913,
+      "pin_cites": [
+        {
+          "page": "868-9"
+        },
+        {
+          "page": "868-9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 Pa. 3",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998793
+      ],
+      "year": 1913,
+      "pin_cites": [
+        {
+          "page": "12-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/242/0003-01"
+      ]
+    },
+    {
+      "cite": "183 A. 2d 307",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "315"
+        },
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1308392
+      ],
+      "weight": 3,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "230"
+        },
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/408/0214-01"
+      ]
+    },
+    {
+      "cite": "67 A. 2d 124",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "362 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477323
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/362/0458-01"
+      ]
+    },
+    {
+      "cite": "67 A. 2d 129",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "362 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477356
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/362/0468-01"
+      ]
+    },
+    {
+      "cite": "173 A. 2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "405 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1303622
+      ],
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/405/0061-01"
+      ]
+    },
+    {
+      "cite": "203 A. 2d 538",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 1
+    },
+    {
+      "cite": "415 Pa. 427",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1891805
+      ],
+      "year": 1964,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/415/0427-01"
+      ]
+    },
+    {
+      "cite": "173 A. 2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "opinion_index": 1
+    },
+    {
+      "cite": "405 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1303622
+      ],
+      "year": 1949,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/405/0061-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 659,
+    "char_count": 13661,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 3.092561356829328e-07,
+      "percentile": 0.8587404130511084
+    },
+    "sha256": "2268a5ea3a2ec34bf60c82c2145ae55eb4341f88c2976a1d40bef7eff9c90109",
+    "simhash": "1:6be0d7bdcdbdb286",
+    "word_count": 2286
+  },
+  "last_updated": "2024-02-27T21:35:37.728133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Arrott Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Roberts,\nThe present appeal is another in that line of cases which have come before this Court raising questions relating to the application of the Principal- and Income Act of 1945 and its successor, the Principal and Income Act of 1947, to trusts created prior to the effective dates of those Acts. '\n. Charles F..Arrott died on May 22, 1942. In hi's will, dated three.months prior,to his death,, he devised his residuary.estate-in trust, directing the net income to be paid to his children and the remainder interest to their issue.\nOn March 4, 1960, the trustees filed their third and partial account, covering the administration of the trust for the period extending from April 4, 1957 to September 30,1959, in the Orphans\u2019 Court of Allegheny County. Exceptions to this account were filed on April 19, 1960 by the life tenants challenging the allocation by the trustees of certain stock dividends and the proceeds from the sale of certain stock and stock rights to corpus.\nOn April 20, 1960, the account was called for audit. At the hearing, counsel for the trustees presented a petition for distribution which contained suggested apportionments made in accordance with the principles of the Pennsylvania Rule of Apportionment, which, at that time, the parties assumed to be the applicable law. At the request of counsel for the life tenants, the hearing was continued to afford him time to study the suggested apportionments, and, if possible, to reach agreement with the trustees.\nOn June 7, 1961, the hearing was resumed. A petition for limited review of the trustees\u2019 second and partial account was submitted by counsel for the life tenants and an order entered by the court directing a citation on the trustees to show cause why the adjudication and decree of distribution entered pursuant to the trustees\u2019 second and partial account should not be opened and reviewed. At that time, the court determined that a guardian and trustee ad litem for minors and unborn children having an interest in the trust should be appointed. The hearing was continued to an indefinite date in order that the guardian and trustee ad litem to be appointed would have an opportunity to familiarize himself with the issues before the court. On June 8, 1961, a guardian and trustee ad litem was appointed.\nOn July 13, 1961, the life tenants, with the consent of all the parties, filed amended exceptions to the third and partial account. An order was also entered opening the adjudication and decree pursuant to the trustees\u2019 second and partial account for limited review. A further hearing was held on that date and testimony was taken in support of the life tenants\u2019 exceptions.However, the hearing was adjourned and the matter continued in order to give the guardian and trustee ad litem an opportunity to consider certain exhibits submitted by the exceptants in support of their position with respect to the contested apportionments.\nPrior to the resumption of the proceedings, this Court, on July 26, 1961, filed its decision in Catherwood Trust, 405 Pa. 61, 173 A. 2d 86, which overruled, prospectively, our earlier decisions in Pew Trust, 362 Pa. 468, 67 A. 2d 129 (1949), and Crowford Estate, 362 Pa. 458, 67 A. 2d 124 (1949), and held valid the retroactive provisions of the Principal and Income Act of 1945 and of its successor, the Principal and Income Act of 1947.\nFollowing Gatherwood, the proceedings assumed a different cast. On February 13, 1962, when the hearing next convened, a motion to dismiss the exceptions was made by counsel for the trustees on the ground that the intervening decision in Gatherwood rendered moot the apportionment issues raised by the exceptions. Deferring ruling on the motion, the court permitted further evidence to be taken, following which the hearing was concluded. The parties requested and were granted the right to file briefs and to present oral arguments.\nSubsequently, briefs having been submitted, and oral argument having been waived by the parties, the court, by its decree of February 9, 1964, dismissed the exceptions predicated on the application of the Pennsylvania Rule of Apportionment and approved a schedule of distribution prepared in accordance with the provisions of the Principal and Income Act of 1947. Exceptions were filed by the life tenants and the matter argued before the court en banc. On April 12, 1965, the exceptions were dismissed and the life tenants perfected the present appeal.\nIn challenging the decree entered below, appellants first contend that the instant accounting was sufficiently advanced on July 26, 196.1, the date that Catherwood was decided, as not to constitute a pending audit within the meaning of that decision. We do not agree.\nIn Brown Estate, 408 Pa. 214, 183 A. 2d 307 (1962), this Court amplified the prospectivity ruling of Gather-wood. There the record disclosed that the audit hearing had concluded prior to the decision in Catherwood and all that was awaited was the court\u2019s adjudication. In requiring that the receipts there involved be allocated in accordance with the Pennsylvania Rule of Apportionment, we recognized that an element of harshness would be involved in the application of the statutory rules to those proceedings which would have been terminated but for judicial delay in the preparation of an adjudication. Thus, in Brown Estate, we held that where the state of the record on the date Catherwood was decided was such that no further action by the parties was anticipated, and all that was awaited was adjudication by the court, the proceedings were not a pending audit within the meaning of Catherwood.\nThe circumstance sought to be avoided in Brown is not present here. On July 26, 1961, the date of Cather-wood, the record in the present case was not closed nor was the matter ripe for adjudication. On that date, the parties were still engaged in the task of preparing a record in support of their various contentions with respect to the challenged apportionments. Such circumstances, in our view, place the proceedings within the range of the prospectivity ruling of Catherwood. Until and unless the record is complete and the matter ripe for adjudication, the audit is pending within the meaning of Catherwood and Brown.\nAppellants next contend that the court below erred in approving a schedule of distribution, pursuant to the trustees\u2019 third and partial account, prepared in accordance with the provisions of the Principal and Income Act of 1947 on the ground that the doctrine of res judicata compels the application of the prior Pennsylvania Rule of Apportionment. Appellants predicate their res judicata contention on the application of the nonstatutory apportionment rule in prior adjudications of the trustees\u2019 first and second partial accounts. Prom this they reason that the manner or method by which all further trust receipts are to be allocated is res judicata and may not be challenged by any of the parties participating in those adjudications. We find no merit in this contention.\nThis Court has previously held that a rule of law made in the distribution of a portion of an estate is not binding upon a court in a subsequent adjudication relating to another portion. Brown Estate, 408 Pa. 214, 230, 183 A. 2d 307, 315 (1962); Kellerman\u2019s Estate, 242 Pa. 3, 12-13, 88 Atl. 865, 868-9 (1913); cf. Reamer\u2019s Estate, 331 Pa. 117, 120-22, 200 Atl. 35, 37 (1938). In Brown Estate, supra, it was contended that the propriety and validity of certain challenged investments could not be raised because their validity had been decided in a prior adjudication. In dismissing this contention, we quoted with approval the language of Kellerman\u2019s Estate, supra at 12, 88 Atl. at 868-9, wherein it was stated, \u201c[T]he rule of estoppel does not extend . . . the law which was applied in . . \u2022. [an] earlier distribution to ... [a subsequent] distribution. Though the decree in the first may have rested on a mistaken application of a rule of law \u2014 a circumstance which can only be inquired into on appeal \u2014 so long as the decree stands it is conclusive with respects to all rights in the fund distributed; but it cannot be made the basis of an estoppel when another distinct fund is to be distributed though it be part of the same estate. ??\nIn the instant case, the receipts involved in the prior accountings and those involved in the present audit, while arising from a common source, are wholly distinct and separate funds, each having its own subject-matter. Cf. Brown Estate, supra; Reamer\u2019s Estate, supra; Kellerman\u2019s Estate, supra. And \u201cwhile errors committed with regard to one fund may be irremediable as to it, they do not impose upon the court the necessity of persisting in the same error in the disposition of a subsequent fund.\u201d Reamer\u2019s Estate, supra at 121, 200 Atl. at 37. Thus, it was the duty of the auditing judge to require that the present allocation be controlled by the law in effect at the time of the audit. By directing a schedule of distribution in accordance with the provisions of the Principal and Income Act of .1947, . which, under our decision in Catherwood, supra, were controlling in \u2022 this accounting, the court below correctly performed that duty.\nLastly, appellants contend that the application of the Principal and Income Act to a trust created prior to the effective date of that Act violates the Pennsylvania and United States Constitutions by depriving them of properly without due process and ask that we reconsider our decision in Norvell Estate, 415 Pa. 427, 203 A. 2d 538 (1964), cert. denied, 380 U.S. 913, 85 S. Ct. 900 (1965), in which we sustained the application of the Principal and Income Act of 1947 in the face of these very same contentions. As we held in Norvell, supra at 433, 203 A. 2d at 542, a life beneficiary, although enjoying a vested right to income, has no vested interest in a definition or method of ascertaining income. Thus, the Legislature, in the face of the \u201cgenerally known and experienced difficulty, complexity and uncertainty\u201d found to exist in the application of the common law rule, could reasonably provide for another method of ascertainment, so long as that method had a rational basis in fact. Norvell Estate, supra at 435, 203 A. 2d at 542. Nothing has been called to our attention which would justify disturbing our decision in Norvell sustaining the constitutionality of the retroactive application of the Principal and Income Act of 1947.\nDecree affirmed. Each party to pay own costs.\nAct of May 3, 1945, P. L. 416, 20 P.S. \u00a7\u00a73471-3485.\nAct of July 3, 1947, P. L. 1283, as amended and supplemented, 20 P.S. \u00a7 \u00a73470.1-3470;15.\nAct of May 3, 1945, P. L. 416, \u00a717;. Act of July 3, 1947, P. L. 1283, \u00a715, 20 P.S. \u00a73470.15.\nThe precise provisions of the trust are not relevant to the issues raised on this appeal and our present characterization thereof is only generally descriptive.\nThe issues raised thereunder paralleled the controversy under the third and partial account. However, no exceptions were filed to the court\u2019s ultimate decision on the second and partial account and the same is not an issue on this appeal.\nAlso affected were the subsequent decisions in Cunningham Estate, 395 Pa. 1, 149 A. 2d 72 (1959); Warden Trust, 382 Pa. 311, 115 A. 2d 159 (1955); Jones Estate, 377 Pa. 473, 105 A. 2d 353 (1954); Steele Estate, 377 Pa. 250, 103 A. 2d 409 (1954).\nTIio receipts involved in the trustees\u2019 third and partial account were derived subsequent to the effective date of the Principal and Income Act of 1947, and, therefore, were subject to the allocation provisions therein contained under our ruling in Oatherwood, 405 Pa. 61, 173 A. 2d 86 (1961), holding that the Act could be applied, according to its terms, to all trusts, regardless of when created.\nAppellants also contend that the doctrine of \u201cthe law of the case\u201d dictates the application of the nonstatutory apportionment rule in the present accounting. Their contention is predicated on the fact that the application of the rule was impliedly affirmed by this Court on a prior appeal. See Arrott Estate, 383 Pa. 228, 118 A. 2d 187 (1955). In our view, that doctrine is presently in-apposite.\nThat doctrine, in general terms, provides that when an appellate court has considered and decided a question submitted to it upon appeal, it will not, upon a subsequent appeal on another phase of the same ease, reverse its previous ruling even though convinced that it was erroneous. Brown Estate, 408 Pa. 214, 231, 183 A. 2d 307, 315 (1962); Reamer's Estate, 331 Pa. 117, 122, 200 Atl. 35, 37 (1938). The instant appeal, however, involving a distinct and separate fund from that involved in the prior appeal, and arising out of a subsequent accounting, is not the same case as that involves in the prior proceedings before this Court,",
+        "type": "majority",
+        "author": "Mr. Justice Roberts,"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Chief Justice Bell:\nI have hitherto expressed at great length and in very strong language my disagreement with and dissent to the Court\u2019s Opinion in Catherwood Estate, 405 Pa. 61, 173 A. 2d 86, and in Norvell Estate, 415 Pa. 427, 203 A. 2d 538, in which they overruled many recent decisions of the Court which were directly in point and admittedly governed the issues there involved. Although my views and convictions have not changed, since I believe in stare decisis I must join in the Opinion of the Court.",
+        "type": "concurrence",
+        "author": "Mr. Chief Justice Bell:"
+      }
+    ],
+    "attorneys": [
+      "John C. Hanna, with him Metz, Cook; Horma & Kelly, for appellants. , ., .. . . . . ... . ......",
+      "James 8. Crawford, III, guardian and trustee ad litem, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arrott Estate.\nArgued October 7, 1965.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nJohn C. Hanna, with him Metz, Cook; Horma & Kelly, for appellants. , ., .. . . . . ... . ......\nJames 8. Crawford, III, guardian and trustee ad litem, appellee.\nMarch 22, 1966:"
+  },
+  "file_name": "0275-01",
+  "first_page_order": 315,
+  "last_page_order": 323
+}

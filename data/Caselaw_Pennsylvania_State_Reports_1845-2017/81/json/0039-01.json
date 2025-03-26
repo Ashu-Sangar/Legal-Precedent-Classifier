@@ -1,0 +1,111 @@
+{
+  "id": 1044152,
+  "name": "Hubert versus Horter",
+  "name_abbreviation": "Hubert v. Horter",
+  "decision_date": "1876-02-21",
+  "docket_number": "",
+  "first_page": "39",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "81 Pa. 39"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "36 Conn. 23",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        782640
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/36/0023-01"
+      ]
+    },
+    {
+      "cite": "4 Hill 577",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 120",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480079
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0120-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 122",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4696
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0122-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 573,
+    "char_count": 13328,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 1.17109974370421e-07,
+      "percentile": 0.586387661983382
+    },
+    "sha256": "1b0d1a0177a9a2c79eb657dfd8bdf101096d62ce4916e6fac8b2de9ad01c51fa",
+    "simhash": "1:93cf9b5c16191575",
+    "word_count": 2282
+  },
+  "last_updated": "2024-02-27T22:12:43.380885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Agnew, 0. J., Sharswood, Mercur, Cordon, Paxso\u00f1 and Woodward, JJ."
+    ],
+    "parties": [
+      "Hubert versus Horter."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Sharswood,\ndelivered the opinion of the court,\nThe declaration below was upon a bond executed by the defendants on a hearing under proceedings upon a warrant of arrest, issued in pursuance of the Act of Assembly of July 12th 1842, \u201cAn Act to abolish imprisonment for debt, and to punish fraudulent debtors,\u201d (Pamph. L. 334), conditioned that John P. Horter, the party arrested, should apply to the Court of Common Pleas of Philadelphia county, for the insolvent laws, and alleging a breach of the condition. To this the defendant, Hubert, the only one served with process, pleaded non est factum, nil debet, and a special plea \u2014 that the bond was obtained from him in a proceeding of and concerning a cause of action exclusively cognizable by the District Court of the United States for the Eastern District of Pennsylvania, in Bankruptcy, the said Horter having been theretofore adjudicated a bankrupt in the said court. The plaintiff replied, taking issue upon the first two pleas, and by a special replication denied that the cause of action was exclusively cognizable by the District Court of the United States, and averred that the District Court for the city and county of Philadelphia had jurisdiction to require of the said Horter the execution of the said obligation, and of this the plaintiffs put themselves on the country. It is very clear that the issue raised by the replication was an issue'of law and not of fact. It admitted the facts averred in the plea, but denied the inference of law. It admitted that Horter had been theretofore adjudicated a bankrupt. It can be regarded only as an informal demurrer. It must be considered, then, that the verdict rendered was upon the two other issues of fact. When, however, judgment was entered by the court below, it was necessarily upon the whole record. We think the judgment was erroneous, and that upon the whole record the defendant was entitled to judgment.\nThe plea demurred to in averring that the cause of action was exclusively cognizable in the Bankruptcy Court, in effect asserted that it was for a debt or cause of action from which Horter would have been entitled to his discharge under the bankrupt law. If it had not been so, the plaintiff should have replied that fact. Under the bankrupt laws, parties can still be sued and proceeded against for any \u201c debt created by the fraud or embezzlement of the bankrupt, or by his defalcation as a public officer, or while acting in any fiduciary character:\u201d Revised Statutes U. S., sec. 5117, Unless the warrant of arrest was for one or other of these causes, Horter having been adjudicated a bankrupt, the condition of the bond was discharged: Barber v. Rodgers, 21 P. F. Smith 362. It has been stated in the paper-book of the plaintiff in error, and not denied in.the counter-statement, that the petition in the Court of Common Pleas, for the benefit of the insolvent laws, was dismissed by that court for the reason that he had previously been adjudged a bankrupt. Such a dismissal on that ground, whether right or wrong, would have been, if pleaded, a conclusive answer to the declaration on the bond.\nJudgment reversed, and now judgment for the defendant below. February 28th 1876. It is ordered that the . judgment heretofore entered February 21st 1876, in favor of the defendant below, be vacated and set aside, and that a venire facias de novo be awarded.",
+        "type": "majority",
+        "author": "Mr. Justice Sharswood,"
+      }
+    ],
+    "attorneys": [
+      "Cr. T. Bispham and A. Thompson (with whom was B. E. Qheyney), for plaintiff in error.",
+      "6r. Bull, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Hubert versus Horter.\n1. A debtor was adjudged a bankrupt; whilst the proceedings in bankruptcy were pending he was arrested as a fraudulent debtor under the Act of July 12th 1842 and gave bond to apply to the Court of Common Pleas for the benefit of the insolvent laws. He made his application, which was dismissed because of the pending bankrupt proceedings. In an action on the bond, Held, that the dismissal of the application was a defence to the action.\n2. In the action on the bond, defendant pleaded that it had been obtained in a proceeding which was exclusively cognisable in the United States Bankrupt Court, the debtor having been previously adjudicated a bankrupt. The plaintiffs replied that the cause was not exclusively within the jurisdiction of the United States court and averred that the District Court of Philadelphia where the action was brought had jurisdiction and put themselves on the country. Held, the replication raised an issue of law and was to be treated as a demurrer, and defendant was entitled to judgment.\n3. The effect of the plea was to assert that the action was for a debt'for which the debtor would be discharged under the Bankrupt Law; if this were not so, he should have so replied.\n4. The defendant pleaded also \u201cnon est factum\u201d and \u201cnil debet;\u201d the verdict was for the p'aintiffs; it was to be considered as rendered on these two pleas, as raising issues of fact; the judgment entered on the verdict was necessarily on the whole record and therefore erroneous.\n5. Under the Bankrupt Laws a debtor can be proceeded against for a debt created by fraud, embezzlement, defalcation as a public officer, or while acting in a fiduciary capacity ; unless the debtor had been arrested for one of these causes, the bond was discharged by his adjudication as a bankrupt.\n6. Barber v. Rodgers, 21 P. F. Smith 362, followed.\nFebruary 4th 1876.\nBefore Agnew, 0. J., Sharswood, Mercur, Cordon, Paxso\u00f1 and Woodward, JJ.\nError to the District Court of Philadelphia: Of January Term 1874, No. 266.\nThis was an action of debt commenced December 30th 1872, by Washington Horter and Philip Belsinger; trading as W. Horter & Co., against John P. Harlan, Littleton Hubert and Thomas McBride; Hubert only was served.\nThe declaration averred that \u201c the defendants, by their bond, dated July 20th 1872, acknowledged themselves to be jointly and severally held and firmly bound unto the said plaintiffs in the sum of five thousand five hundred/ dollars, * * * which said bond or writing obligatory was and is subject to a condition thereunder written, whereby, after reciting as follows, to wit: \u201c whereas, the above-mentioned and bounden John P. Harlan hath been arrested under a warrant of arrest issued out of the District Court, &c., and, upon the thirteenth day of July, a. d. 1872, committed at the suit of the said Washington Horter and Philip Belsinger for the sum of two thousand seven hundred and fifty dollars, besides costs; therefore the condition of the said obligation was such that if the said John P. Harlan should, within thirty days from the date thereof, apply by petition, to the Court of Common Pleas of Philadelphia county, or to a judge thereof, * * * for the benefit of the insolvent laws of the Commonwealth, * * * and if he failed in obtaining his discharge as an insolvent debtor, that he should, on the day of his so failing, surrender himself to the jail of the said county, then said obligation to be void, &c. Nevertheless, the said plaintiffs say that after the making of the said writing obligatory, and th-e delivery thereof to the said plaintiffs, the said John P. Harlan did not comply with all the requisitions of the said insolvent laws, and did not obtain his discharge as an insolvent debtor, but wholly failed so to do, and that he did not, on the day of his so failing, surrender himself to the jail of the said county. By means of which said breaches the said writing obligatory became forfeited, and an action hath accrued to the said plaintiffs to have and demand of the said Littleton Hubert the said sum of money in said bond mentioned.\u201d\nHubert pleaded \u201cnon est factum,\u201d \u201cnil debet;\u201d and a special plea, viz:\n\u201c That the obligation and condition set forth in the plaintiffs\u2019 declaration was obtained from him in a proceeding against the egtate and person of the said John P. Harlan, in the District Court of the city and county of Philadelphia, of and concerning a cause of action, which was exclusively cognizable by the District Court of the United States for the Eastern District of Pennsylvania in Bankruptcy. The said Harlan having been at the time of the institution of the said proceedings in the said District Court of the city and county of Philadelphia, theretofore adjudicated a bankrupt, &c. By reason whereof the said District Court of the city and county _ of- Philadelphia had no jurisdiction to require of the said Harlan the execution of the said obligation. And this the defendant is ready to verify,\u201d &c.\nThe plaintiffs replied:\u2014\n\u201c 1. The obligation is defendant\u2019s deed, &c.\n\u201c 2. The defendant is indebted, &c.\n\u201c3. That the said cause of action was not exclusively cognizable by the District Court of the United States in Bankruptcy, and that the said District Court of the city and,county of Philadelphia had jurisdiction to require of the said Harlan the execution of th.e said obligation, absque hoc, that said last-mentioned court had no jurisdiction. Of which the said plaintiffs put themselves-on the country.\u201d\n- Defendant rejoined \u201csimiliter and issue.\u201d\nThe case was tried on the 14th of November 1873, and a verdict rendered for the plaintiffs for $3046.10; judgment was entered on the verdict December 31st 1873. The defendant \u2019 Hubert removed the record to the Supreme Court by writ of error. The record showed nothing further.\nThe history of the case by plaintiff in error, which was not denied by defendants in error, stated as follows:\u2014\n\u201cUpon 17th August 1872 the said Harlan, in the Court of Common Pleas of Philadelphia, obtained leave to file his petition for the benefit of the insolvent laws of Pennsylvania, and upon the same day the petition was filed. Upon 9th November 1872,-publication was duly made of notice of the application to the creditors of Harlan; and upon 26th November 1872 the petition rvas heard before the Court of Common Pleas, * * * and decree made 29th November 1872, as follows:\u2014\n\u201c \u2018In the matter of John P. Harlan, an insolvent debtor: And noAv, November 29th 1872, the matter of the petition coming on to be heard on the insolvent debtor\u2019s petition for a discharge, and said insolvent being present in court, and by his counsel requesting to be heard upon said petition, the matter was duly argued by counsel for and against the said application, and it appearing to the court, by said insolvent debtor\u2019s petition, that he had previously hereto been adjudged a bankrupt by the District Court of the United States, and that said bankruptcy is still pending and undetermined, it is hereby ordered that said petition be dismissed for that reason.\u2019 \u201d\nThe assignments of error were:\u2014\n\u201c1. Because the record shows that the verdict and'judgment in this case were against the plaintiff in error, as surety upon an insolvent bond executed by said John P. Harlan as principal; and that at the time of the institution of the proceedings in which said insolvent bond was given, the said Harlan had been theretofore adjudged a bankrupt, and said proceedings in bankruptcy were then still pending and undetermined ; therefore said judgment is null and void.\n\u201c 2. Said judgment is null and void because the Bankrupt Act of 2d March 1867 superseded all state insolvent laws, among \u25a0which is the Act of General Assembly of 12th July 1842, under which said Harlan was arrested, and gave the said bond to take the benefit of the Act of General Assembly of \u00cd6th June 1836.\ni|c\n\u201c 5. That the District Court of the United States in and for the Eastern District of Pennsylvania in Bankruptcy had the exclusive jurisdiction of the estate and. property and person of the said John P. Harlan, of and concerning which the said proceedings-in the District Court of the city and county of Philadelphia were instituted, therefore the said judgment is void for want of jurisdiction of said latter court.\n\u201c 6. Because the court below had not jurisdiction at the time of the rendition of the verdict and the entry of judgment in the above case.\n\u201c 7. Because the pleadings show no legal cause of action in the above case.\u201d\nCr. T. Bispham and A. Thompson (with whom was B. E. Qheyney), for plaintiff in error.\n\u2014 During existence of bankrupt law all state insolvent laws are suspended: Glaser\u2019s Case, 1 L. T. B. Rep. 57 ; Perry v. Langley, Id. 34; Thornhill v. Bank of Louisiana, Id. 156 ; Commonwealth v. O'Hara, 6 Phila. R. 402; Griswold v. Pratt, 9 Metcalf 16 ; 1 Kent\u2019s Com. 518, note (d) 390 (edition 1873); Eames\u2019 Case, 2 Story\u2019s Rep. 322; Sturges v. Crowninshield, 4 Wheat. 122. Proceedings in bankruptcy having been commenced the insolvent bond was void: Barber v. Rodgers, 21 P. F. Smith 362; Bishop v. Lewen, 1 Penna. L. J. 368; Nesbit v. Greaves, 6 W. & S. 120.\n6r. Bull, for defendants in error.\n\u2014 Congress has provided a general system of bankruptcy, but in doing so has excluded from the operation of the Act \u201c debts created by the fraud or embezzlement of the bankrupt,\u201d (section 33), showing that it was not intended to be exclusive of all state remedies. It left the fraudulent debtor exactly where he was before. He can have no relief in bankruptcy, and is liable to civil or criminal process in the state court: Valk\u2019s Case, 3 Bank. R. 73; Kimball\u2019s Case, 2 Id. 74, 114; Black v. Bininger, 3 Nat. Bank. R. 518; Davis\u2019 Case, 8 Id. 174 ; Cook v. Waters, 9 Id. 162; Chandler v. Siddle, 10 Bank. R. 236; Bertheton v. Betts, 4 Hill 577 ; Shepardson\u2019s Appeal, 36 Conn. 23 ; Winternitz\u2019s Case, 4 Bank. R. 127.\nFebruary 21st 1876."
+  },
+  "file_name": "0039-01",
+  "first_page_order": 39,
+  "last_page_order": 44
+}

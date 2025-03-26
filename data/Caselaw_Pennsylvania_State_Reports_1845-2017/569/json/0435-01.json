@@ -1,0 +1,100 @@
+{
+  "id": 312795,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Bret Jason SHELPMAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Shelpman",
+  "decision_date": "2002-08-13",
+  "docket_number": "Appeal No. 773 WAL 2001",
+  "first_page": "435",
+  "last_page": "436",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "569 Pa. 435"
+    },
+    {
+      "type": "parallel",
+      "cite": "804 A.2d 1209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "773 A.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11088768,
+        124682,
+        124714,
+        11088819
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/773/0126-01",
+        "/pa/565/0280-01",
+        "/pa/565/0279-01",
+        "/a2d/773/0126-02"
+      ]
+    },
+    {
+      "cite": "565 Pa. 280",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124682
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0280-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 599,
+    "ocr_confidence": 0.649,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.012348017201002839
+    },
+    "sha256": "c39b574842aabcfcb25ae7e77b0de7edb206011e07c45c8e7d87b40f41982df4",
+    "simhash": "1:153f67c791a35de7",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T20:10:58.986720+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Bret Jason SHELPMAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of August, 2002, the Petition for Allowance of Appeal is hereby GRANTED, LIMITED to the Superior Court\u2019s conclusion that Petitioner\u2019s ineffectiveness claim was not cognizable under the PCRA, the Order of the Superior Court is VACATED, and the matter is REMANDED for consideration of the merits of Petitioner\u2019s ineffective assistance claim. See Commonwealth ex rel. Dadario v. Goldberg, 565 Pa. 280, 773 A.2d 126 (2001).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "804 A.2d 1209\nCOMMONWEALTH of Pennsylvania, Respondent, v. Bret Jason SHELPMAN, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 13, 2002."
+  },
+  "file_name": "0435-01",
+  "first_page_order": 565,
+  "last_page_order": 566
+}

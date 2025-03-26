@@ -1,0 +1,68 @@
+{
+  "id": 1294524,
+  "name": "Burns Estate",
+  "name_abbreviation": "Burns Estate",
+  "decision_date": "1960-11-15",
+  "docket_number": "Appeal, No. 271",
+  "first_page": "556",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "401 Pa. 556"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 346,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 1.453314129097285e-07,
+      "percentile": 0.6554872504149856
+    },
+    "sha256": "0def42f62e7b0c312eb5a67d71777a6c05ea4a45c55fa97631ccef924295e90e",
+    "simhash": "1:fa90a699228a2fa8",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T18:48:54.127396+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "Burns Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe decree appealed from is affirmed, at appellant\u2019s costs, on the opinion of Judge Cox.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "James G. Larrimer} for appellant.",
+      "John \u00a3). Stedeforcl, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Burns Estate.\nArgued September 27, 1960.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nreargument refused December 15, 1960.\nNovember 15, 1960:\nJames G. Larrimer} for appellant.\nJohn \u00a3). Stedeforcl, for appellee."
+  },
+  "file_name": "0556-01",
+  "first_page_order": 574,
+  "last_page_order": 575
+}

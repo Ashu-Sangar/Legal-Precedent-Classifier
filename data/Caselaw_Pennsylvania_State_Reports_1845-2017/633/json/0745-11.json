@@ -1,0 +1,70 @@
+{
+  "id": 12281234,
+  "name": "S.L.K., In re; H.C., In re",
+  "name_abbreviation": "In re S.L.K.",
+  "decision_date": "2015-07-24",
+  "docket_number": "368 EAL (2015)",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 440",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 84,
+    "ocr_confidence": 0.842,
+    "sha256": "b2c9bd71233f3ef9f6c0581f9a3eaf9b35970b41739b05e5a460e3402a2693e5",
+    "simhash": "1:c9030872a4dc0d51",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S.L.K., In re; H.C., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 440",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "S.L.K., In re; H.C., In re\n07/24/2015\n368 EAL (2015)"
+  },
+  "file_name": "0745-11",
+  "first_page_order": 799,
+  "last_page_order": 799
+}

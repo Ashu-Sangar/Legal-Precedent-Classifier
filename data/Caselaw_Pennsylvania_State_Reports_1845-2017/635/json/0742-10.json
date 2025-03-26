@@ -1,0 +1,70 @@
+{
+  "id": 12283445,
+  "name": "Com. v. Santiago",
+  "name_abbreviation": "Com. v. Santiago",
+  "decision_date": "2016-03-08",
+  "docket_number": "796 MAL (2015)",
+  "first_page": "742",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 742"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.767,
+    "sha256": "47f9daaf828e13670af340fa09517ca24e44daa7e41fcb7e92c97beed44d4667",
+    "simhash": "1:2d722acebf8b2b84",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Santiago"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 63",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Santiago\n03/08/2016\n796 MAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0742-10",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

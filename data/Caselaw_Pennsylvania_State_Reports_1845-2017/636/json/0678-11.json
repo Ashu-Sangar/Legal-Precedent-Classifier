@@ -1,0 +1,82 @@
+{
+  "id": 12285770,
+  "name": "Wakeley v. Brunner",
+  "name_abbreviation": "Wakeley v. Brunner",
+  "decision_date": "2016-08-29",
+  "docket_number": "154 WAL (2016)",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 678"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "147 A.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12487779,
+        12184909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/147-2/0001-01",
+        "/a3d/147/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.865,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24930526837665054
+    },
+    "sha256": "85e454c409e388b209964a7f78eae191accf7a330504a986124192cf8be427f9",
+    "simhash": "1:151cbae20658a010",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wakeley v. Brunner"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 147 A.3d 1",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wakeley v. Brunner\n08/29/2016\n154 WAL (2016)"
+  },
+  "file_name": "0678-11",
+  "first_page_order": 730,
+  "last_page_order": 730
+}

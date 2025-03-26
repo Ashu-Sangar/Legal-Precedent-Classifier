@@ -1,0 +1,81 @@
+{
+  "id": 1279691,
+  "name": "Kenny Estate",
+  "name_abbreviation": "Kenny Estate",
+  "decision_date": "1958-05-26",
+  "docket_number": "Appeal, No. 317",
+  "first_page": "30",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "393 Pa. 30"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Pa. D. & C. 2d 545",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1623332
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/10/0545-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 370,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 7.888418233729218e-08,
+      "percentile": 0.46035463843644936
+    },
+    "sha256": "b14a3d9126b15feefddc5a2e02962ec89913ea10c068e9076356bab6ca9d7362",
+    "simhash": "1:7f82cb250b20b27c",
+    "word_count": 63
+  },
+  "last_updated": "2024-02-27T20:57:06.303624+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Arnold, Jones and Cohen, JJ."
+    ],
+    "parties": [
+      "Kenny Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nTbe decree is affirmed on tbe opinion of Judge Lbfeyer for tbe Court below reported at 10 Pa. D. & C. 2d 545. Costs on appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John V. Doughten, for appellant.",
+      "William E. Schubert, Jr., and Schubert and Schubert, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Kenny Estate.\nSubmitted April 24, 1958.\nBefore Jones, C. J., Bell, Musmanno, Arnold, Jones and Cohen, JJ.\nJohn V. Doughten, for appellant.\nMay 26, 1958:\nWilliam E. Schubert, Jr., and Schubert and Schubert, for appellee."
+  },
+  "file_name": "0030-01",
+  "first_page_order": 68,
+  "last_page_order": 70
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1736914,
+  "name": "COMMONWEALTH of Pennsylvania v. Gary MOORE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Moore",
+  "decision_date": "1978-01-26",
+  "docket_number": "No. 3296",
+  "first_page": "19",
+  "last_page": "21",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "476 Pa. 19"
+    },
+    {
+      "type": "parallel",
+      "cite": "381 A.2d 845"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "475 Pa. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1734119
+      ],
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/475/0475-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 137,
+    "char_count": 1589,
+    "ocr_confidence": 0.776,
+    "pagerank": {
+      "raw": 3.1322341583748635e-07,
+      "percentile": 0.8613504107768445
+    },
+    "sha256": "fde9755e7240043fa3bf56ff9f9fba81256e23becaa056eaf972a315dbe9bfed",
+    "simhash": "1:3deaf6eabb687e22",
+    "word_count": 248
+  },
+  "last_updated": "2024-02-27T21:31:26.483813+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Gary MOORE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPER CURIAM:\nPetitioner Gary Moore was convicted of possession of an instrument of crime, 18 Pa.C.S.A. \u00a7 907 (1973). The trial court instructed the jury:\n\u201cIf a person is in possession of what is conceded to be an instrument of crime, it is perfectly legitimate for a jury to conclude that possession of that instrument carries with it the intent to employ it in a criminal manner.\u201d\nPetitioner objected to this charge.\nSection 907(a) provides:\n\u201c(a) Criminal instruments generally. \u2014 A person commits a misdemeanor of the first degree if he possesses any instrument of crime with intent to employ it criminally.\u201d\nThe Commonwealth must prove every element of the offense, including criminal intent, beyond a reasonable doubt. Commonwealth v. Hardick, 475 Pa. 475, 380 A.2d 1235 (1977). Although criminal intent can be inferred beyond a reasonable doubt from the surrounding circumstances, it cannot be inferred from mere possession. Id. Therefore, the court erred when it charged the jury that criminal intent could be inferred from mere possession of an instrument of crime. Accordingly, we grant petition for allocatur, reverse the judgment of sentence and award petitioner a new trial.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Barton A. Haines, Philadelphia, for petitioner.",
+      "F. Emmett Fitzpatrick, Dist. Atty., Philadelphia County, Michael R. Stiles, Asst. Dist. Atty., Chief Appeals Div., Philadelphia, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "381 A.2d 845\nCOMMONWEALTH of Pennsylvania v. Gary MOORE, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 26, 1978.\nBarton A. Haines, Philadelphia, for petitioner.\nF. Emmett Fitzpatrick, Dist. Atty., Philadelphia County, Michael R. Stiles, Asst. Dist. Atty., Chief Appeals Div., Philadelphia, for respondent.\nBefore EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0019-01",
+  "first_page_order": 51,
+  "last_page_order": 53
+}

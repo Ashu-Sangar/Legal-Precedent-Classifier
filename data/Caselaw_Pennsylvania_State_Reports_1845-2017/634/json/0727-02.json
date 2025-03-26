@@ -1,0 +1,70 @@
+{
+  "id": 12280677,
+  "name": "Com. v. Parker",
+  "name_abbreviation": "Com. v. Parker",
+  "decision_date": "2015-10-28",
+  "docket_number": "473 EAL (2015)",
+  "first_page": "727",
+  "last_page": "727",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 727"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1137",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.841,
+    "sha256": "55557729b26b395d6af58cd45c515ab18374b825f793191a1ae9886da17149f0",
+    "simhash": "1:22cf42316f614d41",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Parker"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1137",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Parker\n10/28/2015\n473 EAL (2015)"
+  },
+  "file_name": "0727-02",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

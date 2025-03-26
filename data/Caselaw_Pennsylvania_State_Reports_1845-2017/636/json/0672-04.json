@@ -1,0 +1,70 @@
+{
+  "id": 12284550,
+  "name": "Com. v. Giunta",
+  "name_abbreviation": "Com. v. Giunta",
+  "decision_date": "2016-08-10",
+  "docket_number": "157 MAL (2016)",
+  "first_page": "672",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 672"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 502",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.768,
+    "sha256": "3d958cc08a9814e03278a390643c0d34ef4f8d47239eb9f3b7b31859f2e946f5",
+    "simhash": "1:2706b2c2b30f609c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Giunta"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 502",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Giunta\n08/10/2016\n157 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0672-04",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

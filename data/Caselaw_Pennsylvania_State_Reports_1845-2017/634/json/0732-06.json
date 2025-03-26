@@ -1,0 +1,70 @@
+{
+  "id": 12281166,
+  "name": "Com. v. Brinkley",
+  "name_abbreviation": "Com. v. Brinkley",
+  "decision_date": "2015-12-29",
+  "docket_number": "464 EAL (2015)",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 444",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "ocr_confidence": 0.77,
+    "sha256": "8c30839098d244109afc0fb647a7c77292625516d5c50059ed226fa44b6d2be3",
+    "simhash": "1:ed66e0ecba8bb24c",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Brinkley"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 444",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Brinkley\n12/29/2015\n464 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0732-06",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

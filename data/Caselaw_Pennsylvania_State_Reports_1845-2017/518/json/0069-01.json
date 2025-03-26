@@ -1,0 +1,104 @@
+{
+  "id": 1811639,
+  "name": "COMMONWEALTH of Pennsylvania v. David Kerry HARTON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Harton",
+  "decision_date": "1988-05-06",
+  "docket_number": "Petition No. 432 W.D. Allocatur Dkt. 1987",
+  "first_page": "69",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "518 Pa. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "540 A.2d 932"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Pa. 272",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806011
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0272-01"
+      ]
+    },
+    {
+      "cite": "515 Pa. 272",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806011
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/515/0272-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 218,
+    "char_count": 2945,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 6.848989183728895e-08,
+      "percentile": 0.41741699998725795
+    },
+    "sha256": "630234a0c8d2082606b43357024895fe736c9566859544e3f9e030bae46d4271",
+    "simhash": "1:45a0c2d5a2ff8de3",
+    "word_count": 491
+  },
+  "last_updated": "2024-02-27T21:15:45.792540+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LARSEN, J., would deny the Petition for Allowance of Appeal.",
+      "PAPADAKOS, J., files a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. David Kerry HARTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 6th day of May, 1988, the Petition for Allowance of Appeal is granted, limited to the sentencing issue. The order of sentence is vacated and the case is remanded to the Court of Common Pleas of Mercer County for imposition of the original sentence not in excess of four to ten years. See Commonwealth v. Pittman, 515 Pa. 272, 528 A.2d 138 (1987) (where the Commonwealth does not provide notice of its intention to seek the mandatory minimum sentence prior to the sentencing of the defendant, either purposefully or otherwise, the trial court is without authority thereafter to vacate the sentence so that the mandatory minimum sentence may be imposed).\nLARSEN, J., would deny the Petition for Allowance of Appeal.\nPAPADAKOS, J., files a dissenting opinion.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      },
+      {
+        "text": "PAPADAKOS, Justice,\ndissenting.\nI dissent from the grant of the Petition for Allowance of Appeal and the remand of the case for imposition of the original sentence not in excess of four to ten years. The majority\u2019s reliance on Commonwealth v. Pittman, 515 Pa. 272, 528 A.2d 138 (1987) as authority for its action is misplaced.\nThe Pittman issue has not been raised by Appellant before us or before the Superior Court or before the sentencing court. Rather, among the five questions presented for review in his Petition for Review, the Appellant has asked:\n(c) Whether the Sentence Court abused its discretion in imposing sentence and in imposing a harsher sentence on Appellant than those similarly classified under the sentencing guidelines?\nI read this question as raising the discretionary aspects of the sentence. At least five members of this Court have taken the position that 42 Pa.C.S. \u00a7 9781(f) precludes our review of the discretionary aspects of a sentence. I emphasize, therefore, that all other aspects of his sentence, including which of the two sentences would be proper, are not before us for review.\nIn reciting the factual background of this case, the Petitioner has raised a potential double jeopardy claim with which we did not deal in Pittman. The Commonwealth has not been given the opportunity to meet this issue. We really do not have a record upon which we can rely to establish affirmatively that an illegal sentence has been imposed. Pittman dealt with a knowing and purposeful refusal of the District Attorney to tender the called-for notice as part of a plea bargain agreement.\nIn this case we do not know exactly what happened with the District Attorney\u2019s notice. We have only the statement of Petitioner that notice was not given properly. The Petition for Review is incomplete and appears confused and garbled on this matter. But since the possibility of double jeopardy is indicated in his petition, I would remand to the trial court on this issue alone in order to allow the development of arguments.",
+        "type": "dissent",
+        "author": "PAPADAKOS, Justice,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "540 A.2d 932\nCOMMONWEALTH of Pennsylvania v. David Kerry HARTON, Petitioner.\nSupreme Court of Pennsylvania.\nMay 6, 1988."
+  },
+  "file_name": "0069-01",
+  "first_page_order": 165,
+  "last_page_order": 167
+}

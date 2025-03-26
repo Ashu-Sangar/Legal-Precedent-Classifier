@@ -1,0 +1,70 @@
+{
+  "id": 12281913,
+  "name": "Com. v. Bradley",
+  "name_abbreviation": "Com. v. Bradley",
+  "decision_date": "2015-12-30",
+  "docket_number": "506 EAL (2015)",
+  "first_page": "740",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 740"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 90",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "ocr_confidence": 0.723,
+    "sha256": "47a583c278e84c7493b992701231b4f6c6ad3e42cd44a4648edb8c4369a41dc8",
+    "simhash": "1:e762f9ccbf0ab9d8",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Bradley"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 90",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Bradley\n12/30/2015\n506 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0740-11",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

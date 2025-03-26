@@ -1,0 +1,70 @@
+{
+  "id": 12281458,
+  "name": "Com. v. Scott",
+  "name_abbreviation": "Com. v. Scott",
+  "decision_date": "2015-12-29",
+  "docket_number": "407 EAL (2015)",
+  "first_page": "735",
+  "last_page": "735",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 735"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 139,
+    "ocr_confidence": 0.788,
+    "sha256": "b4d6ecfe46af533dcaf9ad2fa8c42d501e0775acdc01dc45dd917db32591ad50",
+    "simhash": "1:4d6ea9d8bf09b3d4",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Scott"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 460",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Scott\n12/29/2015\n407 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0735-05",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

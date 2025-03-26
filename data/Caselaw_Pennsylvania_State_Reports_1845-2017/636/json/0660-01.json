@@ -1,0 +1,70 @@
+{
+  "id": 12282693,
+  "name": "Com. v. Jenkins",
+  "name_abbreviation": "Com. v. Jenkins",
+  "decision_date": "2016-08-03",
+  "docket_number": "19 EAL (2016)",
+  "first_page": "660",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 660"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 101",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "ocr_confidence": 0.741,
+    "sha256": "dd9cc8c76f741b4402b7404c72b961f19b41a41079edbc64e293b21c59d545f2",
+    "simhash": "1:6777a3c6b78bf254",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jenkins"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 101",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jenkins\n08/03/2016\n19 EAL (2016)\n. Justice WECHT did not participate in the decision of this matter."
+  },
+  "file_name": "0660-01",
+  "first_page_order": 712,
+  "last_page_order": 712
+}

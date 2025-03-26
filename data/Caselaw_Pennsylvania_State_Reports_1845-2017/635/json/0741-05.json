@@ -1,0 +1,80 @@
+{
+  "id": 12283279,
+  "name": "Com. v. Jordan",
+  "name_abbreviation": "Com. v. Jordan",
+  "decision_date": "2016-03-22",
+  "docket_number": "602 EAL (2015)",
+  "first_page": "741",
+  "last_page": "741",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 741"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 55",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6836151
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/125/0055-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24914058696086142
+    },
+    "sha256": "55d214e0e05ea8e92eb28aec632632f96d540976e17378255fd8d6c22a5a84fe",
+    "simhash": "1:b957faccbbfeb29c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jordan"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 55",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jordan\n03/22/2016\n602 EAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0741-05",
+  "first_page_order": 801,
+  "last_page_order": 801
+}

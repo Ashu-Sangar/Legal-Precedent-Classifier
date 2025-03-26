@@ -1,0 +1,70 @@
+{
+  "id": 12282182,
+  "name": "Com. v. McDonald",
+  "name_abbreviation": "Com. v. McDonald",
+  "decision_date": "2016-02-29",
+  "docket_number": "511 EAL (2015)",
+  "first_page": "731",
+  "last_page": "731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 731"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 466",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "ocr_confidence": 0.779,
+    "sha256": "dc04dc369c40ae4f04617995205ab973a1a105acecdce5e454a79ee7118560c1",
+    "simhash": "1:7f6ea1cdabafa21e",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. McDonald"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 466",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. McDonald\n02/29/2016\n511 EAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0731-03",
+  "first_page_order": 791,
+  "last_page_order": 791
+}

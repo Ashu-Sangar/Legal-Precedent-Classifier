@@ -1,0 +1,80 @@
+{
+  "id": 3698913,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Michael COOPER, Respondent",
+  "name_abbreviation": "Commonwealth v. Cooper",
+  "decision_date": "2009-12-29",
+  "docket_number": "No. 513 EAL 2009",
+  "first_page": "130",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "605 Pa. 130"
+    },
+    {
+      "type": "parallel",
+      "cite": "987 A.2d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "945 A.2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8382979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/945/0233-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 553,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10754198410795378
+    },
+    "sha256": "cad0eda6337f15e87f8e5c4eb33b434c9148919cf707d2a047653b2d4a229569",
+    "simhash": "1:df3f931e4a93e9b6",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T16:47:15.478848+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Michael COOPER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of December, 2009, the Petition for Allowance of Appeal is GRANTED. The issue, rephrased for clarity, is:\nAre the Superior Court\u2019s holdings in Commonwealth v. Mincavage, 945 A.2d 233 (Pa.Super.2008), and in the present case, in direct conflict with the Rules of Criminal Procedure and Rules of Appellate Procedure, specifically Pa.R.Crim.P. 720 and 721 and Pa.R.A.P 1701 and 3304?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "987 A.2d 715\nCOMMONWEALTH of Pennsylvania, Petitioner v. Michael COOPER, Respondent.\nSupreme Court of Pennsylvania.\nDec. 29, 2009."
+  },
+  "file_name": "0130-01",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

@@ -1,0 +1,80 @@
+{
+  "id": 12286060,
+  "name": "Schatzberg v. W.C.A.B.(Bemis Co., Inc.)",
+  "name_abbreviation": "Schatzberg v. W.C.A.B.(Bemis Co., Inc.)",
+  "decision_date": "2016-08-11",
+  "docket_number": "147 EAL (2016)",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1081",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6805231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/136/1081-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 99,
+    "ocr_confidence": 0.863,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2493359651470028
+    },
+    "sha256": "6b036299636a26005745706af40dbe8033eef01385092085b69816c1aa660bea",
+    "simhash": "1:d246416e53016497",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schatzberg v. W.C.A.B.(Bemis Co., Inc.)"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 136 A.3d 1081",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Schatzberg v. W.C.A.B.(Bemis Co., Inc.)\n08/11/2016\n147 EAL (2016)"
+  },
+  "file_name": "0681-05",
+  "first_page_order": 733,
+  "last_page_order": 733
+}

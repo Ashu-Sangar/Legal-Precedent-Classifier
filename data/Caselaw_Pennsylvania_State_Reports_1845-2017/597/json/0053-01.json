@@ -1,0 +1,100 @@
+{
+  "id": 3924070,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Ronald KELLY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kelly",
+  "decision_date": "2008-05-15",
+  "docket_number": "Appeal No. 257 EAL 2006",
+  "first_page": "53",
+  "last_page": "53",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "597 Pa. 53"
+    },
+    {
+      "type": "parallel",
+      "cite": "950 A.2d 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "941 A.2d 671",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8396704,
+        8396643,
+        4088661,
+        4087757
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/941/0671-02",
+        "/a2d/941/0671-01",
+        "/pa/596/0147-01",
+        "/pa/596/0146-01"
+      ]
+    },
+    {
+      "cite": "596 Pa. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4088661
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0147-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 398,
+    "ocr_confidence": 0.644,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12026106541346619
+    },
+    "sha256": "ba98471f9d76445109aba30ed365d8c8f5fc57be66687813389f8e990f9011de",
+    "simhash": "1:55150a27a3f92db6",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T20:52:49.373016+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Ronald KELLY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 15th day of May, 2008, the Petition for Allowance of Appeal is hereby GRANTED, and the Order of the Superior Court is VACATED, and the matter is REMANDED for reconsideration under Commonwealth v. Dunlap, 596 Pa. 147, 941 A.2d 671 (2007).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "950 A.2d 262\nCOMMONWEALTH of Pennsylvania, Respondent v. Ronald KELLY, Petitioner.\nSupreme Court of Pennsylvania.\nMay 15, 2008."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 99,
+  "last_page_order": 99
+}

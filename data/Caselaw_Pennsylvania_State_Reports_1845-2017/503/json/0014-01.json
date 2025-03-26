@@ -1,0 +1,98 @@
+{
+  "id": 1785897,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Michael PINDER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Pinder",
+  "decision_date": "1983-11-16",
+  "docket_number": "Allocatur Docket No. 119",
+  "first_page": "14",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "503 Pa. 14"
+    },
+    {
+      "type": "parallel",
+      "cite": "467 A.2d 1293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "467 A.2d 1287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1785936,
+        1785882,
+        1785894
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0001-01",
+        "/pa/503/0002-01",
+        "/pa/503/0002-02"
+      ]
+    },
+    {
+      "cite": "503 Pa. 2",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785882,
+        1785894
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0002-01",
+        "/pa/503/0002-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 78,
+    "char_count": 767,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.867173887808498e-08,
+      "percentile": 0.2999609218534765
+    },
+    "sha256": "3ab8bb65de316c995151512599f6c002f341bb34e829b9883f6100997829ea14",
+    "simhash": "1:44fc87bbe2eb8d2c",
+    "word_count": 123
+  },
+  "last_updated": "2024-02-27T22:38:24.327375+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Michael PINDER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nThe petition for allowance of appeal is granted. The Order of Superior Court remanding to the Court of Common Pleas for clarification of sentence is vacated based on Commonwealth v. Isabell, 503 Pa. 2, 467 A.2d 1287, decided this day. The judgment of sentence of the Court of Common Pleas of Philadelphia is affirmed without prejudice to petitioner\u2019s right to challenge the recording of his sentence by a habeas corpus proceeding against the proper parties in the Court of Common Pleas of Philadelphia pursuant to Section 6502 of the Judicial Code, 42 Pa.C.S. \u00a7 6502, and Pa.R.Crim.P. 1701.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "467 A.2d 1293\nCOMMONWEALTH of Pennsylvania, Respondent, v. Michael PINDER, Petitioner.\nAllocatur Docket No. 119.\nSupreme Court of Pennsylvania.\nNov. 16, 1983."
+  },
+  "file_name": "0014-01",
+  "first_page_order": 70,
+  "last_page_order": 71
+}

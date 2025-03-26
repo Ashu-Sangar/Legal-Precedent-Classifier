@@ -1,0 +1,98 @@
+{
+  "id": 1195636,
+  "name": "Wolak's Case",
+  "name_abbreviation": "Wolak's Case",
+  "decision_date": "1939-11-27",
+  "docket_number": "Appeal, No. 358",
+  "first_page": "405",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "336 Pa. 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "316 Pa. 392",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1159015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0392-01"
+      ]
+    },
+    {
+      "cite": "322 Pa. 362",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1167883
+      ],
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/322/0362-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 202,
+    "char_count": 2261,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4699411046744424
+    },
+    "sha256": "2546365016f32e20129ba24f1f1f047e663c50b5a530b307423bb89e7942da3e",
+    "simhash": "1:3e43dc92312c35c0",
+    "word_count": 399
+  },
+  "last_updated": "2024-02-27T23:35:15.015595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaefer, Maxey, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Wolak\u2019s Case."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nMichael A. Wolak has taken this appeal from the action of the Board of Governance of the Pennsylvania Bar in recommending his disbarment from the practice of law. Appellant was admitted to the Bar in 1927 and since that time has practiced in Fayette and Allegheny Counties. The report of the Board of Governance found him guilty of depositing $675.00 of a client\u2019s money in his own bank account and failing to pay over this fund on demand. The bank in which the account was kept closed its doors, but at that time there was not sufficient money in appellant\u2019s account to equal the claim of his client. Ever since the failure of the bank, and even for some time prior thereto, appellant has been in straightened circumstances and despite repeated demands has repaid but a small portion of the amount due his client.\nWe have carefully examined the record in this case and agree with the Soar\u2019d of Governance that appellant committed a violation of the Act of April 14, 1834, P. L. 333, section 74, which reads: \u201cIf any such attorney shall retain money belonging to his client, after demand made by the client for the payment thereof, it shall be the duty of the court to cause the name of such attorney to be stricken from the record of the attorneys, and to prevent him from prosecuting longer in the said court.\u201d Here it is quite clear that appellant used money of his client for his own purpose and was unable to pay it over upon demand. When an attorney is guilty of the unlawful retention of a client\u2019s money his right to practice law should be withdrawn: Kraus\u2019s Case, 322 Pa. 362, 363.\nWhile the facts of this case are not as aggravated as those of some of the other disbarment cases, nevertheless there is no other alternative but to inflict the penalty of disbarment: Breslin\u2019s Appeal, 316 Pa. 392. This is made mandatory by the provisions of the Act of 1834, supra. We, therefore, approve the recommendation. of the Board of Governance, and order that the appellant, Michael A. Wolak, be disbarred from the practice of law.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Robert H. Braun;, Jrfor appellant.",
+      "J. Roy Dichie, with him Thomas Burns Drum, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wolak\u2019s Case.\nArgued October 4, 1939.\nBefore Kephart, C. J., Schaefer, Maxey, Linn, Stern and Barnes, JJ.\nRobert H. Braun;, Jrfor appellant.\nJ. Roy Dichie, with him Thomas Burns Drum, for appellee.\nNovember 27, 1939:"
+  },
+  "file_name": "0405-01",
+  "first_page_order": 455,
+  "last_page_order": 457
+}

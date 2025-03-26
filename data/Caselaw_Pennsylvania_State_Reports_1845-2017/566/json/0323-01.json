@@ -1,0 +1,696 @@
+{
+  "id": 706294,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Mark BREAKIRON, Appellant",
+  "name_abbreviation": "Commonwealth v. Breakiron",
+  "decision_date": "2001-09-26",
+  "docket_number": "No. 323, Capital Appeal Docket",
+  "first_page": "323",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 323"
+    },
+    {
+      "type": "parallel",
+      "cite": "781 A.2d 94"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(e)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "529 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508670
+      ],
+      "weight": 3,
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0420-01"
+      ]
+    },
+    {
+      "cite": "761 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11163056,
+        1366999,
+        1366968,
+        11163103
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/761/1167-01",
+        "/pa/563/0455-01",
+        "/pa/563/0454-01",
+        "/a2d/761/1167-02"
+      ]
+    },
+    {
+      "cite": "563 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366999
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0455-01"
+      ]
+    },
+    {
+      "cite": "722 A.2d 638",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11773538,
+        765982
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "640-641"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/722/0638-01",
+        "/pa/554/0547-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765982
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0547-01"
+      ]
+    },
+    {
+      "cite": "701 A.2d 516",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        17254,
+        11898471
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0400-01",
+        "/a2d/701/0516-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        17254
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0400-01"
+      ]
+    },
+    {
+      "cite": "753 A.2d 201",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225995,
+        11205468
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "202"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0001-01",
+        "/a2d/753/0201-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225995
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0001-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 214",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11567898,
+        838539
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/737/0214-01",
+        "/pa/558/0313-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 313",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838539
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0313-01"
+      ]
+    },
+    {
+      "cite": "749 A.2d 911",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        93220,
+        11532653
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "916-917",
+          "parenthetical": "same"
+        },
+        {
+          "page": "915"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0214-01",
+        "/a2d/749/0911-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93220
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0214-01"
+      ]
+    },
+    {
+      "cite": "752 A.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11511850,
+        93115,
+        92789,
+        11511887
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "871",
+          "parenthetical": "after-discovered evidence exception not satisfied by allegation that \"facts\" which form basis of claim were not knowable until present counsel advised defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/752/0868-01",
+        "/pa/561/0611-01",
+        "/pa/561/0611-02",
+        "/a2d/752/0868-02"
+      ]
+    },
+    {
+      "cite": "561 Pa. 611",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93115,
+        92789
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "after-discovered evidence exception not satisfied by allegation that \"facts\" which form basis of claim were not knowable until present counsel advised defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0611-01",
+        "/pa/561/0611-02"
+      ]
+    },
+    {
+      "cite": "753 A.2d 780",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225976,
+        11212841
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "785"
+        },
+        {
+          "page": "785",
+          "parenthetical": "claim of ineffective assistance of counsel does not save an otherwise untimely petition for review on the merits"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0070-01",
+        "/a2d/753/0780-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 70",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225976
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0070-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11471640,
+        95775
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "588",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0585-01",
+        "/pa/560/0487-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95775
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0487-01"
+      ]
+    },
+    {
+      "cite": "754 A.2d 714",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11214773
+      ],
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/754/0714-01"
+      ]
+    },
+    {
+      "cite": "731 A.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56747,
+        11666446
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "590",
+          "parenthetical": "60 day requirement of section 9545(b)(2) not satisfied where defendant fails to explain why information in statements at issue could not, with the exercise of due diligence, been obtained earlier"
+        },
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0012-01",
+        "/a2d/731/0581-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 12",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56747
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "60 day requirement of section 9545(b)(2) not satisfied where defendant fails to explain why information in statements at issue could not, with the exercise of due diligence, been obtained earlier"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0012-01"
+      ]
+    },
+    {
+      "cite": "741 A.2d 1258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        837192,
+        11658193
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1261"
+        },
+        {
+          "page": "1261-1262"
+        },
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0604-01",
+        "/a2d/741/1258-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 604",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837192
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0604-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "726 A.2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11589296,
+        607122
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/726/0374-01",
+        "/pa/556/0001-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607122
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0001-01"
+      ]
+    },
+    {
+      "cite": "145 L.Ed.2d 1098",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 S.Ct. 1193",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "528 U.S. 1169",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9691810,
+        9691651,
+        9691621,
+        9691781,
+        9691751,
+        9691564,
+        9691533,
+        9691578,
+        9691602,
+        9691635,
+        9691734,
+        9691546,
+        9691676,
+        9691709
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/528/1169-14",
+        "/us/528/1169-08",
+        "/us/528/1169-06",
+        "/us/528/1169-13",
+        "/us/528/1169-12",
+        "/us/528/1169-03",
+        "/us/528/1169-01",
+        "/us/528/1169-04",
+        "/us/528/1169-05",
+        "/us/528/1169-07",
+        "/us/528/1169-11",
+        "/us/528/1169-02",
+        "/us/528/1169-09",
+        "/us/528/1169-10"
+      ]
+    },
+    {
+      "cite": "729 A.2d 1088",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11626424,
+        607113
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/729/1088-01",
+        "/pa/556/0519-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 519",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607113
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0519-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 179",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 224",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "498 U.S. 881",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6443882
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0881-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822795
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0282-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 885,
+    "char_count": 20224,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 6.649578878721871e-07,
+      "percentile": 0.9622601549356739
+    },
+    "sha256": "929ffb8b3e5e5ba68811fd82d6df6a3c4898c9597a4386569305fee094d80a29",
+    "simhash": "1:90bdcf1e77ee3b68",
+    "word_count": 3204
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Mark BREAKIRON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nZAPPALA, Justice.\nThis is a direct appeal from the denial of Appellant\u2019s second petition for post-conviction relief pursuant to the Post Conviction Relief Act (PCRA), 42 Pa.C.S. \u00a7\u00a7 9541-9546. The common pleas court found that the petition was untimely and dismissed it for lack of jurisdiction. For the reasons that follow, we affirm.\nOn April 13, 1988, Appellant was convicted of first-degree murder and robbery and was subsequently sentenced to death. On March 14, 1990, our Court affirmed Appellant\u2019s conviction and sentence, Commonwealth v. Breakiron, 524 Pa. 282, 571 A.2d 1035 (1990), and the United States Supreme Court denied certiorari. Breakiron v. Pennsylvania, 498 U.S. 881, 111 S.Ct. 224, 112 L.Ed.2d 179 (1990). In 1996, Appellant filed a pro se motion for post-conviction relief. Counsel was appointed and an amended petition was filed. Evidentiaryhearings were held and the trial court denied post-conviction relief in 1998. Our Court subsequently affirmed the denial of relief, Commonwealth v. Breakiron, 556 Pa. 519, 729 A.2d 1088 (1999), and the United States Supreme Court again denied certiorari. Breakiron v. Pennsylvania, 528 U.S. 1169, 120 S.Ct. 1193, 145 L.Ed.2d 1098 (2000).\nThe Governor subsequently signed a death warrant setting April 6, 2000, as Appellant\u2019s execution date. On February 14, 2000, Appellant\u2019s new counsel filed a Motion for Stay of Execution in federal court. The next day, United States District Judge William Standish issued an order granting a stay of execution and ordered Appellant to file a petition for writ of habeas corpus.\nOn March 24, 2000, Appellant filed the instant Petition for Habeas Corpus Relief Pursuant to Article I, Section 14 of the Pennsylvania Constitution and Statutory Post Conviction Relief Under 42 Pa.C.S. \u00a7 9542 et seq. and Consolidated Memorandum of Law. The common pleas court held a hearing solely on the issue of the timeliness of Appellant\u2019s petition. The court found that Appellant\u2019s petition, which was filed nearly ten years after his conviction became final, was untimely and that he failed to establish any exception to the one year filing requirement. It concluded that it therefore lacked jurisdiction to determine the merits of the petition and dismissed it with prejudice.\nOn appeal to this Court, Appellant raises eleven issues for review. Before reaching the merits of any issue, however, we must determine the propriety of the common pleas court\u2019s dismissal of the petition on the ground that it is untimely. The PCRA time restrictions are jurisdictional in nature. Commonwealth v. Peterkin, 722 A.2d at 641. Thus, neither the fact that the instant petition is filed in a capital case nor the fact that some of Appellant\u2019s claims are couched in terms of ineffectiveness will save the petition from application of section 9545 of the PCRA. Commonwealth v. Banks, 556 Pa. 1, 726 A.2d 374, 376 (1999). This section provides that any PCRA petition, including a second or subsequent petition, must be filed within one year of the date the judgment becomes final. 42 Pa.C.S. \u00a7 9545(b)(1). A judgment becomes final at the conclusion of direct review or at the expiration of time for seeking the review. Id. at 9545(b)(3).\nAppellant concedes that the present petition was filed outside the mandatory one year filing requirement. Direct review of Appellant\u2019s judgment concluded on October 1, 1990, when the United States Supreme Court denied the petition for a writ of certiorari. Appellant\u2019s second PCRA petition, the subject of this appeal, was filed on March 24, 2000, almost ten years later. The petition is therefore untimely unless Appellant is able to demonstrate that one of the following exceptions applies:\n(i) the failure to raise the claim was the result of interference by government officials with the presentation of the claim in violation of the Constitution or laws of this Commonwealth or the Constitution or laws of the United States;\n(ii) the facts upon which the claim is predicated were unknown to the petitioner and could not have been ascertained by the exercise of due diligence; or\n(iii) the right asserted is a constitutional right that was recognized by the Supreme Court of the United States or the Supreme Court of Pennsylvania after the time period provided in this section and has been held by that court to apply retroactively.\nId. at \u00a7 9545(b)(1)(i)-(iii).\nA petition invoking one of the above exceptions must be filed within 60 days of the date the claim could have been presented. Id. at 9545(b)(2). Appellant argues that his petition is timely and therefore should be addressed on the merits because issue (a), as set forth in footnote three supra, satisfies the governmental interference exception of section 9545(b)(l)(i), and issue (b) satisfies the after-discovered evidence exception of section 9545(b)(l)(ii). Appellant further contends that the remainder of his claims should be addressed on the merits because they involve the \u201cgross ineffectiveness\u201d of counsel for failing to raise them.\nWe first discuss the claim involving allegations of governmental interference. Specifically, Appellant contends that the Commonwealth violated Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963) by concealing material exculpatory evidence regarding Commonwealth witness, Ellis Price. According to Appellant, the Commonwealth: (1) failed to disclose Price\u2019s complete criminal record to the defense at the time of trial; (2) failed to correct Price when he falsely testified about his record; (3) failed to reveal that Price had a non-final criminal conviction at the time of trial, giving him a substantial incentive to \u201ccurry favor\u201d with the Commonwealth; and, (4) failed to disclose that Appellant admitted to Price that he (Appellant) was \u201cout of it\u201d on the night of the murder.\nAppellant argues that the failure to previously raise these claims was the result of interference by government officials, i.e., the Commonwealth\u2019s violation of its continuing obligation to disclose Brady material. Although a properly plead Brady claim may fall within the governmental interference exception, Commonwealth v. Beasley, 559 Pa. 604, 741 A.2d 1258, 1261 (1999), a petition invoking the exception must be filed within 60 days of the date the claim could have been filed pursuant to section 9545(b)(2). Id. at 1261-1262. In the instant case, Appellant failed to set forth any evidence as to when and how he discovered the Brady material that the Commonwealth allegedly withheld from him. He fails to offer a reasonable explanation as to why this information, with the exercise of due diligence, could not have been obtained earlier. See Commonwealth v. Yarris, 557 Pa. 12, 731 A.2d 581, 590 (1999) (60 day requirement of section 9545(b)(2) not satisfied where defendant fails to explain why information in statements at issue could not, with the exercise of due diligence, been obtained earlier); Commonwealth v. Vega, 754 A.2d 714, 718 (Pa.Super.2000) (60 day requirement of section 9545(b)(2) not met when defendant failed to provide date on which he learned of evidence giving rise to after-discovered evidence claim).\nInstead, Appellant argues that the claims are timely because they were filed within 60 days of the date the United States Supreme Court denied certiorari from our Court\u2019s affirmance of the denial of his first PCRA petition. He relies on our recent decision in Commonwealth v. Lark, 560 Pa. 487, 746 A.2d 585 (2000). In Lark, the trial court dismissed as untimely the defendant\u2019s second PCRA petition, which raised a claim pursuant to the newly discovered evidence exception to the one-year filing requirement. On appeal to our Court, the defendant argued that his petition was timely because it was filed within sixty days of this Court\u2019s order denying relief pursuant to his first PCRA petition. We agreed, noting that the defendant could not have filed his second PCRA petition in the trial court while his first petition was still pending before our Court. We ruled that under those circumstances, our Court, rather than the trial court, possessed jurisdiction over issues related directly to the case. We held\nthat when an appellant\u2019s PCRA appeal is pending before a court, a subsequent PCRA petition cannot be filed until the resolution of review of the pending PCRA petition by the highest state court in which review is sought, or upon the expiration of the time for seeking such review.\nId. at 588 (emphasis added).\nHere, Appellant attempts to extend the tolling period to the date the United States Supreme Court denied certiorari. This is contrary to the clear language in Lark and to the underlying rationale. As noted, the tolling arises from the trial court\u2019s lack of jurisdiction to entertain a second PCRA petition while the first petition is on appeal to our Court. The same jurisdictional dilemma, however, does not arise when an appellant seeks discretionary review of the matter in federal court. See generally Pa.R.A.P.1701 (after appeal taken, trial court may no longer proceed further in the matter). Here, our Court decided Appellant\u2019s first PCRA appeal on April 9, 1999, and reargument was denied on April 16, 1999. Thus, review of the pending PCRA petition \u201cby the highest state court\u201d concluded at that time. Appellant\u2019s instant petition, filed March 23, 2000, does not fall within 60 days thereafter and his Brady claims are therefore untimely.\nAppellant next contends that his death sentence is based on outside influences on the jury\u2019s deliberations and the jury\u2019s fundamental misunderstanding of the meaning of a life sentence. In support of his claim, he attaches affidavits of three jurors who essentially state that they would not have sentenced Appellant to death had they known that he would actually be executed. Appellant also submits the affidavit of a fourth juror who states that, during deliberations, she referenced a Reader\u2019s Digest Law Book for guidance as to the meaning of aggravating and mitigating circumstances. He contends that these claims satisfy the timeliness exception for after-discovered evidence under 42 Pa.C.S. \u00a7 9545(b)(1)(H).\nAll four juror affidavits are dated between April 10, 2000 and April 12, 2000, and the instant petition was filed within 60 days thereafter. This does not, however, satisfy the timeliness requirement because the affidavits are not \u201cfacts\u201d encompassed by the newly discovered evidence exception. In Commonwealth v. Gamboa-Taylor, 562 Pa. 70, 753 A.2d 780 (2000), we rejected the appellant\u2019s attempt to interweave concepts of ineffective assistance of counsel and after-discovered evidence as a means of establishing jurisdiction. We stated:\n[HJoping to gain the benefit of the [after-discovered evidence] exception, Appellant fashions the argument that the basic facts concerning PCRA counsel\u2019s representation, which allegedly highlight that PCRA counsel was ineffective, were not known to Appellant until current counsel reviewed the file. However, subsequent counsel\u2019s review of previous counsel\u2019s representation and a conclusion that previous counsel was ineffective is not a newly discovered \u201cfact\u201d entitling Appellant to the benefit of the exception for after-discovered evidence.\nId. at 785. See also Commonwealth v. Bronshtein, 561 Pa. 611, 752 A.2d 868, 871 (2000) (after-discovered evidence exception not satisfied by allegation that \u201cfacts\u201d which form basis of claim were not knowable until present counsel advised defendant); Commonwealth v. Pursell, 561 Pa. 214, 749 A.2d 911, 916-917 (2000) (same).\nLikewise, current counsel\u2019s recognition of a possible claim regarding improper jury influences that occurred over a decade ago is not a newly discovered \u201cfact\u201d encompassed by section 9545(b)(1)(h). Appellant has had numerous opportunities at different levels of the appellate process and with the assistance of different counsel to pursue these claims and he did not. As the claims do not fall within the after-discovered evidence exception, they are untimely.\nReview of Appellant\u2019s remaining claims (issues c through k as set forth in footnote three) all hinge upon his contention that our Court should examine the merits because they involve the \u201cgross ineffectiveness of counsel.\u201d As noted, however, our Court has expressly rejected attempts to utilize ineffective assistance of counsel claims as a means of escaping the jurisdictional time requirements for filing a PCRA petition. See Commonwealth v. Gamboa-Taylor, 753 A.2d at 785 (claim of ineffective assistance of counsel does not save an otherwise untimely petition for review on the merits); Commonwealth v. Pursell, 749 A.2d at 915; Commonwealth v. Lark, 746 A.2d at 589; Commonwealth v. Beasley, 741 A.2d at 1260; Commonwealth v. Fahy, 558 Pa. 313, 737 A.2d 214, 223 (1999); Commonwealth v. Yarris, 731 A.2d at 586; Commonwealth v. Peterkin, 722 A.2d at 643 n. 5. We decline Appellant\u2019s invitation to revisit this well-settled area of the law.\nIn the alternative, Appellant argues that above-cited case law is distinguishable based on \u201cthe bedrock nature of the constitutional error in this case and magnitude of prior counsel\u2019s ineffectiveness.\u201d Appellant\u2019s Brief at 36. We recently rejected such an argument, holding that the nature of the constitutional violation alleged in a PCRA petition has no bearing on the applicability of the PCRA\u2019s timeliness requirements. Commonwealth v. Murray, 562 Pa. 1, 753 A.2d 201, 202 (2000). We stated that \u201ca plain reading of the PCRA\u2019s timeliness requirements indicates that they are intended to apply to all PCRA petitions, regardless of the nature of the individual claims raised therein.\u201d Id.\nAccordingly, having disposed of the arguments offered by Appellant, we hold that Appellant\u2019s petition was properly dismissed as untimely and that this Court has no jurisdiction to review the merits of his petition. The order of the PCRA court is hereby affirmed.\n. Our Court has exclusive jurisdiction of appeals from final orders denying post-conviction relief in capital cases. 42 Pa.C.S. \u00a7 9546(d); Commonwealth v. Morales, 549 Pa. 400, 701 A.2d 516, 519 (1997).\n. Notwithstanding Appellant\u2019s captioning of the matter, the common pleas court properly treated it as a PCRA petition. As Appellant alleges violations of the constitution and of law which undermine the truth-determining process, his claims are cognizable only under the PCRA and the writ of habeas corpus is unavailable. See Commonwealth v. Peterkin, 554 Pa. 547, 722 A.2d 638, 640-641 (1998); 42 Pa.C.S. \u00a7 9542.\n. The issues, as framed Appellant, are as follows:\nDid the Court below erroneously conclude that it lacked jurisdiction and wrongly deny all of Appellant's post-conviction claims, which asserted violations of his rights under 42 Pa.C.S. \u00a7 9711; Article I, Sections 6, 9, 13, and 26 of the Pennsylvania Constitution; the Supremacy Clause and the Fifth, Sixth, Eighth, and Fourteenth Amendments to the United States Constitution including:\na. Appellant was denied his state and federal constitutional rights where the Commonwealth failed to disclose relevant evidence which would have impeached the testimony of its key witness and failed to correct that witness\u2019 false and misleading testimony;\nb. During the penalty phase of the trial, extraneous influences polluted the jury\u2019s deliberation.\nc. Appellant was denied his state and federal constitutional rights to testify in his own behalf, to present a defense and to due process where the trial court precluded Appellant from testifying about his intent at the time of the killing and all prior counsel were ineffective for failing to raise and litigate this claim.\nd. The trial court\u2019s instruction on intoxication, which erroneously told the jury that the prosecution had no burden to disprove that defense, unconstitutionally diminished the Commonwealth\u2019s burden of proof and improperly shifted that burden to the defense and all prior counsel were ineffective for failing to object to the instruction or litigate this claim.\ne. Appellant\u2019s death sentence must be vacated where the trial court precluded the defense from eliciting relevant mitigating evidence and all prior counsel were ineffective for failing to raise and litigate these issues.\nf. Appellant is entitled to a new sentencing hearing where the prosecutor engaged in constitutionally improper closing argument at sentencing and where all prior counsel were ineffective for failing to litigate these issues.\ng. The trial court's erroneous instruction on mitigating circumstances unconstitutionally precluded the jury from giving proper effect to the evidence of mitigation.\nh. The victim was not tortured; trial counsel was ineffective for failing to elicit evidence that the victim was unconscious almost immediately and that the victim\u2019s wounds were inconsistent with intent to torture or cause pain.\ni. The court\u2019s failure to instruct the jury that \"life imprisonment\u201d means life without possibility of parole violated Appellant\u2019s constitutional rights.\nj. All prior counsel were ineffective for failing to raise the issues presented in the PCRA petition at all prior stages of this case.\nk. Appellant is entitled to relief from his conviction and sentence because of the cumulative effect of the errors described in this petition and found in prior proceedings.\n. On appeal from the denial of PCRA relief, our standard of review is whether the findings of the common pleas court are supported by the record and free of legal error. Commonwealth v. Strong, 563 Pa. 455, 761 A.2d 1167, 1170 n. 3 (2000).\n. In a footnote, Appellant also contends that these claims overcome the time bar by satisfying the newly-discovered evidence exception. Appellant's Brief at 18, n. 10. This claim is waived, however, as Appellant fails to set forth any argument whatsoever in support of this contention.\n. The Commonwealth cogently notes that Appellant\u2019s claim that he could not have learned this information earlier because he was incarcerated is specious since Appellant remains incarcerated, yet became aware of the alleged Brady material.\n. We went on to hold that if the subsequent petition is not filed within one year of final judgment, the petitioner must plead and prove that an exception to the time bar exists and that the petition was filed within 60 days of the date of the order which finally resolves the previous petition, because this is the first \"date the claim could have been presented.\u201d 42 Pa.C.S. \u00a7 9545(b)(2).\n. In a related argument, Appellant submits that, according to the United States Supreme Court\u2019s decision in Williams v. Taylor, 529 U.S. 420, 120 S.Ct. 1479, 146 L.Ed.2d 435 (2000), the question is not whether prior counsel could have been successful in discovering the basis for the after-discovered evidence claim, but whether prior counsel was diligent. He submits that all prior counsel were diligent in not discovering the issues relating to the jury because there is no duty to investigate juries in a capital case. He concludes that his claims should therefore be considered newly discovered. This argument is meritless. Appellant\u2019s reliance on Williams is misplaced as that case interpreted 28 U.S.C. \u00a7 2254(e)(2), (1994 ed., Supp. Ill), as amended by the Antiterrorism and Effective Death Penalty Act of 1996, regarding the ability to obtain an evidentiary hearing in a federal habeas corpus action. Here, we are examining whether a particular claim constitutes newly discovered evidence under the PCRA for purposes of determining whether a claim is timely.\n. The prothonotary of the Supreme Court of Pennsylvania is directed to transmit, within ninety days, the full and complete record of the trial, sentencing hearing, imposition of sentence and review by this Court to the Governor and to the Secretary of Corrections, pursuant to 42 Pa.C.S. \u00a7 9711(1).",
+        "type": "majority",
+        "author": "ZAPPALA, Justice."
+      }
+    ],
+    "attorneys": [
+      "Stuart Brian Lev, Philadelphia, James Milton Anderson, for Mark Breakiron.",
+      "Marianne Kreisher Fogelsanger, Robert A. Graci, Harrisburg, for Com."
+    ],
+    "corrections": "",
+    "head_matter": "781 A.2d 94\nCOMMONWEALTH of Pennsylvania, Appellee, v. Mark BREAKIRON, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted June 15, 2001.\nDecided Sept. 26, 2001.\nStuart Brian Lev, Philadelphia, James Milton Anderson, for Mark Breakiron.\nMarianne Kreisher Fogelsanger, Robert A. Graci, Harrisburg, for Com.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+  },
+  "file_name": "0323-01",
+  "first_page_order": 433,
+  "last_page_order": 445
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1038853,
+  "name": "Gilmore et al. versus Reed",
+  "name_abbreviation": "Gilmore v. Reed",
+  "decision_date": "1875-01-04",
+  "docket_number": "",
+  "first_page": "462",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "76 Pa. 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Watts 264",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Watts 260",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0260-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 496",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846754
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/7/0496-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 57",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0057-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 443",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0443-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 506",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/5/0506-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 360,
+    "char_count": 6844,
+    "ocr_confidence": 0.461,
+    "pagerank": {
+      "raw": 5.991579492882285e-07,
+      "percentile": 0.9541214565019042
+    },
+    "sha256": "c469003a2fb2c2219221f2b45308aa7e18d87149acb924fae2d1e03e17534d0f",
+    "simhash": "1:cc6219fdc3c11fbc",
+    "word_count": 1235
+  },
+  "last_updated": "2024-02-27T22:09:35.007441+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Agnew, C. J., Sharswood, Williams and Mercur, JJ."
+    ],
+    "parties": [
+      "Gilmore et al. versus Reed."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Mercur\ndelivered the opinion of the court, January 4th 1875.\nThis ease presents the question whether the commencement of a suit stops the running of the Statute of Limitations against a claim, which the defendant interposes as a s\u00e9t-off, or whether it is not stopped until the set-off is pleaded.\nThe first section of the Act of 1705, Purd. Dig. 488, pl. 1, makes it lawful for a defendant to give in evidence, \u201c any bond, bill, receipt, account or bargain,\u201d which he held against the plaintiff at the commencement of the suit. He is thus permitted, but not required, to introduce his set-off in a suit brought in a court of record. An omission to do so, is no bar to his claim in any other action. Even if it be pleaded, yet it is in the nature of a cross-action, and the defendant may withdraw it from the consideration of the jury : Muirhead v. Kirkpatrick, 5 W. & S. 506; Idem, 2 Barr 425. Nor does the pendency of a suit brought for its recovery prevent its being set off in another action: Filbert v. Hawk, 8 Watts 443; Stroh v. Ulirich, 1 W. & S. 57.\nBy pleading a set-off, a defendant cannot prevent the plaintiff from suffering a nonsuit, even after issue joined in the plea: McCredy v. Fey, 7 Watts 496.\nThe Statute of Defalcation does not per se apply the demand of one party to that of the other, so as to produce either payment* satisfaction or extinguishment of either: Hinkley v. Walters, 8 Watts 260 ; Idem, 9 Id. 179.\nIf the defendant plead set-off, the plaintiff may reply the the Statute of Limitations to such demand : Id. 8 Watts 264. In the case now under consideration, the defendant in error did so reply. If the defendant goes to trial without demanding a replication to his plea of set-off, the defence to the set-off is unrestricted, and the plaintiff may avail himself of the Statute of Limitations or any other defence: Coulter v. Repplier, 3 Harris 208.\nIt is optional with a defendant to interpose his set-off. If he does so, it is in the nature of a cross-action. If he commences a separate action for the recovery of his claim, the running of the statute will stop at that time.\nIf, on the other hand, he elects( to use his claim as a set-off, we think the time when he so elects by his plea or by notice to the plaintiff, is logically and justly the time when the running of the Statutes of Limitations is stopped.\nIf a defendant having a claim against a plaintiff, neglects to bring an action for it, as he may, and thereby suffers it to be barred by the Statute of Limitations, his loss is caused by his own folly or negligence.\nIt follows then that the learned judge correctly held the items pleaded as a set-off by the plaintiffs in error, which were due more than six years before he entered his plea of set-off, were barred by the statute.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Mercur"
+      }
+    ],
+    "attorneys": [
+      "J. T. Hindman and W- L. Qorbitt, for plaintiffs in error.",
+      "F. S. Wilson and 6r. A. Jenks, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Gilmore et al. versus Reed.\n1. By the Defalcation Act of 1705, an omission of a defendant to set off a ' claim in suit against him is no bar to a subsequent action for the claim.\n2. Even if he plead the claim as a set-off, yet being in the nature of a cross-action, he may withdraw it from the consideration of the jury.\n3. The pendency of a suit for a claim does not prevent its being set off in another action.\n4. By pleading set-off the defendant cannot prevent the plaintiff from suffering a nonsuit, although issue have been joined on the plea.\n5. The Act of Defalcation does not per se apply the demand of one party to that of the other, so as to produce payment, satisfaction or extinguishment.\n6. The plaintiff may reply the Statute of Limitations to the plea of set-off.\n7. If the defendant does not demand a replication to his plea of set-off, the plaintiff\u2019s defence to it is unrestricted, and he may avail himself of the Statute of Limitation or any other defence.\n8. If the defendant plead set-off, the time when the running of the Statute of Limitation is stopped is when he pleads or gives notice to the plaintiff, not when the action is commenced.\nOctober 23d 1874.\nBefore Agnew, C. J., Sharswood, Williams and Mercur, JJ.\nError to the Court of Common Pleas of Olarion county: Of October and November Term 1874, No. 130.\nThis was an action of assumpsit commenced May 15th 1872, by Thomas Reed against David Gilmore and others, partners as Gilmore & Sons.\nAccording to the plaintiff\u2019s history of the case, the action was for a balance alleged by the plaintiff to be due him by the defendants on a settlement. Neither the history of the case nor the evidence contained on the paper-book show the settlement nor give the amount alleged to be due. It appeared that the defendants pleaded set-off and gave notice of it, and the plaintiff replied the Statute of Limitations ; the question was as to the effect of the Statute of Limitations on the defendants\u2019 set-off. There was evidence of an agreement that the amount due by the plaintiff to David Gilmore, one of the defendants, was to be deducted from the amount found due to the plaintiff by the firm on the settlement.\nOn the trial, February 5th 1874, the plaintiff gave in evidence a settlement of the 5th of April 1867 and items of an account for work in 1868 and 1869.\nThe defendants gave in evidence an account of Samuel Gilmore, one of the partners, against plaintiff beginning August 8th 1867, and ending April 4th 1868 ; also an account of David Gilmore beginning December 1864 and ending May 20th 1867; also an account of Robert Gilmore, one of the partners, beginning December 3d 1868 and ending April 18th 1870. There was evidence of other claims by defendants against plaintiff for cash and lumber in 1868 and 1869, of which there was no book account.\nA copy of these book accounts of defendants, with affidavit as required by the rule of court, was filed by the defendants on the 20th of December 1873, with notice of the filing to the plaintiff\u2019s attorney.\nThe plaintiff\u2019s point was:\u2014\nAll individual accounts of David Gilmore, Samuel Gilmore, Robert Gilmore and Miles Gilmore, which are alleged to have been obtained before the 5th day of February 1868, are barred by the Statute of Limitations, and the jury should not allow any such accounts as set-off to the plaintiff\u2019s claim.\nThe court charged: \u201c The statute would commence to run on the 20th of December 1867. The individual accounts of each of the defendants before that time would be barred by it, unless by the agreement of the plaintiff, \u2018the several accounts were to be allowed on the joint indebtedness of the defendants. The facts referred to in this point and answer we leave to the jury.\u201d\nThe jury found for the plaintiff $848.86; this, after a motion for a new trial, was reduced to $628.65.\nThe defendants took a writ of error and assigned the charge of the court for error.\nJ. T. Hindman and W- L. Qorbitt, for plaintiffs in error.\nF. S. Wilson and 6r. A. Jenks, for defendant in error."
+  },
+  "file_name": "0462-01",
+  "first_page_order": 462,
+  "last_page_order": 465
+}

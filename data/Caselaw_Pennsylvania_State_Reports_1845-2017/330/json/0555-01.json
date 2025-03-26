@@ -1,0 +1,583 @@
+{
+  "id": 1183025,
+  "name": "Harrison's Estate",
+  "name_abbreviation": "Harrison's Estate",
+  "decision_date": "1938-04-22",
+  "docket_number": "Appeal, No. 64",
+  "first_page": "555",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 Pa. 555"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "316 Pa. 15",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1158982
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0015-01"
+      ]
+    },
+    {
+      "cite": "120 A. 136",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "276 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1077538
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/276/0283-01"
+      ]
+    },
+    {
+      "cite": "166 A. 886",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "311 Pa. 351",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146311
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/311/0351-01"
+      ]
+    },
+    {
+      "cite": "84 A. 765",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "236 Pa. 235",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        986800
+      ],
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/236/0235-01"
+      ]
+    },
+    {
+      "cite": "50 N. E. 859",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "156 N. Y. 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        41493
+      ],
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/156/0181-01"
+      ]
+    },
+    {
+      "cite": "35 Atl. 291",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "90 A. 332",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "243 Pa. 613",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1001571
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/243/0613-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9503873
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/24/0200-01"
+      ]
+    },
+    {
+      "cite": "28 A. 1086",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "161 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        854258
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/161/0209-01"
+      ]
+    },
+    {
+      "cite": "28 Pa. 363",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981703
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/28/0363-01"
+      ]
+    },
+    {
+      "cite": "4 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        401904
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/4/0088-01"
+      ]
+    },
+    {
+      "cite": "16 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        410211
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/16/0275-01"
+      ]
+    },
+    {
+      "cite": "64 Tex. 624",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "23 Ga. 22",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "9 La. Ann. 288",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        11968984
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/la-ann/9/0288-01"
+      ]
+    },
+    {
+      "cite": "17 S. W. 786",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "11 Md. 77",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "67 Md. 498",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1812619
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/67/0498-01"
+      ]
+    },
+    {
+      "cite": "8 N. Y. 516",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2010537
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/8/0516-01"
+      ]
+    },
+    {
+      "cite": "179 U. S. 606",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5707420
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/179/0606-01"
+      ]
+    },
+    {
+      "cite": "29 A. 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "162 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        856749
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/162/0485-01"
+      ]
+    },
+    {
+      "cite": "85 Pa. Super. Ct. 545",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        665688
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/85/0545-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063221
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/89/0333-01"
+      ]
+    },
+    {
+      "cite": "186 A. 740",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "323 Pa. 253",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169551
+      ],
+      "pin_cites": [
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/323/0253-01"
+      ]
+    },
+    {
+      "cite": "28 Atl. 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "158 Pa. 632",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        848274
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/158/0632-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 335",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841232
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/watts/3/0335-01"
+      ]
+    },
+    {
+      "cite": "186 A. 99",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "323 Pa. 9",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169586
+      ],
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/323/0009-01"
+      ]
+    },
+    {
+      "cite": "181 A. 500",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "320 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163635
+      ],
+      "pin_cites": [
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/320/0513-01"
+      ]
+    },
+    {
+      "cite": "112 A. 29",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "268 Pa. 401",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061610
+      ],
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/268/0401-01"
+      ]
+    },
+    {
+      "cite": "101 A. 804",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "257 Pa. 537",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032364
+      ],
+      "pin_cites": [
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/257/0537-01"
+      ]
+    },
+    {
+      "cite": "98 A. 569",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "253 Pa. 277",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024038
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/253/0277-01"
+      ]
+    },
+    {
+      "cite": "159 A. 555",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "306 Pa. 301",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1136899
+      ],
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/306/0301-01"
+      ]
+    },
+    {
+      "cite": "187 U. S. 401",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141247
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/187/0401-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1413,
+    "char_count": 42826,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04370274097061257
+    },
+    "sha256": "525121ef536091247de9c581f44885eb3756c46015f9145ebf6d3c6be6ab07cf",
+    "simhash": "1:a170e593540db30c",
+    "word_count": 7410
+  },
+  "last_updated": "2024-02-27T16:21:13.587988+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Harrison\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Drew,\nCharles J. Harrison, Sr., died in 1932, leaving a will executed in 1926, the validity of which was sustained by us in Harrison\u2019s Estate, 316 Pa. 15. He left all of his property to his son, Charles Harrison, Jr., but in a letter of even date with the execution of the will he requested the son to divide the estate equally with his sister, Mrs. John C. Brydon, according to the following directions, \u201cI desire and expect that she shall be given $9,000 of the bonds of the Splint Fuel Company, regardless of their value; and that in determining what I have herein spoken of as the one-half of my estate you shall have $9,000, your own choice of any other part of my estate; and that you shall give her the furniture purchased and owned by me in the said John C. Brydon residence in Maryland at a valuation of $12,500; and that you, in carrying out this desire of mine, shall have $12,500 to be chosen by you from any other part of my estate. Upon these exceptions I have expressed my desire that you shall pay to her not exceeding one-half of the remainder of my estate.\u201d In his first and final account as executor of his father\u2019s estate, Charles Harrison, Jr., charged himself with the bonds referred to in the letter at $9,000 and with the furniture at $12,500. To this account his sister filed exceptions, claiming that the values stated were far in excess of actual value and not conclusive, in computing her share in the distribution of the estate as directed in the letter above quoted. The exceptions were sustained, but no final decree of distribution was entered. Thereupon, Charles Harrison, Jr., took an appeal to this Court. While retaining the appeal, we ordered the record remitted so that a valuation might be made of property not yet appraised, and for the entry of a final decree of distribution. The record, completed in compliance with our order, is again before us. Distribution has been decreed between testator\u2019s son and daughter, in equal shares of the actual appraised value, as of his death, of all of testator\u2019s estate without regard to the values fixed by him on the bonds and furniture in the letter to his son and executor.\nThe distribution as decreed was erroneous. While the letter was not a part of the will, and was not probated as such, testator\u2019s son, in view of his acceptance of the trust imposed upon him thereby, is bound to carry out its terms. This he remains willing to do. The intention of the testator is clear and must control. The furniture mentioned in the letter originally belonged to testator\u2019s daughter and her husband and furnished their home in Maryland. When sold at execution for their joint debt testator bought it for $17,500 and left it in his daughter\u2019s possession. Subsequently she sold a part of it for $3,500. An additional part was sold to pay storage charges in Baltimore. What remained was later removed to Scranton and used there by the daughter until it was sold after testator\u2019s death under a landlord\u2019s warrant for rent she owed. Although finding that it was \u201cimpossible to trace the value of this property through all these changing locations and circumstances\u201d the court below estimated its value at $3,000 at testator\u2019s death and so included it in arriving at the net value of the estate for distribution. The Splint Fuel Company bonds, originally bought by testator at the instance of his son-in-law, Mr. Brydon, were already in default in 1926 when testator mentioned them in his letter to his son. When he died they were entirely worthless. For this reason the court ignored them in allocating the shares on distribution.\nThe net i*esult of the decree was to divide the actual value of the estate at testator\u2019s- death equally between his son and daughter, deducting from the latter\u2019s share $3,000, the estimated value of the testator\u2019s furniture when sold to pay her rent in Scranton. We think such distribution would be in complete disregard of the unmistakable directions of the testator. Regardless of subsequent decline, the testator has himself fixed the amounts to be charged against the daughter\u2019s share in his estate. His Splint Fuel Company bonds, of the face value of $9,000, were to be given her at face \u201cregardless of their value.\u201d Similarly she was to take the furniture \u201cat a valuation of $12,500.\u201d It is contended by appellee that these provisions created demonstrative legacies in the amounts stated, payable primarily out of the items of property mentioned, but not restricted to them if their values be less. We do not think so. The gifts to the daughter are not of money in the sums named, but of the property designated, to be valued at fixed amounts merely in computing what corresponding share is to be taken by the son. That ultimate equality will not prevail is of no moment. For his own reasons testator provided that the daughter should have the bonds and furniture and that the son should select for himself property of the value of $21,500 prior to equal division of the remainder. Obviously testator intended by these provisions, manifestly equitable, to first secure to his son a sum equivalent to the fund expended in his daughter\u2019s behalf and that of her husband during his lifetime. Only by such means could they be placed upon a parity in the distribution of his property.\n\u25a0The decree of the court below is reversed and the record is remitted for the entry of a decree in accordance with the views herein expressed.",
+        "type": "majority",
+        "author": "Mr. Justice Drew,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMe. Justice Maxey, April 25, 1938:\nI think the court below was absolutely right in holding the legacies in question to be demonstrative and I would affirm its decree,\nIt is elementary in all Anglo-Saxon jurisdictions that \u201cthe intention of a testator expressed in his will; or clearly deducible therefrom, must prevail if consistent with the rules of law,\u201d as Chief Justice Fuller said in Y. W. C. H. v. French, 187 U. S. 401. \u201cThe cardinal principle of testamentary construction is that the intention of the testator is to prevail, so far as it is disclosed by the language of the will,\u201d per Mr. Justice Drew in Pollock\u2019s Est., 306 Pa. 301, 313, 159 A. 555, citing Stewart\u2019s Est., 253 Pa. 277, 98 A. 569. \u201cThe effort must be to find and carry out the testator\u2019s chief intent with a minimum disturbance of the general plan of the will\u201d: Disston\u2019s Est., 257 Pa. 537, 543, 101 A. 804.\nWhen the testamentary letter, hereinafter referred to as the will, whose \u201ctrust\u201d appellant accepted and \u201cis bound to carry out\u201d (as the majority opinion states) is examined, its intent, as gathered not from an isolated paragraph but \u201cfrom its four corners\u201d is so clear as to leave, in my judgment, no room for argument. The testator\u2019s unequivocal intention was to treat his two children equally in the distribution of his estate. I cannot find in this will of Charles J. Harrison anything which justifies the result the majority opinion brings to pass, to wit, the awarding of $18,578.51 to the son, amd nothing to the daughter whom this testator, as the record abundantly discloses, held in deep affection. This result is brought about in the face of the first imperative provision of the will, reading as follows: \u201c. . . expend whatever of my estate comes into your hands in such way as will be satisfactory and beneficial to your sister, Nellie H. Brydon; . . . give her from time to time as she may need it, or as she may ask it, so much and such part of the estate you receive under my will as will contribute to her maintenance and support, the maintenance, and care and education of her children, an amount not exceeding the one-half of the estate you receive. ...\u201d\nThat language of testator unequivocally expresses his dominant testamentary intent; the only \u201cdirections\u201d the majority opinion quotes relate merely to details of execution. It is an elementary proposition that such details in any document should be so interpreted as to give effect to the document\u2019s intent, not to frustrate it.\nThe excerpt above quoted from the first third of the will, clearly gave Mrs. Brydon the power to consume one-half of the estate upon her needing it or ashing for it; and it has been declared that where a will gives a legatee the power to consume any part of the testator\u2019s property, such legatee takes an absolute right in what he or she has the power to consume. See Houser v. Houser, 268 Pa. 401, 403, 112 A. 29. Even if she had been given the power to consume only during her lifetime but without power of devolution, she would still be entitled to what she is now asking for. In Byrne\u2019s Est., 320 Pa. 513, 519, 181 A. 500, this court recently said: \u201cIn vesting in Mrs. Byrne a life estate with power to consume, testatrix gave her the complete use and enjoyment of the property, and in fact all the benefits of absolute ownership except the power to control the devolution of the unconsumed portion upon her death.\u201d Mr. Harrison\u2019s above quoted testamentary command is susceptible of only one interpretation, to wit, that his two children were to share in the estate equally. The majority opinion does not quote the entire will but is based wholly upon the mere excerpt it quotes, which relates only to the methods of \u201ccarrying out\u201d testator\u2019s intent. Testator\u2019s final sentence in the testamentary letter was an admonition to his son \u201cnot [to] permit anything to happen that will interfere with carrying out my herein expressed desires.\u201d As Mr. Justice Drew said in Miller\u2019s Estate, 323 Pa. 9, 13, 186 A. 99: \u201cParamount in the construction of any will is the actual intention of the testator.\n. . . The intention is to be gathered from the entire will, read as a connected whole, rather than from the terms of a particular or isolated devise, which, regarded alone, might be inconsistent with the testator\u2019s obvious testamentary scheme.\u201d\nThe decision of the majority in this case brings about the disinheritance of one child and the vesting of the entire estate in the other child. This is done despite the testator\u2019s clearly expressed intention that the daughter should have as she needed it or asked for it, \u201can amount not exceeding one-half of the estate\u201d for her \u201cmaintenance and support,\u201d and \u201cthe maintenance and care and education of her children.\u201d I submit that this unjust result should be avoided in any case of contest between heirs unless the language of a will imperatively requires it. All authorities agree that legacies should be construed as general or demonstrative instead of specific if it is possible to do so without doing violence to the clear purport of the will. Chief Justice Gibson said in Blachstone v. Blachstone, 3 Watts 335: \u201cIt is certainly true that the presumption of intention is favorable to general legacies in the first instance, and that it requires clear proof of a restrictive intention to repel it.\u201d Page on Wills, 2nd ed., Vol. 2, sec. 123, says: The rule is long established that \u201ccourts prefer to construe a gift as demonstrative, in preference to specific, if such intention can be fairly deduced from the language of the will.\u201d Page cites the following illustrative cases:\n\u201c. . .A gift of a certain amount invested in bonds of a certain kind or \u2018invested in stocks\u2019 is demonstrative. ... A demonstrative legacy has been held to be created by a gift which, in its terms, is apparently specific where it is evidently given as a means of carrying out testator\u2019s intention of dividing his estate equally [italics supplied] [citing Hammer\u2019s Estate, 158 Pa. 632, 28 Atl. 231]. . . . Under a will which recited that testator\u2019s desire was to have his property equally divided between his wife and his daughter, gifts of specified items of property to the wife and to the daughter were held to be demonstrative in view of testator\u2019s desire to have an equal division.\u201d Chancellor Kent, in Walton v. Wal ton, 7 Johnson\u2019s Chancery Reports 258 (New York), said: . . The courts are so desirous of construing the bequest to be general, that if there be the least opening to imagine the testator meant to give a sum of money, and referred to a particular fund only, as that out of which he meant it to be paid, it shall be construed pecuniary, so that the legacy may not be defeated by the destruction of the security.\u201d\nThe courts of Pennsylvania, the Supreme Court of the United States and the highest courts in Great Britain have always applied the foregoing principles and have construed bequests to be general or demonstrative rather than specific when, to use Chancellor Kent\u2019s phrase, there was \u201cthe least opening\u201d for that construction. In the instant case there was more than an \u201copening\u201d for that construction. The testator\u2019s manifest intention to distribute his estate equally between his two children requires that construction.\nEven if. the meaning of the will was uncertain, it should in obedience to long established canons of construction be construed as the court below did construe it. In Hood\u2019s Estate, 323 Pa. 253, 259, 186 A. 740, Mr. Justice Schaefer quoted with approval the following: \u201cWhere the meaning of a devise is uncertain, the law will adhere as closely as possible to the general rules of inheritance.\u201d This quotation was from Grinds Appeal, 89 Pa. 333, 334, where testator devised to one of his sons the whole of his real estate, charged with the payment of $5,500, to be equally divided among his other five children. It was found that the real estate was of the value of $6,600 and that the personal estate was insufficient to pay testator\u2019s debts. It was held that the testator intended an equal distribution of his estate among his children and that the devise and legacies should abate pro rata.\nThere are in the law reports many cases whose facts are in their legal significance similar to the facts in the case at bar and the courts have uniformly construed such questioned legacies to be, in the light of testator\u2019s manifest intention, as here, demonstrative and not specific. ...\nIn the Estate of James McGraw, 85 Pa. Super. Ct. 545, that court, in an opinion by Judge Keller, after referring to the presumption that a bequest is general and not specific, held that where a testator bequeathed to his wife \u201c$5,350 par value of the bonds of the United States of America, commonly called \u2018Liberty Bonds,\u2019 \u201d which he owned when he made his will, but subsequently sold, the bequest was a general one, and was not adeemed by the sale of the bonds. In that case, as in the case at bar, there was, as the court below found, \u201cinternal evidence in the will that the testator valued each security bequeathed at a certain amount in money and gave additional or pecuniary legacies to equalize the bequests according to the proportions determined upon by him.\u201d\nIn the case at bar, appellant concedes in his paper book that \u201cat the time of the writing of his will the testator \"believed the Splint Fuel Bonds worth $9,000\u201d (italics supplied), that he valued the furniture in the Brydon residence at $12,500, and that testator when he made his will valued his estate at $64,500. His whole will clearly revealed his intention that his daughter should receive one-half of his estate and he merely referred to particular assets of that estate, one deemed by him worth $9,000 and the other deemed by him worth $12,500, as the particular assets for the payment in part of Mrs. Brydon\u2019s half interest in his $64,500 whole estate. This made the legacies demonstrative, and since the assets pointed out for use in the payment of the legacies failed, the legatee should receive the share the testator intended she should have out of the general assets of the estate. This is in accordance with long established doctrines as the last cited case and the other cases hereinafter cited in this opinion prove.\nIn Christy et al. v. Christy, 162 Pa. 485, 29 A. 781, this Court construed a will in which the testator devised a certain farm to one son, Gallitzin, but added: \u201c \u2018the mineral right is reserved. He is to pay out of his share of mineral right his note and store account due F. J. Christy.\u2019 \u201d To six other children he gave \u201can equal share with the other heirs of my whole estate.\u201d It was held that all of the children should share equally in the minerals under the whole of testator\u2019s lands. This court said that \u201cin the devise to Gallitzin the reservation is in express words and the gift of an equal share in the minerals is to be gathered only by implication. There is however no other construction that can be given to either of these devises that will not do violence to the intention of the testator, which so clearly appears throughout the will, to treat his children alike, and divide his estate equally among them.\u201d\nIn Kenaday v. Sinnott, 179 U. S. 606, the testator devised and bequeathed to his wife certain real estate, household furniture, and also the \u201cdeposits of currency entered on my bank book of the National Metropolitan Bank, amounting to $10,000 more or less.\u201d After his death there was a contest between his widow and certain \u201cdistributees as the only surviving next of kin and heirs at law of the decedent.\u201d The contest arose over the fact that the decedent at the time of his death, instead of having \u201c$10,000 more or less\u201d in the National Metropolitan Bank, had only $810.60 on deposit in the bank and had \u201c$9,000 in United States bonds more than when the will was executed.\u201d Chief Justice Fullee, in writing the opinion for the Supreme Court of the United States, said (p. 617) : \u201cThe question then really comes to this, whether an irrebutable presumption arises that the testator, by reducing the amount of money on hand at the date of his will, intended that the amount of such reduction though remaining in his assets in another form should be distributed to his next of kin rather than that his wife should receive it.\u201d He quoted with approval the following from Tift v. Porter, 8 N. Y. 516:\n\u201cThe inclination of the courts to hold legacies to be general, rather than specific, and on which the rule is based that to make a legacy specific, its terms must clearly require such a construction, rests upon solid grounds. The presumption is stronger that a testator intends some benefit to a legatee, than that he intends a benefit only upon the collateral condition that he shall remain till death, owner of the property bequeathed. The motives which ordinarily determine men in selecting legatees, are their feelings of regard, and the presumption of course is that their feelings continue and they are looked upon as likely to continue. An intention of benefit being once expressed, to make its taking effect turn upon the contingency of the condition of the testator\u2019s property being unchanged, instead of upon the continuance of the same feelings which in the first instance prompted the selection of the legatee, requires, as it ought, clear language to convey that intention.\u201d Chief Justice Fullee also quoted with approval from Chief Justice Alvey in Gelbach v. Shively, 67 Md. 498, as follows:\n\u201cOrdinarily, a legacy of a sum of money is a general legacy; but where a particular sum is given, with reference to a particular fund for payment, such legacy is denominated in the law a demonstrative legacy; and such legacy is so far general, and differs so materially in effect from one properly specific, that if the fund be called in or fail, or prove to be insufficient, the legatee will not be deprived of his legacy, but he will be permitted to receive it out of the general assets of the estate : Dugan v. Hollins, 11 Md. 77. . . . The authorities seem to be clear in holding that whether a legacy is to be treated as a demonstrative legacy, or is one dependent exclusively [italics textual] upon a particular fund for payment, is a question of construction, to be determined according to what may appear to have been the general intention of the testator\" (italics supplied). Chief Justice Fullee then said (page 621) after referring to the bequest of \u201c$10,000 more or less\u201d in the National Metropolitan Bank: \u201cIf the latter item stood alone and were not read in connection with, the will as a whole, it might well be that it should be held to be a specific legacy, adeemed pro tanto by the use of the money except $810.60 in the purchase of additional bonds, or otherwise. But taken in connection with all the provisions of the will; with the manifest general intention of the testator/ and with the rules against partial intestacy [italics supplied], and against treating legacies as specific, if that construction can be avoided, we think that it should be regarded as in its nature a demonstrative legacy, and not adeemed by the change from money into property. Assuming that the testator had at the date of the will about $10,000 on deposit in the bank, his intention was clear that his wife should receive the amount, and we are of opinion that we ought not to defeat that intention by holding that the pecuniary legacy was specific, and that the subsequent change was an ademption, and so a rule of law rather than a question of intention.\u201d\nWhen in the case at bar it is considered that \u201cthe manifest general intention of the testator\u201d expressed in his testamentary letter and as expressed in subsequent letters, hereinafter referred to, was that his two children should share equally in the distribution of his estate, I think we should follow the rule laid down by Chief Justice Fullee in the above case and say that the testator\u2019s \u201cintention was clear\u201d that his daughter should share equally in his estate and \u201cwe ought not to defeat that intention by holding that the\u201d legacies were \u201cspecific and that the subsequent change\u201d of them into something of no value\u25a0 \u201cwas an ademption.\u201d\nIn Partridge v. Partridge, 25 English Rep. 749, the facts were that A devised 1,000 pounds capital South-Sea stock to B; at the time of making his will he had 1,800 pounds of such stock, and after, by sale, reduced it to 200 pounds, which he after increased to 1,600 pounds, and died. Between the making of his will and his death, the act took place, which changed three-fourths of the capital South-Sea stock into annuities. It was held that the legacy was not taken away or impaired by the sale, nor by the act of parliament. The Lord Chancellor said: \u201cAll cases of ademption of legacies arise from a supposed alteration of the intention of the testator. . . . \u201d Applying this principle to the case at bar, there is absolutely nothing to warrant any inference that the testator, Harrison, changed his intention toward his daughter, that intention being beyond question that she should share equally in the distribution of his estate.\nA case which Lord Eldon decided in England is much like the case at bar: Gillaume v. Adderley, 33 Eng. Rep. 799. In that case there was a legacy of \u201c5,000 pounds sterling or 50,000 current rupees\u201d described as \u201cnow vested in\u201d East India Company bonds. It was held to be a demonstrative legacy. Lord Eldon said: \u201cThe testator, placing himself in loco Parentis, intended a provision for his daughter in all events; that, if his obvious anxiety for that object should be defeated by the nature of that provision, the effect would be very unfortunate; and my opinion is, that this is originally a legacy of money, 5,000 pounds, or 50,000 current rupees, considered as of the same value; and, that, even if the bonds should turn out to be in the alternative, it is not specific; being no more than a bequest of a sum of money; pointing out a particular mode of payment, by a fund, provided in the first instance. ...\u201d\nIn a leading case referred to in Page on Wills, to wit: Lake v. Copeland (Supreme Court of Texas), 17 S. W. 786, the facts are in their legal signification much like the facts in the case at bar. There the testator had stated in his will that he desired that all his property should be divided equally between his wife and his daughter and then added, \u201cto be divided between them as hereinafter indicated.\u201d He then set apart to his wife certain property and set apart to his daughter certain property. Included in the property set apart to his daughter was what was known as the \u201c J ones Place,\u201d of the value, testator thought, of $14,329.83. After the death of testator the title to the \u201cJones Place\u201d failed and the daughter was compelled to pay $2,000 to compromise with Jones. She brought suit to establish an interest of one-half of such loss, in the widow\u2019s share. The court held that since it was the intention of the testator to provide equally for his wife and daughter, the devises should he considered demonstrative rather than specific, and the daughter was entitled to the relief asked. The opinion sets forth, inter alia: \u201cCourts do not favor specific devises, and, when in doubt as to the construction to be placed upon the devises created by the will, they are disposed to construe them general or demonstrative rather than special: 13 Amer. & Eng. Enc. Law, p. 15. The testator in executing this will evidently intended to make equal provision for the wife and daughter, and that his estate should be equally divided between them, and that one should not receive more than the other. In executing such intent he undertook to set aside to each certain described property upon which he placed a valuation, evidently having in mind the paramount idea that quantity and value was the controlling motive in making the division, rather than the gift of the thing devised. If the testator intended that the wife and daughter should share equally in his estate according to the value of his property, and in the pursuit of this intent he sets aside to each certain property, indicating what he believes to be an equal division, and, by reason of facts not known to the testator at the time of executing the will, the title to the property set aside to either devisee should fail, then to so hold the mention of the property that should go to each to be a specific devise would defeat the express intention of the testator to provide equally for both: Armorer v. Case, 9 La. Ann. 288; Smith v. Smith, 23 Ga. 22; Gallagher v. Redmond, 64 Tex. 624. That the intention of the testator to provide equally for the wife and daughter is apparent from the terms of the will cannot admit of doubt, and, when we have the intention so plainly defined and expressed as in this will, it would do violence to the primary rule of construction for us to defeat this intention by holding the legacies and devises mentioned in the will specific. We think from the apparent intention of the testator that he simply indicated and pointed out the property mentioned in the will as being given to each devisee as simply a convenient mode of payment to the devisee of the amount he intended each to have, and that the devises created by the will ought to be considered demonstrative.\u201d\nJudge Boose of the court below, whose opinion reveals painstaking attention to this ease, reached a decision which impresses me as being in perfect harmony with the decisions and reasoning of this court, the United States Supreme Court and the highest courts of England and other jurisdictions, in precisely similar cases. Judge Boose admirably and accurately summed up this case as follows: \u201c. . . the conclusion is irresistible that in carrying out his intention, the whole testamentary scheme constitutes a demonstrative legacy of one-half of the testator\u2019s estate. The designation of the bonds or household goods at stated valuations was for the purpose mei'ely of indicating the most convenient means by which to discharge the legacy, or as a means of describing the amount of value of the gift, and equalizing the shares of his two children: Wallis v. Stewart, 16 Pa. 275. . . . These [Splint Fuel Company] bonds were absolutely worthless at the time of his death. They no longer constituted a part of the assets of his estate any more than if he had disposed of the same in his lifetime: Cooper's Estate, 4 Pa. 88; Welch\u2019s Appeal, 28 Pa. 363; Forney\u2019s Estate, 161 Pa. 209 [28 A. 1086]; McGrow\u2019s Estate, 85 Pa. Super. Ct. 545; Hoff\u2019s Appeal, 24 Pa. 200. The same is probably true of the household goods in the Brydon residence. ... It will further be observed that the testator directed, after the gift of the bonds and household goods, at stated valuations, his daughter should have \u2018one-half of the remainder\u2019 of his estate. It is manifest that he did not intend that her share in his estate should be limited to the bonds and household goods. Certainly, it cannot be successfully contended that the daughter was obliged to receive these worthless bonds and remaining household goods in satisfaction of her one-half share in her father\u2019s estate. To so hold would practically disinherit his daughter and defeat the testator\u2019s primary purpose and intention that his two children should each receive one-half of his estate: Cooper\u2019s Estate, 4 Pa. 88.\u201d In Coopers Estate, thus cited by Judge Boose, this court refused to interpret a will in such a manner that two daughters would get everything and the other children nothing, \u201cthus defeating the primary intent of the testator\u201d (as the court said). The primary intent of the testator in the instant case to make equal distribution between his two children is defeated by the decision of the majority in this case.\nThe majority opinion interprets the will as meaning that the testator intended to give his daughter bonds of the value, as believed, of $9,000 when the will was written, and furniture of the value, as believed, of $12,500, when the will was written, as the equivalent of $21,500 in cash to be given to his son, even though it should eventuate after the testator\u2019s death that the value of the bonds had completely evaporated and the furniture had shrunk into something of only negligible value. How this interpretation can be reconciled with the testator\u2019s clearly expressed intent that after his death Mrs. Brydon should have \u201can amount not exceeding one-half of the estate\u201d for the support and maintenance of herself and the support and maintenance and education of her children^ is, to me, inexplicable, for the interpretation leaves- Mrs. Brydon nothing but waste paper and a little furniture of negligible value for her \u201csupport and maintenance\u201d and \u201cthe support, maintenance and education of her children.\u201d In my judgment, this entire record negatives the following statement in the majority opinion: \u201cObviously testator intended by these provisions [referring to the \u201cbonds\u201d and furniture], manifestly equitable, to first secure to his son a sum equivalent to the fund expended in his daughter\u2019s behalf and that of her husband during his lifetime. Only by such means could they be placed upon a parity in the distribution of his property.\u201d The daughter had nothing whatever to do with her father\u2019s purchase of these bonds which, like many other bonds, ultimately proved to be worthless. These bonds belonged as early as 1910 to the bank of which testator was president. The bank was reorganized in 1910 and the testator purchased them from the old bank and had them in his possession for sixteen years at the time he made his will. At that time he believed them worth par (as appellant admits), though there had been a default in their interest payments. That the testator did not intend to penalize his daughter for anything her husband may have done is indicated in this record by a letter he wrote in 1931,. a year before his death, in which he said: \u201cNellie shouldn\u2019t be punished for any of John\u2019s mistakes.\u201d I can find no \u201cparity\u201d or \u201cmanifest equity\u201d in making a beloved daughter accept her bequest in worthless paper and almost worthless furniture as the equivalent of a son\u2019s receipt of $21,500 in legal tender. If Mrs. Brydon\u2019s legacy had been charged against $9,000 which the testator had (let us assume) in 1926 in a safe deposit box and at the time of his death the box was empty, could it be contended that Mrs. Brydon would have to accept the emptiness of that box as the equivalent of $9,000? The United States Supreme Court when presented with a parallel question in the analagous case of Kenaday v. Sinnott, above quoted, answered \u201cNo.\u201d\nTo reverse the court below means that we totally nullify a testator\u2019s unquestioned intention, as expressed in his will (i. e., his testamentary letter), to give his daughter half of an estate worth at the time the will was written $64,500, so that when the estate is distributed after the testator\u2019s death, the daughter gets nothing and the son gets $18,578.51. This unjust result is reached in the face of the testator\u2019s intention expressed as late as July 8, 1931, 16 months before his death, when he wrote Mrs. Brydon as follows: \u201cMy dear Little Girl:\n... I have never changed from the 1st & that was after I pass away you are both to be exactly alike dollar for dollar in distribution of everything I possess which should be perfectly satisfactory to both.\u201d In another letter of July 7, 1931, testator said to his daughter:\n\u201c. . . It is my wish after I leave this world you will both get dollar for dollar.\u201d A disinterested witness testified that she talked to the testator in 1931 and he informed her that \u201che had divided everything between Junior and Nellie\u201d; \u201cthey will share alike.\u201d Another disinterested witness, a long-time friend of the testator, testified that the testator told her in 1931: \u201cI intend Nellie and Charles to share equally.\u201d While the court below in arriving at its conclusion in this case \u201cexcluded,\u201d as the opinion states, \u201call extrinsic evidence from consideration,\u201d I think the above quoted letters are of great probative value in this case and are admissible to prove testator\u2019s intention. 28 R. C. L., page 270, sec. 243, lays down this principle: \u201c. . . The law never opens the door to parol evidence in order to add to or take from wills but for the purpose only of applying their terms or provisions to the objects or subjects therein ref\u00e9rred to, and in order to reach a correct interpretation of such language or terms as are therein expressed\" (italics supplied). Page on Wills, 2d ed., Vol. 2, page 2364, sec. 1414: \u201c. . . The meaning and application of the terms of the will can not be understood until the property and beneficiaries have been identified, which can be done only by extrinsic evidence; and, in many instances, until the court understands testator\u2019s situation with reference to his property, the natural objects of his bounty, and his contemplated beneficiaries. Evidence of this sort explains the meaning of the will . . sec. 1415: \u201c. . . Among the surrounding facts admitted in evidence, we naturally find that the most usual is evidence of the condition of testator\u2019s property, and the relationship between him and the natural object of his bounty.\u201d (Italics supplied.) See Glasgow\u2019s Est., 243 Pa. 613, 90 A. 332.\nFurther light on testator\u2019s intention is found in the son\u2019s understanding of his father\u2019s intention as revealed in the son\u2019s letter to his sister under date of June 25, 1926, reading as follows: \u201cDear Sister:\n\u201cConfirming our conversation in reference to the will of Father\u2019s and beg to advise that it is a thorough understanding that if anything should happen to me that one-half of the estate, as per the letter filed with the will, is to go to you or your heirs and that my family are not to have any interest in your half of said estate and this Gladys and myself have discussed and she thoroughly understands.\u201d The phrase \u201cas per the letter filed with the will\u201d is clearly moarestrictive. The whole letter obviously means only one thing, to wit: that there was a \u201cthorough understanding,\u201d and this understanding was expressed in the letter filed with the will, that \u201cone-half of the estate is to go\u201d to the sister or her heirs, for their father had said so in the letter filed with the will. The son in his letter clearly assumed that his sister\u2019s share would be equal to his. There was no intimation that he understood that he was to get cash and his sister was to get worthless bonds and almost worthless furniture. When he wrote \u201cone-half of the estate,\u201d we must assume that he meant what he said. The nonrestrictive phrase \u201cas per the letter filed\u201d means only that their father had so declared that each child was to have \u201cone-half of the estate.\u201d\nThe majority opinion misinterprets the significance of the phrase \u201cregardless of their value\u201d as found in the testamentary letter and which refers to the Splint Fuel Company bonds. Testator never intended that these bonds should be charged against the daughter\u2019s half of the estate if in fact the bonds had no existence whatsoever as bonds, i. e., if they were mere worthless paper, at the time of his death. As appellant admits in his paper book, testator when the will was. made \u201cbelieved the bonds worth $9,000.\u201d (Italics supplied.) He knew that all bonds, even in a prosperous era such as existed in 1926.,. are subject to slight fluctuation in values, either up or down. The phrase \u201cregardless of their value\u201d has the same significance as the phrase \u201cmore or less\u201d in the bequest of \u201cdeposits of currency . . . amounting to $10,000, more or less\u201d in the case of Kenaday v. Sinnott (supra). Though in that case the $10,000 had shrunk at the time of the testator\u2019s death to $810.60, the Supreme Court of the United States awarded the legatee $10,000 out of the estate. Mr. Harrison obviously never intended the phrase to mean that utterly worthless paper in the form of bonds should be charged against the daughter\u2019s share of his estate, at a value of $9,000. That he had no such intention and no such conception of his testamentary letter is. proved by the fact that five years after he made his will, and only sixteen months before his death, he wrote his daughter that he had \u201cnever changed from the first; . . . after I pass away you are both to be exactly alike dollar for dollar in distribution of everything I possess.\u201d This letter of July 8, 1931, is nothing less than an unmistakable interpretation of his own will (i. e., the testamentary letter, which the majority opinion concedes, the recipient, i. e., the son, \u201cis bound to carry out\u201d) by the man who wrote it. This letter possesses the greatest probative value as to testator\u2019s intention;. yet the majority opinion ignores it and gives all the estate to the son. That the testator never for a moment had any such intention as that is proved by the fact that though his acual will dated May 29, 1926, formally gave all his estate to his son, he wrote on the same dag a letter to Ms son imposing a trust upon the estate he should receive under the will, that trust providing for the daughter and her children to the extent of one-half of the estate; There is nothing in this record which gives the slightest support to the contention that a paper which has no value whatsoever can be used as payment of a legacy of $9,000 for which, when the testamentary paper was executed, bonds the testator, then believed were worth $9,000 were designated and set apart for its payment in carrying out a testator\u2019s clearly expressed (and later repeated) intention that the legatee should have an equal share in the estate. As in the cases cited in this opinion and many others in the reports, such intention should be carried out so long as there are assets in the estate. Testator\u2019s feelings toward his daughter never changed; his just intentions toward the natural object of his bounty should not be thwarted by the destruction in value of a part of his estate, for which destruction neither he nor the object of Ms paternal solicitude were in the remotest degree responsible. What the Court of Chancery of New Jersey said in Johnson v. Conover et al., 35 Atl. 291, 293, applies with full force to the case at bar: \u201cThe courts seem to go upon the ground that the testator is presumed to have intended to make a sensible and equitable disposition of his property; and if the bequest is' to a person so related to the testator that the ademption of the gift could not have been anticipated by the testator, then the bequest will be held to be general to save it from extinction\u201d (Italics supplied.)\nEvery accepted canon of interpretation in will cases, when applied to this case, confirms the finding of the court below and calls for an affirmation of that court\u2019s decree. Among the applicable canons, in addition to those already cited, are these: (1) \u201cWhen [a testator] has expressed himself in ambiguous or doubtful language, the law will impute to his words such a meaning as, under all the circumstances, will conform to his probable intention and be most agreeable to reason and justice [italics supplied]\u201d: Johnson v. Brasington, 156 N. Y. 181, 185, 50 N. E. 859. (2) \u201cWhere particular terms, as expressed in some part of the will, are inconsistent with and repugnant to the testator\u2019s general intention as ascertained from all the provisions of the will, the general intention must prevail [citing cases], and in case of doubt a will should be construed in favor of a general or primary intention\u201d: 69 C. J., see. 1121, page 66. (3) \u201cIn construing a will regard must be had to its. whole scheme, and if it is found that a particular intent is inconsistent with a general intent, the former must give way to the latter\u201d: Lefebvre v. D\u2019Arcy, 236 Pa. 235, 238, 84 A. 765. (4) \u201cIn determining the testator\u2019s intention the court should place itself as nearly as possible in his position, and hence, . . . should take into consideration the situation of the testator and the facts and circumstances surrounding him at the time the will was executed, . . . the state of the property, devised,\u201d the amount and character of the property of the testator when he made his will (McGlathery\u2019s Est., 311 Pa. 351, 166 A. 886) and \"the testator\u2019s relation to the beneficiaries, their condition or necessities [italics supplied]\u201d: 69 C. J., page 63, sec. 1120. (5) It is also a rule of construction that an heir is not to be disinherited except as the result of express words or necessary implication: Lippincott\u2019s Estate, 276 Pa. 283, 120 A. 136.\nThe \u201cpole star\u201d long fixed for the guidance of courts in interpreting wills is a testator\u2019s intention. None can deny that Charles J. Harrison, the testator, intended Ms daughter to have one-half of his estate. He unequivocally said so. The court below gave her one-half\" of the estate. The majority decision gives her nothing. I think the decision of the court below conformed to the \u201cpole star\u201d of testamentary interpretation and should be affirmed.\nMr. Chief Justice Kephart and Mr. Justice Linn join in this dissent.",
+        "type": "dissent",
+        "author": "Me. Justice Maxey, April 25, 1938:"
+      }
+    ],
+    "attorneys": [
+      "Charles F. Uhl, with him Budd B. Boose, Charles H. Ealy and Simon K. Uhl, of Uhl, Ealy & UM, for appellant.",
+      "Joseph Levy, with him W. Curtis Truxal, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Harrison\u2019s Estate.\nArgued March 30, 1938.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nCharles F. Uhl, with him Budd B. Boose, Charles H. Ealy and Simon K. Uhl, of Uhl, Ealy & UM, for appellant.\nJoseph Levy, with him W. Curtis Truxal, for appellee.\nApril 22, 1938:"
+  },
+  "file_name": "0555-01",
+  "first_page_order": 589,
+  "last_page_order": 610
+}

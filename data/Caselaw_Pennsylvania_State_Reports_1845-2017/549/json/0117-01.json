@@ -1,0 +1,98 @@
+{
+  "id": 17365,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Jose CANCEL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Cancel",
+  "decision_date": "1997-09-19",
+  "docket_number": "Petition No. 745 E.D. Allocatur Docket 1996",
+  "first_page": "117",
+  "last_page": "117",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "549 Pa. 117"
+    },
+    {
+      "type": "parallel",
+      "cite": "700 A.2d 931"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "698 A.2d 571",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12009044,
+        960543
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/698/0571-01",
+        "/pa/548/0484-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960543
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 431,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00035233714398020887
+    },
+    "sha256": "a4877b4a747ce3a61f3a5cfe1e50545fbfcc9349266fb6c6acffec252970ca0e",
+    "simhash": "1:05354386834b0cc4",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T17:16:05.296648+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Jose CANCEL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 19th day of September, 1997, the Petition for Allowance of Appeal is hereby GRANTED and the Order of the Superior Court is REVERSED pursuant to Commonwealth v. Jackson, 548 Pa. 484, 698 A.2d 571 (1997).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "John W. Packel, Jeffrey P. Shender, Philadelphia, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "700 A.2d 931\nCOMMONWEALTH of Pennsylvania, Respondent, v. Jose CANCEL, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 19, 1997.\nJohn W. Packel, Jeffrey P. Shender, Philadelphia, for petitioner."
+  },
+  "file_name": "0117-01",
+  "first_page_order": 199,
+  "last_page_order": 199
+}

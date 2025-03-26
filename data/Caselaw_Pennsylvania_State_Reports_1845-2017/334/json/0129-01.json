@@ -1,0 +1,92 @@
+{
+  "id": 1190724,
+  "name": "Strickler's Estate",
+  "name_abbreviation": "Strickler's Estate",
+  "decision_date": "1939-04-10",
+  "docket_number": "Appeal, No. 90",
+  "first_page": "129",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "334 Pa. 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "195 A. 134",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "328 Pa. 145",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1179672
+      ],
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/328/0145-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 147,
+    "char_count": 1453,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0440664687400694
+    },
+    "sha256": "39a77ae3e46de718df68a02f4e95ab7ccaf866bfb7d38b6efbf5b9065ea6e31c",
+    "simhash": "1:da7fcb4feb7fa0f2",
+    "word_count": 250
+  },
+  "last_updated": "2024-02-27T22:26:43.303362+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Strickler\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nIn sustaining assignments of error to the adjudication of the executors\u2019 account, it was found that the decree provided for interest on certain claims from February 18, 1932, but that some of these claims had not come into existence until after that date. We said\u2014 \u201cAmong the persons to whom interests in the mortgage are directed to be assigned are several persons whose claims did not come into existence until long after February 18, 1932. They would of course not be entitled to interest from February, 1932. We have no doubt this fact was overlooked through inadvertence but it is an error that may be corrected. On the return of the record the parties should have opportunity to be heard on the subject in order that proper adjustment may be made.\u201d (328 Pa. at 155.)\nThe learned court below, on the return of the record, revised the decree, as to the claims in question, by awarding interest from August 15, 1936; no complaint is now made of that, but appellant renews its contention that the bank is not entitled to interest from the earlier date; we find no support in the record for that contention.\nDecree affirmed at appellant\u2019s costs.\nSee Strickler\u2019s Estate, 328 Pa. 145, 154, 195 A. 134.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "E. Dale Field, with him Ella Grawbart, for appellant.",
+      "William B. Parshall, of Blender son, Par shall & Grow, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Strickler\u2019s Estate.\nArgued March 21, 1939.\nBefore Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nE. Dale Field, with him Ella Grawbart, for appellant.\nWilliam B. Parshall, of Blender son, Par shall & Grow, for appellee.\nApril 10, 1939:"
+  },
+  "file_name": "0129-01",
+  "first_page_order": 159,
+  "last_page_order": 160
+}

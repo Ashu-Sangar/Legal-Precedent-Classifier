@@ -1,0 +1,80 @@
+{
+  "id": 12284104,
+  "name": "Moser v. Estate of Renninger; Renninger, In re",
+  "name_abbreviation": "Moser v. Estate of Renninger",
+  "decision_date": "2015-11-10",
+  "docket_number": "440 MAL (2015)",
+  "first_page": "769",
+  "last_page": "769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 769"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 1107",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6867248
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/116/1107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 105,
+    "ocr_confidence": 0.842,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24918557027842164
+    },
+    "sha256": "8c287a5a3e0e4bc7e4806231e979031dfee203a24fc6d3b33e1959281af7db41",
+    "simhash": "1:3fbb31215ef64d7e",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moser v. Estate of Renninger; Renninger, In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 1107",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Moser v. Estate of Renninger; Renninger, In re\n11/10/2015\n440 MAL (2015)"
+  },
+  "file_name": "0769-05",
+  "first_page_order": 823,
+  "last_page_order": 823
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1179662,
+  "name": "Hunter's Estate",
+  "name_abbreviation": "Hunter's Estate",
+  "decision_date": "1938-01-03",
+  "docket_number": "Appeal, No. 307",
+  "first_page": "484",
+  "last_page": "492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "328 Pa. 484"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 405,
+    "ocr_confidence": 0.474,
+    "pagerank": {
+      "raw": 1.9305435253845504e-07,
+      "percentile": 0.7341653895651832
+    },
+    "sha256": "6472129a2c95aa901e3c945ee8a83300f5bb1302b7e2f5319266ee4234e0fa5f",
+    "simhash": "1:63a3f6b66f350739",
+    "word_count": 65
+  },
+  "last_updated": "2023-07-14T15:10:18.636139+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Hunter\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe decree of the Orphans\u2019 Court, refusing to admit the proffered will to probate, is affirmed on the comprehensive opinion of Judge Bolger.\nCosts to be paid by appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Abraham L. Freedman, with him Max Walls, for appellant.",
+      "Edwin J. McDermott, for appellee, was not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Hunter\u2019s Estate.\nArgued December 7,1937.\nBefore Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nAbraham L. Freedman, with him Max Walls, for appellant.\nEdwin J. McDermott, for appellee, was not heard.\nJanuary 3, 1938:"
+  },
+  "file_name": "0484-01",
+  "first_page_order": 518,
+  "last_page_order": 526
+}

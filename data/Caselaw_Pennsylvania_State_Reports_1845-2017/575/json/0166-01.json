@@ -1,0 +1,82 @@
+{
+  "id": 630417,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. James REVERE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Revere",
+  "decision_date": "2003-11-14",
+  "docket_number": "Petition No. 55 EAL 2003",
+  "first_page": "166",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "575 Pa. 166"
+    },
+    {
+      "type": "parallel",
+      "cite": "835 A.2d 707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Pa. 665",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776268
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/498/0665-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 477,
+    "ocr_confidence": 0.667,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.022310181018275584
+    },
+    "sha256": "33240c5af223238f50eebb940f11aa34d482872474db7ce77999c6d304a67502",
+    "simhash": "1:a49d4184910b3de0",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T20:08:57.337856+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. James REVERE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of November, 2003, the Petition for Allowance of Appeal is hereby granted, limited to the following issue:\nWhether the Superior Court erred in reading an exigent circumstances exception into the probable cause requirement announced by this Court in Commonwealth v. Lovette, 498 Pa. 665, 450 A.2d 975 (1982)",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "835 A.2d 707\nCOMMONWEALTH of Pennsylvania, Respondent v. James REVERE, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 14, 2003."
+  },
+  "file_name": "0166-01",
+  "first_page_order": 310,
+  "last_page_order": 310
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281143,
+  "name": "Com. v. Baranyay",
+  "name_abbreviation": "Com. v. Baranyay",
+  "decision_date": "2015-12-29",
+  "docket_number": "828 MAL (2015)",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 92",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "ocr_confidence": 0.743,
+    "sha256": "9c64d869eec883bef2e5eb960998b2da167e5ad2437aa9de6f9100c22fc963f7",
+    "simhash": "1:c566a1c9b30b33c2",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Baranyay"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 92",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Baranyay\n12/29/2015\n828 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0732-03",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

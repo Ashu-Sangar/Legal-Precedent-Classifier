@@ -1,0 +1,80 @@
+{
+  "id": 12286019,
+  "name": "Lindemuth v. W.C.A.B. (Strishock Coal Co.)",
+  "name_abbreviation": "Lindemuth v. W.C.A.B. (Strishock Coal Co.)",
+  "decision_date": "2016-08-11",
+  "docket_number": "161 WAL (2016)",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 111",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6810689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/134/0111-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 101,
+    "ocr_confidence": 0.875,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2493309455493351
+    },
+    "sha256": "1fa4b983da91a9c366180318342d7c07686a5e2872db3efbae082cdbfc3901e2",
+    "simhash": "1:7012044f62032487",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lindemuth v. W.C.A.B. (Strishock Coal Co.)"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 134 A.3d 111",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lindemuth v. W.C.A.B. (Strishock Coal Co.)\n08/11/2016\n161 WAL (2016)"
+  },
+  "file_name": "0681-03",
+  "first_page_order": 733,
+  "last_page_order": 733
+}

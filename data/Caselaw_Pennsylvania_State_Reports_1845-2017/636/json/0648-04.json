@@ -1,0 +1,80 @@
+{
+  "id": 12281378,
+  "name": "Com. v. Perry",
+  "name_abbreviation": "Com. v. Perry",
+  "decision_date": "2016-06-28",
+  "docket_number": "40 MAL (2016)",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "128 A.3d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6770770
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/128/1285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.73,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905158563298477
+    },
+    "sha256": "d368579254206b120ede1b480a5577bd2bef706e41b149a5b213013ee0a7add5",
+    "simhash": "1:2f56fac2bb8bd1d4",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Perry"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 128 A.3d 1285",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Perry\n06/28/2016\n40 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0648-04",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

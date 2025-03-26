@@ -1,0 +1,82 @@
+{
+  "id": 4326447,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Dennis BLAND, Respondent",
+  "name_abbreviation": "Commonwealth v. Bland",
+  "decision_date": "2013-07-24",
+  "docket_number": "No. 134 EAL 2013",
+  "first_page": "583",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "620 Pa. 583"
+    },
+    {
+      "type": "parallel",
+      "cite": "72 A.3d 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 599,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 4.765151324137314e-08,
+      "percentile": 0.2992106875729048
+    },
+    "sha256": "244ed08933fa6e09e261e6e55f33bf1fe9516dcba39b54de1037695675e571df",
+    "simhash": "1:d836572bc3d1cbbe",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T19:46:19.917761+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Dennis BLAND, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of July 2013, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by petitioner, is:\nDid Superior Court err by suppressing a confession that respondent gave after receiving Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), warnings because, six days prior to any police questioning, while in custody in another jurisdiction, he had signed a form antieipatorily declining to be interviewed?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "72 A.3d 263\nCOMMONWEALTH of Pennsylvania, Petitioner v. Dennis BLAND, Respondent.\nSupreme Court of Pennsylvania.\nJuly 24, 2013."
+  },
+  "file_name": "0583-01",
+  "first_page_order": 639,
+  "last_page_order": 640
+}

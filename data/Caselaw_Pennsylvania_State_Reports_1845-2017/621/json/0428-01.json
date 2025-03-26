@@ -1,0 +1,106 @@
+{
+  "id": 4080585,
+  "name": "James DUNYAN, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Dunyan v. Court of Common Pleas",
+  "decision_date": "2013-10-30",
+  "docket_number": "No. 126 EM 2013",
+  "first_page": "428",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "621 Pa. 428"
+    },
+    {
+      "type": "parallel",
+      "cite": "78 A.3d 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 497,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1299929069223727
+    },
+    "sha256": "33978683263f4d0d5f2a11aeb06233b6554396edf0d5dc86812ea174ed88dff1",
+    "simhash": "1:603792ace1d135bd",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T21:17:02.333073+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James DUNYAN, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of October, 2013, the Application for Leave to File Original Process and the Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "78 A.3d 1060\nJames DUNYAN, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 126 EM 2013.\nSupreme Court of Pennsylvania.\nOct. 30, 2013."
+  },
+  "file_name": "0428-01",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

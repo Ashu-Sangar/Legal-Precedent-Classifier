@@ -1,0 +1,106 @@
+{
+  "id": 12282404,
+  "name": "Com. v. Buxton",
+  "name_abbreviation": "Com. v. Buxton",
+  "decision_date": "2016-07-19",
+  "docket_number": "115 WAL (2016)",
+  "first_page": "657",
+  "last_page": "657",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 657"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 187",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486405,
+        12486406,
+        12486407,
+        12486408,
+        12486409,
+        12486410,
+        12486411,
+        12486412,
+        12486413,
+        12486414,
+        12486415,
+        12486416,
+        12486417,
+        12486418,
+        12486419,
+        12486420
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0187-10",
+        "/a3d/144-2/0187-11",
+        "/a3d/144-2/0187-12",
+        "/a3d/144-2/0187-13",
+        "/a3d/144-2/0187-14",
+        "/a3d/144-2/0187-15",
+        "/a3d/144-2/0187-16",
+        "/a3d/144-2/0187-01",
+        "/a3d/144-2/0187-02",
+        "/a3d/144-2/0187-03",
+        "/a3d/144-2/0187-04",
+        "/a3d/144-2/0187-05",
+        "/a3d/144-2/0187-06",
+        "/a3d/144-2/0187-07",
+        "/a3d/144-2/0187-08",
+        "/a3d/144-2/0187-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.891,
+    "sha256": "1210f11e88159511ca8e0841aaba8504df328e8414fc0c1bad7d4e6445efdbfa",
+    "simhash": "1:43d5c24fdaca2820",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Buxton"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 187",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Buxton\n07/19/2016\n115 WAL (2016)"
+  },
+  "file_name": "0657-09",
+  "first_page_order": 709,
+  "last_page_order": 709
+}

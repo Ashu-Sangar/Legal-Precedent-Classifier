@@ -1,0 +1,117 @@
+{
+  "id": 577578,
+  "name": "Commonwealth v. Mayberry et al., Appellants",
+  "name_abbreviation": "Commonwealth v. Mayberry",
+  "decision_date": "1973-07-02",
+  "docket_number": "Appeals, Nos. 60 to 62",
+  "first_page": "619",
+  "last_page": "620",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "453 Pa. 619"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "308 A. 2d 90",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "Manderino, J., dissenting"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "452 Pa. 457",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574739
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "Manderino, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/452/0457-01"
+      ]
+    },
+    {
+      "cite": "461 F. 2d 345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1329863
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/461/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 86,
+    "char_count": 749,
+    "ocr_confidence": 0.438,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.020581315744663105
+    },
+    "sha256": "57b7676a51e142e8e36531a9f84bdfd7e0667f1d6d778b39d3f23c3683432389",
+    "simhash": "1:145206522a72fcb4",
+    "word_count": 114
+  },
+  "last_updated": "2024-02-27T20:26:23.289580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jonhs, C. J., Eagan, O\u2019Brien, Roberts, Pomeroy, Nix and ManDERINO, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Mayberry et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgments of contempt are affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Manderino :\nI dissent because the defendants were entitled to a jury trial. See United States v. Seale, 461 F. 2d 345 (7th Cir. 1972); Commonwealth v. Patterson, 452 Pa. 457, 308 A. 2d 90 (1973) (Manderino, J., dissenting).",
+        "type": "dissent",
+        "author": "Mr. Justice Manderino :"
+      }
+    ],
+    "attorneys": [
+      "John J. Dean, Assistant Public Defender, with him George 3. Ross, Public Defender, for appellants.",
+      "J. Kent Gulley, Assistant District Attorney, with him Robert L. Eberhardt, Assistant District Attorney, and Robert W. Duggan, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Mayberry et al., Appellants.\nArgued April 24, 1973.\nBefore Jonhs, C. J., Eagan, O\u2019Brien, Roberts, Pomeroy, Nix and ManDERINO, JJ.\nJohn J. Dean, Assistant Public Defender, with him George 3. Ross, Public Defender, for appellants.\nJ. Kent Gulley, Assistant District Attorney, with him Robert L. Eberhardt, Assistant District Attorney, and Robert W. Duggan, District Attorney, for Commonwealth, appellee.\nJuly 2,1973:"
+  },
+  "file_name": "0619-02",
+  "first_page_order": 675,
+  "last_page_order": 676
+}

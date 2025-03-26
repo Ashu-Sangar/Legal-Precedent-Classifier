@@ -1,0 +1,82 @@
+{
+  "id": 1100685,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Eric HODGES, Respondent",
+  "name_abbreviation": "Commonwealth v. Hodges",
+  "decision_date": "2004-09-07",
+  "docket_number": "Petition No. 177 EAL 2004",
+  "first_page": "10",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "580 Pa. 10"
+    },
+    {
+      "type": "parallel",
+      "cite": "858 A.2d 1160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813590
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0088-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 354,
+    "ocr_confidence": 0.663,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.039966229691383554
+    },
+    "sha256": "47e3e393aa720b7a7ee08cf39022d08514aa93a54c41aecf93164fb00ee34e11",
+    "simhash": "1:9d1e0fa603913cf3",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T18:09:30.519212+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Eric HODGES, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 7th day of September, 2004, the Petition for Allowance of Appeal is hereby GRANTED, and the order of the Superior Court is REVERSED. See Commonwealth v. Devers, 519 Pa. 88, 546 A.2d 12 (1988).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "858 A.2d 1160\nCOMMONWEALTH of Pennsylvania, Petitioner v. Eric HODGES, Respondent.\nSupreme Court of Pennsylvania.\nSept. 7, 2004."
+  },
+  "file_name": "0010-01",
+  "first_page_order": 138,
+  "last_page_order": 138
+}

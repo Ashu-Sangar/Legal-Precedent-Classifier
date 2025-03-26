@@ -1,0 +1,109 @@
+{
+  "id": 5652260,
+  "name": "M. Diane KOKEN, Insurance Commissioner of the Commonwealth of Pennsylvania, Appellant v. RELIANCE INSURANCE COMPANY, Appellee Vitas Healthcare Corporation, Vitas Holdings Corporation, Vitas Healthcare of Texas, L.P., Magellan Reinsurance Company Ltd., RBH Reinsurance Ltd., Citicorp Insurance USA, Inc., Citicorp, CSX Insurance Company, Celanese Americas Corporation, Celwood Insurance Company, Elwood Insurance Limited, Ellen Diamond, Guaranty Associations, Earth Tech, Inc., New Mexico Mutual Casualty Company, Southwest Casualty Company, Clients Assurance Pool, Ltd., Baptist Health South Florida, Inc., and Palm Springs General Hospital, Intervenors",
+  "name_abbreviation": "Koken v. Reliance Insurance",
+  "decision_date": "2005-11-23",
+  "docket_number": "Appeal No. 60 MAP 2004",
+  "first_page": "100",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "586 Pa. 100"
+    },
+    {
+      "type": "parallel",
+      "cite": "891 A.2d 704"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "878 A.2d 51",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        687756,
+        8939020
+      ],
+      "weight": 4,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/583/0400-01",
+        "/a2d/878/0051-01"
+      ]
+    },
+    {
+      "cite": "583 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        687756
+      ],
+      "year": 2005,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/583/0400-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 279,
+    "char_count": 4032,
+    "ocr_confidence": 0.617,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.33373374277805384
+    },
+    "sha256": "a7947fc62d113aef23c2a097d50f03fdf4cda288c77e6e03a56ad3ad0620d96f",
+    "simhash": "1:5f6113f480205508",
+    "word_count": 608
+  },
+  "last_updated": "2024-02-27T17:26:12.719676+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice NEWMAN files a concurring statement."
+    ],
+    "parties": [
+      "M. Diane KOKEN, Insurance Commissioner of the Commonwealth of Pennsylvania, Appellant v. RELIANCE INSURANCE COMPANY, Appellee Vitas Healthcare Corporation, Vitas Holdings Corporation, Vitas Healthcare of Texas, L.P., Magellan Reinsurance Company Ltd., RBH Reinsurance Ltd., Citicorp Insurance USA, Inc., Citicorp, CSX Insurance Company, Celanese Americas Corporation, Celwood Insurance Company, Elwood Insurance Limited, Ellen Diamond, Guaranty Associations, Earth Tech, Inc., New Mexico Mutual Casualty Company, Southwest Casualty Company, Clients Assurance Pool, Ltd., Baptist Health South Florida, Inc., and Palm Springs General Hospital, Intervenors."
+    ],
+    "opinions": [
+      {
+        "text": "REVISED ORDER\nPER CURIAM:\nAND NOW, this 23rd day of November, 2005, the Commonwealth Court\u2019s Order entered on March 18, 2004 is vacated and the case is remanded for discovery relating to the issue of whether Palm Springs General Hospital and Baptist Health South Florida Hospital are entitled to direct access to reinsurance proceeds from American Healthcare Indemnity Company.\nJustice NEWMAN files a concurring statement.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      },
+      {
+        "text": "Justice NEWMAN\nconcurring.\nThis appeal by Diane Koken, the Insurance Commissioner of the Commonwealth of Pennsylvania (Commissioner Koken), arises from an Order of the Commonwealth Court that denied Commissioner Koken\u2019s Motion to Dismiss Objections filed by Palm Springs General Hospital and Baptist Health South Florida Hospital (collectively, the \u201cHospitals\u201d) and granted the Hospitals direct access to reinsurance proceeds from the Southern California Physician\u2019s Insurance Exchange. (\u201cSouthern\u201d). This Court vacates the decision of the Commonwealth Court, which was without the benefit of our decision in Koken v. Villanova Ins. Co., 583 Pa. 400, 878 A.2d 51 (2005).\nI authored a Dissenting Statement in Villanova, taking the position that unless the reinsurance contract specifically provides for payments to the individually named insured, the liability of the reinsurer is intended to run to the estate of the insolvent insurer. Id. 410, 878 A.2d at 57. As such, I maintained that the corporate policyholders must be directed to do what is required of all policyholders \u2014 pursue collection through the statutory means established by the legislature for liquidation by filing a claim with the receiver and/or with the state guaranty association. Id. I recognize that the Commonwealth Court\u2019s Majority Opinion in Villanova, which this Court affirmed by per curiam order, now reflects the prevailing law on the issue of whether a direct insured is entitled to receive direct payments from reinsurers, but I remain convinced that this is contrary to the statutory text of Section 534 of the Insurance Department Act, because, in my view, Section 534 explicitly prohibits an insured from obtaining direct access to reinsurance funds absent express language in the provisions of the reinsurance contract. Id. Thus, while I dissented in Villanova, the majority of my colleagues assumed the opposite position, making that the law of the Commonwealth; hence, rather than advocate a reversal of the Commonwealth Court, I join the disposition herein.\nThat said, and on a more basic level, the referee selected by the Commonwealth Court issued his report and recommendation prior to conducting any discovery after concluding that the case could be resolved as a matter of law in favor of Commissioner Koken and, thus, her Motion to Dismiss should be granted. Given that the only Motion before the Commonwealth Court was the Motion to Dismiss the objections of the Hospital, I am constrained to agree that, once the court determined that the Motion to Dismiss should be denied, there was no basis on which it could proceed to enter judgment in favor of the Hospitals.\nAccordingly, recognizing that Villanova is the prevailing precedent, I join the Court in vacating the Order of the Commonwealth Court and remanding this matter for the conduct of discovery.",
+        "type": "concurrence",
+        "author": "Justice NEWMAN"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "891 A.2d 704\nM. Diane KOKEN, Insurance Commissioner of the Commonwealth of Pennsylvania, Appellant v. RELIANCE INSURANCE COMPANY, Appellee Vitas Healthcare Corporation, Vitas Holdings Corporation, Vitas Healthcare of Texas, L.P., Magellan Reinsurance Company Ltd., RBH Reinsurance Ltd., Citicorp Insurance USA, Inc., Citicorp, CSX Insurance Company, Celanese Americas Corporation, Celwood Insurance Company, Elwood Insurance Limited, Ellen Diamond, Guaranty Associations, Earth Tech, Inc., New Mexico Mutual Casualty Company, Southwest Casualty Company, Clients Assurance Pool, Ltd., Baptist Health South Florida, Inc., and Palm Springs General Hospital, Intervenors.\nSupreme Court of Pennsylvania.\nDecided Nov. 23, 2005.\nConcurring Statement Feb. 8, 2006."
+  },
+  "file_name": "0100-01",
+  "first_page_order": 308,
+  "last_page_order": 310
+}

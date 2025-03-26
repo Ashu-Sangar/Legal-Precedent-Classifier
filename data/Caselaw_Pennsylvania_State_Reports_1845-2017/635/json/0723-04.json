@@ -1,0 +1,70 @@
+{
+  "id": 12281533,
+  "name": "Com. v. Mapp",
+  "name_abbreviation": "Com. v. Mapp",
+  "decision_date": "2016-02-08",
+  "docket_number": "415 EAL (2015)",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 723"
+    },
+    {
+      "type": "parallel",
+      "cite": "131 A.3d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.788,
+    "sha256": "75270da3219a96200439896352249f803713aa1d2c8cdb1363523f12ca20c511",
+    "simhash": "1:ed62b8ceaa0a71cc",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Mapp"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1119",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Mapp\n02/08/2016\n415 EAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0723-04",
+  "first_page_order": 783,
+  "last_page_order": 783
+}

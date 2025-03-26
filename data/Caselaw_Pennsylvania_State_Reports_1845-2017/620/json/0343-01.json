@@ -1,0 +1,117 @@
+{
+  "id": 4326423,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Felix ROSA, Petitioner",
+  "name_abbreviation": "Commonwealth v. Rosa",
+  "decision_date": "2013-05-30",
+  "docket_number": "No. 416 EAL 2009",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "620 Pa. 343"
+    },
+    {
+      "type": "parallel",
+      "cite": "67 A.3d 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 1200252",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 A.3d 286",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7307594,
+        4328123
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/66/0286-01",
+        "/pa/620/0115-01"
+      ]
+    },
+    {
+      "cite": "620 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4328123
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/620/0115-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 712,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14619655431648718
+    },
+    "sha256": "dcf579bd795c0d716bc8f681168c1ba3a30a2c174d3ebed9f510aff4cd667cd6",
+    "simhash": "1:d68df6cde5ef5d3e",
+    "word_count": 115
+  },
+  "last_updated": "2024-02-27T19:46:19.917761+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Felix ROSA, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of May 2013, the Petition for Allowance of Appeal is GRANTED, LIMITED TO Petitioner\u2019s sentencing claim. Further, the Superior Court\u2019s decision affirming the imposition of a sentence of mandatory life without the possibility of parole is VACATED and the matter is REMANDED to the trial court for a new sentencing hearing pursuant to Commonwealth v. Batts, 620 Pa. 115, 66 A.3d 286, 2013 WL 1200252 (2013), to allow the trial court to consider the relevant factors delineated in Miller v. Alabama, \u2014 U.S. -, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "67 A.3d 790\nCOMMONWEALTH of Pennsylvania, Respondent v. Felix ROSA, Petitioner.\nSupreme Court of Pennsylvania.\nMay 30, 2013."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 399,
+  "last_page_order": 399
+}

@@ -1,0 +1,118 @@
+{
+  "id": 4207632,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Jamel CLAY, Respondent",
+  "name_abbreviation": "Commonwealth v. Clay",
+  "decision_date": "2012-01-18",
+  "docket_number": "No. 584 MAL 2011",
+  "first_page": "331",
+  "last_page": "332",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "614 Pa. 331"
+    },
+    {
+      "type": "parallel",
+      "cite": "37 A.3d 1173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "614 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4206166
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/614/0329-01"
+      ]
+    },
+    {
+      "cite": "37 A.3d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7300870,
+        4207529,
+        4206954,
+        7300853,
+        7300886,
+        4206166
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/37/1172-02",
+        "/pa/614/0330-01",
+        "/pa/614/0328-01",
+        "/a3d/37/1172-01",
+        "/a3d/37/1172-03",
+        "/pa/614/0329-01"
+      ]
+    },
+    {
+      "cite": "614 Pa. 330",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4207529
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/614/0330-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 109,
+    "char_count": 1204,
+    "ocr_confidence": 0.654,
+    "pagerank": {
+      "raw": 2.3728075846420705e-07,
+      "percentile": 0.795955671546874
+    },
+    "sha256": "9c0b792a64c77c7a27564d33306481318d820cf371fb8735159c64fe47c941df",
+    "simhash": "1:6c0bd5bf9182a794",
+    "word_count": 195
+  },
+  "last_updated": "2024-02-27T20:32:19.210464+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Jamel CLAY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of January 2012, the Petition for Allowance of Appeal is GRANTED and CONSOLIDATED for appeal with Commonwealth v. Jason Sale Claybrook, 614 Pa. 330, 37 A.3d 1172 (2012) and Commonwealth v. Rashid Lewis, 614 Pa. 329, 37 A.3d 1172 (2012). The issues, as stated by petitioner, are:\n(1) Did the Superior Court panel apply the wrong standard of review in this case by bypassing the analysis of the trial court\u2019s exercise of discretion on the challenge to the weight of the evidence and substituting its own judgment on this issue and its own interpretation of the underlying facts?\n(2) In addition to erroneously reaching the weight claim directly rather than affording deference to the judgment of the court below, did the Superior Court panel further misapply the weight standard in clear contravention of prevailing precedent?\n(3) In addition to usurping the discretion of the trial court judge and invading the province of the jury, did the Superior Court panel also draw factually and legally insupportable conclusions from the record?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "37 A.3d 1173\nCOMMONWEALTH of Pennsylvania, Petitioner v. Jamel CLAY, Respondent.\nSupreme Court of Pennsylvania.\nJan. 18, 2012."
+  },
+  "file_name": "0331-01",
+  "first_page_order": 373,
+  "last_page_order": 374
+}

@@ -1,0 +1,63 @@
+{
+  "id": 12280456,
+  "name": "Com. v. Brunson",
+  "name_abbreviation": "Com. v. Brunson",
+  "decision_date": "2015-12-17",
+  "docket_number": "586, 587 EAL (2015)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 725"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 54,
+    "ocr_confidence": 0.914,
+    "sha256": "77259160819a3a7bfdd37db523afd32c1b4041a6406724ccac6d5e4180afe85e",
+    "simhash": "1:793de87b6f1865d7",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T15:35:14.432984+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Brunson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Brunson\n12/17/2015\n586, 587 EAL (2015)"
+  },
+  "file_name": "0725-01",
+  "first_page_order": 769,
+  "last_page_order": 769
+}

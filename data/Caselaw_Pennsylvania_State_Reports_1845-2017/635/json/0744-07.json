@@ -1,0 +1,80 @@
+{
+  "id": 12283679,
+  "name": "Roman v. McGuire Memorial",
+  "name_abbreviation": "Roman v. McGuire Memorial",
+  "decision_date": "2016-03-16",
+  "docket_number": "475 WAL (2015)",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "127 A.3d 26",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6831751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/127/0026-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 82,
+    "ocr_confidence": 0.861,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24916259596601964
+    },
+    "sha256": "4ef16a2a5fdbe1c70eed070312747f886e07fe93a9466c7138d6ba774876d265",
+    "simhash": "1:3b77a8197cee48c9",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roman v. McGuire Memorial"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 127 A.3d 26",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Roman v. McGuire Memorial\n03/16/2016\n475 WAL (2015)"
+  },
+  "file_name": "0744-07",
+  "first_page_order": 804,
+  "last_page_order": 804
+}

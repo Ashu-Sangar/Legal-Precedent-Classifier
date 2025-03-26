@@ -1,0 +1,70 @@
+{
+  "id": 12287647,
+  "name": "Com. v. Saunders",
+  "name_abbreviation": "Com. v. Saunders",
+  "decision_date": "2016-04-20",
+  "docket_number": "038 EAL (2016)",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 773"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 646",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.864,
+    "sha256": "6f6729ca3f2167ff95c80870619a7d92cd79d1a4c4d693c2c8ce3d032f34e4bc",
+    "simhash": "1:f04041be473bc876",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Saunders"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 646",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Saunders\n04/20/2016\n038 EAL (2016)"
+  },
+  "file_name": "0773-01",
+  "first_page_order": 833,
+  "last_page_order": 833
+}

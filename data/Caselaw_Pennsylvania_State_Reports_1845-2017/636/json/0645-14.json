@@ -1,0 +1,70 @@
+{
+  "id": 12281103,
+  "name": "Com. v. Dominick",
+  "name_abbreviation": "Com. v. Dominick",
+  "decision_date": "2016-06-29",
+  "docket_number": "96 MAL (2016)",
+  "first_page": "645",
+  "last_page": "645",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 645"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "ocr_confidence": 0.751,
+    "sha256": "8d7687a1ff27f7a2c882a499915a8b91e3a31121a638d9bf54a95ce5bc004461",
+    "simhash": "1:ad5c0463593f4c53",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dominick"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 1025",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dominick\n06/29/2016\n96 MAL (2016)\n. Justice WECHT notes his dissent."
+  },
+  "file_name": "0645-14",
+  "first_page_order": 697,
+  "last_page_order": 697
+}

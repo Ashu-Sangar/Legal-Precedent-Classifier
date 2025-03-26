@@ -1,0 +1,102 @@
+{
+  "id": 12285607,
+  "name": "Long v. Long",
+  "name_abbreviation": "Long v. Long",
+  "decision_date": "2016-08-23",
+  "docket_number": "148 WAL (2016)",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 678"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 195",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486528,
+        12486529,
+        12486530,
+        12486531,
+        12486532,
+        12486533,
+        12486534,
+        12486535,
+        12486536,
+        12486537,
+        12486538,
+        12486525,
+        12486526,
+        12486527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0195-13",
+        "/a3d/144-2/0195-14",
+        "/a3d/144-2/0195-01",
+        "/a3d/144-2/0195-02",
+        "/a3d/144-2/0195-03",
+        "/a3d/144-2/0195-04",
+        "/a3d/144-2/0195-05",
+        "/a3d/144-2/0195-06",
+        "/a3d/144-2/0195-07",
+        "/a3d/144-2/0195-08",
+        "/a3d/144-2/0195-09",
+        "/a3d/144-2/0195-10",
+        "/a3d/144-2/0195-11",
+        "/a3d/144-2/0195-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 70,
+    "ocr_confidence": 0.847,
+    "sha256": "6fcf289c74d626f4bd817f1f228bddb70a98443d5047152d893644b5ca9541b8",
+    "simhash": "1:20346004c1400211",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Long v. Long"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 195",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Long v. Long\n08/23/2016\n148 WAL (2016)"
+  },
+  "file_name": "0678-01",
+  "first_page_order": 730,
+  "last_page_order": 730
+}

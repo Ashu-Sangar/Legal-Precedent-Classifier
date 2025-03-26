@@ -1,0 +1,608 @@
+{
+  "id": 498394,
+  "name": "Bell et al. versus Kennedy",
+  "name_abbreviation": "Bell v. Kennedy",
+  "decision_date": "1882-10-02",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Pa. 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 N. H. 145",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6752766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/1/0145-01"
+      ]
+    },
+    {
+      "cite": "4 Wash. C. C. 26",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Ill. 306",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2451944
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/29/0306-01"
+      ]
+    },
+    {
+      "cite": "27 Ill. 29",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Nott & McC. 125",
+      "category": "reporters:state",
+      "reporter": "Nott & McC.",
+      "case_ids": [
+        6140041
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/11/0444-01"
+      ]
+    },
+    {
+      "cite": "2 Brock. 64",
+      "category": "reporters:federal",
+      "reporter": "Brock.",
+      "case_ids": [
+        6130449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/27/0082-01"
+      ]
+    },
+    {
+      "cite": "4 Binn. 1",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1792431
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/4/0001-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 64",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        12128136,
+        1408518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0064-01",
+        "/us/1/0062-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 249",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "63 Mo. 268",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        970026
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/63/0268-01"
+      ]
+    },
+    {
+      "cite": "22 Mo. 380",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 McLean 195",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Johns. 385",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2134382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/8/0385-01"
+      ]
+    },
+    {
+      "cite": "9 Johns. 73",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372304
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0073-01"
+      ]
+    },
+    {
+      "cite": "6 Mo. 326",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8854071
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/6/0326-01"
+      ]
+    },
+    {
+      "cite": "5 Barb. 414",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5778558
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/5/0414-01"
+      ]
+    },
+    {
+      "cite": "17 Me. 296",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        631594
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/17/0296-01"
+      ]
+    },
+    {
+      "cite": "5 Hill, 115",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 256",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840035
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0256-01"
+      ]
+    },
+    {
+      "cite": "8 C. B. 461",
+      "category": "reporters:specialty",
+      "reporter": "C.B.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 W. & S. 31",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 106",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477668
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0106-01"
+      ]
+    },
+    {
+      "cite": "12 H. 191",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. 511",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 W. 256",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Johns. 525",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2137685
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/11/0525-01"
+      ]
+    },
+    {
+      "cite": "4 Denio 546",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/4/0546-01"
+      ]
+    },
+    {
+      "cite": "1 Jones 127",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 W. & S. 311",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        477844
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0311-01"
+      ]
+    },
+    {
+      "cite": "10 W. 413",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Binn. 355",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1793671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/5/0355-01"
+      ]
+    },
+    {
+      "cite": "53 Mo. 56",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 Mo. 534",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        972207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/52/0534-01"
+      ]
+    },
+    {
+      "cite": "49 Mo. 356",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        982202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/49/0356-01"
+      ]
+    },
+    {
+      "cite": "14 Martin 517",
+      "category": "reporters:state",
+      "reporter": "Mart.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "53 Maine 86",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wh. 17",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1834977
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0017-01"
+      ]
+    },
+    {
+      "cite": "2 Dana 142",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        5547315
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/32/0142-01"
+      ]
+    },
+    {
+      "cite": "22 Wend. 348",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2153302
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/22/0348-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 587",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015711
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0587-01"
+      ]
+    },
+    {
+      "cite": "53 Maine 89",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8845967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/53/0089-01"
+      ]
+    },
+    {
+      "cite": "14 Ohio St. 450",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        523025
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/14/0450-01"
+      ]
+    },
+    {
+      "cite": "28 Wis. 33",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8706252
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/28/0033-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. 519",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000752
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0428-01"
+      ]
+    },
+    {
+      "cite": "5 Mass. 538",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002165
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0416-01"
+      ]
+    },
+    {
+      "cite": "2 Barb. Ch. 123",
+      "category": "reporters:state",
+      "reporter": "Barb. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Iowa 190",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        110964
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/34/0190-01"
+      ]
+    },
+    {
+      "cite": "29 Iowa 297",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2281566
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/29/0297-01"
+      ]
+    },
+    {
+      "cite": "25 Iowa 420",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Cranch 28",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        533613
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/13/0028-01"
+      ]
+    },
+    {
+      "cite": "14 Wright 67",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Whart. 382",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1835030
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/4/0382-01"
+      ]
+    },
+    {
+      "cite": "10 Wright 286",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Watts 256",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/2/0256-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 951,
+    "char_count": 17801,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 1.2137334041474955e-07,
+      "percentile": 0.5966685702525514
+    },
+    "sha256": "f88c601aee19be833fd34b2ebe17768453c31420274282c9bd5f4004bbd17b74",
+    "simhash": "1:1f784ff1d25e59c0",
+    "word_count": 3206
+  },
+  "last_updated": "2024-02-27T17:12:08.811249+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Siiarswood, C. J., Mercur, Gordon, Paxson, Trunkey, Sterrett and Green, JJ."
+    ],
+    "parties": [
+      "Bell et al. versus Kennedy."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered by\nMr. Justice Mercur,\nIt is not necessary to discuss separately the various specifications of error. A few general principles rule the case.\nThe money in contention was paid on a parol contract for the purchase-of lands. In consequence of having afterwards ascertained tbe title to be defective, this action was to recover the money thus paid.\nThe lands were situate in Missouri, and were represented to contain eleven thousand two hundred acres. Both parties to the contract resided in Pennsylvania. In the making thereof one Leslie acted as agent for Dilworth. He represented that the latter had a good and perfect title to the lauds free from incumbrance, and was a man of wealth and perfectly - responsible. Relying on this statement, and the assurance that a clear title should be made to him by good and sufficient deeds, Kennedy agreed to buy the lands and afterwards paid part of the purchase money.\nDilworth was a man of wealth : but in fact had no regular paper title to the lands. It appears he had in his possession fifty-one patents issued by the United States to certain patentees therein named, and deeds for the same lands, executed by the patentees, without the names of any grantee therein.\nAfter the making of the contract the name of Leslie, who was insolvent, was written in the fifty-one deeds as grantee, and,he and his wife executed deeds for the purpose of conveying said lands to Kennedy. Thus there was no conveyance from Dilworth. The deeds contained no covenant from him. When the agreement was made Leslie exhibited \u201c a plan-book \u201d which he stated contained a full description of the lands. The descriptions in the deeds executed by Leslie did not in several respects correspond with those in the \u201c plan-book.\u201d The number of the township was changed in some few cases: in other cases a different quarter of the section was substituted: in several townships named a portion of the lands was wholly omitted.\nThe deeds were to be deposited in the Commonwealth Bank. Thus defectively executed they were there deposited ; and on a cursory examination of them by Kennedy he made a payment. Afterwards he discovered the title of Dilworth was defective, and that the deeds were not executed according to the agreement. lie therefore refused to accept them, and brought this suit to recover a portion of the purchase money which he had paid. Thus the case involves the validity of the title held by Dilworth, and the sufficiency of the conveyance prepared for Kennedy.\nIt may be conceded, in case a deed, duly executed iu other respects with a blank left therein for the name of the grantee, be put in that condition in the hands of a third person with verbal authority to fill up the blank in the absence of the grantor, and to deliver the deed to the person whose name is inserted as grantee, and the deed be so filled and delivered, it becomes a valid deed. It is not necessary to consider whether Dilworth held those deeds under an agreement with the grantors which would enable him to perfect the title in himself. If lie was so authorized he did not exercise the power. Ilis name never appeared in the deeds as vendee. It appears, however, that he did not acquire his equitable interest directly from the patentees but from one Davis for whose benefit, it is alleged, the lands were located.\nThe jury having found that the deeds from the patentees wore held by Dilworth in blank when the agreement was made with Kennedy, and that the latter did not know that fact, it follows that Dilworth did not hold a perfect or legal title to the lands, ' nor did he hold an equitable title under any conveyance made to him. Not only was Kennedy ignorant of the fact, that the deeds from the patentees were in blank : but the jury have further found that Kennedy did not agree that the name of Leslie as vendee should be inserted therein.\nIt is therefore manifest that Dilworth did not have a good or perfect title to the lands at the time of the agreement, nor afterwards. Dealing with him as the owner thereof, Kennedy expected, and hada right to require, a deed directly from him, conveying that perfect title which he alleged was vested in him. Kennedy was entitled to all the security which Dilworth\u2019s undoubted wealth would give, in case of a breach of the covenants in the deed.\nThus the defective title held by Dilworth -and his refusal to convey according to his agreement left his. part of the contract wholly unperformed. This gave Kennedy a right to rescind the agreement and recover the money which Dilworth had obtained under a false assertion of a perfect title. If this action were in affirmance of the contract, it would be necessary to show a readiness or willingness on the part of the vendee to perform; but it is in disaffirmance thereof by reason of the inability and failure of the vendor to perform. His performance was a condition precedent to his right to require any payment from the vendee. The latter therefore had a right to recover the money which he paid under a misapprehension, and which the vendor was not entitled to receive. Moore v. Shelly, 2 Watts 256; Robison v. Tyson, 10 Wright 286 ; Crossgrove v. Himmelricli, 4 P. F. Smith 206. A careful examination, of the whole record discloses no suffcient causejfor reversing the judgment.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Mercur,"
+      }
+    ],
+    "attorneys": [
+      "David W. Sellers (with whom were Arthur O. Salden and George S. Selden), for the plaintiffs in error.",
+      "Henry S. Hagert (with whom was Hobert II. Hincldey), for the defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bell et al. versus Kennedy.\n1. A., as agent for B., a man of wealth, represented to 0. that B. had a good and perfect title to certain lands in Missouri of which he exhibited plans. 0. thereupon verbally agreed to purchase said lands, the deeds for which were to be placed in a certain bank for safe keeping and to be paid for in installments. B. had really no perfect title to the land, but had in his possession divers patents from the United States to different grantees therefor, and divers deeds executed by the patentees with the name of the grantee loft blank. Moreover, the land described in said patents and deeds differed in some respects from that appearing on the plans exhibited to 0. After the making of the contract, the name of A., who w'as insolvent, was without C.\u2019s knowledge or consent inserted into the deeds as grantee, and a conveyance was executed by him of all the land to 0. B. was not a party to this conveyance and bound himself to no covenants therein. All the deeds above referred to were then lodged in the bank agreed upon, and C. having given them a cursory examination, paid the first installment of the purchase money. Subsequently, on discovering that, the title of B. was defective, and that the deeds were not executed according to the agreement, he refused to accept them and brought suit to recover the installment of purchase money paid. Held, that C. had a right to require a deed from B. directly conveying to him the lands which he had agreed to purchase, so that he might have the security which B.\u2019s undoubted wealth would give in case of a breach of the covenants in the deed. Held, further, that the defective title held by B., and his refusal to convey according to his agreement, loft his part of the contract wholly unperformed, and therefore, left 0. free to elect to rescind the contract. Held, therefore, that 0. was entitled to recover the amount paid by him without first making tefider or showing readiness to perform his part of the contract.\n2. Semble, that in case a deed duly executed in other respects with a blank left therein for the name of the grantee, be put in that condition in the hands of a third person with verbal authority to All up the blank in the absence of the grantor, and to deliver the-deed to the person whose name is inserted as grantee, and the deed be so filled and delivered, it becomes a valid deed.\nMarch 31st 1882.\nBefore Siiarswood, C. J., Mercur, Gordon, Paxson, Trunkey, Sterrett and Green, JJ.\nError to the Court of Common Pleas No. 3, of Philadelfhia county: Of July Term 1881, No. 51..\nAssumpsit, by Thomas Kennedy against John S. Dilworth to recover back the purchase money paid on account of a contract of sale of certain land. The defendant having died pending the suit, his executors Thompson Bell and William P. Dilworth were substituted as parties defendant.\nThe facts of the case as they appeared on the trial before Yerkes, J., are fully set forth in the opinion of the Supreme Court.\nDefendants presented, inter alia, the following points:\nFirst. \u2014 That as the title paper\u2019s were accessible to plaintiff from January 19th 1865, to the commencement of this suit, and as he made payments and gave acceptances thereafter, he must show before snit brought, an actual defect and failure in the title, and that no such defect having been shown, the verdict should be for defendants. Refused.\nFifth. \u2014 That the delivery of the deeds in January 1865, to the bank, cast upon the plaintiff the duty of specifying before payment and acceptances any defect alleged, or anything which was in the opinion of the plaintiff a breach of contract, and that his entire silence to Leslie and Dilworth on this, and the letters showing only an inability to raise the purchase-money, preclude the plaintiff from-alleging any other cause in this suit, and the verdict should be for defendants. Refused.\nSeventh. \u2014 That it is incumbent on the plaintiff to show that before the commencement of this suit he was ready to perform his part of the contract, and that ho tendered a performance, and demanded a performance on the part of the defendant, and if the jury do not so find, their verdict should be for defendants. \u00c9efused.\nThe court charged, inter alia, as follows :\n\u201c That all the deeds from the patentees were delivered without a grantee, and that the name of Leslie, as grantee, was filled in after the execution, delivery and acknowledgment of the deeds, and after the sale was made to Kennedy. The defect is such that no title passed for the tracts to Dilworth or Leslie. To cure this would have required deeds from all the patentees. I do not think it is the duty of the vendee to notify the vendor that he, the vendor, has no title, and to give him an opportunity to obtain one. I therefore charge you, that if you find that the deeds from the patentees were in blank when executed, delivered and acknowledged, and when sale was made \u25a0to Kennedy, and that he did not know of this omission, then :he is entitled to recover the principal paid, with interest to date. On the other hand, if lie knew of this omission, and agreed that the name of Leslie should be inserted, then ho received the title he bargained, and cannot recover.\u201d\nVerdict for the plaintiff in the sum of $14,271.96 and judgment thereupon. Defendants thereupon took this writ, assigning for error, inter alia, the refusal of the above points aud the portion of the charge cited.\nDavid W. Sellers (with whom were Arthur O. Salden and George S. Selden), for the plaintiffs in error.\n\u2014 Plaintiff did not before suit brought, show that ho was ready to perform his part of the contract, nor did he demand performance on the part of the defendants. He cannot therefore maintain this suit: Irvin v. Bleakley, 17 P. F. S. 25; Stephen\u2019s Appeal, 6 Norris 207; Hatton v. Johnson, 2 Norris 219.\nA deed delivered with a blank for a grantee to be thereafter inserted passes title. It is only where the blank is fraudulently filled in that the deed fails: Van Amringe v. Morton. 4 Whart. 382; Sendmeyer v. Association, 14 Wright 67.\nAn alteration or addition in a deed, done with the consent of the parties, does not avoid it. And this principle equally applies whether the alteration or erasure be made in pursuance of an agreement and .consent prior or subsequent to the execution of the deed: Texira v. Evans, 1 Anst. 228 [Lord Mansfield]; Speake v. United States, 9 Cranch 28; Wooley v. Constant, 4 Johnson R. [N. Y.] 54; Owen v. Perry, 25 Iowa 420 ; Devin v. Himer, 29 Iowa 297; Clark v. Allen, 34 Iowa 190; Duncan v. Hodges, 4 McCord [S. C.] 239 ; Waring v. Smyth, 2 Barb. Ch. 123 [N. Y.] ; Doe v. Bingham, 4 Barn. & Ald. 672; Hudson v. Revett, 5 Bingham 368; Paget v. Paget, 1 Rep. in Chan. vol. 2, *410; Shelton v. Deering, 10 B. Monroe 405 [Ky.]; Smith v. Crooker, 5 Mass. 538; Hunt v. Adams, 6 Mass. 519; Van Etta v. Evenson, 28 Wis. 33; Conover v. Porter, 14 Ohio St. 450 ; Berwick v. Huntress, 53 Maine 89; Drury v. Foster, 2 Wallace 24; Knapp v. Maltby, 13 Wend. 587 [N. Y.]; Bank v. Kortwright, 22 Wend. 348 [N. Y.]; Bank v. Curry, 2 Dana 142 [Ky.] ; Jordan v. Neilson, 2 Washington *164 [Vir.] ; Hale v. Russ, 1 Greenleaf 334 [Me.]; Keane v. Smallbone, 84 E. C. L. 179; Aldous v. Cornwell, L. R. 3 Q. B. 573; Breedlove v. Johnston, 2 Martin (N. S.) 517 [La.]; Bell v. Keefe, 13 Louisiana R. 524; Lubbering v. Kohlbrecher, 22 Missouri 596 ; Burnside v. Wayman, 49 Missouri 356 ; Field v. Stagg, 52 Missouri 534; McQuie et al. v. Peay, 58 Missouri 56; Sigfried v. Sevan, 6 S. & R. 308; Stahl v. Berger, 10 S. & R. 170; Barrington v. Bank, 14 S. & R. 423 ; Wiley v. Moor, 17 S. & R. 438 ; Beary v. Haines, 4 Wh. 17.\nThe consent to tlio alteration or addition may be express or it may be implied from circumstances. And where the alteration's such as is necessary to perfect the deed, and does not affect or alter the maker\u2019s liability, it is a presumption in law of authority and consent. At the least the question of consent is for the jury: Texira v. Evans, 1 Aust. 228; Owen v. Perry, 25 Iowa 420 ; Devin v. Himer, 29 Iowa 297 ; Clark v. Allen, 34 Iowa 190; Smith v. Crooker, 5 Mass. 538; Hunt v. Adams, 6 Mass. 519; Van Etta v. Evenson, 28 Wis. 33; Berwick v. Huntress, 53 Maine 86 ; Drury v. Foster, 2 Wallace, 24; Bank v. Kortwright, 22 Wend. 348 ; Bank v. Curry, 2 Dana 142 [Ky.] ; Jordan v. Neilson, 2 Washington *164 [Va.] ; Hale v. Russ, 1 Greenleaf 334 [Me.]; Breedlove v. Johnston, 14 Martin 517 [La.] ; Burnside v. Wayman, 49 Mo. 356; Field v. Stagg, 52 Mo. 534; McQuie v. Peay, 53 Mo. 56; Zouch v. Claye, 2 Lev. 35 ; Adsetts v. Hives, 33 Beav. 56.\nIt makes no difference when a deed comes into the possession of a grantee. The. delivery, in law, dates from the time the grantor assents or agrees that the deed shall become the property of the grantee : Van Amringe v. Morton, 4 Wh. 382 ; Hudson v. Revett, 5 Bingham 368.\nHenry S. Hagert (with whom was Hobert II. Hincldey), for the defendant in error.\n\u2014 Kennedy was entitled to have a deed from Dilworth who was a perfectly responsible man and not from Leslie who was insolvent: Cook v. Grant, 16 S. & R. 198.\nKennedy was not bound to take the title offered him. A vendee is not bound to accept a bad or doubtful title; nor a merely equitable title : Sugden on Vendors, chapter 7, section 3 ; Stoddart v. Smith, 5 Binn. 355; Colwell v. Hamilton, 10 W. 413; Bumberger v. Clippinger, 5 W. & S. 311. And he is held not to have waived objections of which he was ignorant: Gans v. Renshaw, 2 Barr 34.\nWhile there has been much discussion about the damages which vendee may recover from vendor, where the latter is unable to make title, there has never been a doubt expressed of his right to recover back the deposit money or the purchase money paid on account, the contract being still executory, and no deed having been delivered or possession taken under the contract : Sugden Vendors, p. 173 (20 Am. Ed.) ch. 4, \u00a7 3; Hopkins v. Grazebrook, 6 B. & C. 31; Flureau v. Thornhill, 2 W. B. 1078; Hodges v. Litchfield, 1 Bing. N. C. 492 ; Wilde v. Fort, 4 Taunt. 334; Bitner v. Brough, 1 Jones 127; Harris v. Harris, 20 P. F. S. 174; Dumars v. Miller, 10 Casey 319 ; Peters v. McKeon, 4 Denio 546; Gosbell v. Archer, 4 N. & M. 485.\nPlaintiff was entitled to consider the contract of sale rescinded : Farrer v. Nightingal, 2 Esp. 639; Camfield v. Gilbert, 4 Esp. 221; Edwards v. M\u2019Leay, 2 Swanst. *287; Judson v. Wass, 11 Johns. 525; Moore v. Shelly, 2 W. 256; Cleveland v. Sterrett, 20 P. F. S. 205; Borough of Erie v. Vincent, 8 W. 511; Erwin v. Myers, 10 Wr. 96; Wilkinson v. Ferree, 12 H. 191; Smethurst v. Woolston, 5 W. & S. 106 ; Stitzel v. Kopp, 9 W. & S. 31; Porcher v. Gardner, 8 C. B. 461. Under the circumstances of the present case plaintiff was not bound to make tender or demand performance before bringing suit: Moore v. Shelly, 2 Watts 256 ; Hampton v. Speckenagle, 9 S. & R. 221; Kerst v. Ginder, 1 Pitts, 314; Crossgrove v. Himmelrich, 4 P. F. S. 209; Lawrence v. Taylor, 5 Hill, 115 ; Richards v. Allen, 17 Me. 296; Battle v. Bank, 5 Barb. 414; Forsyth v. North American Oil Co., 3 P. F. S. 173, Irvin v. Bleakley, 17 P. F. S. 25 ; Stephen\u2019s Appeal, 6 Norris 207.\nA deed takes effect only from the time that it is delivered to the party to whom it is made or to some person authorized by him to receive it: Green v. Yarnall, 6 Mo. 326. The grantee must be sirfficiently named ; if there is a blank, the deed cannot take effect: Hornbeck v. Westbrook, 9 Johns. 73; Jackson v. Cory, 8 Johns. 385; Hibblewhite v. McMorine, 6 M. & W. 200; Russell v. Topping, 5 McLean 195 ; Rhine v. Robinson, 3 Casey 36; Arthur v. Weston, 22 Mo. 380 ; Douthitt v. Stinson, 63 Mo. 268. Any alteration of or addition to a deed after execution avoids it: Pigot\u2019s case, 11 Rep. 27 a; French v. Patton, 9 East 351; Fazakerly v. McKnight, 6 Ell. & B. 796; Withers v. Atkinson, 1 Watts 249 ; Morris\u2019 Lessee v. Vanderen, 1 Dall. 64; Moore v. Bickham, 4 Binn. 1; Auison v. Harmstead, 2 Barr 191; Miller v. Gilleland, 7 Harris, 119 ; Getty v. Shearer, 8 Harris 12; United States v. Nelson, 2 Brock. 64; Boyd v. Boyd, 2 Nott & McC. 125 ; People v. Organ, 27 Ill. 29; Chase v. Palmer, 29 Ill. 306 ; Miller v. Stewart, 4 Wash. C. C. 26; Chesley v. Frost, 1 N. H. 145; Wright v. Wright, 2 Halst. 175; Bell v. Smith, 1 Green 312; Coit v. Starkweather, 8 Cohn. 289.\nThe cases cited by plaintiffs in error are clearly distinguishable on principle.\nOctober 2d 1882."
+  },
+  "file_name": "0215-01",
+  "first_page_order": 231,
+  "last_page_order": 237
+}

@@ -1,0 +1,78 @@
+{
+  "id": 270292,
+  "name": "In re ADOPTION OF M.R.M., Petition of E.R.",
+  "name_abbreviation": "In re Adoption of M.R.M.",
+  "decision_date": "2002-10-17",
+  "docket_number": "No. 771 WAL 2001",
+  "first_page": "173",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "570 Pa. 173"
+    },
+    {
+      "type": "parallel",
+      "cite": "808 A.2d 926"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "803 A.2d 1195",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11452267,
+        312845
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/803/1195-01",
+        "/pa/569/0269-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 467,
+    "ocr_confidence": 0.637,
+    "sha256": "771e1a337cec555c9610b4b919ace8fc4acb7fdcf2913480d54be5a92eb4ca7e",
+    "simhash": "1:6cbd08cf428b0f07",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T19:40:07.488126+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re ADOPTION OF M.R.M., Petition of E.R."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of October, 2002, the Petition for Allowance of Appeal and the Application to Vacate and Remand are hereby granted, and the case is remanded to the Court of Common Pleas of Allegheny County for further proceedings consistent with this Court\u2019s decision in In re Adoption of R.B.F., 803 A.2d 1195 (Pa.2002).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "808 A.2d 926\nIn re ADOPTION OF M.R.M., Petition of E.R.\nNo. 771 WAL 2001.\nSupreme Court of Pennsylvania.\nOct. 17, 2002."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

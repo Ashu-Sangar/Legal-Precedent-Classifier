@@ -1,0 +1,81 @@
+{
+  "id": 1280944,
+  "name": "Hoffman Will",
+  "name_abbreviation": "Hoffman Will",
+  "decision_date": "1959-01-12",
+  "docket_number": "Appeals, Nos. 204 and 208",
+  "first_page": "391",
+  "last_page": "392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "394 Pa. 391"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Pa. D. & C. 2d 331",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1631760
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/15/0331-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 498,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 6.428965615154966e-08,
+      "percentile": 0.3971528842029014
+    },
+    "sha256": "8f4b33ab6a688871f68259d82dbaeffde4df598c76ce5af230e00a00bbefe841",
+    "simhash": "1:1f529eae6fa07590",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T21:42:42.920804+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen and Bok, JJ."
+    ],
+    "parties": [
+      "Hoffman Will."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe decree is affirmed on the able opinion of President Judge Boyle sur the will contest, and his opinion dismissing the exceptions filed by the contestants, which are reported in 15 Pa. D. & C. 2d 331. Costs to be paid by appellants.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Fred G. Houston, Jr., with him Houston cG Houston, for appellants.",
+      "Valera Grapp, with her Michael A. Hanna, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hoffman Will.\nJanuary 12, 1959:\nArgued November 13, 1958.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen and Bok, JJ.\nFred G. Houston, Jr., with him Houston cG Houston, for appellants.\nValera Grapp, with her Michael A. Hanna, for appellee."
+  },
+  "file_name": "0391-01",
+  "first_page_order": 423,
+  "last_page_order": 424
+}

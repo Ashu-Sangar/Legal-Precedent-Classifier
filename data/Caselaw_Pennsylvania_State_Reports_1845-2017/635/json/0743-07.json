@@ -1,0 +1,70 @@
+{
+  "id": 12283544,
+  "name": "Com. v. Vessels",
+  "name_abbreviation": "Com. v. Vessels",
+  "decision_date": "2016-03-03",
+  "docket_number": "545 EAL (2015)",
+  "first_page": "743",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 743"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 679",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.776,
+    "sha256": "f7ffe53f6894582850f06617f4c3ba29b3f94f434e4e1e5e4bd15864b91eb47b",
+    "simhash": "1:e97f60d6be0b7bd4",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Vessels"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 679",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Vessels\n03/03/2016\n545 EAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0743-07",
+  "first_page_order": 803,
+  "last_page_order": 803
+}

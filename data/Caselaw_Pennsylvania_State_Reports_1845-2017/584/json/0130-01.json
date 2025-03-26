@@ -1,0 +1,82 @@
+{
+  "id": 988572,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Brian THOMAS, Respondent",
+  "name_abbreviation": "Commonwealth v. Thomas",
+  "decision_date": "2005-08-10",
+  "docket_number": "Petition No. 597 EAL 2004",
+  "first_page": "130",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "584 Pa. 130"
+    },
+    {
+      "type": "parallel",
+      "cite": "882 A.2d 461"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813590
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0088-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 380,
+    "ocr_confidence": 0.665,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03454931156217988
+    },
+    "sha256": "fab81a31a5ee73b4b9a629472f99f160e3215d0d9fb8044cf924a7777c72ac37",
+    "simhash": "1:3e2d47b682c105ab",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T19:42:10.084196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Brian THOMAS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of August, 2005, pursuant to Commonwealth v. Devers, 519 Pa. 88, 546 A.2d 12 (1988), the Petition for Allowance of Appeal is GRANTED, and the Order of the Superior Court is REVERSED. Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "882 A.2d 461\nCOMMONWEALTH of Pennsylvania, Petitioner v. Brian THOMAS, Respondent.\nSupreme Court of Pennsylvania.\nAug. 10, 2005."
+  },
+  "file_name": "0130-01",
+  "first_page_order": 454,
+  "last_page_order": 454
+}

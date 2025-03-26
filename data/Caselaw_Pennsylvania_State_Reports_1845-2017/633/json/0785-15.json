@@ -1,0 +1,70 @@
+{
+  "id": 12286680,
+  "name": "Com. v. Leonard",
+  "name_abbreviation": "Com. v. Leonard",
+  "decision_date": "2015-12-11",
+  "docket_number": "358 WAL (2015)",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 785"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 84",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.802,
+    "sha256": "6982f834acbaea720d84a424c6cbacd919007523a31e8ffaa7676a2bf17af934",
+    "simhash": "1:2a52a40c93bb49d0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Leonard"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 84",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Leonard\n12/11/2015\n358 WAL (2015)"
+  },
+  "file_name": "0785-15",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

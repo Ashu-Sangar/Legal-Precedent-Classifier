@@ -1,0 +1,82 @@
+{
+  "id": 1795243,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Benjamin GOLDHAMMER",
+  "name_abbreviation": "Commonwealth v. Goldhammer",
+  "decision_date": "1986-02-28",
+  "docket_number": "",
+  "first_page": "546",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "509 Pa. 546"
+    },
+    {
+      "type": "parallel",
+      "cite": "505 A.2d 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "449 U.S. 117",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715584
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0117-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 789,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.5330875625009783e-08,
+      "percentile": 0.2837005169027229
+    },
+    "sha256": "9f675c2bfd2579ff61f90c163bce389b4a8cfda0ccfc9519c0040f395a42265a",
+    "simhash": "1:9917220999345096",
+    "word_count": 123
+  },
+  "last_updated": "2024-02-27T18:13:32.590987+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. Benjamin GOLDHAMMER."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nAND NOW, this 28th day of February, 1986, in accordance with the mandate of the United States Supreme Court entered December 12, 1985 at No. 84-1852, and upon consideration of the requests of the parties for rebriefing and reargument, it is hereby ordered that the above-captioned matter shall be listed for argument at the April, 1986 Session of Court in Philadelphia. The parties herein are specifically directed to brief the issue of the applicability of United States v. DiFrancesco, 449 U.S. 117, 101 S.Ct. 426, 66 L.Ed.2d 328 (1980), under the federal Double Jeopardy Clause, and any relevant issues under Pennsylvania constitutional and statutory law.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "505 A.2d 601\nCOMMONWEALTH of Pennsylvania, Appellant, v. Benjamin GOLDHAMMER.\nSupreme Court of Pennsylvania.\nFeb. 28, 1986."
+  },
+  "file_name": "0546-01",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

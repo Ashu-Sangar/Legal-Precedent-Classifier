@@ -1,0 +1,100 @@
+{
+  "id": 1279642,
+  "name": "Miller, Appellant, v. Atlantic Refining Company",
+  "name_abbreviation": "Miller v. Atlantic Refining Co.",
+  "decision_date": "1958-06-30",
+  "docket_number": "Appeal, No. 376",
+  "first_page": "466",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "393 Pa. 466"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Pa. D. & C. 2d 713",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1627782
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/12/0713-01"
+      ]
+    },
+    {
+      "cite": "58 A. 2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "358 Pa. 574",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846009
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/358/0574-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 1808,
+    "ocr_confidence": 0.447,
+    "pagerank": {
+      "raw": 1.1136993513284709e-07,
+      "percentile": 0.571321918768237
+    },
+    "sha256": "9616b262bfe52eeca416d278f55cdd1422c1255f8fa30c3b082533c1214679eb",
+    "simhash": "1:9565f60def84220b",
+    "word_count": 299
+  },
+  "last_updated": "2024-02-27T20:57:06.303624+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Chidsey Musmanno, Jones and Cohen, JJ.",
+      "Mr. Justice Musmanno dissents."
+    ],
+    "parties": [
+      "Miller, Appellant, v. Atlantic Refining Company."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Jones,\nThe basic question on this appeal is whether the evidence adduced by the plaintiff would legally justify a finding by a jury that the defendant was responsible for the negligent condition existing on certain described premises which allegedly caused the personal injury for which the plaintiff claims damages. Upon the trial of the case, the jury disagreed and was thereupon discharged by the court without rendering a verdict. Thereafter, the defendant, having submitted a point for binding instructions which the trial judge had declined, moved for judgment on the whole record as authorized by the Act of April 20, 1911, P. L. 70, 12 PS \u00a7684. The court en banc, granted the motion and entered judgment for the defendant; this appeal by the plaintiff followed. Cf. DeWaele v. Metropolitan Life Insurance Company, 358 Pa. 574, 58 A. 2d 34.\nNo factual issue is involved. The question is purely one of law to be resolved on the basis of the uncontroverted facts. The court below in an able opinion by the late Judge Ckumlish correctly concluded that one Dysart, the lessee of the premises involved and the proprietor of the business conducted therein (and not the defendant-owner of the realty), was in exclusive control and management of the property at the time the plaintiff suffered her injury. No useful purpose would be served by reiterating what is so well stated in the opinion for the court below, reported at 12 Pa. D. & C. 2d 713.\nJudgment affirmed.\nMr. Justice Musmanno dissents.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Jones,"
+      }
+    ],
+    "attorneys": [
+      "Samuel H. Stewart, Edwin S. Heins and Raspin, Espenshade, Heins & Erskine, for appellant.",
+      "John J. McDevitt, 3rd, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Miller, Appellant, v. Atlantic Refining Company.\nJune 30, 1958:\nArgued January 7, 1958.\nBefore Jones, C. J., Bell, Chidsey Musmanno, Jones and Cohen, JJ.\nSamuel H. Stewart, Edwin S. Heins and Raspin, Espenshade, Heins & Erskine, for appellant.\nJohn J. McDevitt, 3rd, for appellee."
+  },
+  "file_name": "0466-01",
+  "first_page_order": 504,
+  "last_page_order": 505
+}

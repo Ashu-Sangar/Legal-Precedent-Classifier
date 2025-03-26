@@ -1,0 +1,70 @@
+{
+  "id": 12280519,
+  "name": "Com. v. Drake",
+  "name_abbreviation": "Com. v. Drake",
+  "decision_date": "2015-11-24",
+  "docket_number": "445 EAL (2015)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 725"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1136",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.92,
+    "sha256": "f70831241cb3873e6adcc8cb58ef71b989c03ac220ed334238d5a1fd713435f7",
+    "simhash": "1:9b8238f2a0c14b54",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Drake"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1136",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Drake\n11/24/2015\n445 EAL (2015)"
+  },
+  "file_name": "0725-11",
+  "first_page_order": 769,
+  "last_page_order": 769
+}

@@ -1,0 +1,96 @@
+{
+  "id": 12174354,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Cory Alan DERR, Appellee",
+  "name_abbreviation": "Commonwealth v. Derr",
+  "decision_date": "2015-08-31",
+  "docket_number": "",
+  "first_page": "613",
+  "last_page": "614",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 613"
+    },
+    {
+      "type": "parallel",
+      "cite": "121 A.3d 982"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "117 A.3d 247",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6863226,
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/117/0247-01",
+        "/pa/632/0036-01"
+      ]
+    },
+    {
+      "cite": "632 Pa. 36",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/632/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 307,
+    "ocr_confidence": 0.631,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24712019889962697
+    },
+    "sha256": "14549c803fb989ca2a06f3f9fa93d142bf48b1f86079c06a4ce0bca2c7fe67aa",
+    "simhash": "1:609b4e67ebc5352c",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Cory Alan DERR, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of August, 2015, the Order of the Court of Common Pleas is hereby AFFIRMED. See Commonwealth v. Hopkins, 632 Pa. 36, 117 A.3d 247 (2015).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "121 A.3d 982\nCOMMONWEALTH of Pennsylvania, Appellant v. Cory Alan DERR, Appellee.\nSupreme Court of Pennsylvania.\nAug. 31, 2015."
+  },
+  "file_name": "0613-02",
+  "first_page_order": 667,
+  "last_page_order": 668
+}

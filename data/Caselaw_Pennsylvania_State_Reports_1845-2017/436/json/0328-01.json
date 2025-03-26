@@ -1,0 +1,131 @@
+{
+  "id": 1926085,
+  "name": "Commonwealth v. Stein, Petitioner",
+  "name_abbreviation": "Commonwealth v. Stein",
+  "decision_date": "1969-10-20",
+  "docket_number": "No. 3162A Miscellaneous Docket",
+  "first_page": "328",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "436 Pa. 328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "256 A. 2d 468",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1924301
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/435/0273-01"
+      ]
+    },
+    {
+      "cite": "256 A. 2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 Pa. 301",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1924318
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/435/0301-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 674",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166128
+      ],
+      "weight": 2,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "675"
+        },
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/356/0674-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 956,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 1.1420408488207925e-07,
+      "percentile": 0.5787422355511846
+    },
+    "sha256": "bae186667ffa294ce0e4f9f99a991d8c435dc846142a17d3540e097e88e5d819",
+    "simhash": "1:d05552e9da80f668",
+    "word_count": 157
+  },
+  "last_updated": "2024-02-27T21:46:11.038829+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Stein, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe petition for allocatur consists of a xeroxed copy of a letter from petitioner to counsel, requesting counsel to file an allocatur petition. Since such a petition does not accord with counsel\u2019s required role as an advocate, see Ellis v. United States, 356 U.S. 674, 675, 78 S. Ct. 974, 975 (1958), the case must he remanded so that counsel may file a proper petition. See Commonwealth v. Stancell, 435 Pa. 301, 256 A. 2d 798 (1969); Pa. Supreme Ct. Rule 69 (petitions for allowance of appeal must set forth particularly the questions involved and the reasons in favor of granting the petition) ; cf. Commonwealth v. Villano, 435 Pa. 273, 256 A. 2d 468 (1969).",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "William O. Porter, for petitioner.",
+      "Paul M. Petro, Assistant District Attorney, and Jess D. Costa, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Stein, Petitioner.\nBefore Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nWilliam O. Porter, for petitioner.\nPaul M. Petro, Assistant District Attorney, and Jess D. Costa, District Attorney, for Commonwealth, appellee.\nOctober 20, 1969:"
+  },
+  "file_name": "0328-01",
+  "first_page_order": 378,
+  "last_page_order": 379
+}

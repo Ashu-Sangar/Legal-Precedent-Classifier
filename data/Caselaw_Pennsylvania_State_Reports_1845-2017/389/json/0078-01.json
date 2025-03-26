@@ -1,0 +1,68 @@
+{
+  "id": 1274053,
+  "name": "Hammer Estate",
+  "name_abbreviation": "Hammer Estate",
+  "decision_date": "1957-05-27",
+  "docket_number": "Appeals, Nos. 58 and 59",
+  "first_page": "78",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "389 Pa. 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 390,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 7.128503973549111e-08,
+      "percentile": 0.4280066135129886
+    },
+    "sha256": "0348f632fa2afe7525a8c53937cc6ec3d92a03ea6795cbcc9a0df50b7f7cf619",
+    "simhash": "1:f152b6cf07a0b06b",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T20:58:05.857088+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Chidsey, Musmanno, Arnold, Jones and Cohen, JJ."
+    ],
+    "parties": [
+      "Hammer Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe decree of the Orphans\u2019 Court is affirmed on the Opinion of Judge Lansberry, which is reported in 8 D. & C. 2d 247. Each party shall pay his or their respective costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Charles II. Co froth, for appellant.",
+      "Frank A. Orban, Jr., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hammer Estate.\nMay 27, 1957:\nArgued March 27, 1957.\nBefore Jones, C. J., Bell, Chidsey, Musmanno, Arnold, Jones and Cohen, JJ.\nCharles II. Co froth, for appellant.\nFrank A. Orban, Jr., for appellee."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 100,
+  "last_page_order": 101
+}

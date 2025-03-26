@@ -1,0 +1,81 @@
+{
+  "id": 1294525,
+  "name": "Wheelock Trust",
+  "name_abbreviation": "Wheelock Trust",
+  "decision_date": "1960-09-26",
+  "docket_number": "Appeal, No. 64",
+  "first_page": "193",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "401 Pa. 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "21 Pa. D. & C. 2d 753",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1647379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/21/0753-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 76,
+    "char_count": 634,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 7.40576461183852e-08,
+      "percentile": 0.4429516933226609
+    },
+    "sha256": "d729bdf78fba5a83aab1a21a19fccecf4629bee4bf22b6de288dd512f315fbf0",
+    "simhash": "1:5d0e0103ca8a6f89",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T17:18:00.860993+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "Wheelock Trust."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nDecree affirmed on opinion of Judge Taxis, 21 Pa. D. & C. 2d 753. Each party to pay its own costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Irvin Stander, Special Assistant Attorney General, with him Edward J. Ozorowslci, Special Assistant Attorney General, Ralph S. Snyder, Assistant Attorney General, and Anne X. Alpern, Attorney General, for Commonwealth, appellant.",
+      "Guthbert H, Latta, with him Louis D. Stefan, Gormae J. Malloy, and Barnes, Dechert, Price, Myers & Rhoads, and High, Swartz, Ghilds & Roberts, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Wheelock Trust.\nSeptember 26, 1960:\nArgued June 1, 1960.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nIrvin Stander, Special Assistant Attorney General, with him Edward J. Ozorowslci, Special Assistant Attorney General, Ralph S. Snyder, Assistant Attorney General, and Anne X. Alpern, Attorney General, for Commonwealth, appellant.\nGuthbert H, Latta, with him Louis D. Stefan, Gormae J. Malloy, and Barnes, Dechert, Price, Myers & Rhoads, and High, Swartz, Ghilds & Roberts, for appellees."
+  },
+  "file_name": "0193-01",
+  "first_page_order": 211,
+  "last_page_order": 212
+}

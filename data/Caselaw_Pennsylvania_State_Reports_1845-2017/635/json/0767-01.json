@@ -1,0 +1,80 @@
+{
+  "id": 12286724,
+  "name": "St. Hilaire v. Office of Open Records (Pennsylvania Dept. of Corrections); Pennsylvania Dept. of Corrections, In re",
+  "name_abbreviation": "St. Hilaire v. Office of Open Records (Pennsylvania Dept. of Corrections)",
+  "decision_date": "2016-04-06",
+  "docket_number": "976 MAL (2015)",
+  "first_page": "767",
+  "last_page": "767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 767"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "128 A.3d 859",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6768168
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/128/0859-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 209,
+    "ocr_confidence": 0.879,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24941029380477395
+    },
+    "sha256": "07ed2e4cec942f28468c86d0fa968680bb7e9ee8069034cd2f907cb5d12c9d9a",
+    "simhash": "1:046fc5497f61745e",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "St. Hilaire v. Office of Open Records (Pennsylvania Dept. of Corrections); Pennsylvania Dept. of Corrections, In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 128 A.3d 859",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "St. Hilaire v. Office of Open Records (Pennsylvania Dept. of Corrections); Pennsylvania Dept. of Corrections, In re\n04/06/2016\n976 MAL (2015)\n. Justice WECHT notes his dissent."
+  },
+  "file_name": "0767-01",
+  "first_page_order": 827,
+  "last_page_order": 827
+}

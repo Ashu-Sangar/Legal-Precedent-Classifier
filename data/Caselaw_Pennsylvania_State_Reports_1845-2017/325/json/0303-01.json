@@ -1,0 +1,120 @@
+{
+  "id": 1172303,
+  "name": "Winsmore's Estate",
+  "name_abbreviation": "Winsmore's Estate",
+  "decision_date": "1937-03-22",
+  "docket_number": "Appeal, No. 31",
+  "first_page": "303",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "325 Pa. 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "323 Pa. 173",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169582
+      ],
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0173-01"
+      ]
+    },
+    {
+      "cite": "321 Pa. 248",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165897
+      ],
+      "pin_cites": [
+        {
+          "page": "260, 261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/321/0248-01"
+      ]
+    },
+    {
+      "cite": "322 Pa. 142",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1167872
+      ],
+      "pin_cites": [
+        {
+          "page": "143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/322/0142-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 120,
+    "char_count": 1071,
+    "ocr_confidence": 0.473,
+    "pagerank": {
+      "raw": 6.059353071724567e-08,
+      "percentile": 0.3746508001045621
+    },
+    "sha256": "4bb010ed3d4a19c04601361eb104b3d4926367de04e3bb2dd16042f7c730e584",
+    "simhash": "1:5974b718d795b94c",
+    "word_count": 181
+  },
+  "last_updated": "2024-02-27T21:04:23.471266+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kepi-iart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Winsmore\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe sole question to be determined op this appeal is whether the ownership of an account with a brokerage firm was in decedent or her son. The court below found from sufficient evidence that this account, nominally in decedent\u2019s name on its books, was in fact the account of her son, and that it was opened with that understanding and treated by the firm as his account. It concluded that the debit balance was the personal obligation of her son. These findings are supported by evidence and must be accepted as binding on this appeal: Seidel\u2019s Estate, 322 Pa. 142, 143; Pusey\u2019s Estate, 321 Pa. 248, 260, 261. As this was a claim against a decedent\u2019s estate, the burden rested on appellant to clearly establish it: Donlevy\u2019s Estate, 323 Pa. 173, 176.\nDecree affirmed at appellant\u2019s cost.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "James J. O\u2019Brien, of Fox, Rothschild, O\u2019Brien & Franhel, with him George T. Butler, for appellant.",
+      "J. II. Ward Hinlcson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Winsmore\u2019s Estate.\nArgued January 11, 1937.\nBefore Kepi-iart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nJames J. O\u2019Brien, of Fox, Rothschild, O\u2019Brien & Franhel, with him George T. Butler, for appellant.\nJ. II. Ward Hinlcson, for appellee.\nMarch 22, 1937:"
+  },
+  "file_name": "0303-01",
+  "first_page_order": 345,
+  "last_page_order": 346
+}

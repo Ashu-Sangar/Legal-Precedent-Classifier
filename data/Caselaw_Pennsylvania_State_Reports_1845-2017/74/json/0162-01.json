@@ -1,0 +1,106 @@
+{
+  "id": 1034713,
+  "name": "Buffington et al. versus Summit Branch Railroad Company et al.",
+  "name_abbreviation": "Buffington v. Summit Branch Railroad",
+  "decision_date": "1873-07-02",
+  "docket_number": "",
+  "first_page": "162",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "74 Pa. 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Wright 278",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 5,
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 504",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848506
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/8/0504-01"
+      ]
+    },
+    {
+      "cite": "7 Wright 278",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Watts 504",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848506
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0504-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 647,
+    "char_count": 11688,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 1.0035244491620538e-07,
+      "percentile": 0.5395505683922113
+    },
+    "sha256": "6105bc147946bd6fc6ba4080c30636083b41c8b7c529f9f7f5d49df5403fb936",
+    "simhash": "1:6d5504b64224f89f",
+    "word_count": 2042
+  },
+  "last_updated": "2024-02-27T21:40:01.893306+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Read, 0. J.,' Agnew, Sharswood, Williams and Mercur, JJ."
+    ],
+    "parties": [
+      "Buffington et al. versus Summit Branch Railroad Company et al."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, July 2d 1873, by\nSharswood, J. \u2014\nA former ejectment for the same tract of land as that now\u2019 in controversy was brought by writ of error before this court in 1862, and the title of the present plaintiffs was decided to be bad by a solemn adjudication and without a dissent: Buehler\u2019s Heirs v. Buffington, 7 Wright 278. The judgment of the Court of Common Pleas of Dauphin county was reversed, and a venire facias de novo awarded. When the cause had been remitted and was again ordered for trial in that court March 23d 1863, the plaintiffs suffered a nonsuit. The defendants then sold their interest to others, and it was finally vested in the Summit Branch Railroad Company. Six years after the nonsuit in the first ejectment, the present suit was commenced. The main question in that controversy, and the decision of which we are now asked to reconsider, arose upon the construction of the will of Daniel Williams. The determination cast no doubt whatever upon the principle so well settled in Alexander v. McMurry, 8 Watts 504, and other cases which have followed in its wake, that when executors are directed by will to sell land for the payment of debts, a trust is created, and the limitation of the lien of debts upon the land of a decedent under the Acts of Assembly has no application. On the contrary that principle was distinctly recognised and re-affirmed, but the decision was rested on the peculiar phraseology of the will. It was held that the clause which directed that the proceeds of the sale should be appropriated to pay all just demands brought to the executors \u201cin due and lawful time,\u201d distinguished this case from all others, and constituted it an exception. \u201c Surely,\u201d said Mr. Chief Justice Lowrie, \u201c this clause is sufficient to show that the testator did not intend to supplant the temporary charge of the law by a permanent one of Ms own creation, for he refers to the \u2018 lawful time;\u2019 and moreover that is not mere formal language. He may not have known or thought of any special legal limitation, but his language shows that he was willing to trust to the law for a proper one. He dedicated his land for his debts just as the law dedicated it. We think, therefore, that the devise does not reject but retains the limitation in the Act of 1794 (repeated in 1797), and that this debt had ceased to be a lien or charge on the land at the time of the first effective process for its recovery, and consequently that the sale under the judgment passed no title to the purchaser.\u201d\nIf there is any case to which the principle of stare decisis should be sternly applied, this is that case. Even if convinced that the former determination was clearly wrong, no court ought ever to overrule its own decision upon the very same title upon the faith of which purchasers have invested their money; more especially ought this rule to be adhered to when the decision is founded upon the construction of the words of a will, and forms no precedent except in a question arising upon a will in precisely the same language. If any counsel desirous of securing the legal limitation of the lien of debts, but at the same time of ordering a sale and creating a trust, should have followed the precise words of the will of Daniel Williams to accomplish the intention of the testator, his client, he would have had the best reason in the world to believe that he was safe. In every point of view it would be palpable injustice not only to the purchasers now before us, but to the profession and the public, to reconsider and overrule the former decision of the court. We affirm this judgment, on the authority of Buehler\u2019s Heirs v. Buffington.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Sharswood, J. \u2014"
+      }
+    ],
+    "attorneys": [
+      "F. W. Hughes and Hamilton Alricks, for plaintiffs in error.\u2014",
+      "J. W. Simonton, for defendants in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Buffington et al. versus Summit Branch Railroad Company et al.\n1. A testator in 1794 directed his debts to be paid \u201cin due and lawful time,\u201d and afterwards directed his executors to sell and convey \u201c the residue and remainder\u201d of his estate, \u201c and the money arising therefrom to be applied to pay the debts and legacies above.\u201d Held, that this did not continue the charge on his land or its proceeds, and a sale of the land upon a judgment in a suit commenced after seven years, passed no title.\n2. The maxim, \u201c Stare decisis,\u201d applied.\n3. Alexander v. McMurry, 8 Watts 504, recognised and distinguished. Buehler v. Buffington, 7 Wright 278, followed.\nMay 22d 1873.\nBefore Read, 0. J.,' Agnew, Sharswood, Williams and Mercur, JJ.\nError to the Court of Common Pleas of Dauphin county: No. 72, to May Term 1873.\nThis was an action of ejectment brought June 2d 1869, by Lee W. Buffington and Sarah R. his wife, Rebecca M. Robertson, George G. Wheelock and Margaret his wife, Catharine Robertson, Robert H. Robertson, James T. Carter and Mahlon K. Taylor, against The Summit Branch Railroad Company, Joseph Anthony and William E. Ray, for a tract of 300 acres of land.\nThe same title was passed upon in Buehler v. Buffington, 7 Wright 278, where the whole facts of the case are given.\nThis case was tried November 25th 1872, before Pearson, P. J.\nBoth parties claimed under Daniel Williams, who died on or about the 9th day of December 1797, on which day his will, dated May 2d 1794, was proved.\nHe directed that \u201c all just accounts and demands brought in against me or my estate, to my executors in due and lawful time, be paid.\u201d\nAfter giving a number of legacies and devising a house and lot in Philadelphia, he further provided:\u2014\n\u201cAnd respecting the residue and remainder of my estate, in possession, right or expectancy, I order and empower my executors hereinafter named, and the survivor of them, to sell and dispose of the same, at private or public sale, and to make such title-deeds or conveyances to the buyers as I could do, and the money arising therefrom to be applied to pay the debts and legacies above. Then the residue and remainder of my estate I give to my said daughter Sarah, and son Daniel equally, share alike.\n\u201c And I do hereby appoint my aforesaid daughter, Deborah Field, my daughter Sarah and said son Daniel, to he the executors to this my last will and testament.\u201d\nLetters testamentary were issued to all the executors. Sarah .afterwards married John Moulston. On the 19th of December 1801, John Field (the husband of Deborah, one of the executors) commenced an action in the Supreme Court against \u201c Sarah Moulston, executrix of Daniel Williams and John Moulston, her husband, and Deborah Field, executrix of Daniel Williams, who survived Daniel Williams, the younger, also executor.\u201d\nThe writ was returned, \u201c Served on Deborah Field and nihil hahet as to the other party.\u201d On the 29th of December 1801, \u201cjudgment by consent of Mr. Brinton, counsel for Deborah Field, 7937 4s. 6c7\u201d In September 1803, a scire facias on this judgment was issued by-John Field against \u201c Sarah Moulston and husband and Deborah Field, executors of Daniel Williams, and returned \u201c Made known to Sarah Moulston.\u201d On the 29th of July 1807, the death of Deborah Field and the renunciation of Sarah Moulston were suggested, and Clayton Earl and Thomas Mitchell, administrators d. b. n. c. t. a., were substituted as defendants. The case was referred to arbitrators, who, on the 13th of January 1808, awarded for plaintiffs 10807 6s. Id., and \u201c do not find any assets.\u201d After exceptions to the award it was confirmed, and judgment entered on it April 2d 1808.\nUnder a testatum execution to Dauphin county, the land was returned sold to John Field for $212.19, October 15th 1808, and deed made to him by the sheriff, and acknowledged June 1st 1809. The plaintiffs by a number of intermediate conveyances derive their title from John Field\nThe defendants gave in evidence deed December 1st 1806, from John Moulston and Sarah his wife to George Moulston, she conveying as executrix for all the lands of Daniel Williams, including the tract in dispute; and reconveyance, September 29th 1807, to Sarah Moulston; devise April 10th 1833, of the premises, by Sarah Moulston to her children John and Deborah. \u25a0 Deed September 26th 1835, John and Deborah Moulston to Henry Buehler. Patent March 29th 1837, to Henry Buehler.\nThe defendants then gave in evidence the record of the suit reported in 7 Wright 278.\nAlso record of the trial, March 23d 1863, when plaintiffs suffered a nonsuit, and evidence deducing the title from Buehler, after the decision of the former case, to the present defendants. Judge Pearson, amongst other things, charged:\u2014\n* * * \u201cWe come now to a much more difficult and important branch of this case: had the debt due to John Field by Daniel Williams ceased to be a lien on his land at the time of the sale ? If it had, the sheriff\u2019s deed confers no title. Prior to the 19th of April 1794, the lands of decedents were, to all intents and purposes, considered chattels for the payment of debts, and the lien thereof was indefinite as to time and extent, but embraced all the real estate of the decedent within the Commonwealth. On that day an act was passed limiting the lien as to time, but not as to extent. The statute requires that a demand shall be made, or an action for the recovery of the debt be commenced, and duly prosecuted against the executor or administrator, within the period of seven years from the death of the debtor ; or where the debt is not payable, a copy filed in the office of the prothonotary of the county where the lands lie, within that time. This act, with a slight alteration, was re-enacted on the 4th of April 1797. The original law was in force when Daniel Williams made his will, and therefore his debts came within its provisions.\n\u201c Was the proceeding of John Field,' against the executors of Daniel Williams, in time to keep up the lien given by law against the estates of decedents ? * * * Everything connected with the case was a nullity, and when a regular judgment was obtained, the lien on the land was gone twice over. We considered on the former trial that the claim against the land was kept alive by the provisions of Daniel Williams\u2019s will,buttbe Supreme Court decided that this debt was not brought against the estate, \u2018 in due and lawful time,\u2019 and therefore could not be paid. That decision is conclusive on us, and our instruction is binding on you. We therefore say, that Field\u2019s judgment was not a lien on this land, consequently the plaintiffs have no title, and cannot recover. Their whole title depends on the judgment, and the sheriff\u2019s deed under it. * * * We consider that every question of any moment connected with this title, wras settled by the Supreme Court on the former trial. On the faith of that decision, the land passed through many hands, at very high prices, and purchasers should feel that they could rely on the decisions of our court of the last resort, either in buying or improving. Stare decisis is a very important principle in regard to land titles, and one to \u25a0which the good of the country requires that we should yield, whether it coincides with our original opinions or otherwise.\u201d * *\nThe verdict was for the defendants.\nThe plaintiffs took a writ of error and assigned the charge for error.\nF. W. Hughes and Hamilton Alricks, for plaintiffs in error.\u2014\nThe order by the testator to sell this land was a conversion, and the descent was broken; there is no limitation of charges against personal estate of a decedent: Dundas\u2019s Appeal, 14 P. F. Smith 325; Brown\u2019s Appeal, 3 Casey 62. A sale under judgment against the personal representatives passes a good title: Leiper v. Castner, 10 P. F. Smith 177; Baldy v. Brady, 3 Harris 103; Willing v. Peters, 7 Barr 287.\nJ. W. Simonton, for defendants in error,\ncited Buehler v Buffington, supra; Miller & Bowman\u2019s Appeal, 10 P. F. Smith 407."
+  },
+  "file_name": "0162-01",
+  "first_page_order": 162,
+  "last_page_order": 166
+}

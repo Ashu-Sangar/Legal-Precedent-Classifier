@@ -1,0 +1,70 @@
+{
+  "id": 12282400,
+  "name": "Com. v. Milisits",
+  "name_abbreviation": "Com. v. Milisits",
+  "decision_date": "2015-12-28",
+  "docket_number": "433 WAL (2015)",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 83",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "ocr_confidence": 0.728,
+    "sha256": "1d65ae7f30375342fbd082ae3dfa019cba099614e3170f2a7a95121aa742868f",
+    "simhash": "1:4d7af3dcbf0fe3dc",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Milisits"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 83",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Milisits\n12/28/2015\n433 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter,"
+  },
+  "file_name": "0745-02",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

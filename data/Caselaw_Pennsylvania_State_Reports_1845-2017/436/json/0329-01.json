@@ -1,0 +1,89 @@
+{
+  "id": 1926063,
+  "name": "Commonwealth, v. McFall, Petitioner",
+  "name_abbreviation": "Commonwealth v. McFall",
+  "decision_date": "1969-10-20",
+  "docket_number": "No. 3095-A Miscellaneous Docket",
+  "first_page": "329",
+  "last_page": "330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "436 Pa. 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "256 A. 2d 468",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1924301
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/435/0273-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 759,
+    "ocr_confidence": 0.468,
+    "pagerank": {
+      "raw": 9.630202327013341e-08,
+      "percentile": 0.5272911663961876
+    },
+    "sha256": "25b0b94765d0d80c2730575079a6dd98ec82467115ba42f6753eeb2f0ee0d036",
+    "simhash": "1:3c08b9a1c8bdc7a9",
+    "word_count": 120
+  },
+  "last_updated": "2024-02-27T21:46:11.038829+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Commonwealth, v. McFall, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nAppellant\u2019s counsel in the Superior Court filed a brief which was merely a xeroxed copy of a brief wholly prepared by appellant himself. This clearly constitutes a denial of appellant\u2019s right to effective assistance of counsel on his appeal. Commonwealth v. Villano, 435 Pa. 273, 256 A. 2d 468 (1969). The judgment of the Superior Court is therefore vacated and the case remanded so that the Superior Court may consider the appeal upon the filing of a brief properly prepared by counsel.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Donald E. Williams, Public Defender, for petitioner.",
+      "Kenneth E. Fox, Jr., District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth, v. McFall, Petitioner.\nBefore Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nDonald E. Williams, Public Defender, for petitioner.\nKenneth E. Fox, Jr., District Attorney, for Commonwealth, appellee.\nOctober 20, 1969:"
+  },
+  "file_name": "0329-01",
+  "first_page_order": 379,
+  "last_page_order": 380
+}

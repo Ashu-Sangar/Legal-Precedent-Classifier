@@ -1,0 +1,702 @@
+{
+  "id": 880544,
+  "name": "John H. Martin, Appellant, v. William Baird",
+  "name_abbreviation": "Martin v. Baird",
+  "decision_date": "1896-05-18",
+  "docket_number": "Appeal, No. 331",
+  "first_page": "540",
+  "last_page": "554",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 Pa. 540"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "31 Pa. 295",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        985119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/31/0295-01"
+      ]
+    },
+    {
+      "cite": "31 Pa. 131",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        985050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/31/0131-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 401",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0401-01"
+      ]
+    },
+    {
+      "cite": "7 Watts, 261",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0261-01"
+      ]
+    },
+    {
+      "cite": "3 Watts, 188",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841250
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0188-01"
+      ]
+    },
+    {
+      "cite": "96 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        494670
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/96/0192-01"
+      ]
+    },
+    {
+      "cite": "16 Pa. 25",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        410236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/16/0025-01"
+      ]
+    },
+    {
+      "cite": "166 Pa. 344",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        864168
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/166/0344-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057858
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/87/0382-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 158",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988417
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0158-01"
+      ]
+    },
+    {
+      "cite": "36 W. N. C. 284",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 W. & S. 149",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856423
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0149-01"
+      ]
+    },
+    {
+      "cite": "32 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        986778
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/32/0371-01"
+      ]
+    },
+    {
+      "cite": "123 Pa. 298",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/123/0298-01"
+      ]
+    },
+    {
+      "cite": "120 Pa. 33",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559785
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/120/0033-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 217",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/37/0217-01"
+      ]
+    },
+    {
+      "cite": "39 Pa. 535",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        996320
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/39/0535-01"
+      ]
+    },
+    {
+      "cite": "128 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        567102
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/128/0153-01"
+      ]
+    },
+    {
+      "cite": "106 Pa. 49",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        455680
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/106/0049-01"
+      ]
+    },
+    {
+      "cite": "102 Pa. 397",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        502651
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/102/0397-01"
+      ]
+    },
+    {
+      "cite": "86 Pa. 39",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056664
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/86/0039-01"
+      ]
+    },
+    {
+      "cite": "74 Pa. 314",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "66 Pa. 237",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        432369
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/66/0237-01"
+      ]
+    },
+    {
+      "cite": "55 Pa. 369",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1470631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/55/0369-01"
+      ]
+    },
+    {
+      "cite": "38 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/38/0046-01"
+      ]
+    },
+    {
+      "cite": "5 W. & S. 427",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        478435
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/5/0427-01"
+      ]
+    },
+    {
+      "cite": "1 Dal. 424",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "163 Pa. 438",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        859053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/163/0438-01"
+      ]
+    },
+    {
+      "cite": "160 Pa. 156",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        852123
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/160/0156-01"
+      ]
+    },
+    {
+      "cite": "151 Pa. 312",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        836739
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/151/0312-01"
+      ]
+    },
+    {
+      "cite": "44 Pa. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        484253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/44/0200-01"
+      ]
+    },
+    {
+      "cite": "26 Pa. 178",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977345
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/26/0178-01"
+      ]
+    },
+    {
+      "cite": "69 Pa. 474",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1026415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/69/0474-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/72/0186-01"
+      ]
+    },
+    {
+      "cite": "132 Pa. 467",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970501
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/132/0467-01"
+      ]
+    },
+    {
+      "cite": "56 Pa. 424",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1009171
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/56/0424-01"
+      ]
+    },
+    {
+      "cite": "10 Watts, 387",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1851016
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0387-01"
+      ]
+    },
+    {
+      "cite": "11 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404611
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/11/0503-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. 314",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063215
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/89/0314-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 120",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        550034
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/114/0120-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        549986
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/114/0035-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 67",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        549984
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/114/0067-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 519",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/100/0519-01"
+      ]
+    },
+    {
+      "cite": "137 Pa. 606",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        821473
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/137/0606-01"
+      ]
+    },
+    {
+      "cite": "21 Pa. 76",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        411587
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/21/0076-01"
+      ]
+    },
+    {
+      "cite": "1 P. & W. 198",
+      "category": "reporters:state",
+      "reporter": "Pen. & W.",
+      "case_ids": [
+        1826162
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pen-w/1/0198-01"
+      ]
+    },
+    {
+      "cite": "166 Pa. 844",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1013197
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/58/0485-01"
+      ]
+    },
+    {
+      "cite": "21 Pa. 263",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        411555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/21/0263-01"
+      ]
+    },
+    {
+      "cite": "73 Pa. 398",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Watts, 42",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts, 327",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1840073
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/2/0327-01"
+      ]
+    },
+    {
+      "cite": "117 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        555808
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/117/0183-01"
+      ]
+    },
+    {
+      "cite": "73 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032295
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/73/0393-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. 241",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "107 Pa. 446",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8858119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/107/0446-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1171,
+    "char_count": 32030,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 2.611102837124235e-07,
+      "percentile": 0.8204532387795582
+    },
+    "sha256": "8abf71c65f80b0e6e2287f98db80446c0dc9b8effcf862c905fbc3ea5f33334e",
+    "simhash": "1:aa6266ea24167bc1",
+    "word_count": 5536
+  },
+  "last_updated": "2024-02-27T19:17:55.532791+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Green, Williams, McCollum, Dean and Fell, JJ."
+    ],
+    "parties": [
+      "John H. Martin, Appellant, v. William Baird."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nAfter a careful examination and study of the record in this case we are convinced that the findings of fact and conclusions of law contained in the opinion of the learned court below are correct, and should be sustained. While it is apparent that the parties intended to form a partnership it is manifest that it was a partnership to be formed in the future. It is equally clear that in point of fact the partnership never was formed. The negotiations to that end were never completed and did not .reach to an actual agreement. Without going into details, it is sufficient to say that we approve of the findings of fact and law as expressed in the opinion, and upon those findings we affirm the decree.\nDecree affirmed and appeal dismissed at the cost of the appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Samuel S. Mehard, Pearson Church with him, for appellant.",
+      "P. C. Knox, George F. Davenport and Shiras & Dickey with him, for appellee. \u2014",
+      "Samuel S. Mehard, Pearson Church with him, for appellant, in reply. \u2014"
+    ],
+    "corrections": "",
+    "head_matter": "John H. Martin, Appellant, v. William Baird.\nTrusts and trustees \u2014 Act of April 22, 1856 \u2014 Evidence.\nUnder the act of April 22, 1856, P. L. 532, when a trust is set up, the written evidence thereof signed by the party holding the legal title should contain within itself all that is necessary to enable a chancellor to declare the trust and to make a decree in favor of the beneficiary, and parol evidence cannot be introduced to supply any missing link in the chain of testimony.\nThe plaintiff owned a one fourth interest in a hotel property. Defendant proposed to purchase the property, and to associate himself with the plaintiff in partnership to carry on the business of the hotel. Prior to the sale defendant signed the following agreement: \u201c I hereby agree to pay the sum of seventy thousand dollars or more for the Riverside hotel property, to be purchased either at public or private sale, under the conditions set forth in the decree as advertised by the master appointed by the court. I further agree that should I become the purchaser to sell or transfer to J. H. Martin (the plaintiff), now owner of a one-fourth interest in said property, a quarter upon the same basis as price paid and same terms of payment.\u201d The sale of the propertjr was made, and a deed executed to defendant. The court found as a fact that the property was bought by the defendant with the understanding that the title to the whole should be conveyed to him, and that no conveyance should be made to the plaintiff until the partnership had been formed by articles of agreement in writing signed by the parties. Plaintiff and defendant failed to agree upon partnership articles. Held, that the memorandum in writing signed by the defendant was insufficient to establish a trust in favor of plaintiff as to any part of the premises purchased by defendant.\nTrusts and trustees \u2014 Resulting trust \u2014 Fraud\u2014Evidence.\nThe evidence to establish a resulting trust, especially one arising ex maleficio which is an imputation of fraud, should be clear, explicit and unequivocal.\nPlaintiff owned one fourth interest in a hotel property. Defendant proposed to buy the property, and he and the plaintiff entered into negotiations to form a partnership to carry on the business of the hotel. Prior to the sale the defendant signed a memorandum by which he agreed to sell to the plaintiff a quarter interest upon the same basis as he purchased the property. The sale was made, and the plaintiff with the other owners conveyed the property to the defendant. The plaintiff and defendant could not agree upon terms of partnership, and no partnership was actually formed. The evidence showed that there was no fraud or deception pi'acticed by the defendant. It did not appear that the plaintiff parted with his interest in the property on the inducement of the contemplated partnership. Held, that the evidence was insufficient to show a resulting trust in plaintiff\u2019s favor.\nArgued May 1, 1896.\nAppeal, No. 331, Jan. T., 1896, by plaintiff, from decree of C. P. Crawford Co., May T., 1895, No. 2, dismissing bill in equity.\nBefore Green, Williams, McCollum, Dean and Fell, JJ.\nAffirmed.\n\u25a0 Bill in equity to declare a trust, and for an account.\nThe facts appear by the opinion of Henderson, P. J., which was as follows :\nFINDINGS OF FACT.\nOn, and for a considerable time prior to January 28, 1895, W. D. Rider, E. Y. Breck and J. H. Martin, the plaintiff, were the owners of a piece of real estate at Cambridgeboro in this county, having thereon a large hotel known as the Riverside hotel; together with the furniture and fixtures, etc., therein, and the barns, bottling works, bath houses, electric light house, laundry, etc., appurtenant thereto; which property is particularly described in the first paragraph of the plaintiff\u2019s bill. W. D. Rider owned the undivided one half of this property, and E. Y. Breck and J. H. Martin each the undivided one fourth. The property was used and managed by the owners as partners, under the firm name of Rider, Martin & Breck ; Rider having a half interest in the firm and Martin and Breck each a one fourth interest.\nPrior to January 28, 1895, the court of common pleas of this county decreed a sale of the property of said firm, described in the first paragraph of plaintiff\u2019s bill; and the same was advertised for sale by the master under said order, and the time for the sale fixed for January 29, 1895.\nWilliam Baird, the defendant, having seen the adverfcisment of the master\u2019s sale in a paper at Pittsburg, went to Cambridgeboro about January 20, 1895, and examined the property with reference to a purchase of it; at which time he discussed the subject of purchase of the property with the plaintiff, and had under consideration the project of buying the property and forming a partnership with plaintiff for the management of the hotel business, after the sale.\nThe defendant returned to Cambridgeboro on January 28, 1895, for the purpose of attending the master\u2019s sale of the property advertised to be held the day following. The subject of the purchase of the property by the defendant, and the formation of a partnership by the plaintiff and defendant thereafter, was again considered, and the conclusion reached that if the defendant should purchase the property at. the master\u2019s sale, the plaintiff and defendant would form a partnership by articles of agreement in writing, for the conduct of the business of the hotel and sanitarium.\nThe partnership was not then formed, nor were the details of an agreement of partnership assented to, the arrangement being that the details of the contract of partnership and the written evidence thereof should be completed after the purchase by the defendant. It was also agreed between the parties that if the defendant should purchase the property, he would sell to the plaintiff an undivided one fourth thereof at the same price which he might pay therefor at the sale; and in pursuance of that agreement the defendant gave to the plaintiff a paper in the form following:\n\u201c Cambridgeboro, Pa., Jan\u2019y 28,1895.\n\u201cI hereby agree to pay the sum of seventy thousand dollars or less for the Riverside Hotel property, to be purchased either at public or private sale, under the conditions set forth in the decree as advertised by the master appointed by the court. I further agree that should I become the purchaser, to sell or transfer to J. H. Martin, now owner of one-fourth interest of said property, a quarter upon the same basis as price paid, and same terms of payment.\n\u201cWitness: Wiletam Baerd.\n\u201c W. E. Kemberling.\u201d\nAfter the delivery of the foregoing paper and later in the same day the defendant concluded to purchase the property at a private sale from the owners, if practicable, and stated to the plaintiff that he intended to see Rider and Breck to ascertain whether they would sell, and at what price. The plaintiff objected to such action, but the defendant nevertheless entered into negotiations with Rider and Breck, the result of which was that they offered to sell their respective interests in the property at the rate of $75,000 for the whole. The defendant informed the plaintiff of this fact, and asked him whether he was willing to sell at the same rate ; the plaintiff stated that he was, whereupon the article of agreement, a copy of which is attached to defendant\u2019s answer and marked exhibit \u201c A,\u201d was entered into between W. D. Rider, E. Y. Breck and J. H. Martin of the first part, and William Baird of the second part, by the terms of which first parties agreed to sell to the second party all the real estate used by them, in the conduct of the business of the Hotel Riverside, and all the personal property owned by the firm of Rider, Martin & Breck, except cash on hand and book accounts; and to deliver to the second party good and sufficient conveyances therefor on or before February 5, 1895. In consideration for which second party agreed to pay first parties $75,000, in proportion to their respective interests in said property, and according to the terms particularly set forth in the said agreement. No other consideration was agreed upon nor offered by the defendant to the plaintiff as an inducement to execute the article of agreement last referred to than that which is stated in the agreement.\nJust after the execution and delivery of this agreement the plaintiff asked the defendant whether he was still' willing to go into partnership with him; he stated that he was, and by agreement of the parties the memorandum signed by William Baird, above recited, relating to the purchase of the property in the master\u2019s sale for $70,000 was altered by inserting the word \u201cmore\u201d instead of the word \u201cless,\u201d so as to read:\n\u201c Camcbridgbboeo, Pa., January 28, 1895.\n\u201c I hereby agree to pay the sum of seventy thousand dollars or more for the Riverside Hotel property, to be purchased either at public or private sale, under the conditions set forth in the decree as advertised by the master appointed by the court. I further agree that should I become the purchaser to sell or transfer to J. H. Martin, now owner of a one-fourth interest in said property, a quarter upon the same basis as price paid and same terms of payment.\u201d\nIt was supposed by the parties that by such alteration the memorandum would be sufficient to evidence the agreement made after the execution of the articles of agreement for the sale of the property to Baird, and for the sale by the latter to Martin of an undivided one fourth of the property in view of the contemplated partnership.\nThe weight of the evidence shows \u2014 and I so find \u2014 that the property was bought by the defendant with the understanding that the title to the whole should be conveyed to him, and that no conveyance should be made to the plaintiff until the partnership had been formed by articles of agreement in writing signed by the parties.\nOn the 29th day of January the defendant gave the plaintiff his promissory note for \u00a7500, payable in ten days, on account of plaintiff\u2019s share of the first payment under the articles of agreement for the sale of the property to the defendant. It was understood by the parties that when a partnership was formed, as above recited, and a quarter interest in the property conveyed to the plaintiff by the defendant, this note should be surrendered to the defendant. On the 5th day of February, 1895, W. D. Rider, J. H. Martin and E. Y. Breck each delivered to the defendant a separate deed of general warranty for his interest in the property described in the articles of agreement above referred to.\nThe evidence does not show that the defendant acquired title to the property under the articles of agreement executed by Rider, Martin & Breck, or under the deed delivered by the plaintiff to the defendant on February 5,1895, by means of any fraud, artifice, deceit, or misrepresentation.\nAt the date of the delivery of the deed from the plaintiff to the defendant no money was paid. The weight of the evidence shows, and I so find, that a bond and mortgage were prepared for delivery to Martin to secure the balance of the purchase money.\nThe bond and mortgage were, however, not delivered to. the plaintiff, in view of the intention to form a partnership and convey one fourth of the property to the plaintiff.\nBetween the 29th of January and the 5th of February, the plaintiff and defendant went to Cleveland with reference to the interest of the contemplated partnership and the prosecution of the business thereunder, and there arranged to have policies of insurance to a large amount, then on the property, transferred in consequence of the sale. A statement was made to the insurance agent having charge of the business that a partnership was in contemplation between plaintiff and defendant; and it was decided by the insurance agent that the policies ought to be transferred to William Baird and J. H. Martin, doing business as William Baird & Co., as their interests might appear. A consultation was also had with different persons in Cleveland with reference to the employment of a purveyor for the hotel.\nOn the date of the delivery of the deeds to the defendant the policies of insurance were transferred, as arranged for at Cleveland.\nOn the day of the delivery of the deeds of the propertjr to the defendant, and after their delivery, it was arranged that a deed should he prepared from the defendant to the plaintiff for one undivided fourth of the property that day conveyed to the defendant.\nThe plaintiff\u2019s interest in the real estate conveyed to defendant was covered in part by mortgages, which the defendant assumed to pay, as will appear by reference to the articles of agreement. After the delivery of the deed by the plaintiff to the defendant the plaintiff made a payment on one of the mortgages against the interest in the property which he had conveyed to the defendant, with the knowledge of defendant, in anticipation that a conveyance would be made by the defendant and the partnership formed in accordance with the negotiation of the parties.\nFrom the 5th of February the business was conducted under the partnership name of \u201c William Baird & Company.\u201d Books were opened in that name; the letter heads and envelopes were stamped with that name; and an entry was made in the journal of William Baird & Co.:\nReal estate ..... $53,000\nFurniture and fixtures . . . 12,000\nBottles,...... 1,500\nCarriage and road stock, . . . 3,000\nProvisions, ..... 1,000\nBedding and linen, .... 2,900\nDrying room and machinery, . . 464\nTools and chattels, .... 100\nFuel,...... 136\nTo William Baird, f ... $56,250\nTo J. H. Martin, | . ... 18,750\nTotal, .... $75,000\nInvestment of William Baird & Co. on commencing hotel business in Hotel Riverside, Cambridgeboro, February 5, 1895.\nInterest in partnership and profits to be had as follows:\nWilliam Baird, three fourths, . . . $56,250\nJ. H. Martin, one fourth .... 18,750\nThe entries were so made and the business so conducted in anticipation of the formation of the partnership herein above referred to, and the conveyance to plaintiff of the undivided one fourth of the property.\nAt different times after February 5, 1895, plaintiff and defendant endeavored to agree upon and reduce to writing the terms of the partnership, and a memorandum was prepared by the parties and sent to an attorney in Pittsburg to be reduced to proper legal form. The form of agreement prepared by the attorney will appear by reference to exhibit \u201c M \u201d of the evidence. The plaintiff was not satisfied with one or two provisions of the contract, and the paper was not, therefore, signed.\nThe plaintiff was at this time, and had been since the 5th of February, 1895, in charge of the baths and medical business of the establishment. On February 8, a power of attorney was executed by the plaintiff, with the knowledge of the defendant, authorizing W. E. Kimberling to sign checks and transact other business for William Baird & Co.\nMarch 21, 1895, the parties having failed to agree upon the terms of partnership, the defendant ejected the plaintiff from\n$75,000 the property and has since prevented him from having access thereto.\nCONCLUSIONS OB\u2019 LAW.\nThe plaintiff brings this bill.\n1st. To enforce a trust as to the undivided one fourth of certain real and personal property, the legal title to which is in the defendant; and\n2d. To secure an account of' the partnership alleged to have existed between the plaintiff and the defendant, to which the plaintiff contributed capital to the extent of the said trust interest.\nThe defendant holds the legal title by direct conveyance from the plaintiff. This conveyance was executed in pursuance of the article of agreement of January 28, 1895.\nThe trust is alleged to exist by reason (a) of the contract in writing entered into on the 28th day of January, 1895, as set forth in paragraph 3 of the plaintiff\u2019s bill.\n(5) By reason of the fact that the defendant deceitfully persuaded and induced the plaintiff to execute the article of agreement between W. D. Rider and E. Y. Br\u00e9ele and the plaintiff, of the first part, and the defendant, of the second part, dated January 28, 1895; and the deed from the plaintiff to the defendant, dated February 5,1895, by means of defendant\u2019s promises, falsely and fraudulently made, devising, intending and designing thereby to cheat and defraud the plaintiff out of the just title to the property described.\nThe first question for consideration is : Does the memorandum -of January 28, 1895, establish a trust in the defendant?\nThe act of April 22, 1856, declares that \u201c All declarations or creations of trusts or confidences of any tenements, lands, or hereditaments, and all grants and assignments thereof, shall be manifested by writing, signed by the party holding the title thereof, or by his last will in writing, or else to be void.\u201d\nIt was said of the act of 1856, in Barnet v. Dougherty, 8 Casey, 372: \u201cThe plain meaning of the enactment is, that a trust in land can now be proved in no other way than by writing-\u201d\nThis, of course, had reference to express trusts, and not to those arising by implication or construction of law. And in' determining the question the only evidence to which resort may be had is the writing itself.\nIn Dyer\u2019s Appeal, 107 Pa. 446, it was said by Mr. Justice P anson : \u201cWe regard the true intent and meaning of the act of 1856 to be that, when a trust is set up, the written evidence thereof, signed by the party holding the legal title should contain within itself all that is necessary to enable a chancellor to' declare the trust, and to make a decree in favor of the beneficiary, and that oral evidence cannot be introduced to supply any missing links in the chain of testimony.\u201d\nIn Seichrist\u2019s Appeal, 66 Pa. 241, the court said: \u201c Undoubtedly the act of 1856 cuts up by the root all parol trusts by bargain or contract. It is intended to prevent frauds in relation to the title to real estate by requiring the evidence of it to be\u2019 witnessed by a writing.\u201d\nIf, then, the plaintiff contends for an express trust, and relies, as is apparent, upon the memorandum of January 28,1895, it must appear within the limits of that paper that a trust is-created.\nThat it has no such effect seems obvious. It was not signed by the party holding the title thereof. Upon its face is a conditional promise to sell to the plaintiff an undivided interest in land of which the- defendant had not then the title. It has not,, unaided by parol evidence, any features of an agreement or declaration of trust, and such evidence, as we have seen, is inadmissible.\nIt was well said by Mr. Justice PANSON in Dyer\u2019s Appeal, supra: \u201c There never was a time when it was more the duty of the courts to sustain that act (1856) in all its integrity, than it is now. The law of evidence as it exists in this state affords great facilities for attempts to set up parol trusts, and the facilities furnish the temptation. The act of 1856 is the only obstacle in the way, and if that act should be undermined by judicial construction the result could not fail to be disastrous.\u201d\nThe plaintiff\u2019s second allegation is that a resulting trust arose by reason of the fraudulent conduct of the defendant.\nIn order to sustain this contention the fact must be established by evidence which is clear, explicit and unequivocal.\n\u201c The evidence to establish a resulting trust, especially one arising ex maleficio, which is an imputation of fraud, should be \u25a0clear, explicit, and unequivocal: \u201d Kistler\u2019s Appeal, 73 Pa. 393; Kimmel v. Smith, 117 Pa. 183.\nApplying this rule to the evidence in the case, were any such facts developed as would impel a chancellor to decree a trust \u2022ex maleficio ? The fraud necessary to produce such a result must have been fraud in the acquisition of the title, or a fraudulent use of the title.\nThe article of agreement between Rider, Martin & Breck, of the first part, and William Baird, of the second part, and the deed of Martin to Baird, were regularly executed in due form for a valuable consideration recited therein, and are presumed to have the force and validity which their form implies. The general principle is that the act of signing, sealing and delivering is the consummation of a deed, and the burden is on the grantor to show by clear and indubitable evidence that the appearance and the truth were not consistent.\nThe evidence wholly fails to show that any fraud was perpetrated or intended by the defendant in the acquisition of the title. The property was advertised to be sold at public sale. The defendant proposed to become the purchaser.\nIt does not appear that any other person was able or willing to bid at the master\u2019s sale, or that the plaintiff was induced to forego or release any interest which he had therein, or opportunity growing out of the master\u2019s sale. No complaint is made that the property was not sold for an adequate price; and the fact that the owners of the three fourths of the property were willing to sell voluntarily at the price obtained raises a fair presumption that it was a satisfactory price. The evidence contains no suggestion that there was any necessity or inducement for deception on the part of the defendant.\nThe article of agreement for the sale of the property to the defendant and the conveyance by the plaintiff to the defendant in pursuance thereof, strongly support the allegations of the defendant as contained in the evidence, that it was understood between him and the plaintiff that the whole title should be conveyed to liim, and after such conveyance controlled by him, and that any arrangement of partnership was to be definitely agreed upon thereafter. No sufficient explanation is given by the plaintiff why he sold by article of agreement and conveyed by deed an undivided one fourth of the'property to the defendant, if there was a parol agreement at the time under which he was to retain his interest in the property. The weight of evidence is with the defendant in support of his allegation that the purchase by Mm under the articles of agreement was without other conditions than contained in the agreement; and that neither at the execution of the articles of agreement, nor of the deed, was there any fraudulent practice on his part.\nThe delivery of the deed was the perfection of the articles of agreement, and it vested absolute title in the defendant. That it was in contemplation by the plaintiff and defendant to form a partnership in the event of a purchase by the defendant at the master\u2019s sale is not doubted. That the plaintiff parted with Ms title to the property on the inducement and consideration of such a contract is not established by the evidence.\nThe parties mtended to enter into a partnership m conducting the business of a hotel, but this intention was independent of the sale of the property by the master or by the owners. Whatever agreement or understanding existed with reference to the partnership, the evidence warrants the conclusion that no partnership was actually formed. The parties, assumMg that they would have no difficultj7' m arranging the terms of an agreement of partnership, commenced business in anticipation of that result; but the parties having failed to agree upon the terms of partnership, no fraud is imputable to the defendant by reason of that fact; nor wouM a refusal to perform such contract be such a fraud upon the plaintiff by the defendant as to make him a trustee ex maleficio. Unless there is in the transaction more than is implied from a mere violation of a parol agreement, equity will not decree a purchaser to be a trustee : Kisler v. Busier, 2 Watts, 327; Robertson v. Robertson, 9 Watts, 42; Kistler\u2019s Appeal, 73 Pa. 398.\nIt must appear that the defendant acquired the title upon the inducement and consideration of an agreement, and that without such agreement plaintiff would not- have parted with his title. The evidence does not warrant the conclusion asked by the plaintiff.\nIt may well be doubted whether it is admissible for the plaintiff to establish a trust by parol on the allegations of the bill, if they were satisfactorily proved. It was expressly decided in Porter v. Mayfield, 21 Pa. 263, that:\n\u201cEvidence, that at the time of the conveyance the vendee agreed to hold the title in trust for the vendor, is a flat contradiction of the written instruments executed by the parties as the bond and the evidence of their relation, and would make them void from their very inception. Oral testimony can have no such power. As between vendor and vendee such testimony cannot be heard to change a title absolute on its face into a trust.\u201d\nWhile the force of this decision is somewhat shaken in Lingenfelter v. Ritchey, 58 Pa. 485, it is cited as authority by Mr. Justice Green in Barry v. Hill et ah, 166 Pa. 844, in which last case it was held that a conveyance from the grantor to the grantee without consideration upon a certain agreement to hold for the benefit of the grantor would not raise a trust ex maleficio, even if there had been a breach of the parol agreement. It is not necessary, however, to base a conclusion on this proposition, as the case is determined on the other facts established by the evidence.\nThe plaintiff\u2019s demand for an account is based upon the allegation of an existing partnership. The allegation of partnership, however, is based upon the assumption of a title in trust by the defendant for the plaintiff. The evidence not being sufficient to support a decree of trust, the allegation of partnership necessarily fails. The bill charges that an agreement of partnership was formed at the time when the memorandum of January 28, 1895, was executed by the defendant, and that it was a part of the agreement under which the resulting trust is alleged.\nIt seems clear, however, from all of the evidence, that the agreement between the plaintiff and the defendant with reference to the partnership was, that a partnership should be formed in the future. That it was not so formed at the time when the plaintiff and defendant went to Cleveland after the 28th of January, is evident from the plaintiff\u2019s testimony. In the negotiation in reference to the transfer of the policies of insurance it clearly appears that the parties had in mind not an existing partnership, but a \u201cproposed\u201d partnership, and this tentative condition of things existed up to the period when the parties finally disagreed with reference to the articles of partnership. The entries of the bookkeeper in the books of the hotel, the dating of the letter heads, the transfer of the policies of insuranee, and the other acts referred to in the evidence, indicating a recognition of the partnership, are not inconsistent with this view of the case. The parties intended to form a partnership, and these acts were performed in view of an apparently confident expectation of each of the parties that there would be no difficulty in arranging the details of a contract of partnership. Having failed so to do, however, no partnership existed, and the plaintiff is not therefore entitled to an account.\nThe defendant tendered to the plaintiff the amount due under the terms of the articles of agreement, including the amount which the plaintiff had paid to apply on one of the mortgages which was an incumbrance upon the property at the time defendant purchased it. The balance of the purchase money is applicable upon these mortgages in accordance with the provisions of the articles of agreement. The plaintiff has, therefore, suffered no prejudice, and is entitled to and can at any time receive the amount due him from the property. There does not therefore appear to be any such equity in the case presented by the plaintiff as warrants the relief sought in the prayer of the plaintiff\u2019s bill. It is therefore dismissed at the cost of the plaintiff.\nError assigned was decree dismissing bill.\nSamuel S. Mehard, Pearson Church with him, for appellant.\n\u2014The evidence was sufficient to establish a trust: Parsons on Partnership, 4th ed. sec. 178; Doner v. Stauffer, 1 P. & W. 198; Baker\u2019s App., 21 Pa. 76; Collner v. Greig, 137 Pa. 606 ; Thorne, Mcfarlane & Co. v. Warffiein, 100 Pa. 519; Jackson v. Payne, 114 Pa. 67; Thomas & Sons v. Loose, Seaman & Co., 114 Pa. 35; Jones v. Backus, 114 Pa. 120; Spencer v. Colt, 89 Pa. 314; McFarson\u2019s App., 11 Pa. 503; Lowry v. Mehaffy, 10 Watts, 387; Tripp v. Bishop, 56 Pa. 424; Sylvester v. Born, 132 Pa. 467; Ross v. Baker, 72 Pa. 186; Fleck\u2019s App., 69 Pa. 474; Richter v. Selin, 8 S. & R. 440; Vincent v. Huff, 8 S. & R. 381; Siter, James & Co.\u2019s App., 26 Pa. 178; Reed v. Lukens, 44 Pa. 200; Whelen v. Phillips, 151 Pa. 312; Fritz\u2019s Est., 160 Pa. 156 ; Kuhns\u2019s Est., 163 Pa. 438.\nThe breach of such a contract would be a fraud: Thompson v. White, 1 Dal. 424; McCulloch v. Cowher, 5 W. & S. 427, Hullz v. Wright, 16 S. & R. 345; Plumer v. Reed, 38 Pa. 46 : Beegle v. Wentz, 55 Pa. 369; Lingenfelter v. Richey, 58 Pa. 485; Seiclirist\u2019s App., 66 Pa. 237; Wolford v. Herrington, 74 Pa. 314; Wolford v. Herrington, 86 Pa. 39; Cowperthwaite v. First Nat. Bank of Carbondale, 102 Pa. 397; Shafer\u2019s App., 106 Pa. 49; Warriner v. Mitchell, 128 Pa. 153 ; Erwin\u2019s App., 39 Pa. 535.\nThe plaintiff is entitled to the remedies prayed for: Gowen v. Jeffries, 2 Ashm., 296; Sloan v. Moore, 37 Pa. 217; Peacock v. Peacock, 16 Ves. 57; Kerr on Receivers, 90; Parsons on Partnership, 4th ed. 408; Lindley on Partnership, 977; 3 Kent\u2019s Com. 63; Story on Part. sec. 325 ; Brown v. Litton, 1 P. Wms. 140; Crawshay v. Collins, 15 Ves. 218; Featherstonhangh v. Fenwick, 17 Ves. 298; Crawshay v. Maule, 1 Swanst. 506; Heathcote v. Hulme, 1 Jac. & Walker, 128; Baker\u2019s App., 120 Pa. 33; Docker v. Somes, 2 M. & K. 655 ; Palmer v. Mitchell, 2 M. & K. 672; Jones v. Foxall, 15 Bevan, 392; Crawshay v. Collins, 15 Ves. 223; West v. Skip, 1 Ves. Sr. 239; Strelly v. Winson, 1 Vern. 297 ; Wedderburn v. Wedderburn, 22 Beav. 99; Booth v. Mark, Molloy (Irish Chanc.) 465; Featherstonhaugh v. Turner, 25 Beav. 382.\nP. C. Knox, George F. Davenport and Shiras & Dickey with him, for appellee. \u2014\nParol evidence is inadmissible to supply deficiences which existed in a written contract for the sale of real estate: Mellon v. Davison, 123 Pa. 298.\nThe violation of a promise expressed or implied is of no avail to create a trust: Barnet v. Dougherty, 32 Pa. 371.\nThe fraud must be in the purchase. Neither subsequent fraud nor subsequent payment creates a trust: Jackman v. Ringland, 4 W. & S. 149; Burr v. Kase & Stone, 36 W. N. C. 284; Kellum v. Smith, 33 Pa. 158 ; Bennett v. Dollar Savings Bank, 87 Pa. 382; Barry v. Hill & Gillespie, 166 Pa. 344; Seichrist\u2019s App., 66 Pa. 241; Jones v. Wood, 16 Pa. 25.\nSamuel S. Mehard, Pearson Church with him, for appellant, in reply. \u2014\nThe annulling of the written contract relied on by the plaintiff, without either averment or sufficient proof to overcome it. will not be permitted by this court: Rowand v. Finney, 96 Pa. 192.\nThe separate contract is as potent to control the other as though they were embodied in one instrument: Colwell v. Woods, 3 Watts, 188; Jaques v. Weeks, 7 Watts, 261; Kelly v. Thompson, 7 Watts, 401; Reitenbaugh v. Ludwick, 31 Pa. 131; Wilson v. Shoenberger\u2019s Executors, 31 Pa. 295.\nMay 18, 1896:"
+  },
+  "file_name": "0540-01",
+  "first_page_order": 560,
+  "last_page_order": 574
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12280683,
+  "name": "Com. v. Peck",
+  "name_abbreviation": "Com. v. Peck",
+  "decision_date": "2015-12-22",
+  "docket_number": "461 MAL (2015)",
+  "first_page": "727",
+  "last_page": "727",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 727"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1045",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.884,
+    "sha256": "e0c6fa0e73a144f1f53cf74ff15489b8955e205aeca28a02b77b58a340b7a3c5",
+    "simhash": "1:784924304c526050",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Peck"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1045",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Peck\n12/22/2015\n461 MAL (2015)"
+  },
+  "file_name": "0727-03",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1294507,
+  "name": "Majcher v. Bronder, Appellant",
+  "name_abbreviation": "Majcher v. Bronder",
+  "decision_date": "1960-11-15",
+  "docket_number": "Appeal, No. 217",
+  "first_page": "500",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "401 Pa. 500"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Pa. D. & C. 2d 218",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1650542
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/22/0218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 313,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 7.864860140279792e-08,
+      "percentile": 0.459351298087263
+    },
+    "sha256": "36da28695bb80ae44a78e1b4f840f22e0a4f7fb7d89bbc626275babcb8002ef4",
+    "simhash": "1:313147cf8aa8ab58",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T17:18:00.860993+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, O. J., Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "Majcher v. Bronder, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgment is affirmed on the opinion of Judge Duff, reported in 22 Pa. D. & C. 2d 218.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Walter J. Wagner, for appellant.",
+      "A. E. Rosenfield, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Majcher v. Bronder, Appellant.\nNovember 15, 1960:\nArgued October 3, 1960.\nBefore Jones, O. J., Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nWalter J. Wagner, for appellant.\nA. E. Rosenfield, for appellee."
+  },
+  "file_name": "0500-01",
+  "first_page_order": 518,
+  "last_page_order": 519
+}

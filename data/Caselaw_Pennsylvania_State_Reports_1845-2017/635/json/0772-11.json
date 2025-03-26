@@ -1,0 +1,70 @@
+{
+  "id": 12287605,
+  "name": "Com. v. Ricciardi",
+  "name_abbreviation": "Com. v. Ricciardi",
+  "decision_date": "2016-05-11",
+  "docket_number": "27 WAL (2016)",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 772"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 663",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 161,
+    "ocr_confidence": 0.72,
+    "sha256": "47747b98afe92d78ac0f86d39bf982861ff09366a6a6b3ea20ac619427dd693c",
+    "simhash": "1:7fd6e25ead6fff56",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Ricciardi"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 663",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Ricciardi\n05/11/2016\n27 WAL (2016)\n. Justice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0772-11",
+  "first_page_order": 832,
+  "last_page_order": 832
+}

@@ -1,0 +1,102 @@
+{
+  "id": 12284471,
+  "name": "Com. v. Ely",
+  "name_abbreviation": "Com. v. Ely",
+  "decision_date": "2016-08-16",
+  "docket_number": "173 WAL (2016)",
+  "first_page": "671",
+  "last_page": "671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 671"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "145 A.3d 771",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12487215,
+        12487216,
+        12487217,
+        12487218,
+        12487219,
+        12487220,
+        12487221,
+        12487222,
+        12487223,
+        12487224,
+        12487225,
+        12487226,
+        12487227,
+        12487228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/145-2/0771-10",
+        "/a3d/145-2/0771-11",
+        "/a3d/145-2/0771-12",
+        "/a3d/145-2/0771-13",
+        "/a3d/145-2/0771-14",
+        "/a3d/145-2/0771-01",
+        "/a3d/145-2/0771-02",
+        "/a3d/145-2/0771-03",
+        "/a3d/145-2/0771-04",
+        "/a3d/145-2/0771-05",
+        "/a3d/145-2/0771-06",
+        "/a3d/145-2/0771-07",
+        "/a3d/145-2/0771-08",
+        "/a3d/145-2/0771-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 69,
+    "ocr_confidence": 0.926,
+    "sha256": "4e996c1343d29fc6ebb01d73d5f5d5a0e058b30eecfb0148ccf26acd8a5ee33c",
+    "simhash": "1:43218a7485c00015",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Ely"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 145 A.3d 771",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Ely\n08/16/2016\n173 WAL (2016)"
+  },
+  "file_name": "0671-11",
+  "first_page_order": 723,
+  "last_page_order": 723
+}

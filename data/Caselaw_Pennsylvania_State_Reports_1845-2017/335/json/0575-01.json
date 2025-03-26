@@ -1,0 +1,122 @@
+{
+  "id": 1193014,
+  "name": "Com. ex rel. Lewis v. Ashe, Warden",
+  "name_abbreviation": "Com. ex rel. Lewis v. Ashe",
+  "decision_date": "1939-07-03",
+  "docket_number": "No. 1039",
+  "first_page": "575",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "335 Pa. 575"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "127 Pa. Superior Ct. 24",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        999703
+      ],
+      "pin_cites": [
+        {
+          "page": "26, 27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/127/0024-01"
+      ]
+    },
+    {
+      "cite": "330 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1182994
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/330/0289-01"
+      ]
+    },
+    {
+      "cite": "320 Pa. 341",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163679
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/320/0341-01"
+      ]
+    },
+    {
+      "cite": "325 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1172295
+      ],
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/325/0305-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 1874,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 5.324195210941421e-07,
+      "percentile": 0.9428014915155285
+    },
+    "sha256": "6e9e855d99da0797a30cd866947805b9a47d0c8d5a3e897d2a1f3de973d16f0c",
+    "simhash": "1:2277809537e808ed",
+    "word_count": 341
+  },
+  "last_updated": "2024-02-27T21:02:51.356200+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. ex rel. Lewis v. Ashe, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nAs far as the relator complains of errors alleged to have occurred in the course of his trial, he cannot obtain relief by habeas corpus. Such a writ cannot be made the substitute for an appeal: Com. ex rel. Sullivan v. Ashe, 325 Pa. 305, 310.\nRelator was sentenced on April 15, 1926, on two bills of indictment, each sentence being for not less than five nor more than ten years, the two terms to run consecutively. Relator assumes that the first term expired on April 15, 1931. At that time he was entitled to apply for a parole from further service of his first sentence, and, had such an application been made and favorably acted upon, he would then have begun serving his second sentence. But since he did not then apply for a parole, and none was granted, his first sentence did not expire until he had served the full ten years: Commonwealth ex rel. Lynch v. Ashe, 320 Pa. 341. Inasmuch as he escaped from the penitentiary on August 31, 1930, not being apprehended until January 8, 1932, it is quite obvious that even had he applied for a parole it would not have been granted.\nOn April 6, 1932, relator was sentenced for the crime of escaping from prison to a term of not less than ten nor more than twenty years. The sentence was erroneous; it could legally have been imposed only for a term equal to that of the first, or original sentence which he was then serving, namely, for not less than five nor more than ten years: Commonwealth ex rel. McGinnis v. Ashe, 330 Pa. 289. The sentence for escaping will not begin until after the expiration of his second sentence which he is now serving. It would therefore be premature at this time to remand the relator to be re-sentenced : Commonwealth ex rel. Padmonsky v. Smith, 127 Pa. Superior Ct. 24, 26, 27.\nThe petition is dismissed without prejudice, etc.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. ex rel. Lewis v. Ashe, Warden.\nJuly 3, 1939:"
+  },
+  "file_name": "0575-01",
+  "first_page_order": 631,
+  "last_page_order": 632
+}

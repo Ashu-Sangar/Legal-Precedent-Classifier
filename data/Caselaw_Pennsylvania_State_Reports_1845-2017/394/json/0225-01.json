@@ -1,0 +1,993 @@
+{
+  "id": 1280929,
+  "name": "Boyd Estate",
+  "name_abbreviation": "Boyd Estate",
+  "decision_date": "1958-10-09",
+  "docket_number": "Appeals, Nos. 72, 91, 96, 101, 132, 133, 136",
+  "first_page": "225",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "394 Pa. 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "85 F. Supp. 341",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        683617
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/85/0341-01"
+      ]
+    },
+    {
+      "cite": "168 A. 685",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 Pa. 515",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1150695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/312/0515-01"
+      ]
+    },
+    {
+      "cite": "283 U. S. 318",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        434208
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/283/0318-01"
+      ]
+    },
+    {
+      "cite": "7 A. 2d 496",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Pa. Superior Ct. 381",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1018253
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/136/0381-01"
+      ]
+    },
+    {
+      "cite": "71 A. 2d 833",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Pa. Superior Ct. 472",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        468866
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/166/0472-01"
+      ]
+    },
+    {
+      "cite": "253 Fed. 473",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        5747049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/253/0473-01"
+      ]
+    },
+    {
+      "cite": "74 A. 174",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Pa. 296",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        965249
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/225/0296-01"
+      ]
+    },
+    {
+      "cite": "137 A. 455",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "289 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1103299
+      ],
+      "pin_cites": [
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/289/0331-01"
+      ]
+    },
+    {
+      "cite": "41 A. 2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Pa. Superior Ct. 547",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        8860249
+      ],
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/156/0547-01"
+      ]
+    },
+    {
+      "cite": "176 A. 252",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Pa. Superior Ct. 599",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        977402
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/115/0599-01"
+      ]
+    },
+    {
+      "cite": "132 A. 798",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 Pa. 557",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1095107
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/285/0557-01"
+      ]
+    },
+    {
+      "cite": "144 A. 904",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "295 Pa. 146",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1115139
+      ],
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/295/0146-01"
+      ]
+    },
+    {
+      "cite": "173 A. 822",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 Pa. 193",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/315/0193-01"
+      ]
+    },
+    {
+      "cite": "172 A. 712",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 Pa. 298",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156746
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/315/0298-01"
+      ]
+    },
+    {
+      "cite": "175 A. 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Pa. Superior Ct. 333",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        977380
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/115/0333-01"
+      ]
+    },
+    {
+      "cite": "152 A. 388",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "301 Pa. 403",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126495
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/301/0403-01"
+      ]
+    },
+    {
+      "cite": "166 A. 913",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/311/0299-01"
+      ]
+    },
+    {
+      "cite": "169 A. 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "313 Pa. 49",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1152671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/313/0049-01"
+      ]
+    },
+    {
+      "cite": "79 A. 2d 255",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "366 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846084
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/366/0592-01"
+      ]
+    },
+    {
+      "cite": "84 A. 2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "368 Pa. 516",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230346
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/368/0516-01"
+      ]
+    },
+    {
+      "cite": "88 A. 2d 720",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "371 Pa. 212",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1237050
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/371/0212-01"
+      ]
+    },
+    {
+      "cite": "126 A. 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "281 Pa. 320",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1086994
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/281/0320-01"
+      ]
+    },
+    {
+      "cite": "154 A. 127",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "303 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1130037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/303/0066-01"
+      ]
+    },
+    {
+      "cite": "138 A. 2d 92",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "391 Pa. 286",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276861
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/391/0286-01"
+      ]
+    },
+    {
+      "cite": "209 Pa. 206",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        936176
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/209/0206-01"
+      ]
+    },
+    {
+      "cite": "194 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        912435
+      ],
+      "pin_cites": [
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/194/0126-01"
+      ]
+    },
+    {
+      "cite": "142 Pa. 271",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976595
+      ],
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/142/0271-01"
+      ]
+    },
+    {
+      "cite": "67 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1022556
+      ],
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/67/0459-01"
+      ]
+    },
+    {
+      "cite": "304 Pa. 18",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1132409
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/304/0018-01"
+      ]
+    },
+    {
+      "cite": "283 Pa. 406",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090532
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/283/0406-01"
+      ]
+    },
+    {
+      "cite": "301 Pa. 50",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126394
+      ],
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/301/0050-01"
+      ]
+    },
+    {
+      "cite": "51 A. 2d 511",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "160 Pa. Superior Ct. 447",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        459517
+      ],
+      "pin_cites": [
+        {
+          "page": "449-451"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/160/0447-01"
+      ]
+    },
+    {
+      "cite": "10 A. 2d 418",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "419, 420"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "337 Pa. 316",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1197305
+      ],
+      "pin_cites": [
+        {
+          "page": "318, 319"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/337/0316-01"
+      ]
+    },
+    {
+      "cite": "184 A. 457",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "321 Pa. 561",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165841
+      ],
+      "pin_cites": [
+        {
+          "page": "564, 565"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/321/0561-01"
+      ]
+    },
+    {
+      "cite": "177 A. 28",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "317 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846409
+      ],
+      "pin_cites": [
+        {
+          "page": "516, 517"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/317/0513-01"
+      ]
+    },
+    {
+      "cite": "101 Pa. Superior Ct. 291",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        692976
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/101/0291-01"
+      ]
+    },
+    {
+      "cite": "166 A. 562",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "311 Pa. 580",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146292
+      ],
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/311/0580-01"
+      ]
+    },
+    {
+      "cite": "160 A. 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "opinion_index": 1
+    },
+    {
+      "cite": "306 Pa. 586",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1136861
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/306/0586-01"
+      ]
+    },
+    {
+      "cite": "63 A. 2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "opinion_index": 1
+    },
+    {
+      "cite": "360 Pa. 594",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475077
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/360/0594-01"
+      ]
+    },
+    {
+      "cite": "100 A. 2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "375 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1244397
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/375/0503-01"
+      ]
+    },
+    {
+      "cite": "66 A. 2d 309",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "opinion_index": 1
+    },
+    {
+      "cite": "362 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477405
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "71-72"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/362/0066-01"
+      ]
+    },
+    {
+      "cite": "172 A. 712",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "315 Pa. 298",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1156746
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/315/0298-01"
+      ]
+    },
+    {
+      "cite": "79 A. 2d 255",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 4,
+      "opinion_index": 1
+    },
+    {
+      "cite": "366 Pa. 592",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8846084
+      ],
+      "weight": 4,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/366/0592-01"
+      ]
+    },
+    {
+      "cite": "84 A. 2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 4,
+      "opinion_index": 1
+    },
+    {
+      "cite": "368 Pa. 516",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230346
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "519"
+        },
+        {
+          "page": "519"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/368/0516-01"
+      ]
+    },
+    {
+      "cite": "88 A. 2d 720",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "371 Pa. 212",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1237050
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/371/0212-01"
+      ]
+    },
+    {
+      "cite": "126 A. 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "281 Pa. 320",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1086994
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "323, 324"
+        },
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/281/0320-01"
+      ]
+    },
+    {
+      "cite": "154 A. 127",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 5,
+      "opinion_index": 1
+    },
+    {
+      "cite": "303 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1130037
+      ],
+      "weight": 6,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/303/0066-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1625,
+    "char_count": 51695,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 6.716516102764354e-07,
+      "percentile": 0.9629845214914075
+    },
+    "sha256": "4f815246ea432dcf02c4365feefa5742dfcc8b78391991d7774091cebf5113dc",
+    "simhash": "1:fe7b351639dbe02c",
+    "word_count": 8595
+  },
+  "last_updated": "2024-02-27T21:42:42.920804+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Chidsey, Musmanno, Jones and Cohen, JJ.",
+      "Mr. Justice Musmanno joins in this opinion, \u2022"
+    ],
+    "parties": [
+      "Boyd Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Benjamin R. Jones,\nThis is an appeal from a final adjudication of the Orphans\u2019 Court .of Delaware County dismissing certain claims against the Estate of William G. Boyd and providing for the distribution of the estate. The claims arose out of a construction contract executed by Boyd (.herein called decedent) and one William B. Albright. Due to the number of litigants involved and the variety of legal questions presented, the facts pertinent to each claim and each claimant\u2019s contentions will be discussed, separately, after a brief recital of the factual, background common to all the claims. .\n,. On December 10, 1947, the decedent, and Albright, as a general contractor, entered into a written agreement whereby Albright was to perform certain construction work on a property owned by decedent for a consideration of $42,180. On January 9, 1948, a supplemental agreement was made providing for additional work in the amount of 115,82o. Both sums were payable by decedent two months after the issuance of the Architect\u2019s Certificate of Final Completion of the work, one Francis Jobson being employed by decedent as the architect. On April 10, 1948, after Albright had acknowledged in writing a default on his part under the above mentioned agreements, another contract was executed by the parties. Albright apparently admitted his default in order to induce decedent to apply for a construction mortgage in the amount of $45,000, the costs of obtaining which Al-bright agreed to assume, together with the payment of interest on the mortgage. It was also contemplated at this time that a permanent mortgage would subsequently be obtained in a larger amount. The consolidated agreement required that Albright perform the same construction work called for in the previous agreements for the same consideration of $58,000, but provided for payments on account of work completed and approved with a twenty per cent retention until two months after final completion of the work. Decedent then applied for a construction mortgage in the amount of $40,000.\nOn May 6, 1948, decedent executed and delivered to Albright a judgment note in the amount of $30,000 for the alleged purpose of raising sufficient funds to satisfy the sub-contractors. On June 4, 1948, settlement was held on the construction mortgage and the $40,000 was made available to decedent. Previous to the date of settlement, Albright had received $18,300 from decedent and he received an additional $26,576.79 from the mortgage fund, or total payments of $44,-876.79. However, judgment was entered on the note on April 1, 1949, and assigned to claimant Hoffman three days later. Upon this judgment, the claim of Hoffman is based.\nIn the spring of 1948, the sub-contractors ceased work and refused to continue until some, guarantee of payment was made to them. Negotiations between decedent, Albright, Jobson and some of the sub-contractors took place during the months of June, July and August of 1948. Appellant Guerrina contends that the result of these negotiations was the personal assumption by decedent of the amount due Guerrina under its contract with Albright and was to be paid from the funds of the permanent mortgage when it was secured. Appellant Parker maintains that a partial assignment was made to him by Albright of the amount that would be due Albright under his contract with decedent, that this represented a valid claim against decedent and should have been paid as' soon as the permanent mortgage was secured.\nIn April of 1949, Guerrina brought suit against decedent. On September 9, 1949, decedent filed a petition to open the judgment which had been assigned to Hoffman. On January 12, 1950, a permanent mortgage in the amount of $75,000 was obtained. After the construction mortgage had been satisfied a sum of approximately $35,000 remained which was ultimately used to reduce the permanent mortgage. Commencing in February of 1950, a number of attachment executions were issued against decedent and decedent was given notice of claims of other general creditors of Al-bright. These comprise the balance of the claims against the estate.\nOn November 27, 1951, Albright was adjudged a bankrupt and on March 29, 1954, decedent died. All of the claims involved in these appeals were filed against Ms estate. The trustee in bankruptcy and the Executor have agreed that the sum of $25,000 is due and owing as the balance under the construction contract between .decedent and Albright. The court below awarded this sum to the trustee and dismissed all the other claims against the estate without prejudice to them to proceed in the bankruptcy proceedings. These appeals followed.\nHoffman Claim\nHoffman\u2019s claim is based upon the judgment against decedent assigned to him by Albright as security for work and materials which had been or were to be furnished by Hoffman for completion of the work. At the time of the assignment, Hoffman failed to obtain from Boyd a declaration of no setoff or counterclaim. The estate\u2019s defense is an alleged oral agreement entered into at the time of execution of the note upon wMch judgment was entered. Judge C. William Kraft, Jr., win) at that time was decedent\u2019s attorney, testified that at a meeting held subsequent to the execution and delivery of the note Albright, admitted that the note was to be used only for the purpose of-raising sufficient funds to continue operations and was to be considered paid when the amount received by Albright from decedent, particularly from the construction mortgage, equalled the face amount of the note. Judge Kraft\u2019s testimony was substantiated by Joseph Guerrina, a sub-contractor, who testified that Albright admitted to him that the note was given only to insure the granting of the construction mortgage and it was to be paid from the first monies Albright received from decedent. On the other hand, Jobson, the architect, testified that it was his understanding that the note was to be paid at the completion of the job and that he made no record of any payments against the note in keeping the accounts between decedent and Albright. If the evidence introduced on behalf of the estate be admissible, it is obvious that the note had been paid at the time judgment was entered and this would constitute a valid defense both as against Albright and his assignee, Hoffman.\nHowever, appellant Hoffman maintains that the introduction of oral testimony as to the conditions upon which the note was issued and the specification of the mode of payment constitute a violation of the parol evidence rule in that it alters and varies the terms of a written instrument intended by the parties to embody the complete agreement between them. In support of this argument, Hoffman relies primarily upon Speier v. Michelson, 303 Pa. 66, 154 A. 127, wherein, we stated that an allegation of an oral agreement to restrict the payment of a negotiable instrument to a specific fund would not constitute a sufficient defense to an action on the note because to permit evidence of such oral agreement would contradict the terms of the note bearing on its face an unqualified promise, to pay a specific amount of money. In any event, Hoffman argues that even if the evidence relied upon by the estate was admissible, such evidence is insufficient to establish the purported parol agreement.\nPrior to Gianni v. Russell & Co., Inc., 281 Pa. 320, 126 A. 791, the parol evidence rule as applied by this Court and designated as the so-called Pennsylvania Rule was that the breach of a contemporaneous parol agreement which induced the execution of the written agreement constituted sufficient fraud to permit the introduction of the parol agreement. See IX Wigmore \u00a72431 (c) (3d Ed.) and cases therein cited. However, in the Gianni case, this Court rejected the above rule and returned to the more conventional application, namely, that if the written agreement was intended by the parties to encompass the matter in dispute, then evidence of a contrary nature based upon an oral agreement at the time of the execution of the written agreement was barred in the absence of fraud, accident or mistake: Anderson v. Murdock Storage & Transfer Company, Inc., 371 Pa. 212, 88 A. 2d 720; T. W. Phillips Gas and Oil Company v. Kline, 368 Pa. 516, 84 A. 2d 301; Grubb v. Rockey, 366 Pa. 592, 79 A. 2d 255. As applied to negotiable instruments, this rule prevented the introduction of a contemporaneous agreement to show that payment was to be made, from the proceeds of a particular fund, or that payment would not be demanded until the happening of a specified event. Rosenblum & Co. v. Rosenblum, 313 Pa. 49, 169 A. 79; Architectural Tile Co. v. McSorley, 311 Pa. 299, 166 A. 913; Speier v. Michelson, supra; Hein v. Fetzer, 301 Pa. 403, 152 A. 388; Yorkshire Worsted Mills v. Braman, 115 Pa. Superior Ct. 333, 175 A. 726.\nPlowever, the parol evidence rule has never barred the introduction of clear, precise and convincing evidence to show that the party who. seeks to enforce the written agreement according to its . tenor has admitted and acknowledged that the agreement as written did not express what the parties intended and that what the- parties intended was omitted from the written agreement by mistake or accident: Allinger v. Melvin, 315 Pa. 298, 172 A. 712; Newland v. Lehigh Valley R.R. Co., 315 Pa. 193, 173 A. 822; Bryant v. Bryant et al., 295 Pa. 146, 153, 144 A. 904; Ward v. Zeigler, 285 Pa. 557, 132 A. 798; Howell et ux. v. Wheelock, 115 Pa. Superior Ct. 599, 176 A. 252; Frederick Estate, 156 Pa. Superior Ct. 547, 553, 41 A. 2d 59. In the Allinger case this rule was applied to a factual situation somewhat similar to the present situation. There defendant had executed an unconditional bond and mortgage. A judgment entered on the bond was subsequently assigned to the plaintiff who failed to obtain a declaration of no set-off or counterclaim. On a petition to open the judgment it was alleged that the parties had a contemporaneous parol agreement limiting the bond to the mortgaged property. The court below permitted the assignor to testify that he and the defendant had this contemporaneous parol agreement. The court stated, at page 304: \u201cThe principle governing the decision in Gianni v. Russell, 281 Pa. 320, 126 A. 791 (in which case the evidence in support of the oral agreement was not, as here, uncontradicted), and cases following it, on which appellant relies, has no application to a record like this. Those cases hold that \u2018if the matter proposed to be shown by parol is the subject of a covenant in the agreement, which is complete, such evidence to alter its terms cannot be received\u2019 (Cridge\u2019s Est., 289 Pa. 331, 338, 137 A. 455), unless it is admitted that the whole of the agreement is not set forth in the writing: Ward v. Zeigler, 285 Pa. 557, 132 A. 798\u201d. (Emphasis supplied). The rule enunciated in the Allinger case governs the present situation. Both Judge Kraft and the subcontractor, Guerrina, testified that Albright admitted that the note was to be considered paid from the first moneys Albright was to, and did, in fact, receive from the decedent. In proceedings to open the judgment entered upon the note \u2014 at a time when both parties were living \u2014 Albright not only failed to take the stand to deny the agreement between the parties but in his sworn answer substantially admitted such an understanding. Although the record in the present case is not as strong as that in the Allinger case in that therein the assignor himself testified and admitted the terms of the contemporaneous agreement while instantly the admission was proven by testimony found to be clear, precise and convincing by the court below, we believe that the evidence is such as to bring it within the AlVmger rule and that such testimony is not excluded by the parol evidence rule. That rule is aimed at the prevention of, not the protection, of fraud.\nThe claim of Hoffman is accordingly dismissed without prejudice to him to pursue his claim for work and materials in the bankruptcy proceedings.\nGuerrina Claim\nThe claim of Alex Guerrina & Sons, Inc. (hereinafter called Guerrina) is based upon an alleged agreement between decedent and Guerrina that if Guerrina would complete the masonry work it would be paid directly out of the permanent mortgage when it was secured. There is no dispute that the work was satisfactorily completed in September of 1948 and that $8,-470.10 is still due Guerrina. The evidence introduced to prove this claim consists of a number of letters between the parties and purported statements of decedent. The estate, however, contends that the only agreement to pay Guerrina directly from the proceeds of the permanent mortgage was made by the architect, Jobson,. who had no authority to bind decedent. An examination of the correspondence and conferences upon which the purported agreement is based is necessary for a determination of the validity of the claim.\n\u2022' On January 22, 1948, Albright accepted Guerrina\u2019s bid to perform, as a sub-contractor, the masonry work required by the contract between decedent, and.Al-bright. In the early spring of 1948, Guerrina, apparently fearful of Albright\u2019s financial, status, ceased work: and-refused to continue until it received compensation for the portion, of .work it had performed together with a guarantee that interim payments would be made to it as the work progressed, although its contract with Albright called for payment only upon completion. This impasse resulted in a conference on June 21, 1948, between Jobson, Albright, Guerrina and a Mr. Christy, Guerrina\u2019s attorney. As a consequence of-this meeting, Christy forwarded to Jobson a letter dated June 21,1948, prepared for the signature of both Albright and decedent, or his attorney, which purported to reduce to writing the results achieved at the conference. This agreement, which would have imposed direct liability upon decedent for any sums owed or that would be due from Albright to Guerrina, was never signed by any of the parties. On June 23, Job-son replied to Christy\u2019s letter setting forth the conditions upon which the work was to continue and the manner in which Guerrina was to be paid. Upon this letter the claim of Guerrina is in a large measure based.\nIn this letter, Jobson agreed to authorize certain payments to Guerrina for work performed and final payment from the contemplated final 'mortgage. In addition, he specifically negated any authority from decedent to approve any arrangements for payment or to enter into any agreement for payment of Guerrina directly because \u201cthat is contrary to any contracts signed by Mr. Boyd with Mr. Albright.\u201d On July 12, Jobson advised Guerrina that he considered it to be in breach of the contract between it and Al-bright since that contract did not call for interim payments and that, unless work was resumed, the masonry work would be completed by another contractor. On July 13, Jobson forwarded to Albright a letter approved by decedent which authorized Jobson to make payments directly to Guerrina from the proposed mortgage fund. This authorization was signed by Albright and subsequently returned to Jobson. In a letter to Guerrina on July 15, Jobson reduced to writing the results of the negotiations between them, namely, that payment would be made from the mortgage funds by vouchers issued by Jobson and authorized by Albright.\nOn August 10 or 11, a final meeting attended by decedent, Jobson and Guerrina was held. Certain additional work not covered by the contract between decedent and Albright was ordered by Jobson and approved by decedent. On the first of five purchase orders authorizing extra work was the statement that: \u201cThe above work shall be done and shall be billed as above and to be settled at the completion of the work out of funds to be made available at final settlement in addition to other balances owing, and shall be covered in letter dated June 23, 1948.\u201d Guerrina contends that from this statement and Jobson\u2019s testimony as to what took place at this meeting can be found decedent\u2019s consent to guarantee payment directly to Guerrina for all sums that might be due at the completion of its contract. We are unable to agree with this conclusion.\nThe letter of June 23 contemplated only an agreement on Albright\u2019s part to authorize payments directly to Guerrina from the funds of the permanent mort gage which would be due Albright at the completion of the work. This letter specifically denied the direct personal liability of Boyd or his attorney to Guerrina and it represented only a partial assignment by Al-bright of the funds that would be due him when final settlement was made. The agreement was consummated by Jobson\u2019s letter of July 15 to Guerrina after he had secured decedent\u2019s approval and Albright\u2019s written authorization to make the assignment.\nThe statement on the first purchase order does not vary the legal effect of Jobson\u2019s letter of the 23rd negating direct personal liability on the part of Boyd. At most, it manifests a willingness on decedent\u2019s part to be held directly liable for the additional work approved by him and receipt of further notice and acceptance of the partial assignment as set forth in the letter of the 23rd and confirmed in the letter of the 15th to Guerrina. This was substantiated by Job-son\u2019s testimony as to the final understanding reached by the parties at the meeting that took place on August 10 or 11. Jobson testified that he did not have any authority from decedent to make any direct commitment on his behalf to assume personal responsibility for the claim, but only to divert directly to Guerrina with Albright\u2019s approval whatever sum from the permanent mortgage would be due Albright under the contract.\nThe evidence proves only that decedent guaranteed Guerrina that Albright would pay Guerrina directly from the proceeds of the construction mortgage when those funds were made available to Albright by virtue of his completion of the contract with decedent. In accordance with this understanding, Jobson was authorized by Albright to make payments directly to Guerrina. Albright, however, could only authorize payment from that portion of the fund to which he was entitled by virtue of his completion of the contract. That Albright never became entitled to the full amount of the mortgage and that final settlement of the conflicting claims between decedent and Albright has not been consummated does not lead to the conclusion that Guerrina has a claim against decedent or his estate directly.\nAppellant also relies on the testimony of one Louis Campagna, an employee of Guerrina, who stated that decedent, in April or May, 1948, assured him that Guerrina would be paid for the work. The purported promise was never shown to have been communicated to any officer of the corporation, nor did the promise ever ripen into any agreement between Guerrina and decedent, except as the later negotiations between the parties have been so interpreted by appellant.\nAppellant finally contends that a statement to the effect that \u201cthe claims of Hoffman, Guerrina, Parker and McMahon must be paid [from the mortgage funds]\u201d in a letter dated December 19, 1949 from Judge Kraft to Harry A. Rutenberg, Albright\u2019s attorney, was a clear confirmation of what had been agreed upon in the negotiations between the parties in June, July and August of 1948; that is, that decedent would be directly liable for payment to Guerrina out of the mortgage fund. In addition to the fact that we are of the opinion that no such intention was manifested by decedent in these negotiations, an examination of the circumstances under which the letter was written discloses a further reason for the rejection of this contention. This letter was written in an attempt to settle the dispute existing between Albright and decedent in order to complete the contract. At the time it was written, Guerrina had filed suit against decedent and the judgment assigned to Hoffman was still in effect. The obvious intent of the statement in Judge Kraft\u2019s letter was to direct Albright as a condition to final settlement to satisfy the creditors directly from the mortgage in order to relieve decedent from the possibility of further complications. It did not confirm the assumption of personal liability on the part of Boyd for the benefit of the sub-contractors.\nFor the above reasons, we hold that decedent did not agree to pay Guerrina directly out of the proposed mortgage fund, but that the negotiations between Job-son, Albright and Guerrina resulted in a partial assignment in the amount of f8,470.10 of the sum that would be due Albright at the completion of the contract.\nParker Claim\nThe claim of Parker, the plumbing and heating subcontractor under the contract between Albright and decedent, is based upon a partial assignment by Al-bright of the amount that would be due him at the completion of his contract with decedent. A formal assignment was executed January 10, 1950 and was accepted On the same date by Judge Kraft as decedent\u2019s attorney. However, appellant Parker argues that the assignment became effective on July 28, 1948, by virtue of a letter from Jobson to Parker, approved by decedent, setting \u25a0 forth substantially the same guarantee and conditions for payment as contained in the letters of June 23 and July 15 in the Guerrina claim. The letter provided that payment would be made directly to Parker by voucher issued by Jobson on Albright\u2019s authorization against the amount that would be due Al-bright upon completion of the contract. The court below, without passing upon the validity of this contention held that although there was an assignment:from Albright to Parker at least as of January 10, 1950, Parker\u2019s claim was against the bankrupt estate of Ah bright and that all questions relating to its payment were to be determined in the bankruptcy proceedings. We believe that the letter of July 28 represented a partial assignment to Parker and that notice of acceptance of the assignment' on decedent\u2019s part is clear.\nHowever, the ultimate question for our determination is whether the claim is payable directly from the sum agreed to be owed by decedent to Albright or whether Parker must proceed through the trustee in bankruptcy. Since there is no question of Albright\u2019s execution of a valid partial assignment to Parker long prior to the four month period preceding the bankruptcy of Albright, there is no reason to award the sum due Parker to the trustee in bankruptcy. Al-bright, by his assignment to Parker, divested himself of that portion of the final amount that would be due him under the contract and, in the absence of a voidable preference, the trustee in bankruptcy cannot b\u00e9 placed in any more favorable position than the bankrupt, Albright, would have been. Wood v. Kerkeslager, 225 Pa. 296, 74 A. 174; Montgomery v. City of Philadelphia, 253 Fed. 473. We, therefore hold that appellant Parker is entitled to receive payment from the sum of $25,000 presently held by the estate as final settlement under the contract between decedent and Albright. However, since the payment of the Parker claim was contingent upon final settlement between Boyd and Albright at the completion of the contract and not merely upon the placing of the permanent mortgage, the interest claimed by Parker from the date of the mortgage settlement to the date Albright was adjudged a bankrupt is denied.\nOther Claimants\n, The remaining claimants were creditors of William B. Albright. A number of them secured judgments against him in the Court of Common Pleas of Delaware County. Writs of attachment execution were served on decedent as garnishee, but the adjudication of Albright as a bankrupt stayed the attachment execution proceedings. The court below held that there was no individual liability on the part of decedent\u2019s estate for the payment of the claims, and the claimants were relegated to the bankruptcy court for satisfaction.\nAn attachment execution works an assignment to the plaintiff of the debt due the defendant from the garnishee. . The rights of the attaching creditor are the same as the rights of the defendant in the writ. Trainer Estate, 166 Pa. Superior Ct. 472, 71 A. 2d 833, and cases therein cited; Sniderman et al. v. Nerone et al., 136 Pa. Superior Ct. 381, 7 A. 2d 496. At the time the writs were served, these claimants had a valid claim upon the fund which decedent owed Albright for the completion of the contract. Since all of the attachments were in effect prior to the four month preferential period provided for in the bankruptcy act, and, since their validity is unchallenged, the bankruptcy court lacks jurisdiction to enjoin the attaching creditors. Straton v. New, 283 U. S. 318, 75 L. ed. 1060, 51 S. Ct. 465. We can see no legitimate grounds for subjecting these claimants to the additional delay and expense that would be involved in proceeding through the trustee in bankruptcy when they have a valid enforceable claim against decedent\u2019s estate in a court having proper jurisdiction over the funds in question. See McCahan's Estate, 312 Pa. 515, 168 A. 685.\nCertain other claims, not yet reduced to judgment, were presented on behalf of other sub-contractors to whom Albright was indebted for work performed in connection with the master contract. Since these claims are not predicated upon any personal liability of decedent, the court below properly held that the correct forum for determination of their validity was the bankruptcy court.\nThe settlement by the trustee in bankruptcy for Albright and the executor of decedent\u2019s estate of the conflicting claims arising from the master contract between these two parties in the amount of $25,000 is approved.\nThe case is remanded to the Orphans\u2019 Court of Delaware County for a determination of the priority and payment of the claims held to be valid. Any sum remaining after payment of these claims is to be awarded to the trustee in bankruptcy.\nDecree modified and, as modified, affirmed. Costs on appellants in Appeals Nos. 72, 91 and 136 January Term, 1958. Costs on the estate in Appeals Nos. 96, 101, 132, 133.\nA prior agreement, contingent upon receipt of the proceeds of a construction mortgage which was never obtained, had been executed on October 7, 1947. This agreement was rescinded in writing on December 10, 1947.\nThe only testimony that could be considered contrary to the existence of this agreement was that of the architect, Jobson, who testified as to what he himself believed was the agreement between the parties. Jobson also testified that it was his understanding that a permanent mortgage in the amount of $40,000 was to be secured upon the completion of the job, and that no other mortgage was contemplated. This was in clear contradiction to the testimony of other witnesses and the events that subsequently developed.\nThe estate also disputed the claim on the grounds that the assignment was taken by Hoffman individually, but that the amount claimed included debts owed and money advanced by both Hoffman and the Hoffman Humber Co., a corporation. In view of the result that we have reached, we need not pass upon the efficacy of this contention.\nThese purchase orders for extras were the subject of a Mechanic\u2019s Tien Claim as of No. 17 March Term, 1949, Mechanics\u2019 Tien Docket, Court of Common Pleas of Delaware County, which claim has been satisfied of record by payment in full.\nThis conclusion obviously applies with equal force to the Guerrina claim.\nSee In Re Hudzinski, 85 F. Supp. 341, 343: \u201cIf tlie execution had been issued on a judgment against the bankrupt so that possession was in the state court, more than four months prior to bankruptcy, it would be improper to stay the execution.\u201d",
+        "type": "majority",
+        "author": "Mr. Justice Benjamin R. Jones,"
+      },
+      {
+        "text": "CONCUEEING AND DISSENTING OPINION BY\nMe. JUSTICE Bell:\nI concur in the opinion of the Court except that part which deals with the parol evidence rule in . connection with Hoffman\u2019s claim.\nThe majority\u2019s opinion on the admissibility of parol evidence to vary a written agreement opens wide the door to fraud; it flies in the teeth of the rule which has been iterated and reiterated in more than a dozen recent decisions of this Court; and it obviously circumvents and effectually nullifies the modern Pennsylvania Parol Evidence Rule which has become firmly imbedded in the law of Pennsylvania since 1925.\nThe modern Pennsylvania parol evidence rule which dispelled the thick fog of confusion which enveloped the old Pennsylvania parol evidence rule, has been forged and perfected during the last 30 years and is, or up to this moment has been, clearly and firmly established. That rule, it is universally agreed, is as follows:\nWhere the alleged prior or contemporaneous oral representation or agreement, inducing or otherwise, concerns a subject which is specifically dealt with in the written contract, or the written contract covers or purports to cover the entire agreement of the parties, and such oral representation or agreement will alter, Vary, add to, subtract from, or otherwise modify the written agreement, such oral representation or agreement is merged in or superseded by the subsequent written contract, and parol evidence thereof is inadmissible in evidence unless it is averred and proved that the oral agreement or representation was omitted from the written agreement by fraud, accident or mistake.\nMoreover, \u201cNotwithstanding the name given it, the parol evidence rule is a rule, not of evidence, but of substantive law: [Citing authorities]\u201d: O\u2019Brien v. O\u2019Brien, 362 Pa. 66, 71-72, 66 A. 2d 309.\nThere is neither averment nor a shred of testimony in the instant case of fraud, accident or mistake; and far more important, there is neither averment nor a scintilla of evidence that the alleged oral agreement, which very substantially varied the written agreement, was omitted from the written agreement by fraud or accident or mistake.\nBardwell v. The Willis Company, 375 Pa. 503, 100 A. 2d 102, is factually on all fours with and legally rules the instant case. In that case plaintiff brought an action in trespass for loss of profits \u201csuffered as a result of false and fraudulent material representations\u201d made by defendants immediately prior to or contemporaneous with the execution of the five year lease. Plaintiff further averred that he relied upon these fraudulent representations and was, because of them, induced to enter into the lease. Notwithstanding these averments, this Court sustained a demurrer by defendant which admitted the false inducing representations, and said (pages 506-507) :\n\u201cWhere the alleged prior or contemporaneous oral representations or agreements concern a subject which is specifically dealt with in the written contract, and the written contract covers or purports to cover the entire agreement of the parties, the law is now clearly and well settled that in the absence of fraud, accident or mistake the alleged oral representations or agreements are merged in or superseded by the subsequent written contract, and parol evidence to vary, modify or supersede the written contract is inadmissible in evidence: Phillips Gas and Oil Co. v. Kline, 368 Pa. 516, 519, 84 A. 2d 301; Grubb v. Rockey, 366 Pa. 592, 79 A. 2d 255; Walker v. Saricks, 360 Pa. 594, 63 A. 2d 9; Gianni v. Russell & Co., Inc., 281 Pa. 320, 126 A. 791; Speier v. Michelson, 303 Pa. 66, 154 A. 127; O\u2019Brien v. O\u2019Brien, 362 Pa. 66, 66 A. 2d 309; Russell v. Sickles, 306 Pa. 586, 160 A. 610.\n\u201cThere is not the slightest doubt that if plaintiffs had merely averred the falsity of the alleged oral representations, parol evidence thereof would have been inadmissible. Does the fact that plaintiffs further averred that these oral representations were fraudulently made without averring that they were fraudulently or by accident or mistake omitted from the subsequent complete written contract suffice to make the testimony admissible? The answer to this question is \u2018no\u2019; if it were otherwise the parol evidence rule would become a mockery, because all a party to the written contract would have to do to avoid, modify or nullify it would be to aver (and prove) that the false representations were fraudulently made.\n\u201cThe Parol Evidence Rule has had a checkered career in Pennsylvania. Now that it has been well and wisely settled we will not permit it to be evaded and undermined by such tactics. Fraudulent misrepresentations may be proved to modify or avoid a written contract if it is averred and proved that they were omitted from the (complete) written contract by fraud, accident or mistake. Cf. Null v. General Motors Truck Co., 311 Pa. 580, 586, 166 A. 562; Sterling Corp. v. Jennings, 101 Pa. Superior Ct. 291.\u201d\nBardwell v. The Willis Company, 375 Pa., supra, is obviously far stronger in favor of the admissibility of parol evidence than the instant case but in spite of the defendant\u2019s record admission of its fraudulent representations, this Court held that this was legally insufficient because there was no averment and proof that the alleged parol contract was omitted from the written contract by fraud, accident or mistake.\nIn Anderson v. Murdoch, 371 Pa. 212, 88 A. 2d 720, plaintiff sued to recover the value of household goods which were destroyed by fire in defendant\u2019s warehouse. The warehouse receipt provided that the goods were stored at the owner\u2019s risk of loss by fire. This Court held that plaintiff\u2019s testimony that just prior to or contemporaneously with the. execution and delivery of the warehouse receipt defendant told plaintiff that the furniture would be stored in a separate fireproof room and there would be no need for plaintiff to carry insurance thereon, and that she relied upon this representation, was inadmissible. The Court said (page. 216) :\n\u201cSince the complaint did not aver that these alleged oral representations, to which Mrs. Anderson testified' were omitted from the written contract by fraud, accident or mistake, and since they varied or contradicted the written contract, the trial court was correct in striking from the record this testimony. We have recently so thoroughly discussed the question of the admissibility of parol evidence to alter a written contract and so firmly and, we believe, clearly enunciated the principles applicable thereto that we deem further discussion unnecessary. See Grubb v. Rockey, 366 Pa. 592, 79 A. 2d 255; O\u2019Brien v. O\u2019Brien, 362 Pa. 66, 66 A. 2d 309; Walker v. Saricks, 360 Pa. 594, 63 A. 2d 9; Speier v. Michelson, 303 Pa. 66, 154 A. 127; Gianni v. Russell, 281 Pa. 320, 126 A. 791; Phillips Gas Co. v. Kline, 368 Pa. 516, 84 A. 2d 301.\u201d\nIn O\u2019Brien v. O\u2019Brien, 362 Pa., supra, the Court, speaking through Mr. Justice Horace Stern, said (pages 70, 71, 72) The question therefore presents itself: Have complainants a right of action on their counterclaim? As far as it is based upon the alleged oral agreement of Clarence J. O\u2019Brien that he would not, for a certain time, engage in a competing business, which agreement was allegedly made immediately prior to the signing of the agreement of dissolution, it is clear that they cannot avail themselves of any such asserted obligation on his part, for the principle enunciated in Gianni v. R. Russell & Co., Inc., 281 Pa. 320, 323, 324, 126 A. 791, 792, has become too firmly imbedded in the law of this Commonwealth to permit of a recovery on any such oral agreement. . . . Therefore, because of the parol evidence rule, the alleged oral agreement cannot be made the basis of the right of action asserted in the counterclaim which claimants filed in the \u00bfction of assumpsit.\n'\u25a0\u25a0\u201cIs the applicability of the parol evidence rule a question that may be raised, as in this case, by preliminary objections in advance of trial? Notwithstanding the name given it, the parol evidence rule is a rule, not of evidence> but of substantive law: Restatement, Contracts, \u00a7237, comment a; Wigmore on Evidence, 3d ed., vol. IX, pp. 3, 4, \u00a72400(1) ; Williston on Contracts, rev. ed., vol. 3, p. 1813, \u00a7631. Accordingly, the effect of it, and the right of a litigant to obtain judgment in reliance on it, may properly be determined on the pleadings, and judgment may be entered for want of a sufficient answer or reply which sets up an oral agreement invalidated by the rule: Richards v. Integrity Trust Co., 317 Pa. 513, 516, 517, 177 A. 28, 29; Germantown Trust Co., Guardian, v. Emhardt (1), 321 Pa. 561, 564, 565, 184 A. 457, 459; Pennsylvania Company for Insurances on Lives and Granting Annuities v. Lebanon Building & Loan Association, 337 Pa. 316, 318, 319, 10 A. 2d 418, 419, 420; Hambleton v. Hartman, 160 Pa. Superior Ct. 447, 449-451, 51 A. 2d 511, 512, 513 . . . .\u201d\nIn Russell v. Sickles, 306 Pa., supra, plaintiff sued defendants for money due him under an employment contract. The written contract provided that Russell should be paid a stipulated salary and additional compensation at the end of each year of 40% of the net profits. Defendants claimed that it was orally contemporaneously agreed that where the business operated in any year at a loss plaintiff should bear his share, namely 40%, of each year\u2019s loss. The Court \u25a0held that this evidence was inadmissible. The Court said (pages 591) : \u201cThe language of Mr. Justice Simpson in Nick v. Craig, 301 Pa. 50, 56, fits the situation -in the case at bar: \u2018There is neither averment nor proof that anything was omitted from or added to the agreement by fraud, accident or mistake; hence, it must be construed exactly as it is written; and all prior negotiations as to its terms must be \u25a0 considered as merged in it.\u2019 We have repeatedly announced it . as our policy to uphold the integrity of written instruments* and .to insist upon rigid adherence to . the rule that where parties have deliberately and formally, committed their engagements to writing, they cannot be .permitted, by parol evidence, , to vary or modify the written contract, unless it is averred and proved that by fraud, accident or mistake, the: terms sought to be introduced were omitted from the writing: Gianni v. Russell, 281 Pa. 320; First Nat. Bank v. Sagerson, 283 Pa. 406; Speier v. Michelson, 303 Pa. 66; Hill & MacMillan v. Taylor, 304 Pa. 18.\u201d\nIn Grubb v. Rockey, 366 Pa., supra, where the purchase price for a farm was stated to be $10,000 and the seller was entitled to receive the rents, issues and profits thereof before the first day of March 1949, .an oral agreement which the chancellor found had been made to reserve to the seller the wheat crop after March 1st and which had induced the written agreement, was held by this Court to be inadmissible. The Court said (page 597) : \u201cWhile . . . earlier cases so holding were not specifically overruled, a new or modern parol evidence rule was announced in Gianni v. Russell & Co., Inc.,. 281 Pa. 320, 126 A. 791; and the old law was judicially buried in Speier v. Michelson, 303 Pa. 66, 154 A. 127.\n\u201cThe modern Pennsylvania Parol Evidence Rule is well stated by Mr. Justice Stearne in Walker v. Saricks, 360 Pa. 594, 598, 63 A. 2d 9: \u2018This Court said in Gianni v. R. Russell & Co., Inc., 281 Pa. 320, 323, 126 A. 791: \u201cWhere parties, without any fraud or mistake, have deliberately put their engagements in writing, the law declares the writing to be not only the best, but the only, evidence of their agreement: Martin v. Berens, 67 Pa. 459, 463; Irvin v. Irvin, 142 Pa. 271, 287. All preliminary negotiations, conversations and verbal agreements are merged in and superseded by the subsequent written contract . . . and unless fraud, accident or mistake be averred, the writing constitutes the agreement between the parties, and its terms cannot be added to nor subtracted from by parol evidence: Union Storage Co. v. Speck, 194 Pa. 126, 133; Vito v. Birkel, 209 Pa. 206, 208.\u201d \u2019 \u201d\nIn T. W. Phillips Gas and Oil Co. v. Kline, 368 Pa. 516, 84 A. 2d 301, we held that defendants\u2019 offer to prove that at the time of executing the lease plaintiff represented to them (1) that the lease would provide for payments of f300 a year in the event gas was obtained in paying quantities, and (2) that the lease would provide them with free gas \u2014 each of which slightly modified the written lease \u2014 was inadmissible. The Court said (page 519) : \u201cThis is nothing but an attempt by defendants to alter, by parol evidence, a subsequent written agreement with respect to . . . matters fully and specifically covered at length in the written' agreement. Such an attempt, in view of our recent decisions on this subject is astonishing. Where no fra/ud, accident or mistake is averred and proved, and the alleged prior or contemporaneous oral representation or agreement concerns a subject which is specifically dealt with in the written contract, the law is clearly and well settled that the alleged oral representation or agreement is merged in or superseded by the subsequent written contract and cannot vary, modify or supersede the written contract; and hence parol evidence thereof is inadmissible in evidence: Grubb v. Rockey, 366 Pa. 592, 79 A. 2d 255; Walker v. Saricks, 360 Pa. 594, 63 A. 2d 9; Gianni v. Russell & Co., Inc., 281 Pa. 320, 126 A. 791; Speier v. Michelson, 303 Pa. 66, 154 A. 127; O\u2019Brien v. O\u2019Brien, 362 Pa. 66, 66 A. 2d 309; Russell v. Sickles, 306 Pa. 586, 160 A. 610.\u201d\nMoreover, in the recent case of Sendick v. Matvey, 391 Pa. 286, 138 A. 2d 92, this Court, speaking through Mr. Justice Benjamin R. Jones, reversed the chancellor and held that in an action in equity instituted by a mother against her daughter to rescind a deed to the daughter, oral evidence to show that the consideration for the deed was a promise by the daughter to take care of her mother was inadmissible, because it would be a violation of the parol evidence rule. The Court said (pages 297-298) : \u201cThe chancellor\u2019s conclusion that there was failure of consideration for the deed is based primarily upon Mrs. Parks\u2019 testimony that the appellant [the daughter] had promised [her mother], in order to induce her to convey the property to her, to assume responsibility for her care and maintenance. ... It is equally clear that the only effect of Mrs. Parks\u2019 testimony is to vary or alter the terms of this written agreement by adding to it by parol an additional undertaking by the appellant. This Court stated, in Phillips Gas and Oil Co. v. Kline, 368 Pa. 516, 519, 84 A. 2d 301: Where no fraud, accident or mistake is averred and proved, and the alleged prior or contemporaneous oral representation or agreement concerns a subject which is specifically dealt with in the written contract, the law is clearly and well settled that the alleged oral representation or agreement is merged in or superseded by the subsequent written contract and cannot vary, modify or supersede the written contract; and hence parol evidence thereof is inadmissible in evidence: Grubb v. Rockey, 366 Pa. 592, 79 A. 2d 255; Walker v. Saricks, 360 Pa. 594, 63 A. 2d 9; Gianni v. Russell and Co., Inc., 281 Pa. 320, 126 A. 791; Speier v. Michelson, 303 Pa. 66, 154 A. 127; O'Brien v. O\u2019Brien, 362 Pa. 66, 66 A. 2d 309; Russell v. Sickles, 306 Pa. 586, 160 A. 610.\u2019\u201d\n' These cases, we repeat, clearly and expressly rule the instant case and hold that parol evidence of the alleged oral agreement which varied the written agreement was inadmissibe, especially since there was no averment and not even a scintilla of testimony by any witness . that the alleged oral agreement had been omitted from the written agreement by fraud, accident or mistake. If this modern parol evidence rule could be so easily circumvented and nullified by persons having an interest in the alleged oral agreement, the rule which, has now become a rule of substantive law and not a rule of evidence (O\u2019Brien v. O\u2019Brien, 362 Pa., supra) would become virtually worthless1 and all-of the aforesaid. cases and other decisions of this Court on the' subject would be effectually nullified or by necessary-implication, overruled. \\\nNot only was there, we repeat, no averment or proof that the alleged oral agreement was omitted from the written agreement by fraud, accident or mistake, biit there is not even any proof of fraud, accident , or mistake. Plaintiff\u2019s only proof, at J)est, is a prior or contemporaneous oral agreement which greatly varies the written agreement viz., a judgment note for $30,000. Even if this oral- agreement had been proved, it would undoubtedly' be inadmissible and legally inadequate under all the authorities.\nPlaintiff\u2019s Evidence, Even if Admissible, Was Totally Inadequate\nTo pile Pelion upon Ossa, the majority\u2019s decision cannot or should not be sustained for two additional reasons. The majority bases its position on the test-imony of C. William Kraft (counsel for Boyd) j who testified seven years after the alleged oral agreement (between Boyd and Albright who was the payee in the judgment note) which greatly varied the judgment note, that Albright admitted to him and his client, in a heated conversation ten months after the alleged oral agreement, that he had made an oral agreement prior to the execution of the judgment note and that he did not intend to keep it. This is a strange admission for a man to make to his adversary and his adversary\u2019s attorney. The Chancellor believed Judge Kraft and found that the parties had made the exact agreement which Judge Kraft testified Albright orally admitted. However, plaintiff\u2019s other witness, Guerrina, testified to a different oral agreement; the testimony of the architect Jobson, who incidentally wrote a confirming letter one day after the alleged oral agreement, as to his understanding was entirely different; and Albright was not called upon to testify in behalf of the plaintiff when it. was his burden to prove by evidence which was clear, precise and convincing a specific oral agreement \u2014 if any existed and was admissible \u2014 which varied the written agreement. Such testimony, under all the facts and circumstances of this case, certainly does not rise to the test of \u201cclear, precise and convincing\u201d evidence which is necessary \u2014 if admissible at all \u2014 to justify the material alteration of the subsequent written agreement. This contrariety of recollection or testimony is an additional illustration of one of the basic reasons for the modern Parol Evidence Buie.\nHow unwise and fallacious the majority\u2019s new interpretation of the Parol Evidence Buie is may be illustrated by the following example: If plaintiff and ten witnesses testified, and their testimony was clear, precise and convincing, that prior to or contemporaneously with, the written agreement, plaintiff and defendant agreed to an oral agreement which varied or modified the written agreement, or if defendant admitted this oral agreement by demurrer, that testimony is inadmissible and that admission of record is legally insufficient to vary or modify the written agreement: Bardwell v. The Willis Co., 375 Pa., supra, and cases hereinabove cited. However, if plaintiff testifies and his testimony, even though contradicted, is clear, precise and convincing, that the day after or one year after or seven years after the written agreement was signed, defendant admitted the contemporaneous or prior oral agreement \u2014 such testimony is not only admissible but is legally sufficient to vary or modify the written agreement. An easier way to circumvent and nullify the modern Parol Evidence Rule and to reopen (as before Gianni v. R. Russell & Co., Inc., 281 Pa. 320, 126 A. 791) the gate to fraud, it would, he difficult to-imagine.\n\u2022 The majority opinion says that the Parol Evidence Rule \u201cis aimed at the prevention of, not the protection, of fraud.\u201d There is not a scintilla of evidence in this case of fraud. The basic reasons for the establishment of Pennsylvania\u2019s modern Parol Evidence Rule were (:a) - to prevent fraud; (b) to eliminate the tremendous confusion which the old Rule had caused, and (c) to establish the integrity of written agreements. Like the Statute of Frauds, the Dead Man\u2019s Rule, the Statute of Limitations, Laches, Estoppel, Adverse Possession and other rules of limitation or repose, cases will arise where a just claim is defeated. While that would not be sufficient to justify the abandonment, emasculation or nullification of the modern Parol Evidence Rule, this is not such a case. It is, we repeat, difficult to imagine an easier way to avoid or circumvent and nullify the modern Parol Evidence Rule than that approved in the' majority opinion. Even the appellants never urged this circumvention, nor did Judge Harold L.-.Ervin (who is. now a member of the Superior Court of Pennsylvania) who admitted this oral evidence to prove payment (payment or non-payment can always be proved by parol evidence). ...\nThe majority opinion has cited one modern Supreme Court case in an attempt to support the admission of this testimony which, as we have seen, circumvents and nullifies the modern Parol Evidence Rule, namely, Allinger v. Melvin, 315 Pa. 298, 172 A. 712. The AlUnger case was a wise decision but it is clearly distinguishable. The question there was whether parol evidence was admissible to prove a contemporaneous agreement that execution on a bond (and accompanying mortgage) should be limited to the mortgaged premises. Both parties to the bond testified that the aforesaid restriction which was agreed upon had been omitted from the bond by mistake and that the obligee, to avoid delaying settlement, agreed that-he would immediately give the obligor'a letter or agreement protecting Mm and restricting the obligation to the mortgaged real estate. The obligee then, executed and delivered to the obligor the letter which restricted the bond. The. Court correctly held that the testimony by both parties -of tMs oral \u00e1greement which was omitted by mistakex was admissible, and said (page 304) : \u201c. . . In view of the finding of the jury, based on the evidence of both parties to the contract, there can be no question that Whelan made a mistake in omitting from the bond the agreed-upon restrictions, that Melvin detected the mistake, refused to execute the papers, and ultimately did so .only, on Whelan\u2019s' promise to correct the mistake, as -was' in fact done by the letter, and supporting oral evidence received. . . , Here- both parties to the contract agree that, the instrument, as Whelan drew it, did not express their agreement, and that it would not have been executed unless the supplementary , [restricting] agreement had been made. Proof of such agreement was proper: . .\nI- would, hold that the judgment- noifce executed by Boyd could not be varied and nullified by this alleged prior parol agreement and I would allow Hoffman\u2019s claim thereunder.\nMr. Justice Musmanno joins in this opinion, \u2022\nItalics throughout, ours.\nWe, of course, believe in Judge. Kraft\u2019s credibility.\nSur a petition to open judgment.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Me. JUSTICE Bell:"
+      }
+    ],
+    "attorneys": [
+      "Joseph Neff Ewing, with him Allen 8. Olmsted, 2nd, for Hoffman, appellant (No. 91).",
+      "Laurence H. Eldredge, with him Boland J. Christy and WilUam A. Burns, for Alex Guerrina & Sons,. Inc., appellant (No. 72).",
+      "Joseph T. Labrun, Jr., with him Edward H. P. Fronefield, and Luts, Frohefield, Warner & Bryant, for Parker,, appellant (No. 101). .",
+      "' David E. Thomas, with him Baspin, Espenshad\u00e9, Heins, Erslcme & Stewart, John B. Graham, B. Win-field Baile and George W. Thompson, for attaching creditors, appellants (Nos. 96, 132, 133 and 136).",
+      "John B. H. Donaldson, with him E. E. Lippincott, II, and Lippmcott A Donaldson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Boyd Estate.\nArgued January 10, 1958.\nBefore Jones, C. J., Bell, Chidsey, Musmanno, Jones and Cohen, JJ.\nreargument refused January 5, 1959.\nJoseph Neff Ewing, with him Allen 8. Olmsted, 2nd, for Hoffman, appellant (No. 91).\nOctober 9, 1958:\nLaurence H. Eldredge, with him Boland J. Christy and WilUam A. Burns, for Alex Guerrina & Sons,. Inc., appellant (No. 72).\nJoseph T. Labrun, Jr., with him Edward H. P. Fronefield, and Luts, Frohefield, Warner & Bryant, for Parker,, appellant (No. 101). .\n' David E. Thomas, with him Baspin, Espenshad\u00e9, Heins, Erslcme & Stewart, John B. Graham, B. Win-field Baile and George W. Thompson, for attaching creditors, appellants (Nos. 96, 132, 133 and 136).\nJohn B. H. Donaldson, with him E. E. Lippincott, II, and Lippmcott A Donaldson, for appellee."
+  },
+  "file_name": "0225-01",
+  "first_page_order": 257,
+  "last_page_order": 288
+}

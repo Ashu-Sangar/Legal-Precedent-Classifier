@@ -1,0 +1,253 @@
+{
+  "id": 1734084,
+  "name": "COMMONWEALTH of Pennsylvania v. Frederick Allen McCLEARY, Appellant",
+  "name_abbreviation": "Commonwealth v. McCleary",
+  "decision_date": "1977-12-23",
+  "docket_number": "No. 6",
+  "first_page": "597",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "475 Pa. 597"
+    },
+    {
+      "type": "parallel",
+      "cite": "381 A.2d 434"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "292 A.2d 358",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "448 Pa. 146",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1944690
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/448/0146-01"
+      ]
+    },
+    {
+      "cite": "344 A.2d 512",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Pa.Super. 601",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6772761
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/235/0601-01"
+      ]
+    },
+    {
+      "cite": "9 L.Ed.2d 87",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 S.Ct. 93",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "371 U.S. 851",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450496,
+        451087,
+        450483,
+        450324,
+        450931,
+        451224,
+        451098,
+        450942,
+        450975
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0851-08",
+        "/us/371/0851-03",
+        "/us/371/0851-02",
+        "/us/371/0851-07",
+        "/us/371/0851-01",
+        "/us/371/0851-04",
+        "/us/371/0851-09",
+        "/us/371/0851-05",
+        "/us/371/0851-06"
+      ]
+    },
+    {
+      "cite": "178 A.2d 728",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "406 Pa. 343",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1304891
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/406/0343-01"
+      ]
+    },
+    {
+      "cite": "290 A.2d 114",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "447 Pa. 322",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1942976
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/447/0322-01"
+      ]
+    },
+    {
+      "cite": "301 A.2d 600",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "451 Pa. 95",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948566
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/451/0095-01"
+      ]
+    },
+    {
+      "cite": "462 Pa. 43",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        485206
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/462/0043-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 589,
+    "char_count": 12351,
+    "ocr_confidence": 0.719,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.28702986158652494
+    },
+    "sha256": "abdb9d0d1a1a18e2fd2171ded096e06a72447ec33369ca16c9890725ccf125c0",
+    "simhash": "1:d62c608264eb66bf",
+    "word_count": 2178
+  },
+  "last_updated": "2024-02-27T19:16:18.997843+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX, MANDERINO and PACKEL, JJ.",
+      "NIX, J., filed a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Frederick Allen McCLEARY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPACKEL, Justice.\nThe only issue we need to decide is the right of the appellant, who was found guilty of second-degree murder, to a new trial because of a supplemental charge of the trial judge in answering a question put to him by the jury.\nThe appellant and Myers were passengers in Sanabria\u2019s car when it was driven near the home of an elderly lady. There was some conflict in the testimony as to whether their purpose was to burglarize or to obtain money by a ruse. There was some testimony that only after Myers got out of the car with a tire iron did the appellant realize that force was to be used and that almost immediately thereafter the appellant and Sanabria left the area. It is admitted that Myers broke into the premises of the lady and killed her by the use of the tire iron. There was further evidence that appellant and Sanabria returned to the general area and picked up Myers and that thereafter the appellant learned for the first time of the homicide.\nAfter the jury had been out for some time they asked three questions, one of which was:\n\u201cIf the Defendant did not know, up to the moment Myers got out of the car with the tire iron that burglary was to be perpetrated, could he be considered as an accomplice?\u201d\nThe judge\u2019s response was very extensive and included the following:\n\u201cLadies and gentlemen, if the Defendant didn\u2019t know until the moment that Myers got out of the car that there was a burglary afoot, then up to that point he should not be considered an accomplice, and as of that moment, would not be under the Felony Murder Doctrine or the theory of accomplice as previously explained, responsible for the events that then transpired.\u201d\n* % * * * * *\n\u201cYou would have to look very carefully at what did or did not happen after that. He is not in the picture as an accomplice to the time up until then, because he didn\u2019t know anything about it. Okay, then what about after-wards? Well, the fact is of course for you to decide, but to be of some help, perhaps, I think I will comment further. You would have to decide whether what happened after that, what he did after that, was that aiding or abetting the committing of the offense in some way.\u201d\nDefense counsel\u2019s objection was as follows:\n\u201cThe only object [sic] I would have as to the Supplemental instructions, I am not sure the Court made it clear if Mr. McCleary left that scene without being an accomplice to burglary and robbery, and that at some later time became involved as coming back to pick up Mr. Myers after he had committed the burglary, that under those circumstances the Felony Murder Doctrine as defined by the Statute would not apply, since what he really is doing here is aiding the flight of Mr. Myers and that the death of Miss Bigler did not occur during his aiding the flight of the principal.\u201d\nThe judge\u2019s reply was, \u201cI think I have done as well as I can do. I note your point, but will let it stand.\u201d\nAlthough the judge\u2019s charge was not too definite, a reasonable understanding of the jury could have been that aid only in the flight of a felon would make an accomplice guilty of a prior murder of which the accomplice knew nothing. The Commonwealth\u2019s first contention is that a participant in a burglary or robbery, including the driver of a get-away car, can be found guilty of felony-murder. Reliance is placed upon Commonwealth v. Melton, 406 Pa. 343, 178 A.2d 728 (1962), cert. denied, 371 U.S. 851, 83 S.Ct. 93, 9 L.Ed.2d 87, but that case deals with a defendant who participated in the felony scheme. In the instant case, the jury\u2019s question did not relate to one who participated in a felony scheme but one who participated only in enabling flight after the felony and after the murder had been completed.\nThe Commonwealth makes the further argument by way of the following syllogism: participation in a felony is a basis for felony-murder; flight is part of a felony; and, therefore, participating in flight is a basis for felony-murder. The logic falls down with an analysis of the minor premise. Flight might be part of a felony for a given statutory purpose, i. e., a killing during flight can be considered as a killing during the commission of a felony. That does not mean that one who only aids flight without participating in the felony plan and without knowledge of a death in the commission of the felony can be held responsible for the killing.\nThe Crimes Code refers to felony-murder when a defendant acts \u201cas a principal or an accomplice in the perpetration of a felony.\u201d It also specifically defines \u201caccomplice\u201d in terms of an accessory before the fact. In further contrast the Crimes Code deals with flight and other after-the-fact conduct as a new statutorily defined crime. Under the circumstances of this case we have a very important issue declared in the supplemental charge to the jury in a manner which could reasonably have led them to a mistaken understanding of a pertinent principle of law.\nJudgment of sentence reversed and new trial ordered.\nNIX, J., filed a dissenting opinion.\n. Two other issues present serious questions of law which need not be decided for this appeal.\n. 18 Pa.C.S.A. \u00a7 2502(b) (Supp.1977-78).\n. 18 Pa.C.S.A. \u00a7 306(c).\n. 18 Pa.C.S.A. \u00a7 5105. See Commonwealth v. Wright, 235 Pa.Super. 601, 606, 344 A.2d 512, 515 (1975). In Commonwealth v. McFadden, 448 Pa. 146, 150, 292 A.2d 358, 360 (1972), it is pointed out, \u201cIf one knows another has committed a felony and in any manner aids him to escape arrest he is guilty of being an accessory after the fact.\u201d",
+        "type": "majority",
+        "author": "PACKEL, Justice."
+      },
+      {
+        "text": "NIX, Justice,\ndissenting.\nI agree with the majority that if the appellant had only aided and abetted in the flight after the felony and the murder had been completed, appellant could not be held responsible for the death under a theory of accomplice liability. I disagree, however, with the majority\u2019s conclusion that the judge\u2019s comments permitted the jury to conclude that they could hold appellant criminally responsible for the death without a finding that he was an accomplice to the burglary. The understanding which flows from a reading of the supplemental charge as a whole is that the jury must first find the appellant intended to promote or facilitate the burglary before the theory of accomplice liability may be applied. The trial judge instructed the jury on the requisite element of appellant\u2019s alleged knowledge that a burglary would be afoot after appellant and Sanabria delivered Myers to the victim\u2019s house. It was the injection of this culpable knowledge in the supplemental charge in combination with the act of picking up Myers from the victim\u2019s house indicating his intent to facilitate the crimes that provided a basis upon which to find accomplice liability.\nDuring their deliberations, the jury submitted three questions, the first two of which are relevant to this analysis.\nNumber one:\n\u201cIf the Defendant did not know, up to the moment Myers got out of the car with the tire iron that burglary was to be perpetrated, could he be considered as an accomplice?\u201d (Emphasis added).\nNumber two:\n\u201cWhat was the Defendant\u2019s responsibility at this point to present [sic] a burglary to keep from being involved as an accomplice?\u201d\nThe following is the relevant excerpt from the supplemental charge in response to questions one and two.\n\u201cLadies and gentlemen, if the Defendant didn\u2019t know until the moment that Myers got out of the car that there was a burglary afoot, then up to that point he should not be considered an accomplice, and as of that moment, would not be under the Felony Murder Doctrine or the theory of accomplice as previously explained, responsible for the events that then transpired.\nNow, the question then becomes, let\u2019s assume that this happened at 2 o\u2019clock in the morning. He is not involved and responsible as a result of what happened up until 2 o\u2019clock, the Defendant is not involved. The answer, then, becomes well what happened after that? And you would then apply the same definition of an accomplice to circumstances that followed that 2 o\u2019clock assumption. You would have to look very carefully at what did or did not happen after that. He is not in the picture as an accomplice to the time up until then, because he didn\u2019t know anything about it. Okay, then what about afterwards? Well, the fact is of course for you to decide, but to be of some help, perhaps, I think I will comment further. You would have to decide whether what happened after that, what he did after that, was that aiding or abetting the committing of the offense in some way. Did he after that aid or agree to aid or attempt to aid Myers in carrying out the specific burglary that you may find did occur. Well, the law says that mere presence alone is not enough. Therefore, but I think it would also be true that mere presence, if you were not dealing with mere presence, happenstance that he\u2019s there, but if you should find that the Defendant sort of added his body to the events, that he strengthened the resolve, you know, \u2018I\u2019m right behind you, Myers,\u2019 type of situation, so that his presence was more than just a mere coincide [sic], but was an element of support, you could or could not say that this is an aiding or abetting. You have to look at all the circumstances. You would have to determine whether the Defendant did or did not indicate that he would watch out for Myers, and if he did, when did he do it? If that was all said before this magic 2 o\u2019clock, then I say again it wouldn\u2019t be an element that would bring him into this picture, but if he said that and he said it after he had knowledge that a burglary was afoot, then you could consider that, or you could not consider that as an indication that he was aiding or abetting the felony, because now he knows about it, and is saying I will look out for you. In that context you have to consider what \u2014 thinking and talking about what happened after the 2 o\u2019clock, our assumed hour, you would have to analyze the testimony about meeting Myers and taking him back to York, was that a coincide [sic]? Was that something that McCleary didn\u2019t know about, that was arranged between Myers and Sanabria? Or ishe [sic] in some way involved in the returning transportation, and is that an aiding or abetting of the offense, which at this point, according to the assumption of your question, he has something to \u2014 he has information about.\nSo I am saying in possibly a long winded way, I hope it\u2019s not confusing, I hope I\u2019m putting it more specifically in the context of the case, and all these factual determinations are entirely up to you. I am saying a short answer is that he didn\u2019t know until Myers got out of the car, he is not responsible for anything that happened up until that point in time, and the task is, then, to apply this aiding or abetting language, which is the key of being an accomplice, if he aids or abets with the intent of facilitating the crime, apply that to what happened thereafter. If you find that thereafter all he did was get out of there, did not aid, agree, or attempt to aid, and that whatever he did was with no intent of promoting this offense, then he would not be responsible for the conduct of Myers.\u201d\nBy pointing out the necessity of the element of intent to promote or facilitate the burglary, knowing that Myers was armed, it cannot be said that a \u201creasonable understanding\u201d of the charge as a whole was that merely picking up Myers from the scene of the crimes would be sufficient to conclude appellant was an accomplice and, therefore, criminally responsible for the death.\nI would affirm the judgment of sentence.\n. The charge must be read as a whole on appeal in order to determine its effect and portions should not be taken out of context. Commonwealth v. Stoltzfus, 462 Pa. 43, 337 A.2d 873 (1975); Commonwealth v. Stafford, 451 Pa. 95, 301 A.2d 600 (1973); Commonwealth v. Zapata, 447 Pa. 322, 290 A.2d 114 (1972).\n. The third question requested an explanation of what constitutes third degree murder.",
+        "type": "dissent",
+        "author": "NIX, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Clayton R. Wilcox, Gettysburg, for appellant.",
+      "Donald L. Reihart, Dist. Atty., Sheryl Ann Dorney, Asst. Dist. Atty., York, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "381 A.2d 434\nCOMMONWEALTH of Pennsylvania v. Frederick Allen McCLEARY, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 17, 1977.\nDecided Dec. 23, 1977.\nClayton R. Wilcox, Gettysburg, for appellant.\nDonald L. Reihart, Dist. Atty., Sheryl Ann Dorney, Asst. Dist. Atty., York, for appellee.\nBefore EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX, MANDERINO and PACKEL, JJ."
+  },
+  "file_name": "0597-01",
+  "first_page_order": 627,
+  "last_page_order": 634
+}

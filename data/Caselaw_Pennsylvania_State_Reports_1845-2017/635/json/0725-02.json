@@ -1,0 +1,70 @@
+{
+  "id": 12281678,
+  "name": "Com. v. Vose",
+  "name_abbreviation": "Com. v. Vose",
+  "decision_date": "2016-02-17",
+  "docket_number": "644 MAL (2015)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 725"
+    },
+    {
+      "type": "parallel",
+      "cite": "131 A.3d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 458",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 155,
+    "ocr_confidence": 0.756,
+    "sha256": "a55a41ee4d088b1b7aa0a0e18d9f677f41b924e4c5fe926a68851a7ac72f9d33",
+    "simhash": "1:3f76f0ddbb4bb2de",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Vose"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 458",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Vose\n02/17/2016\n644 MAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0725-02",
+  "first_page_order": 785,
+  "last_page_order": 785
+}

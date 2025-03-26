@@ -1,0 +1,70 @@
+{
+  "id": 12284905,
+  "name": "Com. v. Gamble",
+  "name_abbreviation": "Com. v. Gamble",
+  "decision_date": "2015-10-23",
+  "docket_number": "418 MAL (2015)",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 775"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.902,
+    "sha256": "f06d0290bc34977a9819dd74fc5147688a8703241fb3e51bf4693517760f49d2",
+    "simhash": "1:30004000d8621960",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Gamble"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 380",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Gamble\n10/23/2015\n418 MAL (2015)"
+  },
+  "file_name": "0775-08",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

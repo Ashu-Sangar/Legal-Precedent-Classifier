@@ -1,0 +1,81 @@
+{
+  "id": 1171370,
+  "name": "Santer, Appellant, v. Santer",
+  "name_abbreviation": "Santer v. Santer",
+  "decision_date": "1936-11-23",
+  "docket_number": "Appeal, No. 90",
+  "first_page": "140",
+  "last_page": "142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "324 Pa. 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "115 Pa. Superior Ct. 1",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        977419
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/115/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 400,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.043155218701939765
+    },
+    "sha256": "463938b22fc700947bb774df2e6beae5c0abbbdf6695e0a8be356285f44c7f84",
+    "simhash": "1:c1f2af889fa1348a",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T21:33:05.354188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, O. J., Schaffer, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Santer, Appellant, v. Santer."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nDecree affirmed on the opinion of the Superior Court, which appears in 115 Pa. Superior Ct. 1.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Frank R. 8. Kaplan, with him Alexander H. Sehullman and Harold H. Harter, for appellant.",
+      "Harland I. Casteel, with him William Le Qoullon, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Santer, Appellant, v. Santer.\nArgued October 13, 1936.\nBefore Kephart, O. J., Schaffer, Drew, Linn, Stern and Barnes, JJ.\nFrank R. 8. Kaplan, with him Alexander H. Sehullman and Harold H. Harter, for appellant.\nHarland I. Casteel, with him William Le Qoullon, for appellee.\nNovember 23, 1936:"
+  },
+  "file_name": "0140-02",
+  "first_page_order": 168,
+  "last_page_order": 170
+}

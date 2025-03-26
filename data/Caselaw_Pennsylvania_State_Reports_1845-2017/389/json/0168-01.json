@@ -1,0 +1,68 @@
+{
+  "id": 1274016,
+  "name": "McManus v. Pennsylvania Electric Company, Appellant",
+  "name_abbreviation": "McManus v. Pennsylvania Electric Co.",
+  "decision_date": "1957-05-27",
+  "docket_number": "Appeal, No. 129",
+  "first_page": "168",
+  "last_page": "169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "389 Pa. 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 389,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 9.095626876101068e-08,
+      "percentile": 0.5058227332944893
+    },
+    "sha256": "223c47390ece6d8e298c1f33114339244aff2ae7abf4b3a41224c3efadc7bf04",
+    "simhash": "1:5b198515453eca61",
+    "word_count": 63
+  },
+  "last_updated": "2023-07-14T20:58:05.857088+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Chidsey, Musmanno, Arnold, Jones and Cohen, JJ."
+    ],
+    "parties": [
+      "McManus v. Pennsylvania Electric Company, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgment of the court below is affirmed on the opinion of Judge Roberts, 8 D. & C. 2d 303.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Frank B. Quinn, with him Quinn, Leemhuis, Plate & Dwyer, for appellant.",
+      "James A. Quisenberry, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "McManus v. Pennsylvania Electric Company, Appellant.\nArgued April 23, 1957.\nBefore Jones, C. J., Bell, Chidsey, Musmanno, Arnold, Jones and Cohen, JJ.\nMay 27, 1957:\nFrank B. Quinn, with him Quinn, Leemhuis, Plate & Dwyer, for appellant.\nJames A. Quisenberry, for appellees."
+  },
+  "file_name": "0168-01",
+  "first_page_order": 190,
+  "last_page_order": 191
+}

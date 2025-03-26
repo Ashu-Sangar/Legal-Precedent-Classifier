@@ -1,0 +1,80 @@
+{
+  "id": 12283730,
+  "name": "Payne, In re; Com., In re",
+  "name_abbreviation": "In re Payne",
+  "decision_date": "2016-08-03",
+  "docket_number": "85 MAL (2016)",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "129 A.3d 546",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6767245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/129/0546-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 180,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24916510576485348
+    },
+    "sha256": "cbb75b21185d201e4c727d987f1f02e7ff0b78d3c74c37cd296bcc7b83083c14",
+    "simhash": "1:01377958aa8c73dd",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Payne, In re; Com., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 129 A.3d 546",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Payne, In re; Com., In re\n08/03/2016\n85 MAL (2016)\n. Justices DONOHUE and MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0665-09",
+  "first_page_order": 717,
+  "last_page_order": 717
+}

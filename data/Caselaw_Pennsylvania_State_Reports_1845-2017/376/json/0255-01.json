@@ -1,0 +1,110 @@
+{
+  "id": 1246163,
+  "name": "Smith Disbarment Case",
+  "name_abbreviation": "Smith Disbarment Case",
+  "decision_date": "1954-01-12",
+  "docket_number": "Appeal, No. 307",
+  "first_page": "255",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "376 Pa. 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "167 A. 579",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 Pa. 555",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1150662
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/312/0555-01"
+      ]
+    },
+    {
+      "cite": "184 A. 69",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "321 Pa. 103",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165849
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/321/0103-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 256,
+    "char_count": 2635,
+    "ocr_confidence": 0.375,
+    "pagerank": {
+      "raw": 5.766996448940958e-08,
+      "percentile": 0.3603339422491427
+    },
+    "sha256": "a86f525e32ddc7162fd7a9dfce1bc53e47d2e7b3531018d0f135d5613cc479e3",
+    "simhash": "1:a62018d6b1a254ab",
+    "word_count": 447
+  },
+  "last_updated": "2024-02-27T22:19:01.675281+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Steen, C. J., Stearns, Jones, Chipset, Musmanno and Arnold, JJ."
+    ],
+    "parties": [
+      "Smith Disbarment Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThis is an appeal from a decree of a Special Disciplinary Court of Common Pleas No. 2 of Philadelphia County, that John M. Smith, Jr. be disbarred from practice at the bar of the common pleas of the first judicial district of Pennsylvania, and striking Ms name from the roll of attorneys.\nThe case is before us de novo but the findings of the Special Disciplinary Court, if supported by competent evidence, are of especially persuasive influence: Samuel W. Salus\u2019s Case, 321 Pa. 103, 184 A. 69; Moyerman\u2019s Case, 312 Pa. 555, 167 A. 579.\nAfter considering the entire record with care, the decree of the learned Special Disciplinary Court is affirmed on the opinion of John Morgan Davis, J., Vincent A. Carroll, J., and Raymond MacNeille, P.J.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      },
+      {
+        "text": "Opinion Concurring and Dissenting in Part by\nMr. Justice Musmanno:\nI concur in the decision of the majority affirming the decree of the lower court finding the appellant guilty of unprofessional conduct, but I dissent from the penalty imposed.\nWhile the appellant has engaged in practices both unethical and improper, I do not believe that Ms misconduct merits the severest punishment that can be visited upon a member of the Bar. Disbarment is no less than professional decapitation. It is for a lawyer the ultimate in dishonor. It is the lowest level in the Blackstonian abyss of dispair.\nThe appellant, whom so far as I know I have never seen, would appear from the record to be a man of considerable ability and tremendous energies. Certainly there should be a way to harness those energies so that they will inure to the best interests of society. I cannot believe that one who has achieved so much in the profession is utterly without hope of redemption.\nA limited suspension, in my opinion, would jolt him into a solemn realization of the sacred obligations devolving upon him, as a member of the bar, not to take liberties, even though falling short of defalcation and crime, with property belonging to his clients.\nI am not prepared to say what should be the period of suspension, but I feel confident that tailing away his office, books and briefcase for five years would provide him with the discipline, punishment and therapeutics necessary to rehabilitate him in ethics, morals and spirits so as to make him again worthy of this most wonderful and honorable profession of the law.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Mr. Justice Musmanno:"
+      }
+    ],
+    "attorneys": [
+      "F. Raymond Heuges, with him John M. Smith, Jr., in propria persona, for appellant.",
+      "Theodore Voorhees, with him Mary E. Groff, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Smith Disbarment Case.\nArgued November 24, 1953.\nBefore Steen, C. J., Stearns, Jones, Chipset, Musmanno and Arnold, JJ.\nF. Raymond Heuges, with him John M. Smith, Jr., in propria persona, for appellant.\nTheodore Voorhees, with him Mary E. Groff, for appellees.\nJanuary 12, 1954:"
+  },
+  "file_name": "0255-01",
+  "first_page_order": 359,
+  "last_page_order": 375
+}

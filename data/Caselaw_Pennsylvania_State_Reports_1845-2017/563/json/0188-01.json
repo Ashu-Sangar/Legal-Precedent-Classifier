@@ -1,0 +1,100 @@
+{
+  "id": 1367001,
+  "name": "Raymond WOLFGANG, Petitioner, v. CITY OF PITTSBURGH, DEPARTMENT OF PERSONNEL AND CIVIL SERVICE COMMISSION, Respondent",
+  "name_abbreviation": "Wolfgang v. City of Pittsburgh",
+  "decision_date": "2000-10-03",
+  "docket_number": "Petition No. 0676 W.D. Alloc. Dkt. 1996",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "563 Pa. 188"
+    },
+    {
+      "type": "parallel",
+      "cite": "758 A.2d 1178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "741 A.2d 180",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        837144,
+        11651121,
+        837132,
+        11651197
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0386-01",
+        "/a2d/741/0180-01",
+        "/pa/559/0387-01",
+        "/a2d/741/0180-02"
+      ]
+    },
+    {
+      "cite": "559 Pa. 387",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837132
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0387-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 495,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4107679636920917
+    },
+    "sha256": "e98184dc3c799407c3b7f8c01a7c1d9e2a7fb9750a7c4c4d9633ce96c01c0cea",
+    "simhash": "1:34aa8a2f42cffdae",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T16:15:34.925696+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Raymond WOLFGANG, Petitioner, v. CITY OF PITTSBURGH, DEPARTMENT OF PERSONNEL AND CIVIL SERVICE COMMISSION, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of October, 2000, we GRANT the Petition for Allowance of Appeal, and we REVERSE the Order of the Commonwealth Court of June 20, 1996 and REMAND to the trial court for proceedings consistent with our decision in Sadowski v. City of Pittsburgh, 559 Pa. 387, 741 A.2d 180 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "758 A.2d 1178\nRaymond WOLFGANG, Petitioner, v. CITY OF PITTSBURGH, DEPARTMENT OF PERSONNEL AND CIVIL SERVICE COMMISSION, Respondent.\nSupreme Court of Pennsylvania.\nOct. 3, 2000."
+  },
+  "file_name": "0188-01",
+  "first_page_order": 386,
+  "last_page_order": 386
+}

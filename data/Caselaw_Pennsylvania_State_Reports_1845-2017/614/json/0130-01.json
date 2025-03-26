@@ -1,0 +1,67 @@
+{
+  "id": 4207510,
+  "name": "Yakoub SMITH, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Smith v. Court of Common Pleas",
+  "decision_date": "2012-01-03",
+  "docket_number": "No. 100 EM 2011",
+  "first_page": "130",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "614 Pa. 130"
+    },
+    {
+      "type": "parallel",
+      "cite": "36 A.3d 103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 330,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.13939892371593904
+    },
+    "sha256": "60afae3ceb41f872706691307569150ecb83a03e85d1e032956a8255bd2f49ed",
+    "simhash": "1:7f276176f3cc283f",
+    "word_count": 56
+  },
+  "last_updated": "2023-07-14T16:49:16.559492+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yakoub SMITH, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of January, 2012, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "36 A.3d 103\nYakoub SMITH, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 100 EM 2011.\nSupreme Court of Pennsylvania.\nJan. 3, 2012."
+  },
+  "file_name": "0130-01",
+  "first_page_order": 172,
+  "last_page_order": 172
+}

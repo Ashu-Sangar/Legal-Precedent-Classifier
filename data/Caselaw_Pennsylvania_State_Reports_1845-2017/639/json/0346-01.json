@@ -1,0 +1,67 @@
+{
+  "id": 12278384,
+  "name": "P.M., Respondent v. K.W., Petitioner",
+  "name_abbreviation": "P.M. v. K.W.",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 679 MAL 2016",
+  "first_page": "346",
+  "last_page": "346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "639 Pa. 346"
+    },
+    {
+      "type": "parallel",
+      "cite": "160 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 221,
+    "ocr_confidence": 0.634,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.2545854266112853
+    },
+    "sha256": "809b1b6a7cf628cb3fb5040101007186ad5021b71d20f4f2537681d7a55a72d5",
+    "simhash": "1:c51dc2b5e3916fd3",
+    "word_count": 38
+  },
+  "last_updated": "2023-07-14T22:32:50.833237+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "P.M., Respondent v. K.W., Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 31st day of October, 2016, the Petition for Allowance of Appeal is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "160 A.3d 770\nP.M., Respondent v. K.W., Petitioner\nNo. 679 MAL 2016\nSupreme Court of Pennsylvania.\nOctober 31, 2016"
+  },
+  "file_name": "0346-01",
+  "first_page_order": 386,
+  "last_page_order": 386
+}

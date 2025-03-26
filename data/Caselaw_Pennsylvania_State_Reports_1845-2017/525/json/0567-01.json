@@ -1,0 +1,95 @@
+{
+  "id": 1823750,
+  "name": "John LOTZ, Petitioner, v. COMMONWEALTH of Pennsylvania, BOARD OF PROBATION AND PAROLE, Respondent",
+  "name_abbreviation": "Lotz v. Commonwealth",
+  "decision_date": "1990-11-30",
+  "docket_number": "Appeal No. 8 M.D. Allocatur Docket 1989",
+  "first_page": "567",
+  "last_page": "567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "525 Pa. 567"
+    },
+    {
+      "type": "parallel",
+      "cite": "583 A.2d 427"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Pa. 500",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822839
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0500-01"
+      ]
+    },
+    {
+      "cite": "548 A.2d 1295",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1378447
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/120/0538-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 469,
+    "ocr_confidence": 0.788,
+    "pagerank": {
+      "raw": 1.059989733099374e-07,
+      "percentile": 0.556492289704921
+    },
+    "sha256": "e17ac6fb1b6817472fd71c48304c524b0a328e1e2641ce46c07e553386b04339",
+    "simhash": "1:2d9a139f0365cdb0",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T23:49:21.920470+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John LOTZ, Petitioner, v. COMMONWEALTH of Pennsylvania, BOARD OF PROBATION AND PAROLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, to-wit, this 30th day of November, 1990, the Petition for Allowance of Appeal is granted. The order of the Commonwealth Court, 120 Pa.Cmwlth. 538, 548 A.2d 1295, is affirmed. Pernell Smith v. Commonwealth, Pennsylvania Board of Probation and Parole, 524 Pa. 500, 574 A.2d 558 (1990).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "583 A.2d 427\nJohn LOTZ, Petitioner, v. COMMONWEALTH of Pennsylvania, BOARD OF PROBATION AND PAROLE, Respondent.\nSupreme Court of Pennsylvania.\nNov. 30, 1990."
+  },
+  "file_name": "0567-01",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

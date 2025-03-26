@@ -1,0 +1,70 @@
+{
+  "id": 12284794,
+  "name": "Com. v. Costello",
+  "name_abbreviation": "Com. v. Costello",
+  "decision_date": "2015-10-27",
+  "docket_number": "297 MAL (2015)",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 774"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "118 A.3d 442",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.86,
+    "sha256": "eb4b83dddb6f7287dc07fcf5606c46be9005d4ccd7f2dbdaeb40486452b8ffe1",
+    "simhash": "1:07602c0ae0fe4d09",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Costello"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 118 A.3d 442",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Costello\n10/27/2015\n297 MAL (2015)"
+  },
+  "file_name": "0774-14",
+  "first_page_order": 828,
+  "last_page_order": 828
+}

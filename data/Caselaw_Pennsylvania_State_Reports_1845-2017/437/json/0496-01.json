@@ -1,0 +1,108 @@
+{
+  "id": 1927803,
+  "name": "Commonwealth v. Stone, Petitioner",
+  "name_abbreviation": "Commonwealth v. Stone",
+  "decision_date": "1970-04-16",
+  "docket_number": "No. 3082-A, Miscellaneous Docket",
+  "first_page": "496",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "437 Pa. 496"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "260 A. 2d 467",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "436 Pa. 330",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1926138
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/436/0330-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 674",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166128
+      ],
+      "weight": 3,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "675"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/356/0674-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 109,
+    "char_count": 937,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 5.7872219340487595e-08,
+      "percentile": 0.36114093910494394
+    },
+    "sha256": "584b4c03292868b85a9e332468cca84d1e1b72455bff2f8e3e9508c3784eb559",
+    "simhash": "1:461222b6a8b5d4ac",
+    "word_count": 155
+  },
+  "last_updated": "2024-02-27T20:32:39.836016+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Stone, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nPetitioner\u2019s counsel in the Superior Court filed no brief and has filed an inadequate petition for allowance of appeal with this Court. This is not the \u201crepresentation in the role of an advocate\u201d which we require. See Ellis v. United States, 356 U.S. 674, 675, 78 S. Ct. 974, 2 L. Ed. 2d 1060 (1958); Commonwealth v. Stein, 436 Pa. 330, 260 A. 2d 467 (1969). Accordingly, the petition for allocatur is granted, the order of the Superior Court is vacated and the case remanded so that the Superior Court may consider the appeal upon the filing of a brief properly prepared by counsel.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John J. Deem, Assistant Public Defender, and George H. Ross, Public Defender, for appellant.",
+      "Carol Mary Los, Assistant District Attorney, and Robert W. Duggan, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Stone, Petitioner.\nBefore Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nJohn J. Deem, Assistant Public Defender, and George H. Ross, Public Defender, for appellant.\nCarol Mary Los, Assistant District Attorney, and Robert W. Duggan, District Attorney, for Commonwealth, appellee.\nApril 16, 1970:"
+  },
+  "file_name": "0496-01",
+  "first_page_order": 590,
+  "last_page_order": 592
+}

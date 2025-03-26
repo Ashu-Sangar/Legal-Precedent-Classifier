@@ -1,0 +1,70 @@
+{
+  "id": 12282176,
+  "name": "Com. v. Gefsky",
+  "name_abbreviation": "Com. v. Gefsky",
+  "decision_date": "2015-12-31",
+  "docket_number": "320 WAL (2015)",
+  "first_page": "743",
+  "last_page": "743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 743"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 176,
+    "ocr_confidence": 0.754,
+    "sha256": "82d4a0dec91e4ecc6bc29b7274a0b9f2dc28b064aaee72e7ec905e8e39cb7350",
+    "simhash": "1:af40a28cbf969a5e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Gefsky"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 435",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Gefsky\n12/31/2015\n320 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter; Reargument Denied January 29, 2016."
+  },
+  "file_name": "0743-03",
+  "first_page_order": 787,
+  "last_page_order": 787
+}

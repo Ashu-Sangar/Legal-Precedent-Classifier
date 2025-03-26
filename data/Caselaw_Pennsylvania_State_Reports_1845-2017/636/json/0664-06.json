@@ -1,0 +1,106 @@
+{
+  "id": 12283548,
+  "name": "Harper v. Salameh",
+  "name_abbreviation": "Harper v. Salameh",
+  "decision_date": "2016-07-19",
+  "docket_number": "133 WAL (2016)",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 606",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486123,
+        12486124,
+        12486125,
+        12486126,
+        12486127,
+        12486128,
+        12486129,
+        12486130,
+        12486131,
+        12486132,
+        12486133,
+        12486134,
+        12486135,
+        12486136,
+        12486137,
+        12486138
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0606-10",
+        "/a3d/141-2/0606-11",
+        "/a3d/141-2/0606-12",
+        "/a3d/141-2/0606-13",
+        "/a3d/141-2/0606-14",
+        "/a3d/141-2/0606-15",
+        "/a3d/141-2/0606-16",
+        "/a3d/141-2/0606-01",
+        "/a3d/141-2/0606-02",
+        "/a3d/141-2/0606-03",
+        "/a3d/141-2/0606-04",
+        "/a3d/141-2/0606-05",
+        "/a3d/141-2/0606-06",
+        "/a3d/141-2/0606-07",
+        "/a3d/141-2/0606-08",
+        "/a3d/141-2/0606-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.861,
+    "sha256": "471d1d246c5d44ad2e2dfe5716442ac6e0d1189b8d7c34c6a66471b72d3a3d0b",
+    "simhash": "1:47c4c007805a0507",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harper v. Salameh"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 606",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Harper v. Salameh\n07/19/2016\n133 WAL (2016)"
+  },
+  "file_name": "0664-06",
+  "first_page_order": 716,
+  "last_page_order": 716
+}

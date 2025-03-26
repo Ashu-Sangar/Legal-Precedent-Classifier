@@ -1,0 +1,96 @@
+{
+  "id": 4078926,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Terry David KLINE, Jr., Respondent",
+  "name_abbreviation": "Commonwealth v. Kline",
+  "decision_date": "2014-03-05",
+  "docket_number": "No. 349 MAL 2011",
+  "first_page": "557",
+  "last_page": "558",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "624 Pa. 557"
+    },
+    {
+      "type": "parallel",
+      "cite": "86 A.3d 861"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "80 A.3d 1186",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7305185,
+        4281115
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/80/1186-01",
+        "/pa/622/0366-01"
+      ]
+    },
+    {
+      "cite": "622 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4281115
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/622/0366-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 648,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12983672021032885
+    },
+    "sha256": "305027064af69dcf9f2abddffa834a3415616ed7bc98b27e35073171ef983766",
+    "simhash": "1:dfaa53dadb3385b2",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T21:02:06.836768+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Terry David KLINE, Jr., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 5th day of March, 2014, the Petition for Allowance of Appeal is GRANTED, the portion of the Superi- or Court\u2019s order which vacated Respondent\u2019s judgment of sentence with regard to his conviction for conspiracy to commit third-degree murder is VACATED, and the matter is REMANDED to the Superior Court for reinstatement of Respondent\u2019s judgment of sentence for conspiracy to commit third-degree murder pursuant to Commonwealth v. Fisher, et al, 622 Pa. 366, 80 A.3d 1186 (2013).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "86 A.3d 861\nCOMMONWEALTH of Pennsylvania, Petitioner v. Terry David KLINE, Jr., Respondent.\nSupreme Court of Pennsylvania.\nMarch 5, 2014."
+  },
+  "file_name": "0557-01",
+  "first_page_order": 607,
+  "last_page_order": 608
+}

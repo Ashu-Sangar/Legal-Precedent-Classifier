@@ -1,0 +1,70 @@
+{
+  "id": 12282103,
+  "name": "Com. v. Fitzgerald",
+  "name_abbreviation": "Com. v. Fitzgerald",
+  "decision_date": "2015-12-31",
+  "docket_number": "252 WAL (2015)",
+  "first_page": "742",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 742"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 458",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 161,
+    "ocr_confidence": 0.768,
+    "sha256": "8140429493565fe4ec2391a27f1c2a4678e159da0e37266a46eab247a6849f1e",
+    "simhash": "1:ad5eb0d4a3dff3dc",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Fitzgerald"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 458",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Fitzgerald\n12/31/2015\n252 WAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0742-07",
+  "first_page_order": 786,
+  "last_page_order": 786
+}

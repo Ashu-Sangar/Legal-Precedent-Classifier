@@ -1,0 +1,107 @@
+{
+  "id": 4195616,
+  "name": "Melvin LINDSEY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Lindsey v. Court of Common Pleas",
+  "decision_date": "2009-08-19",
+  "docket_number": "No. 97 EM 2009",
+  "first_page": "202",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "602 Pa. 202"
+    },
+    {
+      "type": "parallel",
+      "cite": "979 A.2d 843"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "462",
+          "parenthetical": "hybrid representation improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 590,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1379707851693284
+    },
+    "sha256": "a8dc76df741dbda580e508f179d470cf2ec40ac6839c20e8e6a08b2faa68641b",
+    "simhash": "1:79bd8336e1d93dad",
+    "word_count": 93
+  },
+  "last_updated": "2024-02-27T21:28:08.673238+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Melvin LINDSEY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of August, 2009, the Application for Leave to File Original Process and the Petition for Writ of Mandamus and/or Extraordinary Relief are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453, 462 (1994) (hybrid representation improper). The Prothonotary is directed to forward the instant filings to Petitioner\u2019s counsel of record. See Commonwealth v. Lindsey, 2835 EDA 2008.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "979 A.2d 843\nMelvin LINDSEY, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 97 EM 2009.\nSupreme Court of Pennsylvania.\nAug. 19, 2009."
+  },
+  "file_name": "0202-02",
+  "first_page_order": 280,
+  "last_page_order": 281
+}

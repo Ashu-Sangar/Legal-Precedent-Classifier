@@ -1,0 +1,94 @@
+{
+  "id": 706333,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Scott SYLTE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Sylte",
+  "decision_date": "2001-07-23",
+  "docket_number": "Petition No. 883 M.D. Alloc. 2000",
+  "first_page": "78",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 78"
+    },
+    {
+      "type": "parallel",
+      "cite": "778 A.2d 620"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "773 A.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11088768,
+        124682,
+        124714,
+        11088819
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/773/0126-01",
+        "/pa/565/0280-01",
+        "/pa/565/0279-01",
+        "/a2d/773/0126-02"
+      ]
+    },
+    {
+      "cite": "565 Pa. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2001,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 389,
+    "ocr_confidence": 0.641,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.024607236136006242
+    },
+    "sha256": "865716ce3869ade8b6878fbdabb7899d1cca553317634c67a40c9869435811ff",
+    "simhash": "1:55f683f5a3850926",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Scott SYLTE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 23rd day of July, 2001, the Petition for Allowance of Appeal is hereby GRANTED. The order of the Superior Court is REVERSED and the matter is remanded to the PCRA court. See Dadario v. Goldberg, 565 Pa. 200, 773 A.2d 126 (2001).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "778 A.2d 620\nCOMMONWEALTH of Pennsylvania, Respondent v. Scott SYLTE, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 23, 2001."
+  },
+  "file_name": "0078-01",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

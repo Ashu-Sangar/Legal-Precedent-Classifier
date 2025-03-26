@@ -1,0 +1,105 @@
+{
+  "id": 1120300,
+  "name": "Hamilton v. Pennsylvania R. R., Appellant",
+  "name_abbreviation": "Hamilton v. Pennsylvania R. R.",
+  "decision_date": "1929-11-25",
+  "docket_number": "Appeal, No. 120",
+  "first_page": "22",
+  "last_page": "24",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "298 Pa. 22"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "289 Pa. 418",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1103362
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/289/0418-01"
+      ]
+    },
+    {
+      "cite": "89 Pa. Superior Ct. 156",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        671261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/89/0156-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 65",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066108
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/270/0065-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 290,
+    "char_count": 3697,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 2.0723207889952777e-07,
+      "percentile": 0.7579333775830174
+    },
+    "sha256": "2daf60da9988078a10329787074c3932de240de69351745ce52074703df4637a",
+    "simhash": "1:730f26a5bc271fd1",
+    "word_count": 624
+  },
+  "last_updated": "2024-02-27T19:25:15.091642+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Sadler and Schaefer, JJ."
+    ],
+    "parties": [
+      "Hamilton v. Pennsylvania R. R., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis is an appeal from a judgment affirming the workmen\u2019s compensation authorities\u2019 award to plaintiff for injuries alleged to have been sustained by him as the result of an accident in defendant\u2019s machine shop, where he was employed as a drill press worker.\nThe evidence shows that Hamilton, who testified that he was in good health at the time, in the course of his employment lifted and changed the position of an iron coupler yoke, weighing between 175 and 200 pounds; that, while lifting this weight, he was seized with a severe pain in the back which he described as \u201ca twist, spraining [his] back,\u201d saying, \u201cIt got me something like a knife\u201d;- that thereafter he complained to a fellow-workman that he was injured; that he did little work the rest of the day, went home ill, and by the following morning was in such pain that a physician had to be summoned. Hamilton, suffering at times with \u201cexcruciating pain,\u201d was confined to his bed for over a month, and received hospital treatment for some sixty-one days; at the time of the hearing, he wore a plaster cast and was still under medical treatment. Claimant\u2019s doctor testified that he was of opinion that Hamilton\u2019s condition was the result of his alleged accident; the physician who attended Hamilton for 61 days, while in the Allegheny Hospital, found marked evidence of a strain to the back and was of opinion that claimant\u2019s condition was caused by a preexisting arthritis which had been aggravated by a lift or strain. Two additional physicians called on behalf of defendant said that, although his condition, in their opinion, was due primarily to arthritis, it had been aggravated by a lift or strain. In view of this testimony, and that of plaintiff, to the effect that the sprain was produced by lifting the coupler, we agree with the court below that there was competent evidence to sustain the findings that plaintiff, \u201cwhile turning [a] yoke, or......drill press, twisted himself in such manner as to cause a strain of the back accompanied by pain, which is the cause of his total disability, arising from the strain and the aggravation of a preexisting condition [of arthritis] which, up to this time, had not given him any trouble, but which, by the accident, was aggravated to such an extent that he had been totally disabled ever since.\u201d\nAppellant\u2019s main contention on this appeal is that since \u201cthere was no mishap or slip nor any unusual, unintended or fortuitous happening, it could not properly be said there was \u201can accident\u201d within the contemplation of the Workmen\u2019s Compensation Act. As already pointed out, the referee found that there in fact occurred a twisting of the body producing a \u201csprain,\u201d \u2014 a fortuitous happening which, though accompanied by no outcry or other evidence of violence, is sufficient, under our decisions, to constitute an accident within the meaning of the act. In Tracey v. Phila. & Reading C. & I. Co., 270 Pa. 65, this court affirmed an award of compensation where the accident consisted of a strain on the back and heart, produced by overlifting. In Durga v. Williams, 89 Pa. Superior Ct. 156, an award was affirmed where the claimant, a coal hauler, after lifting a heavy scoop weighing about two hundred pounds, was, a few minutes later, found dead, with blood in his mouth. Potter v. Claar, 289 Pa. 418, urged by appellant, has no application to the present situation.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John Bredin, with him Dalzell, Dalzell & McFall, for appellant.",
+      "Joseph N. Huston, for appellee, was not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Hamilton v. Pennsylvania R. R., Appellant.\nArgued October 2, 1929.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Sadler and Schaefer, JJ.\nNovember 25, 1929:\nJohn Bredin, with him Dalzell, Dalzell & McFall, for appellant.\nJoseph N. Huston, for appellee, was not heard."
+  },
+  "file_name": "0022-01",
+  "first_page_order": 48,
+  "last_page_order": 50
+}

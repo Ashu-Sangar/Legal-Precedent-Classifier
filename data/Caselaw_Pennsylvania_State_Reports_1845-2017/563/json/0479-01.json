@@ -1,0 +1,98 @@
+{
+  "id": 1366984,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Raymond FOX, Petitioner",
+  "name_abbreviation": "Commonwealth v. Fox",
+  "decision_date": "2000-11-30",
+  "docket_number": "Petition No. 875 W.D. Allocatur Docket 1999",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "563 Pa. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "761 A.2d 1180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "757 A.2d 361",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11241933,
+        225975
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/757/0361-01",
+        "/pa/562/0621-02"
+      ]
+    },
+    {
+      "cite": "562 Pa. 621",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225931,
+        225975
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0621-01",
+        "/pa/562/0621-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 355,
+    "ocr_confidence": 0.637,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.05057260437815366
+    },
+    "sha256": "e590c2212825a471ef5c487a028788cd381c69ca976cb6cf768ced4ddc9d032c",
+    "simhash": "1:c5be02e587856d7b",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T16:15:34.925696+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Raymond FOX, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 30th day of November, 2000, the Petition for Allowance of Appeal is hereby granted and the order of the Superior Court is reversed. See Commonwealth v. Lussi, 562 Pa. 621, 757 A.2d 361 (2000).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "761 A.2d 1180\nCOMMONWEALTH of Pennsylvania, Respondent, v. Raymond FOX, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 30, 2000."
+  },
+  "file_name": "0479-01",
+  "first_page_order": 677,
+  "last_page_order": 677
+}

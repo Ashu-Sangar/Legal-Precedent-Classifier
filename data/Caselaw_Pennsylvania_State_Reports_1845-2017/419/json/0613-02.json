@@ -1,0 +1,83 @@
+{
+  "id": 1896865,
+  "name": "Commonwealth v. Smith, Appellant",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "1965-12-20",
+  "docket_number": "No. 191",
+  "first_page": "613",
+  "last_page": "614",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "419 Pa. 613"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 1138,
+    "ocr_confidence": 0.469,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0693550087283081
+    },
+    "sha256": "a78615f971440bf6d7e48c5744de7441b23532d7740d4680f49626fa160c1b1a",
+    "simhash": "1:9883a8f9a20032d2",
+    "word_count": 174
+  },
+  "last_updated": "2024-02-27T22:05:45.856176+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Smith, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPee Ctjeiam,\nThe Petition for allocatur is granted, the. judgment of the Superior Court vacated and the record remanded to the Court of Oyer and Terminer of Montgomery County, with directions to hold a hearing to determine whether petitioner was deprived of the assistance of counsel in violation of Douglas v. California, 372 U.S. 353, 83 S. Ct. 814 (1963) on appeal to the Superior Court. Should the hearing court determine that petitioner intelligently and knowingly waived counsel, the judgment of the Superior Court will be reinstated. Should the court determine that petitioner did not intelligently and knowingly waive counsel, it shall appoint counsel to represent petitioner on direct appeal to the Superior Court from the judgment of sentence. The parties shall have their usual right of appeal from the court\u2019s determination.",
+        "type": "majority",
+        "author": "Pee Ctjeiam,"
+      }
+    ],
+    "attorneys": [
+      "Edward J. Smith, appellant, in propria persona.",
+      "Richard A. Devlin, Assistant District Attorney, and Richard S. Lowe, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Smith, Appellant.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nEdward J. Smith, appellant, in propria persona.\nRichard A. Devlin, Assistant District Attorney, and Richard S. Lowe, District Attorney, for Commonwealth, appellee.\nDecember 20, 1965:"
+  },
+  "file_name": "0613-02",
+  "first_page_order": 687,
+  "last_page_order": 688
+}

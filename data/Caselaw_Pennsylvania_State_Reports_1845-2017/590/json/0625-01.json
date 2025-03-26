@@ -1,0 +1,96 @@
+{
+  "id": 3851887,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Anthony DEEDS, Respondent",
+  "name_abbreviation": "Commonwealth v. Deeds",
+  "decision_date": "2006-12-29",
+  "docket_number": "Petition No. 709 MAL 2005",
+  "first_page": "625",
+  "last_page": "625",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "590 Pa. 625"
+    },
+    {
+      "type": "parallel",
+      "cite": "914 A.2d 868"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "894 A.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8434320,
+        5654665
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/894/0716-01",
+        "/pa/586/0366-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5654665
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0366-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 350,
+    "ocr_confidence": 0.594,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.11535054746435024
+    },
+    "sha256": "e6180a0275dba86e34e4c42013c56ce46c1f83cfe84d2e8cf9c381d458db7d3a",
+    "simhash": "1:d1bf4eb0fc952db2",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T21:15:09.294121+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Anthony DEEDS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of December 2006, the Petition for Allowance of Appeal is GRANTED and the Order of the Superior Court is REVERSED. See Commonwealth v. Hawkins, 586 Pa. 366, 894 A.2d 716 (2006).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "914 A. 2d 868\nCOMMONWEALTH of Pennsylvania, Petitioner v. Anthony DEEDS, Respondent.\nSupreme Court of Pennsylvania.\nDec. 29, 2006."
+  },
+  "file_name": "0625-01",
+  "first_page_order": 851,
+  "last_page_order": 851
+}

@@ -1,0 +1,108 @@
+{
+  "id": 12283093,
+  "name": "Com. v. Tricome",
+  "name_abbreviation": "Com. v. Tricome",
+  "decision_date": "2016-07-19",
+  "docket_number": "186 MAL (2016)",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 662"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 588",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485836,
+        12485837,
+        12485838,
+        12485839,
+        12485840,
+        12485841,
+        12485842,
+        12485843,
+        12485844,
+        12485845,
+        12485846,
+        12485847,
+        12485848,
+        12485849,
+        12485850,
+        12485851,
+        12485852
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0588-10",
+        "/a3d/141-2/0588-11",
+        "/a3d/141-2/0588-12",
+        "/a3d/141-2/0588-13",
+        "/a3d/141-2/0588-14",
+        "/a3d/141-2/0588-15",
+        "/a3d/141-2/0588-16",
+        "/a3d/141-2/0588-17",
+        "/a3d/141-2/0588-01",
+        "/a3d/141-2/0588-02",
+        "/a3d/141-2/0588-03",
+        "/a3d/141-2/0588-04",
+        "/a3d/141-2/0588-05",
+        "/a3d/141-2/0588-06",
+        "/a3d/141-2/0588-07",
+        "/a3d/141-2/0588-08",
+        "/a3d/141-2/0588-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.839,
+    "sha256": "3ef2ed552b3b901d721f1d8a50440fa02d66f15333f9845c039366eb19e5e8e5",
+    "simhash": "1:4a04b167ca60051f",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Tricome"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 588",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Tricome\n07/19/2016\n186 MAL (2016)"
+  },
+  "file_name": "0662-11",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

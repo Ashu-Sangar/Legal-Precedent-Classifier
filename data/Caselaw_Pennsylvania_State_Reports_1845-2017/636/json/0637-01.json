@@ -1,0 +1,104 @@
+{
+  "id": 12280400,
+  "name": "B.G.M., In re; T.M., In re",
+  "name_abbreviation": "In re B.G.M.",
+  "decision_date": "2016-06-15",
+  "docket_number": "293 MAL (2016)",
+  "first_page": "637",
+  "last_page": "637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 637"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 590",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485869,
+        12485870,
+        12485871,
+        12485872,
+        12485873,
+        12485874,
+        12485875,
+        12485876,
+        12485877,
+        12485878,
+        12485879,
+        12485880,
+        12485881,
+        12485882,
+        12485883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0590-10",
+        "/a3d/141-2/0590-11",
+        "/a3d/141-2/0590-12",
+        "/a3d/141-2/0590-13",
+        "/a3d/141-2/0590-14",
+        "/a3d/141-2/0590-15",
+        "/a3d/141-2/0590-01",
+        "/a3d/141-2/0590-02",
+        "/a3d/141-2/0590-03",
+        "/a3d/141-2/0590-04",
+        "/a3d/141-2/0590-05",
+        "/a3d/141-2/0590-06",
+        "/a3d/141-2/0590-07",
+        "/a3d/141-2/0590-08",
+        "/a3d/141-2/0590-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 129,
+    "ocr_confidence": 0.78,
+    "sha256": "1b38cf85e91f65db7921a878e7485b8c94db7b60d55d6b327a9bad3165ae3713",
+    "simhash": "1:1e9c0c7a98796c62",
+    "word_count": 22
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "B.G.M., In re; T.M., In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 590",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SUPREME COURT OF PENNSYLVANIA\n140 A.3d 11-15\nB.G.M., In re; T.M., In re\n06/15/2016\n293 MAL (2016)"
+  },
+  "file_name": "0637-01",
+  "first_page_order": 689,
+  "last_page_order": 689
+}

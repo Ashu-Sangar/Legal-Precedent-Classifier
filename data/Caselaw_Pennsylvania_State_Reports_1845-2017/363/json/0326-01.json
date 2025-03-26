@@ -1,0 +1,68 @@
+{
+  "id": 1221650,
+  "name": "Marshall Impeachment Case",
+  "name_abbreviation": "Marshall Impeachment Case",
+  "decision_date": "1949-11-23",
+  "docket_number": "Appeal, No. 75",
+  "first_page": "326",
+  "last_page": "349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "363 Pa. 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 458,
+    "ocr_confidence": 0.489,
+    "pagerank": {
+      "raw": 4.89277888174231e-07,
+      "percentile": 0.9335739265107734
+    },
+    "sha256": "71321cf66f0cde90d949e31438fd5c4252b6cdbbdd742c8596c16a70d3a9d512",
+    "simhash": "1:952bec6ccc029e5e",
+    "word_count": 75
+  },
+  "last_updated": "2023-07-14T16:55:09.847882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ."
+    ],
+    "parties": [
+      "Marshall Impeachment Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\npee Curiam,\nThe judgment of the court below is affirmed on the opinion of Francis Siiunk Brown, Jr., P. J.",
+        "type": "majority",
+        "author": "pee Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Edwin P. Rome, with him Franklin Poul, William A. Gray and Gray, Anderson, Schaffer A Rome, for appellant.",
+      "Bryan A. Hermes, with him James P. Schellenger and Michael von Moschzisker, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Marshall Impeachment Case.\nArgued November 22, 1949.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearne and Jones, JJ.\nEdwin P. Rome, with him Franklin Poul, William A. Gray and Gray, Anderson, Schaffer A Rome, for appellant.\nBryan A. Hermes, with him James P. Schellenger and Michael von Moschzisker, for appellee.\nNovember 23, 1949:"
+  },
+  "file_name": "0326-01",
+  "first_page_order": 374,
+  "last_page_order": 397
+}

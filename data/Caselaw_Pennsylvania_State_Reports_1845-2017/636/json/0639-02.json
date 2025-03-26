@@ -1,0 +1,104 @@
+{
+  "id": 12280556,
+  "name": "Com. v. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-06-02",
+  "docket_number": "172 MAL (2016)",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 639"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 591",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485888,
+        12485889,
+        12485890,
+        12485891,
+        12485892,
+        12485893,
+        12485894,
+        12485895,
+        12485896,
+        12485897,
+        12485898,
+        12485884,
+        12485885,
+        12485886,
+        12485887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0591-14",
+        "/a3d/141-2/0591-15",
+        "/a3d/141-2/0591-01",
+        "/a3d/141-2/0591-02",
+        "/a3d/141-2/0591-03",
+        "/a3d/141-2/0591-04",
+        "/a3d/141-2/0591-05",
+        "/a3d/141-2/0591-06",
+        "/a3d/141-2/0591-07",
+        "/a3d/141-2/0591-08",
+        "/a3d/141-2/0591-09",
+        "/a3d/141-2/0591-10",
+        "/a3d/141-2/0591-11",
+        "/a3d/141-2/0591-12",
+        "/a3d/141-2/0591-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.842,
+    "sha256": "5a895d412a50bf7c172e817058c4117f79d9ff368f2324d82eba51d369111512",
+    "simhash": "1:02c46064937d04ad",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 591",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Johnson\n06/02/2016\n172 MAL (2016)"
+  },
+  "file_name": "0639-02",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

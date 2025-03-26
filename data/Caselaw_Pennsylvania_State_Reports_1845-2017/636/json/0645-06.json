@@ -1,0 +1,70 @@
+{
+  "id": 12281032,
+  "name": "Com. v. Burgess",
+  "name_abbreviation": "Com. v. Burgess",
+  "decision_date": "2016-06-13",
+  "docket_number": "73 WAL (2016)",
+  "first_page": "645",
+  "last_page": "645",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 645"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1036",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.885,
+    "sha256": "caa9200014d77a7bf36694b2aab7fc1c955942e31966734a96a1d8b0b9c483b2",
+    "simhash": "1:24c0c027d8700559",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Burgess"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 1036",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Burgess\n06/13/2016\n73 WAL (2016)"
+  },
+  "file_name": "0645-06",
+  "first_page_order": 697,
+  "last_page_order": 697
+}

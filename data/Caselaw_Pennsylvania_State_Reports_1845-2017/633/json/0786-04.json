@@ -1,0 +1,70 @@
+{
+  "id": 12286733,
+  "name": "Com. v. Moore",
+  "name_abbreviation": "Com. v. Moore",
+  "decision_date": "2015-12-02",
+  "docket_number": "401 EAL (2015)",
+  "first_page": "786",
+  "last_page": "786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 786"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.834,
+    "sha256": "70f4bba12c901983e5e38aa943728f462ba7b58ed4716aaff30ae0ac633bfa19",
+    "simhash": "1:b4e368dcd0004151",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Moore"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1123",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Moore\n12/02/2015\n401 EAL (2015)"
+  },
+  "file_name": "0786-04",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

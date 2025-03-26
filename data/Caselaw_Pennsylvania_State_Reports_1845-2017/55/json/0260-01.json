@@ -1,0 +1,116 @@
+{
+  "id": 1470689,
+  "name": "Jayne versus Mickey",
+  "name_abbreviation": "Jayne v. Mickey",
+  "decision_date": "1867-05-21",
+  "docket_number": "",
+  "first_page": "260",
+  "last_page": "262",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 Pa. 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wright 241",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Yeates 105",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        812619
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/2/0105-01"
+      ]
+    },
+    {
+      "cite": "5 Cranch 18",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 468",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cranch 15",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        1446261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/9/0015-01"
+      ]
+    },
+    {
+      "cite": "2 Grant 105",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 359,
+    "char_count": 5748,
+    "ocr_confidence": 0.436,
+    "pagerank": {
+      "raw": 8.31471806734971e-08,
+      "percentile": 0.48000230901492713
+    },
+    "sha256": "de6154c660ea5e005c47e1bef8501480f1877c5d713c04e2e2d597236a9d8d02",
+    "simhash": "1:e0b1f9628ecb3cb8",
+    "word_count": 1010
+  },
+  "last_updated": "2024-02-27T22:43:04.999776+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Woodward, C. J., Thompson and Agnew, JJ. Strong and Read, JJ., absent."
+    ],
+    "parties": [
+      "Jayne versus Mickey."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, May 21st 1867, by\nWoodward, C. J.\n\u2014 In December 1856 Dr. Jayne & Son, who were druggists in the city of Philadelphia, furnished the defendant, a merchant in Perry county, an invoice of medicines amounting to $44, and took his receipt therefor, in which it was stipulated that the medicines were to be sold on agency, and accounted for at the annexed net wholesale prices; and then followed, as part of the receipt, a schedule of the medicines and prices. The defendant never rendered any account of the goods, and never returned them; but when he sold out his store in 1857 he boxed up what remained on hand and left them in the store.\nThis action was brought before a justice of the peace on the 23d January 1865, and on appeal the Statute of Limitations was pleaded. As more than six years had elapsed from the receipt of the goods to the institution of suit, and no acknowledgment of indebtedness was proved, the only question is whether the case falls within the exception mentioned in the Act of 27th March 1713, Purd. 655, limiting personal actions \u201c other than such accounts as concern the trade of merchandise between merchant and merchant, their factors or servants.\u201d\nThe learned judge treated the case as subject to the statute, upon the authority of Zacharias v. Zacharias, 11 Harris 455, but it seems to us to fall within the very terms of the exceptive clause of the statute.\nIf the parties are not to be regarded as merchants having mutual dealings and an open account, the evidence does clearly fix the defendant as a factor of the plaintiffs (agent is the generic term used in the receipt), and in that character the statute would not begin to run in his favor until he had settled an account of his agency, or at least until a demand for' an account had been made.\nNeither an account nor a demand is alleged; then he has no right to set up the statute against his principal: Stiles v. Donaldson, 2 Grant 105 ; Manderville v. Wilson, 5 Cranch 15 ; and see the subject fully discussed in Judge Kennedy\u2019s dissenting opinion in Thompson v. Hopper, 1 W. & S. 468.\nThe case upon which the learned judge below placed his ruling was not a case of merchants or their factors, but of trust, which, because enforceable by action at law, was held to be subject to ordinary legal defences.\nThe judgment is reversed, and judgment is now entered upon the case stated for the plaintiffs below for the sum of $44, with interest from the 23d of January 1865.",
+        "type": "majority",
+        "author": "Woodward, C. J."
+      }
+    ],
+    "attorneys": [
+      "O. J. T. Mclntire, for plaintiff in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Jayne versus Mickey.\n1. A merchant furnished to another goods \u201cto be sold on agency and to be accounted for at the annexed net wholesale prices.\u201d Held, that this was within the clause of the Limitation Act of 1713, excepting \u201c such accounts as concern the trade of merchandise between merchant and merchant, their factors or servants.\u201d\n2. The consignee was factor of the consignor, and the statute did not begin to run till he had settled an account of his agency, or at least till a demand for an account had been made.\n3. Zacharias v. Zacharias, 11 Harris 455, remarked on.\nMay 13th 1867.\nBefore Woodward, C. J., Thompson and Agnew, JJ. Strong and Read, JJ., absent.\nError to the Court of Common Pleas of Perry county.\nThis was an action of assumpsit between D. Jayne & Son, plaintiffs, and David Mickey, defendant, in which the following facts, in the nature of a special verdict, were agreed upon by the parties:\u2014\n\u201c The plaintiffs, D. Jayne & Son, are the proprietors of Jayne\u2019s Family Medicines, See., residing in Philadelphia, and are in the habit of consigning their medicines to country storekeepers to sell for them on commission, the latter only accounting to them for such goods as they may dispose of at the wholesale rates furnished to them, and being allowed the difference between the prices thus fixed and the retail prices for their services.\n\u201c In 1856, December 11th, the plaintiffs furnished defendant a bill of goods, as per account and receipt hereto annexed and made a part of this case, amounting to the sum of $44. The defendant was then merchandising at Shermansdale, in Perry county. The defendant never rendered to the plaintiffs any account or return of the said goods, but when he subsequently sold out his store in 1857, the medicines that remained on hand he boxed up and left at the stand, and has not seen them since, and does not know where they now are.\n\u201c Suit was brought on this bill before a justice on the 28d of January 1865, and removed by appeal into court where it is now pending.\n\u201c The defendant pleads that the plaintiffs are barred by the Statute of Limitations.\n\u201c Plaintiffs deny that the said statute affects this claim, as the goods were delivered on commission, and as the defendant has never rendered an account of them.\n\u201c If the court should be of the opinion that the plaintiffs are entitled to recover, then judgment to be entered in their favor for the amount of said bill, with interest from 23d of January 1865 ; otherwise, for defendant.\u201d _\nCopy of Mickey\u2019s receipt:\u2014\n\u201c Received January 16th 1857, from Dr. D. Jayne & Son, the following medicines, to be sold on agency, and to be accounted for at the annexed net wholesale prices (from which no deductions are allowed \u2014 the difference betiveen the net wholesale and the retail prices being the commission or profit for selling),\u201d viz. (Bill of goods attached.)\nThe court (Graham, P. J.) entered judgment for the defendant ; which the plaintiffs assigned for error.\nO. J. T. Mclntire, for plaintiff in error,\ncited Act of March 27th 1713, \u00a7 1, Purd. 655, pi. 6, 1 Sm. L. 76; Mandeville v. Wilson, 5 Cranch 18; Marseilles v. Kenton, 1 Phila. R. 181; Stiles v. Donaldson, 2 Yeates 105; Bevan v. Cullen, 7 Barr 281; Hursh v. North, 4 Wright 241."
+  },
+  "file_name": "0260-01",
+  "first_page_order": 260,
+  "last_page_order": 262
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1818969,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Evaristo Victor SANCHEZ",
+  "name_abbreviation": "Commonwealth v. Sanchez",
+  "decision_date": "1989-07-05",
+  "docket_number": "Appeal No. 147 E.D. Appeal Dkt.1988",
+  "first_page": "153",
+  "last_page": "154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "522 Pa. 153"
+    },
+    {
+      "type": "parallel",
+      "cite": "560 A.2d 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "522 Pa. 280",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818912
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/522/0280-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 1.2281444828087217e-07,
+      "percentile": 0.605005349732745
+    },
+    "sha256": "ad7d4a4df4558464256edd8d9cfcf657d8f3f361cf7482659395cd858f6e7f28",
+    "simhash": "1:940340308963652c",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T23:49:15.809503+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. Evaristo Victor SANCHEZ."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nOrder affirmed. See Commonwealth v. Stephen J. Gambal, III, 522 Pa. 280, 561 A.2d 710 (1989).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "560 A.2d 148\nCOMMONWEALTH of Pennsylvania, Appellant, v. Evaristo Victor SANCHEZ.\nSupreme Court of Pennsylvania.\nJuly 5, 1989."
+  },
+  "file_name": "0153-01",
+  "first_page_order": 281,
+  "last_page_order": 282
+}

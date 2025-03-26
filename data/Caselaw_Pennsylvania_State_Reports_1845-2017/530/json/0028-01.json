@@ -1,0 +1,82 @@
+{
+  "id": 1833039,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. John E. TYSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Tyson",
+  "decision_date": "1992-05-15",
+  "docket_number": "Petition No. 584 W.D.Alloc.Dkt.1991",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "530 Pa. 28"
+    },
+    {
+      "type": "parallel",
+      "cite": "606 A.2d 899"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "528 Pa. 440",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829819
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0440-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 347,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06797133732507185
+    },
+    "sha256": "c499ab5cf7adbaccace60d1be317663af13576d06ea2a64d7350cc51168451e1",
+    "simhash": "1:1c1766cdc9018fb2",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T22:25:32.530667+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. John E. TYSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED. The case is Remanded to the Superior Court for reconsideration in light of this Court\u2019s opinion in Commonwealth v. Lewis, 528 Pa. 440, 598 A.2d 975 (1991).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "606 A.2d 899\nCOMMONWEALTH of Pennsylvania, Respondent, v. John E. TYSON, Petitioner.\nSupreme Court of Pennsylvania.\nMay 15, 1992."
+  },
+  "file_name": "0028-01",
+  "first_page_order": 118,
+  "last_page_order": 118
+}

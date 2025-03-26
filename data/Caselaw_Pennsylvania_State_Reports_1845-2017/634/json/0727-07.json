@@ -1,0 +1,70 @@
+{
+  "id": 12280715,
+  "name": "Com. v. Rudolph",
+  "name_abbreviation": "Com. v. Rudolph",
+  "decision_date": "2015-12-17",
+  "docket_number": "256 EAL (2015)",
+  "first_page": "727",
+  "last_page": "727",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 727"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1142",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.775,
+    "sha256": "a585852918503bf9025733e7c4c39b251d2ca0fbfc23cb5ce1b14521d809343d",
+    "simhash": "1:23ccc34003507102",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Rudolph"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1142",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Rudolph\n12/17/2015\n256 EAL (2015)"
+  },
+  "file_name": "0727-07",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

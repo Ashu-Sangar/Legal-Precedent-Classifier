@@ -1,0 +1,854 @@
+{
+  "id": 1734136,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Hugh Gerard HERRON, Appellant",
+  "name_abbreviation": "Commonwealth v. Herron",
+  "decision_date": "1977-12-24",
+  "docket_number": "No. 67",
+  "first_page": "461",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "475 Pa. 461"
+    },
+    {
+      "type": "parallel",
+      "cite": "380 A.2d 1228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 L.Ed.2d 146",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 S.Ct. 236",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "385 U.S. 923",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11394755,
+        11394863,
+        11394610,
+        11394645,
+        11394585,
+        11394682,
+        11394811,
+        11394557,
+        11394719
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/385/0923-07",
+        "/us/385/0923-09",
+        "/us/385/0923-03",
+        "/us/385/0923-04",
+        "/us/385/0923-02",
+        "/us/385/0923-05",
+        "/us/385/0923-08",
+        "/us/385/0923-01",
+        "/us/385/0923-06"
+      ]
+    },
+    {
+      "cite": "362 F.2d 843",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        819276
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/362/0843-01"
+      ]
+    },
+    {
+      "cite": "394 F.2d 820",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2153823
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/394/0820-01"
+      ]
+    },
+    {
+      "cite": "471 Pa. 457",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1725143
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/471/0457-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 528",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379836
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/376/0528-01"
+      ]
+    },
+    {
+      "cite": "29 L.Ed.2d 139",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 1663",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 U.S. 974",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11768545,
+        11768104,
+        11768235,
+        11768044,
+        11768271,
+        11768178,
+        11767986,
+        11768402,
+        11768309,
+        11768474
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0974-10",
+        "/us/402/0974-03",
+        "/us/402/0974-05",
+        "/us/402/0974-02",
+        "/us/402/0974-06",
+        "/us/402/0974-04",
+        "/us/402/0974-01",
+        "/us/402/0974-08",
+        "/us/402/0974-07",
+        "/us/402/0974-09"
+      ]
+    },
+    {
+      "cite": "437 F.2d 145",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2209889
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/437/0145-01"
+      ]
+    },
+    {
+      "cite": "33 L.Ed.2d 334",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 S.Ct. 2492",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 U.S. 923",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782946,
+        1782979,
+        1782853,
+        1782886,
+        1782827,
+        1782926,
+        1782830,
+        1782705,
+        1782996,
+        1782837,
+        1782967,
+        1782939
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0923-11",
+        "/us/408/0923-09",
+        "/us/408/0923-12",
+        "/us/408/0923-07",
+        "/us/408/0923-08",
+        "/us/408/0923-02",
+        "/us/408/0923-10",
+        "/us/408/0923-01",
+        "/us/408/0923-03",
+        "/us/408/0923-04",
+        "/us/408/0923-06",
+        "/us/408/0923-05"
+      ]
+    },
+    {
+      "cite": "455 F.2d 809",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        742963
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/455/0809-01"
+      ]
+    },
+    {
+      "cite": "493 F.2d 11",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        198795
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "12-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/493/0011-01"
+      ]
+    },
+    {
+      "cite": "288 F.Supp. 952",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        2854324
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/288/0952-01"
+      ]
+    },
+    {
+      "cite": "173 A.2d 776",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Pa.Super. 97",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        754922
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/196/0097-01"
+      ]
+    },
+    {
+      "cite": "83 Cal.Rptr. 369",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 P.2d 721",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.3d 836",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1183328
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/1/0836-01"
+      ]
+    },
+    {
+      "cite": "19 L.Ed.2d 833",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 S.Ct. 784",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 U.S. 1041",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11418209,
+        11418117,
+        11418248,
+        11418173,
+        11418143
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/1041-04",
+        "/us/389/1041-01",
+        "/us/389/1041-05",
+        "/us/389/1041-03",
+        "/us/389/1041-02"
+      ]
+    },
+    {
+      "cite": "381 F.2d 858",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        312242
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/381/0858-01"
+      ]
+    },
+    {
+      "cite": "260 La. 471",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        9805634,
+        3278365
+      ],
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/256/0594-01",
+        "/la/260/0471-01"
+      ]
+    },
+    {
+      "cite": "312 A.2d 434",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Pa.Super. 401",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        806001
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "407-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/225/0401-01"
+      ]
+    },
+    {
+      "cite": "293 A.2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "448 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1944731
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/448/0258-01"
+      ]
+    },
+    {
+      "cite": "463 Pa. 206",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708077
+      ],
+      "weight": 4,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "209-10"
+        },
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/463/0206-01"
+      ]
+    },
+    {
+      "cite": "353 U.S. 53",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159521
+      ],
+      "weight": 5,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "60-62"
+        },
+        {
+          "page": "628-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/353/0053-01"
+      ]
+    },
+    {
+      "cite": "233 A.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "285"
+        },
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "427 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1910370
+      ],
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "55-56"
+        },
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/427/0053-01"
+      ]
+    },
+    {
+      "cite": "346 A.2d 64",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Pa.Super. 740",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6775969,
+        6775941
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/235/0740-02",
+        "/pa-super/235/0740-01"
+      ]
+    },
+    {
+      "cite": "234 A.2d 423",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 1
+    },
+    {
+      "cite": "427 Pa. 261",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1910427
+      ],
+      "year": 1967,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/427/0261-01"
+      ]
+    },
+    {
+      "cite": "163 F.2d 627",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1106144
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/163/0627-01"
+      ]
+    },
+    {
+      "cite": "200 F.2d 365",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1281022
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/200/0365-01"
+      ]
+    },
+    {
+      "cite": "221 F.2d 582",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        46690
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/221/0582-01"
+      ]
+    },
+    {
+      "cite": "308 A.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "452 Pa. 569",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574115
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/452/0569-01"
+      ]
+    },
+    {
+      "cite": "463 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708043
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "452"
+        },
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/463/0449-01"
+      ]
+    },
+    {
+      "cite": "471 Pa. 457",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1725143
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/471/0457-01"
+      ]
+    },
+    {
+      "cite": "463 Pa. 206",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708077
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "209-210"
+        },
+        {
+          "page": "497"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/463/0206-01"
+      ]
+    },
+    {
+      "cite": "353 U.S. 53",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159521
+      ],
+      "weight": 24,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "59"
+        },
+        {
+          "page": "644"
+        },
+        {
+          "page": "59"
+        },
+        {
+          "page": "627"
+        },
+        {
+          "page": "644"
+        },
+        {
+          "page": "628"
+        },
+        {
+          "page": "645-646"
+        },
+        {
+          "page": "63"
+        },
+        {
+          "page": "629"
+        },
+        {
+          "page": "646-647"
+        },
+        {
+          "page": "64"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "647"
+        },
+        {
+          "page": "629"
+        },
+        {
+          "page": "647"
+        },
+        {
+          "page": "64"
+        },
+        {
+          "page": "629"
+        },
+        {
+          "page": "647"
+        },
+        {
+          "page": "64"
+        },
+        {
+          "page": "629"
+        },
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/353/0053-01"
+      ]
+    },
+    {
+      "cite": "233 A.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 6,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "287"
+        },
+        {
+          "page": "288"
+        },
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "427 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1910370
+      ],
+      "weight": 4,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "60"
+        },
+        {
+          "page": "61"
+        },
+        {
+          "page": "61"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/427/0053-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1039,
+    "char_count": 25098,
+    "ocr_confidence": 0.721,
+    "pagerank": {
+      "raw": 3.3845997898980586e-07,
+      "percentile": 0.8765632668159418
+    },
+    "sha256": "102abbd8ee9b15224bc9d28165f03f6867f17dfbb9855a2be420ac1f900e0eea",
+    "simhash": "1:fc60854927034d37",
+    "word_count": 4087
+  },
+  "last_updated": "2024-02-27T19:16:18.997843+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX, MANDERINO and PACKEL, JJ.",
+      "MANDERINO, J., filed a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Hugh Gerard HERRON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nEAGEN, Chief Justice.\nAppellant, Hugh Gerard Herron, was tried before a jury and found guilty of selling approximately one pound of marijuana to an undercover state police officer. Post-verdict motions were denied and Herron was sentenced to imprisonment for two and one-half to five years. The Superior Court affirmed the judgment of sentence. Commonwealth v. Herron, 235 Pa.Super. 740, 346 A.2d 64 (1975). Herron\u2019s petition for allowance of appeal was granted and this appeal followed.\nOnly one issue is presented by the appeal: whether the trial judge committed reversible error in sustaining the prosecution\u2019s objection to defense counsel\u2019s question to a state police officer requesting the name of the officer\u2019s informant.\nOn direct examination, the state police officer testified that he went to the \u201cLight House Cafe\u201d with an individual (Mr. X) who upon their arrival introduced him to Herron. While at the \u201cLight House Cafe\u201d the officer and Herron engaged in a private conversation (no one else including Mr. X was present), and in the course of that conversation the officer mentioned that he had heard Herron \u201chad a lb. for sale for a hundred and sixty dollars.\u201d According to the officer, Herron said, \u201cYes,\u201d and when the officer said he would buy, Herron called to a person named \u201cFrankie,\u201d gave him the keys to an automobile, and told him to \u201cget the stuff.\u201d\nOn cross-examination, the officer said he was introduced to Mr. X by another state police officer who was also engaged in undercover narcotics investigation. He was then asked, \u201cWas Mr. X introduced to you for the purpose of trying to secure a buy from Mr. Herron?\u201d The officer replied \u201cYes.\u201d In answer to further questions, the officer admitted that he met Mr. X on the day involved for the specific purpose of trying to purchase marijuana from Herron, and that both he and Mr. X agreed to use fictitious names to identify themselves. He also testified that it was Mr. X who told him Herron had a pound of marijuana for sale for $160, and that Mr. X was paid $10 for his services on this day.\nDefense counsel then asked the officer to identify Mr. X. At sidebar, counsel told the court that the defense was \u201cone of entrapment\u201d and that he wanted to call Mr. X \u201cto test the credibility as to what happened on this occurrence as to this officer\u2019s testimony, and furthermore to show there was an inducement by the Commonwealth in this manner, and he was part of it.\u201d\nThe trial judge then asked defense counsel, \u201cWhat evidence precisely in terms of entrapment could this informant present or do you believe he could present, that would in any way exculpate the defendant?\u201d Counsel responded:\n\u201cI believe he might offer evidence that the entire plan and format as to how this entire purchase was to be set up was made between the informant and this Police Officer in advance; that the conversations between Mr. Herron and Mr. X may have been much more by predesign; that Mr. X may have well been told by this Officer that he was to tell Mr. Herron certain things to induce the sale, that is, as to where he worked, who he was, who he knew, that sort of thing.\u201d\nThe judge ruled the officer did not have to disclose the informer\u2019s identity under these circumstances. We cannot conclude that, in the circumstances of this case, the trial court erred in refusing to order the police-officer witness to disclose the identity of the informer who aided him in arranging for the marijuana purchase which was the basis of this prosecution. In our view, therefore, a new trial is not warranted.\nIn Commonwealth v. Carter, 427 Pa. 53, 55-56, 233 A.2d 284, 285 (1967), we assumed that the Commonwealth has a qualified privilege \u201cto refrain from disclosing the identity of an informer\u201d which \u201climits the prosecution\u2019s duty to make available to the defense the names and whereabouts of all material eyewitnesses.\u201d We then went on to quote with approval the following formulation of the disclosure issue by the Supreme Court of the United States in Roviaro v. United States, 353 U.S. 53, 77 S.Ct. 623,1 L.Ed.2d 639 (1957):\n\u201c \u2018A further limitation on the applicability of the privilege arises from the fundamental requirements of fairness. Where the disclosure of an informer\u2019s identity, or of the contents of his communication, is relevant and helpful to the defense of an accused, or is essential to a fair determination of a cause, the privilege must give way. In these situations the trial court may require disclosure and, if the Government withholds the information, dismiss the action.\n\u201c \u2018We believe that no fixed rule with respect to disclosure is justifiable. The problem is one that calls for balancing the public interest in protecting the flow of information against the individual\u2019s right to prepare his defense. Whether a proper balance renders non-disclosure erroneous must depend on the particular circumstances of each case, taking into consideration the crime charged, the possible defenses, the possible significance of the informer\u2019s testimony, and other relevant factors.\u2019 (Footnotes omitted.) 353 U.S. at 60-62, 77 S.Ct. at 628-29.\u201d\n427 Pa. at 59, 233 A.2d at 287. After examining the circumstances presented in Carter, we concluded that, since the defendant disputed the identification by the police of him as the seller and since the informer was the only \u201cdisinterested\u201d eyewitness to the disputed transaction, disclosure of the informer\u2019s identity should have been ordered to aid Carter in preparing his defense.\nSubsequently, in Commonwealth v. Washington, 463 Pa. 206, 344 A.2d 496 (1975), we applied the standards established by Carter to circumstances in which the defendant had asserted the identity of an informer was relevant and helpful to his defense of entrapment. We once again quoted the language from Roviaro indicating that no fixed rule with respect to disclosure is justifiable and that the public interest in non-disclosure of an informer\u2019s identity must be balanced in the particular circumstances of a given case against the individual\u2019s right to prepare his defense. In Washington, the defendant had testified that he had twice refused to accede to the requests of one Gisondi that he participate in a burglary, that he had finally agreed to participate after Gisondi had urged him a third time, and that, when he broke into the house designated by Gisondi as the site of the burglary, the police were waiting to arrest him; there was also evidence that an informer had notified a Beaver County detective of the planned burglary the day before it was to take place, that two weeks previously the detective had told the informer that his co-operation would be made known to the court if and when he should be brought before the court, and that this detective had known Gisondi for many years. In this context, the defendant sought to ascertain whether Gisondi was the informer. We concluded, in the words of Mr. Justice Manderino:\n\u201cAsserting the defense of entrapment, appellant was attempting to establish that the informant was an agent of the police who had actually conceived, planned, urged the commission of the crime in the face of refusals by appellant, and then, participated in its occurrence. It appears unquestionably clear that testimony, naming Gisondi as the informant, were it forthcoming, would have had obvious relevancy to appellant\u2019s defense. An admission by the prosecution that Gisondi was the informant could have influenced the jury\u2019s thinking on the entrapment defense and could also have served to corroborate appellant\u2019s testimony that Gisondi conceived, planned and urged the perpetration of the crime.\u201d [Emphasis added.]\n463 Pa. at 209-10, 344 A.2d at 497.\nCarter and Washington clearly indicate that, before disclosure of an informer\u2019s identity is required in the face of the Commonwealth\u2019s assertion of privilege, more is necessary than a mere assertion by the defendant that such disclosure might be helpful in establishing a particular defense. To hold otherwise would be to disregard the Roviaro balancing test announced and applied in those decisions. See also Commonwealth v. Garvin, 448 Pa. 258, 293 A.2d 33 (1972). Although the defendant plainly cannot be expected to show that such information will actually be helpful to his defense, the record should at least suggest a reasonable possibility that the information might be helpful, so that it would be unfair to withhold it. Thus, in Carter it was unfair to deny the defendant access to a relatively disinterested eyewitness who might have lent support to his defense of mistaken identity, and in Washington it was unfair to prevent the defendant from establishing a fact which, together with other evidence on the record, might have convinced the jury that he had been induced by improper police conduct into committing a crime he would not otherwise have been inclined to commit.\nIn the instant case, as in Washington, the defendant in asserting entrapment was admitting for the purposes of this defense that he had committed the offense with which he was charged but was seeking by way of affirmative defense to establish that the police had used improper methods to induce him to commit it. Herron did not testify in his own behalf, and the Commonwealth\u2019s evidence, not contradicted during cross-examination, did not suggest he needed to be urged or was reluctant to participate in the illegal transaction for which he was paid $160. Since there was no evidence of improper police conduct or of reluctance on the part of Herron on the record, and since Herron was in a position to know what took place between himself and both the police officer and the police informer with regard to the transaction, we conclude that at a minimum Herron through his counsel should have informed the court in an offer of proof of facts indicative of entrapment which would have suggested the possibility that disclosure of the informer\u2019s identity might indeed have been relevant and helpful to the defense. In Commonwealth v. Pritchett, 225 Pa.Super. 401, 407-8, 312 A.2d 434, 438 (1973), the Superior Court, speaking through Judge Spaeth, stated the standard applicable to this case:\n\u201cA mere allegation that the informant\u2019s testimony might be helpful will not suffice. See, e. g., State v. Dotson, 260 La. 471, 256 So.2d 594 (1972); Lannom v. United States, 381 F.2d 858 (9th Cir. 1967), cert. denied, 389 U.S. 1041, 88 S.Ct. 784, 19 L.Ed.2d 833 (1968). However, the defendant cannot be expected to predict exactly what the informant would say on the stand. Rather, in keeping with Roviaro and Carter, \u2018all the defendant must show [or offer] is a reasonable possibility that the anonymous informer could give evidence that would exonerate him.\u2019 Price v. Superior Court, 1 Cal.3d 836, 463 P.2d 721, 83 Cal.Rptr. 369 (1970). This means that where the defendant asserts the possibility of entrapment, he should present, in support of his contention that the informant may exculpate him, facts relating directly to the two elements of the entrapment defense, i. e., \u2018(1) a defendant not disposed to commit the crime, and also (2) conduct likely to entrap the innocently disposed.\u2019 Commonwealth v. Conway, 196 Pa.Super. 97, 104, 173 A.2d 776 (1961). See United States v. Waters, 288 F.Supp. 952 (D.Mass.1968).\u201d [Emphasis added.]\nWith this standard in mind, it is apparent that Herron failed to include in his offer a sufficient factual foundation to enable the trial judge to conclude that knowing the informer\u2019s identity might be helpful in establishing an entrapment defense. When the trial judge properly asked defense counsel what helpful evidence the informer might supply, counsel\u2019s reply was not only speculative but completely lacking in specificity as to what if any improper inducement or persuasion had been used and was totally devoid of any indication that Herron had not been disposed to commit the crime. The record plainly indicates that the informer was not an eyewitness to the criminal transaction itself. His testimony might only have been relevant and helpful to an entrapment defense if it might have provided support for the conclusion that Herron had not been disposed to commit the crime and had been improperly induced or persuaded to commit the crime. Since there was no basis in either the evidence or the offer for such a conclusion, we cannot conclude the trial judge erred in determining that disclosure would be neither relevant nor helpful and that it was thus not unfair to withhold it. See and compare United States v. Hodges, 493 F.2d 11 (5th Cir. 1974); United States v. Brenneman, 455 F.2d 809 (3rd Cir. 1972), cert. denied, 408 U.S. 923, 92 S.Ct. 2492, 33 L.Ed.2d 334 (1972); United States v. Mehciz, 437 F.2d 145 (9th Cir. 1971), cert. denied, 402 U.S. 974, 91 S.Ct. 1663, 29 L.Ed.2d 139 (1971). See also Rugendorf v. United States, 376 U.S. 528, 84 S.Ct. 825, 11 L.Ed.2d 887 (1964).\nOrder affirmed.\nMANDERINO, J., filed a dissenting opinion.\n. Commonwealth v. Walak, 471 Pa. 457, 370 A.2d 695 (1977), in which we recently held that a defendant was entitled to information requested concerning the whereabouts of an informer eyewitness, is not to the contrary. In Walak, the informer\u2019s identity was known to the defense, and no privilege as to his identity was asserted by the Commonwealth.\n. Since the crime in the instant case was alleged to have taken place on November 1, 1972, that is before the effective date of the Pennsylvania Crimes Code on June 6, 1973, the Pritchett standard is applicable. Compare 18 Pa.C.S.A. \u00a7 313.\n. Although the Supreme Court of the United States in Roviaro observed that the informer whose identity should have been disclosed in that case wight have provided evidence of an entrapment, the evidence indicated that the informer had actually participated in the criminal transaction itself; there was also evidence that he subsequently denied knowing Roviaro. The informer\u2019s involvement here was more peripheral, and there was no issue of misidentification. Compare Lopez \u2014 Hernandez v. United States, 394 F.2d 820 (9th Cir. 1968), with United States v. Russ, 362 F.2d 843 (2nd Cir. 1966), cert. denied, 385 U.S. 923, 87 S.Ct. 236, 17 L.Ed.2d 146 (1966).\n. \u201cSince defendant . . knew whatever, if anything, the informer had said or done to entrap him, he cannot plead ignorance or inability to supply the missing substantiation. We see no infirmity, constitutional or otherwise, in requiring him to do so. Indeed, it would seem, as a broad proposition, that to hold that need for an informer as a witness can be met purely by speculations of counsel would be to defenestrate Roviaro.\u201d\nUnited States v. Hodges, supra, 493 F.2d at 12-13.",
+        "type": "majority",
+        "author": "EAGEN, Chief Justice."
+      },
+      {
+        "text": "MANDERINO, Justice,\ndissenting.\nI dissent. An accused must \u201c. . .be provided with an adequate opportunity to present his version of the incident to the trier of fact.\u201d Commonwealth v. Digiacomo, 463 Pa. 449, 452, 345 A.2d 605, 606 (1975). To protect this right, we have required the prosecution to advise the defendant of the identity and whereabouts of all known eyewitnesses, and to make those witnesses available to the defense if possible. Commonwealth v. Walak, 471 Pa. 457, 370 A.2d 695 (1977); Commonwealth v. Digiacomo, supra; Commonwealth v. Jones, 452 Pa. 569, 308 A.2d 598 (1973). The prosecution argues, however, that it has a right to keep the identity of its confidential informants a secret.\nAs aptly stated by the United States Supreme Court in Roviaro v. United States, 353 U.S. 53, 59, 77 S.Ct. 623, 1 L.Ed.2d 639, 644 (1957),\n\u201cWhat is usually referred to as the informer\u2019s privilege is in reality the Government\u2019s privilege to withhold from disclosure the identity of persons who furnish information of violations of law to officers charged with enforcement of that law. The purpose of the privilege is the furtherance and protection of the public interest in effective law enforcement. The privilege recognizes the obligation of citizens to communicate their knowledge of the commission of crimes to law-enforcement officials and, by preserving their anonymity, encourages them to perform that obligation.\u201d (Citations omitted.)\nId. at 59, 77 S.Ct. at 627, 1 L.Ed.2d at 644.\nFaced with an accused\u2019s challenge to the government\u2019s refusal to reveal an unidentified informer\u2019s name and whereabouts in Roviaro, the court concluded,\n\u201cThree recent cases in the Courts of Appeals have involved the identical problem raised here \u2014 the Government\u2019s right to withhold the identity of an informer who helped to set up the commission of the crime and who was present at its occurrence. Portomene v. United States (CA 5th Fla.) 221 F.2d 582; United States v. Conforti (CA 7th Ill.) 200 F.2d 365; Sorrentino v. United States (CA 9th Cal.) 163 F.2d 627. In each case it was stated that the identity of such an informer must be disclosed whenever the informer\u2019s testimony may be relevant and helpful to the accused\u2019s defense.\nWe believe that no fixed rule with respect to disclosure is justifiable. The problem is one that calls for balancing the public interest in protecting the flow of information against the individual\u2019s right to prepare his defense. Whether a proper balance renders nondisclosure erroneous must depend on the particular circumstances of each case, taking into consideration the crime charged, the possible defenses, the possible significance of the informer\u2019s testimony, and other relevant factors.\u201d (Footnote omitted.)\nId. at 61-62, 77 S.Ct. at 628, 1 L.Ed.2d at 645-646.\nThe Roviaro court then analyzed the materiality of the informer\u2019s possible testimony and concluded:\n\u201cThe fact that petitioner here was faced with the burden of explaining or justifying his alleged possession of the heroin emphasizes his vital need for access to any material witness.\u201d (Emphasis added).\nId. at 63, 77 S.Ct. at 629, 1 L.Ed.2d at 646-647.\nAs to the relevancy of the informer\u2019s possible testimony, the court concluded:\n\u201cThe only person, other than petitioner himself, who could controvert, explain or amplify Bryson\u2019s report of this important conversation was John Doe. Contradiction or amplification might have borne upon petitioner\u2019s knowledge of the contents of the package or might have tended to show an entrapment.\u201d (Emphasis added.)\nId. at 64, 77 S.Ct. at 630, 1 L.Ed.2d at 647.\nRoviaro adopted a balancing test when faced with the question of determining whether the government\u2019s so-called right to withhold the identity of an informer should prevail over a defendant\u2019s right to prepare a defense. The right to prepare a defense necessarily requires that one be afforded access to those persons who are witnesses, or who otherwise have knowledge relevant to, the alleged crime. Such access is guaranteed by the Sixth Amendment to the.United States Constitution:\n\u201c[i]n all criminal prosecutions, the accused shall enjoy the right . . . to be confronted with the witnesses against him; [and] to have compulsory process for obtaining witnesses in his favor. . . . \u201d\nArticle I, section 9 of the Constitution of this Commonwealth, guarantees one accused of crime the right\n\u201c. . .to meet the witnesses face to face [and] to have compulsory process for obtaining witnesses in his favor.\nIn Commonwealth v. Carter, 427 Pa. 53, 233 A.2d 284 (1967), we held that if the disclosure of an informer\u2019s identity is relevant and helpful to the defense of an accused, any privilege that the prosecution might have not to disclose the identity of the informer must give way. In Carter, supra, the defense presented was one of mistaken identity, and the informant was the only eyewitness to the transaction besides the testifying police officer and the accused. We stated in Carter, supra, 427 Pa. at 60, 233 A.2d at 287,\n. . The Pennsylvania rule requiring the prosecution to make the names and whereabouts of material eyewitnesses available to the defense . . . requires reversal of the instant conviction.\u201d (Emphasis in original.)\nThe Carter rule requiring disclosure of the names and whereabouts of material eyewitnesses was based on an . . awareness that the testimonial perspective of police officers is conditioned by the \u2018often competitive enterprise of ferreting out crime.\u2019 \u201d Id. 427 Pa. at 61, 233 A.2d at 288. (Citations omitted.) Our concept of fairness requires that testimony crucial to the establishment of criminal guilt not be based on a single source \u201cwhere testimony from a more disinterested source is available. . . . \u201d Id. 427 Pa. at 61, 233 A.2d at 288. (Emphasis in original.) See also Commonwealth v. Lloyd, 427 Pa. 261, 234 A.2d 423 (1967).\nIn Commonwealth v. Washington, 463 Pa. 206, 209-210, 344 A.2d 496, 497 (1975), we applied the Carter rationale to a case in which the defense of entrapment was asserted, saying,\n\u201cCarter is particularly applicable to the instant case where the sole defense raised by appellant was that of entrapment. Asserting the defense of entrapment, appellant was attempting to establish that the informant was an agent of the police who had actually conceived, planned, urged the commission of the crime in the face of refusals by appellant, and then, participated in its occurrence.\u201d\nHere, as in Washington, appellant\u2019s trial strategy was predicated on a claim of entrapment. Defense counsel stated this to the court and informed the court as to what evidence he thought might be established through examination of the unnamed informant.\nNeither Roviaro, nor Washington, require the defense to present a factual summary showing that the informant\u2019s testimony would establish an entrapment. Factually, Commonwealth v. Washington, supra, is distinguishable from the instant case. Here, unlike Washington, the defendant chose not to testify in his own behalf at trial. This, of course, he had a constitutional right to do. In Washington, the defendant chose, as a matter of trial strategy, to take the witness stand and testify as to his version of the incident. In Washington, the defense was able to supply the court with specific facts as to what it expected to accomplish once the prosecution revealed the identity of the unnamed informer. That higher degree of specificity was possible, however, because the defendant in Washington had already testified as to his version of the circumstances allegedly amounting to entrapment. Washington does not stand for the proposition that an accused must surrender the constitutional right not to testify in order to secure the identity of a prosecution informer, or that he \u201ctestify\u201d indirectly through his attorney first. All that is necessary is that the possibility of entrapment exists, and some indication that the informant\u2019s testimony might aid that defense. As stated in Roviaro,\n\u201cThe circumstances of this case demonstrate that John Doe\u2019s possible testimony was highly relevant and might have been helpful to the defense. . . . Doe had helped to set up the criminal occurrence and had played a prominent part in it. His testimony might have disclosed an entrapment. He might have thrown doubt upon petitioner\u2019s identity or on the identity of the package. . . \u201d (Emphasis added.)\nId. at 63-64, 77 S.Ct. at 629, 1 L.Ed.2d at 647.\nTo require appellant to provide specific facts as to these elements of the defense of entrapment (before giving him information concerning a possible material witness) infringes upon an accused\u2019s constitutional right not to testify, and requiring his attorney to reveal information received from the defendant interferes with the integrity of the attorney/client relationship. To condition the right to discovery of the identity of a material witness upon the relinquishment of a constitutional protection is totally unacceptable to me.\nAs stated in Roviaro, supra, 353 U.S. at 64, 77 S.Ct. at 629, 1 L.Ed.2d at 647,\n\u201c. . . [ujnless petitioner waived his constitutional right not to take the stand in his own defense [the informant] was [the] one material witness [other than the police officers]. Petitioner\u2019s opportunity to cross-examine [the police officers] was hardly a substitute for the opportunity to examine the man who had been nearest to him and took part in the transaction.\u201d\nWhen the informant is a material witness to the alleged crime, or when the informant could have knowledge of facts bearing on the accused\u2019s guilt or innocence, the relevance of the informant\u2019s possible testimony is for the defense, not the prosecution, to determine. As stated in Roviaro, supra, 353 U.S. at 64, 77 S.Ct. at 629, 1 L.Ed.2d at 647,\n\u201cThe desirability of calling John Doe as a witness, or at least interviewing him in preparation for trial, was a matter for the accused rather than the Government to decide.\u201d\nJudgment of sentence should therefore be reversed and a new trial granted.",
+        "type": "dissent",
+        "author": "MANDERINO, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Leonard G. Ambrose, III, Erie, for appellant.",
+      "Robert H. Chase, Dist. Atty., Bernard L. Siegel, 1st Asst. Dist. Atty., Erie, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "380 A.2d 1228\nCOMMONWEALTH of Pennsylvania, Appellee, v. Hugh Gerard HERRON, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted Sept. 24, 1976.\nDecided Dec. 24, 1977.\nLeonard G. Ambrose, III, Erie, for appellant.\nRobert H. Chase, Dist. Atty., Bernard L. Siegel, 1st Asst. Dist. Atty., Erie, for appellee.\nBefore EAGEN, C. J., and O\u2019BRIEN, ROBERTS, POMEROY, NIX, MANDERINO and PACKEL, JJ."
+  },
+  "file_name": "0461-02",
+  "first_page_order": 491,
+  "last_page_order": 505
+}

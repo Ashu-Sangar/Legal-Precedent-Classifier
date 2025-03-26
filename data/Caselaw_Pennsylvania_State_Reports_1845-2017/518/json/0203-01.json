@@ -1,0 +1,82 @@
+{
+  "id": 1811661,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Robert Scott EICHELBERGER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Eichelberger",
+  "decision_date": "1988-06-13",
+  "docket_number": "No. 160 M.D. Allocatur Dkt. 1987",
+  "first_page": "203",
+  "last_page": "204",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "518 Pa. 203"
+    },
+    {
+      "type": "parallel",
+      "cite": "542 A.2d 996"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1809914
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/517/0192-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 321,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06740122686689455
+    },
+    "sha256": "20b6e8e0ebca71a97fa7e99519465355f6778fcc83202e5587b7de75a8196499",
+    "simhash": "1:fdce8f1ae02e8578",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T21:15:45.792540+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Robert Scott EICHELBERGER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted. The matter is remanded for a new trial consistent with Commonwealth v. Heck, 517 Pa. 192, 535 A.2d 575 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "542 A.2d 996\nCOMMONWEALTH of Pennsylvania, Respondent, v. Robert Scott EICHELBERGER, Petitioner.\nSupreme Court of Pennsylvania.\nJune 13, 1988."
+  },
+  "file_name": "0203-01",
+  "first_page_order": 299,
+  "last_page_order": 300
+}

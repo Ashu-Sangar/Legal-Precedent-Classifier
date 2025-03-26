@@ -1,0 +1,81 @@
+{
+  "id": 1290510,
+  "name": "Commonwealth v. Gerlach, Appellant",
+  "name_abbreviation": "Commonwealth v. Gerlach",
+  "decision_date": "1960-04-18",
+  "docket_number": "Appeal, No. 72",
+  "first_page": "74",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "399 Pa. 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "20 Pa. D. & C. 2d 290",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1645827
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/20/0290-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 421,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.048743961520536526
+    },
+    "sha256": "725ae4c476f251c6f04bba007892c2bfb2a3d74982924debd9be9fc0feef1339",
+    "simhash": "1:67d206067c8f266b",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T19:06:04.500042+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Musmanno, Jones, Cohen, Bob: and Eagen, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Gerlach, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nper Curiam,\nDecree affirmed on opinion of Judge Shumaker, 20 Pa. D. & C. 2d 290. Costs on appellants.",
+        "type": "majority",
+        "author": "per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Lee G. McGandless, for appellants.",
+      "John L. Wilson, with him Raymond G. Miller, Deputy Attorney General, and Anne X. Alpern, Attorney General, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Gerlach, Appellant.\nArgued March. 17, 1960.\nBefore Jones, C. J., Musmanno, Jones, Cohen, Bob: and Eagen, JJ.\nLee G. McGandless, for appellants.\nJohn L. Wilson, with him Raymond G. Miller, Deputy Attorney General, and Anne X. Alpern, Attorney General, for Commonwealth, appellee.\nApril 18, 1960:"
+  },
+  "file_name": "0074-01",
+  "first_page_order": 96,
+  "last_page_order": 97
+}

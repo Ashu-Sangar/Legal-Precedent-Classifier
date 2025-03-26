@@ -1,0 +1,102 @@
+{
+  "id": 12285482,
+  "name": "Com. v. Woods",
+  "name_abbreviation": "Com. v. Woods",
+  "decision_date": "2016-08-24",
+  "docket_number": "150 WAL (2016)",
+  "first_page": "677",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 677"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 197",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486560,
+        12486561,
+        12486562,
+        12486563,
+        12486564,
+        12486565,
+        12486566,
+        12486567,
+        12486568,
+        12486555,
+        12486556,
+        12486557,
+        12486558,
+        12486559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0197-01",
+        "/a3d/144-2/0197-02",
+        "/a3d/144-2/0197-03",
+        "/a3d/144-2/0197-04",
+        "/a3d/144-2/0197-05",
+        "/a3d/144-2/0197-06",
+        "/a3d/144-2/0197-07",
+        "/a3d/144-2/0197-08",
+        "/a3d/144-2/0197-09",
+        "/a3d/144-2/0197-10",
+        "/a3d/144-2/0197-11",
+        "/a3d/144-2/0197-12",
+        "/a3d/144-2/0197-13",
+        "/a3d/144-2/0197-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.89,
+    "sha256": "05f7ff11e645de50fc916ffd38494e52ae59f17ed6f063a1ba500d3a7df7425c",
+    "simhash": "1:2414e20698682947",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Woods"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 197",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Woods\n08/24/2016\n150 WAL (2016)"
+  },
+  "file_name": "0677-04",
+  "first_page_order": 729,
+  "last_page_order": 729
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12284999,
+  "name": "Com. v. Hines",
+  "name_abbreviation": "Com. v. Hines",
+  "decision_date": "2015-10-22",
+  "docket_number": "357 MAL (2015)",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 775"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1056",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.896,
+    "sha256": "082fcf8b91846140e44091c0d15b8a5ffd0e57383823700aa24fba7f17007c58",
+    "simhash": "1:be019502c070e970",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hines"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1056",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hines\n10/22/2015\n357 MAL (2015)"
+  },
+  "file_name": "0775-15",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1171350,
+  "name": "Smith's Estate",
+  "name_abbreviation": "Smith's Estate",
+  "decision_date": "1936-12-16",
+  "docket_number": "Appeal, No. 153",
+  "first_page": "575",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "324 Pa. 575"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "288 Pa. 541",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100834
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 155,
+    "char_count": 1607,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.3457199628240874
+    },
+    "sha256": "a8f7a5b5c118bbc9167f482100d79b464a74afbcc047704166a367b341bfbe8a",
+    "simhash": "1:a9681e44bfbc65b8",
+    "word_count": 275
+  },
+  "last_updated": "2024-02-27T21:33:05.354188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Smith\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nIn the adjudication of an account in the Orphans\u2019 Court, the appellant asked to have an issue to determine the validity of the claim of a bank certified to the Common Pleas. Under the. Act of June 7, 1917, P. L. 363, Section 21(a), the Orphans\u2019 Court may certify such issue if in its discretion the question is one that should be passed on by a jury: Schwoyer\u2019s Estate, 288 Pa. 541. The court below had investigated the claim thoroughly, and had done everything possible to expedite a proper adjustment. The refusal of the issue was clearly not an abuse of discretion. The questions involved were the normal questions that always coin\u00e9 into the adjudication of accounts, and to compel issues to be framed for the Common Pleas would impose an unnecessary additional burden on that court.\nAppellant misapprehends the functions of the accountant appointed by the Orphans\u2019 Court. He did not perform the duties of an auditor; he was merely an expert accountant appointed as an examiner to unravel complicated accounts. No objection was made to his appointment, and while the court relied to some extent on his report for corroboration, its findings as to the claim in dispute were based principally upon the testimony at the audit. It is immaterial what this accountant may have been termed; he did not have the status of an auditor.\nThe orders of the court below are affirmed at the cost of appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "T. P. Dunn, for appellant.",
+      "Maurice J. Coughlin, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Smith\u2019s Estate.\nArgued November 30, 1936.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nT. P. Dunn, for appellant.\nMaurice J. Coughlin, for appellee.\nDecember 16, 1936:"
+  },
+  "file_name": "0575-01",
+  "first_page_order": 603,
+  "last_page_order": 604
+}

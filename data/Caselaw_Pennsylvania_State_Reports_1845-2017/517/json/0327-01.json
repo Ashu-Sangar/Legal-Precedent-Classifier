@@ -1,0 +1,84 @@
+{
+  "id": 1809851,
+  "name": "COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, Respondent, v. Wayne Allen SMITH, Petitioner",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "1988-02-01",
+  "docket_number": "Petition No. 225 W.D. Allocatur Docket 1986",
+  "first_page": "327",
+  "last_page": "328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 327"
+    },
+    {
+      "type": "parallel",
+      "cite": "536 A.2d 797"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Pa. 411",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804535
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/514/0411-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 493,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 4.7492960360752035e-08,
+      "percentile": 0.29789478073818204
+    },
+    "sha256": "50dd918395ceef127434b20667f87121d0c6ba2c3e2ae580369f4e4cbcd233b4",
+    "simhash": "1:b1cd8abbb50b85d6",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "LARSEN, J., dissents."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, Respondent, v. Wayne Allen SMITH, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted. The order of the Commonwealth Court is reversed, and the Petitioner\u2019s appeal from suspension of operator\u2019s license is sustained. See Commonwealth of Pennsylvania, Department of Transportation v. McFarren, 514 Pa. 411, 525 A.2d 1185 (1987).\nLARSEN, J., dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "536 A.2d 797\nCOMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, Respondent, v. Wayne Allen SMITH, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 1, 1988."
+  },
+  "file_name": "0327-01",
+  "first_page_order": 395,
+  "last_page_order": 396
+}

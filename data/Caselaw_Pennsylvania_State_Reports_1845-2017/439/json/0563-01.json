@@ -1,0 +1,990 @@
+{
+  "id": 1931041,
+  "name": "Cipolla et al., Appellants, v. Shaposka",
+  "name_abbreviation": "Cipolla v. Shaposka",
+  "decision_date": "1970-07-02",
+  "docket_number": "Appeal, No. 90",
+  "first_page": "563",
+  "last_page": "578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "439 Pa. 563"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "280 Minn. 139",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        297723
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/280/0139-01"
+      ]
+    },
+    {
+      "cite": "439 S.W. 2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10132011
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/439/0173-01"
+      ]
+    },
+    {
+      "cite": "240 N.Y.S. 2d 743",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 N.Y. 2d 473",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2264536
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/12/0473-01"
+      ]
+    },
+    {
+      "cite": "95 A.L.R. 2d 12",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 F. Supp. 40",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        674905
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/83/0040-01"
+      ]
+    },
+    {
+      "cite": "70 Yale L.J. 554",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "574"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "301 N.Y.S. 2d 519",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "524"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 N.Y. 2d 569",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2289832
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/24/0569-01"
+      ]
+    },
+    {
+      "cite": "203 A. 2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "416 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1893049
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/416/0001-01"
+      ]
+    },
+    {
+      "cite": "215 A. 2d 677",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "420 Pa. 86",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1898539
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/420/0086-01"
+      ]
+    },
+    {
+      "cite": "222 A. 2d 897",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "422 Pa. 620",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1901683
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/422/0620-01"
+      ]
+    },
+    {
+      "cite": "203 A. 2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 1
+    },
+    {
+      "cite": "416 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1893049
+      ],
+      "year": 1964,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/416/0001-01"
+      ]
+    },
+    {
+      "cite": "151 N.W. 2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 5,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "675",
+          "parenthetical": "\"[T]he rule of ordinary negligence, rather than gross negligence or 'wanton or wilfuF conduct, makes better socioeconomic sense in modern America. It is the sounder law. The Indiana law [a guest statute] is an anachronism.\""
+        },
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "35 Wis. 2d 578",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8671735
+      ],
+      "weight": 5,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "602",
+          "parenthetical": "\"[T]he rule of ordinary negligence, rather than gross negligence or 'wanton or wilfuF conduct, makes better socioeconomic sense in modern America. It is the sounder law. The Indiana law [a guest statute] is an anachronism.\""
+        },
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/35/0578-01"
+      ]
+    },
+    {
+      "cite": "54 Cal. L. Rev. 1584",
+      "category": "journals:journal",
+      "reporter": "Cal. L. Rev.",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "1587-88"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "41 N.Y.U.L. Rev. 267",
+      "category": "journals:journal",
+      "reporter": "N.Y.U. L. Rev.",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "295-304"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "249 N.E. 2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "209 N.E. 2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1965,
+      "opinion_index": 2
+    },
+    {
+      "cite": "262 N.Y.S. 2d 463",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1965,
+      "opinion_index": 2
+    },
+    {
+      "cite": "16 N.Y. 2d 120",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2273966
+      ],
+      "year": 1965,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ny-2d/16/0120-01"
+      ]
+    },
+    {
+      "cite": "45 Cal. Rptr. 124",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1965,
+      "opinion_index": 2
+    },
+    {
+      "cite": "235 Cal. App. 2d 228",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2155548
+      ],
+      "year": 1965,
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-app-2d/235/0228-01"
+      ]
+    },
+    {
+      "cite": "67 Colum. L. Rev. 465",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "470",
+          "parenthetical": "guest statutes presupposed a more general absence of insurance than is characteristic of our automotive society today and contradict the spirit of the times"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "22 La. L. Rev. 90",
+      "category": "journals:journal",
+      "reporter": "La. L. Rev.",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "91-92",
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "211 A. 2d 594",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1965,
+      "opinion_index": 2
+    },
+    {
+      "cite": "375 F. 2d 215",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2034657
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "close questions as to whether plaintiff is guest or passenger should be resolved in favor of passenger, since guest statutes should be strictly construed"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/375/0215-01"
+      ]
+    },
+    {
+      "cite": "429 P. 2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 2
+    },
+    {
+      "cite": "59 Cal. Rptr. 840",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "66 Cal. 2d 994",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2331199
+      ],
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "998"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-2d/66/0994-01"
+      ]
+    },
+    {
+      "cite": "211 N.E. 2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "host slammed door on guest's foot; held: plaintiff not being \"transported\" and therefore may recover"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "4 Ohio App. 2d 1",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 2d",
+      "case_ids": [
+        1459378
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "host slammed door on guest's foot; held: plaintiff not being \"transported\" and therefore may recover"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ohio-app-2d/4/0001-01"
+      ]
+    },
+    {
+      "cite": "203 Kan. 440",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        550167
+      ],
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 2,
+      "case_paths": [
+        "/kan/203/0440-01"
+      ]
+    },
+    {
+      "cite": "98 P. 2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1940,
+      "opinion_index": 2
+    },
+    {
+      "cite": "15 Cal. 2d 89",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2226838
+      ],
+      "year": 1940,
+      "opinion_index": 2,
+      "case_paths": [
+        "/cal-2d/15/0089-01"
+      ]
+    },
+    {
+      "cite": "41 N.Y. U.L. Rev. 267",
+      "category": "journals:journal",
+      "reporter": "N.Y.U. L. Rev.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "270 N.Y.S. 2d 552",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1966,
+      "opinion_index": 2
+    },
+    {
+      "cite": "26 App.Div. 2d 595",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3160766
+      ],
+      "year": 1966,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ad2d/26/0595-01"
+      ]
+    },
+    {
+      "cite": "263 N.Y.S. 2d 647",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1965,
+      "opinion_index": 2
+    },
+    {
+      "cite": "47 Misc. 2d 992",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1159362
+      ],
+      "year": 1965,
+      "opinion_index": 2,
+      "case_paths": [
+        "/misc2d/47/0992-01"
+      ]
+    },
+    {
+      "cite": "157 N.W. 2d 579",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "584"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "38 Wis. 2d 468",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8671676
+      ],
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/38/0468-01"
+      ]
+    },
+    {
+      "cite": "133 N.W. 2d 408",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1965,
+      "opinion_index": 2
+    },
+    {
+      "cite": "26 Wis. 2d 617",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8676110
+      ],
+      "year": 1965,
+      "opinion_index": 2,
+      "case_paths": [
+        "/wis-2d/26/0617-01"
+      ]
+    },
+    {
+      "cite": "417 S.W. 2d 259",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10130938
+      ],
+      "year": 1967,
+      "opinion_index": 2,
+      "case_paths": [
+        "/sw2d/417/0259-01"
+      ]
+    },
+    {
+      "cite": "125 Mass. 374",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        730867
+      ],
+      "year": 1878,
+      "pin_cites": [
+        {
+          "parenthetical": "concerning capacity of married women to make contracts"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/mass/125/0374-01"
+      ]
+    },
+    {
+      "cite": "191 N.E. 2d 279",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "222 A. 2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 5,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "209"
+        },
+        {
+          "page": "210"
+        },
+        {
+          "page": "209"
+        },
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "107 N.H. 351",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4462093
+      ],
+      "weight": 5,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "355"
+        },
+        {
+          "page": "356-57"
+        },
+        {
+          "page": "356"
+        },
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nh/107/0351-01"
+      ]
+    },
+    {
+      "cite": "231 A. 2d 477",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8098613
+      ],
+      "weight": 4,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "479"
+        },
+        {
+          "parenthetical": "discussed supra"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/231/0477-01"
+      ]
+    },
+    {
+      "cite": "219 A. 2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8100951
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/219/0374-01"
+      ]
+    },
+    {
+      "cite": "163 A. 2d 270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "opinion_index": 2
+    },
+    {
+      "cite": "2 Storey 575",
+      "category": "reporters:state",
+      "reporter": "Storey",
+      "year": 1960,
+      "opinion_index": 2
+    },
+    {
+      "cite": "91 A. 2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1952,
+      "opinion_index": 2
+    },
+    {
+      "cite": "8 Terry 365",
+      "category": "reporters:state",
+      "reporter": "Terry",
+      "year": 1952,
+      "opinion_index": 2
+    },
+    {
+      "cite": "280 Minn. 139",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        297723
+      ],
+      "weight": 4,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "the court noting that it could find no other decision exactly in point factually"
+        },
+        {
+          "parenthetical": "the court noting that it could find no other decision exactly in point factually"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/minn/280/0139-01"
+      ]
+    },
+    {
+      "cite": "439 S.W. 2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10132011
+      ],
+      "year": 1969,
+      "opinion_index": 2,
+      "case_paths": [
+        "/sw2d/439/0173-01"
+      ]
+    },
+    {
+      "cite": "240 N.Y.S. 2d 743",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "749"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "12 N.Y. 2d 473",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2264536
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ny-2d/12/0473-01"
+      ]
+    },
+    {
+      "cite": "70 Yale L.J. 554",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "weight": 2,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "575-76"
+        },
+        {
+          "page": "581-82",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "301 N.Y.S. 2d 519",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "24 N.Y. 2d 569",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2289832
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ny-2d/24/0569-01"
+      ]
+    },
+    {
+      "cite": "203 A. 2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "416 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1893049
+      ],
+      "weight": 3,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "21"
+        },
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/416/0001-01"
+      ]
+    },
+    {
+      "cite": "222 A. 2d 897",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "422 Pa. 620",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1901683
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/422/0620-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1230,
+    "char_count": 28114,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 1.7782995664091132e-06,
+      "percentile": 0.9938782145213871
+    },
+    "sha256": "ed122b067437036c3b730c23386150b4dee776ed074e253c6d4d352c708f5458",
+    "simhash": "1:a257cfd72b1096f9",
+    "word_count": 4762
+  },
+  "last_updated": "2024-02-27T19:15:00.631461+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Cipolla et al., Appellants, v. Shaposka."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Cohen,\nThis is an appeal from a judgment entered against Michael Cipolla and his parents and natural guardians, appellants, in accordance with Pa. E.C.P. 1035. The record indicates that Michael Cipolla and John Shaposka, Jr., appellee, are former schoolmates at the Brown Technical School in Wilmington, Delaware. On January 24, 1966, after classes had ended for the day, appellee was driving Michael to appellants\u2019 home in Pennsylvania when the automobile in which they were riding became involved in a collision in Delaware in which Michael was injured. Shaposka is a Delaware resident as is his father in whose name the car was registered in Delaware.\nThe sole question involved in this appeal is whether the legal effect of the guest-host relationship should be determined by Delaware or Pennsylvania law. If Delaware law applies, appellants will be barred from recovering since Delaware\u2019s Guest Statute, Del. Code Arm, tit. 21, \u00a76101 (a), prohibits a guest from recovering for his host\u2019s negligence. The statute does permit recovery for intentional or wilful or wanton misconduct, but appellants argue only that appellee was guilty of ordinary negligence. Pennsylvania has no guest statute, and if its law applies, appellants will be able to recover if they can prove appellee was negligent The couit below concluded that Delaware law applied and granted appellee\u2019s motion for summary judgment.\nUnder our decisions in Kuchinic v. McCrory, 422 Pa. 620, 222 A. 2d 897 (1966), McSwain v. McSwain, 420 Pa. 86, 215 A. 2d 677 (1966), and Griffith v. United Air Lines, Inc., 416 Pa. 1, 203 A. 2d 796 (1964), we must determine whether Delaware or Pennsylvania has the greater interest in the application of its law to the question now before us. At the outset it might be noted that this case is much more difficult than either Kuchinic or McSwain for both of those cases presented a false conflict; that is, an analysis of the policies behind the competing laws indicated that in each case the application of one state\u2019s law (in Kuchinic, Georgia; in McSwain, Colorado) would not further those policies, Cavers, The Choiee-of-Law Process, 29-30 (1965); Kuchinic, supra at 624 n.4. The fact that Cipolla is a resident of Pennsylvania which has adopted a plaintiff-protecting rule and Shaposka is a resident of Delaware which has adopted a defendant-protecting rule takes this case out of that category and requires us to undertake a deeper analysis than was necessary in those Cases.\nIn determining which state has the greater interest in the application of its law, one method is to see what contacts each state has with the accident, the contacts being relevant only if they relate to the \u201cpolicies and interests underlying the particular issue before the court.\u201d Griffith, supra at 21. When doing this it must be remembered that a mere counting of contacts is not what is involved. The weight of a particular state\u2019s contacts must be measured on a qualitative rather than quantitative scale. Tooker v. Lopez, 24 N.Y. 2d 569, 576, 301 N.Y.S. 2d 519, 524 (1969).\nAs it is Pennsylvania\u2019s policy that its guests should be permitted to recover for injuries caused by their hosts\u2019 negligence and as appellants are Pennsylvania residents, Pennsylvania is a concerned jurisdiction and has a contact relevant to the issue before us. This is the only relevant contact with Pennsylvania, however. As it is Delaware\u2019s policy that its hosts should not be required to compensate their guests for their (the hosts\u2019) negligence and as appellee is a Delaware resident, Delaware is a concerned jurisdiction and has a contact relevant to the issue before us. The fact that the automobile involved in the accident is registered and housed in Delaware gives that state another contact for it appears that insurance rates will depend on the state in which the automobile is housed rather than the domicile of the owner or driver. Morris, Enterprise Liability and the Actuarial Process\u2014The Insignificance of Foresight, 70 Yale L.J. 554, 574 (1961). Thus, it appears that Delaware\u2019s contacts are qualitatively greater than Pennsylvania\u2019s and that it has the greater interest in having its law applied to the issue before us.\nAlso, it seems only fair to permit a defendant to rely on his home state\u2019s law when he is acting within that State.\n\u201cConsider the response that would be accorded a proposal that was the opposite of this principle if it were advanced against a person living in the state of injury on behalf of a person coming there from a state having a higher standard of care or of financial protection. The proposal thus advanced would require the community the visitor entered to step up its standard of behavior for his greater safety or lift its financial protection to the level to which he was accustomed. Such a proposal would be rejected as unfair. By entering the state or nation, the visitor has exposed himself to the risk of the territory and should not subject persons living there to a financial hazard that their law had not created.\u201d Cavers, supra at 146-7.\nInhabitants of a state should not be put in jeopardy of liability exceeding that created by their state\u2019s law just because a visitor from a state offering higher protection decides to visit there. This is, of course, a highly territorial approach, but \u201cdepartures from the territorial view of torts ought not to be lightly undertaken.\u201d Gordon v. Parker, 83 F. Supp. 40, 42 (D. Mass. 1949). \u201cTo withdraw . . . actions and affairs from the reach of domestic law because 'the persons (or at least one of the persons) participating in them are not domestic to the state causes a wrench away from customary attitudes toward law that may lead the disadvantaged party to \u2018regard the distinction as involving a personal discrimination against him rather than as a step toward comity between states.\u2019 \u201d Cavers, supra at 135. The very use of the term true conflict implies that there is no one correct answer, but as a general approach a territorial view seems preferable to a personal view.\nThese approaches to the solution of this true conflict lead to the conclusion that Delaware has a greater interest in the application of its law than does Pennsylvania.\nJudgment affirmed.\nIt is the rare conflicts case involving a guest statute in which the host and guest are domiciled in different states. See Annot., 95 A.L.R. 2d 12 and Supplement thereto. In the ordinary case therefore it is often possible to find a false conflict, Babcock v. Jackson, 12 N.Y. 2d 473, 240 N.Y.S. 2d 743 (1963) ; Kennedy v. Dixon (Mo.), 439 S.W. 2d 173 (1969). The only case we have found presenting a factual situation simUar to the one before us is Schneider v. Nichols, 280 Minn. 139, 158 N.W. 2d 254 (1968), but there the court relied on the fact that the defendant had recently moved from Minnesota to North Dakota (which had the guest statute), had a Minnesota drivers license and drove a vehicle equipped with Minnesota Ucense plates.\nIn this analysis the fact that the accident occurred in Delaware is not a relevant contact because the Delaware statute does not set out a rule of the road.\nSee Cavers\u2019 Principle 2, supra at 146.",
+        "type": "majority",
+        "author": "Mr. Justice Cohen,"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Chief Justice Bell:\nI believe the issues in this case should be determined and decided by lex loci delicti\u2014see my dissenting Opinion in Griffith v. United Air Lines, Inc., 416 Pa, 1, 203 A. 2d 796. However, if this test be not applied, it is clear that the Majority Opinion is correct when it affirms the judgment, because Delaware\u2019s contacts were more important and both qualitatively and quantitatively greater than Pennsylvania\u2019s.",
+        "type": "concurrence",
+        "author": "Mr. Chief Justice Bell:"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Boberts:\nI agree with the majority that the instant case presents us with a true conflict. I cannot agree, however, that the conflict is properly resolved by the application of Delaware law, and hence I must respectfully dissent.\nTo reach its result the majority advances two separate theories: (1) \u201cDelaware\u2019s contacts are qualitatively greater than Pennsylvania\u2019s and ... it has the greater interest in having its law applied.\u201d (2) A \u201cterritorial view\u201d of torts is desirable and \u201cit seems only fair to permit a defendant to rely on his home state\u2019s law when he is acting within that state.\u201d I will discuss the two theories in turn.\nThe first theory is an attempt to apply the law as set forth in Griffith v. United Air Lines, Inc., 416 Pa. 1, 203 A. 2d 796 (1964), to the facts of this case. In Griffith we stated that conflicts of law would thereafter be resolved by applying the law of the predominantly concerned jurisdiction, with the strength of jurisdictional concern being measured by the relevant contacts each jurisdiction had with the underlying traits-action. As the majority correctly notes, however, a \u201ccontact\u201d is relevant only if it relates to the \u201cpolicies and interests underlying the particular issue before the court.\u201d Griffith, 416 Pa. at 21, 263 A. 2d at 865.\nMy disagreement with the majority comes in the majority\u2019s assertion that there is more than one policy underlying the issue before the court, the Delaware guest statute. Naturally, it is always difficult to read the legislative mind, and courts have discovered a host of reasons for guest statutes. It has been suggested, for example, that guests statutes were designed to prevent collusive suits between guest and host; and that they were intended to grant injured parties in other cars priority over the \u201cungrateful guest\u201d in the assets of the negligent driver. The majority suggests that guest statutes are designed to lower insurance rates, and that the place where the automobile is housed is therefore a relevant contact, because this is how insurance rates are determined.\nI do not believe, however, that Delaware passed its guest statute for the purpose of lowering the insurance rates of those who house their automobiles in Delaware. I reach this conclusion for several reasons. For one, even assuming that the barring of guest-host suits does result in lower costs to insurance companies, it is far from clear whether the benefits would inure to Delaware residents or merely aid insurance companies doing business in Delaware. Further, even if the savings were passed on to the consumer, the impact of this savings on insurance rates appears to me to be highly speculative. Professor Morris, in the article relied on by the majority, indicates that such guest claims are likely to have only a slight impact on insurance rates, particularly for a state which will not apply its guest statute in accidents which occur in common law jurisdictions. . See Morris, \u201cEnterprise Liability and the Actuarial Process\u2014The Insignificance of Foresight,\u201d 70 Yale L.J. 554, 575-76 (1961).\nOf course, a statute could be passed for a particular purpose, even though it is poorly designed to effectuate that purpose. But I do not believe that is the case here, for neither the Legislature nor the courts of Delaware have ever mentioned low insurance rates as the purpose of the guest statute. In fact, the sole purpose of the Delaware guest statute, as set forth by its courts, \u201cis to protect one who generously, without accruing benefit, has transported another in his motor vehicle. Engle v. Poland, 8 Terry 365, 91 A. 2d 326 (1952); Colombo v. Sech, 2 Storey 575, 163 A. 2d 270 (1960).\u201d Fields v. Synthetic Ropes, Inc., 219 A. 2d 374, 376 (Del. Superior Ct. 1966).\nThat Delaware construes its guest statute with only the \u201cgenerous host\u201d purpose in mind can be seen in Mumford v. Robinson, 231 A. 2d 477 (Del. 1967). There the guest and host, both Delaware residents, were close personal friends who were on their way to a fabric shop when the accident occurred. The guest, however, had promised to give the host a sewing lesson upon their return from the shop. The Court noted that \u201c[n]o financial consideration was promised or expected; Mrs. Parsons [the guest] was simply doing her friend a favor.\u201d 231 A. 2d at 479. Nevertheless, the Court held that the sewing lesson constituted a \u201csufficiently tangible\u201d benefit to the host to meet the demands of the statute. The guest was therefore allowed to recover\u2014 and no mention is made of the effect such recovery might have on Delaware insurance rates.\nSince I do not believe that the Delaware guest statute was designed to lower insurance rates, I cannot agree that the domicile of the automobile is a relevant contact. Hence I cannot agree that, under Griffith, we must apply Delaware law because its contacts are \u201cqualitatively greater\u201d than Pennsylvania\u2019s.\nThe second theory is based on the view that it is \u201conly fair to permit a defendant to rely on his home state\u2019s law when he is acting within that state\u201d. I believe that this emphasis on the \u201cterritorial view of torts\u201d is misplaced. As the majority notes, the guest statute is not conduct regulating, so the defendant was not in any sense relying on Delaware law when he was driving. Nor do I believe that the defendant\u2019s father was relying on Delaware law when he paid his premiums. It seems doubtful to me that the insured ever took into account the possibility that a Pennsylvania guest could not recover against him for a Delaware accident, but could for one in Pennsylvania or New Jersey. And if the majority means that the insurance company, here Allstate, relied on not being held liable when setting its rates, I agree with Professor Morris that \u201c[t]he theory ... is tautological. The rules of liability are to be dictated by insurance practices which are, in turn, dictated by the rules of liability. All that can be concluded from such a premise is that whatever is, should be.\u201d Morris, \u201cEnterprise Liability and the Actuarial Process\u2014The Insignificance of Foresight,\u201d 70 Yale L.J. 554, 581-82 (1961) (footnote omitted).\nAs I have indicated, only the first theory advanced by the majority is consistent with Pennsylvania law. While I do disagree with the assertion that the place where the automobile is housed is a relevant contact, I quite agree with the majority\u2019s statement that the instant case presents a true conflict. Further, I believe that we are presented with a case where, on the basis of contacts, there is no predominantly concerned jurisdiction. Delaware seeks to protect the \u201cgenerous host\u201d from liability; Pennsylvania is concerned to see that a guest injured by his host\u2019s negligence is compensated for his injuries. In my view, each State has but one relevant contact with respect to host-guest liability\u2014 the domicile of the party who will benefit from their respective State\u2019s policy.\nWith the interests of both States evenly balanced, I believe that the appropriate method of resolving the conflict is to choose what has been termed \u201cthe better rule of law\u201d. This approach has been adopted, in varying forms, by several other jurisdictions. See, e.g., Clark v. Clark, 107 N.H. 351, 222 A. 2d 205 (1966); Heath v. Zellmer, 35 Wis. 2d 578, 151 N.W. 2d 664 (1967) ; cf. Schneider v. Nichols, 280 Minn. 139, 158 N.W. 2d 254 (1968). It is an approach consistent with our desire for a choice of law which will result in \u201c \u2018justice, fairness and \u201cthe best practical result\u201d \u2019 \u201d. Griffith v. United Air Lines, Inc., 416 Pa. at 20, 203 A. 2d at 805 (quoting Judge Fuld in Babcock v. Jackson, 12 N.Y. 2d 473, 481, 240 N.Y.S. 2d 743, 749, 191 N.E. 2d 279, 283 (1963)). But it is not intended as a disguise for a parochial choice of law. Mr. Chief Justice ICennison, speaking for the New Hampshire Court, has stated:\n\u201cWe prefer to apply to the better rule of law in conflicts cases just as is done in nonconflicts cases, when the choice is open to us. If the law of some other state is outmoded, an unrepealed remnant of a bygone age, ... we will try to see our way clear to apply our own law instead. If it is our own law that is obsolete or senseless (and it could be) we will try to apply the other state\u2019s law.\u201d Clark v. Clark, 107 N.H. 351, 355, 222 A. 2d 205, 209 (1966).\nIn choosing the \u201cbetter rule of law\u201d I would examine the policies behind both rules to see which currently represents \u201cthe sounder view of the law\u201d. I would also refer to the decisions of other states, particularly when they make clear that the policy of one of the concerned jurisdictions is either \u201cregressing\u201d or \u201cemerging\u201d. See A. Von Mehren & D. Troutman, The Law of Multistate Problems 377, 394 (1965). In this way the strength of the policies behind the differing rules of law can be assessed, and the rule with the \u201cstronger policy\u201d today can be chosen. See id. at 377; cf. Milliken v. Pratt, 125 Mass. 374 (1878) (concerning capacity of married women to make contracts).\nTo demonstrate which is the better rule of law in the instant case, I will examine the conflicts cases in the area of host-guest liability, the constructions which guest statute jurisdictions\u2014including Delaware\u2014give their statutes, and the views of courts and scholars on the policy underlying guest statutes. From this examination it will be seen that guest statutes such as Delaware\u2019s clearly represent \u201cregressing\u201d policies and that the common law rule represents the better rule of law.\nIn conflicts decisions involving guest statutes I have been unable to find a single case in the jurisdictions which have abandoned lex loci in which the guest statute, rather than the Common law, has been chosen. The common law rule has been chosen where aE the parties were from the common law state, but the accident occurred in the guest statute state: e.g., Kennedy v. Dixon, 439 S.W. 2d 173 (Mo. 1969); Wessling v. Paris, 417 S.W. 2d 259 (Ky. 1967); Clark v. Clark, supra; Kuchinic v. McCrory, supra; Wilcox v. Wilcox, 26 Wis. 2d 617, 133 N.W. 2d 408 (1965); Babcock v. Jackson, supra; where the guests and hosts were from a guest statute state, and the driver of a second car, from the common law state, had interpleaded the host: Heath v. Zelmer, 35 Wis. 2d 578, 151 N.W. 2d 664 (1967); where the plaintiff-guest was from a common law jurisdiction, the defendant-host from a guest statute jurisdiction, and the accident occurred in the guest statute state: Schneider v. Nichols, 280 Minn. 139, 158 N.W. 2d 254 (1968) (the court noting that it could find no other decision exactly in point factually); and where the host, guest, and car were from a guest statute jurisdiction, hut were suing in a common law jurisdiction for an accident which occurred there: Conklin v. Horner, 38 Wis. 2d 468, 157 N.W. 2d 579 (1968); Kell v. Henderson, 47 Misc. 2d 992, 263 N.Y.S. 2d 647 (Sup. Ct. 1965), aff\u2019d mem., 26 App.Div. 2d 595, 270 N.Y.S. 2d 552 (3d Dep\u2019t 1966).\nEven in states which have guest statutes on the books, \u201c[s]uch statutes are in general less rigorously applied today than when they were first enacted, and are subjected to increasing criticism\u201d. Leflar, \u201cChoice-Influencing Considerations in Conflicts Law,\u201d 41 N.Y. U.L. Rev. 267, 278 n.49 (1966). For example, in Prager v. Isreal, 15 Cal. 2d 89, 98 P. 2d 729 (1940), the court held that a plaintiff who was injured with one foot on the running board and one in the car was not barred by the guest statute, because she was not being \u201ctransported\u201d. On the same theory the Kansas Supreme Court in Chapman v. Parker, 203 Kan. 440, 454 P. 2d 506 (1969), allowed recovery to a guest who was injured entering a car, distinguishing it from a past decision denying recovery to a guest leaving the car. See also Economou v. Anderson, 4 Ohio App. 2d 1, 211 N.E. 2d 82 (1965) (host slammed door on guest\u2019s foot; held: plaintiff not being \u201ctransported\u201d and therefore may recover). And in O\u2019Donnell v. Mullaney, 66 Cal. 2d 994, 59 Cal. Rptr. 840, 429 P. 2d 160 (1967), the California Supreme Court seized on the words \u201cvehicle upon a highway\u201d to hold that a guest injured on a private roadway may recover for the negligence of his host. The Court also pointed out: \u201c[T]he relationship between the driver and occupant of a motor vehicle may fluctuate during the course of a single trip, as circumstances bring them within or without the statute\u201d. 66 Cal. 2d at 998, 59 Cal. Rptr. at 842. See also Rowe v. United States Fidelity & Guaranty Co., 375 F. 2d 215 (4th Cir. 1967) (close questions as to whether plaintiff is guest or passenger should be resolved in favor of passenger, since guest statutes should be strictly construed).\nIn fact, Delaware itself construes its statute quite narrowly. See e.g., Mumford v. Robinson, 231 A. 2d 477 (Del. 1967) (discussed supra). Nor will Delaware apply its guest statute to an accident which occurs in a common law jurisdiction. In Friday v. Smoot, 211 A. 2d 594 (Del. 1965), Delaware applied New Jersey law allowing recovery for a host\u2019s negligence in an accident which occurred in New Jersey, but involved a Delaware guest and host. Although the rationale for this choice of law was the Court\u2019s refusal to abandon the rule of lex loci, the result, of the decision is that Delaware itself limits the scope of its policy and the protection it will give to its resident-hosts. Clearly, if the accident involved in the instant case occurred at the end of the trip in Pennsylvania, rather than in the middle of the trip in Delaware, Delaware itself would apply Pennsylvania law and allow plaintiff to recover for the negligence of his host.\nNot only do the results of the above cases show that guest statutes represent a regressing policy, weakened by numerous artificial exceptions, but the comments of courts and scholars on the matter well demonstrate that guest statutes do not represent the \u201cbetter rule of law\u201d. Professor Pedriek has written:\n\u201cAt an early stage in automobile litigation and at a time when automobile insurance companies were concerned with limiting their function as far as possible a strange alliance between insurers and farm groups secured passage in a large number of states of the \u2018automobile guest statutes\u2019. These statutes resulting from hitchhiker suits against uninsured or underinsured drivers and intra-family suits against insured defendants were aimed at relieving the driver (and his insurer) from liability save for the most horrendous performances at the wheel. . . .\n\u201cIt is a tribute to the lobby system of legislation that in this country a surgeon operating on a charity patient is bound to exercise ordinary care but is permitted, should he drive his patient home from the hospital, to abandon that standard and be subjected to liability only on proof of gross negligence or wilful and wanton misconduct.\u201d\nPedrick, \u201cTaken for a Ride: The Automobile Guest and Assumption of Risk\u201d, 22 La. L. Rev. 90, 91-92 (1961) (footnotes omitted).\nIn Clark v. Clark, 107 N.H. 351, 356-57, 222 A. 2d 205, 210 (1966), Mr. Chief Justice Ejjnnison noted:\n\u201cLegislative persuasion was largely in terms of guest relationships (hitchhikers) and uninsured personal liabilities that are no longer characteristic of our automotive society. . . . The problems of automobile accident law then were not what they are today. New Hampshire never succumbed to this persuasion. No American state has newly adopted a guest statute for many years. Courts of states which did adopt them are today construing them much more narrowly, evidencing their dissatisfaction with them. . . . Though still on the books, they contradict the spirit of the times.\u201d\ngee also Health v. Zellmer, 35 Wis. 2d 578, 602, 151 N.W. 2d 664, 675 (1967) (\u201c[T]he rule of ordinary negligence, rather than gross negligence or \u2018wanton or wilfuF conduct, makes better socioeconomic sense in modern America. It is the sounder law. The Indiana law [a guest statute] is an anachronism.\u201d); Trautman, \u201cTwo Views on Kell v. Henderson: A Comment,\u201d 67 Colum. L. Rev. 465, 470 (1967) (guest statutes presupposed a more general absence of insurance than is characteristic of our automotive society today and contradict the spirit of the times).\nAfter examining the views of the authorities around the country, judicial and academic, the construction that states place on their own guest statutes, and the construction which Delaware itself has adopted, I am led to the conclusion that allowing recovery by the guest for his host\u2019s negligence represents the better rule of law in the circumstances of the instant case. It must be remembered, however, that it is only because I believe that Delaware and Pennsylvania, on the basis of relevant contacts, are equally concerned that I feel free to choose either jurisdiction\u2019s law. I have in the end concluded that Pennsylvania\u2019s rule is the better rule of law, not out of \u201cState chauvinism\u201d, but because I am firmly convinced that it represents \u201cemerging\u201d policy and the \u201csounder view of the law\u201d.\nI dissent and Would remand this case for trial.\nSee, e.g., Kuchinic v. McCrory, 422 Pa. 620, 624, 222 A. 2d 897, 899 (1966) ; Clark v. Clark, 107 N.H. 351, 356, 222 A. 2d 205, 209 (1966) ; Stephan v. Proctor, 235 Cal. App. 2d 228, 45 Cal. Rptr. 124 (Ct of App. 1965). In the instant case, however, it does not matter if guest statutes are in fact designed to prevent collusive lawsuits between guest and host, because prevention of collusiveness is basically a forum-related concern. See Heath v. Zellmer, 35 Wis. 2d 578, 151 N.W. 2d 664, 669 n.4 (1967).\nAlthough this suggested policy was accepted by New York in Dym v. Gordon, 16 N.Y. 2d 120, 262 N.Y.S. 2d 463, 209 N.E. 2d 792 (1965), the New York Court of Appeals has since rejected it as not being a correct construction. See Tooker v. Lopez, 24 N.Y. 2d 569, 301 N.Y.S. 2d 519, 249 N.E. 2d 394 (1969).\nI am assuming that the insurance practices set forth in Professor Morris\u2019 article still obtain today, nine years after the article was published. No data has been presented to us on this question.\nAs the majority quite correctly notes, Professor Morris teUs us that automobile insurance rates do not depend on the residence of the owner or driver of the vehicle.\nThe liability insurance carrier for the defendant\u2019s vehicle is the Allstate Insurance Company of Valley Forge, Pennsylvania. Compare Conklin v. Horner, 38 Wis. 2d 468, 478, 157 N.W. 2d 579, 584 (1968) : \u201c[T]he appellant insurance company is called \u2018Nationwide Insurance Co.,\u2019 a name consistent with the wide territorial area of insurance company responsibility, hardly indicative that it relied solely upon local laws for setting its rates.\u201d\nDelaware still applies lex loci in tort cases. See Friday v. Smoot, 211 A. 2d 594 (Del. 1965).\nI am assuming, of course, that under Delaware\u2019s interpretation of its guest statute, the guest in the instant case was \u201ctransported . . . without payment\u201d within .the meaning of the Delaware guest statute. Although it might be argued that the host did receive some benefit from the trip (he was driving the plaintiff to plaintiff\u2019s home so that plaintiff could return defendant\u2019s tools to him), counsel for the plaintiff has chosen not to raise this claim. See Mumford v. Robinson, supra.\nSee note 6 supra. See also Tooker v. Lopez, 24 N.Y. 2d 569, 577, 301 N.Y.S. 2d 519, 526, 249 N.E. 2d 394, 399 (1969) : \u201c \u2018 \u201cThough our nation is divided into fifty-one separate legal systems, our people act most (of) the time as if they lived in a single one . . . (They suffer from a) chronic failure to take account of differences in state laws.\u201d \u2019 \u201d\nThe phrase is Professor Leflar\u2019s. See Leflar, \u201cChoice Influencing Considerations in Conflicts Law,\u201d 41 N.Y.U.L. Rev. 267, 295-304 (1966) ; Leflar, \u201cConflicts Law: More on Choice-Influencing Considerations,\u201d 54 Cal. L. Rev. 1584, 1587-88 (1966).\n\u201cAnother choice-influencing consideration that must inevitably influence the decision of a court is its search for the \u2018better law\u2019\u2014one that to the court appears to present the sounder view of the law in light of the socio-economic facts of life at the time when the court speaks.\u201d Heath v. Zellmer, 35 Wis. 2d 578, 598, 151 N.W. 2d 664, 673 (1967).\nClark v. Clark, 107 N.H. 351, 354, 222 A. 2d 205, 208 (1966).",
+        "type": "dissent",
+        "author": "Mr. Justice Boberts:"
+      }
+    ],
+    "attorneys": [
+      "Charles E. Keeler, for appellants.",
+      "Harry J. Bradley, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Cipolla et al., Appellants, v. Shaposka.\nArgued January 16, 1970.\nBefore Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nCharles E. Keeler, for appellants.\nHarry J. Bradley, for appellee.\nJuly 2, 1970:"
+  },
+  "file_name": "0563-01",
+  "first_page_order": 625,
+  "last_page_order": 640
+}

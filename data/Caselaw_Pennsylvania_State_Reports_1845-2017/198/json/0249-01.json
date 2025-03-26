@@ -1,0 +1,76 @@
+{
+  "id": 920248,
+  "name": "Earle, Receiver, v. Commonwealth of Pennsylvania",
+  "name_abbreviation": "Earle v. Commonwealth",
+  "decision_date": "1901-01-12",
+  "docket_number": "No. 22",
+  "first_page": "249",
+  "last_page": "249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "198 Pa. 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "189 Pa. 606",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        903490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/189/0606-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 416,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03239571110130359
+    },
+    "sha256": "ff98ae40e027d49fcc3354b36fb34067bdde657bb0aff42c089830fc1d61ee74",
+    "simhash": "1:72e5241e7e076c22",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T17:59:06.676058+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Earle, Receiver, v. Commonwealth of Pennsylvania."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nIn obedience to the mandate of the Supreme Court of the United States, the judgment is reversed, and the case is remanded to the court of common pleas, No. 4, for further proceedings not inconsistent with the opinion of the Supreme Court of the United States. See 189 Pa. 606.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Earle, Receiver, v. Commonwealth of Pennsylvania.\nNo. 22, Jan. T., 1898. Appeal from C. P. No. 4, Phila. Co.\nJanuary 12, 1901:"
+  },
+  "file_name": "0249-01",
+  "first_page_order": 273,
+  "last_page_order": 273
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1162310,
+  "name": "Opperman's Estate Allegheny County's Appeal",
+  "name_abbreviation": "Opperman's Estate",
+  "decision_date": "1935-06-29",
+  "docket_number": "No. 2; Appeal, No. 130",
+  "first_page": "466",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "319 Pa. 466"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "309 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141669
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0023-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066016
+      ],
+      "pin_cites": [
+        {
+          "page": "106-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/270/0101-01"
+      ]
+    },
+    {
+      "cite": "272 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1068359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/272/0255-01"
+      ]
+    },
+    {
+      "cite": "261 Pa. 40",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1042250
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/261/0040-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 270,
+    "char_count": 3617,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 1.3048998815405778e-07,
+      "percentile": 0.6229870930699049
+    },
+    "sha256": "8a0c14b01a7143bad0f5361c0ca1df297625ccea9f6d292f30c4f38cd66f12e0",
+    "simhash": "1:6941f68c5c3f5150",
+    "word_count": 631
+  },
+  "last_updated": "2024-02-27T23:35:12.454457+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Opperman\u2019s Estate",
+      "Allegheny County\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Kephart,\nThis appeal is from the final decree of the Orphans\u2019 Court of Allegheny County, following its adjudication of the executor\u2019s account in the estate of A. C. Opperman, deceased.\nAt the time of his death, testator was the owner of 6,000 shares of the capital stock of the William Schuette Company, a corporation of the State of Delaware, and appellant sought to recover from his estate a four mills tax on the value of those shares during certain years when he owned them but had not paid that tax. It is an admitted fact that the corporation itself was authorized to carry on business in this Commonwealth, and was liable for and, in fact, had paid during each of those years a small capital stock tax to this State, as assessed by the State itself. By reason thereof, the court below held that, because of section 1 of the Act of June 17, 1913, P. L. 507, the estate was exempt from the four mills tax. That section makes taxable for county purposes, at the rate of four mills on each dollar of the value thereof, shares of stock in domestic and foreign corporations, \u201cexcept shares of stock in any . . . corporation . . . that may be liable to a tax on its shares or its capital stock for state purpos\u00e9s under the laws of this Commonwealth, or relieved from the payment of tax on its shares or capital stock for state purposes by the laws of the Commonwealth.\u201d It will be noted that, under the language of this exemption, the business carried on by the particular corporation is not alone the determinative factor on the question of liability or nonliability, nor is the amount of the tax paid by it.\nAdmittedly, the William Schuette Company \u2014 \u201cdoing business and liable to taxation within the Commonwealth\u201d \u2014 was in fact taxed for state purposes, and paid that tax during each of the years for which appellant now seeks to tax its shares in the hands of their individual owners.\nIn Dupuy v. Johns, 261 Pa. 40, the present question arose. There, as here, the tax paid by the foreign corporation was small, as compared with its total assets, and it was held that the county was not entitled to the tax. This decision was approved in Callery\u2019s App., 272 Pa. 255, and has not since been departed from. It is true that in the former case the foreign corporation, upon whose stock the attempted tax was being considered, was engaged in manufacturing, and that fact was referred to as showing nonliability under the laws of this Commonwealth, but it was not said that the statute was limited to that class of corporations, and we had not then nor have we now the right to thus restrict the legislative provision. On the contrary we said (261 Pa. 40, 48), \u201cThe words of the act must be accepted as written, and, when so read, it is clear that the court below did not err in declaring the shares of stock in controversy wholly exempt from taxation.\u201d The legislatures from 1918, when Dupuy v. Johns, supra, was decided, until now, have not chosen to change the law as announced in that and subsequent decisions, and hence the construction of the statute by this court must stand until the legislature declares otherwise: Bickley\u2019s Est., 270 Pa. 101, 106-7; Lerch\u2019s Est., 309 Pa. 23, 28.\nDecree affirmed at appellant\u2019s cost.",
+        "type": "majority",
+        "author": "Mr. Justice Kephart,"
+      }
+    ],
+    "attorneys": [
+      "Thos. E. Whitten, Assistant City Solicitor, with him J. P. Fife, County Solicitor, for appellant.",
+      "Robert L. Kirkpatrick, with him Reed, Smith, Sham & McClay, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Opperman\u2019s Estate\n(No. 2).\nAllegheny County\u2019s Appeal.\nArgued September 28, 1934;\nreargued April 29, 1935.\nBefore Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ.\nJune 29, 1935:\nThos. E. Whitten, Assistant City Solicitor, with him J. P. Fife, County Solicitor, for appellant.\nRobert L. Kirkpatrick, with him Reed, Smith, Sham & McClay, for appellees."
+  },
+  "file_name": "0466-01",
+  "first_page_order": 506,
+  "last_page_order": 508
+}

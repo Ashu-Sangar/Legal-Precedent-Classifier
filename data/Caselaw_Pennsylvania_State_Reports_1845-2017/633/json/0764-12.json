@@ -1,0 +1,70 @@
+{
+  "id": 12283322,
+  "name": "Com. v. Kearns",
+  "name_abbreviation": "Com. v. Kearns",
+  "decision_date": "2015-09-30",
+  "docket_number": "323 MAL (2015)",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1063",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.808,
+    "sha256": "31de5b3d5c953be30cd31878c7cb8c520c1dbf770ee1e2ac5eaad66aad457d3f",
+    "simhash": "1:28012404d2701842",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Kearns"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1063",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Kearns\n09/30/2015\n323 MAL (2015)"
+  },
+  "file_name": "0764-12",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

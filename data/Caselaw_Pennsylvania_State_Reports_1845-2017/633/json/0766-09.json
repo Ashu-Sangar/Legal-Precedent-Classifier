@@ -1,0 +1,70 @@
+{
+  "id": 12283631,
+  "name": "Com. v. Santiago",
+  "name_abbreviation": "Com. v. Santiago",
+  "decision_date": "2015-09-29",
+  "docket_number": "282 MAL (2015)",
+  "first_page": "766",
+  "last_page": "766",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 766"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1056",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.909,
+    "sha256": "1e8ba7f14639ab4fe4b5b09c5b2b9302e7d9a814c63c9f79b669e3ef9a3e49ad",
+    "simhash": "1:2b146498c4306940",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Santiago"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1056",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Santiago\n09/29/2015\n282 MAL (2015)"
+  },
+  "file_name": "0766-09",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

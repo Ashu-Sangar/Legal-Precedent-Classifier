@@ -1,0 +1,67 @@
+{
+  "id": 4326907,
+  "name": "In re COUNTY INVESTIGATING GRAND JURY XXV FOR THE CITY OF PHILADELPHIA. Petition of R.L., Witness",
+  "name_abbreviation": "In re County Investigating Grand Jury",
+  "decision_date": "2013-05-23",
+  "docket_number": "No. 30 EM 2013",
+  "first_page": "217",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "620 Pa. 217"
+    },
+    {
+      "type": "parallel",
+      "cite": "67 A.3d 716"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 461,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.14775947907998055
+    },
+    "sha256": "c5f0e057e6851742f863f04b7f2ae46ef88d2e2d48c874b229527c2c76873a13",
+    "simhash": "1:d9bc5b3adcd01ca9",
+    "word_count": 82
+  },
+  "last_updated": "2023-07-14T16:04:38.120659+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re COUNTY INVESTIGATING GRAND JURY XXV FOR THE CITY OF PHILADELPHIA. Petition of R.L., Witness."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 23rd day of May, 2013, the Motion to File Under Seal is GRANTED, and the Petition for Review, the Petition for Leave to File Reply, and the Motion Seeking Leave to File Supplement to Petition for Leave to File Reply to the Commonwealth\u2019s Answer are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "67 A.3d 716\nIn re COUNTY INVESTIGATING GRAND JURY XXV FOR THE CITY OF PHILADELPHIA. Petition of R.L., Witness.\nNo. 30 EM 2013.\nSupreme Court of Pennsylvania.\nMay 23, 2013."
+  },
+  "file_name": "0217-02",
+  "first_page_order": 273,
+  "last_page_order": 274
+}

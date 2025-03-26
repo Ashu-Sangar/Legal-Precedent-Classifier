@@ -1,0 +1,80 @@
+{
+  "id": 12281670,
+  "name": "Dibish v. Ameriprise Financial, Inc.",
+  "name_abbreviation": "Dibish v. Ameriprise Financial, Inc.",
+  "decision_date": "2016-07-07",
+  "docket_number": "113 WAL (2016)",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 1079",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6815979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/134/1079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 95,
+    "ocr_confidence": 0.835,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905872890658876
+    },
+    "sha256": "c9f6b80e1a3a397f45bf91f6b10e33aa9a7e1c724640eee1e8920ba0deadaa7b",
+    "simhash": "1:b046a60940090c99",
+    "word_count": 14
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dibish v. Ameriprise Financial, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 1079",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Dibish v. Ameriprise Financial, Inc.\n07/07/2016\n113 WAL (2016)"
+  },
+  "file_name": "0650-04",
+  "first_page_order": 702,
+  "last_page_order": 702
+}

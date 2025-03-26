@@ -1,0 +1,67 @@
+{
+  "id": 4080540,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Michael MOORE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Moore",
+  "decision_date": "2013-04-17",
+  "docket_number": "No. 16 EM 2013",
+  "first_page": "338",
+  "last_page": "338",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "621 Pa. 338"
+    },
+    {
+      "type": "parallel",
+      "cite": "77 A.3d 1256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 293,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.12971953452109147
+    },
+    "sha256": "a9387789ebdab357ec98e482ad10dac23bbc238f5d08aab9f03ad403755247e2",
+    "simhash": "1:c02c46a7d0a331f4",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T19:46:49.787908+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Michael MOORE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of April, 2013, the Petition for Leave to File Petition for Allowance of Appeal Nunc Pro Tunc is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "77 A.3d 1256\nCOMMONWEALTH of Pennsylvania, Respondent v. Michael MOORE, Petitioner.\nNo. 16 EM 2013.\nSupreme Court of Pennsylvania.\nApril 17, 2013."
+  },
+  "file_name": "0338-01",
+  "first_page_order": 398,
+  "last_page_order": 398
+}

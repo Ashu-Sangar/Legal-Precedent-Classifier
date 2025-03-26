@@ -1,0 +1,99 @@
+{
+  "id": 12174954,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Anthony CARROLL, Appellee",
+  "name_abbreviation": "Commonwealth v. Carroll",
+  "decision_date": "2015-08-31",
+  "docket_number": "No. 14 EAP 2014",
+  "first_page": "633",
+  "last_page": "633",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 633"
+    },
+    {
+      "type": "parallel",
+      "cite": "122 A.3d 364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "117 A.3d 247",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6863226,
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/117/0247-01",
+        "/pa/632/0036-01"
+      ]
+    },
+    {
+      "cite": "632 Pa. 36",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        12172604
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/632/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 492,
+    "ocr_confidence": 0.617,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2471491581169404
+    },
+    "sha256": "3e4ec01a3d17bb4312d6355ff0ffb5538c737af2e6ea552b8af21dc670ec56b8",
+    "simhash": "1:4059cfa2fad5a66c",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Anthony CARROLL, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of August, 2015, the Order of the Court of Common Pleas is hereby AFFIRMED. See Commonwealth v. Hopkins, 632 Pa. 36, 117 A.3d 247 (2015).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Hugh J. Burns, Jr., Philadelphia, for Commonwealth of Pennsylvania.",
+      "Emma Reynolds, Karl Baker, Peter Rosalsky, Defender Association of Philadelphia, Philadelphia, for Anthony Carroll."
+    ],
+    "corrections": "",
+    "head_matter": "122 A.3d 364\nCOMMONWEALTH of Pennsylvania, Appellant v. Anthony CARROLL, Appellee.\nSupreme Court of Pennsylvania.\nAug. 31, 2015.\nHugh J. Burns, Jr., Philadelphia, for Commonwealth of Pennsylvania.\nEmma Reynolds, Karl Baker, Peter Rosalsky, Defender Association of Philadelphia, Philadelphia, for Anthony Carroll."
+  },
+  "file_name": "0633-01",
+  "first_page_order": 687,
+  "last_page_order": 687
+}

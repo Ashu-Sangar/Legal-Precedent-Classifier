@@ -1,0 +1,2322 @@
+{
+  "id": 12280354,
+  "name": "Evonne K. WERT, Executrix of the Estate of Anna E. Kepner, Deceased v. MANORCARE OF CARLISLE PA, LLC d/b/a Manorcare Health Services-Carlisle; HCR Manorcare, Inc.; Manor Care, Inc.; HCR Healthcare, LLC; HCR II Healthcare, LLC; HCR III Healthcare, LLC; HCR IV Healthcare, LLC: GGNSC Gettysburg, LP, d/b/a Golden Living Center-Gettysburg; GGNSC Gettysburg GP, LLC; GGNSC Holdings, LLC; Golden Gate National Senior Care, LLC; GGNSC Equity Holdings, LLC; GGNSC Administrative Services, LLC. Appeal of GGNSC Gettysburg LP, d/b/a Golden Living Center-Gettysburg; GGNSC Gettysburg GP, LLC; GGNSC Holdings, LLC; Golden Gate National Senior Care, LLC; GGNSC Equity Holdings, LLC and GGNSC Administrative Services, LLC",
+  "name_abbreviation": "Wert v. ManorCare of Carlisle PA, LLC",
+  "decision_date": "2015-10-27",
+  "docket_number": "No. 62 MAP 2014",
+  "first_page": "260",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 260"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 1248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "465 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11334479
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "16",
+          "parenthetical": "stating the FAA is \"intended to foreclose state legislative attempts to undercut the enforceability of arbitration agreements\""
+        },
+        {
+          "page": "861",
+          "parenthetical": "stating the FAA is \"intended to foreclose state legislative attempts to undercut the enforceability of arbitration agreements\""
+        },
+        {
+          "parenthetical": "stating the FAA is \"intended to foreclose state legislative attempts to undercut the enforceability of arbitration agreements\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0001-01"
+      ]
+    },
+    {
+      "cite": "767 A.2d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11127172,
+        1276695
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1050",
+          "parenthetical": "stating \"[a]n interpretation will not be given to one part of the contract which will annul another part of it\" (internal quotation marks and quotation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/767/1047-01",
+        "/pa/564/0267-02"
+      ]
+    },
+    {
+      "cite": "564 Pa. 267",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276716,
+        1276695
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "stating \"[a]n interpretation will not be given to one part of the contract which will annul another part of it\" (internal quotation marks and quotation omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0267-01",
+        "/pa/564/0267-02"
+      ]
+    },
+    {
+      "cite": "962 A.2d 639",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3441643,
+        8187012
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0546-01",
+        "/a2d/962/0639-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3441643
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0546-01"
+      ]
+    },
+    {
+      "cite": "58 Cal.Rptr.2d 89",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.App.4th 632",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4672913
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/50/0632-01"
+      ]
+    },
+    {
+      "cite": "113 A.3d 317",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6876211
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "327"
+        },
+        {
+          "page": "327-28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/113/0317-01"
+      ]
+    },
+    {
+      "cite": "12 Cal.Rptr.3d 663",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "675",
+          "parenthetical": "noting under California's analogous state arbitration law that its equivalent provision \"does not permit the trial court to choose an alternative forum where the chosen forum refuses to hear the case\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Cal.App.4th 107",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1377169
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "noting under California's analogous state arbitration law that its equivalent provision \"does not permit the trial court to choose an alternative forum where the chosen forum refuses to hear the case\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/118/0107-01"
+      ]
+    },
+    {
+      "cite": "576 F.3d 643",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4038002
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/576/0643-01"
+      ]
+    },
+    {
+      "cite": "184 L.Ed.2d 459",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 S.Ct. 650",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "956 N.E.2d 1195",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        7180297
+      ],
+      "pin_cites": [
+        {
+          "page": "1203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/956/1195-01"
+      ]
+    },
+    {
+      "cite": "87 So.3d 1063",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7018741
+      ],
+      "pin_cites": [
+        {
+          "page": "1066"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so3d/87/1063-01"
+      ]
+    },
+    {
+      "cite": "2 N.E.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "466 Mass. 793",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4224064
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/466/0793-01"
+      ]
+    },
+    {
+      "cite": "2012 WL 1414881",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 A.3d 27",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6893196,
+        4276909
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "stating \"an appellate court may affirm for any reason appearing as of record\" (citation omitted) (emphasis in original)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/106/0027-01",
+        "/pa/630/0045-01"
+      ]
+    },
+    {
+      "cite": "630 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4276909
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "stating \"an appellate court may affirm for any reason appearing as of record\" (citation omitted) (emphasis in original)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/630/0045-01"
+      ]
+    },
+    {
+      "cite": "254 Pa.Super. 21",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        96803
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "505-06"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/254/0021-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 3283529",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 A.3d 1211",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7309525,
+        4327415
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "holding amicus briefs raising issues not implicated by the parties warrant no consideration"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/67/1211-01",
+        "/pa/620/0373-01"
+      ]
+    },
+    {
+      "cite": "620 Pa. 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4327415
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "holding amicus briefs raising issues not implicated by the parties warrant no consideration"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/620/0373-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 5",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 U.S.C. \u00a7\u00a7 1-16",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 S.Ct. 513",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        9505413
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "522",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/531/0079-01"
+      ]
+    },
+    {
+      "cite": "581 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "91",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "328 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "458 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479676
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/458/0546-01"
+      ]
+    },
+    {
+      "cite": "517 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1809936
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/517/0115-01"
+      ]
+    },
+    {
+      "cite": "772 A.2d 445",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        124690,
+        11093652
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "452"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0228-01",
+        "/a2d/772/0445-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124690
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0228-01"
+      ]
+    },
+    {
+      "cite": "739 A.2d 133",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        837179,
+        11562455
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0056-01",
+        "/a2d/739/0133-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837179
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0056-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 471",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3788085,
+        8467558
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "475",
+          "parenthetical": "quotation and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0485-01",
+        "/a2d/905/0471-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788085
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "quotation and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0485-01"
+      ]
+    },
+    {
+      "cite": "849 A.2d 1159",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329362,
+        9244026
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0082-01",
+        "/a2d/849/1159-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 82",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329362
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0082-01"
+      ]
+    },
+    {
+      "cite": "39 A.3d 253",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4207147,
+        7314068
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/614/0549-01",
+        "/a3d/39/0253-01"
+      ]
+    },
+    {
+      "cite": "614 Pa. 549",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4207147
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/614/0549-01"
+      ]
+    },
+    {
+      "cite": "713 A.2d 1135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559408,
+        11827452
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1138"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0184-01",
+        "/a2d/713/1135-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 184",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559408
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0184-01"
+      ]
+    },
+    {
+      "cite": "34 A.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4205963,
+        7265404
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/613/0371-01",
+        "/a3d/34/0001-01"
+      ]
+    },
+    {
+      "cite": "613 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4205963
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/613/0371-01"
+      ]
+    },
+    {
+      "cite": "513 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802525
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0192-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 462",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3788025,
+        8467492
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0470-01",
+        "/a2d/905/0462-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 470",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788025
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0470-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292680,
+        4196114
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/985/0769-01",
+        "/pa/603/0602-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 602",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196114
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0602-01"
+      ]
+    },
+    {
+      "cite": "925 A.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8306396
+      ],
+      "pin_cites": [
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/925/0868-01"
+      ]
+    },
+    {
+      "cite": "31 F.3d 587",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10525664
+      ],
+      "pin_cites": [
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/31/0587-01"
+      ]
+    },
+    {
+      "cite": "467 F.2d 464",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        251805
+      ],
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/467/0464-01"
+      ]
+    },
+    {
+      "cite": "498 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776318
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "barring ambiguity, \"intent is to be discovered only from the express language of the agreement\""
+        },
+        {
+          "page": "661",
+          "parenthetical": "barring ambiguity, \"intent is to be discovered only from the express language of the agreement\""
+        },
+        {
+          "page": "663"
+        },
+        {
+          "page": "661"
+        },
+        {
+          "page": "662",
+          "parenthetical": "noting \"[t]he court may not rewrite the contract for the purpose of ... mak[ing] for [the parties] a better contract than they chose, or saw fit, to make for themselves, ... because it later appears that a different agreement should have been consummated in the first instance ... .\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/498/0045-01"
+      ]
+    },
+    {
+      "cite": "68 F.3d 554",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7414190
+      ],
+      "pin_cites": [
+        {
+          "page": "561"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/68/0554-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 395",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168709
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "noting FAA arbitration agreements are \"as enforceable as other contracts, but not more so\""
+        },
+        {
+          "parenthetical": "noting FAA arbitration agreements are \"as enforceable as other contracts, but not more so\""
+        },
+        {
+          "parenthetical": "noting FAA arbitration agreements are \"as enforceable as other contracts, but not more so\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0395-01"
+      ]
+    },
+    {
+      "cite": "323 Ga.App. 114",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        4292806
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "finding in an analogous case that \"if the NAF is unavailable, the parties are free to seek legal remedies-ie., to file a traditional lawsuit\""
+        },
+        {
+          "page": "687",
+          "parenthetical": "finding in an analogous case that \"if the NAF is unavailable, the parties are free to seek legal remedies-ie., to file a traditional lawsuit\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/323/0114-01"
+      ]
+    },
+    {
+      "cite": "169 A.2d 298",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "300",
+          "parenthetical": "failure to object to the introduction of parol evidence results in waiver"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "403 Pa. 212",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1299477
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "parenthetical": "failure to object to the introduction of parol evidence results in waiver"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/403/0212-01"
+      ]
+    },
+    {
+      "cite": "301 Pa.Super. 396",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        193330
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"where a document is silent on a particular subject, it may be proved by parol evidence of what took place at the time of execution\""
+        },
+        {
+          "page": "1029",
+          "parenthetical": "noting that \"where a document is silent on a particular subject, it may be proved by parol evidence of what took place at the time of execution\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/301/0396-01"
+      ]
+    },
+    {
+      "cite": "327 Pa.Super. 377",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        604333
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that \"[wjhere the language of the written contract is ambiguous, extrinsic or parol evidence may be considered to determine the intent of the parties\""
+        },
+        {
+          "page": "5",
+          "parenthetical": "stating that \"[wjhere the language of the written contract is ambiguous, extrinsic or parol evidence may be considered to determine the intent of the parties\""
+        },
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/327/0377-01"
+      ]
+    },
+    {
+      "cite": "854 A.2d 425",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329385,
+        9214675
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "437",
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "436",
+          "parenthetical": "\"An integration clause which states that a writing is meant to represent the parties' entire agreement is also a clear sign that the writing is meant to be just that ....\" (citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0479-01",
+        "/a2d/854/0425-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 479",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329385
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0479-01"
+      ]
+    },
+    {
+      "cite": "503 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785950
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that barring fraud, failure to read a contract \"is an unavailing excuse or defense and cannot justify an avoidance, modification or nullification of the contract\""
+        },
+        {
+          "page": "566",
+          "parenthetical": "stating that barring fraud, failure to read a contract \"is an unavailing excuse or defense and cannot justify an avoidance, modification or nullification of the contract\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0300-01"
+      ]
+    },
+    {
+      "cite": "565 U.S. 530",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12186762
+      ],
+      "weight": 11,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "534"
+        },
+        {
+          "page": "1204"
+        },
+        {
+          "page": "533"
+        },
+        {
+          "page": "1203-04"
+        },
+        {
+          "parenthetical": "emphasis in brief"
+        },
+        {
+          "page": "534"
+        },
+        {
+          "page": "1204"
+        },
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0530-01"
+      ]
+    },
+    {
+      "cite": "925 A.2d 115",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8303148,
+        3555332
+      ],
+      "weight": 4,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "118-19",
+          "parenthetical": "acknowledging the FAA's \"relevance\" in arbitration agreements"
+        },
+        {
+          "page": "118-19",
+          "parenthetical": "noting Congress sought to place arbitration agreements \"upon the same footing as other contracts\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/925/0115-01",
+        "/pa/592/0323-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3555332
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "acknowledging the FAA's \"relevance\" in arbitration agreements"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0323-01"
+      ]
+    },
+    {
+      "cite": "563 U.S. 333",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5939512,
+        12458766
+      ],
+      "weight": 5,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "noting the FAA's \"liberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary\" (citation omitted)"
+        },
+        {
+          "page": "1745",
+          "parenthetical": "noting the FAA's \"liberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary\" (citation omitted)"
+        },
+        {
+          "parenthetical": "noting the FAA's \"liberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary\" (citation omitted)"
+        },
+        {
+          "page": "343"
+        },
+        {
+          "page": "1747-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/563/0333-01",
+        "/l-ed-2d/179/0742-01"
+      ]
+    },
+    {
+      "cite": "669 F.3d 360",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "354"
+        },
+        {
+          "page": "356-57"
+        },
+        {
+          "page": "357",
+          "parenthetical": "Sloviter, J., dissenting"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 A.3d 337",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7338234,
+        4201111
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "342",
+          "parenthetical": "stating courts \"will not interpret one provision of a contract in a manner which results in another portion being annulled\" (quotation and quotation marks omitted)"
+        },
+        {
+          "page": "342"
+        },
+        {
+          "page": "342"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/15/0337-01",
+        "/pa/609/0115-01"
+      ]
+    },
+    {
+      "cite": "609 Pa. 116",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "stating courts \"will not interpret one provision of a contract in a manner which results in another portion being annulled\" (quotation and quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "684 F.Supp.2d 1161",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3604827
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1167"
+        },
+        {
+          "page": "1168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/684/1161-01"
+      ]
+    },
+    {
+      "cite": "808 N.W.2d 114",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7069353
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/808/0114-01"
+      ]
+    },
+    {
+      "cite": "724 F.3d 787",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4067562
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "789"
+        },
+        {
+          "page": "788"
+        },
+        {
+          "page": "789-90"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "795-96",
+          "parenthetical": "Hamilton, J., dissenting"
+        },
+        {
+          "page": "797",
+          "parenthetical": "Hamilton, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/724/0787-01"
+      ]
+    },
+    {
+      "cite": "862 F.Supp.2d 966",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3995372
+      ],
+      "weight": 4,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "975-76",
+          "parenthetical": "permitting the appointment of a substitute arbitrator under the FAA pursuant to a similar agreement"
+        },
+        {
+          "page": "975",
+          "parenthetical": "noting the lack of evidence that \"the 'exclusive' designation of the NAF was an important consideration to ... [the plaintiff]\" and that the record did not indicate \"[the plaintiff] was even aware of the NAF (or its Code) when he signed the Arbitration Agreement\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/862/0966-01"
+      ]
+    },
+    {
+      "cite": "93 A.3d 514",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "unpublished memorandum"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "626 Pa. 114",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4254433
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam order"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/626/0114-01"
+      ]
+    },
+    {
+      "cite": "9 A.3d 215",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7283271
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "217",
+          "parenthetical": "declining to enforce a nursing home's identical agreement because \"the NAF[] can no longer accept arbitration cases pursuant to a consent decree it entered with the Attorney General of Minnesota\" and the term was non-severable"
+        },
+        {
+          "page": "220"
+        },
+        {
+          "page": "221"
+        },
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/9/0215-01"
+      ]
+    },
+    {
+      "cite": "99 Minn. L. Rev. 2006",
+      "category": "journals:journal",
+      "reporter": "Minn. L. Rev.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "2009"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "724 F.3d 787",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4067562
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "795-96",
+          "parenthetical": "Hamilton, J., dissenting"
+        },
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/724/0787-01"
+      ]
+    },
+    {
+      "cite": "96 A.3d 346",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6926761,
+        4253805
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "354-55",
+          "parenthetical": "\"A statute is ambiguous when there are at least two reasonable interpretations of the text under review.\" (citation omitted)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/96/0346-01",
+        "/pa/626/0218-01"
+      ]
+    },
+    {
+      "cite": "626 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4253805
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "\"A statute is ambiguous when there are at least two reasonable interpretations of the text under review.\" (citation omitted)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/626/0218-01"
+      ]
+    },
+    {
+      "cite": "65 A.3d 361",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7308659,
+        4232589
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "383",
+          "parenthetical": "Eakin, J., concurring"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/65/0361-01",
+        "/pa/619/0586-01"
+      ]
+    },
+    {
+      "cite": "619 Pa. 586",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4232589
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "Eakin, J., concurring"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/619/0586-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 5",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "498 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776318
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/498/0045-01"
+      ]
+    },
+    {
+      "cite": "808 N.W.2d 114",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7069353
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/nw2d/808/0114-01"
+      ]
+    },
+    {
+      "cite": "724 F.3d 787",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4067562
+      ],
+      "pin_cites": [
+        {
+          "page": "791-92"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f3d/724/0787-01"
+      ]
+    },
+    {
+      "cite": "9 A.3d 215",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7283271
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a3d/9/0215-01"
+      ]
+    },
+    {
+      "cite": "211 F.3d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1743561
+      ],
+      "pin_cites": [
+        {
+          "page": "1222"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f3d/211/1217-01"
+      ]
+    },
+    {
+      "cite": "669 F.3d 350",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3724567
+      ],
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f3d/669/0350-01"
+      ]
+    },
+    {
+      "cite": "184 L.Ed.2d 459",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2012,
+      "opinion_index": 3
+    },
+    {
+      "cite": "133 S.Ct. 650",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2012,
+      "opinion_index": 3
+    },
+    {
+      "cite": "956 N.E.2d 1195",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        7180297
+      ],
+      "pin_cites": [
+        {
+          "page": "1203"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/ne2d/956/1195-01"
+      ]
+    },
+    {
+      "cite": "87 So.3d 1063",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7018741
+      ],
+      "pin_cites": [
+        {
+          "page": "1066"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/so3d/87/1063-01"
+      ]
+    },
+    {
+      "cite": "2012 WL 1414881",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*8"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 5",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "9 U.S.C. \u00a7\u00a7 1-16",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "388 U.S. 395",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168709
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/388/0395-01"
+      ]
+    },
+    {
+      "cite": "925 A.2d 115",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8303148,
+        3555332
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "118",
+          "parenthetical": "acknowledging the liberal federal policy favoring arbitration agreements"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/925/0115-01",
+        "/pa/592/0323-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3555332
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "acknowledging the liberal federal policy favoring arbitration agreements"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/592/0323-01"
+      ]
+    },
+    {
+      "cite": "684 F.Supp.2d 1161",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3604827
+      ],
+      "pin_cites": [
+        {
+          "page": "1167"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f-supp-2d/684/1161-01"
+      ]
+    },
+    {
+      "cite": "808 N.W.2d 114",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7069353
+      ],
+      "pin_cites": [
+        {
+          "page": "119-20"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/nw2d/808/0114-01"
+      ]
+    },
+    {
+      "cite": "724 F.3d 787",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4067562
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "789"
+        },
+        {
+          "page": "789"
+        },
+        {
+          "page": "789"
+        },
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f3d/724/0787-01"
+      ]
+    },
+    {
+      "cite": "93 A.3d 514",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "Fitzgerald, J., concurring"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "9 A.3d 215",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7283271
+      ],
+      "weight": 2,
+      "opinion_index": 3,
+      "case_paths": [
+        "/a3d/9/0215-01"
+      ]
+    },
+    {
+      "cite": "393 Fed.Appx. 174",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "691 F.3d 1224",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3509400
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f3d/691/1224-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C.A. \u00a7 5",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "489 U.S. 468",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032439
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/489/0468-01"
+      ]
+    },
+    {
+      "cite": "417 U.S., 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519355
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "511",
+          "parenthetical": "quoting H.R.Rep. No. 96, 68th Cong., 1st Sess., 1, 2 (1924)"
+        },
+        {
+          "parenthetical": "quoting H.R.Rep. No. 96, 68th Cong., 1st Sess., 1, 2 (1924)"
+        },
+        {
+          "parenthetical": "quoting H.R.Rep. No. 96, 68th Cong., 1st Sess., 1, 2 (1924)"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/417/0506-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 213",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299026
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "219-220"
+        },
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/470/0213-01"
+      ]
+    },
+    {
+      "cite": "912 A.2d 874",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8444581
+      ],
+      "pin_cites": [
+        {
+          "page": "878-80"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/912/0874-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188858
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "24-25"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/460/0001-01"
+      ]
+    },
+    {
+      "cite": "818 F.2d 418",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716649
+      ],
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f2d/818/0418-01"
+      ]
+    },
+    {
+      "cite": "939 A.2d 325",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3843536,
+        8301861
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/595/0596-01",
+        "/a2d/939/0325-01"
+      ]
+    },
+    {
+      "cite": "595 Pa. 596",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3843536
+      ],
+      "year": 2007,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/595/0596-01"
+      ]
+    },
+    {
+      "cite": "139 A.2d 563",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "565",
+          "parenthetical": "recognizing that \"[t]he public policy of this State is to give effect to arbitration agreements,\" and providing that \"[w]here the parties by contract contemplate the settlement of disputes by arbitration, every reasonable intendment will be made in favor of the agreement.\""
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "392 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8844810
+      ],
+      "year": 1958,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/392/0032-01"
+      ]
+    },
+    {
+      "cite": "248 A.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "235",
+          "parenthetical": "\"[0]ur statutes encourage arbitration and with our dockets crowded and in some jurisdictions conjested [sic] arbitration is favored by the courts.\""
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "432 Pa. 383",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1919727
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[0]ur statutes encourage arbitration and with our dockets crowded and in some jurisdictions conjested [sic] arbitration is favored by the courts.\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/432/0383-01"
+      ]
+    },
+    {
+      "cite": "314 A.2d 236",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "241",
+          "parenthetical": "\"It is beyond cavil that settlement of disputes by arbitration or appraisal is the approved public policy of this Commonwealth.\""
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "456 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        584413
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "\"It is beyond cavil that settlement of disputes by arbitration or appraisal is the approved public policy of this Commonwealth.\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/456/0210-01"
+      ]
+    },
+    {
+      "cite": "459 Pa. 660",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        481028
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/459/0660-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 504",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827765
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/527/0504-01"
+      ]
+    },
+    {
+      "cite": "750 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11529928,
+        93706,
+        11529860,
+        93317
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "850-51"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/750/0843-02",
+        "/pa/561/0433-01",
+        "/a2d/750/0843-01",
+        "/pa/561/0434-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93317
+      ],
+      "year": 2000,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/561/0434-01"
+      ]
+    },
+    {
+      "cite": "608 Pa. 187",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4199153
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"As our Court has observed on repeated occasions, the settlement of disputes by arbitration is favored by the public policy of this Commonwealth and is, therefore, encouraged by our courts and by statute.\""
+        },
+        {
+          "page": "1245",
+          "parenthetical": "\"As our Court has observed on repeated occasions, the settlement of disputes by arbitration is favored by the public policy of this Commonwealth and is, therefore, encouraged by our courts and by statute.\""
+        },
+        {
+          "page": "1245"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/608/0187-01"
+      ]
+    },
+    {
+      "cite": "211 F.3d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1743561
+      ],
+      "pin_cites": [
+        {
+          "page": "1222"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f3d/211/1217-01"
+      ]
+    },
+    {
+      "cite": "669 F.3d 350",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3724567
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f3d/669/0350-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2287,
+    "char_count": 69963,
+    "ocr_confidence": 0.657,
+    "pagerank": {
+      "raw": 7.11748150883225e-08,
+      "percentile": 0.4273544519390899
+    },
+    "sha256": "52ab8ee5c11f0ae29015b4ba71202a670f9a8186f30a5b27770523038c166dcf",
+    "simhash": "1:3e30d21e3b07d6d0",
+    "word_count": 10972
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "SAYLOR, C.J., EAKIN, BAER, TODD, STEVENS, JJ."
+    ],
+    "parties": [
+      "Evonne K. WERT, Executrix of the Estate of Anna E. Kepner, Deceased v. MANORCARE OF CARLISLE PA, LLC d/b/a Manorcare Health Services-Carlisle; HCR Manorcare, Inc.; Manor Care, Inc.; HCR Healthcare, LLC; HCR II Healthcare, LLC; HCR III Healthcare, LLC; HCR IV Healthcare, LLC: GGNSC Gettysburg, LP, d/b/a Golden Living Center-Gettysburg; GGNSC Gettysburg GP, LLC; GGNSC Holdings, LLC; Golden Gate National Senior Care, LLC; GGNSC Equity Holdings, LLC; GGNSC Administrative Services, LLC. Appeal of GGNSC Gettysburg LP, d/b/a Golden Living Center-Gettysburg; GGNSC Gettysburg GP, LLC; GGNSC Holdings, LLC; Golden Gate National Senior Care, LLC; GGNSC Equity Holdings, LLC and GGNSC Administrative Services, LLC."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION ANNOUNCING THE JUDGMENT OF THE COURT\nJustice STEVENS.\nGolden Living Center-Gettysburg et al. (\u201cAppellants\u201d) appeal the Superior Court\u2019s decision affirming, in relevant part, the trial court\u2019s order overruling Appellants\u2019 preliminary objections seeking to compel arbitration and reserving for trial the underlying negligence action filed by Evonne K. Wert (\u201cAppellee\u201d), daughter of Anna E. Kepner (\u201cDecedent\u201d) and executrix of Decedent\u2019s estate. For the following reasons, we affirm the order of the Superior Court and remand to the trial court for further proceedings consistent with this decision.\nThe following issues of first impression have been presented before this Court:\n(a) Whether the Superior Court\u2019s decision in Stewart v. GGNSC-Canonsburg, L.P., 9 A.3d 215 (Pa.Super.2010), holding that the NAF Designation voided an identical Arbitration Agreement, was incorrectly decided and should be reversed, where there is no evidence indicating that the NAF designation was integral to the Agreement?\n(b) Whether the Court may ignore undisputed testimonial evidence that the party seeking to void the Agreement did not consider the NAF Designation to be an \u201cintegral part\u201d of the Arbitration Agreement (because she did not bother to read the agreement)?\nWert v. ManorCare of Carlisle PA, LLC, 626 Pa. 114, 95 A.8d 268, 268-69 (2014) (per curiam order) (footnote omitted).\nI. Background\nDecedent resided in Appellants\u2019 long-term skilled nursing care facility between March and August, 2010. Due to the alleged abuse and neglect inflicted upon her throughout her stay, Decedent suffered a multitude of injuries and illnesses that eventually resulted in her death. Appellee filed suit claiming Appellants knowingly sacrificed the quality of care given to their residents. Relevant to this appeal, Appellants filed preliminary objections seeking to enforce an arbitration agreement (\u201cAgreement\u201d) which Appellee signed, along with general admission paperwork upon Decedent\u2019s admission to the facility. Relying on Stewart v. GGNSC-Canonsburg, L.P., 9 A.3d 215 (Pa.Super.2010), on September 13, 2012, the trial court overruled the preliminary objections and found the Agreement unenforceable because the Agreement relied, as part of an essential term, upon the National Arbitration Forum (\u201cNAF\u201d) Code procedures that were void at that time with respect to consumer arbitration disputes. See id. at 217 (declining to enforce a nursing home\u2019s identical agreement because \u201cthe NAF[] can no longer accept arbitration cases pursuant to a consent decree it entered with the Attorney General of Minnesota\u201d and the term was non-severable). Appellants appealed, claiming Stewart was either wrongly decided or, in the alternative, was distinguishable because the NAF provision was not integral to the Agreement at issue herein.\nThe Superior Court affirmed in an unpublished memorandum opinion on December 19, 2013. See Wert v. ManorCare of Carlisle, 93 A.3d 514 (Pa.Super. filed Dec. 19, 2013) (unpublished memorandum). Finding itself bound by Stewart, the Superior Court declined to distinguish the NAF provision as non-integral based upon Appellee\u2019s deposition testimony that the NAF provision had nothing to do with her decision to sign the Agreement. Instead, the Superior Court found Appellee\u2019s statements showed that she did not consider the importance of the NAF provision. See Wert, supra (unpublished memorandum at 6-7) (\u201c[Appelleej\u2019s testimony does not demonstrate she considered and then rejected the import of the NAF provisions. Rather, read in context, [AppelleeJ\u2019s testimony was that she believed it was necessary to sign all the documents presented to her in order to obtain treatment and care for her mother\u201d).\nJudge Fitzgerald filed a concurring statement, wherein he noted that while he agreed the Superior Court was bound by Stewart, he was \u201ctroubled\u201d by the implication that adopting NAF procedure indicated \u201conly [the] NAF could administer the arbitration, where the document itself does not identify who shall administer the arbitration.\u201d Wert, supra (Fitzgerald, J., concurring at 2).\nAppellants filed a timely petition for allowance of appeal, and on June 24, 2014, we granted allocatur to address the issues as stated supra. The Pennsylvania Association for Justice (\u201cPAJ\u201d), American Association for Justice (\u201cAAJ\u201d), and American Association for Retired Persons (\u201cAARP\u201d) filed amicus briefs on behalf of Appellee.\nII. Discussion\nA. Arguments of the Parties\n1. Appellants\nAppellants argue that the NAF provision is an ancillary and severable code of procedure based upon the plain text of the Agreement, terms and policy guidelines of the Federal Arbitration Act (\u201cFAA\u201d), and admissions of Appellee. Appellants emphasize that the Agreement\u2019s scope broadly favors arbitration, wherein the NAF cannot have been integral because it is \u201cmentioned only once.\u201d Appellants\u2019 Brief at 26. Appellants claim that \u201c[w]hat the Agreement\u2019s language does reflect is that its primary and overriding purpose is that disputes be arbitrated, period.\u201d Id. at 27 (citing Meskill v. GGNSC Stillwater Greeley LLC, 862 F.Supp.2d 966, 975-76 (D.Minn. 2012) (permitting the appointment of a substitute arbitrator under the FAA pursuant to a similar agreement)).\nAppellants contend while the Agreement selects a set of procedural rules, it lacks \u201can express statement designating a specific arbitrator.\u201d Id. at 34. Appellants note that although the Superior Court in Stewart found, as fundamental terms, \u201c(1) that the law governing the arbitration proceedings would be the NAF code, and (2) ... under the NAF Code, the arbitrators would be members of the NAF,\u201d subsequent decisions in other jurisdictions indicate this is incorrect. Id. (quoting Stewart, 9 A.3d at 220). Appellants therefore argue that merely agreeing to a forum\u2019s code of procedure does not make the participation of the forum itself essential. Id. (citing Green v. U.S. Cash Advance Illinois, LLC, 724 F.3d 787, 789 (7th Cir.2013) (finding \u201cthe [arbitration] agreement calls for use of the [NAF\u2019s] Code of Procedure, not for the [NAF] itself to conduct the proceedings\u201d)).\nAppellants assert the Stewart court altered the Code\u2019s specification in Rule 1(A) that it \u201cshall be administered solely by the NAF\u201d into a provision that \u201conly [the] NAF was \u2018authorized to administer] and apply the NAF Code.\u2019 \u201d Id. at 35 (emphasis in original). Appellants assert that the NAF Code \u201cprovides at the very beginning that the parties are always free to agree to other procedures beyond those contained [here]\u201d and simply directs the parties to \u201cselect an arbitrator or panel of arbitrators \u2018on mutually agreeable terms.\u2019 \u201d Appellants\u2019 Reply Brief at 13 (citing NAF Code Rule 21(A)(1)). Appellants argue that these rules can be administered by any competent arbitrator and that their exclusivity provision is \u201cunenforceable in light of the [NAF\u2019s] decision to cease conducting arbitrations.\u201d Id. at 16 (quotation and internal quotation marks omitted).\nAppellants claim Appellee distorts and misapplies other NAF Code Rules. For example, Appellants maintain that contrary to Appellee\u2019s claim that Rule 48(E) governs unavailability, it \u201cmerely allows [the] NAF to turn down arbitrations not properly before that body .... [and] goes on to say that if the parties are \u2018denied the opportunity to arbitrate a dispute, controversy or Claim before the [NAF], the Parties may seek legal and other remedies in accord with applicable law.\u2019 \u201d Id. at 17. Appellants also dispute the ensuing implication that arbitration is no longer an option, noting that in Green, the Seventh Circuit Court of Appeals found that Section five of the FAA fits within the Code\u2019s definition of \u201capplicable law.\u201d Id. at 18 (citation omitted).\nAppellants accordingly favor the South Dakota Supreme Court\u2019s interpretation of the NAF Code in an analogous case, where it explicitly rejected Stewart and found the agreement neither selected a particular adjudicator, specified qualifications or experience, nor chose the NAF as its place of forum. Wright v. GGNSC Holdings LLC, 808 N.W.2d 114, 119-20 & n. 6 (S.D.2011). Appellants emphasize that \u201cthe NAF[ ] ... does not employ its own arbitrators and merely provides a code of procedure to be followed by neutral arbitrators who may also provide arbitration for numerous other forums.\u201d Appellants\u2019 Brief at 36.\nAppellants also underscore the Agreement\u2019s severability clause, which \u201cindicates that the intention was not to make the [NAF] integral, [but] rather only to have a dispute resolution process through arbitration.\u201d Appellants\u2019 Reply Brief at 3 (quoting Jones v. GGNSC Pierre LLC, 684 F.Supp.2d 1161, 1167 (D.S.D.2010)). Appellants claim that by denying the \u201cstrong evidence that the overriding intent of the parties ... was to have covered disputes arbitrated, ... and that the identity of the arbitral forum, administrator and rules of application are secondary eoncerns[,]\u201d Appellee reduces the severability clause into mere surplusage. Id. at 3 (citations omitted). See Lesko v. Frankford Hospital-Bucks County, 609 Pa. 116, 15 A.3d 337, 342 (2011) (stating courts \u201cwill not interpret one provision of a contract in a manner which results in another portion being annulled\u201d (quotation and quotation marks omitted)).\nAppellants also claim that Section five of the FAA, which is incorporated into the Agreement, should have been invoked to appoint a replacement arbitrator. Appellants assert that a court should only decline to appoint a substitute arbitrator and cancel the entire agreement if the choice of forum is \u201c \u2018so central to the arbitration agreement that the unavailability of that arbitrator [brings] the agreement to an end[,] ... [in which case] the parties must have unambiguously expressed their intent not to arbitrate [their disputes] in the event that the designated [arbitral] forum is unavailable.\u2019 \u201d Appellants\u2019 Brief at 39 (emphasis omitted) (quoting Khan v. Dell, Inc., 669 F.3d 360, 354 (3d Cir.2012) (quotation marks and citations omitted)). Appellants note that Section five has even \u201cbeen used to supply particulars to an arbitration agreement where none are present.\u201d Appellants\u2019 Reply Brief at 11 (citation omitted).\nAppellants further maintain the FAA \u201cembodies an emphatic federal policy in favor of arbitral dispute resolution\u201d that courts have consistently supported. Appellants\u2019 Brief at 40 (citing AT & T Mobility LLC v. Concepcion, 563 U.S. 333, 131 S.Ct. 1740, 1745, 179 L.Ed.2d 742 (2011) (noting the FAA\u2019s \u201cliberal federal policy favoring arbitration agreements, notwithstanding any state substantive or procedural policies to the contrary\u201d (citation omitted)). See Southland Corp. v. Keating, 465 U.S. 1, 16, 104 S.Ct. 852, 861, 79 L.Ed.2d 1 (1984) (stating the FAA is \u201cintended to foreclose state legislative attempts to undercut the enforceability of arbitration agreements\u201d) (footnote omitted)). Appellants argue that Pennsylvania policy favors the underpinnings of the FAA as well. Appellants\u2019 Brief at 41 (citing Salley v. Option One Mortgage Corp., 592 Pa. 323, 925 A.2d 115, 118-19 (2007) (acknowledging the FAA\u2019s \u201crelevance\u201d in arbitration agreements)). Appellants therefore claim that Stewart \u201cruns afoul\u201d of the Supremacy Clause by failing to \u201caddress the unique significance of the FAA.\u201d Id. In addition, Appellants stress that in Marmet Health Care Center, Inc. v. Brown, 565 U.S. 530, 132 S.Ct. 1201, 182 L.Ed.2d 42 (2012), the U.S. Supreme Court rebuked the West Virginia Supreme Court for finding that the FAA did not override state public policy against binding arbitration agreements pursuant to personal injury and wrongful death suits and ordered that court, on remand, to \u201cconsider whether, absent that general public policy, the arbitration clauses ... are unenforceable under state common law principles that are not specific to arbitration and pre-empted by the FAA.\u201d Marmet, 565 U.S. at 534, 132 S.Ct. at 1204. Accordingly, Appellants claim that under the guise of \u201cpublic policy concerns,\u201d Appellee \u201cseeks to carve out a general \u2018nursing home\u2019 exception to the enforceability of arbitration agreements .... \u201d Appellants\u2019 Brief at 43.\nFinally, Appellants maintain that Appellee\u2019s admissions \u201cunequivocally demonstrate[ ]\u201d that the NAF provision was non-integral to the Agreement. Id. at 22. Appellants highlight that Appellee testified that she did not read the Agreement, much less understand and form an opinion on its NAF provision. In addition, Appellants remark that in Jones, the court found a similar provision enforceable because the plaintiff signed the agreement on her mother\u2019s behalf without reviewing or negotiating its terms. Id. at 24 (citing Jones, 684 F.Supp.2d at 1168; Meskill, 862 F.Supp.2d at 975 (noting the lack of evidence that \u201cthe \u2018exclusive\u2019 designation of the NAF was an important consideration to ... [the plaintiff]\u201d and that the record did not indicate \u201c[the plaintiff] was even aware of the NAF (or its Code) when he signed the Arbitration Agreement\u201d)). Appellants fault the Superior Court for \u201cexcusing Appellee\u2019s] failure to read the Agreement due to the fact that she (mistakenly) believed that she was required to sign .... \u201d Id. Appellants claim this \u201ctwists\u201d the burden of persuasion and would allow \u201cany person who signs an otherwise valid arbitration agreement [to] later claim that a disputed provision is integral by simply testifying that he/she did not read it .... \u201d Id. at 25-26 (citing Standard Venetian Blind Co. v. American Empire Ins. Co., 503 Pa. 300, 469 A.2d 563, 566 (1983) (stating that barring fraud, failure to read a contract \u201cis an unavailing excuse or defense and cannot justify an avoidance, modification or nullification of the contract\u201d) (internal quotations omitted)). Appellants add that this violates the U.S. Supreme Court\u2019s mandate that courts interpret arbitration agreements \u201con an equal footing with other contraets[.]\u201d Id. at 18 (quotation omitted).\nAnticipating Appellee\u2019s counterargument that her testimony is inadmissible because the Agreement is unambiguous, Appellants assert that parol evidence is only forbidden \u201cto explain or vary the terms of the contract.\u201d Id. at 28 (quoting Yocca v. Pittsburgh Steelers Sports, Inc., 578 Pa. 479, 854 A.2d 425, 437 (2004) (quotation marks omitted)). Rather, Appellants offer the testimony \u201cfor the purpose of demonstrating that even if a NAF arbitrator were required then the Agreement may still be enforced because that term was not \u2018integral\u2019 to either party.\u201d Id. at 29-30 (emphasis in original) (citation omitted).\nAppellants maintain there are other \u201ccompelling reasons\u201d for admission of the testimony because the Agreement does not specify which terms are integral and is ambiguous regarding whether the parties intended to adjudicate disputes exclusively before an NAF arbitrator. Id. at 31-32 (citing Metzger v. Clifford Realty Corp., 327 Pa.Super. 377, 476 A.2d 1, 5 (1984) (stating that \u201c[wjhere the language of the written contract is ambiguous, extrinsic or parol evidence may be considered to determine the intent of the parties\u201d); Bickley v. Bickley, 301 Pa.Super. 396, 447 A.2d 1025, 1029 (1982) (noting that \u201cwhere a document is silent on a particular subject, it may be proved by parol evidence of what took place at the time of execution\u201d). Appellants also argue that Appellee waived any claim that her testimony is inadmissible by not objecting to its introduction and add that she has opened the door to its use since \u201cher failure to read the Agreement is the primary basis upon which the Superior Court has found the terms ... to be integral.\u201d Id. at 33 (citation omitted). See Pellegrene v. Luther, 403 Pa. 212, 169 A.2d 298, 300 (1961) (failure to object to the introduction of parol evidence results in waiver)).\n2. Appellee\nAppellee counters that the Superior Court\u2019s decisions in Stewart and herein were correctly decided because the NAF provisions \u201care clearly essential\u201d to the Agreement since, by its own terms, only the NAF can administer its rules and procedures. Appellee\u2019s Brief at 18. Appellee also claims the FAA cannot rescue the Agreement because its \u201clapse\u201d provision triggers only when the arbitrator is unavailable, not the forum. Appellee further asserts that even if it were admissible, her deposition testimony has no probative value in relation to a contractual ambiguity.\nAfter reiterating the Superior Court\u2019s reasoning in Stewart, Appellee remarks that its holding \u201c \u2018is supported by a majority of decisions that have analyzed language similar to that in the Agreement.\u2019 \u201d Id. at 24 (quotation, quotation marks, and footnote omitted)., Appellee highlights that in Stewart the Superior Court rejected decisions of jurisdictions that reached divergent conclusions including the South Dakota federal district court in Jones, which the Stewart court characterized as \u201c \u2018placing] undue focus on extrinsic and/or collateral evidence of the parties\u2019 intent.\u2019 \u201d Id. (quoting Stewart, 9 A.3d at 221). Appellee notes that the Stewart court also criticized the Jones court for \u201c \u2018violating] cardinal contract principles by failing to view the plain language of the Agreement as the principle evidence of the parties\u2019 intent....\u2019 \u201d Id. (quoting Stewart, 9 A.3d at 220). Appellee emphasizes that Appellants cite to similar \u201ccherry-picked cases from outside jurisdictions\u201d that are incompatible with the Pennsylvania parol evidence rule. Id. at 25. Based on the Stewart court\u2019s findings, Appellee argues that the severability clause is irrelevant since \u201cthe NAF Code specifically allows the parties to pursue their \u2018legal remedies\u2019 in court.\u201d Id. at 27 (citing Miller v. GGNSC Atlanta, LLC, 323 Ga.App. 114, 746 S.E.2d 680, 687 (2013) (finding in an analogous case that \u201cif the NAF is unavailable, the parties are free to seek legal remedies\u2014ie., to file a traditional lawsuit\u201d)).\nAppellee adds that beyond \u201cespousing the FAA\u2019s policy in favor of arbitration,\u201d Appellants fail to show why the FAA warrants reversal. Id. at 43. Appellee asserts that despite Appellants\u2019 claims to the contrary, they seek to give arbitration agreements greater deference than ordinary contracts. Id. at 43-44 (citing Prima Paint Corp. v. Flood & Conklin Manufacturing Co., 388 U.S. 395, 404 n. 12, 87 S.Ct. 1801, 1806 n. 12, 18 L.Ed.2d 1270 (1967) (noting FAA arbitration agreements are \u201cas enforceable as other contracts, but not more so\u201d); Salley, 925 A.2d at 118-19 (noting Congress sought to place arbitration agreements \u201cupon the same footing as other contracts\u201d)). Appellee also argues that the reach of Section five is limited to \u201c[the] appoint[ment of] an alternative arbitrator, not an alternative arbitration forum\u201d and cannot supersede the terms of the Agreement. Id. at 44 (citing In re Salomon Inc. Shareholders\u2019 Derivative Litigation, 68 F.3d 554, 561 (2d Cir.1995) (finding courts cannot \u201cuse [Section five] to circumvent the parties\u2019 designation of an exclusive arbitral forum\u201d)).\nAppellee declares Appellants\u2019 reliance on Marmet is misplaced, emphasizing that \u201cthe Supreme Court overturned a \u2018categorical rule prohibiting arbitration of a particular type of claim\u2019 in West Virginia.\u201d Id. at 47 (emphasis in brief) (quoting Marmet, 565 U.S. at 533, 132 S.Ct. at 1203-04). Rather, the West Virginia Supreme Court was free to determine whether \u201cthe arbitration clauses ... are unenforceable under state common law principles that are not specific to arbitration and pre-empted by the FAA.\u201d Id. (emphasis in brief) (quoting Marmet, 565 U.S. at 534, 132 S.Ct. at 1204). Appellee therefore asserts that Marmet \u201creinforces \u201d the Superior Court\u2019s holdings both here and in Stewart, based on \u201cwell-established \u2018state common law principles\u2019 \u201d like the parol evidence rule that do not \u201cspecifically discriminate against arbitration agreements.\u201d Id. (emphasis in original).\nAppellee contends if this Court looks beyond the clear and unambiguous language of the Agreement, her deposition testimony cannot be used as extrinsic evidence because it lacks evidentiary value. Id. at 32. While Appellee does not contest that she signed the Agreement before reading it, she asserts that her subjective appreciation of the NAF provision is irrelevant with regard to its integrality. Appellee underscores that the contract\u2019s terms are clear and hence dictate the intent of the parties as expressly written. Id. at 32-33 (citing Steuart v. McChesney, 498 Pa. 45, 444 A.2d 659, 661 (1982) (barring ambiguity, \u201cintent is to be discovered only from the express language of the agreement\u201d)). Appellee notes that the Agreement states: \u201c[A]ny disputes between the parties \u2018shall be resolved exclusively through binding arbitration\u2019 conducted \u2018in accordance with the [NAF] Code of Procedure, which is hereby incorporated into this Agreement .... \u2019 In turn, the NAF\u2019s Code of Procedure provides that \u2018only \u2019 the NAF may administer its Code of Procedure.\u201d Id. at 35 (emphasis in original) (citations omitted). Appellee therefore argues that the Agreement\u2019s \u201cexplicit and mandatory language\u201d and \u201cexpress incorporation of the NAF Code\u201d evince the parties\u2019 intent to arbitrate only before the NAF, making it integral regardless of the lack of express statement to that effect. Id. at 35.\nConceding that no Pennsylvania court has explicitly addressed the issue, Appellee notes that many other jurisdictions have found a party\u2019s failure to read a contract does not negate the integrality of specific terms. Id. at 34 (citing Miller v. Lykes Bros. S.S. Co., Inc., 467 F.2d 464, 466 (5th Cir.1972) (finding a contractual provision integral regardless of the appellants\u2019 failure to read the overarching agreement)). Ap-pellee argues that finding otherwise would \u201ccarve out a new exception to the [p]arol [evidence [r]ule whereby a party claiming that a contractual term is integral must first produce extrinsic evidence of the subjective importance placed on the disputed term\u2014notwithstanding the non-ambiguity of the actual written term,\u201d Id. at 37-38 (emphasis in original). See Pace Communications, Inc. v. Moonlight Design, Inc., 31 F.3d 587, 592 (7th Cir.1994) (finding a rule \u201crequiring] that parties discuss a contract\u2019s every term in order to be bound by it ... would reward parties for their failure to read what they sign[.]\u201d).\nAppellee further asserts that if this Court finds the Agreement unclear, her testimony still cannot be admitted under the parol evidence rule because Appellants\u2019 claim of ambiguity relates only to whether the parties agreed to arbitrate exclusively before the NAF. Appellee emphasizes that \u201c[she] cannot say that she placed importance on any term in the agreement.\u201d Appellee\u2019s Brief at 41 (emphasis in original). Appel-lee therefore accuses Appellants of trying to \u201chave it both ways\u201d by \u201cattempting] to use [Appellee]\u2019s statement that she did not read the Agreement to establish that the NAF designation is non-integral\u201d while simultaneously \u201cmaintaining] that these same contractual terms demonstrate that [Appellee] clearly intended to arbitrate pursuant to the FAA.\u201d Id. at 42. Instead, Appellee asserts that the contract should be construed against the drafter. Id. at 33 n. 28 (citing Bucks Orthopaedic Surgery Associates, P.C. v. Ruth, 925 A.2d 868, 872 (Pa.Super.2007) (stating \u201c[a]rbitration agreements are contracts and should be interpreted using contract principles .... [W]here an ambiguity exists, courts are free to construe the ambiguity against the drafter\u201d)).\nB. Standard of Review and Relevant Law\nIssues of contractual interpretation are questions of law. Accordingly, this Court\u2019s standard of review is de novo and its scope is plenary. McMullen v. Kutz, 603 Pa. 602, 985 A.2d 769, 773 (2009). A contract shall be interpreted in accordance with the parties\u2019 intent. Lesko, 15 A.3d at 342. When a written contract is clear and unambiguous, the parties\u2019 intent is contained in the writing itself. Insurance Adjustment Bureau, Inc. v. Allstate Ins. Co., 588 Pa. 470, 905 A.2d 462, 468 (2006); Hutchison v. Sunbeam Coal Corp., 513 Pa. 192, 519 A.2d 385, 390 (1986). A party will be bound by this writing regardless of whether he or she read and fully understood its terms. See generally Samuel-Bassett v. Kia Motors America, Inc., 613 Pa. 371, 34 A.3d 1, 25 (2011). A court cannot alter these terms \u201cunder the guise of construction.\u201d Delaware County v. Delaware County Prison Employees Independent Union, 552 Pa. 184, 713 A.2d 1135, 1138 (1998). Unless otherwise specified, a contract\u2019s language shall be given its plain and ordinary meaning. TruServ Corp. v. Morgan\u2019s Tool & Supply Co., 614 Pa. 549, 39 A.3d 253, 260 (2012).\nParol evidence is only admissible to resolve ambiguities, though ambiguities may be \u201clatent[ and] created by extrinsic or collateral circumstances.\u201d Adjustment Bureau v. Allstate, 905 A.2d at 468 (citing Steuart, 444 A.2d at 663). An ambiguity is present if the contract may reasonably be construed in more than one way. Kripp v. Kripp, 578 Pa. 82, 849 A.2d 1159, 1163 (2004). When examining the intentions of the parties in relation to an ambiguity, \u201cthe court must look at the circumstances under which the [contract] was made.\u201d In re Estate of Quick, 588 Pa. 485, 905 A.2d 471, 475 (2006) (quotation and quotation marks omitted). Any ambiguities shall be construed against the contract drafter. Shovel Transfer and Storage, Inc. v. Pennsylvania Liquor Control Bd., 559 Pa. 56, 739 A.2d 133, 139 (1999).\nThe severability of a contract may be apparent from its explicit language. Jacobs v. CNG Transmission Corp., 565 Pa. 228, 772 A.2d 445, 452 (2001). Regardless, \u201c[t]he courts are not generally available to rewrite agreements or make up special provisions for parties who fail to anticipate foreseeable problems.\u201d In re Estate of Hall, 517 Pa. 115, 535 A.2d 47, 56 n. 7 (1987). Arbitration clauses are no more or less valid, enforceable, or irrevocable than any other contractual provision. Borough of Ambridge Water Authority v. Columbia, 458 Pa. 546, 328 A.2d 498, 500 (1974).\nC. Analysis\nAs noted supra, numerous cases involving similar agreements have been litigated across the nation. This case involves competing precedents: Appellee asks this Court to affirm Stewart and find, like the majority of our sister jurisdictions, that the NAF\u2019s participation was integral to the Agreement, which therefore cannot be salvaged by its sever-ability clause, while Appellants urge this Court to follow the minority of jurisdictions which found arbitration was the overarching goal and need not be adjudicated by the NAF itself.\nThe integrality of the NAF provision hinges in significant part on the weight and admissibility of Appellee\u2019s admissions. Addressing this issue at the forefront, we note that Appellants\u2019 liberal citations to non-controlling jurisdictions notwithstanding, Pennsylvania courts have perennially held:\n[W]hen a written contract is clear and unequivocal, its meaning must be determined by its contents alone. It speaks for itself and a meaning cannot be given to it other than that expressed. Where the intention of the parties is clear, there is no need to resort to extrinsic aids or evidence. Hence, where language is clear and unambiguous, the focus of the interpretation is upon the terms of the agreement as manifestly expressed rather than as, perhaps, silently intended.\nLesko, 15 A.3d at 342 (quoting Steuart, 444 A.2d at 661) (emphasis in original).\nAssuming, arguendo, that Appellee\u2019s testimony is admissible to address a latent ambiguity, we find her failure to read the Agreement does not implicate the importance of its NAF provision; thus, her subjective understanding of the Agreement is irrelevant to this case. Appellee is not rewarded for hastily signing the Agreement, nor do her actions implicate the mandate that \u201cthe party resisting arbitration bears the burden of proving that the claims at issue are unsuitable for arbitration.\u201d Green Tree Financial Corp.-Alabama v. Randolph, 581 U.S. 79, 91, 121 S.Ct. 513, 522, 148 L.Ed.2d 373 (2000) (citations omitted). Rather, we recognize that premising the integrality of a contractual term on the subjective understanding of a far less sophisticated non-drafting party is ill-advised public policy that would further distort an already lopsided balance of power. It follows, then, that a similarly situated non-drafting party could not use her failure to read as a means of disavowing an otherwise valid arbitration agreement.\nFurthermore, Appellants\u2019 desired interpretation would not place arbitration agreements on equal footing with other contracts. It would instead encourage drafting parties to forego integration clauses and excuse their failure to account for foreseeable issues within the four corners of the agreement by pointing to the less sophisticated party\u2019s inability to understand its terms. See Yocca, 854 A.2d at 436 (\u201cAn integration clause which states that a writing is meant to represent the parties\u2019 entire agreement is also a clear sign that the writing is meant to be just that ....\u201d (citations omitted)).\nThe Agreement provides that arbitration shall be conducted \u201cexclusively ... in accordance with the [NAF] Code of Procedure, which is hereby incorporated into this Agreement ], ... [and that t]his agreement shall be governed [by] and interpreted under the [FAA], 9 U.S.C. Sections 1-16.\u201d R. 348a. As a result, the question of whether Appellants can compel arbitration must be answered by the relevant NAF and FAA provisions, not the subjective intent of the parties. We decline to read an ambiguity into an agreement that could easily have been addressed by Appellants within its express terms. See Steuart, 444 A.2d at 662 (noting \u201c[t]he court may not rewrite the contract for the purpose of ... mak[ing] for [the parties] a better contract than they chose, or saw fit, to make for themselves, ... because it later appears that a different agreement should have been consummated in the first instance ... .\u201d).\nTurning to the NAF Code of Procedure, Rule 1(A) states: Parties who contract for or agree to arbitration provided by the Forum or this Code of Procedure agree that this Code governs their arbitration proceedings, unless the Parties agree to other procedures ,.,, This Code shall be administered only by the [NAF] or by any entity or individual providing administrative services by agreement with the [NAF].\nNAF Code, Rule 1(A). Although Appellants emphasize that the NAF is not required to administer and apply the Code, this is a distinction without a difference. Besides the fact that per the consent decree no NAF entity may \u201c[a]dminister or process any new Consumer Arbitration,\u201d Black\u2019s Law Dictionary defines \u201cadminister\u201d as \u201c[t]o manage (work or money) for a business or organization.\u201d Consent Decree, State of Minnesota v. National Arbitration Forum (No. 27-CV-09-18550, Minn.Dist.Ct., July 17, 2009); Black\u2019s Law Dictionary 52 (10th ed.2014). \u201cManage,\u201d in turn, is defined as \u201c[t]o conduct, control, carry on, or supervise.\u201d Id. at 1103-04. The NAF no longer does any of these things with respect to consumer arbitration disputes. In addition, the NAF Code defines an arbitrator as \u201c[a]n individual selected in accord with the Code or an Arbitration Agreement to render Orders and Awards .... \u201d NAF Code, Rule 2(F). The NAF Code also notes \u201c[t]he National Arbitration Forum [et alj constitute the administrative organizations conducting arbitrations under this Code.\u201d NAF Code, Rule 2(S).\nWhile the parties are free to select an arbitrator \u201con mutually agreeable terms,\u201d NAF Code, Rule 21(A)(1), herein they simply signed an agreement stating that ensuing legal disputes would be conducted \u201cin accordance with the [NAF] Code of Procedure, ... and not by a lawsuit or resort to court process.\u201d R. 348a. Both the NAF Code and the Agreement provide that \u201call arbitration proceedings, Hearings, Awards, and Orders are to be governed by the [FAA], 9 U.S.C. \u00a7\u00a7 1-16,\u201d NAF Code, Rule 48(B)., However, we are unconvinced that the generally enacted FAA was intended to vary the specific mandates of NAF procedure. Section five of the FAA states:\nIf in the agreement provision be made for a method of naming or appointing an arbitrator ..., such method shall be followed; but ... if for any [ ] reason there shall be a lapse in the naming of an arbitrator ..., then upon the application of either party to the controversy the court shall designate and appoint an arbitrator ..., who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein[.]\n9 U.S.C. \u00a7 5.\nPursuant to the reasoning of the Stewart court and the majority of our sister jurisdictions, we find that, post-consent decree, Section five of the FAA cannot preserve NAF-incorporated arbitration agreements unless the parties made the NAF\u2019s availability non-essential by specifically varying the terms of its procedure. Regardless of whether Section five may apply where there is a lapse in the administrator, by its own rules, the NAF must administer its code unless the parties agree to the contrary. The parties here agreed that any disputes \u201cshall be resolved exclusively by binding arbitration to be conducted ... in accordance with the [NAF] Code of Procedure, which is hereby incorporated into this Agreement[J\u201d R. 848a (emphasis added). We therefore find the provision integral and non-severable. Doing otherwise would require this Court to rewrite the Agreement. Underlying FAA policy, as interpreted by the Supreme Court in Marmet, does not mandate a different result because our conclusion is based on settled Pennsylvania contract law principles that stand independent of arbitration.\nIII. Conclusion\nFor the reasons set forth above, we decline to overturn Stewart as incorrectly decided. We, therefore, affirm the order of the Superior Court and remand to the trial court for further proceedings consistent with this decision.\nJustice TODD joins the lead opinion.\nChief Justice SAYLOR files a concurring opinion.\nJustice EAKIN files a dissenting opinion.\nJustice BAER files a dissenting opinion.\n. The Agreement reads, in relevant part:\n[A]ny and all claims, disputes, and controversies ... shall be resolved exclusively by binding arbitration to be conducted at a place agreed upon by the Parties, or in the absence of such an agreement, at the Facility, in accordance with the National Arbitration Forum Code of Procedure, which is hereby incorporated into this Agreement) ], and not by a lawsuit or resort to court process. This agreement shall be governed [by] and interpreted under the Federal Arbitration Act, 9 U.S.C. Sections 1-16.\nIn the event a court having jurisdiction finds any portion of this agreement unenforceable, that portion shall not be effective and the remainder of the agreement shall remain effective.\nTHE PARTIES UNDERSTAND AND AGREE THAT THIS CONTRACT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY THE PARTIES, AND THAT BY ENTERING INTO THIS ARBITRATION AGREEMENT, THE PARTIES ARE GIVING UP AND WAIVING THEIR CONSTITUTIONAL RIGHT TO HAVE ANY CLAIM DECIDED IN A COURT OF LAW BEFORE A JUDGE AND A JURY, AS WELL AS ANY APPEAL FROM A DECISION OR AWARD OF DAMAGES.\nR. 348a-49a (emphasis in original).\n. Appellee stated that she did not read the Agreement because, \u2018'[m]y emotions weren't where they should be at that point, and ... there was no other way to do it. I had to sign the papers to get her there so, ... it didn't matter what I was signing. I just wanted her better.\u201d Wert, supra (unpublished memorandum at 6).\n. Arguments of Amici will be discussed to the extent they are non-duplicative of the parties\u2019 arguments and relevant to the issues on which this Court granted allocatur. See Holt v. 2011 Legislative Reapportionment Com\u2019n, 620 Pa. 373, 67 A.3d 1211, 1225 n. 12 (2013) (holding amicus briefs raising issues not implicated by the parties warrant no consideration).\n. Section five states, in relevant part, that:\n[I]f for any [] reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein ....\n9 U.S.C. \u00a7 5.\n. Appellants note that the Stewart court relied on language contained in Khan v. Dell, Inc., 2010 WL 3283529 (D.N.J. Aug. 18, 2010), that was reversed by the Third Circuit Court of Appeals \u201cand held that the unavailability of the NAF did not warrant invalidating the arbitration agreement.\u201d Appellants\u2019 Brief at 44 (citing Khan, 669 F.3d at 356-57).\n. Appellee also claims that because the Agreement was signed eight months after the NAF stopped accepting cases pursuant to the consent decree, the contract is premised on a mistake of fact and is therefore voidable. Appellee's Brief at 31. Appellants counter that this argument is waived because \u201cmistake of fact is an affirmative defense that must be pled with particularity, which was not done when Appellee initially opposed the preliminary objections seeking to compel arbitration.\u201d Appellants\u2019 Reply Brief at 8 (citing Book Metals Corp. v. Sitkin Smelting & Refining, Inc., 254 Pa.Super. 21, 385 A.2d 504, 505-06 (1978)). Appellee correctly notes that \"[tjhis Court may affirm on any valid basis and is not limited to grounds raised by the parties.\u201d Appellee's Brief at 1. See, e.g., Alderwoods (Pennsylvania), Inc. v. Duquesne Light Co., 630 Pa. 45, 106 A.3d 27, 41 n. 15 (2014) (stating \"an appellate court may affirm for any reason appearing as of record\u201d (citation omitted) (emphasis in original)). However, neither the issues before this Court nor the Stewart decision is premised upon mistake of fact which is a separate concern that has been briefed and argued by the parties in cursoiy fashion. Since we affirm the order of the Superior Court on adequate and independent bases, this issue needs no further review.\n. The PAJ emphasizes that most courts have deemed Appellants' Agreement unenforceable due to the unavailability of the NAF and its Code of Procedure, PAJ\u2019s Brief at 23 (citing Licata v. GGNSC Maiden Dexter, LLC, 29 Mass. L. Rep. 467, 2012 WL 1414881, at *8 (Mass.Super.2012) (finding the NAF integral based on \"the emphatic language identifying [the] NAF and incorporating the NAF Code of Procedure,\u201d its \"very specific set of rules and procedures,\u201d and mandate that \"arbitrators must be members of [the] NAF and are the only people authorized to administer the Code\u201d), affirmed as to other grounds, 466 Mass. 793, 2 N.E.3d 840 (2014); GGNSC Tylertown, LLC v. Dillon, 87 So.3d 1063, 1066 (Miss.Ct.App.2011) (finding \"the forum in the agreement ... is no longer available and we decline to order the lower court to pick a forum not anticipated by either party\u201d) (internal quotations and citations omitted); Geneva-Roth, Capital, Inc. v. Edwards, 956 N.E.2d 1195, 1203 (Ind.App.2011) (finding that \u201cby drafting the agreement and presenting the non-negotiable terms to [the other party], [the drafter] demonstrated that it wanted to ensure that only the NAF would administer any arbitration that arose under the agreement\"), cert. denied, \u2014 U.S. \u2014, 133 S.Ct. 650, 184 L.Ed.2d 459 (2012)).\n. The AAJ notes that \"[i]n cases where an arbitrator has resigned or died during the course of an arbitration, federal courts have held that [S]ection [five] of the FAA authorizes the court to fill the void by-appointing a substitute arbitrator.\" AAJ's Brief at 27 (citing WellPoint, Inc. v. John Hancock Life Ins. Co., 576 F.3d 643, 647 (7th Cir.2009) (noting that Section five \"sets forth a rule that applies to the midstream loss of an arbitrator\u2019\u2019)). By contrast, the AAJ underscores that Section five cannot apply where there has been a lapse in the administrator. Id. at 27-28 (citing Martinez v. Master Protection Corp., 118 Cal.App.4th 107, 12 Cal.Rptr.3d 663, 675 (2004) (noting under California\u2019s analogous state arbitration law that its equivalent provision \"does not permit the trial court to choose an alternative forum where the chosen forum refuses to hear the case\u201d)).\n. In Taylor v. Extendicare Health Facilities, Inc., 113 A.3d 317 (Pa.Super.2015), the Superior Court found Marmet and the FAA did not preempt a state law requiring the consolidation of wrongful death and survival claims. The Superior Court therefore declined to bifurcate the plaintiff's claims against the defendant nursing care facility and compel arbitration with respect to the survival claim, which the arbitration agreement covered, based on the identical issues and the potential for inconsistent liability and duplicative damage determinations. Id. at 327. The Superior Court remarked that unlike in Marmet, \"[t]he statute and rule at issue are not 'aimed at destroying arbitration\u2019 and do not demand 'procedures incompatible with arbitration.\u2019 \u201d Id. at 327-28 (quoting Concepcion, 563 U.S. at 343, 131 S.Ct. at 1747-48).\n. Responding to Appellants' claim that she \u201cwaived\u201d the invocation of the parol evidence rule by using her testimony regarding other aspects in the case that are not currently before this Court, Appellee argues \"if [] extrinsic evidence is admitted over objection or without objection, the question still remains for decision by the court whether ... [the] extrinsic [evidence] ... can in law be effective to add to, subtract from or vary the terms of the writing.\u201d Appellee\u2019s Brief at 41 n. 33 (quoting 32A C.J.S. Evidence \u00a7 1406). As implied infra, we find the issue of waiver irrelevant based on the testimony\u2019s lack of probative value.\n. The AARP offers additional policy rationales for construing the Agreement against Appellants. Describing the nursing care facility admission process as \u201can 'emotionally-charged, stress-laden event,\u2019 \u201d the AARP focuses on the \u201cgrossly superior bargaining power, knowledge, and control\u201d such facilities have over the formation of arbitration agreements. AARP\u2019s Brief at 11-12 (quoting Podolsky v. First Healthcare Corp., 50 Cal.App.4th 632, 58 Cal.Rptr.2d 89, 101 (1996)). The AARP emphasizes that these agreements are drafted with the aid of expert professionals and presented to people who \"have probably never before seen a nursing facility contract, let alone read the arbitration provisions contained therein.\u201d Id. at 13 (citing S.Rep. No. 110-518, pt. I.B. (2008)), available at http://gpo.gov/fdsys/pkg43RPT-110srpt518/ html/CRPT-110sipt518.htm. Prospective residents and their families, by contrast, almost always lack the benefit of counsel to inform them they may decline to agree to pre-dispute arbitration without penalty, much less negotiate the terms of the agreement. Id. at 13-14. The AARP therefore asserts that \"it is difficult for potential residents and their families, faced with the crises accompanying admission to a nursing facility, to make informed decisions about the numerous provisions contained in an admissions contract[.]\u201d Id. at 15. As a result, \"it is vitally important to ensure that agreements to arbitrate future disputes between nursing facilities and residents are enforced fairly so that residents can avail themselves of all available avenues of redress for abuse and neglect.\u201d Id. at 16.\n. The provision stating \"THE PARTIES UNDERSTAND AND AGREE THAT THIS CONTRACT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY THE PARTIES ....\u201d as fully quoted in n. 1 supra, is not dispositive of the fact that \u201c[t]he overriding purpose of the Agreement is to resolve disputes by arbitration and not through judicial litigation,\u201d Appellants' Brief at 9, because \"in determining the intent of the contracting parties, all provisions in the agreement will be construed together and each will be given effect.\u201d LJL Transp., Inc. v. Pilot Air Freight Corp., 599 Pa. 546, 962 A.2d 639, 647 (2009). See also Capek v. Devito, 564 Pa. 267, 767 A.2d 1047, 1050 (2001) (stating \"[a]n interpretation will not be given to one part of the contract which will annul another part of it\u201d (internal quotation marks and quotation omitted)).\n. We acknowledge the line of precedent that states \"[a] contract is ambiguous if it is reasonably susceptible of different constructions and capable of being understood in more than one sense.\u201d Hutchison, 519 A.2d at 390 (citing Metzger, 476 A.2d at 5), However, we decline to broadly apply that principle in the instant case.\n. While the definition then states the forum can include \u201can entity or individual providing administrative services by agreement with the [NAF that] administers arbitrations in accord with this Code,\u201d this would create an \"end-run\u201d around the consent decree with respect to consumer arbitration disputes. NAF Code, Rule 2(S),\n. Appellants cite to Green as persuasive precedent. However, that case is unavailing for several reasons. First, the Agreement here states that arbitration \u201cshall be resolved exclusively ... in accordance with the [NAF] Code of Procedure[.]\u201d R, 348a (emphasis added). The agreement in Green provided that \"[a]ll disputes, claims or controversies between the parties ... shall be resolved by binding arbitration by one arbitrator by and under the Code of Procedure of the [NAF].\u201d Green, 724 F.3d at 788. Second, the Green Court based its holding, in significant part, on the premise that \"Rule l.A is \u2018unenforceable\u2019 in light of the Forum\u2019s decision to cease conducting arbitrations,\u201d and since \u201cno author can control how or by whom a written work is used,\u201d a substitute arbitrator can and must be appointed under Section five of the FAA. Id. at 789-90. Finally, regardless of whether Section five can be used to interpret an arbitration clause \"shorn of details,\u201d that is hardly the case here, as the Agreement specifies that disputes shall be exclusively resolved under the NAF Code. Green, 724 F.3d at 792.\nWe note that, in the Chicago-Kent College of Law's Seventh Circuit Review, Christine L. Milkowski makes a strong case that \"the [Green ] Court has zealously applied Section [two] of the FAA, which states arbitration agreements shall be 'valid, irrevocable and enforceable,' to favor arbitration over litigation.\u201d Christine L. Milkowski, Expanding the Scope of the Federal Arbitration Act: An Examination of the Seventh Circuit\u2019s Opinion in Green v. U.S. Cash Advance, Illinois, LLC, 9 Seventh Circuit Rev. 50 (2013). See http://www.kentlaw.iit.edu/Documents/ Academic% 20Programs/7CR/v9-l/Milkowski.pdf. In addition to criticizing Judge Easterbrook\u2019s majority opinion, Milkowski favorably cites key portions of Judge Hamilton\u2019s dissent, asserting that \"[u]nlike the majority, which severed the rules of the NAF Code of Procedure that did not support its opinion, Judge Hamilton used the Rules in a common sense way to support the natural reading of the arbitration agreement.\u201d Id. at 72-73 (citing Green, 724 F.3d at 795-96 (Hamilton, J., dissenting)). To the extent Section five of the FAA may trigger the appointment of a substitute arbitrator, Milkowski notes, in relevant part, \"that there was no correctable \u2019lapse\u2019 when the drafters of the agreement named an arbitration forum that was never available.\u201d Id. at 73 (citing Green, 724 F.3d at 797 (Hamilton, J., dissenting)),\n. We agree with Appellants that Rules 48(E-F) are not definitively fatal to their motion to compel arbitration. Rule 48(E) states the arbitrator \"may decline the use of arbitration for any dispute! ] ... that is not a proper or legal subject matter for arbitration ....\u201d NAF Code, Rule 48(E) (emphasis added). While Rule 48(F) holds that \u201c[i]n the event of a cancellation of this Code, any Party may seek legal and other remedies ....,\u201d NAF Code, Rule 48(F), the consent decree does not cancel the Code, but suspends it as applied to consumer arbitration disputes.\n. In addition to not being binding on this Court, Khan was reversed in a divided Third Circuit Court of Appeals opinion that applied New Jersey state law and public policy. In her dissent, Judge Sloviter found, like this Court, that \u201c[t]he plain text of the arbitration agreement clearly states that the selection ... of the NAF as arbitrator was integral to the agreement, ... leading her] to conclude that Section [five] of the FAA is inapplicable and the unavailability of the NAF precludes arbitration.\u201d Khan, 669 F.3d at 357 (Sloviter, J., dissenting).",
+        "type": "majority",
+        "author": "Justice STEVENS."
+      },
+      {
+        "text": "Chief Justice SAYLOR,\nconcurring.\nAlthough I have differences with the rationale set forth in the Opinion Announcing the Judgment of the Court, I support the result for many of the reasons articulated by Judge Hamilton of the United States Court of Appeals for the Seventh Circuit in his dissenting opinion in Green v. U.S. Cash Advance Illinois, LLC, 724 F.3d 787 (7th Cir.2018). In addition to agreeing with Judge Hamilton\u2019s analysis of Rules 1(A) and 48(D) of the National Arbitration Forum (\u201cNAF\u201d) Code, see id. at 795-96 (Hamilton, J., dissenting), I am aligned with his position that it is not the courts\u2019 role to compensate for the negligence of an entity presenting a form contract in a consumer-oriented setting which this entity knew or should have known could not be enforced on its own terms. See id. at 793. See generally Majority Opinion, at 273, 124 A.3d at 1255-56 (explaining that the arbitration agreement at issue in the present case was executed eight months after the NAF\u2019s decision to withdraw from the field of consumer arbitrations). To the extent that unwanted consequences must attend such a patent drafting error, from my point of view these are more justly visited upon the more sophisticated party to which such mistake is most fairly attributable.\nFinally, although I certainly recognize the federal and state policies favoring arbitration, I also believe it is important to acknowledge the inauspicious circumstances surrounding the NAF\u2019s decision to forego administering consumer arbitrations, in that the organization entered into a consent decree with a state attorney general after having been sued on the allegation that it colluded with businesses relative to their disputes with consumers. See id. at 794. See generally Note, Nicole Wanlass, No Longer Available: Critiquing the Contradictory Way Courts Treat Exclusive Arbitration Forum Clauses When the Forum Can No Longer Arbitrate, 99 Minn. L. Rev. 2006, 2009 (2015). To the degree that such allegations cannot be discounted, reflexive adherence to the courts\u2019 self-protective preferences for arbitration\u2014particularly relative to agreements which are incapable of enforcement according to their own terms\u2014would be problematic.",
+        "type": "concurrence",
+        "author": "Chief Justice SAYLOR,"
+      },
+      {
+        "text": "Justice EAKIN,\ndissenting.\nI respectfully dissent, as I cannot agree with the Majority\u2019s conclusion the National Arbitration Forum (NAF) provision was integral to the arbitration agreement, making the entire agreement void because of the NAF\u2019s problems in Minnesota. The Majority invalidates the entire agreement based upon its NAF Code provision, which states arbitration must be conducted \u201cin accordance with the [NAF] Code of Procedure^]\u201d Agreement, at 1. While the NAF may be out of the business of accepting arbitrations, that Code is still extant, and it is the Code, not the NAF itself, that is incorporated into the agreement.\nFurther, the Majority ignores the agreement\u2019s other provisions, which conspicuously provide, \u201cTHE PARTIES UNDERSTAND AND AGREE THAT THIS CONTRACT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY THE PARTIESE.]\u201d Id., at 2 (emphasis in original). Nowhere does it suggest the NAF must be the arbitrator. Even if it did, the agreement also includes a severability provision stating if a court \u201cfinds any portion of this agreement unenforceable, that portion shall not be effective and the remainder of the agreement shall remain effective^]\u201d Id., at 1. That remainder certainly includes the above-emphasized\u2014in bold and capital letters\u2014provision that binding arbitration is a provision and may be enforced.\nThus, the question is whether the Code or the agreement demands an NAF arbitrator, and the answer is that neither does\u2014interpreting such a requirement into them is inappropriate. The Majority\u2019s reliance upon extraneous sources to conclude the NAF Code provision required an NAF arbitrator to conduct arbitration is misguided. See Majority Op., at 282-84, 124 A.3d at 1261-68 (citing NAF Code, Rules 1(A), 2(F), 2(S), 21(A)(1), & 48(B); Black\u2019s Law Dictionary 52, 1103-04 (10th ed.2014); 9 U.S.C. \u00a7 5); see also, e.g., Steuart v. McChesney, 498 Pa. 45, 444 A.2d 659, 661 (1982) (\u201c[W]hen a written contract is clear and unequivocal, its meaning must be determined by its contents alone. It speaks for itself and a meaning cannot be given to it other than that expressed. Where the intention of the parties is clear, there is no need to resort to extrinsic aids or evidence.\u201d (citation and internal quotations omitted)).\nThe fact is the NAF Code provision does not designate any specific arbitrator. This silence within a contractual provision, as within a statutory provision, does not constitute an ambiguity per se. See Levy v. Senate of Pa., 619 Pa. 586, 65 A.3d 361, 383 (2013) (Eakin, J., concurring) (\u201cThat the statute does not address the specific question before us does not mean it is ambiguous[.]\u201d). Rather, ambiguity arises only where there are at least two reasonable interpretations of the subject language. See Warrantech Consumer Prods. Servs., Inc. v. Reliance Ins. Co., 626 Pa. 218, 96 A.3d 346, 354-55 (2014) (\u201cA statute is ambiguous when there are at least two reasonable interpretations of the text under review.\u201d (citation omitted)).\nIn my view, the agreement\u2019s reliance on a non-existent Code provision of a now-dormant organization does not negate the requirement of arbitration. Contrary to the Majority\u2019s interpretive largess, the provision does not specifically require an NAF arbitrator to conduct arbitration. As the NAF Code is still in existence, the parties could have simply hired an arbitrator to apply the NAF Code to their dispute. See NAF Code Rule 21(A)(1) (\u201cParties select an [a]rbitrator(s) ... [b]y selecting an [arbitrator or a panel of [arbitrators on mutually agreeable terms[.]\u201d).\nI also must disagree with the muddled holding that \u201cthe FAA cannot preserve NAF-incorporated arbitration agreements unless the parties made the NAF\u2019s availability nonessential by specifically varying the terms of its procedure.\u201d Majority Op., at 284, 124 A.3d at 1263. One must be uncertain what is meant by stating \u201cvarying the terms of [NAF\u2019s] procedure \u201d can make NAF\u2019s \u201cavailability non-essential[,]\u201d id. (emphasis added); procedure and availability are not the same thing, such that varying a procedure may eliminate availability. In any event, as discussed, availability is not a part, much less an essential part, of the agreement the parties executed.\nAlso unconvincing is the reliance on Stewart v. GGNSC-Canonsburg, L.P., 9 A.3d 215 (Pa.Super.2010). See Majority Op., at 1262-63. Federal appellate decisions subsequent to Stewart are persuasive and I would therefore overrule Stewart. In particular, as Chief Judge Easterbrook concluded, \u201carbitration clauses remain enforceable if[,] for \u2018any\u2019 reason[,] there is \u2018a lapse in the naming of an arbitrator[.]\u2019 \u201d Green v. U.S. Cash Advance III., LLC, 724 F.3d 787, 791-92 (7th Cir.2013) (quoting 9 U.S.C. \u00a7 5) (holding \u00a7 5 may be used to appoint substitute forum because \u201c[t]he identity of the arbitrator is not so important that the whole contract is vitiated\u201d). Moreover, the Third Circuit, in a case in which the parties incorporated the NAF Code into their arbitration agreement, held \u00a7 5 \u201crequires a court to address [the] unavailability [of an NAF arbitrator] by appointing a substitute arbitrator.\u201d Khan v. Dell Inc., 669 F.3d 350, 357 (3d Cir.2012); see also Brown v. ITT Consumer Fin. Corp., 211 F.3d 1217, 1222 (11th Cir.2000) (\u201cWhere the chosen forum is unavailable ... or has failed for some reason, \u00a7 5 applies and a substitute arbitrator may be named.\u201d); Wright v. GGNSC Holdings LLC, 808 N.W.2d 114, 120 n. 6 (S.D.2011) (criticizing Stewart because court discerned \u201cno impediment to a substitute arbitrator applying the same substantive law and using common procedural rules like those found in the NAF Code\u201d).\nAccordingly, I would reverse the Superior Court\u2019s order, and must respectfully dissent.",
+        "type": "dissent",
+        "author": "Justice EAKIN,"
+      },
+      {
+        "text": "Justice BAER,\ndissenting.\nLike the Superior Court, the Majority has decided to repudiate the arbitration agreement entered into by the parties, Golden Living Center-Gettysburg et al. (Appellants) and Evonne K. Wert (Appellee), and to compel Appellants to litigate the dispute in the trial court. I perceive this result to be contrary to the plain language of the arbitration agreement, which provided that the agreement was intended to require arbitration and to preclude a lawsuit or court process, and to flow from a leap in logic that finds no support in the actual agreement or governing law, as explained below. Accordingly, I dissent.\nPublic policy in this Commonwealth favors arbitration agreements. See Fastuca v. L.W. Molnar & Assoc., 608 Pa. 187, 10 A.3d 1230, 1245 (2011) (\u201cAs our Court has observed on repeated occasions, the settlement of disputes by arbitration is favored by the public policy of this Commonwealth and is, therefore, encouraged by our courts and by statute.\u201d); Borgia v. Prudential Ins. Co., 561 Pa. 434, 750 A.2d 843, 850-51 (2000); Johnson v. Pennsylvania Nat. Ins. Companies, 527 Pa. 504, 594 A.2d 296, 300 (1991); Flightways Corp. v. Keystone Helicopter Corp., 459 Pa. 660, 331 A.2d 184, 185 (1975); Ice City, Inc. v. Ins. Co. of N. Am., 456 Pa. 210, 314 A.2d 236, 241 (1974) (\u201cIt is beyond cavil that settlement of disputes by arbitration or appraisal is the approved public policy of this Commonwealth.\u201d); Mendelson v. Shrager, 432 Pa. 383, 248 A.2d 234, 235 (1968) (\u201c[0]ur statutes encourage arbitration and with our dockets crowded and in some jurisdictions conjested [sic] arbitration is favored by the courts.\u201d); Capecci v. Joseph Capecci, Inc., 392 Pa. 32, 139 A.2d 563, 565 (1958) (recognizing that \u201c[t]he public policy of this State is to give effect to arbitration agreements,\u201d and providing that \u201c[w]here the parties by contract contemplate the settlement of disputes by arbitration, every reasonable intendment will be made in favor of the agreement.\u201d).\nBecause Pennsylvania favors arbitration, it is consistent with the federal policy of also favoring arbitration enforcement. Moscatiello v. Hilliard, 595 Pa. 596, 939 A.2d 325, 329 (2007). See also Bhatia v. Johnston, 818 F.2d 418, 421 (5th Cir.1987) (recognizing that \u201cthe question of arbitrability [is to] be addressed with a \u2018healthy regard for the federal policy favoring arbitration,\u2019 with doubts regarding the scope of the agreement resolved in favor of arbitration.\u201d (quoting Moses H. Cone Mem\u2019l Hosp. v. Mercury Const. Corp., 460 U.S. 1, 24-25, 103 S.Ct. 927, 74 L.Ed.2d 765 (1983))); Salley v. Option One Mortgage Corp., 592 Pa. 323, 925 A.2d 115, 118 (2007) (acknowledging the liberal federal policy favoring arbitration agreements); Thibodeau v. Comcast Corp., 912 A.2d 874, 878-80 (Pa.Super.2006).\nWith this background in mind, and to analyze the terms of this particular arbitration agreement, we should be clear about what the agreement did, and did not say. As the Majority relates, the agreement provided that any ensuing litigation \u201cshall be resolved exclusively by binding arbitration ... in accordance with the National Arbitration Forum Code of Procedure ...\u201d The agreement further provided that it was to be governed and interpreted under the Federal Arbitration Act (FAA), 9 U.S.C. \u00a7\u00a7 1-16. Finally, relevant to our analysis, it provided a severance clause requiring that if a court were to find any portion of the agreement unenforceable, the rest of the agreement \u201cshall remain effective.\u201d With this clear language, the agreement established that the exclusive form of dispute resolution is arbitration, not the courts, and that such arbitration will be conducted pursuant to a certain set of procedural rules.\nNotably, the arbitration agreement did not name an arbitrator, and most certainly did not provide that the National Arbitration Forum (NAF) was the only entity that could serve as arbitrator. The Majority\u2019s holding that the arbitration agreement required that arbitration be conducted by the NAF departs from the plain language of the agreement. Agreeing to utilize a certain set of procedural rules does not name the administering body of those rules as sole arbitrator. As Judge Easterbrook observed in interpreting a similar arbitration agreement in favor of arbitration, \u201c[i]f [the agreement] were designed to require arbitration to be conducted by [NAF] exclusively, the reference to its Code would be surplus-age; the only reason to refer to the Code is to create the possibility of arbitration outside the [NAF] \u2019s auspices, but using its rules of procedure.\u201d Green v. U.S. Cash Advance Illinois, LLC, 724 F.3d 787, 789 (7th Cir.2013). See also Wert v. Manorcare of Carlisle et al., No. 1746 MDA 2012, 93 A.3d 514 (Pa.Super. Dec. 19, 2013) (Fitzgerald, J., concurring) (\u201cI would not find that the agreement to arbitrate pursuant to the NAF Code is coterminous with agreement that only NAF could administer the arbitration, where the document itself does not identify who shall administer the arbitration.\u201d).\nAlthough the NAF Code of Procedure provides, in Rule 1.A, that it shall be administered by the NAF, this is not the same as requiring NAF to act as sole arbitrator. While the NAF administers its Code of Procedure, there is nothing limiting another arbitrator from employing the code to arbitrate the parties\u2019 dispute. An agreement to arbitrate in accord with the NAF Code of Procedure is valid, even without NAF\u2019s availability to serve as arbitrator.\nTo the extent that one can interpret Rule 1.A as providing that the NAF Code of Procedure depends on the NAF as arbitrator, a proposition of which I remain unconvinced, it is unenforceable because of NAF\u2019s unavailability. Under such circumstances, Rule 1.A is qualified by Rule 48.C, which provides that if a portion of the NAF Code of Procedure is unenforceable, the remainder of the code will continue in effect. See Green, 724 F.3d at 789. Accordingly, the NAF\u2019s Code of Procedure remains in effect even where the NAF is not serving as arbitrator.\nMoreover, the Code of Procedure also provides in Rule 48.D that \u201c[i]f Parties are denied the opportunity to arbitrate a dispute ... before the [NAF], the Parties may seek legal and other remedies in accord with applicable law.\u201d Green, 724 F.3d at 789. Here, the parties, in their agreement, identified the FAA as such an applicable law. Section 5 of the FAA permits a court, upon request, to appoint a substitute arbitrator. 9 U.S.C. \u00a7 5. Section 5 further instructs that arbitration clauses remain enforceable if for any reason there is a lapse in naming an arbitrator, and would seem to apply to the circumstances presented here.\nAdditionally, the severability clause of this agreement further indicates the parties\u2019 intention to preserve their agreement to arbitrate in the event a portion of the agreement is found unenforceable. When parties consent in an agreement to settle all future disputes by arbitration, they are bound by that provision; \u201cthe function of the courts is limited to enforcing this contractual provision according to its terms as established by the parties.\u201d Fastuea, 10 A.3d at 1245. Given the agreement\u2019s purpose of ensuring dispute resolution through arbitration, it is illogical to dispense with the agreement because of the NAF\u2019s unavailability.\nAlthough, as the Majority recognizes, there is a split of authority by courts interpreting similar arbitration agreements that rely on the NAF Code of Procedure, the force of logic employed by those courts enforcing the arbitration agreement with a substituted arbitrator is more persuasive than the fiction created by those courts that have thrown out the arbitration agreement by equating use of the NAF Code of Procedure with an identification of the NAF as sole arbitrator.\nIn affirming the trial court\u2019s finding that the agreement was unenforceable because the NAF could not serve as arbitrator, the Superior Court relied on its prior decision in Stewart v. GGNSC-Canonsburg, 9 A.3d 215 (Pa.Super.2010), a decision which I believe, in accord with my opinion herein, is not supportable. Although the arbitration agreement interpreted and cast aside in Stewart mirrored the agreement utilized by the parties in this case, the Superior Court\u2019s decision therein suffered from the same leap in logic I have identified in the Majority\u2019s present analysis: it equated the agreement\u2019s invocation of the NAF Code of Procedure with naming the NAF as the sole arbitrator.\nAccordingly, I disagree with the Majority that the agreement identified the arbitrator, and that the unavailability of this arbitrator vitiates the entire agreement. Rather, the agreement invoked a set of procedural rules while remaining silent on the identity of the arbitrator. Because the parties selected arbitration, courts should not utilize logical fallacies or rely on nonexistent contractual terms to throw the baby out with the bathwater.\n. Indeed, the Federal Arbitration Act (FAA) was enacted to ensure the enforcement of arbitration agreements, as the Supreme Court has explained:\nThe FAA was designed \"to overrule the judiciary\u2019s longstanding refusal to enforce agreements to arbitrate,\u201d Dean Witter Reynolds, Inc. v. Byrd, 470 U.S. 213, 219-220, 105 S.Ct. 1238, 84 L.Ed.2d 158 (1985), and to place such agreements \" \u2018upon the same footing as other contracts,\u2019 \u2019\u2019 Scherk v. Alberto-Culver Co., 417 U.S., 506, 511, 94 S.Ct. 2449, 41 L.Ed.2d 270 (1974) (quoting H.R.Rep. No. 96, 68th Cong., 1st Sess., 1, 2 (1924)). While Congress was no doubt aware that the Act would encourage the expeditious resolution of disputes, its passage \"was motivated, first and foremost, by a congressional desire to enforce agreements into which parties had entered.\u201d Byrd, 470 U.S. at 220, 105 S.Ct. 1238 .... [The FAA] simply requires courts to enforce privately negotiated agreements to arbitrate, like other contracts, in accordance with their terms. See Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 U.S. 395, 404 n. 12, 87 S.Ct. 1801, 18 L.Ed.2d 1270 (the Act was designed \"to make arbitration agreements as enforceable as other contracts, but not more so\u201d).\nVolt Info. Sciences, Inc. v. Bd. of Tr. of the Leland Stanford Jr. Univ., 489 U.S. 468, 478, 109 S.Ct. 1248, 103 L.Ed.2d 488 (1989).\n. Section 5 provides as follows:\nIf in the agreement provision be made for a method of naming or appointing an arbitrator or arbitrators or an umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party thereto shall fail to avail himself of such method, or if for any other reason there shall be a lapse in the naming of an arbitrator or arbitrators or umpire, or in filling a vacancy, then upon the application of either party to the controversy the court shall designate and appoint an arbitrator or arbitrators or umpire, as the case may require, who shall act under the said agreement with the same force and effect as if he or they had been specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single arbitrator.\n9 U.S.C.A. \u00a7 5.\n. See, e.g., Green v. U.S. Cash Advance Illinois, LLC, 724 F.3d 787, 789 (7th Cir.2013); Khan v. Dell, Inc., 669 F.3d 350 (3d Cir.2012); Pendergast v. Sprint Nextel Corp., 691 F.3d 1224, 1236 n. 13 (11th Cir.2012); Brown v. ITT Consumer Fin. Corp., 211 F.3d 1217, 1222 (11th Cir. 2000); Wright v. GGNSC Holdings LLC, 808 N.W.2d 114, 119-20 (S.D.2011); Jones v. GGNSC Pierre, 684 F.Supp.2d 1161, 1167 (D.S.D. 2010).\n. See, e.g., Ranzy v. Tijerina, 393 Fed.Appx. 174 (5th Cir.2010); Licata v. GGNSC Malden Dexter, LLC, 29 Mass. L. Rep. 467, 2012 WL 1414881 at *8 (Mass.Super.2012); Stewart v. GGNSC-Canonsburg, 9 A.3d 215 (Pa.Super.2010); GGNSC Tylertown LLC v. Dillon, 87 So.3d 1063, 1066 (Miss.Ct.App.2011); Geneva-Roth, Capital, Inc. v. Edwards, 956 N.E.2d 1195, 1203 (Ind.App.2011), cert. den., \u2014 U.S. \u2014, 133 S.Ct. 650, 184 L.Ed.2d 459 (2012).",
+        "type": "dissent",
+        "author": "Justice BAER,"
+      }
+    ],
+    "attorneys": [
+      "William Michael Buchanan, Esq., Patrick Louis Mechas, Esq., Ira L. Podheiser, Esq., Burns White LLC, for GGNSC Gettysburg, LP; GGNSC Gettysburg GP, LLC; GGNSC Hldgs., LLC; Golden Nat\u2019l Sr. Care, et al.",
+      "Michael William Bootler, Esq., Matthew Thomas Corso, Esq., Buchanan Ingersoll & Rooney PC, for Manorcare of Carlisle PA, LLC, d/b/a Manorcare Health Services-Carlisle et al.",
+      "Stephen Trzcinski, Esq., Wikes & McHugh, P.A., for Evonne K. Wert, Executrix of the Estate of Anna E. Kepner, Deceased.",
+      "Barbara Axelrod, Esq., Beasley Firm, L.L.C. (The), for Pennsylvania Association for Justice.",
+      "Iris Y. Gonzales, Esq., for AARP Foundation Litigation.",
+      "Sol H. Weiss, Esq., Anapol Schwartz, for American Association for Justice."
+    ],
+    "corrections": "",
+    "head_matter": "124 A.3d 1248\nEvonne K. WERT, Executrix of the Estate of Anna E. Kepner, Deceased v. MANORCARE OF CARLISLE PA, LLC d/b/a Manorcare Health Services-Carlisle; HCR Manorcare, Inc.; Manor Care, Inc.; HCR Healthcare, LLC; HCR II Healthcare, LLC; HCR III Healthcare, LLC; HCR IV Healthcare, LLC: GGNSC Gettysburg, LP, d/b/a Golden Living Center-Gettysburg; GGNSC Gettysburg GP, LLC; GGNSC Holdings, LLC; Golden Gate National Senior Care, LLC; GGNSC Equity Holdings, LLC; GGNSC Administrative Services, LLC. Appeal of GGNSC Gettysburg LP, d/b/a Golden Living Center-Gettysburg; GGNSC Gettysburg GP, LLC; GGNSC Holdings, LLC; Golden Gate National Senior Care, LLC; GGNSC Equity Holdings, LLC and GGNSC Administrative Services, LLC.\nSupreme Court of Pennsylvania.\nArgued: April 7, 2015.\nDecided: Oct. 27, 2015.\nWilliam Michael Buchanan, Esq., Patrick Louis Mechas, Esq., Ira L. Podheiser, Esq., Burns White LLC, for GGNSC Gettysburg, LP; GGNSC Gettysburg GP, LLC; GGNSC Hldgs., LLC; Golden Nat\u2019l Sr. Care, et al.\nMichael William Bootler, Esq., Matthew Thomas Corso, Esq., Buchanan Ingersoll & Rooney PC, for Manorcare of Carlisle PA, LLC, d/b/a Manorcare Health Services-Carlisle et al.\nStephen Trzcinski, Esq., Wikes & McHugh, P.A., for Evonne K. Wert, Executrix of the Estate of Anna E. Kepner, Deceased.\nBarbara Axelrod, Esq., Beasley Firm, L.L.C. (The), for Pennsylvania Association for Justice.\nIris Y. Gonzales, Esq., for AARP Foundation Litigation.\nSol H. Weiss, Esq., Anapol Schwartz, for American Association for Justice.\nSAYLOR, C.J., EAKIN, BAER, TODD, STEVENS, JJ."
+  },
+  "file_name": "0260-01",
+  "first_page_order": 314,
+  "last_page_order": 348
+}

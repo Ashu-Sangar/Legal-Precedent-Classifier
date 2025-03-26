@@ -1,0 +1,67 @@
+{
+  "id": 4234485,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Valerie JONES, Petitioner",
+  "name_abbreviation": "Commonwealth v. Jones",
+  "decision_date": "2013-02-26",
+  "docket_number": "No. 470 WAL 2012",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "619 Pa. 343"
+    },
+    {
+      "type": "parallel",
+      "cite": "62 A.3d 373"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 285,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.14120725523537528
+    },
+    "sha256": "af038aedd779ab6544a77f89897e37a267e67e75e90e5e6c3c943a4d6361e718",
+    "simhash": "1:59b742fff1f70cfa",
+    "word_count": 44
+  },
+  "last_updated": "2023-07-14T21:33:46.130488+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Valerie JONES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of February, 2013, the Application for Appointment of Counsel and the Petition for Allowance of Appeal are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "62 A.3d 373\nCOMMONWEALTH of Pennsylvania, Respondent v. Valerie JONES, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 26, 2013."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 403,
+  "last_page_order": 403
+}

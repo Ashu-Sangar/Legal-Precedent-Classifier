@@ -1,0 +1,106 @@
+{
+  "id": 4078505,
+  "name": "Marie OWENS and Fred Owens, Jr., Petitioners v. WYETH, formerly known as American Home Products Corporation; et al., Respondents",
+  "name_abbreviation": "Owens v. Wyeth",
+  "decision_date": "2014-02-28",
+  "docket_number": "No. 572 EAL 2010",
+  "first_page": "632",
+  "last_page": "633",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "624 Pa. 632"
+    },
+    {
+      "type": "parallel",
+      "cite": "88 A.3d 954"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "85 A.3d 434",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7264601,
+        4078527
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "holding \"[a] company which is responsible for tendering into the market a drug which it knows or should know is so dangerous that it should not be taken by anyone can be said to have violated its duty of care either in design or marketing\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/85/0434-01",
+        "/pa/624/0231-01"
+      ]
+    },
+    {
+      "cite": "624 Pa. 231",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4078527
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "holding \"[a] company which is responsible for tendering into the market a drug which it knows or should know is so dangerous that it should not be taken by anyone can be said to have violated its duty of care either in design or marketing\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/624/0231-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 91,
+    "char_count": 738,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12979598424464128
+    },
+    "sha256": "5e08e3bb4f334c93255002c4d23cbd2f8d4f7af58525cdcc2979ca3688d355e5",
+    "simhash": "1:351b6a1981c805bc",
+    "word_count": 127
+  },
+  "last_updated": "2024-02-27T21:02:06.836768+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marie OWENS and Fred Owens, Jr., Petitioners v. WYETH, formerly known as American Home Products Corporation; et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of February, 2014, the Petition for Allowance of Appeal is GRANTED, the order of the Superior Court is VACATED, and the matter is REMANDED to the Superior Court for consideration in light of Lance v. Wyeth, 624 Pa. 231, 85 A.3d 434 (2014) (holding \u201c[a] company which is responsible for tendering into the market a drug which it knows or should know is so dangerous that it should not be taken by anyone can be said to have violated its duty of care either in design or marketing\u201d). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "88 A.3d 954\nMarie OWENS and Fred Owens, Jr., Petitioners v. WYETH, formerly known as American Home Products Corporation; et al., Respondents.\nSupreme Court of Pennsylvania.\nFeb. 28, 2014."
+  },
+  "file_name": "0632-02",
+  "first_page_order": 682,
+  "last_page_order": 683
+}

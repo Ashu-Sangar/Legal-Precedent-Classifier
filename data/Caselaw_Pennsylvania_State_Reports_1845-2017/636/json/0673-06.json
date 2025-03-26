@@ -1,0 +1,108 @@
+{
+  "id": 12284738,
+  "name": "Com. v. Malone",
+  "name_abbreviation": "Com. v. Malone",
+  "decision_date": "2016-08-25",
+  "docket_number": "107 EAL (2016)",
+  "first_page": "673",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 598",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485995,
+        12485996,
+        12485997,
+        12485998,
+        12485999,
+        12486000,
+        12486001,
+        12486002,
+        12486003,
+        12486004,
+        12486005,
+        12486006,
+        12486007,
+        12486008,
+        12486009,
+        12486010,
+        12486011
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0598-10",
+        "/a3d/141-2/0598-11",
+        "/a3d/141-2/0598-12",
+        "/a3d/141-2/0598-13",
+        "/a3d/141-2/0598-14",
+        "/a3d/141-2/0598-15",
+        "/a3d/141-2/0598-16",
+        "/a3d/141-2/0598-17",
+        "/a3d/141-2/0598-01",
+        "/a3d/141-2/0598-02",
+        "/a3d/141-2/0598-03",
+        "/a3d/141-2/0598-04",
+        "/a3d/141-2/0598-05",
+        "/a3d/141-2/0598-06",
+        "/a3d/141-2/0598-07",
+        "/a3d/141-2/0598-08",
+        "/a3d/141-2/0598-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.884,
+    "sha256": "606178d8f3710de26bb2b7206feb955d5c091dadf588e872483282a9949994fe",
+    "simhash": "1:f204e277545b2373",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Malone"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 598",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Malone\n08/25/2016\n107 EAL (2016)"
+  },
+  "file_name": "0673-06",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

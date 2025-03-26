@@ -1,0 +1,86 @@
+{
+  "id": 3901403,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Stella SLOAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Sloan",
+  "decision_date": "2012-10-24",
+  "docket_number": "No. 452 WAL 2011",
+  "first_page": "161",
+  "last_page": "161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "618 Pa. 161"
+    },
+    {
+      "type": "parallel",
+      "cite": "55 A.3d 1050"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "46 A.3d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4209104,
+        7313100,
+        7313077,
+        4208302
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/616/0122-01",
+        "/a3d/46/0693-02",
+        "/a3d/46/0693-01",
+        "/pa/616/0121-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 475,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.11799480244675542
+    },
+    "sha256": "57c09667a97e27915f331f8fafa696b15c6c1d377722ee7cd5afe917dad422e0",
+    "simhash": "1:35b2732683d39dfe",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T22:43:58.936544+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Stella SLOAN, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of October, 2012, the Petition for Allowance of Appeal is GRANTED, the Order of the Superior Court is VACATED, and this matter is REMANDED to the Superior Court for reconsideration of the trial court\u2019s analysis, and preparation of an opinion, in light of Commonwealth v. Bradford, 46 A.3d 693 (Pa.2012).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "55 A.3d 1050\nCOMMONWEALTH of Pennsylvania, Respondent, v. Stella SLOAN, Petitioner,\nSupreme Court of Pennsylvania.\nOct. 24, 2012."
+  },
+  "file_name": "0161-01",
+  "first_page_order": 237,
+  "last_page_order": 237
+}

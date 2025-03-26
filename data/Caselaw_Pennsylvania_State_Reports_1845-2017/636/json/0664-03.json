@@ -1,0 +1,80 @@
+{
+  "id": 12283497,
+  "name": "Fessler v. Watchtower Bible and Tract Soc. of New York, Inc.",
+  "name_abbreviation": "Fessler v. Watchtower Bible & Tract Soc. of New York, Inc.",
+  "decision_date": "2016-07-27",
+  "docket_number": "122 EAL (2016)",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 44",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6823367
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/131/0044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 202,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24915274983213306
+    },
+    "sha256": "1dd0e6361b7b60ac343ff3e2036c21a7c1a5e58aa607d14826a0422481b3d522",
+    "simhash": "1:0d72baaae38398de",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fessler v. Watchtower Bible and Tract Soc. of New York, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 44",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fessler v. Watchtower Bible and Tract Soc. of New York, Inc.\n07/27/2016\n122 EAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0664-03",
+  "first_page_order": 716,
+  "last_page_order": 716
+}

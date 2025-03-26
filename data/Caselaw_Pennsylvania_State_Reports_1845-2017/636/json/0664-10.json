@@ -1,0 +1,80 @@
+{
+  "id": 12283599,
+  "name": "Kennedy v. Robert Morris University",
+  "name_abbreviation": "Kennedy v. Robert Morris University",
+  "decision_date": "2016-08-02",
+  "docket_number": "93-94 WAL (2016)",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 38",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6813922
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/133/0038-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 94,
+    "ocr_confidence": 0.835,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2491597000442883
+    },
+    "sha256": "60d0ffbde5828c1552a95216981703f6ca5386d5ab4facd4b62ad2c7101945d9",
+    "simhash": "1:3e53b9efaf470b83",
+    "word_count": 14
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kennedy v. Robert Morris University"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 38",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kennedy v. Robert Morris University\n08/02/2016\n93-94 WAL (2016)"
+  },
+  "file_name": "0664-10",
+  "first_page_order": 716,
+  "last_page_order": 716
+}

@@ -1,0 +1,100 @@
+{
+  "id": 16707,
+  "name": "COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Respondents v. Timothy KRUTH, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kruth",
+  "decision_date": "2004-01-22",
+  "docket_number": "Petition No. 423 WAL 2003",
+  "first_page": "643",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "576 Pa. 643"
+    },
+    {
+      "type": "parallel",
+      "cite": "841 A.2d 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2003 WL 22971264",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "838 A.2d 700",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9299362,
+        16694
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0700-01",
+        "/pa/576/0085-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 85",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16694
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0085-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 528,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.35338373009391666
+    },
+    "sha256": "a5adf35b8e470540d92ec7caf178bec90a7be1df5923a218e95f50ce71a04fde",
+    "simhash": "1:47bc967ff781ce62",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T22:13:59.925097+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Respondents v. Timothy KRUTH, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of January, 2004, the Petition for Allowance of Appeal is hereby GRANTED, and the case is remanded to the Commonwealth Court for consideration of this Court\u2019s decision in McKinley v. Commonwealth, Dept. of Transp., Bureau of Driver Licensing, 576 Pa. 85, 838 A.2d 700, 2003 WL 22971264, (Pa.2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "841 A.2d 120\nCOMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Respondents v. Timothy KRUTH, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 22, 2004."
+  },
+  "file_name": "0643-01",
+  "first_page_order": 705,
+  "last_page_order": 705
+}

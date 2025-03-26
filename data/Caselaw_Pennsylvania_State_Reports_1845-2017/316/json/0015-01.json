@@ -1,0 +1,433 @@
+{
+  "id": 1158982,
+  "name": "Harrison's Estate",
+  "name_abbreviation": "Harrison's Estate",
+  "decision_date": "1934-06-30",
+  "docket_number": "Appeal, No. 55",
+  "first_page": "15",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "316 Pa. 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "303 Pa. 193",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1130002
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/303/0193-01"
+      ]
+    },
+    {
+      "cite": "301 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126447
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/301/0183-01"
+      ]
+    },
+    {
+      "cite": "263 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/263/0393-01"
+      ]
+    },
+    {
+      "cite": "241 Pa. 38",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/241/0038-01"
+      ]
+    },
+    {
+      "cite": "213 Pa. 526",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        943351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/213/0526-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 67",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/87/0067-01"
+      ]
+    },
+    {
+      "cite": "272 Pa. 237",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1068393
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/272/0237-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066005
+      ],
+      "pin_cites": [
+        {
+          "page": "212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/270/0210-01"
+      ]
+    },
+    {
+      "cite": "106 A. 731",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "116 A. 538",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "112 A. 778",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "88 A. 71",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "63 A. 246",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "154 A. 288",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "133 N. W. 901",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "153 Iowa 344",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2183633
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/153/0344-01"
+      ]
+    },
+    {
+      "cite": "267 S. W. 244",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "case_ids": [
+        10299058
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw/267/0244-01"
+      ]
+    },
+    {
+      "cite": "114 Tex. 418",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2279837
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/tex/114/0418-01"
+      ]
+    },
+    {
+      "cite": "198 Pac. 795",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "185 Cal. 763",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2133005
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal/185/0763-01"
+      ]
+    },
+    {
+      "cite": "206 Pac. 628",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "188 Cal. 336",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2255715
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal/188/0336-01"
+      ]
+    },
+    {
+      "cite": "242 N. Y. Supp. 415",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "136 Misc. 230",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        798168
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc/136/0230-01"
+      ]
+    },
+    {
+      "cite": "116 N. Y. Supp. 304",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        3336708
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nys/116/0304-01"
+      ]
+    },
+    {
+      "cite": "131 App. Div. 875",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2567152
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad/131/0875-01"
+      ]
+    },
+    {
+      "cite": "3 Curt. 770",
+      "category": "reporters:federal",
+      "reporter": "Curt.",
+      "year": 1844,
+      "opinion_index": 1
+    },
+    {
+      "cite": "303 Pa. 193",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1130002
+      ],
+      "pin_cites": [
+        {
+          "page": "197"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/303/0193-01"
+      ]
+    },
+    {
+      "cite": "263 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047416
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/263/0393-01"
+      ]
+    },
+    {
+      "cite": "241 Pa. 38",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976055
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/241/0038-01"
+      ]
+    },
+    {
+      "cite": "213 Pa. 526",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        943351
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/213/0526-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 67",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057812
+      ],
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/87/0067-01"
+      ]
+    },
+    {
+      "cite": "272 Pa. 237",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1068393
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/272/0237-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066005
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/270/0210-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 733,
+    "char_count": 14304,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 5.055229786499883e-07,
+      "percentile": 0.9372978887958333
+    },
+    "sha256": "3c07b53010618ee1b013af369226bf8af301dd4fe14699d24de77d9964164bbb",
+    "simhash": "1:a773bdfc8880f6c9",
+    "word_count": 2506
+  },
+  "last_updated": "2024-02-27T19:15:15.189010+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schafeer, Maxey, Drew and Linn, JJ.",
+      "Mr. Justice Maxey concurred in this opinion."
+    ],
+    "parties": [
+      "Harrison\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Schaffer,\nCharles J. Harrison died leaving a will dated May 29, 1926, which was admitted to probate on November 14, 1932. On December 6,1932, Nelle H. Brydon, decedent\u2019s daughter, presented a petition to the orphans\u2019 court for appeal from the act of the register in admitting the will to probate. Among other things, petitioner alleged that the decedent on June 17,1927, had executed another will which had been lost, concealed or destroyed, in which he revoked his prior will and disposed of his estate in equal parts to his two children, petitioner and Charles J. Harrison, Jr. She prayed for an issue to determine, inter alia, whether the decedent by his subsequent will had revoked the earlier one. The orphans\u2019 court refused the issue and Nelle H. Brydon has appealed.\nThe only questions presented for our consideration are those which arise out of the alleged revocation of the probated will. May a lost will be proven by the testimony of one witness and corroborating circumstances or must there be two witnesses as the Wills Act prescribes?\nWills differ from all other documents. By statute and judicial decision they are put in a class by themselves in order as far as possible to safeguard their integrity. One of the reasons for this is that the person most concerned about a will, cannot come forward to defend it. Death has stilled his tongue. In the reports on the shelves of law libraries there are hundreds of cases in which fraudulent writings have been set up as valid testaments. Judges have had to take account of this; hence the endeavor to circumvent cupidity and cunning by hedging about the disposition which a man makes of his property by every reasonable safeguard which human foresight can bring to bear. This is a part of the broad public policy which society, represented by the State, announces through its tribunals, judicial and legislative, to increase the difficulties and hazards standing in the way of the would-be perpetrators of fraud.\nAppellant contends that she is a competent witness and that where there is one competent witness to a lost will, circumstances may supply the lack of another. Assuming, as we do, that there was a later will and that appellant was a competent witness, we are of opinion that circumstances may not supply the lack of another witness. Section 2 of the Wills Act provides that \u201cEvery will shall be in writing......signed at the end thereof, and, in all cases, shall be proved by the oaths and affirmations of two or more competent witnesses; otherwise such wills shall have no effect.\u201d A will is proved, therefore, not by circumstances, but by the direct testimony either of two witnesses who saw the testator sign it or by two witnesses who are familiar with his signature and identify it.\nNo witness was called who testified that he saw the decedent sign the lost will. One of the witnesses whose name appeared as a subscribing witness upon what purported to be a copy of the alleged will could not remember signing such a document or seeing the decedent execute it. The other name appearing upon the copy as a subscribing witness was that of a man who had predeceased the testator. The appellant testified that she saw the original of the lost will, and identified her father\u2019s signature affixed to it. No other witness so testified. A lost will should not be capable of proof in a way that one produced could not be proven. Circumstances cannot take the place of the second witness to a will which is produced. They cannot legally or safely be permitted to do so in the case of a will which is not produced.\nThe proofs required to establish a lost will have always been required to be strict and complete, as they should be. All our cases show this. Where a lost will is sought to be established there must be produced, not only two competent witnesses of its execution, but also two witnesses to show its contents. Not otherwise can it be known whether or not, upon a consideration of the entire document, its true construction is as appellant claims it is from the consideration of a single sentence which she alleges appeared in it. In Hodgson\u2019s Est., 270 Pa. 210, 212, we said, speaking through Mr. Justice Kephart: \u201cWas there sufficient proof of the contents of the will, as executed before the two subscribing witnesses, to admit the copy thus identified to probate? ...... The attesting witnesses knew nothing of the contents of the will, nor did they know (nor could they know, without knowledge of the original) that the supposed reproduction, as offered for probate, was in substance a copy of the instrument they had witnessed. Their testimony was effective for but one purpose, and a very important purpose. It proved a will had been duly executed. There was no other evidence offered tending to establish the contents, nor was any memorandum produced for this purpose from any other person than the scrivener, and, assuming decedent identified the will by calling it the Riddle will (that being the scrivener\u2019s name), still there is a fatal hiatus in the evidence which avoids bringing it within the Wills Act......requiring the contents of a lost will to be proved by the oath or affirmation of two or more competent witnesses \u2014 otherwise the will shall have no effect. Under the act, to establish a lost will there must be proof by two witnesses, not only of due execution, but of the contents, substantially as set forth in the copy offered for probate. Proof of a lost will is made out only by proof, of execution and of contents, by two witnesses, \u2018each of whom must separately depose to all the facts necessary to complete the chain of evidence, so that no link in it may depend on the credibility of bnt one\u2019: Hock v. Hock, 6 S. & R. 47.\u201d See also Lawman\u2019s Est., 272 Pa. 237, in which what was said in Hodgson\u2019s Estate is repeated and reaffirmed. Other cases support ing the ruling are Foster\u2019s App., 87 Pa. 67; Michell v. Low, 213 Pa. 526; Rhoads\u2019s Est., 241 Pa. 38; Glockner v. Glockner, 263 Pa. 393. There was no proof by two witnesses of the signature of the deceased. Only the appellant identified it. The copy of the alleged will is dated June 17, 1927. Appellant says she saw the original on June 6, 1931, when a copy, of it was made, and identified her father\u2019s signature and those of the subscribing witnesses. This is all the proof there is of execution and, assuming its competency, it is not sufficient. Whether the contents were proven by two witnesses, appellant and the stenographer who made the copy for her, is open to question. We need not determine this since proof of execution fails.\nAppellant argues that while the alleged will of June 17, 1927, may not have been sufficiently proved to entitle it to probate as a will, it should be accepted as an \u201cother writing\u201d showing revocation of the probated will. The statute of wills (Act, June 7, 1917, P. L. 403, 20 P. S., section 271) does not provide that the revoking document must be another will. It can be any sort of writing. Section 20 says: \u201cNo will in writing......shall be repealed, nor shall any devise or direction therein be altered, otherwise than by some other will or codicil in writing, or other writing declaring the same, executed and proved in the manner hereinbefore provided......\u201d The requirement \u201cexecuted and proved in the manner hereinbefore provided\u201d refers back to section 2 \u2014 by \u201ctwo or more competent witnesses.\u201d This is the way that a revocation must be proved, \u201cproved in the manner hereinbefore provided.\u201d Since the instrument of June 17, 1927, was not so proved, it cannot serve as a revocation any more than it may serve as a will.\nIt may not be amiss to make brief reference to and some comment upon the larger question involved in this appeal. May an existing will be rendered nugatory by proof of a subsequent writing alleged to have contained a revocation, where the writing itself is not produced? We call attention to Ford\u2019s Est., 301 Pa. 183, and Shelter\u2019s Est., 303 Pa. 193, where we commented upon the production of revocatory writings. If production of the revoking writing is not necessary before revocation can be accomplished, all that would be required to overthrow an otherwise valid will would be to have two evil disposed persons testify that they had seen a writing signed by the deceased, it matters not how informal, of later date , than the will, in which he declared that he revoked it. Such testimony would be much easier to procure than evidence of the complete contents of a lost will and would be most difficult to discredit. The possibility of such testimony would cause all wills to be insecure from the machinations of the designing and corrupt. Hence the statute requires that the revocation must be by a writing and it may be that this means by a writing which is produced.\nWhile it is charged by appellant that the probated will of her father is an unnatural one, because it cuts her out of all participation in his estate, this may not correctly describe it. Testator delivered the will to his son for safe keeping, and in connection therewith delivered to him also a letter, in which he enjoined the son to give to his sister from the estate an amount which would equal the son\u2019s share, taking into account certain expenditures which the father had incurred on his daughter\u2019s and her husband\u2019s account. The son in a letter given to his sister shortly after the will was executed said to her that one-half of the estate in accordance with his father\u2019s letter is to go to her and her heirs. In his answer filed he affirms this undertaking.\nWe think the case was properly disposed of by the court below.\nDecree affirmed at appellant\u2019s cost.\nDissenting Opinion by",
+        "type": "majority",
+        "author": "Mr. Justice Schaffer,"
+      },
+      {
+        "text": "Mk. Justice Linn :\nI dissent from the view of the majority on what is said to be \u201cthe larger question involved in this appeal,\u201d stated in the opinion as follows: \u201cMay an existing will be rendered nugatory by proof of a subsequent writing alleged to have contained a revocation, where the writing itself is not produced?\u201d\nWhile the Wills Act prohibits oral revocation, no support can be found in the act for the proposition that a lost written revocation cannot be proved, if the secondary evidence is sufficient. The pertinent portions of the act are quoted by the majority: \u201cSection 20 says: \u2018No will in writing.......shall be repealed......otherwise than by some other will or codicil in writing, or other writing declaring the same, executed and proved in the manner hereinbefore provided......\u2019 The requirement \u2018executed and proved in the manner hereinbefore provided\u2019 refers back to section 2 \u2014 \u2018by......two or more competent witnesses,\u2019 \u201d as in the case of a will.\nI assume that it is not proposed to overrule the cases holding that a lost will may be proved. In Foster\u2019s App., 87 Pa. 67, 75, we said: \u201cThe will then being in existence at the death of the testator unrevoked by him, its loss or accidental destruction differs not from the loss or destruction of any other solemn instrument, such as a deed, or note or bond, or a record. The contents, therefore, may be proved in like manner, as shown by the authorities cited. It is a postulate of the question that the testator left behind him at death a last will in writing, legally executed and published, and unrevoked by any act or direction of his. That the law will not tolerate any making of a will for him by other means than his own act in writing duly executed, is clear. But such a will having a legal existence, yet accidentally lost or destroyed, the establishment of its contents is not the making of a new will, but a restoration merely of that which the testator himself made and left behind him to govern his estate. There is no greater sanctity, in this respect, than the restoration by parol evidence of other instruments equally solemn and having an equal effect in the disposition of property. The law simply comes in aid of his own legally performed act, to prevent his intentions from being frustrated or defrauded.\u201d Why should we not reach the same construction of the words providing the measure of proof of the written revocation? So far as appears, in all other jurisdictions Avhere the question has arisen, it has been held that a lost will containing a clause of revocation may be proved for the purpose of showing revocation of prior wills: James v. Cohen, 3 Curt. 770, 163 Eng. Rep. 896 (1844) ; In re Wear, 131 App. Div. 875, 116 N. Y. Supp. 304; In re Hedge\u2019s Will, 136 Misc. 230, 242 N. Y. Supp. 415; Estate of Johnston, 188 Cal. 336, 206 Pac. 628; In re Thompson\u2019s Est., 185 Cal. 763, 198 Pac. 795; Brackenridge v. Roberts, 114 Tex. 418, 267 S. W. 244; Blackett v. Zeigler, 153 Iowa 344, 133 N. W. 901. See also Restatement, Contracts, section 216; Wigmore, Evidence, section 1267; Willis-ton, Contracts, sections 1600, 1884; Lost Instruments, 38 C. J. 247 et seq.\nMr. Justice Maxey concurred in this opinion.\nThe following statement to the contrary in Shetter\u2019s Est., 303 Pa. 193, at 197, 154 A. 288, was not necessary to the decision, and is, therefore, not now controlling: \u201cIt is attempted to be shown, by the testimony of witnesses that there was a subsequent will which contained .a clause revoking the earlier one, but that writing is not brought forward, indeed it is shown by their testimony that it was destroyed. The earlier will could not be repealed and wiped out in this way. It cannot be shown by oral testimony alone that a will has been revoked. A writing declaring its revocation must be produced, signed by the decedent, before an earlier will can be rendered nugatory.\u201d\nMichell v. Low, 213 Pa. 526, 63 A. 246; Rhoads\u2019s Est., 241 Pa. 38, 88 A. 71; Hodgson\u2019s Est., 270 Pa. 210, 112 A. 778; Lawman\u2019s Est., 272 Pa. 237, 116 A. 538; Glockner v. Glockner, 263 Pa. 393, 106 A. 731.\n\u201cThe loss or destruction of a memorandum does not deprive it of its effect as a satisfaction of the statute, and oral evidence of the making and contents of the memorandum is admissible.\u201d",
+        "type": "dissent",
+        "author": "Mk. Justice Linn :"
+      }
+    ],
+    "attorneys": [
+      "Joseph Levy, with him W. Curtis Truxal, Ernest O. Looser and James O. Courtney, for appellant.",
+      "Charles F. Uhl, with him Charles H. Ealy, of Uhl & Ealy and B. B. Boose, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Harrison\u2019s Estate.\nArgued March 21, 1934.\nBefore Frazer, C. J., Simpson, Kephart, Schafeer, Maxey, Drew and Linn, JJ.\nJoseph Levy, with him W. Curtis Truxal, Ernest O. Looser and James O. Courtney, for appellant.\nCharles F. Uhl, with him Charles H. Ealy, of Uhl & Ealy and B. B. Boose, for appellee.\nJune 30, 1934:"
+  },
+  "file_name": "0015-01",
+  "first_page_order": 43,
+  "last_page_order": 50
+}

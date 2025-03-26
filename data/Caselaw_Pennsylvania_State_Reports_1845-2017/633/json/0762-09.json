@@ -1,0 +1,63 @@
+{
+  "id": 12282904,
+  "name": "Com. v. Edwards",
+  "name_abbreviation": "Com. v. Edwards",
+  "decision_date": "2015-10-07",
+  "docket_number": "281 EAL (2015)",
+  "first_page": "762",
+  "last_page": "762",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 762"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 49,
+    "ocr_confidence": 0.912,
+    "sha256": "7c274290d70cc1cfc3d6d671e962ff6741ce802aa4cf090ad8c1aef3c95739c3",
+    "simhash": "1:291a62d0a05c2749",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T17:19:09.940441+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Edwards"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Edwards\n10/07/2015\n281 EAL (2015)"
+  },
+  "file_name": "0762-09",
+  "first_page_order": 816,
+  "last_page_order": 816
+}

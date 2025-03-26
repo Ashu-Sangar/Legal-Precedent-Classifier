@@ -1,0 +1,100 @@
+{
+  "id": 960497,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, John S. HUDAK, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hudak",
+  "decision_date": "1997-06-25",
+  "docket_number": "Petition No. 0294 W.D. Allocatur Docket 1996",
+  "first_page": "61",
+  "last_page": "61",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "548 Pa. 61"
+    },
+    {
+      "type": "parallel",
+      "cite": "694 A.2d 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "692 A.2d 139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11912368,
+        11912290,
+        468652,
+        468719
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/692/0139-02",
+        "/a2d/692/0139-01",
+        "/pa/547/0519-01",
+        "/pa/547/0518-02"
+      ]
+    },
+    {
+      "cite": "547 Pa. 519",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468652
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0519-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 413,
+    "ocr_confidence": 0.574,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.033808534783302036
+    },
+    "sha256": "0b84b2b5df8efac1587e9c96fcaf4e77f72d3b0b43c0e1824b545793cef029cc",
+    "simhash": "1:243d22f743d3a9be",
+    "word_count": 69
+  },
+  "last_updated": "2024-02-27T20:52:16.561303+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, John S. HUDAK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 25th day of June, 1997, we GRANT the Petition for Allowance of Appeal and VACATE the Order of the Superior Court and REMAND to the Superior Court for reconsideration of its decision in light of Commonwealth v. McPhail, 547 Pa. 519, 692 A.2d 139 (1997).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "694 A.2d 342\nCOMMONWEALTH of Pennsylvania, Respondent, John S. HUDAK, Petitioner.\nSupreme Court of Pennsylvania.\nJune 25, 1997."
+  },
+  "file_name": "0061-01",
+  "first_page_order": 407,
+  "last_page_order": 407
+}

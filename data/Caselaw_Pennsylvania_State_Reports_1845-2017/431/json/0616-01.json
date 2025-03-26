@@ -1,0 +1,606 @@
+{
+  "id": 1917402,
+  "name": "Matthews Estate",
+  "name_abbreviation": "Matthews Estate",
+  "decision_date": "1968-10-03",
+  "docket_number": "Appeals, Nos. 53 and 94",
+  "first_page": "616",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "431 Pa. 616"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "98 Pa. 85",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        496899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/98/0085-01"
+      ]
+    },
+    {
+      "cite": "15 Phila. 344",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Legal Intell. 383",
+      "category": "reporters:state",
+      "reporter": "Leg. Int.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Pa. 530",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        550020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/114/0530-01"
+      ]
+    },
+    {
+      "cite": "3 Pa. Dist. 457",
+      "category": "reporters:state",
+      "reporter": "Pa. D.",
+      "year": 1893,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 A. 19",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1889,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        565759
+      ],
+      "year": 1889,
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/127/0244-01"
+      ]
+    },
+    {
+      "cite": "9 A. 520",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1887,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Pa. 308",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        554348
+      ],
+      "year": 1887,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/116/0308-01"
+      ]
+    },
+    {
+      "cite": "5 A. 4",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1886,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Pa. 634",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        546522
+      ],
+      "year": 1886,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/112/0634-01"
+      ]
+    },
+    {
+      "cite": "111 A. 919",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1920,
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 Pa. 234",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063490
+      ],
+      "year": 1920,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/269/0234-01"
+      ]
+    },
+    {
+      "cite": "129 Atl. 105",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "283 Pa. 313",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090522
+      ],
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/283/0313-01"
+      ]
+    },
+    {
+      "cite": "113 Atl. 186",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 Pa. 526",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061574
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/268/0526-01"
+      ]
+    },
+    {
+      "cite": "56 Atl. 439",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Pa. 226",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        933496
+      ],
+      "pin_cites": [
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/207/0226-01"
+      ]
+    },
+    {
+      "cite": "185 A. 782",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "323 Pa. 113",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169580
+      ],
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0113-01"
+      ]
+    },
+    {
+      "cite": "239 A. 2d 464",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Pa. 27",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1913507
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "37, 38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/429/0027-01"
+      ]
+    },
+    {
+      "cite": "62 A. 2d 904",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476446
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/361/0105-01"
+      ]
+    },
+    {
+      "cite": "3 Pa. Dist. 755",
+      "category": "reporters:state",
+      "reporter": "Pa. D.",
+      "year": 1894,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454229
+      ],
+      "year": 1884,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/105/0258-01"
+      ]
+    },
+    {
+      "cite": "2 A.L.R. 2d 349",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 A. 940",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Pa. Superior Ct. 463",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1009046
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/131/0463-01"
+      ]
+    },
+    {
+      "cite": "130 A. 2d 143",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "388 Pa. 39",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1272506
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/388/0039-01"
+      ]
+    },
+    {
+      "cite": "156 A. 2d 307",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 Pa. 615",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1286297
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "619, 620"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/397/0615-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. 448",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418868
+      ],
+      "year": 1861,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/37/0448-01"
+      ]
+    },
+    {
+      "cite": "223 A. 2d 694",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "423 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1903201
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/423/0273-01"
+      ]
+    },
+    {
+      "cite": "123 A. 646",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1924,
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 Pa. 30",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1083460
+      ],
+      "year": 1924,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/279/0030-01"
+      ]
+    },
+    {
+      "cite": "185 A. 2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "409 Pa. 44",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1883179
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/409/0044-01"
+      ]
+    },
+    {
+      "cite": "146 A. 2d 343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Pa. Superior Ct. 198",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        743600
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "199, 200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/188/0198-01"
+      ]
+    },
+    {
+      "cite": "240 A. 2d 818",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Pa. 585",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1913539
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/429/0585-01"
+      ]
+    },
+    {
+      "cite": "52 A. 2d 576",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 Pa. 614",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470652
+      ],
+      "year": 1947,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/356/0614-01"
+      ]
+    },
+    {
+      "cite": "170 A. 268",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 Pa. 24",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1154733
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/314/0024-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 960,
+    "char_count": 19135,
+    "ocr_confidence": 0.471,
+    "pagerank": {
+      "raw": 2.0332377629955107e-07,
+      "percentile": 0.7468614965582936
+    },
+    "sha256": "f9701fb558767dc6d5f2c9d19e67f87127bf9b65a4234a6071645b6aa0f3a7d9",
+    "simhash": "1:9045b530ecece47e",
+    "word_count": 3269
+  },
+  "last_updated": "2024-02-27T23:35:33.829175+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Egberts) JJ."
+    ],
+    "parties": [
+      "Matthews Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Jones,\nJames Z. Matthews (decedent), a resident of Delaware County, died testate on March 10, 1961, survived by his wife, Levanta Matthews. By his will, decedent devised and bequeathed his residuary estate to .the Central-Penn National Bank in trust for the following purposes: one share to be held in trust for his widow for life and the other share in trust for his nephew, Theotokis Matthews for life; upon the death of either the widow or the nephew, the income from both shares was to be paid to the survivor; upon the survivor\u2019s death, the principal was to be paid to the nephew\u2019s issue.\nDecedent\u2019s widow elected to take against the will and one-half of the estate became distributable to her free of the testamentary trust and the other one-half of tlie estate will be held in trust for the nephew for life with remainder to his issue.\nWhen the personal representative\u2019s account was filed, exceptions to the account were filed both by the widow and the nephew. After two days of hearing before the Orphans\u2019 Court of Delaware County, the court appointed Walter Strine, Jr., Esq., as master and auditor to take testimony, hear legal arguments and recommend findings of fact and conclusions of law with respect to the exceptions.\nOnly several of the exceptions are before this Court. These exceptions are: (1) the failure of the personal representative-accountant to include among estate assets an additional sum of $53,600 received by decedent shortly before his death in connection with the sale of his partnership interest in a tavern-restaurant business; (2) the allowance of a credit to the personal representative-accountant for the payment to one Steven Zenokis, a claimant to the fund, of the balance in a bank account held in decedent\u2019s name; (3) the allowance of a credit to the personal representative-accountant for payment of income tax deficiencies for the years 1954, 1955 and 1957 (totalling $4,522.44) and a fee to an accountant for services rendered in the income tax matter. The master recommended, and the court adopted such recommendation, that exceptions (1) and (2) supra, be dismissed and that exception (3) be sustained. Upon the entry of a final decree, both the widow and the nephew filed the appeals presently before this Court.\nAppeal of Levanta Matthews (The Widow)\n(No. 94 January Term 1968)\nThe final decree in the court below was entered on June 9, 1967 and Levanta Matthews filed a timely appeal, on August 2, 1967 and gave notice of said appeal, under Rule 63 of this Court, on August 22, 1967. However, the writ of certiorari issued by this Court was not lodged in the court below until May 8, 1968, eight and one-half months after the appeal was filed and seven days subsequent to oral argument of the appeal.\nWhile appellant did file her appeal within the statutory period, she failed to perfect her appeal within a reasonable. time after the date of her appeal by lodging the writ of certiorari in the court below. See: Dziengielewski v. School District, 314 Pa. 24, 170 A. 268 (1934); Fenerty Disbarment Case, 356 Pa. 614, 616-618 inc., 52 A. 2d 576 (1947); Hodge v. Me-Bee Co. Inc., 429 Pa. 585, 589, 240 A. 2d 818 (1968); Miller Appeal, 188 Pa. Superior Ct. 198, 199, 200, 146 A. 2d 343 (1958).\nSince the writ was not lodged in the court below until eight and one-half months after the appeal was filed and then only after the delinquency was called to counsel\u2019s attention at oral argument of this appeal, we have no other recourse than to quash this appeal.\nAppeal of Theotokis Matthews and John J. Donohue\nDecedent and two other persons were partners in the ownership and operation of a tavern-restaurant which was conducted on premises owned by decedent and his wife as tenants by the entireties. At the time in question, the partnership leased the premises from decedent and his wife under a written lease which provided for a gross rental of $7200 annually and at the time in question had ten years to run.\nAbout six months before his death, negotiations commenced between the decedent and his two partners looking toward the sale by the former to the latter of decedent\u2019s partnership interest. After lengthy negotiations, an agreement finally was reached whereby decedent would be paid $46,400 and the existing lease for the premises cancelled and a new 30 year lease entered into at a gross rental of $11,866 annually, a net increase over the rental in the previous lease of $4,666.\nUpon decedent\u2019s death, the widow, as surviving tenant by the entireties, claimed that all the future increased rent belonged to her and not to the estate. The master recommended and the court below decreed that the increased rent belonged to the widow and was not an estate asset on the ground that a presumptive gift thereof from decedent to his wife had been established.\nThe master found as a fact that: \u201cThe initial contemplated price for the sale of decedent\u2019s partnership interest was $100,000.00 and much of the increase in rental under the lease was attributable to the consideration received for decedent\u2019s sale of his partnership interest, although the exact amount so attributable was not established.\u201d Such finding was approved by the court below. In Watt Estate, 409 Pa. 44, 50, 185 A. 2d 781 (1962), we said that: \u201c. . . findings of fact of an auditor, confirmed or approved by the court below, will not be disturbed on appeal except for clear error or unless unsupported by the evidence: [citing authorities]. However, this rule has no application where the findings are only inferences or deductions from other facts or conclusions from reasoning [citing an authority].\u201d See also: Standard Penna. Practice, Vol. 9 (Revised), Ch. 40, \u00a7119 and authorities therein cited. Cf. Miller\u2019s Estate, 279 Pa. 30, 123 A. 646 (1924).\nFrom our reading of this record, we are convinced that the factual finding that the initial price contemplated for the sale of the partnership interest was $100,000 and that, although the agreement for the sale recited a consideration of $46,400,00, the entry into a new lease with an increased rental was part and parcel of the total consideration bargained for and received by the decedent is fully supported by the evidence.\nWhen analyzed, the transaction appears simple and free from difficulty. Decedent alone owned an interest in the partnership which he wanted to sell, initially at least, for $100,000. Lengthy negotiations with his two partners ensued. The two partners finally agreed to a payment to decedent of $46,400 of which $21,400 was paid in cash and a promissory note given for $25,-000. It was to the interest of the purchasing partners to insure, for as long as possible, the use of the premises for their tavern-restaurant business and, under their extant lease, they had only ten years of assurance of such use. It was to decedent\u2019s interest, \u2022 decedent being about to retire from business activities, to increase the income from the leased premises. The property leased was owned by himself and his wife, as tenants by the entireties, and any change in the lease Avould be a matter for them jointly.\nThe new lease which the parties entered into was vastly different from the lease then in existence. The old lease had 10 years to run, whereas the new lease had 80 years to run, thus providing a benefit to the purchasing-partners in assuming them greater longevity in the use of the premises; the old lease called for a gross rental of $7200, the new lease a gross rental of $11,866 or an increase of $4,666 annually thus providing a benefit not only to decedent but to his co-tenant by the entireties; the new lease granted rights to the lessee not provided in the old lease \u2014 restrictive covenants as to use of adjoining land \u201coAvned by decedent and wife\u201d for a restaurant, grant of a right of way to lessees over the adjoining land and the right of assignment of the lease. The extended term of the lease and the grant of the additional rights not only justified the increase of the rental but to the purchasing partners enhanced the value of that which they were purchasing from decedent. The purchase of the partnership interest and the new lease were all part and parcel of the same \u201cball of wax.\u201d\nAn alteration of the old lease terms and any extension of its terms required the cooperation of decedent and his wife because it was their, not his, property. When, as found by the master and confirmed by the court below, decedent, as part of the consideration for the gale of his partnership, agreed to accept an increased rental, he presumptively gave his interest in the increased rental to his wife who, upon decedent\u2019s death, became entitled, as the surviving tenant by the entireties, to the entire increased rental for the term of the lease.\nNeither Uccellini v. Uccellini, 423 Pa. 273, 223 A. 2d 694 (1966), nor Trimble v. Reis, 37 Pa. 448 (1861), relied upon by appellant, is apposite to the case at bar.\nWe, therefore, conclude the personal representative-accountant properly excluded the increased rental from the account as an estate asset.\nThe nephew next urges that the court below erred in allowing the personal representative-accountant to take credit for paying over the balance of a bank account, approximately $3600, held in decedent\u2019s name when decedent died to one Steven Yenokis.\nThe master found as facts: (a) in the latter part of 1960, decedent entered into a lease with Yenokis and one Edward Salmons for the rental of a plot of ground which decedent owned in Broomall, Delaware County, upon which decedent was to construct a restaurant for a sum not to exceed $25,000 which restaurant was to revert to decedent on termination of the lease; (b) decedent established a bank account titled \u201cJames Z. Matthews, Construction Account\u201d on which either decedent or Yenokis could draw checks in connection with the building construction; (c) the cost of construction exceeded the $25,000 deposited by decedent in the account by $6,000; (d) the balance in the account when decedent died was $3,612.99 and this balance was paid to Yenokis by the personal representative-accountant.\nThe appellant contends that the only witness called by the personal representative-accountant was Yenokis, that he was an incompetent witness under the so-called \u201cDead Man\u2019s Act\u201d, that the findings of fact of the master, confirmed by the court, were based on incompetent evidence and must be set aside and the accountant surcharged for its improper payment to Yenokis.\nThe posture in which this matter arose must be noted. Yenokis, at the audit, was not making any claim against the estate because he had been paid by the personal representative of the estate; therefore, the question presented is not that of Yenokis, claimant, against the estate but rather that of a claim by a beneficiary against the personal representative-accountant because, allegedly, the latter improperly paid Yenokis\u2019 claim. The case at bar presents a situation wherein a challenge is made to the competency of a paid claimant against a decedent\u2019s estate to testify in a proceeding in which a beneficiary of the estate seeks to surcharge the personal representative for having paid the claim.\nThe burden to prove incompetency rests upon the nephew, competency to testify being the rule and incompetency the exception: (Rosche v. McCoy, 397 Pa. 615, 619, 620, 156 A. 2d 307 (1959) and authorities therein cited; Hendrickson Estate, 388 Pa. 39, 44, 130 A. 2d 143 (1957)). The so-called \u201cDead Man\u2019s Act\u201d, supra, provides, inter alia, an exception to the general rule of competency and \u201cdisqualifies as a witness a \u2018surviving\u2019 or \u2018remaining\u2019 party or \u2018other person\u2019 whose interest is adverse to one who is dead and proscribes any testimony by such party or person against the deceased as to matters which occurred before death if the deceased had any right in the subject matter which has passed to a party of record.\u201d (Hendrickson Estate, supra, p. 45). In Hendrickson, we further said that \u201cthree conditions must exist before any such witness is disqualified: (1) the deceased must have had an actual right or interest in the matter at issue, . . .; (2) the interest of the witness \u2014 not simply the testimony- \u2014 must be adverse; (3) a right of the deceased must have passed to a party of record who represents the deceased\u2019s interest\u201d (p. 45).\nIn Brown\u2019s Estate, 131 Pa. Superior Ct. 463, 200 A. 940 (1938), certain heirs had excepted to a decree of the Orphans\u2019 Court because it had not surcharged the executor for negligence in failing to collect a note allegedly owed decedent by a daughter of decedent as against which the statute of limitations had run by the time the account was filed. Insofar as presently pertinent, the Superior Court held (a) because the daughter was no longer liable on the note she was a competent witness at the hearing to surcharge the executor and (b) since the attempted surcharge \u201chad no relation to any transaction between the account and the decedent during the latter\u2019s lifetime\u201d and the attempted surcharge \u201crelated to matters occurring after the death of the decedent\u201d (p. 467), the surcharge procedure was not concerned with any \u201cthing or contract in action\u201d between decedent and her executor, and even the latter was competent to testify. We believe the rationale of Brown\u2019s Estate is sound and controls this phase of the appeal. Such conclusion is in accord with that reached in other jurisdictions. See: 2 A.L.R. 2d 349 et seq.\nReliance is placed by appellee on Appeals of Fross and Loomis, 105 Pa. 258 (1884) and Burton\u2019s Estate, 3 Pa. Dist. 755 (1894). Fross was decided under the Act of April 15, 1869, P. L. 30, which was repealed by the Act of 1887, supra, and is presently inapposite. Burton, which heavily relied on Fross, cannot now be considered authoritative.\nYenolds had no adverse interest to the estate of the decedent. His claim had been paid and, in the attack on the account which sought to surcharge the personal representative for improper payment of the claim, he had nothing to gain or lose in the \u201cdirect legal operation and effect of the judgment\u201d rendered in this action. See: Dillon\u2019s Estate, supra; Gaston Estate, 361 Pa. 105, 62 A. 2d 904 (1949).\nIn view of our conclusion that Yenolds was competent to testify, we need not consider the propriety and effect of Yenokis being called as a witness by the personal representative.\nLastly, appellant attacks the award to the master or auditor of $4500 compensation for his services alleging such a compensation was excessive, was arrived at without a hearing and that, even if reasonable, should be paid only by contribution from the assets of the estate and the assets passing to the widow by virtue of joint ownership with decedent. Cf. Klein Estate, 429 Pa. 27, 37, 38, 239 A. 2d 464 (1968).\nWhile this matter was not raised in the court below and need not be considered, we prefer to place our conclusion thereon on the ground advanced in Davidson\u2019s Estate, 323 Pa. 113, 118, 185 A. 782 (1936); \u201cThe final attack made by appellant is upon the amount of the compensation, $10,000, which the court fixed for the auditor. As we said in Stockdale v. Maginn, 207 Pa. 226, 227, 56 Atl. 439, 'The learned court below who had far better opportunity than we, for forming a correct judgment deemed the compensation a just one.\u2019 In Com. v. Traders & Mechanics Bank of Pittsburgh, 268 Pa. 526, 529, 113 Atl. 186, we commented thus: 'Where there is nothing further to go on than a mere inspection of the auditor\u2019s work as disclosed by the printed paper books, an appellate court will not review the discretion of the lower court in fixing the auditor\u2019s compensation.\u2019 In Moats v. Thompson, 283 Pa. 313, 323, 129 Atl. 105, we observed: 'Challenge is made of the amount of the auditor\u2019s fee. It was approved by the court below and there is nothing on the record satisfying us that this approval was improvident. We will not, therefore, interfere with the lower court\u2019s exercise of discretion in regard to it.\u2019 \u201d\nThe challenges to this account were both by the widow and the nephew. To the extent that the auditor\u2019s services were performed in connection with the determination of what assets were includible as estate assets rather than as assets jointly owned by the widow and decedent and with the determination of what, if any, contribution should be made by the widow toward payment of income tax deficiencies, a contribution toward payment for such services should be made by the widow. To this end, the matter is remanded to the court below.\nDecree, as modified, affirmed.\nAssets passing under the will were valued at $107,000.00. For Federal estate tax purposes, the estate was valued at an additional $350,000 because of assets jointly held by decedent and his wife as tenants by the entireties.\nGuardian ad litem for issue of nephew, born and unborn.\nYenokis testified that, as security for their performance of the lease, he and Salmons paid an advance rental of $10,800.\nAct of May 23, 1887, P. L. 158, \u00a75(e), 28 P.S. \u00a7322.\nSee: Dillon\u2019s Estate, 269 Pa. 234, 111 A. 919 (1920), as to test of adversity of interest.\nCf. Warren v. Steer, 112 Pa. 634, 5 A. 4 (1886) ; Barbour v. Wiehle, 116 Pa. 308, 315, 9 A. 520 (1887) ; Heft v. Ogle, 127 Pa. 244, 249, 18 A. 19 (1889). In Fulmer\u2019s Estate, 3 Pa. Dist. 457 (1893), the court said: \u201cShould she he excluded on the ground of interest? This contention now arises out of an effort to surcharge the accountant and with an alleged improper payment made to the widow. It is between the accountant and the estate of the deceased. If the widow still has an interest in the event she is disqualified. Her interest, if any, arises out of her liability to repay to the accountant, should he be cast in this contention. If he cannot legally recover from her, manifestly she has no disqualifying interest. The payment appears to have been a voluntary one made by the accountant to the widow, after a careful inquiry as to her right to receive the money. He was not required to compel her to bring suit, or to deal with her at arm\u2019s length. Where such payment is made there is no liability on the part of the creditor to pay the money back. In Miskimis\u2019 Ap., 114 Pa. 530, it was said: \u2018There is no principle in morals or equity in case of the voluntary payment of a debt by the administrator of a solvent estate that would require the creditor to refund the money.\u2019 The eases of Dilver v. Building Ass\u2019n, 39 Legal Intell. 383, s.c. 15 Phila. 344, Steel v. Arnold, 8 W.N. 249, Miller v. Hulme, 24 W.N. 131, and Building Ass\u2019n v. Roumfort, 98 Pa. 85, are to the same effect.\n\u201cTherefore it does not appear that the widow had any such interest as disqualified her, and her evidence ought to have been received.\u201d",
+        "type": "majority",
+        "author": "Mr. Justice Jones,"
+      }
+    ],
+    "attorneys": [
+      "Joseph Rappoport, with him Rappoport, Furman &' Gianopoulos, for widow, appellant.",
+      "Leonard Levin, with him Levin, Levin \u00a3 Levin, for nephew, appellant.",
+      "Littleton W. Roberts, Jr., with him Harold D. Greenwell and J ames F. Swartz, for accountant, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Matthews Estate.\nArgued May 1, 1968.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Egberts) JJ.\nJoseph Rappoport, with him Rappoport, Furman &' Gianopoulos, for widow, appellant.\nLeonard Levin, with him Levin, Levin \u00a3 Levin, for nephew, appellant.\nLittleton W. Roberts, Jr., with him Harold D. Greenwell and J ames F. Swartz, for accountant, appellee.\nOctober 3, 1968:"
+  },
+  "file_name": "0616-01",
+  "first_page_order": 644,
+  "last_page_order": 656
+}

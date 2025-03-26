@@ -1,0 +1,81 @@
+{
+  "id": 1195611,
+  "name": "Clark's Estate",
+  "name_abbreviation": "Clark's Estate",
+  "decision_date": "1939-07-03",
+  "docket_number": "Appeal, No. 173",
+  "first_page": "158",
+  "last_page": "159",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "336 Pa. 158"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "336 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1195617
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/336/0151-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 126,
+    "char_count": 1236,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04433289353935307
+    },
+    "sha256": "7059b76e21eb155dc81c77fe2ef2af3ee93d92bc497a9907668881b1a1825f28",
+    "simhash": "1:64f99ea300f48d0a",
+    "word_count": 209
+  },
+  "last_updated": "2024-02-27T23:35:15.015595+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaefer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Clark\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Barnes,\nThis is an appeal from the dismissal of exceptions to the decree of distribution in the estate of Elizabeth Clark, disallowing the claim of the Department of Public Assistance of the Commonwealth for old age assistance paid to the decedent, during her lifetime, under the Act of January 18, 1934, P. L. 282. The claim of the Commonwealth for payments subsequent to June 1, 1936, was allowed. The questions presented are identical with those involved in Waits\u2019 Estate, 336 Pa. 151. For the reasons therein set forth, the decree of the court below is in error as to payments of assistance made prior to June 1, 1936, as to which the Commonwealth is entitled to receive repayment.\nDecree reversed. The record is remitted to the court below for the entry of a final decree of distribution in accordance with this opinion; costs to be paid by the estate.",
+        "type": "majority",
+        "author": "Mr. Justice Barnes,"
+      }
+    ],
+    "attorneys": [
+      "M. Louise Rutherford, Deputy Attorney General, with her Claude T. Reno, Attorney General, and Joseph M. Loughran, for appellant.",
+      ". Carroll Caruthers, with him George E. Barron, Willis E. Topper and Vincent R. Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Clark\u2019s Estate.\nArgued May 23, 1939.\nBefore Kephart, C. J., Schaefer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nM. Louise Rutherford, Deputy Attorney General, with her Claude T. Reno, Attorney General, and Joseph M. Loughran, for appellant.\n. Carroll Caruthers, with him George E. Barron, Willis E. Topper and Vincent R. Smith, for appellee.\nJuly 3, 1939:"
+  },
+  "file_name": "0158-01",
+  "first_page_order": 208,
+  "last_page_order": 209
+}

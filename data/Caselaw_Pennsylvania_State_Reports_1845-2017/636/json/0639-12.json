@@ -1,0 +1,70 @@
+{
+  "id": 12280630,
+  "name": "Com. v. Raco",
+  "name_abbreviation": "Com. v. Raco",
+  "decision_date": "2016-06-01",
+  "docket_number": "473 WAL (2015)",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 639"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 155,
+    "ocr_confidence": 0.81,
+    "sha256": "39cc829d8da4680db04b73ebb0d76de77bf44ae7ebc2cfde69375306fca6a409",
+    "simhash": "1:2742b243a3df76dc",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Raco"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 479",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Raco\n06/01/2016\n473 WAL (2015)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0639-12",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

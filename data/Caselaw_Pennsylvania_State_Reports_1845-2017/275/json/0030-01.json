@@ -1,0 +1,264 @@
+{
+  "id": 1075722,
+  "name": "Miller's Estate",
+  "name_abbreviation": "Miller's Estate",
+  "decision_date": "1922-06-24",
+  "docket_number": "Appeal, No. 402",
+  "first_page": "30",
+  "last_page": "34",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "275 Pa. 30"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "242 Pa. 69",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998716
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/242/0069-01"
+      ]
+    },
+    {
+      "cite": "242 Pa. 3",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/242/0003-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 535",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/270/0535-01"
+      ]
+    },
+    {
+      "cite": "268 Pa. 132",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/268/0132-01"
+      ]
+    },
+    {
+      "cite": "134 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        814952
+      ],
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/134/0390-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 523",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842368
+      ],
+      "pin_cites": [
+        {
+          "page": "534"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0523-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0571-01"
+      ]
+    },
+    {
+      "cite": "270 Pa. 281",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/270/0281-01"
+      ]
+    },
+    {
+      "cite": "191 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/191/0218-01"
+      ]
+    },
+    {
+      "cite": "262 Pa. 15",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044360
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/262/0015-01"
+      ]
+    },
+    {
+      "cite": "180 Pa. 81",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        888378
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/180/0081-01"
+      ]
+    },
+    {
+      "cite": "233 Pa. 33",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        981123
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/233/0033-01"
+      ]
+    },
+    {
+      "cite": "235 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        984846
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/235/0175-01"
+      ]
+    },
+    {
+      "cite": "147 Pa. 383",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        829828
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/147/0383-01"
+      ]
+    },
+    {
+      "cite": "235 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        984846
+      ],
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/235/0175-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 7638,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.0947373651007456e-07,
+      "percentile": 0.5665558107827908
+    },
+    "sha256": "7664166baec67a9c1a77aa19a73dbeeeb77c52819dfbe988c19ae31ca9c092a6",
+    "simhash": "1:0001458536a4e96d",
+    "word_count": 1307
+  },
+  "last_updated": "2024-02-27T19:35:22.031748+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson and Schaffer, JJ."
+    ],
+    "parties": [
+      "Miller\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Moschzisker,\nTbe will of Samuel Miller creates two life estates, first for Ms wife Catharine, and next, at her death, for his daughter Theodosia; it further provides: \u201cAfter the decease of my said daughter Theodosia Miller and my said wife Catharine Miller, then all the rest, residue and remainder of my said estate, real, personal and mixed, I do give, devise and bequeath unto all the lawful heirs of myself and my wife Catharine Miller, to be divided among them as provided and required by the intestate laws of the State of Pennsylvania.\u201d Testator died first, survived by his daughter and her mother, as his nearest heirs under the intestate law; the mother went1 next, leaving Theodosia as the nearest heir, who subsequently died unmarried and without issue.\nThe questions involved, \u2014 as stated by appellant, the executrix of Theodosia Miller, deceased, who appeals from an award to the collateral heirs of testator and his wife, respectively, made on the adjudication of an account filed by the trustee under the will of her decedent\u2019s father, \u2014 is: \u201cUnder the terms of the will of Samuel Miller, deceased, did the corpus of his estate, after the death of his wife Catharine Miller, and his daughter Theodosia Miller, pass to the collateral heirs of himself and his wife Catharine, or to the executrix of the will of his daughter Theodosia, and the legal representatives of his wife Catharine?\u201d\nAppellant cites, among other authorities, McFillin\u2019s Est., 235 Pa. 175, 177, where this court said: \u201cThe thoroughly settled rule of construction is that where a testator directs that, in a certain event after the expiration of a particular interest, the estate shall go to his heirs......or to the persons who would take under the intestate laws, he is understood as meaning the persons who would have so taken at the time of his death......, unless a different intent is plainly manifested in his will\u201d; and, relying on the principle thus stated, it is contended that Theodosia, being testator\u2019s and his wife\u2019s only child, necessarily was his and her heir and next of kin, and, therefore, appellant, as the executrix of Theodosia\u2019s will, should have been awarded the estate in controversy, or it should have been awarded to her and the legal representatives of testator\u2019s widow, \u2014 the same result being reached in either way, namely, the estate, in the end, would pass under Theodosia\u2019s will.\nWhen read as a whole, however, Samuel Miller\u2019s testamentary dispositions show conclusively that, by \u201call the lawful heirs of myself and my wife,\u201d he contemplated such heirs as would have inherited respectively from his wife and himself had .they never had a child, \u2014 in other words, the collateral heirs of each of them; for immediately after the devise to the heirs of himself and wife, he says, \u201cthe share of my sister Mary Hawthorn is never to be paid into her hands, nor to any of her children, but to be paid to a trustee......; the shares or portions due to the children of my brother, Abraham Miller and the share or portion coming to my brother John Miller, shall never be paid to them but to a trustee......; [and] the shares of my sister Mary Hawthorn and my brothers Abraham Miller and John Miller and their children to go to their legal heirs after their decease.\u201d\nAppellant\u2019s contention that these last quoted provisions, in connection with a subsequent part of the will pointed out by her, mean only that, if testator\u2019s wife and daughter should die before him, his estate would then pass to his collateral heirs, but not otherwise, cannot be sustained. The part of the will to which appellant refers states: \u201cProvided further and I do hereby direct that in ease my daughter Theodosia Miller should die without issue and my estate shall become distributable to collateral heirs as aforesaid, then I direct that one-half of my whole estate, real, personal and mixed shall go to and be divided among my heirs and the other one-half of my said estate, is to go to and be distributed among the lawful heirs of my wife Catharine Miller as herein specified.\u201d When this language is read with all that goes before, and the plural words of the testator, \u2014 \u201call the heirs of myself and wife\u201d \u2014 are kept in mind, it is clear that he did not intend to give his estate to only one heir, his daughter Theodosia, and have it pass down from her. On the contrary, the will itself shows testator anticipated that his wife would survive him; that his daughter would survive her mother; and that the heirs specified were to take after the death of the daughter. Finally, the parts of the will which we have quoted, as well as other provisions, indicate that, while testator contemplated a possible marriage, and issue, for his daughter, yet he considered them improbable; apparently, what he looked forward to, and intended to provide for, was just the situation which has arisen.\nWe see no error in the answer given by the court below to the question here presented.\nThe decree is affirmed; costs to be paid out of the fund for distribution.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Moschzisker,"
+      }
+    ],
+    "attorneys": [
+      "Chas. W. Eaby and John A. Nauman, for appellant.\u2014",
+      "T. Z. Minehart, with him O. S. Schaeffer, Frank S. Groff, B. O. Atlee, B. F. Davis, W. S. Mellinger, Hugh R. Fulton, M. F. Musser and John M. Groff, for appellee.\u2014"
+    ],
+    "corrections": "",
+    "head_matter": "Miller\u2019s Estate.\nWills \u2014 Ccinstruction\u2014Remainders\u2014Intestate laws \u2014 0ollaterals.\n1. Where a testator gives his estate to his wife for life and after her death to his daughter for life, and after the daughter\u2019s death to \u201call the lawful heirs of [himself] and [his] wife, to be divided among them as provided and required by the intestate laws of Pennsylvania,\u201d and it appears that his wife and daughter are his nearest heirs under the intestate laws, and the wife survives testator and dies, and the daughter surviving her mother dies unmarried and without issue, the estate will he distributed to the collateral heirs of testator and his wife, where the whole scope of the will shows that testator anticipated that his wife would survive him, that his daughter would survive her mother, and that the heirs specified were to take after the death of the daughter.\n2. In such case the executrix of the daughter has no standing to claim the estate on the theory that the remainder vested in the daughter as the heir of testator at the time of his death, or that the gift to collaterals was only to take place if testator survived his wife and daughter.\nArgued May 12,1922.\nAppeal, No. 402, Jan. T., 1922, by Lillian S. Miller, Executrix of Theodosia Miller, deceased, from decree of O. C. Lancaster Co., April T., 1902, No. 75, dismissing exceptions to adjudication, in estate of Samuel Miller, deceased.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson and Schaffer, JJ.\nAffirmed.\nExceptions to adjudication. Before Smith, P. J.\nThe opinion of the Supreme Court states the facts.\nExceptions dismissed. Lillian S. Miller, executrix of Theodosia Miller, deceased, appealed.\nError assigned, inter alia, was decree, quoting it1.\nChas. W. Eaby and John A. Nauman, for appellant.\u2014\nIn the absence of anything to the contrary, Samuel Miller\u2019s heirs, under the intestate laws, would be determined by the date, of his death: Stewart\u2019s Est., 147 Pa. 383; McFillin\u2019s Est., 235 Pa. 175; Fitzpatrick\u2019s Est., 233 Pa. 33; Buzby\u2019s App., 61 Pa. Ill; McCrea\u2019s Est., 180 Pa. 81.\nT. Z. Minehart, with him O. S. Schaeffer, Frank S. Groff, B. O. Atlee, B. F. Davis, W. S. Mellinger, Hugh R. Fulton, M. F. Musser and John M. Groff, for appellee.\u2014\nThe collateral heirs are entitled to the estate: Shaffer\u2019s Est., 262 Pa. 15; Tyson\u2019s App., 191 Pa. 218; Wunder\u2019s Est., 270 Pa. 281; McKee\u2019s App., 104 Pa. 571; Gilmor\u2019s Est., 154 Pa. 523, 534; Ashton\u2019s Est, 134 Pa. 390, 395; Hildebrant\u2019s Est., 268 Pa. 132; Gould\u2019s Est., 270 Pa. 535; Kellerman\u2019s Est., 242 Pa. 3; Metzger\u2019s Est., 242 Pa. 69.\nJune 24, 1922:"
+  },
+  "file_name": "0030-01",
+  "first_page_order": 52,
+  "last_page_order": 56
+}

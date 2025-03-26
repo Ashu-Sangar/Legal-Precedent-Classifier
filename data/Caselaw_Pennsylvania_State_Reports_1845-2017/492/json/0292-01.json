@@ -1,0 +1,94 @@
+{
+  "id": 1767189,
+  "name": "James J. COYLE, Petitioner, v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Coyle v. Commonwealth",
+  "decision_date": "1980-11-29",
+  "docket_number": "No. 635 Eastern District Miscellaneous Docket, 1980",
+  "first_page": "292",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "492 Pa. 292"
+    },
+    {
+      "type": "parallel",
+      "cite": "424 A.2d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "421 A.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        151328
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/280/0268-01"
+      ]
+    },
+    {
+      "cite": "492 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1767115
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/492/0035-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 541,
+    "ocr_confidence": 0.771,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06619382056637278
+    },
+    "sha256": "a2caab25f55cf3aa72ee704f7f852c9667bdfa8328696d425bcca44ce3cfc75d",
+    "simhash": "1:5c1359b8123975a4",
+    "word_count": 88
+  },
+  "last_updated": "2024-02-27T23:00:53.081832+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James J. COYLE, Petitioner, v. COMMONWEALTH of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER OF COURT\nPER CURIAM.\nAND NOW, to-wit, this 28th day of November, 1980, it appearing that the instant petition is controlled by the recent decision of this Court in Commonwealth v. Wadzinski, 492 Pa. 35, 422 A.2d 124 (1980) IT IS HEREBY ORDERED AND DECREED THAT the order of the Superior Court, 421 A.2d 716, is reversed and petitioner is discharged.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "424 A.2d 867\nJames J. COYLE, Petitioner, v. COMMONWEALTH of Pennsylvania, Respondent.\nNo. 635 Eastern District Miscellaneous Docket, 1980.\nSupreme Court of Pennsylvania.\nNov. 29, 1980."
+  },
+  "file_name": "0292-01",
+  "first_page_order": 420,
+  "last_page_order": 421
+}

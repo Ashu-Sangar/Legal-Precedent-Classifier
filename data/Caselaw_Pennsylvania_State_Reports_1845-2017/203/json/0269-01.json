@@ -1,0 +1,659 @@
+{
+  "id": 994773,
+  "name": "Pennsylvania Railroad Company v. Wolfe",
+  "name_abbreviation": "Pennsylvania Railroad v. Wolfe",
+  "decision_date": "1902-06-04",
+  "docket_number": "Appeal, No. 112",
+  "first_page": "269",
+  "last_page": "276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "203 Pa. 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Pa. 548",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/191/0548-01"
+      ]
+    },
+    {
+      "cite": "92 Ky. 166",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4406820
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/92/0166-01"
+      ]
+    },
+    {
+      "cite": "193 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        910394
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/193/0570-01"
+      ]
+    },
+    {
+      "cite": "169 Ill. 123",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        3184538
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/169/0123-01"
+      ]
+    },
+    {
+      "cite": "155 Pa. 483",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        983236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/155/0483-01"
+      ]
+    },
+    {
+      "cite": "24 N. Y. Supp. 932",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        5438797
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/24/0932-01"
+      ]
+    },
+    {
+      "cite": "123 N. Y. 85",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        568315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/123/0085-01"
+      ]
+    },
+    {
+      "cite": "196 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        916813
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/196/0484-01"
+      ]
+    },
+    {
+      "cite": "191 Pa. 539",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/191/0539-01"
+      ]
+    },
+    {
+      "cite": "168 Pa. 279",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        868520
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/168/0279-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 484",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842403
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0484-01"
+      ]
+    },
+    {
+      "cite": "20 W. N. C. 290",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "165 Pa. 292",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        862078
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/165/0292-01"
+      ]
+    },
+    {
+      "cite": "163 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        859030
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/163/0127-01"
+      ]
+    },
+    {
+      "cite": "159 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/159/0258-01"
+      ]
+    },
+    {
+      "cite": "137 Pa. 412",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        821444
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/137/0412-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 546",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1856311
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/4/0546-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 590",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/100/0590-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 279",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492921
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0279-01"
+      ]
+    },
+    {
+      "cite": "65 Pa. 191",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430682
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/65/0191-01"
+      ]
+    },
+    {
+      "cite": "17 Conn. 201",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6752760
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/17/0201-01"
+      ]
+    },
+    {
+      "cite": "143 Pa. 386",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        978554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/143/0386-01"
+      ]
+    },
+    {
+      "cite": "115 Pa. 319",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        551789
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/115/0319-01"
+      ]
+    },
+    {
+      "cite": "101 Pa. 535",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        500918
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/101/0535-01"
+      ]
+    },
+    {
+      "cite": "92 Pa. 248",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        491069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0248-01"
+      ]
+    },
+    {
+      "cite": "62 Pa. 324",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1017268
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/62/0324-01"
+      ]
+    },
+    {
+      "cite": "19 Pa. 252",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/19/0252-01"
+      ]
+    },
+    {
+      "cite": "115 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        551793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/115/0305-01"
+      ]
+    },
+    {
+      "cite": "121 Pa. 302",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        561298
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/121/0302-01"
+      ]
+    },
+    {
+      "cite": "59 Pa. 190",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426948
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/59/0190-01"
+      ]
+    },
+    {
+      "cite": "182 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        893399
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/182/0485-01"
+      ]
+    },
+    {
+      "cite": "163 Pa. 438",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        859053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/163/0438-01"
+      ]
+    },
+    {
+      "cite": "160 Pa. 156",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        852123
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/160/0156-01"
+      ]
+    },
+    {
+      "cite": "63 Pa. 443",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/63/0443-01"
+      ]
+    },
+    {
+      "cite": "1 Pa. Superior Ct. 276",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        268543
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/1/0276-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 107",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842376
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0107-01"
+      ]
+    },
+    {
+      "cite": "199 Pa. 600",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        922629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/199/0600-01"
+      ]
+    },
+    {
+      "cite": "18 Pa. Superior Ct. 421",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        837321
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/18/0421-01"
+      ]
+    },
+    {
+      "cite": "189 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        903501
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/189/0273-01"
+      ]
+    },
+    {
+      "cite": "139 Pa. 414",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        11251837
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/139/0414-01"
+      ]
+    },
+    {
+      "cite": "168 Pa. 377",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        868483
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/168/0377-01"
+      ]
+    },
+    {
+      "cite": "131 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810247
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/131/0339-01"
+      ]
+    },
+    {
+      "cite": "122 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948412
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/122/0428-01"
+      ]
+    },
+    {
+      "cite": "92 Pa. 50",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        491062
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0050-01"
+      ]
+    },
+    {
+      "cite": "101 Pa. 111",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        500929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/101/0111-01"
+      ]
+    },
+    {
+      "cite": "155 Pa. 505",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        983280
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/155/0505-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 99",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842411
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0099-01"
+      ]
+    },
+    {
+      "cite": "73 Mo. App. 47",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        8732421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo-app/73/0047-01"
+      ]
+    },
+    {
+      "cite": "86 Ky. 136",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        1320724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/86/0136-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 810,
+    "char_count": 15864,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 9.432832179671117e-07,
+      "percentile": 0.9806923106327821
+    },
+    "sha256": "9aa935285ecc3f21863b37cc41bbfe891b2c4b6e65020fd50ade5aa2d5ed9d20",
+    "simhash": "1:396216b497111f5a",
+    "word_count": 2794
+  },
+  "last_updated": "2024-02-27T20:04:12.592414+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Mitchell, Dean, Fell, Brown and Potter, JJ."
+    ],
+    "parties": [
+      "Pennsylvania Railroad Company v. Wolfe."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Dean,\nWilliam M. Wolfe, an employee of the Pennsylvania Railroad, became a member of its relief association on July 31,1886, and received a certificate of membership therein, entitling the beneficiary designated to such sum at his death as was provided by the by-laws of the association. Wolfe died on February 19, 1900. The amount then payable to the proper beneficiary was $1,549.20. When the-certificate was first issued, he designated his wife as beneficiary, but her death occurred before his. He then substituted his sister, Alice R. Young, as beneficiary, and her name was put into the certificate as such under the rules of the association. Neither the records nor the certificate show any change after that one. Wolfe after the substitution of bis sister\u2019s name married the second time, leaving to survive him a widow, Emma' E. Wolfe, who claims to be the beneficiary of the fund payable according to the rules of the relief association. The widow first filed a bill in the common pleas of Blair county, her husband\u2019s domicil at his death, to restrain the relief association from paying the fund to Alice R. Young, the beneficiary named in the certificate. The widow averred, in her bill, that her husband had entered into an antenuptial contract with her to substitute her as beneficiary, and thereby induced her to marry him, and had neglected to perform the obligation, so far as to have her name substituted in the certificate, but that having performed her part and paid the consideration, equity should award her the fund. To this bill, Alice R. Young filed a demurrer, which last was sustained, on the ground that plaintiff had an adequate remedy at law. The relief association, then on petition, claiming to be a mere stakeholder, paid the money into court, and further prayed, that an issue be framed between the sister and widow to determine their rights to it; the order was granted and the issue framed. Mrs. Young, however, being a resident of York county, refused to become a party to the issue and brought suit against the railroad company and relief association in that county to recover the amount payable on the certificate. The railroad company then filed this bill in York county, offering to pay the money into court and praying that the two claimants thereto be ordered to interplead, and further that Alice R. Young be restrained from prosecuting suit against the company. To this bill both the sister and widow filed answers. The case was heard upon the bill and answers and the court below in opinion filed decreed the money to the widow Emma E. Wolfe, and enjoined Alice R. Young from further suit against the company. We now have this appeal by the sister; her learned counsel assigns eight errors; the first three are to findings of fact, the remainder to conclusions of law. Was there an ante-nuptial contract, intended by the parties at the time it was made, to operate as a transfer of the benefits under the certificate, to the intended wife, if she fulfilled on her part the contract of marriage ? The learned judge of the court below finds as follows : \u201c That prior to his marriage to Emma E. Wolfe the said William Wolfe informed her of his relief insurance, and of the fact, that upon the death of his first wife he bad her name as beneficiary changed to that of his sister Alice R. Young of York; and that upon the marriage of Emma E. Wolfe to him the said William Wolfe, he would have her the said Emma E. Wolfe made the beneficiary instead of his said sister, and that this was one of the considerations upon which the said Emma E. Wolfe agreed to become the wife of the said William Wolfe; that after their said marriage the said William Wolfe promised his wife, the said Emma E. Wolfe, repeatedly to have her made the beneficiary in pursuance of his agreement made before their marriage, and that he likewise told other parties of his intention so to do.\u201d\nIt is argued by appellant\u2019s counsel, that this language does not express a finding of fact, but only narrates the substance of information given the intended wife by the intended husband. It may be, that the finding could have been expressed in more apt language by the learned judge of the court below; but it must be noticed, that the widow had answered averring the contract, and that the sister by her answer did not deny it; she relied solely on the fact, that she was nominated as the beneficiary in the certificate. From the pleadings and the course of the trial in the court below, it is fairly to be inferred, that the fact of the antenuptial contract was scarcely contested. If that had been a very important question' in the issue, it is probable the language of the finding would have been more perspicuous; but as it stands, it is sufficiently expressive. The finding narrates the taking out and the history of the certificate of which the intended husband had informed the intended wife, and then follows the statement of the contract here averred, thus: \u201c and that upon the marriage of Emma E. Wolfe to him, the said William Wolfe, he would have her, the said Emma E. Wolfe, made the beneficiary instead of his said sister,\u201d and that this was one.of the considerations of the proposed marriage. This is a sufficient expression of the fact for all practical or judicial purposes; it is not a finding that information alone was given, it is a finding of a contract or promise. Nor does the failure to have the wife\u2019s name inserted as the beneficiary in the certificate or on the books of the association affect her right, as against a mere volunteer. The rule is for the protection of the association; if it waives its rights or does not claim them, a third party cannot take its place. It would be conclusive in favor of the association; it is only a fact tending to negative an antenuptial contract, as between the widow and sister. And although we have no authority directly to the point in this state, it is in accord with sound reason and there are decisions in other states sustaining it. See Titsworth v. Titsworth, 20 Pac. Repr. 213, Manning v. Ancient Order of United Workmen, 86 Ky. 136 (5 S. W. Repr. 385) and Hofman v. Grand Lodge of Brotherhood of Locomotive Firemen, 73 Mo. App. 47.\nWe take the fact, then, as found, that there was an agreement to transfer in consideration of a promise to marry upon her part; she kept her promise; there was no change of the name of the beneficiary, either in the certificate or upon the records of the relief association; nominally at the husband\u2019s death, Alice R. Young was entitled to the fund. In this view of the facts what effect has, or what effect ought the ante-nuptial contract to have in equity upon a disposition of the fund ? Concede, as argued by appellant\u2019s counsel, that a member of the association has only the power of appointment of a beneficiary, subject to the approval of the relief association, still, as between him and his appointee, equity will take cognizance of facts entering into the transaction, so that as between them flagrant wrong shall not be done. We say as between the member and his appointee, for the law is settled, that if the association insists on its legal rights under its rules, equity will not interfere between it and its members. But the relief association wholly withdraws from this contest; it pays the money into court, and in effect says, wage your war between yourselves, I will have nothing to do with it; so that all the authorities cited on either side, as to the rights of the claimant against the association, are wholly outside this case.\nWe then have the sister nominally the payee in the certificate ; the member under the rules had the right at any time to name another in her stead ; she was a mere volunteer having given no consideration, and it must be presumed had full knowledge that her brother could at any time strike out her name and substitute that of another, as he did, when he struck out his first wife\u2019s name and substituted hers. He promised to substitute that of the second wife, when she married him; she did marry him; he did not substitute formally her name ; we have no reason to doubt this omission was from neglect, not because of wilful wrong. But the moment the marriage contract was complete, the wife had an equitable claim, to the certificate or to the benefit it represented. It was not that sort of a mutual contract, which could be, very conveniently, performed by each party at the same time; marriage, the condition, must almost necessarily follow after the promise, and she had no right to substitution until after marriage ; but when she married him, she had a vested right in the benefit; a right not dependent on his will or whim, but one no longer in his power as between him and her, to confer or withhold; she could not take back the consideration she gave ; he could not give it back to her; he could only formally transfer to her that which by the consummation of the contract was hers. He ought in form, the day of the marriage or immediately after, to have done that. Equity will now treat that as done which ought to have been done.\nTo illustrate the application of the principle, suppose the intended wife had made the promise., and the intended husband then had, regularly, under the rules of the association appointed her the beneficiary, and then she had refused to marry him and before he had time to create a new appointee, he died, would equity, assuming the association did not interfere, have permitted her to receive the fruits of her fraud ? There is no more reason why she should suffer the penalty of his neglect.\nAll the assignments of error are overruled and the decree of the court below is affirmed.\nMr. Justice Mestbezat, dissents.",
+        "type": "majority",
+        "author": "Mr. Justice Dean,"
+      }
+    ],
+    "attorneys": [
+      "J. S. Blade, for appellant.",
+      "Thomas M. Greevy and Ziegler & Son, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Pennsylvania Railroad Company v. Wolfe.\nBeneficial associations \u2014 Death benefits \u2014 Beneficiary\u2014Antenuptial agreement \u2014 Husband and wife.\nWhere a member of a railroad beneficial association after the death of his first wife substitutes his sister as beneficiary in the manner provided by the rules of the association, and subsequently marries after having made an antenuptial agreement by which, in consideration of the marriage, he agrees to make his second wife the beneficiary instead of his sister, and be dies before making the substitution, the wife and not the sister is entitled to the fund which the association, waiving its rights, has paid into court.\nMestrezat, JJ., dissents.\nArgued May 20, 1902.\nAppeal, No. 112, Jan. T., 1902, by Alice R. Young, from decree of C. P. York Co., Jan. T., 1902, No. 1, on bill in equity in case of Pennsylvania Railroad Company and the Pennsylvania Railroad Voluntary Relief Department v. Emma E. Wolfe and Alice R. Young.\nBefore Mitchell, Dean, Fell, Brown and Potter, JJ.\nAffirmed.\nBill in equity for an interpleader. Before W. F. Bat Stewart, J.\nThe facts appear by the opinion of the Supreme Court.\nError assigned was decree in favor of Emma E. Wolfe.\nJ. S. Blade, for appellant.\nA member of a beneficial association has no property in the fund. He has only the power of appointment, and such power does not create any property in him: Masonic Aid Assn. v. Jones, 154 Pa. 99.\nWhere there has been an attempt to effectually execute a power, a court of equity may supply a defect. But the court will not interpose to enforce the execution of such an authority where nothing has been done in exercise of it: Brightley\u2019s Equity Jurisprudence, sec. 53; Story\u2019s Equity Jurisprudence, sec. 169.\nAlthough by the terms of his contract, Wolfe had the power to change his beneficiary, yet it is well settled that the change could be made only in the manner and by the means prescribed in the by-laws of the relief department: Mulderick v. Grand Lodge, 155 Pa. 505; National Mut. Aid Society v. Lupold, 101 Pa. 111; Vollman\u2019s Appeal, 92 Pa. 50; Beatty\u2019s Appeal, 122 Pa. 428; McNeil v. Golden Gross, 131 Pa. 339; Hale v. Equitable Aid Union, 168 Pa. 377; Jinks v. Banner Lodge, 139 Pa. 414; Hamilton v. Arcanum, 189 Pa. 273; Stock v. Stock, 18 Pa. Superior Ct. 421.\nImmediately upon the death of the member in good standing, the right to receive the benefits becomes vested in the legally designated beneficiary: Solis v. Blank, 199 Pa. 600; Stock v. Stock, 18 Pa. Superior Ct. 421; Masonic Mut. Assn. v. Jones, 154 Pa. 107; Burst v. Weisenborn, 1 Pa. Superior Ct. 276; Vollman\u2019s App., 92 Pa. 50; Jinks v. Banner Lodge, 139 Pa. 414; Hamilton v. Arcanum, 189 Pa. 273.\nThomas M. Greevy and Ziegler & Son, for appellee.\nThe promise to the appellee that she should be designated as beneficiary was equivalent to an assignment of the benefits to her, and she is consequently entitled to them. An expectant interest is assignable in Pennsylvania for valuable consideration: Power\u2019s Appeal, 63 Pa. 443; Fritz\u2019s Estate, 160 Pa. 156; Kuhn\u2019s Estate, 163 Pa. 438; Lennig\u2019s Estate, 182 Pa. 485.\nMarriage is a valuable consideration: Barr v. Hill, Add. 276; Frank\u2019s Appeal, 59 Pa. 190; Shea\u2019s Appeal, 121 Pa. 302.\nAnd a certificate in a mutual benefit society can be assigned by parol (Brown v. Mansus, 5 Atl. Repr. 768), as well as by writing: Maneely v. Knights of Birmingham, 115 Pa. 305.\nThe promise to designate the appellee as beneficiary having been made in consideration of marriage was founded on a valuable consideration, and was, therefore, enforceable; and will now be enforced by awarding the benefits to the appellee: Shoch v. Shoch, 19 Pa. 252; Jones\u2019s Appeal, 62 Pa. 324; Tiernan v. Binns, 92 Pa. 248; Ludwig\u2019s Appeal, 101 Pa. 535; Smith\u2019s Appeal, 115 Pa. 319 ; Kesler\u2019s Estate, 143 Pa. 386; Barr v. Hill, Add. 276; Frank\u2019s Appeal, 59 Pa. 190; Shea\u2019s Appeal, 121 Pa. 302; Wind v. Haas, 8 Pa. C. C. Rep. 645; Cannel v. Buckle, 2 P. Wms. 243; Rippon v. Dawding, Ambl. 565; Baldwin v. Carter, 17 Conn. 201; Freeman v. Hill, 1 Dev. & B. Eq. (N. C.) 389; Ancker v. Levy, 3 Strobh. Eq. (S. C.) 197; Earl v. Champion, 65 Pa. 191; Lant\u2019s Appeal, 95 Pa. 279; Hunt\u2019s Appeal, 100 Pa. 590; Gackenbach v. Brouse, 4 W. & S. 546.\nThe appellee is entitled to the benefits which accrued on the death of her husband, as against the appellant, Mrs. Young, since it was the intention of her husband that they should go to her, and equity will aid a defective appointment of a beneficiary in a mutual aid association, as well as any other defective execution of a power: Commonwealth v. Equitable Benefit Association, 137 Pa. 412; Donlevy v. Supreme Lodge, 1 Pa. Dist. Rep. 213; Masonic Aid Assn. v. Jones, 154 Pa. 99; Dickinson v. A. O. U. W., 159 Pa. 258; Johnson v. P. & R. R. R. Co., 163 Pa. 127; Lithgow v. Supreme Tent, 165 Pa. 292; Fiske v. Equitable Aid Union, 20 W. N. C. 290; Beatty\u2019s Appeal, 122 Pa. 428, Beatty v. Supreme Commandery, 154 Pa. 484; Fischer v. American Legion of Honor, 168 Pa. 279; Heasley v. Heasley, 191 Pa. 539; Krug\u2019s Estate, 196 Pa. 484.\nThe failure to designate the appellee as beneficiar}'' was a fraud upon the marriage which equity will relieve against: Montefiori v. Montefiori, 1 W. Bl. 363; Gale v. Lindo, 1 Vern. 475; Neville v. Wilkinson, 1 Bro. C. C. 543; Ex parte Gardner, 11 Ves. 40.\nAssuming, for the sake of the argument, that the appellee cannot specifically enforce the promise to designate her as beneficiary in the present proceeding, that promise, followed by her marriage, operated to give her an equitable lien upon her husband\u2019s death benefits, and she can recover them notwithstanding : Grimbley v. Harrold, 57 Pac. Repr. 558; Smith v. National Benefit Society, 123 N. Y. 85 (25 N. E. Repr. 197); Maynard v. Vanderwerker, 24 N. Y. Supp. 932; Chidester v. Yard, 155 Pa. 483; Goodrich v. Bohan, 52 S. W. Repr. 1105; Supreme Council v. Tracy, 169 Ill. 123 (48 N. E. Repr. 401); Benard v. Grand Lodge, 82 N. W. Repr. 404; Fodell v. Miller, 193 Pa. 570; Leaf v. Leaf, 92 Ky. 166 (17 S. W. Repr. 354); Heasley v. Heasley, 191 Pa. 548.\nJune 4, 1902:"
+  },
+  "file_name": "0269-01",
+  "first_page_order": 299,
+  "last_page_order": 306
+}

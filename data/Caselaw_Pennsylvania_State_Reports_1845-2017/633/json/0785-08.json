@@ -1,0 +1,70 @@
+{
+  "id": 12286587,
+  "name": "Com. v. Homan",
+  "name_abbreviation": "Com. v. Homan",
+  "decision_date": "2015-12-16",
+  "docket_number": "532 MAL (2015)",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 785"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1129",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.902,
+    "sha256": "62d2f72c4602f8c2cb7b1ae1c7fbe35abf498a4fbc0a021bcc9da630398e79ad",
+    "simhash": "1:193d82a0d3711520",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Homan"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1129",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Homan\n12/16/2015\n532 MAL (2015)"
+  },
+  "file_name": "0785-08",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

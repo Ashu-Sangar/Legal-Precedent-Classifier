@@ -1,0 +1,106 @@
+{
+  "id": 12283532,
+  "name": "Gorham v. Gorham",
+  "name_abbreviation": "Gorham v. Gorham",
+  "decision_date": "2016-08-02",
+  "docket_number": "195 MAL (2016)",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 589",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485856,
+        12485857,
+        12485858,
+        12485859,
+        12485860,
+        12485861,
+        12485862,
+        12485863,
+        12485864,
+        12485865,
+        12485866,
+        12485867,
+        12485868,
+        12485853,
+        12485854,
+        12485855
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0589-13",
+        "/a3d/141-2/0589-14",
+        "/a3d/141-2/0589-15",
+        "/a3d/141-2/0589-16",
+        "/a3d/141-2/0589-01",
+        "/a3d/141-2/0589-02",
+        "/a3d/141-2/0589-03",
+        "/a3d/141-2/0589-04",
+        "/a3d/141-2/0589-05",
+        "/a3d/141-2/0589-06",
+        "/a3d/141-2/0589-07",
+        "/a3d/141-2/0589-08",
+        "/a3d/141-2/0589-09",
+        "/a3d/141-2/0589-10",
+        "/a3d/141-2/0589-11",
+        "/a3d/141-2/0589-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 74,
+    "ocr_confidence": 0.821,
+    "sha256": "e2cbe7fbe72858e8c08bc0d13104d3edf671e7f97da28e381d6288818209c3cf",
+    "simhash": "1:16440e4d00790186",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gorham v. Gorham"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 589",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gorham v. Gorham\n08/02/2016\n195 MAL (2016)"
+  },
+  "file_name": "0664-05",
+  "first_page_order": 716,
+  "last_page_order": 716
+}

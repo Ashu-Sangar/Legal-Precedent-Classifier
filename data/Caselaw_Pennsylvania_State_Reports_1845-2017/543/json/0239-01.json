@@ -1,0 +1,82 @@
+{
+  "id": 461554,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Belinda WILSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Wilson",
+  "decision_date": "1996-01-26",
+  "docket_number": "Petition No. 728 E.D. Allocatur Docket 1995",
+  "first_page": "239",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "543 Pa. 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "670 A.2d 640"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "530 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833065
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0464-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 527,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.01708574515348192
+    },
+    "sha256": "0635b275b7b2507d591dde2c9621991af2fe47cb188946ca68058e3ed8cd4ae1",
+    "simhash": "1:45ad06c615c92276",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T20:05:40.019609+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Belinda WILSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 26th day of January, 1996, the Petition for Alowance of Appeal is GRANTED, limited to the issues of (1) whether the victims\u2019 prior inconsistent statements were admissible as contemporaneous, verbatim recordings under Commonwealth v. Lively, 530 Pa. 464, 610 A.2d 7 (1992); and (2) whether trial counsel was ineffective for failing to object to hearsay testimony.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "670 A.2d 640\nCOMMONWEALTH of Pennsylvania, Respondent, v. Belinda WILSON, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 26, 1996."
+  },
+  "file_name": "0239-01",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

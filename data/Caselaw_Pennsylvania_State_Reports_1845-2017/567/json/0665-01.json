@@ -1,0 +1,96 @@
+{
+  "id": 404586,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Samuel FRANK, Jr., Petitioner",
+  "name_abbreviation": "Commonwealth v. Frank",
+  "decision_date": "2002-02-21",
+  "docket_number": "No. 427 MAL 2001",
+  "first_page": "665",
+  "last_page": "666",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "567 Pa. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "790 A.2d 312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "736 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838560,
+        11575941
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01",
+        "/a2d/736/0564-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838560
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 535,
+    "ocr_confidence": 0.663,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.015013423562532024
+    },
+    "sha256": "cc4cb8e9c7d238a29af35be6b94cb4b2050692169b287aefec82214afb725de5",
+    "simhash": "1:5d250214e15f37ba",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T20:42:38.943670+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Samuel FRANK, Jr., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAnd now, this 21st day of February, 2002, the Petition for Allowance of Appeal is GRANTED and the order of the Superior Court is VACATED. Further, we instruct the Superior Court to remand this matter to the trial court for the appointment of new counsel to seek reinstatement of Petitioner\u2019s appellate rights nunc pro tunc. Commonwealth v. Lantzy, 558 Pa. 214, 736 A.2d 564 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "790 A.2d 312\nCOMMONWEALTH of Pennsylvania, Respondent, v. Samuel FRANK, Jr., Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 21, 2002."
+  },
+  "file_name": "0665-01",
+  "first_page_order": 785,
+  "last_page_order": 786
+}

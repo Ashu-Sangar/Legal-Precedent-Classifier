@@ -1,0 +1,104 @@
+{
+  "id": 197220,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Donald Anthony GERACI, Petitioner",
+  "name_abbreviation": "Commonwealth v. Geraci",
+  "decision_date": "2003-07-10",
+  "docket_number": "Petition No. 35 WAL 2003",
+  "first_page": "612",
+  "last_page": "612",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "573 Pa. 612"
+    },
+    {
+      "type": "parallel",
+      "cite": "828 A.2d 348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "821 A.2d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        197200,
+        9141217,
+        197146,
+        9141253
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "denial of reargument"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0141-01",
+        "/a2d/821/1246-01",
+        "/pa/573/0140-01",
+        "/a2d/821/1246-02"
+      ]
+    },
+    {
+      "cite": "573 Pa. 1246",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "denial of reargument"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 327,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.006800434195037951
+    },
+    "sha256": "b5649e97ca4585f764471b549acfc8d61382e43c0c4f79c615f82e8161f64669",
+    "simhash": "1:01294306e0cfc5ea",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:51:24.602860+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Donald Anthony GERACI, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of July 2003, we DENY this Petition for Allowance of Appeal. See Commonwealth v. Grant, 573 Pa. 1246, 821 A.2d 1246 (2003) (denial of reargument).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "828 A.2d 348\nCOMMONWEALTH of Pennsylvania, Respondent, v. Donald Anthony GERACI, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 10, 2003."
+  },
+  "file_name": "0612-01",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

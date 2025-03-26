@@ -1,0 +1,70 @@
+{
+  "id": 12286737,
+  "name": "Younger v. Kerestes",
+  "name_abbreviation": "Younger v. Kerestes",
+  "decision_date": "2016-04-06",
+  "docket_number": "477 WAL (2015)",
+  "first_page": "767",
+  "last_page": "767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 767"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "124 A.3d 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 78,
+    "ocr_confidence": 0.897,
+    "sha256": "d447c7b30abe8d6b5bf9dffac797f98972c28d1e75a2541150f65c5bbebbd9d3",
+    "simhash": "1:3ae6a08120b804db",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Younger v. Kerestes"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 124 A.3d 426",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Younger v. Kerestes\n04/06/2016\n477 WAL (2015)"
+  },
+  "file_name": "0767-02",
+  "first_page_order": 827,
+  "last_page_order": 827
+}

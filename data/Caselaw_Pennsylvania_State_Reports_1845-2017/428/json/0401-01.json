@@ -1,0 +1,86 @@
+{
+  "id": 1912361,
+  "name": "Commonwealth v. Allen, Petitioner",
+  "name_abbreviation": "Commonwealth v. Allen",
+  "decision_date": "1968-03-01",
+  "docket_number": "Appeal, No. 321",
+  "first_page": "401",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "428 Pa. 401"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "211 Pa. Superior Ct. 259",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        781385
+      ],
+      "pin_cites": [
+        {
+          "page": "260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/211/0259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 664,
+    "ocr_confidence": 0.463,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.2868431711655776
+    },
+    "sha256": "1b91745d727dadb951b12ef1f07c1b861009c10240653af2f1e635752ce4ef79",
+    "simhash": "1:c812b9d92a9835b4",
+    "word_count": 106
+  },
+  "last_updated": "2024-02-27T22:12:57.337362+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Mtjsmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Allen, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe Orders of the Superior Court and the Court of Quarter Sessions of Montgomery County are reversed, and the case is remanded for a new trial on Bill No. 63, November Sessions, 1957, on the dissenting opinion of Judge Hoffman of the Superior Court, at 211 Pa. Superior Ct. 259 at 260.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Dominic P. Costa, for petitioner.",
+      "Menry T. Crocker, Assistant District Attorney, with him Richard A. Berlin and Anthony J. Scvrica, Assistant District Attorney, and Richard S. Lowe, District Attorney, for Commonwealth, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Allen, Petitioner.\nBefore Bell, C. J., Mtjsmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nDominic P. Costa, for petitioner.\nMenry T. Crocker, Assistant District Attorney, with him Richard A. Berlin and Anthony J. Scvrica, Assistant District Attorney, and Richard S. Lowe, District Attorney, for Commonwealth, respondent.\nMarch 1, 1968:"
+  },
+  "file_name": "0401-01",
+  "first_page_order": 505,
+  "last_page_order": 506
+}

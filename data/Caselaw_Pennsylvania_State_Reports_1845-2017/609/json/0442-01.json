@@ -1,0 +1,817 @@
+{
+  "id": 4200864,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. James DENNIS, Appellant",
+  "name_abbreviation": "Commonwealth v. Dennis",
+  "decision_date": "2011-01-18",
+  "docket_number": "No. 491 CAP",
+  "first_page": "442",
+  "last_page": "464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "609 Pa. 442"
+    },
+    {
+      "type": "parallel",
+      "cite": "17 A.3d 297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "859 A.2d 1270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9167137,
+        1100722
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "''Dennis II\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/859/1270-01",
+        "/pa/580/0095-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 95",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100722
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "''Dennis II\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0095-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559548,
+        11705437
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Dennis I\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0331-01",
+        "/a2d/715/0404-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559548
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Dennis I\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0331-01"
+      ]
+    },
+    {
+      "cite": "741 A.2d 666",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        837123,
+        11655707,
+        837109,
+        11655623
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "675-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0423-01",
+        "/a2d/741/0666-02",
+        "/pa/559/0422-01",
+        "/a2d/741/0666-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 423",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837123
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "441"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0423-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 1089",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11633731,
+        607174
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1094"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/1089-01",
+        "/pa/556/0216-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 216",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607174
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0216-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174831
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "109-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0097-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 419",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339057
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "433-34",
+          "parenthetical": "evidence is material under Brady, and the failure to disclose it justifies setting aside a conviction, only where there exists a reasonable probability that had the evidence been disclosed the result at trial would have been different."
+        },
+        {
+          "parenthetical": "evidence is material under Brady, and the failure to disclose it justifies setting aside a conviction, only where there exists a reasonable probability that had the evidence been disclosed the result at trial would have been different."
+        },
+        {
+          "parenthetical": "evidence is material under Brady, and the failure to disclose it justifies setting aside a conviction, only where there exists a reasonable probability that had the evidence been disclosed the result at trial would have been different."
+        },
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0419-01"
+      ]
+    },
+    {
+      "cite": "884 A.2d 848",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8912136,
+        988530,
+        8912059,
+        988519
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/884/0848-02",
+        "/pa/584/0460-01",
+        "/a2d/884/0848-01",
+        "/pa/584/0461-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988519
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0461-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "677"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "986 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197032,
+        7292994
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "814-15"
+        },
+        {
+          "page": "814"
+        },
+        {
+          "page": "816",
+          "parenthetical": "stressing relevance of testimony of witness being \"completely unaffected\" by disclosure of the impeachment evidence casting doubt on the reliability of other witnesses"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0573-01",
+        "/a2d/986/0808-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 573",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197032
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "584-85"
+        },
+        {
+          "page": "584"
+        },
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0573-01"
+      ]
+    },
+    {
+      "cite": "988 A.2d 618",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7291244,
+        3699165
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/988/0618-01",
+        "/pa/605/0137-02"
+      ]
+    },
+    {
+      "cite": "605 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3699165,
+        3699023
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "185-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/605/0137-02",
+        "/pa/605/0137-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11796393,
+        356250
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0079-01",
+        "/pa/553/0485-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356250
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0485-01"
+      ]
+    },
+    {
+      "cite": "966 A.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8158876,
+        4194238
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "539",
+          "parenthetical": "\"A PCRA court passes on witness credibility at PCRA hearings, and its credibility determinations should be provided great deference by reviewing courts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/966/0523-01",
+        "/pa/600/0329-01"
+      ]
+    },
+    {
+      "cite": "600 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194238
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "356",
+          "parenthetical": "\"A PCRA court passes on witness credibility at PCRA hearings, and its credibility determinations should be provided great deference by reviewing courts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0329-01"
+      ]
+    },
+    {
+      "cite": "529 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1831184
+      ],
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "163"
+        },
+        {
+          "page": "827"
+        },
+        {
+          "page": "164"
+        },
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/529/0160-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9088752,
+        588049,
+        587990,
+        9088766
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1022"
+        },
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/1014-01",
+        "/pa/574/0574-01",
+        "/pa/574/0573-02",
+        "/a2d/832/1014-02"
+      ]
+    },
+    {
+      "cite": "574 Pa. 574",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588049
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0574-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1806092
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "515 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806001,
+        1806092
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "158-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-01",
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 717",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11490920,
+        95802
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/744/0717-01",
+        "/pa/560/0258-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95802
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0258-01"
+      ]
+    },
+    {
+      "cite": "961 A.2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3441003,
+        8189638
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "84"
+        },
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0204-01",
+        "/a2d/961/0080-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3441003
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "212"
+        },
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0204-01"
+      ]
+    },
+    {
+      "cite": "950 A.2d 945",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3924369,
+        8231444
+      ],
+      "weight": 4,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Dennis III\""
+        },
+        {
+          "page": "979"
+        },
+        {
+          "page": "979"
+        },
+        {
+          "page": "949"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0159-01",
+        "/a2d/950/0945-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 159",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3924369
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Dennis III\""
+        },
+        {
+          "page": "215-16"
+        },
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0159-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1285,
+    "char_count": 37898,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 1.9637123491794878e-07,
+      "percentile": 0.7384333990128382
+    },
+    "sha256": "ebe842e43e3ba15d5c9aa7f193136e82dbd8f717b1b99e31b977d1813ff9f0a1",
+    "simhash": "1:e0b27741b3c1295b",
+    "word_count": 5953
+  },
+  "last_updated": "2024-02-27T22:37:24.801411+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ.",
+      "Justice ORIE MELVIN did not participate in the consideration or decision of this case.",
+      "Chief Justice CASTILLE, Justices SAYLOR, EAKIN, BAER and McCAFFERY join the opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. James DENNIS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice TODD.\nWe remanded for a supplemental opinion following our initial review of this capital post-conviction appeal in 2008. The Post Conviction Relief Act (\u201cPCRA\u201d) court issued its opinion on remand on March 17, 2010 and supplemental briefs were submitted thereafter. We now address Appellant James Dennis\u2019 allegations of trial counsel ineffectiveness for failing to investigate an alibi witness and his assertion that the Commonwealth suppressed material exculpatory evidence in violation of Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963). For the reasons that follow, we affirm the order of the PCRA court, which denied relief.\nWhile the underlying facts and procedure are set forth in detail in our most recent opinion in this matter, Commonwealth v. Dennis, 597 Pa. 159, 950 A.2d 945 (2008) (\u201cDennis III\u201d), we briefly recite the background of this appeal. On the afternoon of October 22, 1991, 17-year-old Chedell Williams and her friend, Zahra Howard, were on their way home from Olney High School in Philadelphia. The girls began to climb the steps to SEPTA\u2019s Fern Rock Station. Appellant and another individual blocked the girls\u2019 path, and Appellant demanded that Williams give him her earrings. The girls turned and fled; however, Appellant caught Williams in the street. Appellant ripped Williams\u2019 earrings from her ears, and, then, drew a handgun and shot her in the neck, killing her.\nA jury convicted Appellant of first-degree murder, robbery, criminal conspiracy, violating the Uniform Firearms Act, and possessing an instrument of crime. The jury also found one aggravating circumstance, killing in the performance of a felony, and one mitigating circumstance, no significant history of prior criminal convictions, and concluded the aggravating circumstance outweighed the mitigating circumstance. The Court of Common Pleas of Philadelphia County sentenced Appellant to death.\nAppellant appealed his conviction and sentence to our Court, raising numerous challenges to the effectiveness of counsel. We affirmed. Dennis I. Subsequently, Appellant sought relief under the PCRA. After resolution of various procedural matters, including our Court\u2019s rejection of the PCRA court\u2019s granting of Appellant\u2019s motion for discovery and remand of the matter for completion of PCRA review in Dennis II, the PCRA court denied relief.\nAppellant again appealed to our Court. On June 20, 2008, we rejected many of Appellant\u2019s challenges; however, we remanded the matter to the PCRA court for further consideration of the two issues stated above, and included a directive to hold evidentiary hearings, if necessary, and to draft an opinion sufficient to enable meaningful appellate review. Dennis III, 597 Pa. at 215-16, 950 A.2d at 979.\nIn the interim, the judge who issued the prior opinion retired. Therefore, on remand, Judge Sheila Woods-Skipper assumed responsibility for the case and held evidentiary hearings on December 22, 2008, January 30, 2009, and February 25, 2009. After the submission of briefs, and consistent with our Court\u2019s order, Judge Woods-Skipper issued an opinion addressing the two issues on which we remanded.\nThus, as set forth in our prior opinion in Dennis III, the following issues are once again before us for review:\n(1) ... Appellant\u2019s claim that trial counsel was ineffective for failing to investigate Anissa Bane and that appellate counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness in this regard; and\n(2) ... Appellant\u2019s claims that the Commonwealth suppressed, in violation of Brady, material exculpatory evidence in the form of the police activity sheet, or the contents thereof, in which Mannasett Pugh and Diane Pugh allegedly provided information that could impeach the testimony of Zahra Howard, one of the Commonwealth\u2019s three eyewitnesses at trial.\nId. at 216, 950 A.2d at 979. We will address these issues seratim.\nPrior to reaching the merits of the issues, however, we set forth the overarching framework by which we will review this matter. Initially, we note that, as a general proposition, we review a denial of PCRA relief to determine whether the findings of the PCRA court are supported by the record and free of legal error. Commonwealth v. Clark, 599 Pa. 204, 212, 961 A.2d 80, 84 (2008). Moreover, relevant for purposes of this appeal, in order to qualify for PCRA relief, the petitioner must prove by the preponderance of the evidence that his statutory conviction or sentence resulted from, inter alia, a violation of the Pennsylvania Constitution or the federal Constitution, or ineffective assistance of counsel, which so undermined the truth determining process that no reliable adjudication of guilt or innocence could have taken place. 42 Pa.C.S.A. \u00a7 9543(a)(2)(i), (ii).\nThe first issue raised in this matter involves a claim of ineffective assistance of counsel. In reviewing a claim of ineffectiveness of counsel for failing to investigate, we must keep in mind the well established substantive standards. We begin with the presumption that counsel rendered effective assistance. Commonwealth v. Basemore, 560 Pa. 258, 277 n. 10, 744 A.2d 717, 728 n. 10 (2000). To obtain relief on a claim of ineffective assistance of counsel, a petitioner must rebut that presumption and demonstrate that counsel\u2019s performance was deficient, and that such performance prejudiced him. Strickland v. Washington, 466 U.S. 668, 687-91, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). In our Commonwealth, we have rearticulated the Strickland Court\u2019s performance and prejudice inquiry as a three-prong test. Specifically, a petitioner must show: (1) the underlying claim is of arguable merit; (2) no reasonable basis existed for counsel\u2019s action or inaction; and (3) counsel\u2019s error caused prejudice such that there is a reasonable probability that the result of the proceeding would have been different absent such error. Commonwealth v. Pierce, 515 Pa. 153,158-59, 527 A.2d 973, 975 (1987).\nMoreover, as noted above, this matter involves an appeal which pre-dated our decision in Grant and raises an ineffectiveness claim. Thus, a petitioner may be entitled to relief on this type of claim by asserting a layered claim of appellate counsel\u2019s ineffectiveness. In Commonwealth v. McGill, 574 Pa. 574, 832 A.2d 1014 (2003), our Court clarified the standards regarding allegations of constitutional ineffectiveness when the assertion involves the ineffectiveness of appellate counsel for failure to raise a claim of trial counsel\u2019s ineffectiveness. In sum, we held, as to each layer of allegedly ineffective counsel, a petitioner must plead and prove each of the three prongs under Pierce. Thus, where appellate counsel did not raise an issue of trial counsel ineffectiveness, a petitioner must plead in his petition that appellate counsel was ineffective for failing to allege that trial counsel was ineffective for failing to act in some fashion, and develop each prong of the Pierce test as to appellate counsel\u2019s representation. A petitioner has then preserved a layered claim of ineffectiveness for the court to review. At that point, the court proceeds to determine whether the petitioner has proved his layered claim. McGill, 832 A.2d at 1022. The arguable merit prong concerning appellate counsel\u2019s ineffectiveness is satisfied by pleading and proving the three prongs of the Pierce standard regarding the underlying allegation of trial counsel ineffectiveness. In such a scenario, the failure to establish any of the Pierce prongs with respect to trial counsel ineffectiveness ends the inquiry and the petitioner\u2019s ability to obtain relief on the basis of appellate counsel\u2019s ineffectiveness.\nWith respect to the specific claim of an alibi defense, also at issue in this appeal, such a defense \u201cplaces the defendant at the relevant time in a different place than the scene involved and so removed therefrom as to render it impossible for him to be the guilty party.\u201d Commonwealth v. Roxberry, 529 Pa. 160, 163, 602 A.2d 826, 827 (1992). All that is required is that, due to separation, it is impossible for the defendant to have committed the crime. Id. at 164, 602 A.2d at 828.\nAgain relevant to this appeal, in establishing whether counsel was ineffective for failing to call a witness, a petitioner must demonstrate: (1) the witness existed; (2) the witness was available; (3) counsel knew of, or should have known of the existence of the witness; (4) the witness was willing to testify for the defense; and (5) the absence of the testimony was so prejudicial to petitioner to have denied him or her a fair trial. Commonwealth v. Clark, 599 Pa. 204, 222, 961 A.2d 80, 90 (2008).\nThe first claim before us is whether the PCRA court erred in rejecting Appellant\u2019s claim that trial counsel was ineffective for failing to investigate alleged alibi witness Anissa Bane and that appellate counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness in this regard. The factual background for this claim is as follows. Bane testified at the PCRA hearing that, on the date of the murder, she completed her classes at Temple University at 1:00 pm, and immediately caught the subway to the Fern Rock Station. She then rode a bus, to her home where she arrived at approximately 1:30-1:40 pm. She indicated that she remembered that day because she arrived at the Fern Rock Station just after \u201csomething had happened,\u201d which was the shooting of Chedell Williams, and it upset her. Bane further testified that, once she arrived at her home, she changed her clothes, spoke with her mother, ate, and spoke with Appellant twice on the telephone.\nSpecifically, Bane alleged that she spoke with Appellant while she was at her home, and that Appellant was at his father\u2019s house. Bane did not recall if she first called Appellant or if he initiated the call. Based upon her normal after-school routine, Bane testified that she knew these calls took place between 1:30 and 1:45 pm. During the conversation, they discussed the murder at the Fern Rock Station. Bane claimed to know Appellant was at his father\u2019s home, as she heard Appellant\u2019s father\u2019s voice in the background and he picked up the telephone during her conversation with Appellant to tell Appellant that he needed to use the telephone. She also testified that she knew it was Appellant\u2019s father\u2019s number as Appellant\u2019s father\u2019s name and telephone number appeared on her caller ID.\nBane further explained that she became aware of Appellant\u2019s arrest for Williams\u2019s murder from the newspaper and that she realized this when Appellant called her from a correctional facility after his arrest. Bane claimed that she and Appellant spoke several times while he was incarcerated, but that it was not until the second or third conversation that Bane made the connection between the time of the murder and her telephone calls with Appellant. Additionally, Bane asserted that she did not remember who gave her the telephone number of Appellant\u2019s trial counsel, Lee Mandell, but that she attempted to contact trial counsel several times once she understood the import of the timing of these conversations. Bane claimed that she attempted to call him in a three-way telephone conversation along with Appellant; left voice-mails; and left messages with trial counsel\u2019s secretary. Furthermore, she testified that someone who identified himself as an investigator came to her home, stayed for a brief period, asked her some questions, and gave her his card and told her that he would be in touch. Bane also testified that she came to the court house on at least two occasions, but did not enter the court room, remaining in the hall outside the courtroom for a few hours, pacing back and forth. Bane offered she told Appellant\u2019s family members that she had been speaking with Appellant on the telephone at the time of Williams\u2019 murder.\nAppellant argues trial counsel was ineffective in failing to investigate Bane and appellate counsel was ineffective for failing to raise trial counsel\u2019s ineffectiveness on direct appeal. Specifically, Appellant asserts Bane\u2019s testimony would have placed Appellant at his father\u2019s home at or around the time of the murder. According to Appellant, it would have corroborated Appellant\u2019s father\u2019s trial testimony. As Appellant\u2019s defense rested only on alibi testimony, Appellant contends the absence of Bane\u2019s testimony undermines the confidence in the verdict. Moreover, Appellant maintains Bane testified unequivocally that she attempted to reach trial counsel on numerous occasions and in numerous ways, and trial counsel did not dispute Bane may have attempted to contact him. Appellant stresses trial counsel\u2019s investigator testified that he had no recollection of Bane, and that trial counsel never spoke with Bane or contacted her about her alibi testimony, even though counsel\u2019s theory was to pursue an alibi defense.\nMoreover, Appellant challenges the PCRA court\u2019s dismissal of Bane\u2019s testimony as \u201cincredible.\u201d Appellant submits the PCRA court was required to make \u201cspecific credibility determinations.\u201d Appellant\u2019s Brief at 40 (emphasis omitted). Furthermore, Appellant maintains that Bane established herself as an alibi witness, and that her testimony, coupled with that of Appellant\u2019s father, would have made it impossible for Appellant to have travelled from his father\u2019s home to the crime scene and back at the time surrounding the events of the murder. Finally, Appellant objects to the PCRA court\u2019s finding that he failed to establish that Bane was willing to testify on his behalf because she failed or refused to provide information to the investigator, remained outside the courtroom, and failed to notify trial counsel that she had information that was helpful to Appellant. According to Appellant, the failure of trial counsel and his investigator to follow up does not translate to a finding that Bane would have been unwilling to testify. Appellant argues that trial counsel\u2019s failure to interview and call Bane as a witness was not based on reasonable trial strategy. Finally, Appellant avers that the PCRA court erred in failing to cumulate the prejudice regarding counsel\u2019s failure to call this alibi witness with trial counsel\u2019s failure to conduct an adequate pretrial investigation regarding various other aspects of the case.\nThe Commonwealth responds that the PCRA court properly found Bane\u2019s testimony to be incredible. Specifically, the Commonwealth points to Bane\u2019s testimony that she knew she was speaking to Appellant at his father\u2019s home, in part, because his father\u2019s telephone number was displayed on her caller ID, yet, the Commonwealth established that caller ID was not available to the general public at the time of the murder. Moreover, the Commonwealth urges that Bane\u2019s claim that she spoke to Appellant on the telephone at the time of Williams\u2019 murder is undermined by the lack of any evidence that Appellant told trial counsel about the alleged telephone conversations. Specifically, the Commonwealth offers that Bane testified she reminded Appellant about their telephone conversations prior to trial, and that she and Appellant (from prison) made three-way telephone calls to trial counsel to tell him of these conversations, but Appellant never testified that he informed trial counsel that Bane was an alibi witness. Moreover, the Commonwealth emphasizes that neither Appellant nor Appellant\u2019s father mentioned Bane or the alleged telephone conversations in their trial testimony, although both testified that they were together at Appellant\u2019s father\u2019s house until shortly before 1:50 p.m. on the day of the murder. Finally, the Commonwealth submits Appellant never testified the alleged telephone call occurred. According to the Commonwealth, it is inconceivable the calls occurred, that Bane reminded Appellant about them before trial, but that neither Appellant nor his father testified about these conversations at trial or any time thereafter. Additionally, the Commonwealth adds that, while Bane testified that she was \u201clike family\u201d with Appellant\u2019s family and that Appellant was \u201clike my big brother,\u201d Commonwealth\u2019s Brief at 21 (citing N.T., 1/30/09, 19, 34), Bane did not know Appellant\u2019s mother\u2019s name, his sister\u2019s name, or his father\u2019s name. While she claimed that she called Appellant\u2019s father Mr. Dennis, his name is James Murray.\nThe Commonwealth also offers that Bane\u2019s testimony regarding her efforts to contact trial counsel\u2019s investigator were not worthy of belief. The Commonwealth notes that, while Bane testified Appellant\u2019s investigator asked her some questions and gave her his card, but never contacted her, Appellant\u2019s investigator, while not specifically recalling Bane, stated that he would never fail to interview an alibi witness. Furthermore, realizing the importance of an alibi witness, the investigator\u2019s practice was to conduct a 15-20 minute interview to determine if the witness\u2019 information was helpful to the defense, and he testified that he would not have left without evaluating the information.\nMoreover, the Commonwealth emphasizes that Bane, while allegedly at trial, never approached trial counsel, and could not remember if she advised Appellant\u2019s family that she was there to testify on Appellant\u2019s behalf. Finally, the Commonwealth claims that the PCRA court was not required to address the credibility of each of Bane\u2019s assertions, but, rather, contends we can affirm the PCRA court if there is support for its findings, as they further contend \u201cmultiple inaccuracies and implausabilities in Bane\u2019s testimony\u201d were present. Commonwealth\u2019s Brief at 32.\nThe Commonwealth further submits the record supports the PCRA court\u2019s determination that Bane could not have established an alibi for appellant. According to the Commonwealth, the events at Fern Rock Station occurred before she disembarked from the train, thus, even if her bus picked her up immediately, she rode the 10 blocks to the bus stop closest to her house, Bane heard a news report of the murder, and she called Appellant immediately, Bane\u2019s testimony could not establish that it was impossible for Appellant to have committed the murder, as Appellant\u2019s father\u2019s house was less than one mile from the scene of the murder. Finally, the Commonwealth maintains Appellant could not establish that trial counsel lacked a reasonable basis for not calling Bane, because Appellant failed to present trial counsel\u2019s testimony at the PCRA remand hearing.\nThe PCRA court noted various discrepancies and gaps in Bane\u2019s statements which supported its conclusion Bane\u2019s testimony was incredible. Specifically, Bane could not remember what name appeared on her caller ID when speaking with Appellant at his father\u2019s home, and, related thereto, the Commonwealth introduced evidence that, at the time of the murder, caller ID was not available to the general public; while Bane offered that an investigator met with her for a brief period, trial counsel\u2019s investigator testified that, while he had no independent recollection of Bane specifically, he knew the importance of an alibi witness and it was his practice to interview potential witnesses and take a statement; while Bane testified that she came to the courthouse on two occasions, she could not recall the name of the court, and, while there, she remained in the hall outside the courtroom for hours, but without making any attempt to speak with trial counsel or make her presence known; finally, Bane claimed she told Appellant\u2019s family members that she had been speaking with Appellant at the time of Williams\u2019 murder, yet, could not remember their names. Accordingly, the PCRA court regarded Bane\u2019s testimony to be incredible. The PCRA court determined the testimony failed to establish that Bane was an alibi witness. Finally, the court found Appellant failed to demonstrate that Bane was willing to testify on Appellant\u2019s behalf, as she failed to provide information to the investigator, and appeared at the court house during Appellant\u2019s trial but remained in the hall outside the courtroom. Moreover, while she saw trial counsel, she failed to notify him that she had helpful information. Thus, the PCRA court concluded that Appellant was not entitled to relief.\nA PCRA court\u2019s credibility findings are to be accorded great deference. Commonwealth v. Johnson, 600 Pa. 329, 356, 966 A.2d 523, 539 (2009) (\u201cA PCRA court passes on witness credibility at PCRA hearings, and its credibility determinations should be provided great deference by reviewing courts.\u201d). Indeed, where the record supports the PCRA court\u2019s credibility determinations, such determinations are binding on a reviewing court. Commonwealth v. Abu-Jamal, 553 Pa. 485, 527, 720 A.2d 79, 99 (1998).\nWe believe the PCRA court\u2019s findings that Bane\u2019s testimony was incredible and that Bane was not willing to testify are supported by the record. Specifically, Bane stated that she saw Appellant\u2019s father\u2019s name on caller ID, when such service was not available to the general public at the time of the murder. Additionally, while Bane testified that she and Appellant spoke on several occasions after his incarceration, and it was not until the second or third conversation that Bane made the connection between the time of the murder and her telephone calls with Appellant, evidently, Appellant never told trial counsel about such alibi testimony and did not testify at trial or thereafter regarding these alleged conversations. Furthermore, Bane\u2019s testimony that she knew Appellant\u2019s family was contradicted by her own testimony that she did not know their names, and did not know Appellant\u2019s father\u2019s address or the section of the city in which Appellant\u2019s father lived. Additionally, testimony concerning Bane\u2019s appearance at Appellant\u2019s trial was undermined by her failure to contact trial counsel at the trial; further, although Bane testified she had been speaking with Appellant at the time of Williams\u2019 murder, there was no testimony that Appellant\u2019s family informed trial counsel of her presence.\nSimilarly, we find that the PCRA court\u2019s conclusion that Bane was not willing to testify on Appellant\u2019s behalf is supported by the record. As noted by the PCRA court, even if Bane were at the courtroom, she remained in the hall and did not attempt to contact counsel regarding her information, even though she saw counsel. Finally, although not addressed by the PCRA court, we have previously, and repeatedly, rejected assertions that non-meritorious claims may collectively attain merit. Commonwealth v. Laird, 605 Pa. 137,185-86, 988 A.2d 618, 647 (2010).\nIn conclusion, we hold the PCRA court\u2019s findings concerning the ineffectiveness of appellate and trial counsel for failure to' investigate and call Anissa Bane as an alibi witness are supported by the record and its conclusions denying relief are free of legal error.\nWe now turn to the second issue; whether the PCRA court erred in finding that a police activity sheet, which was not disclosed to Appellant, was not material under Brady, and, thus, that Appellant was not entitled to a new trial on that basis. Appellant argues the Commonwealth withheld this evidence, which concerned its most significant trial witness, Zahra Howard \u2014 as noted above, the girl accompanying Williams when she was attacked \u2014 and that Howard \u201clied to police and lied in her trial testimony.\u201d Appellant\u2019s Brief at 7. This, according to Appellant, entitles him to a new trial. Specifically, Appellant offers Howard was one of three witnesses presented by the Commonwealth at trial. According to Appellant, all three witnesses described a shooter substantially taller, darker, and heavier than Appellant. Appellant maintains, of the three witnesses, Howard interacted with the perpetrators for an extended period of time, beginning before the assault began, and was in the closest proximity; thus, her testimony carried a weight distinct from other witnesses. Appellant notes, on the day of the crime, police questioned Howard as to whether she had seen the men before and whether she recognized them from school. Howard answered these questions in the negative. Yet, two days later, as reflected in the activity sheet which is at issue in this claim, and which was prepared by detectives who interviewed Williams\u2019 aunt and uncle, Diane and Mannasett Pugh, Howard told the Pughs that she did recognize the perpetrators from Olney High School where she and Williams were students. Additionally, Appellant asserts Howard stated that other witnesses \u2014 \u201cKim,\u201d and \u201cQuinton,\u201d who was Diane Pugh\u2019s nephew \u2014 were at the murder scene. Appellant submits the Commonwealth learned of Howard\u2019s statements when detectives interviewed the Pughs and documented their conversation in an activity sheet.\nAccording to Appellant, the Commonwealth neither disclosed the activity sheet nor revealed the existence of the interviews with the Pughs until the information was produced as part of discovery in the PCRA proceedings. Appellant stresses that disclosure of this information would have provided exculpatory and impeachment evidence at trial, as Howard\u2019s statements to the Pughs contradicted her statements to police and her trial testimony, and implicated an individual other than Appellant, as he never attended Olney High School and never met Howard. According to Appellant, this information could have led to new investigative avenues and tipped the balance of reasonable doubt based solely on mistaken identification, and could have led counsel to alter his investigative strategy. Moreover, Appellant avers this information could have led to the impeachment of Howard, both at pretrial hearings, and at trial.\nFurthermore, Appellant maintains the hearing before the PCRA court was flawed. Appellant argues that Howard\u2019s testimony, as well as Diane Pugh\u2019s testimony, at the PCRA hearing was inconsistent and added nothing to the inquiry before the court. Additionally, Appellant claims the PCRA court improperly attempted to recreate the atmosphere of a trial by testing Howard\u2019s knowledge of the events that occurred 20 years earlier. Yet, according to Appellant, the court also prevented him from inquiring into areas outside of the Pughs\u2019 statement and Howard\u2019s 2008 statement to police, and refused to allow questions regarding Howard\u2019s identification of Appellant or the events of the day of the murder.\nRegarding the PCRA court\u2019s analysis in its opinion, Appellant contends the court improperly applied a \u201cpurely mathematical \u2018three witnesses minus one still equals two\u2019 approach\u201d which is not the standard for Brady materiality. Appellant\u2019s Brief at 20. Rather, according to Appellant, the issue is whether the trial resulted in a verdict worthy of confidence. Appellant reasons the impeachment evidence is material under this standard because Howard\u2019s testimony played a significant role at trial and she hesitated in her identification, both at the photo array and the line up. Likewise, Appellant argues that the other two eyewitnesses, who had \u201cmuch more limited views,\u201d also gave descriptions that were inconsistent with the appearance of Appellant. Appellant\u2019s Brief at 22. Furthermore, Appellant claims the PCRA court\u2019s credibility findings are misplaced as the proper focus is the potential impact of the use of the withheld impeachment evidence at trial \u2014 i.e., the character and materiality of the withheld evidence. Appellant also submits that the PCRA court erroneously found the underlying evidence would have been inadmissible hearsay, as, according to Appellant, impeachment evidence is excluded from the definition of hearsay.\nThe Commonwealth first responds that the police activity sheet is a summary of out-of-court statements, and, thus, is not admissible for impeachment purposes. Specifically, according to the Commonwealth, a witness cannot be impeached with a prior inconsistent statement unless he made or adopted that statement. As the activity sheet at issue is not a statement, but, rather, a summary, according to the Commonwealth, it would be unfair to impeach a witness on a police officer\u2019s interpretation of what was said rather than the witnesses\u2019 verbatim words.\nMoreover, the Commonwealth argues the PCRA court properly found that Appellant failed to meet his burden to prove materiality. The PCRA court found that disclosure of any information in the police activity sheet would not have created a reasonable possibility of a different result and that its absence did not undermine confidence in the verdicts; this determination, according to the Commonwealth, was supported by the credibility findings made by the PCRA court. Furthermore, the Commonwealth offers, at trial, Howard was subjected to extensive cross-examination regarding her lack of certainty at the photo array and the line up. Moreover, the Commonwealth highlights that, although Howard\u2019s testimony was important, the testimony of two other eyewitnesses would have been unaffected by the impeachment of Howard, who, like Howard, viewed Appellant at close range.\nIn Commonwealth v. Weiss, 604 Pa. 573, 584-85, 986 A.2d 808, 814-15 (2009), we recently explained the law and standards to be applied in addressing a Brady claim. As we noted, the United States Supreme Court in Brady held that due process is violated when the prosecution withholds evidence favorable to a defendant. Weiss, 604 Pa. at 584, 986 A.2d at 814. Impeachment evidence, as well as exculpatory evidence, falls within the Brady rule. U.S. v. Bagley, 473 U.S. 667, 677, 105 S.Ct. 3375, 87 L.Ed.2d 481 (1985).\nTo establish a violation of Brady, a defendant is required to demonstrate: (1) evidence was suppressed by the Commonwealth, either willfully or inadvertently; (2) the evidence was favorable to the defendant; and (3) the evidence was material, in that its omission resulted in prejudice to the defendant. Commonwealth v. Lambert, 584 Pa. 461, 471, 884 A.2d 848, 854 (2005); see also Kyles v. Whitley, 514 U.S. 419, 433-34, 115 S.Ct. 1555, 131 L.Ed.2d 490 (1995) (evidence is material under Brady, and the failure to disclose it justifies setting aside a conviction, only where there exists a reasonable probability that had the evidence been disclosed the result at trial would have been different.). Conversely, \u201c[t]he mere possibility that an item of undisclosed information might have helped the defense, or might have affected the outcome of the trial does not establish materiality in the constitutional sense.\u201d McGill, 574 Pa. at 583, 832 A.2d at 1019 (quoting U.S. v. Agurs, 427 U.S. 97, 109-10, 96 S.Ct. 2392, 49 L.Ed.2d 342 (1976)). In determining whether a \u201creasonable probability\u201d of a different outcome has been established, the \u201cquestion is not whether the defendant would more likely than not have received a different verdict with the evidence, but whether in its absence he received a fair trial, understood as a trial resulting in a verdict worthy of confidence.\u201d Kyles, 514 U.S. at 434, 115 S.Ct. 1555. Thus, a \u201creasonable probability\u201d of a different result is established when the government\u2019s suppression of evidence \u201cundermines confidence in the outcome of the trial.\u201d Bagley, 473 U.S. at 678, 105 S.Ct. 3375. Importantly, \u201cin order to be entitled to a new trial for failure to disclose evidence affecting a witness\u2019 credibility, the defendant must demonstrate that the reliability of the witness may well be determinative of his guilt or innocence.\u201d Commonwealth v. Johnson, 556 Pa. 216, 227, 727 A.2d 1089, 1094 (1999). In engaging in this analysis, a reviewing court is not to review the undisclosed evidence in isolation, but, rather, the omission is to be evaluated in the context of the entire record. Commonwealth v. Small, 559 Pa. 423, 441, 741 A.2d 666, 675-76 (1999).\nHere, the PCRA court found, after a hearing, that Appellant failed to meet his burden under Brady to establish materiality. First, according to the PCRA court, Howard testified at the PCRA hearing that she did not know Appellant from Olney High School, nor had she ever seen him prior to the murder. Moreover, she did not remember Quinton being present at the time of the murder and did not know anyone named Kim. Howard testified she did not tell Diane Pugh that she knew Appellant from high school, and Diane Pugh stated at the hearing that she did not recall telling anyone that Howard recognized Appellant from Olney High School. Furthermore, the PCRA court noted Howard was extensively cross-examined at trial and during the evidentiary hearings before it.\nUltimately, the PCRA court did not believe that any additional impeachment based on the activity sheet would have created a reasonable probability that the result of the proceeding would have been different. The court opined this was especially true as the Commonwealth\u2019s case did not rely solely on Howard\u2019s testimony, and the court noted the Commonwealth presented two additional eyewitnesses, Thomas Bertha, who stepped in front of Appellant, but backed away when Appellant raised his gun, and James Cameron, a SEPTA cashier, who watched the shooting from close range. Both eyewitnesses identified Appellant from a photo array, a lineup, and in court. Thus, the PCRA court concluded Appellant\u2019s claim under Brady failed.\nWe find the PCRA court\u2019s conclusion \u2014 that Appellant failed to establish the failure to disclose the police activity sheet undermined confidence in the outcome of the trial such as would have created a reasonable probability that the result of the proceedings would have been different \u2014 is both proper and supported by the record. Specifically, as noted by the court, Howard was extensively cross-examined by defense counsel in an attempt to impeach her testimony during trial, and, as noted by the Commonwealth, this included Howard\u2019s identification of the shooter. Importantly, and contrary to Appellant\u2019s assertions, there were two eyewitnesses other than Howard who observed the shooting at close range. Moreover, these witnesses positively identified Appellant as the shooter in a photo array, in a line up, and at trial. The disclosure of the activity sheet would have had no impact upon these eyewitnesses\u2019 testimony. This is especially true here, where, as we noted in Dennis III, these witnesses had \u201cprolonged, unobstructed views of Appellant during and immediately after the shooting.\u201d Dennis III, 597 Pa. at 167, 950 A.2d at 949; see also Weiss, 604 Pa. at 587, 986 A.2d at 816 (stressing relevance of testimony of witness being \u201ccompletely unaffected\u201d by disclosure of the impeachment evidence casting doubt on the reliability of other witnesses). Based upon the above, we do not find that a different result was reasonably probable with the use of the police activity sheet, and hold that Appellant still received a fair trial resulting in a verdict worthy of confidence. Thus, we conclude that the PCRA court properly rejected Appellant\u2019s Brady claim.\nHaving considered and rejected the claims that we remanded for further review, the remainder of the order of the PCRA court is affirmed. Jurisdiction relinquished.\nJustice ORIE MELVIN did not participate in the consideration or decision of this case.\nChief Justice CASTILLE, Justices SAYLOR, EAKIN, BAER and McCAFFERY join the opinion.\n. 42 Pa.C.S.A. \u00a7\u00a7 9541-46.\n. A recitation of the facts has also been provided in our prior decisions at Commonwealth v. Dennis, 552 Pa. 331, 715 A.2d 404 (1998) (\"Dennis I\"); and Commonwealth v. Dennis, 580 Pa. 95, 859 A.2d 1270 (2004) (\u2018\u2018Dennis II\").\n. As Appellant\u2019s appeal pre-dated our decision in Commonwealth v. Grant, 572 Pa. 48, 813 A.2d 726 (2002), in which we required challenges to the constitutional effectiveness of counsel to be deferred until collateral review, and Appellant had new counsel on direct appeal, he was required to raise challenges to the effectiveness of counsel at the earliest opportunity, here, on direct appeal.\n. Appellant must further demonstrate the issues raised in his petition have not been previously litigated or waived, and \"the failure to litigate the issue prior to or during trial, during unitary review or on direct appeal could not have been the result of any rational, strategic or tactical decision by counsel.\u201d 42 Pa.C.S.A. \u00a7 9543(a)(3), (4). An issue has been litigated pursuant to the PCRA if the highest appellate court in which petitioner was entitled to review as a matter of right has ruled on the merits of the issue. Further, a claim under the PCRA will be waived \u201cif the petitioner could have raised it but failed to do so before trial, at trial, during unitary review, on appeal or in a prior state postconviction proceeding.\" 42 Pa.C.S.A. \u00a7 9544(b).\n. These claims were previously raised and were not part of our current remand.\n. The PCRA court previously held that any Brady claim regarding Kim and Quinton was waived because trial counsel had a statement from another of Williams' aunts, Elaine Parker, that discussed Kim and Quinton. According to Appellant, however, the import of the Kim and Quinton information is that it bolsters the credibility of the undisclosed Pughs\u2019 statements.\n. We need not address these claims of PCRA court error regarding the proceedings below given our disposition on materiality.\n. The Prothonotary of the Supreme Court is directed to transmit a complete record of this case to the Governor in accordance with 42 Pa.C.S.A. \u00a7 971 l(i).",
+        "type": "majority",
+        "author": "Justice TODD."
+      }
+    ],
+    "attorneys": [
+      "Rebecca Gordon, Ryan David Guilds, Amy McGinnis, Arnold & Porter, LLP, Daniel Silverman, Silverman & Associates, P.C., for James Dennis.",
+      "Hugh J. Burns, Jr., Philadelphia District Attorney\u2019s Office, Philadelphia, Amy Zapp, Harrisburg, for Commonwealth of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "17 A.3d 297\nCOMMONWEALTH of Pennsylvania, Appellee v. James DENNIS, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted June 25, 2007.\nDecided Jan. 18, 2011.\nRebecca Gordon, Ryan David Guilds, Amy McGinnis, Arnold & Porter, LLP, Daniel Silverman, Silverman & Associates, P.C., for James Dennis.\nHugh J. Burns, Jr., Philadelphia District Attorney\u2019s Office, Philadelphia, Amy Zapp, Harrisburg, for Commonwealth of Pennsylvania.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "0442-01",
+  "first_page_order": 484,
+  "last_page_order": 506
+}

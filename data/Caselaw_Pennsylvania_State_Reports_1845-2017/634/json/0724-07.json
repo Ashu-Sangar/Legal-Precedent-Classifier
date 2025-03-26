@@ -1,0 +1,70 @@
+{
+  "id": 12280433,
+  "name": "Com. v. Bashir",
+  "name_abbreviation": "Com. v. Bashir",
+  "decision_date": "2015-12-17",
+  "docket_number": "496 MAL (2015)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 724"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 1124",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.875,
+    "sha256": "562b1351b56b4ff5445f3bbcf4a7b3f41cc19b5538ccb9fbfa83790d9ddc3fd9",
+    "simhash": "1:0b0da8c4c2705940",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Bashir"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 1124",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Bashir\n12/17/2015\n496 MAL (2015)"
+  },
+  "file_name": "0724-07",
+  "first_page_order": 768,
+  "last_page_order": 768
+}

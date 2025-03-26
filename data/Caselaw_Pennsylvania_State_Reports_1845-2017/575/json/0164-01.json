@@ -1,0 +1,109 @@
+{
+  "id": 630348,
+  "name": "EAGLE ENVIRONMENTAL II, L.P., Petitioner, v. COMMONWEALTH of Pennsylvania, Department of Environmental Protection and Chest Township, Respondents",
+  "name_abbreviation": "Eagle Environmental II, L.P. v. Commonwealth",
+  "decision_date": "2003-11-12",
+  "docket_number": "Appeal No. 173 MAL 2003",
+  "first_page": "164",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "575 Pa. 164"
+    },
+    {
+      "type": "parallel",
+      "cite": "835 A.2d 707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2003 WL 22681332",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "835 A.2d 706",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9067485,
+        9067533,
+        630518,
+        630487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/835/0706-01",
+        "/a2d/835/0706-02",
+        "/pa/575/0162-02",
+        "/pa/575/0163-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630487
+      ],
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0163-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 521,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7488179812799897
+    },
+    "sha256": "725a10af00f0875580093541504903c5dc57aeea1cf626c9c5b729f634949611",
+    "simhash": "1:689ceb7df1036a84",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T20:08:57.337856+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EAGLE ENVIRONMENTAL II, L.P., Petitioner, v. COMMONWEALTH of Pennsylvania, Department of Environmental Protection and Chest Township, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of November, 2003, the Petition for Allowance of Appeal is granted. It is further ordered that the matter be CONSOLIDATED with Tri-County Industries, Inc., et al. v. Department of Environmental Protection, No. 179 MAL 2003, 575 Pa. 163, 164, 835 A.2d 706, 2003 WL 22681332.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "835 A.2d 707\nEAGLE ENVIRONMENTAL II, L.P., Petitioner, v. COMMONWEALTH of Pennsylvania, Department of Environmental Protection and Chest Township, Respondents.\nSupreme Court of Pennsylvania.\nNov. 12, 2003."
+  },
+  "file_name": "0164-01",
+  "first_page_order": 308,
+  "last_page_order": 308
+}

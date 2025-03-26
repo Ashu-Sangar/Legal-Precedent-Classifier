@@ -1,0 +1,70 @@
+{
+  "id": 12282388,
+  "name": "Com. v. McKissick",
+  "name_abbreviation": "Com. v. McKissick",
+  "decision_date": "2015-12-30",
+  "docket_number": "686 MAL (2015)",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 86",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "ocr_confidence": 0.753,
+    "sha256": "70b5acae82fc3475098fc6b9215de81ec7dd93ab39b82f88b7ceac16d1f2e895",
+    "simhash": "1:ad33e065ba8a19d4",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. McKissick"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 86",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. McKissick\n12/30/2015\n686 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter,"
+  },
+  "file_name": "0745-01",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

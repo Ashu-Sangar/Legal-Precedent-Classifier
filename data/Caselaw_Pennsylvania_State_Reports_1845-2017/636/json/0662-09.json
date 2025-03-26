@@ -1,0 +1,70 @@
+{
+  "id": 12283064,
+  "name": "Com. v. Szekeres",
+  "name_abbreviation": "Com. v. Szekeres",
+  "decision_date": "2016-07-27",
+  "docket_number": "31 MAL (2016)",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 662"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 660",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 169,
+    "ocr_confidence": 0.741,
+    "sha256": "5522cd1d449301887a8ed0b926efb6a80c2a5aeade4f3ef1956eeab7e049ce8a",
+    "simhash": "1:6d56b2d6ab5a7156",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Szekeres"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 660",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Szekeres\n07/27/2016\n31 MAL (2016)\n. Justices WECHT and MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0662-09",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

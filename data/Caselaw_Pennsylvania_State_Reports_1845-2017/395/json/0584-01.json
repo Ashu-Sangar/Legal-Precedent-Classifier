@@ -1,0 +1,88 @@
+{
+  "id": 1282753,
+  "name": "Commonwealth v. Stone",
+  "name_abbreviation": "Commonwealth v. Stone",
+  "decision_date": "1959-05-08",
+  "docket_number": "Appeals, Nos. 30 to 48",
+  "first_page": "584",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "395 Pa. 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A. 2d 614",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Pa. Superior Ct. 225",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        741566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/187/0225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 584,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 1.1018008286147588e-07,
+      "percentile": 0.5685418339061467
+    },
+    "sha256": "4f8d64f9262f1eead6da6a141ccc13c787c7acae34e93477c93248234584df46",
+    "simhash": "1:24d818886e2a6919",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T17:17:15.856061+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and McBride, JJ.",
+      "Mr. Justice Musmanno dissents."
+    ],
+    "parties": [
+      "Commonwealth v. Stone."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\n.'The judgments of the Superior Court are affirmed on the opinion of Judge Ervin, reported at 187 Pa. Superior Ct. 225, 144 A. 2d 614.\nMr. Justice Musmanno dissents.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "0. Brewster Rhoads, with him G. Thomas Miller., Donald J. Farage, - and Bailey, Pearson, Miller & Bolton, and Montgomery, McCracken, Walker & Rhoads, for appellant.",
+      "Martin H. Lock, Assistant District Attorney, with him H. F. Dowling, District Attorney, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Stone.\nArgued March 19, 1959.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and McBride, JJ.\n0. Brewster Rhoads, with him G. Thomas Miller., Donald J. Farage, - and Bailey, Pearson, Miller & Bolton, and Montgomery, McCracken, Walker & Rhoads, for appellant.\nMartin H. Lock, Assistant District Attorney, with him H. F. Dowling, District Attorney, for appellee.\nMay 8, 1959:"
+  },
+  "file_name": "0584-01",
+  "first_page_order": 604,
+  "last_page_order": 604
+}

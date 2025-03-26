@@ -1,0 +1,87 @@
+{
+  "id": 1238055,
+  "name": "Bailey Estate",
+  "name_abbreviation": "Bailey Estate",
+  "decision_date": "1953-01-05",
+  "docket_number": "Appeal, No. 205",
+  "first_page": "204",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "372 Pa. 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "93 A. 2d 443",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "372 Pa. 200",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1238035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/372/0200-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 299,
+    "char_count": 3633,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046478964603727864
+    },
+    "sha256": "927f4c55859da8602f303f6aeabbe12f1bf03704212f220e72377cb412663ad1",
+    "simhash": "1:2ac1a4479b3d48ca",
+    "word_count": 646
+  },
+  "last_updated": "2024-02-27T18:12:52.345447+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stern, C. J., Stearne, Jones, Bell, Chidsey and Musmanno, JJ."
+    ],
+    "parties": [
+      "Bailey Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justice Allen M. Stearns,\nThis is an appeal from a decree of the Orphans\u2019 Court of Allegheny County authorizing the administrator d. b. n. c. t. a. of the estate of Madison Bailey, deceased, to sell as personalty certain real estate of decedent. The sole question presented is whether there was an equitable conversion of the real estate under the terms of decedent\u2019s will, which read in part as follows:\n\u201cSecond. I give and bequeath to my said wife in lieu of dower (should she so elect) the Homestead on which 1 now reside situate on Terrace Avenue, Fourteenth Ward, City of Pittsburgh together with all the furniture household goods and chattels pertaining thereto, for and during her natural life. But if at any time she shall deem it to be to her interest and advantage to sell and dispose of the same then and in that case my executors hereinafter to be named are hereby authorized and directed to join with her in making and executing the necessary deed or deeds for the conveyance of the same in fee simple and from and out of the proceeds of the sale thereof she shall receive the interest or income of the one third of the amount for which the same was sold for and during her natural life. And I further direct that the taxes and repairs upon the same be paid by my executors out of my estate.\n\u201cThird. I further direct that my executors hereinafter to be named shall pay out of my estate to my said wife the sum of Nineteen Hundred ($1900.00) Dollars per annum (the same to be paid semi-annually) during her natural life.\n\u201cFourth. Subject to the foregoing provisions devise and bequest to my wife I give and bequeath to my executors hereinafter to be named (or the survivors of them) all my estate, real, personal or mixed, of whatsoever kind and wherever found to he by them divided into Five shares of equal value and distributed as follows, to-wit: to my daughter Virginia H. Bailey, one share, to my daughter Mrs. Annie H. Moore, one share, to my son Austin L. Bailey one share, to my son Frank A. Bailey one share and to my son Madison Bailey, Jr. one share, and I further direct that my said children above named shall each be charged with such sum or sums of money as may have been or may hereafter be advanced to them respectively, and charged to them on my Family Book together with the amount of any notes that I may hold against them without interest.\u201d\nThe controlling principles of law have been discussed at length in Kikel v. Kikel, 372 Pa. 200, 93 A. 2d 443, and need not be repeated. By directing a division and distribution of all his \u201cestate, real, personal or mixed,\u201d in five shares of equal value, with each distributee charged with the amount of advancements to him, the testator clearly indicated his intention to have his executors create one common fund to be distributed as money. There is no indication expressed in the will that testator intended the result suggested by appellant, viz., an evaluation of each item in the estate by the executors and a distribution in kind in such manner as to work equality. Upon the contrary the words of the will clearly indicate a testamentary intent for a sale of the assets and an equal division of the money. Such blending so contemplated by testator works an equitable conversion.\nDecree affirmed at appellant\u2019s costs.",
+        "type": "majority",
+        "author": "Me. Justice Allen M. Stearns,"
+      }
+    ],
+    "attorneys": [
+      "Edward A. Heights, with him Alfred James Duff and Goehring \u00e9 Collin, for appellant.",
+      "Guy B. Hoge, with him Samuel A. Schreiner, Joseph I. Marshall, and Reed, Smith, Shaw & MeOlay, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bailey Estate.\nArgued November 12, 1952.\nBefore Stern, C. J., Stearne, Jones, Bell, Chidsey and Musmanno, JJ.\nEdward A. Heights, with him Alfred James Duff and Goehring \u00e9 Collin, for appellant.\nGuy B. Hoge, with him Samuel A. Schreiner, Joseph I. Marshall, and Reed, Smith, Shaw & MeOlay, for appellee.\nJanuary 5, 1953:"
+  },
+  "file_name": "0204-01",
+  "first_page_order": 228,
+  "last_page_order": 230
+}

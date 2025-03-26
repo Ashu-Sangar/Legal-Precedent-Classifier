@@ -1,0 +1,63 @@
+{
+  "id": 12285139,
+  "name": "Com. v. Schenck",
+  "name_abbreviation": "Com. v. Schenck",
+  "decision_date": "2016-08-30",
+  "docket_number": "229 EAL (2016)",
+  "first_page": "675",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 49,
+    "ocr_confidence": 0.939,
+    "sha256": "aca7ac99d7901bd9d4ed799983d623eaa48968f5f9aa7c0d42f7976b32ab7bc9",
+    "simhash": "1:f3686c5a64698d12",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T15:51:24.577639+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Schenck"
+    ],
+    "opinions": [
+      {
+        "text": "Denied",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Schenck\n08/30/2016\n229 EAL (2016)"
+  },
+  "file_name": "0675-07",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

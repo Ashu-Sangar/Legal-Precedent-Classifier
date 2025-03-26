@@ -1,0 +1,82 @@
+{
+  "id": 466628,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Andrew J. BYRNE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Byrne",
+  "decision_date": "1996-12-11",
+  "docket_number": "",
+  "first_page": "585",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "546 Pa. 585"
+    },
+    {
+      "type": "parallel",
+      "cite": "687 A.2d 814"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "530 Pa. 396",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833006
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0396-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 578,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.017147910939981442
+    },
+    "sha256": "60f16cc85a886134315071fbb1aafd418dac94cdc785cbcf593b9549949b9285",
+    "simhash": "1:3f157309e6eb29e3",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T19:23:05.732246+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Andrew J. BYRNE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 11th day of December, 1996, the Petition for Allowance of Appeal in the above-captioned case is hereby GRANTED, limited to the following issue:\nDid the Superior Court err in holding that the admission of hearsay testimony which revealed ill will and malice by the Petr towards the decedent was harmless error in direct violation of this Court\u2019s opinion in Commonwealth v. Myers, 530 Pa. 396, 609 A.2d 162 (1992)?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "687 A.2d 814\nCOMMONWEALTH of Pennsylvania, Respondent, v. Andrew J. BYRNE, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 11, 1996."
+  },
+  "file_name": "0585-02",
+  "first_page_order": 709,
+  "last_page_order": 710
+}

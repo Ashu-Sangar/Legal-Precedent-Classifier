@@ -1,0 +1,104 @@
+{
+  "id": 12281449,
+  "name": "Com. v. Romansky",
+  "name_abbreviation": "Com. v. Romansky",
+  "decision_date": "2016-07-06",
+  "docket_number": "184 MAL (2016)",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 590",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485869,
+        12485870,
+        12485871,
+        12485872,
+        12485873,
+        12485874,
+        12485875,
+        12485876,
+        12485877,
+        12485878,
+        12485879,
+        12485880,
+        12485881,
+        12485882,
+        12485883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0590-10",
+        "/a3d/141-2/0590-11",
+        "/a3d/141-2/0590-12",
+        "/a3d/141-2/0590-13",
+        "/a3d/141-2/0590-14",
+        "/a3d/141-2/0590-15",
+        "/a3d/141-2/0590-01",
+        "/a3d/141-2/0590-02",
+        "/a3d/141-2/0590-03",
+        "/a3d/141-2/0590-04",
+        "/a3d/141-2/0590-05",
+        "/a3d/141-2/0590-06",
+        "/a3d/141-2/0590-07",
+        "/a3d/141-2/0590-08",
+        "/a3d/141-2/0590-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.86,
+    "sha256": "9f305ed2ae8f7cf952b8a3b69f50b27332b07bfe0fd6144cb28a2965dabc8d45",
+    "simhash": "1:4c442861e8505942",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Romansky"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 590",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Romansky\n07/06/2016\n184 MAL (2016)"
+  },
+  "file_name": "0648-13",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

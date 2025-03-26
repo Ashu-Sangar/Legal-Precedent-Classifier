@@ -1,0 +1,80 @@
+{
+  "id": 12281720,
+  "name": "Hinkal v. Pardoe",
+  "name_abbreviation": "Hinkal v. Pardoe",
+  "decision_date": "2016-07-06",
+  "docket_number": "142 MAL (2016)",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 738",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6819017,
+        6819067,
+        12280353
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/133/0738-01",
+        "/a3d/133/0738-02",
+        "/pa/635/0208-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.843,
+    "sha256": "b17252b1ef8eeb5314b7e9c5a02922c042df3cfb2b0b340c937f57b9e4107ab7",
+    "simhash": "1:18080597f4dd010f",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hinkal v. Pardoe"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 738",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hinkal v. Pardoe\n07/06/2016\n142 MAL (2016)"
+  },
+  "file_name": "0650-09",
+  "first_page_order": 702,
+  "last_page_order": 702
+}

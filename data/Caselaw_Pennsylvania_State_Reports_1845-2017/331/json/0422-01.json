@@ -1,0 +1,68 @@
+{
+  "id": 1184273,
+  "name": "Hartman's Estate",
+  "name_abbreviation": "Hartman's Estate",
+  "decision_date": "1938-06-17",
+  "docket_number": "Appeal, No. 3",
+  "first_page": "422",
+  "last_page": "429",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "331 Pa. 422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 336,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 1.1062673551306573e-07,
+      "percentile": 0.5696254878180157
+    },
+    "sha256": "7cf5bc95b18d4be2c54a0c029b4c6608d8548f6d88e1f685ad2c6deaa9f44f7f",
+    "simhash": "1:63215dcd609c102a",
+    "word_count": 55
+  },
+  "last_updated": "2023-07-14T21:42:41.998850+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Hartman\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Pee Cueiam,\nThe decree is affirmed on the opinion of Judge Patteeson at appellants\u2019 cost.",
+        "type": "majority",
+        "author": "Pee Cueiam,"
+      }
+    ],
+    "attorneys": [
+      "Franh G. Smith, with him Robert V. Maine and John J. Eaberstroh, for appellants.",
+      "George G. Patterson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hartman\u2019s Estate.\nArgued April 14, 1938.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nFranh G. Smith, with him Robert V. Maine and John J. Eaberstroh, for appellants.\nGeorge G. Patterson, for appellee.\nJune 17, 1938:"
+  },
+  "file_name": "0422-01",
+  "first_page_order": 472,
+  "last_page_order": 479
+}

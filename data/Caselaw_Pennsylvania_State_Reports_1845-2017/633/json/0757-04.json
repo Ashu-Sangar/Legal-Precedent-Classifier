@@ -1,0 +1,80 @@
+{
+  "id": 12282332,
+  "name": "Navarra, In re Estate of",
+  "name_abbreviation": "In re Estate of Navarra",
+  "decision_date": "2015-08-25",
+  "docket_number": "167 WAL (2015)",
+  "first_page": "757",
+  "last_page": "757",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 757"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "113 A.3d 829",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6879378
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/113/0829-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 82,
+    "ocr_confidence": 0.865,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.249089425676941
+    },
+    "sha256": "7bb32c15563db99d4a403b88b0563079dae48691dfa9906996f8ce485ae7d57e",
+    "simhash": "1:bac5e40f717014d7",
+    "word_count": 14
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Navarra, In re Estate of"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 113 A.3d 829",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Navarra, In re Estate of\n08/25/2015\n167 WAL (2015)"
+  },
+  "file_name": "0757-04",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

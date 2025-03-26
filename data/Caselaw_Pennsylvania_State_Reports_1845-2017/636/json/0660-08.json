@@ -1,0 +1,104 @@
+{
+  "id": 12282772,
+  "name": "Com. v. Marchetti",
+  "name_abbreviation": "Com. v. Marchetti",
+  "decision_date": "2016-08-02",
+  "docket_number": "134 WAL (2016)",
+  "first_page": "660",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 660"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486788,
+        12486789,
+        12486790,
+        12486791,
+        12486792,
+        12486793,
+        12486794,
+        12486795,
+        12486796,
+        12486797,
+        12486798,
+        12486799,
+        12486800,
+        12486801,
+        12486802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0212-10",
+        "/a3d/144-2/0212-11",
+        "/a3d/144-2/0212-12",
+        "/a3d/144-2/0212-13",
+        "/a3d/144-2/0212-14",
+        "/a3d/144-2/0212-15",
+        "/a3d/144-2/0212-01",
+        "/a3d/144-2/0212-02",
+        "/a3d/144-2/0212-03",
+        "/a3d/144-2/0212-04",
+        "/a3d/144-2/0212-05",
+        "/a3d/144-2/0212-06",
+        "/a3d/144-2/0212-07",
+        "/a3d/144-2/0212-08",
+        "/a3d/144-2/0212-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.851,
+    "sha256": "ac4039fc899c24d3396c9f576433ec9f80cad724358585da6a947eafb967de3c",
+    "simhash": "1:e804834d9a790205",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Marchetti"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 212",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Marchetti\n08/02/2016\n134 WAL (2016)"
+  },
+  "file_name": "0660-08",
+  "first_page_order": 712,
+  "last_page_order": 712
+}

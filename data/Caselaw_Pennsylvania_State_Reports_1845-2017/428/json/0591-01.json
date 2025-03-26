@@ -1,0 +1,89 @@
+{
+  "id": 1912358,
+  "name": "Commonwealth v. Pent, Petitioner",
+  "name_abbreviation": "Commonwealth v. Pent",
+  "decision_date": "1968-01-18",
+  "docket_number": "No. 107",
+  "first_page": "591",
+  "last_page": "592",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "428 Pa. 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "232 A. 2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Pa. 226",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1908624
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/426/0226-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 775,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06971333077719975
+    },
+    "sha256": "a46873cb776d765dbf7d68c83f7e3593d00517530d1d7aaffa78cde99a6d5e73",
+    "simhash": "1:84521ac9a6e9bc62",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T22:12:57.337362+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Pent, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe petition for allocatur is granted. The order of the Superior Court is reversed. The orders of the Court of Oyer and Terminer, and Quarter Sessions of Butler County are vacated and the record is remanded to that Court with instructions to appoint counsel to represent Frederick J. Pent, alias Frederick J. Pint, in a post-conviction proceeding at which the appellant\u2019s eligibility for an evidentiary hearing and/or other relief may be determined. Cf. Commonwealth v. Hoffman, 426 Pa. 226, 232 A. 2d 623 (1967).",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Frederick J. Pent, appellant, in propria persona.",
+      "John H. Brydon, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Pent, Petitioner.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nFrederick J. Pent, appellant, in propria persona.\nJohn H. Brydon, District Attorney, for Commonwealth, appellee.\nJanuary 18, 1968:"
+  },
+  "file_name": "0591-01",
+  "first_page_order": 695,
+  "last_page_order": 696
+}

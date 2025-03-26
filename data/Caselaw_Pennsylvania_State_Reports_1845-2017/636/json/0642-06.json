@@ -1,0 +1,80 @@
+{
+  "id": 12280841,
+  "name": "Wright v. Misty Mountain Farm, LLC",
+  "name_abbreviation": "Wright v. Misty Mountain Farm, LLC",
+  "decision_date": "2016-06-15",
+  "docket_number": "38 MAL (2016)",
+  "first_page": "642",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 642"
+    },
+    {
+      "type": "parallel",
+      "cite": "140 A.3d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 814",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6844435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/125/0814-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 91,
+    "ocr_confidence": 0.833,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24903015581217283
+    },
+    "sha256": "ee6eaf923b09cf2dfec299b4304320ddbb9ddd1f580f6daa6219a1fde2f8943e",
+    "simhash": "1:2f04cc8d2ff9c31b",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wright v. Misty Mountain Farm, LLC"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 814",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wright v. Misty Mountain Farm, LLC\n06/15/2016\n38 MAL (2016)"
+  },
+  "file_name": "0642-06",
+  "first_page_order": 694,
+  "last_page_order": 694
+}

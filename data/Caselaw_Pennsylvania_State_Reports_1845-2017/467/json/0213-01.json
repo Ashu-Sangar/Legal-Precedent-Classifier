@@ -1,0 +1,113 @@
+{
+  "id": 1717307,
+  "name": "Estate of Robert A. STRUNK, Sr., Deceased. Appeal of Robert A. STRUNK, Jr.",
+  "name_abbreviation": "Estate of Strunk",
+  "decision_date": "1976-03-17",
+  "docket_number": "No. 97",
+  "first_page": "213",
+  "last_page": "214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "467 Pa. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "355 A.2d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "299 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 133",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947048
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0133-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 203",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483784
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/461/0203-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 100,
+    "char_count": 953,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.4363173296976001
+    },
+    "sha256": "835731b849940cccdbaa3c71cd61782ec91db8d87eadc7747db7e8659ef3660f",
+    "simhash": "1:14ecb9d49c83d615",
+    "word_count": 153
+  },
+  "last_updated": "2024-02-27T20:04:50.579059+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before JONES, C. J., and EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ.",
+      "EAGEN, O\u2019BRIEN and ROBERTS, JJ., filed a dissenting opinion."
+    ],
+    "parties": [
+      "Estate of Robert A. STRUNK, Sr., Deceased. Appeal of Robert A. STRUNK, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OP THE COURT\nPER CURIAM.\nAppellant having failed to file exceptions to the decree from which this appeal is brought, the appeal is quashed. See Banes Estate, 461 Pa. 203, 336 A.2d 248 (1975); Sniderman Estate, 450 Pa. 133, 299 A.2d 207 (1973).\nCosts on appellant.\nEAGEN, O\u2019BRIEN and ROBERTS, JJ., filed a dissenting opinion.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      },
+      {
+        "text": "EAGEN, O\u2019BRIEN and ROBERTS, Justices\n(dissenting).\nThis appeal is from a final decree of the orphans\u2019 court which was timely filed. The merits of the controversy should therefore be reached. The majority, instead, quashes the appeal. We dissent.",
+        "type": "dissent",
+        "author": "EAGEN, O\u2019BRIEN and ROBERTS, Justices"
+      }
+    ],
+    "attorneys": [
+      "Kingsley A. Jarvis, Norristown, for appellant.",
+      "Walton B. Yoder, Jr., Souderton, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "355 A.2d 587\nEstate of Robert A. STRUNK, Sr., Deceased. Appeal of Robert A. STRUNK, Jr.\nSupreme Court of Pennsylvania.\nArgued April 7, 1975.\nDecided March 17, 1976.\nRehearing Denied April 27, 1976.\nKingsley A. Jarvis, Norristown, for appellant.\nWalton B. Yoder, Jr., Souderton, for appellee.\nBefore JONES, C. J., and EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0213-01",
+  "first_page_order": 245,
+  "last_page_order": 246
+}

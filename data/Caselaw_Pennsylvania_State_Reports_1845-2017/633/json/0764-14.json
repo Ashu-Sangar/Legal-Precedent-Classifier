@@ -1,0 +1,70 @@
+{
+  "id": 12283340,
+  "name": "Com. v. Kemfort",
+  "name_abbreviation": "Com. v. Kemfort",
+  "decision_date": "2015-11-04",
+  "docket_number": "364 MAL (2015)",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.865,
+    "sha256": "a5cdb86d026c9366698fb9ad7635f6d3ddd5cef0dde61ba43c268172fae357c7",
+    "simhash": "1:20d408a54b6a1c23",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Kemfort"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1130",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Kemfort\n11/04/2015\n364 MAL (2015)"
+  },
+  "file_name": "0764-14",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

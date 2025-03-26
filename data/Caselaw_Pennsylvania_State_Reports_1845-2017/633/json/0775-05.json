@@ -1,0 +1,70 @@
+{
+  "id": 12284863,
+  "name": "Com. v. Dodd",
+  "name_abbreviation": "Com. v. Dodd",
+  "decision_date": "2015-10-26",
+  "docket_number": "241 MAL (2015)",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 775"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1045",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.898,
+    "sha256": "701a777aa85f5588ec4d09753eb4885bb4388c9ab1f44272bf04d2de8f714151",
+    "simhash": "1:3a1d00a4d4324c40",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dodd"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1045",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dodd\n10/26/2015\n241 MAL (2015)"
+  },
+  "file_name": "0775-05",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

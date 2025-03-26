@@ -1,0 +1,92 @@
+{
+  "id": 1296634,
+  "name": "White v. Young, Appellant",
+  "name_abbreviation": "White v. Young",
+  "decision_date": "1960-12-15",
+  "docket_number": "Appeal, No. 185",
+  "first_page": "61",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "402 Pa. 61"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A. 2d 688",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "385 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1267056
+      ],
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/385/0283-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 106,
+    "char_count": 881,
+    "ocr_confidence": 0.446,
+    "pagerank": {
+      "raw": 3.6490807853919864e-07,
+      "percentile": 0.8899908836383897
+    },
+    "sha256": "fc7d35d73ee1c2515868d93ed3e2c6a4f71fc3d3d92e432cf54844f30b348004",
+    "simhash": "1:f052ffbbd10234ec",
+    "word_count": 151
+  },
+  "last_updated": "2024-02-27T20:04:16.584067+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "White v. Young, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe order of the court of common pleas, dismissing the defendant\u2019s objection to equity\u2019s jurisdiction of the subject matter on the ground that there is a complete and adequate remedy at law, did not raise a question of jurisdiction appealable under the Act of March 5, 1925, P. L. 23, 12 PS \u00a7672 et seq. See Korona v. Bensalem Township, 385 Pa. 283, 284, 122 A. 2d 688. The appeal should therefore have been dismissed.\nThe order of the Superior Court is vacated and the appeal from the court of common pleas dismissed at appellant\u2019s costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Francis A. Barry, with him Edward S. Martin, David M. Harrison, and Harrison & Louilo, for appellant.",
+      "Adolph L. Zeman, with him Robert L. Zeman, and Zeman & Zeman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "White v. Young, Appellant.\nArgued September 26, 1960.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nDecember 15, 1960:\nFrancis A. Barry, with him Edward S. Martin, David M. Harrison, and Harrison & Louilo, for appellant.\nAdolph L. Zeman, with him Robert L. Zeman, and Zeman & Zeman, for appellee."
+  },
+  "file_name": "0061-01",
+  "first_page_order": 81,
+  "last_page_order": 82
+}

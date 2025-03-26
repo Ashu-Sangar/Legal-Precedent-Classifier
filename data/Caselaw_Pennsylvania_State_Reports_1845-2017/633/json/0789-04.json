@@ -1,0 +1,80 @@
+{
+  "id": 12287328,
+  "name": "Wisler v. Manor Care of Lancaster PA, LLC",
+  "name_abbreviation": "Wisler v. Manor Care of Lancaster PA, LLC",
+  "decision_date": "2015-12-01",
+  "docket_number": "762 MAL (2015)",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 789"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "124 A.3d 317",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6840319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/124/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 99,
+    "ocr_confidence": 0.85,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2494670538707083
+    },
+    "sha256": "ec96261396279b10ab25bdecc3ddf5862373c48f7c271aee170003073081af00",
+    "simhash": "1:bb92b8ada1521543",
+    "word_count": 17
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wisler v. Manor Care of Lancaster PA, LLC"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 124 A.3d 317",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wisler v. Manor Care of Lancaster PA, LLC\n12/01/2015\n762 MAL (2015)"
+  },
+  "file_name": "0789-04",
+  "first_page_order": 843,
+  "last_page_order": 843
+}

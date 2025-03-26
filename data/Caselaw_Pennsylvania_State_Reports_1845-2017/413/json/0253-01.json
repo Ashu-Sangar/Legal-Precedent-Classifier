@@ -1,0 +1,89 @@
+{
+  "id": 1888574,
+  "name": "Best Adoption Case",
+  "name_abbreviation": "Best Adoption Case",
+  "decision_date": "1964-01-07",
+  "docket_number": "Appeal, No. 124",
+  "first_page": "253",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "413 Pa. 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "194 A. 2d 919",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "412 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1887237
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/412/0501-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 181,
+    "char_count": 1905,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 1.9241904454379507e-07,
+      "percentile": 0.7333941090774018
+    },
+    "sha256": "4487a6815c73e52aca41e9722d4cf406b791ac8ad49887037aa1c074aa78d3eb",
+    "simhash": "1:012cb6d38892bb38",
+    "word_count": 311
+  },
+  "last_updated": "2024-02-27T23:35:30.600480+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, Cohen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Best Adoption Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe maternal grandparents of the five year old female child of their deceased daughter petitioned the Orphans\u2019 Court of Montgomery County for her adoption, alleging that the natural father had abandoned his daughter. The father appeared and opposed the adoption. The court below found that the child\u2019s father did not abandon her, refused to decree adoption, dismissed the petition, and awarded custody to the father.\nOn this appeal, the sole issue is the propriety of the factual finding by the orphans\u2019 court that the evidence failed to support a conclusion of abandonment on the part of the father. Conduct of a parent which constitutes abandonment is defined in our Adoption Act, April 4, 1925, P. L. 127, as amended, 1 P.8. \u00a7\u00a71-7, and has been construed and discussed in many decisions by this Court, the most recent being Smith Adoption Case, 412 Pa. 501, 194 A. 2d 919 (1963). It would serve no useful purpose here to repeat the frequently declared and prevailing principles governing abandonment.\nWe have carefully reviewed the extended record in the light of the controlling authorities and we conclude \u2014 as the court below correctly did \u2014 that the instant record does not supply sufficient proof to establish that the father abandoned his daughter for a period of at least six months. In the absence of clear proof of abandonment, the court below was entirely justified in refusing to enter a decree which would terminate forever the natural parent-child relationship. Our examination of the record fails to disclose any basis for disturbing the action of the court below.\nThe decree of the court below, refusing the adoption and dismissing the petition, is affirmed. Each party to pay own costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Horace A. Davenport, for appellants.",
+      "Charles W. Bowser, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Best Adoption Case.\nArgued November 19, 1963.\nJanuary 7, 1964:\nBefore Jones, Cohen, O\u2019Brien and Roberts, JJ.\nHorace A. Davenport, for appellants.\nCharles W. Bowser, for appellee."
+  },
+  "file_name": "0253-01",
+  "first_page_order": 277,
+  "last_page_order": 278
+}

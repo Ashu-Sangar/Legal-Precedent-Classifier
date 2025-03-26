@@ -1,0 +1,70 @@
+{
+  "id": 12281440,
+  "name": "Com. v. Grant",
+  "name_abbreviation": "Com. v. Grant",
+  "decision_date": "2016-02-08",
+  "docket_number": "472 MAL (2015)",
+  "first_page": "722",
+  "last_page": "722",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 722"
+    },
+    {
+      "type": "parallel",
+      "cite": "131 A.3d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1058",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.762,
+    "sha256": "aaea3d3c7fb48c84419063186267ddb81bf22233241e2ee6b297091a0372f7fa",
+    "simhash": "1:a766f25ebf0bf146",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Grant"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1058",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Grant\n02/08/2016\n472 MAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0722-02",
+  "first_page_order": 782,
+  "last_page_order": 782
+}

@@ -1,0 +1,106 @@
+{
+  "id": 4202679,
+  "name": "UNITED FINANCIAL CASUALTY COMPANY, Petitioner v. Denise FORNATARO, Respondent",
+  "name_abbreviation": "United Financial Casualty Co. v. Fornataro",
+  "decision_date": "2011-06-07",
+  "docket_number": "No. 500 WAL 2010",
+  "first_page": "393",
+  "last_page": "394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "610 Pa. 393"
+    },
+    {
+      "type": "parallel",
+      "cite": "20 A.3d 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "15 A.3d 896",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4200825,
+        7339858
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "insureds express designation of UIM coverage in insurance application satisfied statutory requirement that insureds election of UIM coverage in amount lower than coverage amount for bodily injury be in writing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0388-01",
+        "/a3d/15/0896-01"
+      ]
+    },
+    {
+      "cite": "609 Pa. 388",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4200825
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "insureds express designation of UIM coverage in insurance application satisfied statutory requirement that insureds election of UIM coverage in amount lower than coverage amount for bodily injury be in writing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0388-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 706,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13847313105899225
+    },
+    "sha256": "40cb7d24e87ced027c03c5d496397a585cadd22c8da2dfaa1222a18714c25c94",
+    "simhash": "1:fdb4dabea3808fa2",
+    "word_count": 109
+  },
+  "last_updated": "2024-02-27T22:22:12.124190+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED FINANCIAL CASUALTY COMPANY, Petitioner v. Denise FORNATARO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of June, 2011, the Petition for Allowance of Appeal is hereby GRANTED. The order of the Superior Court is VACATED, pursuant to Orsag v. Farmers New Century Insurance, 609 Pa. 388, 15 A.3d 896 (2011) (insureds express designation of UIM coverage in insurance application satisfied statutory requirement that insureds election of UIM coverage in amount lower than coverage amount for bodily injury be in writing), and the case is REMANDED to the Superior Court for consideration in accordance with Orsag. Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "20 A.3d 481\nUNITED FINANCIAL CASUALTY COMPANY, Petitioner v. Denise FORNATARO, Respondent.\nSupreme Court of Pennsylvania.\nJune 7, 2011."
+  },
+  "file_name": "0393-02",
+  "first_page_order": 453,
+  "last_page_order": 454
+}

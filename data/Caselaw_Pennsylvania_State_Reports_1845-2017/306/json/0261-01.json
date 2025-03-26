@@ -1,0 +1,68 @@
+{
+  "id": 1136840,
+  "name": "Nixon's Estate",
+  "name_abbreviation": "Nixon's Estate",
+  "decision_date": "1932-01-05",
+  "docket_number": "Appeals, Nos. 295 and 296",
+  "first_page": "261",
+  "last_page": "268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "306 Pa. 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 567,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 3.9757163382186815e-07,
+      "percentile": 0.9048295865897973
+    },
+    "sha256": "ffb72dbe7f15fa54a976c9474af62116f364fb8f8347a8cdb49a2ff4b13d9279",
+    "simhash": "1:d12f8e7857baa27b",
+    "word_count": 96
+  },
+  "last_updated": "2023-07-14T18:44:12.845463+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Walling, Simpson, Kephart, Schaffer, Maxey and Drew, JJ."
+    ],
+    "parties": [
+      "Nixon\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe judgment of the Superior Court, sustaining the decree of the orphans\u2019 court, is affirmed on the opinion of Judge Linn, which states the facts and the conclusions of law so lucidly and fully that nothing could be added with any benefit. Costs to be paid by the estate.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "C. J. Hepburn, with him Edward A. Collins, Jr., and Thomas Hart, for appellant.",
+      "Thomas Stokes, with him Thomas A. Montgomery, Jr., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Nixon\u2019s Estate.\nArgued November 25, 1931.\nBefore Frazer, C. J., Walling, Simpson, Kephart, Schaffer, Maxey and Drew, JJ.\nJanuary 5, 1932:\nC. J. Hepburn, with him Edward A. Collins, Jr., and Thomas Hart, for appellant.\nThomas Stokes, with him Thomas A. Montgomery, Jr., for appellee."
+  },
+  "file_name": "0261-01",
+  "first_page_order": 283,
+  "last_page_order": 290
+}

@@ -1,0 +1,866 @@
+{
+  "id": 1890345,
+  "name": "Houston Estate",
+  "name_abbreviation": "Houston Estate",
+  "decision_date": "1964-06-01",
+  "docket_number": "Appeals, Nos. 145 and 146",
+  "first_page": "579",
+  "last_page": "602",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "414 Pa. 579"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "77 A. 562",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1910,
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Pa. 389",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        969908
+      ],
+      "year": 1910,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/228/0389-01"
+      ]
+    },
+    {
+      "cite": "183 A. 2d 307",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1308392
+      ],
+      "pin_cites": [
+        {
+          "page": "224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/408/0214-01"
+      ]
+    },
+    {
+      "cite": "142 A. 2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa. 195",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279727
+      ],
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/393/0195-01"
+      ]
+    },
+    {
+      "cite": "3 A. 2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Pa. Superior Ct. 526",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1013070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/133/0526-01"
+      ]
+    },
+    {
+      "cite": "63 A. 2d 14",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 Pa. 43",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476445
+      ],
+      "pin_cites": [
+        {
+          "page": "46"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/361/0043-01"
+      ]
+    },
+    {
+      "cite": "22 Atl. 869",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Pa. 615",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        978531
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/143/0615-01"
+      ]
+    },
+    {
+      "cite": "97 Atl. 502",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "252 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1021597
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/252/0394-01"
+      ]
+    },
+    {
+      "cite": "95 Atl. 520",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1017024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/250/0269-01"
+      ]
+    },
+    {
+      "cite": "46 Atl. 495",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Pa. 325",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        916820
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/196/0325-01"
+      ]
+    },
+    {
+      "cite": "326 Pa. 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1174437
+      ],
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/326/0230-01"
+      ]
+    },
+    {
+      "cite": "101 A. 827",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 Pa. 377",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032402
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/257/0377-01"
+      ]
+    },
+    {
+      "cite": "161 A. 729",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "307 Pa. 482",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1138165
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/307/0482-01"
+      ]
+    },
+    {
+      "cite": "5 A. 2d 529",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1187924
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/333/0449-01"
+      ]
+    },
+    {
+      "cite": "62 A. 2d 763",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "360 Pa. 504",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475027
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/360/0504-01"
+      ]
+    },
+    {
+      "cite": "99 A. 1010",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "255 Pa. 358",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1027721
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/255/0358-01"
+      ]
+    },
+    {
+      "cite": "80 A. 2d 819",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 Pa. 527",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1228335
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/367/0527-01"
+      ]
+    },
+    {
+      "cite": "182 A. 2d. 732",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "407 Pa. 638",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1307398
+      ],
+      "pin_cites": [
+        {
+          "page": "640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/407/0638-01"
+      ]
+    },
+    {
+      "cite": "172 A. 2d 146",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "404 Pa. 412",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1301479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/404/0412-01"
+      ]
+    },
+    {
+      "cite": "143 A. 2d 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa. 527",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279708
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/393/0527-01"
+      ]
+    },
+    {
+      "cite": "121 A. 2d 157",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "384 Pa. 605",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1263143
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/384/0605-01"
+      ]
+    },
+    {
+      "cite": "119 A. 2d 60",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 Pa. 566",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1261884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/383/0566-01"
+      ]
+    },
+    {
+      "cite": "87 A. 2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "369 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1232331
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/369/0450-01"
+      ]
+    },
+    {
+      "cite": "143 A. 2d 42",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/393/0513-01"
+      ]
+    },
+    {
+      "cite": "143 A. 2d 45",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa. 519",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279580
+      ],
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/393/0519-01"
+      ]
+    },
+    {
+      "cite": "186 A. 2d 32",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "409 Pa. 225",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1883282
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/409/0225-01"
+      ]
+    },
+    {
+      "cite": "159 A. 2d 197",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "398 Pa. 470",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1289125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/398/0470-01"
+      ]
+    },
+    {
+      "cite": "159 A. 2d 201",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "399 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1290521
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/399/0274-01"
+      ]
+    },
+    {
+      "cite": "162 A. 2d 626",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "400 Pa. 629",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1292527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/400/0629-01"
+      ]
+    },
+    {
+      "cite": "168 A. 2d 337",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "403 Pa. 179",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1299511
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/403/0179-01"
+      ]
+    },
+    {
+      "cite": "175 A. 2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "405 Pa. 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1303589
+      ],
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/405/0373-01"
+      ]
+    },
+    {
+      "cite": "180 A. 2d 919",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "407 Pa. 518",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1307361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/407/0518-01"
+      ]
+    },
+    {
+      "cite": "836 Pa. 529",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "78 Pa. D. & C. 145",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.",
+      "case_ids": [
+        1594582
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-d-c/78/0145-01"
+      ]
+    },
+    {
+      "cite": "152 A. 2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1959,
+      "opinion_index": 1
+    },
+    {
+      "cite": "396 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1284906
+      ],
+      "year": 1959,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/396/0371-01"
+      ]
+    },
+    {
+      "cite": "123 A. 2d 723",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1956,
+      "opinion_index": 1
+    },
+    {
+      "cite": "386 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1268327
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/386/0001-01"
+      ]
+    },
+    {
+      "cite": "61 A. 2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1948,
+      "opinion_index": 1
+    },
+    {
+      "cite": "360 Pa. 497",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475049
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/360/0497-01"
+      ]
+    },
+    {
+      "cite": "42 A. 2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3501666,
+        3500797
+      ],
+      "year": 1948,
+      "opinion_index": 1,
+      "case_paths": []
+    },
+    {
+      "cite": "352 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        464118
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/352/0244-01"
+      ]
+    },
+    {
+      "cite": "112 A. 543",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "269 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063475
+      ],
+      "pin_cites": [
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/269/0365-01"
+      ]
+    },
+    {
+      "cite": "180 A. 2d 919",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "407 Pa. 518",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1307361
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/407/0518-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1450,
+    "char_count": 40055,
+    "ocr_confidence": 0.49,
+    "pagerank": {
+      "raw": 9.360825912471342e-07,
+      "percentile": 0.9803880457895422
+    },
+    "sha256": "5d174bd46d42655c0b64e7b1dfcd7e6708120d37020fb3e84ce01a907913da3d",
+    "simhash": "1:1a75835ad448f2d7",
+    "word_count": 6595
+  },
+  "last_updated": "2024-02-27T17:01:55.548676+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.",
+      "Mr. Justice Jones concurs in the result.",
+      "Mr. Justice Musmanno joins in this dissenting opinion."
+    ],
+    "parties": [
+      "Houston Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Bell,\nThis appeal involves the important questions \u2014 was testator\u2019s gift of principal contingent or vested, and if vested, when vested and who took thereunder?\nHenry H. Houston died a resident of Philadelphia County on June 21, 1895. His will was' executed on February 2, 1892. At that time he had a wife, Sallie S. Houston; a married son, Samuel F. Houston; a married daughter, Sallie Houston Henry; and an unmarried daughter, Gertrude Houston, who married and became Gertrude Houston Woodward on October 9, 1894. All of these children survived the testator. At the time of testator\u2019s death he had six living grandchildren; six other grandchildren were born after his death.\nTestator executed a lengthy will, including a lengthy trust. The will contains 64 items and covers 25 printed pages. Testator provided in \u201cItem Fifty-ninth : All the rest residue and remainder of my estate real and personal wheresoever the same may be I give devise and bequeath to the Executors hereinafter named in trust to pay over the net income arising therefrom in the manner following.\u201d There then follow five separate gifts of a specified amount to be paid annually to five of testator\u2019s cousins \u201cfairing her [or his] life.\" These are followed by 11 directions to pay out of the said income the sum of specified dollar amounts annually to named individuals during their respective lives, and at the death of each, he provided: \u201cI direct to be paid out of the principal of the residuary estate the sum of [specified] Dollars in equal shares to each of his children who may be living at the time of his decease, the children of any deceased child taking however their deceased parents share.\u201d There then followed three additional gifts to a Church, and an annual gift to a sister-in-law during her life upon certain conditions.\nWe come then to Paragraph Twenty-second of Item Fifty-ninth which, relevantly, is the most important part of the will, and reads:\n\u201cTwenty-second: All the rest, residue, and remainder of the net income of my estate including herein such income as may fall into and become a part of the residue by reason of the death of any of the beneficiaries hereinbefore mentioned, I direct shall be paid and distributed one fourth thereof to my beloved wife Sallie S. Houston during her life. One fourth thereof to my daughter Sallie H. Henry during her life, one fourth thereof to my son Samuel F. Houston during his life and one fourth thereof to my daughter Gertrude Houston during her life. On the death of my said wife I direct that the one fourth of the income payable to her shall thereafter be payable to my said children in equal shares during their lives (sic), and should any of my said children be dead leaving children at the time of the death of their mother I direct that the said income be paid to the children of such deceased child until the death of my last surviving child. On the death of any one of my said children without leaving lawful issue him or her surviving I direct that the income heretofore payable to such deceased child shall be paid to my wife and surviving children in equal shares and if either of the said children shall then be dead leaving issue, such issue shall take the deceased parents share. On the death of any one of my said children leaving lawful issue him or her surviving, I direct that the income to which such deceased child would have been entitled if living, shall be paid in equal shares to and among his or her children and the issue of deceased children, if any there be, such issue taking their deceased parents share, until the death of my last surviving child. On the death of my last surviving child I direct that the whole of the principal of the trust estate shall be distributed in equal portions to and among my grand-children, the children of any deceased grand-child taking their deceased parents share.\u201d\nBoth appellants and appellees also point out, although each draw a different conclusion therefrom, that testator specifically provided for the spouse of each of his then married children. For example, in the Fifth Item of his will testator gave his son-in-law $100,000, and in the Sixth Item, his daughter-in-law $100,000 in the 6% bonds of the International Navigation Company. He also made many bequests to his relatives, in-laws, and friends, some without any gift over, most of them, however, with a gift over upon or in the event of the death of the first legatee or life tenant.\nSallie S. Houston, testator\u2019s widow, died intestate on November 13, 1913; his daughter, Sallie Houston Henry, died on July 6, 1938; his son, Samuel F. Houston, died May 2, 1952; and testator\u2019s last surviving child, his daughter, Gertrude Houston Woodward, died on October 2, 1961.\n(1) Samuel F. Houston (testator\u2019s son) had four children, three of whom still survive. The fourth, Henry H. Houston, II, born April 5, 1895, was killed in action in World War I, on October 18, 1918. His father, Samuel F. Houston, was his sole heir.\n(2) Sallie Houston Henry (testator\u2019s daughter) had two children (daughters) who survived testator\u2019s last living child. She also had a son, T. Charlton Henry, who predeceased his mother, leaving a wife and two daughters who are still living. Chariton willed his entire estate to his wife.\n(3) Gertrude Houston Woodward (testator\u2019s daughter) had three children who survived her and two who predeceased her. Her son, H. H. Houston Woodward, was born February 27, 1896, and was killed in action in World War I on April 1, 1918. Another child of Mrs. Woodward, Gertrude Houston Woodward, Jr., who was born April 21, 1909, died March 6, 1934. Each of these children died intestate and unmarried. The sole heirs of each of these deceased children were their parents, Gertrude H. Woodward and Dr. George Woodward.\nIf the remainders for testator\u2019s grandchildren were vested at testator\u2019s death, or became vested on birth after testator\u2019s death, subject in both cases to being divested in favor of their children if any such grandchild predeceased testator\u2019s last surviving child, the principal of the residuary trust (which is carried at over $25,000,000, but is allegedly worth approximately $145,000,000) will be divided into 12 equal parts\u2014 eight of such parts being for testator\u2019s eight living grandchildren; three of such parts for the heirs (or personal representatives) of testator\u2019s three grandchildren who died after testator\u2019s death but before the death of testator\u2019s last surviving child (Mrs. Woodward), intestate and unmarried; and one such part for the two (living) daughters of testator\u2019s deceased grandson, T. Charlton Henry.\nIf, however, the remainders were contingent upon testator\u2019s grandchildren or their children living at the death of testator\u2019s last surviving child (Mrs. Woodward), testator\u2019s remainder estate would be divided into and distributed in nine equal parts \u2014 eight such parts to testator\u2019s eight living grandchildren, and the ninth part to the two living daughters per stirpes of testator\u2019s deceased grandchild, T. Charlton Henry.\n. The Orphans\u2019 Court unanimously held (in scholarly opinions) that testator gave a vested interest in the principal of his residuary trust estate in equal portions to his grandchildren who (a) survived him, or (b) were born after his death, the children of any deceased grandchild taking their deceased parent\u2019s share \u2014and consequently divided (and awarded) the principal into 12 equal parts.\nWe first place ourselves in the armchair of the testator and remember that the intention of the testator is the polestar in the construction of every will.\nPertinent Principles of Law\nIn Lewis Estate, 407 Pa. 518, 180 A. 2d 919, the Court (quoting from Burleigh Estate, 405 Pa. 373, 376, 175 A. 2d 838), recently said (page 520) : \u201c\u2018It is now hornbook law (1) that the testator\u2019s intent is the polestar and must prevail; and (2) that his intent must be gathered from a consideration of (a) all the language contained in the four corners of his will and (b) his scheme of distribution and (c) the circumstances surrounding him at. the time he made his will and (d) the existing facts; and (3) that technical rules or canons of construction should be resorted to only if the language of the will is ambiguous or conflicting, or the testator\u2019s intent is for any reason uncertain : Dinkey Estate, 403 Pa. 179, 168 A. 2d 337; Pruner Estate, 400 Pa. 629, 162 A. 2d 626; Wanamaker Estate, 399 Pa. 274, 159 A. 2d 201; Hope Estate, 398 Pa. 470, 159 A. 2d 197.\u2019 \u201d\nThis law is stated and reiterated in a myriad cases before and several after Lewis Estate. In Walton Estate, 409 Pa. 225, 186 A. 2d 32, the Court once again pertinently said (page 231): \u201c\u201c\u201cNo rule regarding wills is more settled than the great General Rule that the testator\u2019s intent, if it is not unlawful, must prevail\u2019 \u201d \u2019: Collins Estate, 393 Pa. 519, 522, 143 A. 2d 45. We reiterate what by now is hornbook law: \u2018 \u201cThe testator\u2019s intention is the pole star in the construction of every will and that intention must be ascertained from the language and scheme of his [entire] will [together with the surrounding facts and circumstances]; it is not what the Court thinks he might or would or should have' said in the existing circumstanees, or even what the Court thinks he meant to say, but what is the meaning of his words. Kelsey Estate, 393 Pa. 513, 143 A. 2d 42; Britt Estate, 369 Pa. 450, 87 A. 2d 243; Sowers Estate, 383 Pa. 566, 119 A. 2d 60; Cannistra Estate, 384 Pa. 605, 121 A. 2d 157.\u201d Saunders Estate, 393 Pa. 527, 529, 143 A. 2d 367. See to the same effect Althouse Estate, 404 Pa. 412, 172 A. 2d 146. . : Woodward Estate, 407 Pa. 638, 640, 182 A. 2d. 732.\u201d\nAppellants\u2019 Contentions\nAppellants vigorously contend \u2014 and this is their principal contention \u2014 that the testator intended to give the remainder (principal) of his trust estate to, and only to living persons, and that he demonstrated this intent impliedly in his gift of this remainder (principal) and very many times expressly throughout his entire will, and particularly in other gifts in this Twentyr second paragraph. Numerous times throughout the prior provisions of this will, testator made absolute gifts to then living persons or to those surviving -a life beneficiary, or to the living members of a class, after the death of a named life beneficiary. Moreover, in this very Twenty-second paragraph of. Item Fifty-ninth, as well as in other paragraphs of Item Fifty-ninth of his will, testator gave the income from a- particular trust only to living persons. From a consideration of his entire will, and particularly from his gift of income only to living persons in this TWenty-second paragraph, appellants argue that testator must have meant and intended to give the principal of this large trust estate to his then living descendants, namely, to such of his grandchildren and the children per stirpes of his deceased grandchildren as were living at the death of his (testator\u2019s) last surviving child. Appellants further contend (1) that this eonstr\u00facti\u00f3n is fortified by testator\u2019s evident intent to .keep this residuary trust estate in his family blood line, since (a) he made no provision therein for a spouse of a deceased grandchild, nor (b) did he give a deceased grandchild a. power of appointment, and (2) that this construetion would obviously have the desirable result of a colossal tax saving for his descendants. This reasoning is plausible and appealing but unfortunately has three serious weaknesses.\nFirst and most important, appellants\u2019 interpretation glosses over or ignores the clear language of testator\u2019s gift of the principal in equal portions to Ms grandcMldren per capita, which at first blush certainly creates in the grandchildren a vested interest. Moreover, this language \u2014 at least prima facie \u2014 shows a different intent from testator\u2019s gift of income to Ms grandcMldren per stirpes. Secondly, in 11 paragraphs in his very Fifty-ninth Item of his will, as well as in many prior items in his will, testator made gifts conditional upon survivorship, thus clearly demonstrating that he knew how to make a contingent gift, i.e., conditional upon survivorship when that was Ms intention. The third weakness of appellants\u2019 contentions is the oft repeated statement that testator demonstrated in the language of his entire will that he wished to leave his property only to living persons. This is substantially but not entirely correct.\nAppellees\u2019 Contentions\nAppellees\u2019 basic contentions are two fold: (1) Testator gave tbe principal of Ms trust estate clearly and unquestionably to his grandchildren per capita, and this is in striMng contrast with his gift of income to his grandchildren per stirpes; and (2) All the canons of construction require that the gift of principal be construed to be vested in testator\u2019s grandchildren, subject to subsequent divesting upon the happening of one particular event.\nAnalysis of Testator\u2019s Language\nWhen we read and reread and very carefully analyze all of testator\u2019s will from its four corners, and of course particularly the language of the Twenty-second paragraph of the Fifty-ninth item \u2014 we believe that he gave and intended to give the whole of the principal of his residuary trust estate (after the death of his last surviving child) to his grandchildren per capita, or if any grandchild was at that time dead and had left children, such children should take their deceased parent\u2019s share. In order to adopt appellants\u2019 interpretation and that of the dissenting opinion, we would have to change and rewrite the testator\u2019s gift of principal by interpolating the words \u201cthen living,\u201d so that the testator\u2019s gift of principal as changed would read: \u201cOn the death of my last surviving child, I direct that the whole of the principal of the trust estate shall be distributed in equal portions to and among my \u2018then living\u2019 grandchildren, the \u2018then living\u2019 children of any deceased grandchild taking their deceased parent\u2019s share.\u201d\nExpressing the same thought in more technical language, we believe testator gave and intended to give a vested interest in this principal per capita (a) to those of his grandchildren who were living at the time of his death and (b) those subsequently born \u2014 such gifts to vest in possession at the death of testator\u2019s last surviving child, subject to being divested in one instance only, viz., if any such grandchild was deceased leaving children. In that particular event, the children of any such deceased grandchild were given their parent\u2019s interest (or share) per stirpes.\nWe are impressed by the fact that in this meticulously drawn will \u2014 in spite of the fact that throughout his entire will and throughout this very Twenty-second paragraph, testator had repeatedly demonstrated that he knew how to make a gift, contingent upon survival \u2014 testator was careful not to say that he gave this principal in equal shares to his grandchildren who were living at the death of testator\u2019s last surviving child, with a substitutionary gift to the then living children of any deceased grandchild per stirpes. -The gift of -principal- to his grandchildren per capita was \u00e9xpress and absolute; no prior condition or limitation or contingency of survivorship was attached thereto. This clearly expressed gift of principal to his grandchildren per capita was subject only to one condition, a condition subsequent, viz., that if a grandchild was deceased at the death of testator\u2019s last surviving child leaving children, such deceased grandchild\u2019s children should take their deceased parent\u2019s share. Testator\u2019s grandchildren were his designated legatees, and if any grandchild was deceased at the termination of the last life estate, leaving children, the deceased grandchild was the source and fountainhead of the interest of his children.\nThis gift of principal to testator\u2019s grandchildren per capita, we repeat once more, is in striking contrast to his gift of income to his grandchildren per stirpes. While a contingent interest can he created either expressly or by implication, the thought keeps recurring: If testator in this skilfully drawn will intended to give the principal of his remainder estate to and only to his grandchildren who survived his last living child, and to the children of his deceased grandchildren who were then living, why didn\u2019t he say so, when he had so often and so clearly created contingent interests in this very residuary trust as well as in other items throughout his will? It is both clear and certain that there was no express contingent gift of principal) moreover, considering the will in this particular paragraph and as a whole, we believe there was no contingent gift of principal by implication.\nPart II\nOur interpretation of testator\u2019s intention as expressed in and by his will, is further supported by the canons of construction respecting vested and contingent interests.\nVested or Contingent Interests\nWhether a gift is contingent, or vested, or vested subject to be divested, has perplexed or vexed the Courts for centuries. Where a testator\u2019s language is ambiguous, or for any reason his intent is uncertain, Courts are aided in their discovery of his intent, by a consideration of whether the gift is vested or contin: gent. The rules as to vesting are (with but a few minor exceptions) well settled, although (as we shall see) they are at times difficult of application and the cases are not always consistent or harmonious in their application of the rules or indeed in the language setting forth the rules.\nIn Gray, The Rule Against Perpetuities, 4th Ed., the law is well stated: \u201c\u00a7101. Vested and Contingent Remainders. Since contingent remainders have been recognized, the line between them and vested remainders is drawn as follows: A remainder is vested in A., when, throughout its continuance, A., or A. and his heirs, have the right to the immediate possession, whenever and however the preceding freehold estates may determine. A remainder is contingent if, in order for it to come into possession, the fulfilment of some condition precedent other than the determination of the preceding freehold estates is necessary.\n\u201c\u00a7102. A remainder is none the less vested because it may terminate before the remainder-man comes into possession; thus if land be given to A. for life, remainder to B. for life, B. may die before A., yet the remain^ der is vested, for during its continuance, namely the life of B., it is ready to come into possession whenever and however A.\u2019s estate determines. This result is not affected by the fact that the termination of the remainder is contingent; that is, that it is subject to a condition subsequent. For instance, if land is devised to A. for life, remainder to B. and his heirs, but if B. dies unmarried then to G. and his heirs, B.\u2019s remainder is vested, although it is possible that he may die unmarried in A.\u2019s lifetime.\n\u201c\u00a7108. Common Law Rule . . . Whether a remainder is vested or contingent depends upon the language employed. If the conditional element is incorporated into the description of, or into the gift to, the remainderman, then the remainder is contingent; but if, after words giving a vested interest, a clause is added divesting it, the remainder is vested. Thus on a devise to A. for life, remainder to his children, but if any child dies in the lifetime of A. his share to go to those who survive, the share of each child is vested, subject to be divested by its death. But on a devise to A. for life, remainder to such of his children as survive him, the remainder is contingent.\u201d\nSee further to the same effect, Gray, The Rule Against Perpetuities, \u00a7110; Jarman on Wills, Ch. XXV, p. 773, 6 Amer. Ed.; Restatement, Property, \u00a7254; 6 Hunter, Orphans\u2019 Court Commonplace Book, pp. 148-149.\nThis was and long prior to 1892 had been the well recognized law of Pennsylvania, as it was gradually expounded over the years.\nIn. JSfewlin Estate, 367 Pa. 527, 80 A. 2d 819, the Court stated at length the pertinent principles which previously had been severally iterated (pages 532, 533, 534) : \u201cIf a bequest is to a class who take at the death of a life tenant, the fact that the members of the class are unknown or even not in being at the death of the testator, or that their interest is subject to be increased or decreased or divested by subsequent events, will not render the gift contingent or violate the rule against perpetuities: Edwards\u2019 Estate, 255 Pa. 358, 99 A. 1010; 360 Pa. 504, 62 A. 2d 763; Overbrook Heights Building & Loan Assn. v. Wilson, 333 Pa. 449, 5 A. 2d 529; Reed\u2019s Estate, 307 Pa. 482, 161 A. 729; McCauley\u2019s Estate, 257 Pa. 377, 101 A. 827; Lloyd\u2019s Estate, 326 Pa. 230, 192, A. 98.\n\u201c \u2018Where an estate is given to a life tenant, with remainder to the children of the life tenant, the estate vests at once- upon the birth of each child, subject to open and let in after-born children, . . . without regard to the question of whether or not a child survives the life tenant\u2019: Edwards\u2019 Estate, 255 Pa. 358, 361, 99 A. 1010; Edwards\u2019 Estate, 360 Pa. 504, 508, 62 A. 2d 763.\n\u201c \u2018Where a bequest is to a class, the vesting is not postponed because of uncertainty as to who, if any, may be the constituents of the class at the time fixed for the enjoyment of it. If there is a present right to a future possession, though that right may be defeated by some future event, contingent or certain, there is nevertheless a vested estate\u2019: McCauley\u2019s Estate, 257 Pa. 377, 382, 101 A. 827; Reed\u2019s Estate, 307 Pa. 482, 484, 161 A. 729.\n\u201c. . . \u2018. . . \u201cThe law leans to vested rather than to contingent estates, and the presumption is that a legacy is vested: Carstensen\u2019s Est., 196 Pa. 325 [46 Atl. 495]; Tatham\u2019s Est., 250 Pa. 269 [95 Atl. 520]; Neel\u2019s Est., 252 Pa. 394 [97 Atl. 502]; Rau\u2019s Est. [supra], and \u2018the'presumption that a legacy was intended to be vested, -applies, with far greater force, where a testator is making provision for a child or a grandchild, than where the gift is to a stranger or to a collateral relative:\u2019 Wengerd\u2019s Est., 143 Pa. 615 [22 Atl. 869]\u201d\u2019...\"\n-The intention of a testator or settlor to create a contingent interest must appear clearly and plainly, otherwise the interest will be construed to be vested, or vested subject to be divested.\nA myriad cases state, we- repeat, that a Court is to place itself in the armchair of a testator and determine his intent from his language and the circum-stances surrounding him at the time he made his will. \u25a0 ' \u201cHowever, where a testator uses words which have a legal or technical meaning, \u2018 \u201cthey are to be so interpreted according to the law in effect at the testator\u2019s death unless the will contains a clearly expressed in-, tentibn to the contrary\u201d : Farmers Trust Co., Executor, v. Wilson et ux., 361 Pa. 43, 46, 63 A. 2d 14, and cases therein cited: Ashhurst\u2019s Estate, 133 Pa. Superior Ct. 526, 3 A. 2d 218;....' Collins Estate, 393 Pa. 195, 200, 142 A. 2d 178. . . .\u201d Brown Estate, 408 Pa. 214, 224, 183 A. 2d 307.\nThere can be \u25a0 no doubt that when Mr. Houston\u2019s will was written and at the time of his death, and for a\u2019century prior thereto, his gifts of the principal or remainder of his trust estate created a vested interest in his grandchildren, and since the will itself evid\u00e9nces the hand of an expert will-draftsman it is. persuasive that testator intended this gift to be vested rather than contingent.\nTo summarize: We conclude that the language and scheme of testator\u2019s will, particularly the Twenty-second paragraph of Item Fifty-ninth, disclose an intention to make a vested gift of principal to his grandchildren, with no provision or condition, or any necessity for their surviving testator\u2019s last surviving child, but with one divesting condition, viz., if any grandchild of testator was deceased at the death of testator\u2019s last surviving child, such deceased grandchild\u2019s portion or share was to be distributed to his children.\nWe reach this construction of the will with regret because (a) it gives a share of the principal to descendants long dead, and (b) it would permit strangers to testator\u2019s blood (a.deceased grandchild\u2019s spouse, or his legatees, or his heirs under the intestate laws) .to receive a substantial portion of his estate without-any' express gift and (c) it greatly depletes, by colossal unforeseeable .taxation, the property which the testator desired and intended to go to his descendants. However, such, sentiments or results are not legally suffi-. cient to allow us to ignore or distort testator\u2019s language, or rewrite his will. It is not what the Court thinks testator might or should or would have said if he could have foreseen the existing circumstances and conditions, but what he actually did say.\nWe agree with the lower Court that the family agreements upon which appellants rely, have no relevancy or bearing upon the issues herein presented, viz., the testamentary intention of the testator, and therefore deem discussion of them unnecessary.\nNotwithstanding the very able argument of coun-, sel for the appellants, the Decree must be affirmed.\nDecree affirmed, all costs to be paid out of the principal of the residuary trust estate.\nMr. Justice Jones concurs in the result.\nMr. Houston had had three other children who predeceased him, unmarried and without issue: Gertrude Bonnell Houston (who died in 1857) ; Eleanor Anne Houston (who died in 1875) ; and Henry H. Houston, Jr. (who died in 1879).\nItalics throughout, ours.\nThis language was occasionally varied by the expression \u201cto such of the children of-as may be living at the time of her decease . . . .\u201d\nTestator\u2019s will included a spendthrift trust clause for income beneficiaries. Notwithstanding the contention of the appellants, we do not consider that this affects in any way the basic question here involved.\nWhile this statement was not challenged by any of the attorneys, a careful analysis of the testator\u2019s gifts of income will show that in possible although remote contingencies a living party is not provided for or apparently required in the gifts of income in the following instances: For example, in the provision for the wife\u2019s one-fourth of the income, there is no provision covering the contingency which would occur if one of the children of testator\u2019s deceased children should die before the death of testator\u2019s last surviving child. Next, with respect to the gift of income on the death of any of testator\u2019s children without leaving issue, a similar hiatus or unprovided for contingency occurs, viz., if any one of the issue of testator\u2019s other surviving children dies before the death of testator\u2019s last surviving child. The third unprovided for, although likewise remote, contingency is that in the gift of income, upon the death of testator\u2019s wife, to the children and issue of one of testator\u2019s deceased children, there is no provision for the contingency that would arise in the event that one of the living issue who were receiving income should die before the death of testator\u2019s last surviving child.\nAll of this indicates, sometimes clearly and at other times very remotely, that the testator did not in every instance make his gifts conditional upon survivorship or living, and therefore it cannot be accurately said that testator demonstrated in the income provisions of this Twenty-second paragraph that he always wished to leave his income only to living persons.\nExcept in three possible and very remote contingencies which were not provided for.\nRosengarten v. Ashton, 228 Pa. 389, 77 A. 562 (1910), often referred to as sui generis, has been impliedly overruled, or distinguished, or so limited as to effectually efface it, by a dozen subsequent decisions of this Court. In order to avoid any further confusion, Rosengarten v. Ashton is now expressly overruled.\nSeveral cases state that an interest will not be construed to be contingent unless it is impossible to construe it as vested. The word \u201cimpossible\u201d is an unfortunate expression, as many people believe that nothing is impossible. Several other cases use the expression \u201cclear, plain and manifest\u201d while others use \u201cclear, plain, and indisputably\u201d or \u201cindisputable.\u201d However, we believe that it is fair and correct to say that an analysis of these authorities discloses an intention in each of the prior cases to express the same meaning, albeit in different language. The variety of language used to express this test has caused such confusion that we deem it wise to herein use and apply the test hereinabove set forth in this opinion, since it appears to be the fairest and most correct test.\nUnless other provisions of the will contain a clearly expressed intention to the contrary. Section 14 of the Wills Act of April 24, 1947, P. L. 89, 20 PS \u00a7180.14; is inapplicable.\nItem Sixty-third provides, \u201cIn all matters requiring legal services or advice\u201d the executors and trustees should consult \u201cmy attorney William W. Porter\u201d; Porter was also a subscribing witness.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Bell,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Roberts:\nMy reading and study of decedent\u2019s will and our past decisions preclude me from joining the majority. In my view, the majority have incorrectly construed testator\u2019s gift of residuary principal.\nAlthough almost three-quarters of a century span the years between decedent\u2019s will and its present construction, his intention, as expressed in his will and reflected by the circumstances surrounding his. armchair, must prevail.\nAll must agree that the best evidence of decedent\u2019s intention is his language. \u201cAnd, while the words employed in a will necessarily constitute the gauge of the testator\u2019s intent (Ludwick\u2019s Estate, 269 Pa. 365, 371, 112 A. 543), a construction that would lead to a highly improbable result is to be avoided, if at all possible; and a meaning conformable to the testator\u2019s plausible intent should be ascribed to his words if agreeable to reason: Riegel v. Oliver, 352 Pa. 244, 247, 42 A. 2d 602.\u201d Fahey Estate, 360 Pa. 497, 500, 61 A. 2d 880 (1948).\nIn seeking to ascertain the intention and meaning of decedent\u2019s language, this Court has said.: \u201cThe prop-' er course of procedure for the interpreter of a testamentary writing is not to apply rules of construction until all reasonable effort to deduce a meaning from the writing itself has been exhausted with no understandable and sensible result.\u201d Buzby Estate, 386 Pa. 1, 8, 123 A. 2d 723 (1956).\nIn reality, this controversy is governed by that portion of decedent\u2019s will which provides: \u201cOn .the death of my last surviving child I direct that the whole of the principal of the trust estate shall be distributed in equal portions to and among my grand-children, the children of any deceased grand-child taking deceased parents share.\u201d\nThis language, testator\u2019s meaning and his intention are clear. I agree with.the majority that canons of construction should be resorted to only if the language of the will is ambiguous or testator\u2019s intent is uncertain. Lewis Estate, 407 Pa. 518, 180 A. 2d 919 (1962,) Yet the majority\u2019s conclusion appears to be'based up-' on (rather than supported by) rules of construction despite the clarity of. testator\u2019s words and intention.\nFurthermore, proper construction of this gift does not require the application of the presumption that an interest is vested rather than contingent. Basically, this presumption, even though' a very ancient one, is: itself merely a rule of construction. To counterbalance the- absoluteness of the presumption of vesting, the:\u201cpay-and divide rule\u201d was developed over many years;; With,the proper, abolition of the \u201cpay and divide -rule\u201d. by-Mr; Justice, now Chief Justice Bell, speaking for a unanimous Court, in Dickson Estate, 396 Pa. 371, 152 A. 2d 680 (1959), this counter-balancing effect was destroyed; Thus, w\u00e9 must now avoid routine use of the' presumption of vesting as an absolute rule but-must, apply it as it was originally intended, as a help-, ful rule of construction. Application of the.presump-.tion here requires the re-opening of estates long closed, with all the attending legal and practical, difficulties; I fear this presumption may have unduly influenced the' majority in its determination, thereby achieving, the \u201chighly improbable result\u201d to be avoided under Fahey Estate, supra.\nAs the testator in his armchair contemplated the future and reflected upon the objects of his bounty, particularly the members of his immediate family, he' was\" keenly aware from tragic personal experience that children may and unfortunately do predecease their parents. In his lifetime, he and his wife endured three such unfortunate losses. While lie, undoubtedly, hoped and prayed that his children, as parents, would .be spared such tragedies, he could not and did not ignore the teachings of his own experience.\nIn view of testator\u2019s personal experiences, it is difficult and almost impossible to conclude that his gift to \u201cmy grand-children, \u2022 the children of any deceased grand-child taking' deceased parents share\u201d is an, expression of intention that his estate eventually pass to deceased grandchildren. I can find no indication anywhere in his will or in the relevant attending circumstances to suggest that this alert, well-informed and well-advised testator, who created trusts for many years in the future for many persons, and whose obvious and primary purpose was to benefit his descendants, intended to or did direct that the ultimate distribution of trust principal devolve through short-term, intermittent estates of deceased grandchildren. This is precisely what testator sought to avoid. His constant reference throughout his will to living persons announced and repeated that he was thinking, writing and providing for living persons only.\nIf, as the majority concludes, testator\u2019s gift was to grandchildren without reference to survival at the, time of distribution . and irrespective of whether deceased grandchildren were survived by children, he could have achieved that gift by ending with the phrase \u201cin equal portions to and among my grand-children.\u201d However, by adding \u201cthe children of any deceased grand-child taking deceased parents share,\u201d he sought to, and did, make clear that his gifts were to living persons and not to deceased grandchildren who left no children. In the case of a deceased grandchild who left children, he specifically provided a gift for such children. However, as to other deceased grandchildren \u2014 those leaving ho children \u2014 the will is entirely silent. If, as the majority holds, testator intended them as beneficiaries also, is it likely that he would have said nothing about \u2022them? It is more likely that deceased grandchildren dying without children are not mentioned because testator did not intend them to benefit if they predeceased his last surviving child. Similarly, testator would not have awarded to such deceased grandchildren the same freedom to pass (by will or intestacy) the trust property as he granted to living grandchildren, a privilege not granted to deceased grandchildren leaving issue.\nIt seems clear to me that testator intended and his will provided that at the death of his last child, the principal should be distributed equally to his then living grandchildren, and if there were deceased grandchildren who left children, they (great-grandchildren) would take the share their parents would have taken.\nIn providing only for living grandchildren and the living children of deceased grandchildren, testator was carrying out his considered scheme of distribution and avoiding the incidents and consequences of almost immediate successive devolutions through estates of deceased persons. \u201cThe exclusion of estates of deceased persons is the ordinary intention of a testator.\u201d\nThe majority reaches its conclusion with three expressed regrets: \u201c. . .' (a) it gives a share of the'principal to descendants long dead, and (b) it would permit strangers to testator\u2019s blood (a deceased grandchild\u2019s'spouse, or his legatees, or his heirs under the intestate laws) to receive a substantial portion of his estate-without any express gift, and (c) it greatly depletes, by colossal unforeseeable taxation, the property which the testator desired and intended to go to his descendants.\u201d\nIn my view, the first two majority regrets (a and b) are more than expressions of regret. I deem each to be a very persuasive factor in revealing testator\u2019s intention. Together they very strongly support the'com elusion that testator created contingent and not vested gifts for his grandchildren. Each justifies and certainly both require a result contrary to that reached by the majority.\nI regard the majority\u2019s tax regret as simply a regret, since it deals with tax circumstances and consequences unknown to this nineteenth century testator. However, in lieu of the majority\u2019s tax regret, it is sug: gested that the pyramiding of estate administration costs and expenses and the resulting diminution of assets occasioned by early and almost immediate successive. administrations constitute a proper indication of testator\u2019s intention. . These circumstances lend added support to the conclusion that testator\u2019s gifts of .prim cipal were to living grandchildren.\nI-dissent and would .direct that the. trust corpus:be .divided into nine equal shares. .\nMr. Justice Musmanno joins in this dissenting opinion.\nKeeping in mind, of course, that no will or testamentary trust has an exact twin or even a reasonably identical relative. This is due in part to the special and individual circumstances surrounding a testator.\nDaughters Cornelia Bonnell Houston and Eleanor Anne Houston died in 1857 and 1875, respectively. Henry H. Houston, Jr., died in 1879.\nMcCrea Estate, 78 Pa. D. & C. 145, 151 (O.C. Philadelphia County, 1951). President Judge Sinkler continued: \u201cThis is recognized in Laughlin\u2019s Estate, 836 Pa. 529, in which the court, referring to the Act of June 29, 1923, P. L. 914, which provides that in a gift to heirs following a life estate, the heirs shall be determined as of the termination of the life estate, stated (336 Pa. at 536) :\n\u201c \u2018. . . this Act does not apply to the interpretation of the will now in controversy, whose maker died in 1919, but it is here referred to as a legislative establishment of a statutory presumption, and it is reasonable to believe that this presumption is \u201ca conclusion firmly based upon the generally known results of wide human experience\u201d.\u2019 \u201d McCrea Estate, supra, at 151-52.\nAlthough the Act of 1923, or the provisions of the Wills Act of 1947, April 24, P. L. 89, \u00a714(4), 20 P.S. \u00a7180.14(4), and the Estates Act of 1947, April 24, P. L. 100, \u00a714(1), 20 P.S. \u00a7301.14(1), which perpetuate this provision of the 1923 Act, do not apply to the present ease, they show the legislative approach to the same basic situation, a trust with remainder upon its termination to heirs, relatives, etc. This legislative mandate provides the same recognition of human experience that is appropriate to the present case, namely, that the devolution of a decedent\u2019s assets through intermittent estates, where decedent\u2019s primary object is to benefit his descendants, is an anathema.",
+        "type": "dissent",
+        "author": "Mr. Justice Roberts:"
+      }
+    ],
+    "attorneys": [
+      "Charles J. Biddle, with him John E. Walsh, Cuthbert H. Latta, and Drinker, Biddle & Reath, for appellants.",
+      "James A. Montgomery, Jr., with him Paul Maloney, and Pepper, Hamilton and Scheetz, for appellants.",
+      "Richard K. Stevens, with him Seth W. Watson, Jr,, and Stradley, Ronon, Stevens and Young, for appellees.",
+      "Irvin Stander, Special Counsel, with him Charles F. Kahili, Special Assistant Attorney General, Vincent X. Yakowicz, Deputy Attorney General, and Walter E. Alessandroni, Attorney General, for Commonwealth, appellee.",
+      "Harold C. Wilkenfeld, with him Lee A. Jackson, Meyer Rothwacks, Louis F. Oberdorfer, Assistant Attorney General, of the Washington, D. O. Bar, Sidney Salkin, Assistant United States Attorney, and Dreio J. T. O\u2019Keefe, United States Attorney, for United States."
+    ],
+    "corrections": "",
+    "head_matter": "Houston Estate.\nArgued January 15, 1964.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nCharles J. Biddle, with him John E. Walsh, Cuthbert H. Latta, and Drinker, Biddle & Reath, for appellants.\nJames A. Montgomery, Jr., with him Paul Maloney, and Pepper, Hamilton and Scheetz, for appellants.\nRichard K. Stevens, with him Seth W. Watson, Jr,, and Stradley, Ronon, Stevens and Young, for appellees.\nIrvin Stander, Special Counsel, with him Charles F. Kahili, Special Assistant Attorney General, Vincent X. Yakowicz, Deputy Attorney General, and Walter E. Alessandroni, Attorney General, for Commonwealth, appellee.\nHarold C. Wilkenfeld, with him Lee A. Jackson, Meyer Rothwacks, Louis F. Oberdorfer, Assistant Attorney General, of the Washington, D. O. Bar, Sidney Salkin, Assistant United States Attorney, and Dreio J. T. O\u2019Keefe, United States Attorney, for United States.\nJune 1, 1964:"
+  },
+  "file_name": "0579-01",
+  "first_page_order": 623,
+  "last_page_order": 646
+}

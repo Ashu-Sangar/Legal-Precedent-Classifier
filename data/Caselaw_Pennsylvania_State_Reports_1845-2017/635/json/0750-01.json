@@ -1,0 +1,70 @@
+{
+  "id": 12284237,
+  "name": "Com. v. Hawkins",
+  "name_abbreviation": "Com. v. Hawkins",
+  "decision_date": "2016-03-23",
+  "docket_number": "482 WAL (2015)",
+  "first_page": "750",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 750"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 656",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.841,
+    "sha256": "39220bc61d52952808a203c999b6bc6af3a601dc4b4d379b09b16989d4421477",
+    "simhash": "1:197060a9017af320",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hawkins"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 656",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hawkins\n03/23/2016\n482 WAL (2015)"
+  },
+  "file_name": "0750-01",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

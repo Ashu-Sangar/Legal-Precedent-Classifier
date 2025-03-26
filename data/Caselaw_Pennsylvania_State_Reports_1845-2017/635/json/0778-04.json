@@ -1,0 +1,80 @@
+{
+  "id": 12288634,
+  "name": "Moon v. Dauphin County",
+  "name_abbreviation": "Moon v. Dauphin County",
+  "decision_date": "2016-05-03",
+  "docket_number": "23 MAL (2016)",
+  "first_page": "778",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 778"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "129 A.3d 16",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6765215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/129/0016-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 79,
+    "ocr_confidence": 0.796,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24956821806985657
+    },
+    "sha256": "74260eadd01015b4a1582097b4069a2acd0c187f097ae5c5612a9045a067a939",
+    "simhash": "1:707e8b7543590409",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moon v. Dauphin County"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 129 A.3d 16",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Moon v. Dauphin County\n05/03/2016\n23 MAL (2016)"
+  },
+  "file_name": "0778-04",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

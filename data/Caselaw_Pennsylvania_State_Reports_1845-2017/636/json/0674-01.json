@@ -1,0 +1,70 @@
+{
+  "id": 12284903,
+  "name": "Com. v. Nieves",
+  "name_abbreviation": "Com. v. Nieves",
+  "decision_date": "2016-08-10",
+  "docket_number": "623 MAL (2015)",
+  "first_page": "674",
+  "last_page": "674",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 674"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.875,
+    "sha256": "d63f355f9b9fc7027a09ff876f4275051002bd61744128fbb92929968a762c46",
+    "simhash": "1:2f005089d67485b2",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Nieves"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 460",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Nieves\n08/10/2016\n623 MAL (2015)"
+  },
+  "file_name": "0674-01",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12280960,
+  "name": "Com. v. Barr",
+  "name_abbreviation": "Com. v. Barr",
+  "decision_date": "2015-12-22",
+  "docket_number": "587 MAL 2015",
+  "first_page": "730",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "114 A.3d 901",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 69,
+    "ocr_confidence": 0.861,
+    "sha256": "12297c2eb7a06abf977b07610ed44ac07e7d53e1cdefd59310e5c68585b4f1fe",
+    "simhash": "1:194030cc40530d81",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Barr"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 114 A.3d 901",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Barr\n12/22/2015\n587 MAL 2015"
+  },
+  "file_name": "0730-01",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

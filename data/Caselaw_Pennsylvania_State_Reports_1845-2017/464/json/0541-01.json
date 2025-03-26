@@ -1,0 +1,90 @@
+{
+  "id": 1710351,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. EQUITABLE GAS COMPANY, Appellee",
+  "name_abbreviation": "Commonwealth v. Equitable Gas Co.",
+  "decision_date": "1975-11-26",
+  "docket_number": "Appeal No. 16",
+  "first_page": "541",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "464 Pa. 541"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 A.2d 674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "202 A.2d 11",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "415 Pa. 113",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1891877
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/415/0113-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 316,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06451476514653944
+    },
+    "sha256": "3b1e67a2ef52bd51eb44d3c28bf249af8744368279abf7e39228149eb1736859",
+    "simhash": "1:a66f8def6382f9dc",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T22:49:00.032760+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "JONES, C. J., took no part in the consideration or decision of this case."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. EQUITABLE GAS COMPANY, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nOrder affirmed, Commonwealth v. Equitable Gas Company, 415 Pa. 113, 202 A.2d 11 (1964).\nJONES, C. J., took no part in the consideration or decision of this case.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "347 A.2d 674\nCOMMONWEALTH of Pennsylvania, Appellant, v. EQUITABLE GAS COMPANY, Appellee.\nSupreme Court of Pennsylvania.\nNov. 26, 1975."
+  },
+  "file_name": "0541-01",
+  "first_page_order": 683,
+  "last_page_order": 683
+}

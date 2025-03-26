@@ -1,0 +1,96 @@
+{
+  "id": 6787193,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Carmen ROSSI, Respondent",
+  "name_abbreviation": "Commonwealth v. Rossi",
+  "decision_date": "2014-08-26",
+  "docket_number": "No. 405 EAL 2013",
+  "first_page": "288",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "631 Pa. 288"
+    },
+    {
+      "type": "parallel",
+      "cite": "111 A.3d 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "93 A.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4216658,
+        6939471
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0582-01",
+        "/a3d/93/0818-01"
+      ]
+    },
+    {
+      "cite": "625 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4216658
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0582-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 455,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18245021234828748
+    },
+    "sha256": "04570fde4928a0c2d5570075e30ef0e98dc045f841f381f5b7c2a19d13bb3499",
+    "simhash": "1:319f2b4760a11ca4",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T22:14:17.598985+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Carmen ROSSI, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of August, 2014, the Petition for Allowance of Appeal is GRANTED, the order of the Superior Court is VACATED, and the matter is REMANDED to that court for reconsideration in light of Commonwealth v. Castro, 625 Pa. 582, 93 A.3d 818 (2014). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "111 A.3d 167\nCOMMONWEALTH of Pennsylvania, Petitioner v. Carmen ROSSI, Respondent.\nNo. 405 EAL 2013.\nSupreme Court of Pennsylvania.\nAug. 26, 2014."
+  },
+  "file_name": "0288-02",
+  "first_page_order": 344,
+  "last_page_order": 345
+}

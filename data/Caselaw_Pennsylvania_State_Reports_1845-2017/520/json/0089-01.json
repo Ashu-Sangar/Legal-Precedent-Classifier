@@ -1,0 +1,110 @@
+{
+  "id": 1815611,
+  "name": "COMMONWEALTH of Pennsylvania v. Alvin RANDOLPH, Petitioner",
+  "name_abbreviation": "Commonwealth v. Randolph",
+  "decision_date": "1988-11-09",
+  "docket_number": "Appeal No. 51 E.D. Allocatur Docket 1988",
+  "first_page": "89",
+  "last_page": "89",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "520 Pa. 89"
+    },
+    {
+      "type": "parallel",
+      "cite": "552 A.2d 666"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Pa. 439",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800481
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/512/0439-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 77",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811677
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0077-01"
+      ]
+    },
+    {
+      "cite": "518 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1811666
+      ],
+      "weight": 2,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/518/0204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 508,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06752497925554733
+    },
+    "sha256": "01a2b2c43e24e128a48aa0d744c912fa671753eebc0ccae7fb3355d16a6052e4",
+    "simhash": "1:72016177a5a1a4aa",
+    "word_count": 88
+  },
+  "last_updated": "2024-02-27T23:01:05.114241+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Alvin RANDOLPH, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, to-wit, this 9th day of November, 1988, the judgment of the Superior Court is vacated and the case is remanded to the Court of Common Pleas of Philadelphia County for a new trial, in light of Commonwealth v. Rounds, 518 Pa. 204, 542 A.2d 997 (1988); Commonwealth v. Davis, 518 Pa. 77, 541 A.2d 315 (1988); Commonwealth v. Seese, 512 Pa. 439, 517 A.2d 920 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "552 A.2d 666\nCOMMONWEALTH of Pennsylvania v. Alvin RANDOLPH, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 9, 1988."
+  },
+  "file_name": "0089-01",
+  "first_page_order": 255,
+  "last_page_order": 255
+}

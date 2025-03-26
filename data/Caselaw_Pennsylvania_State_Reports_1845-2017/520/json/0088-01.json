@@ -1,0 +1,82 @@
+{
+  "id": 1815574,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Drake REARDON, Respondent",
+  "name_abbreviation": "Commonwealth v. Reardon",
+  "decision_date": "1989-01-10",
+  "docket_number": "Appeal No. 336 W.D. Allocatur Dkt. 1988",
+  "first_page": "88",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "520 Pa. 88"
+    },
+    {
+      "type": "parallel",
+      "cite": "552 A.2d 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808559
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0300-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 495,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.856319230494445e-08,
+      "percentile": 0.30480502917351554
+    },
+    "sha256": "cc8fa483a032488902cb2b6477965a4abd451fa6f520590bf7c86fe6169c128c",
+    "simhash": "1:97ca3f6ea6da2fbc",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T23:01:05.114241+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Drake REARDON, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is granted. The Order of the Superior Court, insofar as it vacates the order of the trial court and remands for resentencing, is vacated and the judgment of sentence is reinstated. In all other respects the order is affirmed. See Commonwealth v. Samuels, 516 Pa. 300, 304 n. 4, 532 A.2d 404, 406 n. 4 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "552 A.2d 248\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Drake REARDON, Respondent.\nSupreme Court of Pennsylvania.\nJan. 10, 1989."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 254,
+  "last_page_order": 254
+}

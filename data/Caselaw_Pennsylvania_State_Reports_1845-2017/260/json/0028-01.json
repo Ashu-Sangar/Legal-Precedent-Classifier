@@ -1,0 +1,81 @@
+{
+  "id": 1040227,
+  "name": "Whitehead's Estate",
+  "name_abbreviation": "Whitehead's Estate",
+  "decision_date": "1918-01-07",
+  "docket_number": "No. 2; Appeal, No. 26",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "260 Pa. 28"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "260 Pa. 22",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040300
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/260/0022-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 843,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.036805620713794514
+    },
+    "sha256": "f3daa66f093d44832a239cc98098e07321400c8b365fc0c02b9990ceaa46483c",
+    "simhash": "1:17af94095f8b776a",
+    "word_count": 135
+  },
+  "last_updated": "2024-02-27T16:58:39.930012+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Mestrezat, Potter, Stewart, Moschzisker and Frazer, JJ."
+    ],
+    "parties": [
+      "Whitehead\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe decree entered in the estate of Peter Whitehead by the Orphans\u2019 Court haying been affirmed, the decree in this appeal is, by agreement of counsel, affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Ourtis H. Gregg, with him Sidney J. Potts, for appellant.",
+      "James S. Moorhead, with him R\u00f3bt. W. Smith, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Whitehead\u2019s Estate.\n(No. 2).\nArgued Sept. 27, 1917.\nAppeal, No. 26, Oct. T., 1917, by G. E. Whitehead, from decree of O. 0. Westmoreland Co., May T., 1916, No. 33, dismissing exceptions to adjudication, in Estate of Sarah Whitehead, deceased.\nBefore Mestrezat, Potter, Stewart, Moschzisker and Frazer, JJ.\nAffirmed.\nExceptions to adjudication. Before Copeland, P. J.\nThe facts appear in Whitehead\u2019s Est. (No. 1), 260 Pa. 22.\nThe court dismissed the exceptions. G. E. Whitehead appealed.\nError assigned was in dismissing the exceptions.\nOurtis H. Gregg, with him Sidney J. Potts, for appellant.\nJames S. Moorhead, with him R\u00f3bt. W. Smith, for appellees.\nJanuary 7, 1918:"
+  },
+  "file_name": "0028-01",
+  "first_page_order": 60,
+  "last_page_order": 60
+}

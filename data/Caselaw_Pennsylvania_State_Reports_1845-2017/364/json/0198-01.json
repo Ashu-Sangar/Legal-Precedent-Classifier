@@ -1,0 +1,92 @@
+{
+  "id": 1223533,
+  "name": "Commonwealth ex rel. Sherman v. Burke, Warden",
+  "name_abbreviation": "Commonwealth ex rel. Sherman v. Burke",
+  "decision_date": "1950-01-05",
+  "docket_number": "No. 269, Miscellaneous Docket, No. 9",
+  "first_page": "198",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "364 Pa. 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 A. 2d 882",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 Pa. 497",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1203373
+      ],
+      "pin_cites": [
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/340/0497-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 92,
+    "char_count": 699,
+    "ocr_confidence": 0.461,
+    "pagerank": {
+      "raw": 2.13843502537721e-07,
+      "percentile": 0.7668118874884211
+    },
+    "sha256": "798c144a830e5a8c3f89951bd04745bc6c4a481b9543959940cacac3b4c5ffa7",
+    "simhash": "1:bd6a4cfaca01d930",
+    "word_count": 114
+  },
+  "last_updated": "2024-02-27T22:04:03.183367+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Stern, Stearns and Jones, JJ."
+    ],
+    "parties": [
+      "Commonwealth ex rel. Sherman v. Burke, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nper Curiam,\nOn the showing made by the petitioner, the question involved is whether he is now eligible for parole. A petition for a writ of habeas corpus is not the proper procedure for obtaining an adjudication of the petitioner\u2019s alleged rights in the premises: cf. Kinsella v. Board of Trustees, 340 Pa. 497, 498, 17 A. 2d 882.\nPetition denied.",
+        "type": "majority",
+        "author": "per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Michael von Moschzisker, with him Louis Lipschitz and Thomas D. McBride, for relator.",
+      "James W. Tracey, Jr., First Assistant District Attorney, with Mm John H. Maurer, District Attorney, for Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Sherman v. Burke, Warden.\nArgued December 6, 1949.\nBefore Maxey, C. J., Stern, Stearns and Jones, JJ.\nMichael von Moschzisker, with him Louis Lipschitz and Thomas D. McBride, for relator.\nJames W. Tracey, Jr., First Assistant District Attorney, with Mm John H. Maurer, District Attorney, for Commonwealth.\nJanuary 5,1950:"
+  },
+  "file_name": "0198-01",
+  "first_page_order": 240,
+  "last_page_order": 241
+}

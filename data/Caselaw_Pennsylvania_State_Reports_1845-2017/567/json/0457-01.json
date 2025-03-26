@@ -1,0 +1,103 @@
+{
+  "id": 404561,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Rufus CARTER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Carter",
+  "decision_date": "2002-01-08",
+  "docket_number": "No. 342 WAL 2001",
+  "first_page": "457",
+  "last_page": "458",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "567 Pa. 457"
+    },
+    {
+      "type": "parallel",
+      "cite": "787 A.2d 419"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "732 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56907,
+        11553069
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1180-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01",
+        "/a2d/732/1167-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56907
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 749,
+    "ocr_confidence": 0.676,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.015013230501083268
+    },
+    "sha256": "6f5ea92cfc6171073a5491f23d2e27dab582c999c0a852c8cb9d7e558ddde7d3",
+    "simhash": "1:6d21a2c382858d66",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T20:42:38.943670+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Justice Eakin did not participate in this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Rufus CARTER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of January 2002, the Petition for Allowance of Appeal is GRANTED and the order of the Superior Court is REVERSED. This matter is REMANDED to the Superior Court with instructions to remand the case to the PCRA court to conduct a hearing regarding Emma Campbell\u2019s recantation testimony consistent with Commonwealth v. Williams, 557 Pa. 207, 732 A.2d 1167, 1180-81 (1999). Also, Petitioner\u2019s Application to Dismiss Counsel is DENIED and the Supplemental Brief in Support of Petition to Raise Issue to Preclude Waiver is QUASHED.\nMr. Justice Eakin did not participate in this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "787 A.2d 419\nCOMMONWEALTH of Pennsylvania, Respondent, v. Rufus CARTER, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 8, 2002."
+  },
+  "file_name": "0457-01",
+  "first_page_order": 577,
+  "last_page_order": 578
+}

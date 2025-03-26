@@ -1,0 +1,80 @@
+{
+  "id": 12282626,
+  "name": "Venosh v. Henzes; Blue Cross of Northeastern Pennsylvania, In re",
+  "name_abbreviation": "Venosh v. Henzes",
+  "decision_date": "2016-03-01",
+  "docket_number": "683 MAL (2015)",
+  "first_page": "735",
+  "last_page": "735",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 735"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1016",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6853474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/121/1016-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 204,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2491040983470465
+    },
+    "sha256": "cfdbf5562f9b2480427df5ecc06c4f2385000148d15b616ab58f91006e022dbd",
+    "simhash": "1:a7adaac12328916d",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Venosh v. Henzes; Blue Cross of Northeastern Pennsylvania, In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1016",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Venosh v. Henzes; Blue Cross of Northeastern Pennsylvania, In re\n03/01/2016\n683 MAL (2015)\n. Justices EAKIN and DONOHUE did not participate in the decision of this matter."
+  },
+  "file_name": "0735-02",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

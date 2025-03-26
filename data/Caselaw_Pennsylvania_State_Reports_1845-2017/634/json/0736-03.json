@@ -1,0 +1,70 @@
+{
+  "id": 12281534,
+  "name": "Com. v. Tricome",
+  "name_abbreviation": "Com. v. Tricome",
+  "decision_date": "2015-12-21",
+  "docket_number": "646 MAL (2015)",
+  "first_page": "736",
+  "last_page": "736",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 736"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1059",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.88,
+    "sha256": "2aef09d7b911d54d3b1bc677f886ccbec79a84e7711f04b9b0e64fc9ac5fa7f2",
+    "simhash": "1:3a065020c47049c0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Tricome"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1059",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Tricome\n12/21/2015\n646 MAL (2015)"
+  },
+  "file_name": "0736-03",
+  "first_page_order": 780,
+  "last_page_order": 780
+}

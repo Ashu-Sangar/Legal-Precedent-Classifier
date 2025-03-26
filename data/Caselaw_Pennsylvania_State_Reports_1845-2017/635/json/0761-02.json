@@ -1,0 +1,70 @@
+{
+  "id": 12285898,
+  "name": "Com. v. Hill",
+  "name_abbreviation": "Com. v. Hill",
+  "decision_date": "2016-04-12",
+  "docket_number": "802 MAL (2015)",
+  "first_page": "761",
+  "last_page": "761",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 761"
+    },
+    {
+      "type": "parallel",
+      "cite": "136 A.3d 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 445",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.753,
+    "sha256": "25aa885ae04c20d590b3e13354b2167dd521571a8f43c5a8cc56230d2b8a1bf2",
+    "simhash": "1:8f55f08ebbffbb96",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Hill"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 445",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Hill\n04/12/2016\n802 MAL (2015)\n. Justice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0761-02",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

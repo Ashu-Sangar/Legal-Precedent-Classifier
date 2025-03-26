@@ -1,0 +1,70 @@
+{
+  "id": 12281215,
+  "name": "Com. v. Dunphy",
+  "name_abbreviation": "Com. v. Dunphy",
+  "decision_date": "2015-12-08",
+  "docket_number": "361 EAL (2015)",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1046",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.811,
+    "sha256": "5db6d5a0fa30f02d5c0074d3af64ad6c29c5c0bbf8b578bdd7da9cfc1fb2c0b0",
+    "simhash": "1:3e096ca0758c4150",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dunphy"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1046",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dunphy\n12/08/2015\n361 EAL (2015)"
+  },
+  "file_name": "0732-11",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

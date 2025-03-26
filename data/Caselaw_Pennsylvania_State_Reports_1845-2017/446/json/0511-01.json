@@ -1,0 +1,94 @@
+{
+  "id": 1941819,
+  "name": "Commonwealth v. Wiggins, Appellant",
+  "name_abbreviation": "Commonwealth v. Wiggins",
+  "decision_date": "1971-12-20",
+  "docket_number": "Appeal, No. 47",
+  "first_page": "511",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "446 Pa. 511"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "284 A. 2d 759",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "446 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1941828
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/446/0233-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 681,
+    "ocr_confidence": 0.49,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07043653896424078
+    },
+    "sha256": "c7801a57e9f63287ac7a5f8f6b6be391af77d53805b21fb80f62a0c938e4c737",
+    "simhash": "1:337cc6ea6e4ea37a",
+    "word_count": 105
+  },
+  "last_updated": "2024-02-27T22:10:35.180292+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Eagen, O\u2019Brien, Roberts, Pomeroy and Barbieri, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Wiggins, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nJudgment affirmed. Cf. Commonwealth v. Tarver, 446 Pa. 233, 284 A. 2d 759 (1971).",
+        "type": "majority",
+        "author": "Per Curiam,"
+      },
+      {
+        "text": "Concurring Opinion by\nMr. Justice Roberts and Mr. Justice Pomeroy:\nWe concur in the result for the reason that the record establishes that the trial court did not err in rejecting appellant\u2019s claim of lack of felonious intent.",
+        "type": "concurrence",
+        "author": "Mr. Justice Roberts and Mr. Justice Pomeroy:"
+      }
+    ],
+    "attorneys": [
+      "Charles E. Friedman, with him Cooper, Friedman & Friedman, for appellant.",
+      "James Q. Morgan, Jr., Deputy District Attorney, with him LeRoy 8. Zimmerman, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Wiggins, Appellant.\nArgued May 26, 1971.\nBefore Bell, C. J., Jones, Eagen, O\u2019Brien, Roberts, Pomeroy and Barbieri, JJ.\nCharles E. Friedman, with him Cooper, Friedman & Friedman, for appellant.\nJames Q. Morgan, Jr., Deputy District Attorney, with him LeRoy 8. Zimmerman, District Attorney, for Commonwealth, appellee.\nDecember 20, 1971:"
+  },
+  "file_name": "0511-01",
+  "first_page_order": 623,
+  "last_page_order": 624
+}

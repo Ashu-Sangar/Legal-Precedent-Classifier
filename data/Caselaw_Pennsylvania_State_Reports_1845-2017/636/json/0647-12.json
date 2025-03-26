@@ -1,0 +1,108 @@
+{
+  "id": 12281334,
+  "name": "Com. v. McDermott",
+  "name_abbreviation": "Com. v. McDermott",
+  "decision_date": "2016-07-07",
+  "docket_number": "139 WAL (2016)",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 647"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 191",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486466,
+        12486467,
+        12486468,
+        12486469,
+        12486470,
+        12486471,
+        12486472,
+        12486473,
+        12486474,
+        12486475,
+        12486476,
+        12486477,
+        12486478,
+        12486479,
+        12486480,
+        12486481,
+        12486482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0191-10",
+        "/a3d/144-2/0191-11",
+        "/a3d/144-2/0191-12",
+        "/a3d/144-2/0191-13",
+        "/a3d/144-2/0191-14",
+        "/a3d/144-2/0191-15",
+        "/a3d/144-2/0191-16",
+        "/a3d/144-2/0191-17",
+        "/a3d/144-2/0191-01",
+        "/a3d/144-2/0191-02",
+        "/a3d/144-2/0191-03",
+        "/a3d/144-2/0191-04",
+        "/a3d/144-2/0191-05",
+        "/a3d/144-2/0191-06",
+        "/a3d/144-2/0191-07",
+        "/a3d/144-2/0191-08",
+        "/a3d/144-2/0191-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.857,
+    "sha256": "001db980c6e450940ee0ad932310aabf9fbfbffceeb33bd4c32854e2fbcf4af5",
+    "simhash": "1:6614c2edc2426811",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. McDermott"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 191",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. McDermott\n07/07/2016\n139 WAL (2016)"
+  },
+  "file_name": "0647-12",
+  "first_page_order": 699,
+  "last_page_order": 699
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281895,
+  "name": "Com. v. Edgefield",
+  "name_abbreviation": "Com. v. Edgefield",
+  "decision_date": "2015-08-25",
+  "docket_number": "172 EAL (2015)",
+  "first_page": "753",
+  "last_page": "753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 753"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "75 A.3d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.923,
+    "sha256": "e2fe27ab1ea3f616e8be7493a1c68aa1efe4ac08a32d6b4a882a5801d1fa4bbb",
+    "simhash": "1:2233e0ae51794b97",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Edgefield"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 75 A.3d 541",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Edgefield\n08/25/2015\n172 EAL (2015)"
+  },
+  "file_name": "0753-08",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

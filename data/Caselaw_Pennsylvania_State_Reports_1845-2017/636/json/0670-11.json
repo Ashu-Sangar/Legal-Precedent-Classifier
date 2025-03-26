@@ -1,0 +1,104 @@
+{
+  "id": 12284299,
+  "name": "Com. v. Cabassa",
+  "name_abbreviation": "Com. v. Cabassa",
+  "decision_date": "2016-08-24",
+  "docket_number": "324 MAL (2016)",
+  "first_page": "670",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 670"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "145 A.3d 776",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12487296,
+        12487297,
+        12487298,
+        12487299,
+        12487300,
+        12487301,
+        12487302,
+        12487303,
+        12487304,
+        12487290,
+        12487291,
+        12487292,
+        12487293,
+        12487294,
+        12487295
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/145-2/0776-01",
+        "/a3d/145-2/0776-02",
+        "/a3d/145-2/0776-03",
+        "/a3d/145-2/0776-04",
+        "/a3d/145-2/0776-05",
+        "/a3d/145-2/0776-06",
+        "/a3d/145-2/0776-07",
+        "/a3d/145-2/0776-08",
+        "/a3d/145-2/0776-09",
+        "/a3d/145-2/0776-10",
+        "/a3d/145-2/0776-11",
+        "/a3d/145-2/0776-12",
+        "/a3d/145-2/0776-13",
+        "/a3d/145-2/0776-14",
+        "/a3d/145-2/0776-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.865,
+    "sha256": "5d382cb827ec1e4b7c8974c4953887cdf801d677f10b37b912727e33dad80918",
+    "simhash": "1:05058efcdcf00107",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Cabassa"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 145 A.3d 776",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Cabassa\n08/24/2016\n324 MAL (2016)"
+  },
+  "file_name": "0670-11",
+  "first_page_order": 722,
+  "last_page_order": 722
+}

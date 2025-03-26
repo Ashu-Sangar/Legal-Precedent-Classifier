@@ -1,0 +1,81 @@
+{
+  "id": 1289085,
+  "name": "Alker Disbarment Case",
+  "name_abbreviation": "Alker Disbarment Case",
+  "decision_date": "1960-01-19",
+  "docket_number": "Appeal, No. 255",
+  "first_page": "188",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "398 Pa. 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Pa. D. & C. 2d 653",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1633805
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/16/0653-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 622,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 2.568474695333607e-07,
+      "percentile": 0.8160147560726514
+    },
+    "sha256": "5b00d696169d1c22e083f8583a7313102941e169e8ac96139bb017158245d03a",
+    "simhash": "1:719cf9c5ea92a061",
+    "word_count": 101
+  },
+  "last_updated": "2024-02-27T23:35:30.032264+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ."
+    ],
+    "parties": [
+      "Alker Disbarment Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe order of the Orphans\u2019 Court of Philadelphia County disbarring Harry J. Alter, Jr., from practicing in that court and striting his name from the court\u2019s roll of attorneys is affirmed on the opinion of President Judge Klein, reported in 16 Pa. D. & C. 2d 653.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "W. J. Woolston, with him Francis F. Walter, and David Bortin, for appellant.",
+      "Henry T. Beath, amicus curiae and Chairman, Committee of Censors of Philadelphia Bar Association, in propria persona, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alker Disbarment Case.\nJanuary 19, 1960:\nArgued January 12,1960.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and Eagen, JJ.\nW. J. Woolston, with him Francis F. Walter, and David Bortin, for appellant.\nHenry T. Beath, amicus curiae and Chairman, Committee of Censors of Philadelphia Bar Association, in propria persona, appellee."
+  },
+  "file_name": "0188-01",
+  "first_page_order": 344,
+  "last_page_order": 345
+}

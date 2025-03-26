@@ -1,0 +1,80 @@
+{
+  "id": 12286174,
+  "name": "Tobler v. W.C.A.B. (Verizon Pennsylvania Inc.)",
+  "name_abbreviation": "Tobler v. W.C.A.B. (Verizon Pennsylvania Inc.)",
+  "decision_date": "2015-12-01",
+  "docket_number": "465 EAL (2015)",
+  "first_page": "782",
+  "last_page": "782",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 782"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 448",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6855959
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/120/0448-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 105,
+    "ocr_confidence": 0.855,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24934832107972318
+    },
+    "sha256": "c0f3ef693dad1bc6b97c10edfbc2fbc902ab21be28f96b758242dde4a213198e",
+    "simhash": "1:081022a9b5780c01",
+    "word_count": 15
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tobler v. W.C.A.B. (Verizon Pennsylvania Inc.)"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 120 A.3d 448",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tobler v. W.C.A.B. (Verizon Pennsylvania Inc.)\n12/01/2015\n465 EAL (2015)"
+  },
+  "file_name": "0782-03",
+  "first_page_order": 836,
+  "last_page_order": 836
+}

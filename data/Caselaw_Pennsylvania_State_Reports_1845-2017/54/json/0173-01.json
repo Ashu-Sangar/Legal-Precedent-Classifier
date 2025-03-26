@@ -1,0 +1,130 @@
+{
+  "id": 1006320,
+  "name": "Ruth's Appeal",
+  "name_abbreviation": "Ruth's Appeal",
+  "decision_date": "1867-02-04",
+  "docket_number": "",
+  "first_page": "173",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 Pa. 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Wright 96",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 W. & S. 280",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        480155
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/6/0280-01"
+      ]
+    },
+    {
+      "cite": "4 Watts 465",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1842704
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/4/0465-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 284",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wright 455",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 4,
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wright 175",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Wright 172",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 331,
+    "char_count": 4527,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 8.685371297493976e-08,
+      "percentile": 0.4925003349616136
+    },
+    "sha256": "a1f19d3ac3e4bae10d2bc3e770cf75584fba9a98eba2c61f22f10758c8257a09",
+    "simhash": "1:56c3a63f6f36fade",
+    "word_count": 767
+  },
+  "last_updated": "2024-02-27T20:47:58.117177+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Woodward, C. J., Thompson, Read and Agnew, JJ. Strong, J., at Nisi Prius."
+    ],
+    "parties": [
+      "Ruth\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nRead, J.\nThe judgment of Pennypacker against Frame was not revived by scire facias, for eleven days after the five years had expired, and the effect was that a junior judgment in full life became a prior lien. It is, however, supposed, that because Pennypaeker\u2019s original judgment was for the purchase-money of the property, and was entered upon a bond and warrant of attorney, stating that fact, which appeared on the record, as stated by the auditor, that this is equal to a recorded mortgage, and that its lien cannot be lost, although not revived within five years. It has been assimilated to the case of an unrecorded mortgage, of which a judgment-creditor had notice, but Britton\u2019s Appeal, 9 Wright 172, shows clearly that mortgages have very different properties from judgments. \u201c They are in form defeasible sales, and in substance, grants of specific security, or interests in land for the purpose of security: Ejectment may be maintained by a mortgagee or he may hold possession on the footing of ownership, and with all its incidents.\u201d An unrecorded mortgage with notine to a subsequent mortgagee or purchaser or judgment-creditor retains its priority, but can it be said that a bond and warrant of attorney with notice to a subsequent judgment-creditor can make the judgment entered on it afterwards a prior lien ?\nPennypacker\u2019s judgment lost its lien by want of statutory revival, and of course the Worthington judgment held by Mr. Strickland has the prior lien and must be first paid.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Read, J."
+      }
+    ],
+    "attorneys": [
+      "W. Darlington, for appellant,",
+      "Or. F. Smith, for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Ruth\u2019s Appeal.\nA vendor entered a judgment against his vendee, showing upon the record that it was for purchase-money; another judgment was afterwards entered against the vendee. The vendor's judgment was not revived until more than five years after its entry. Held, that the second judgment became the prior lien, notwithstanding the first was for purchase-money.\nJanuary 25th 1867.\nBefore Woodward, C. J., Thompson, Read and Agnew, JJ. Strong, J., at Nisi Prius.\nAppeal from the decree of the Court of Common Pleas of Chester county, distributing the proceeds of the sheriff\u2019s sale of the real estate of Clinton Frame.\nOn the 28th of March 1854, U. Y. Pennypacker sold a house and lot in West Chester to Clinton Frame for $2200, and took a bond with warrant of attorney for $1700, upon which judgment was entered March 30th 1854, as part of the purchase-money, as appeared by the record of the judgment.\nThis judgment was marked to the use of Isaac Ruth, April 2d 1855, and revived March 25th 1859. Rebecca Worthington, to the use of Edward Ruth, recovered, December 29th 1863, by revival, a judgment against Frame for $550. Nimrod Strickland, the appellee, became the owner of this judgment April 4th 1866.\nFebruary 4th 1867,\nThe Pennypacker judgment was not revived a second time until April 7th 1864, thirteen days after its statutory lien expired.\nBy virtue of a venditioni exponas issued upon this judgment the house and lot were sold by the sheriff, July 20th 1866, for $2500, and at the same time all the other real estate of Frame for $1100.\nThe money made by the sheriff\u2019s sale was sufficient to pay all the intermediate judgments in full, but not sufficient to pay both the Pennypacker and the Worthington judgments.\nThe contest was between these two judgments, and the question was whether a judgment given for purchase-money, whose lien had been permitted to expire, is, because given for purchase-money, to be preferred to a subsequent judgment, whose lien continued after the expiration of the statutory lien of the purchase-money judgment.\nThe court below (Butler, P. J.) confirmed the report of the auditor awarding the money to N. Strickland, the owner of the Worthington judgment. Isaac Ruth the owner of the Pennypacker judgment appealed, and assigned the decree for error.\nW. Darlington, for appellant,\ncited Britton\u2019s Appeal, 9 Wright 175; Cake\u2019s Appeal, 11 Harris 186; York Bank\u2019s Appeal, 12 Casey 461; Witmer\u2019s Appeal, 9 Wright 455 ; Stoner v. Neff, 14 Id. 258 ; Murphy v. Nathans, 10 Id. 515 ; Davis v. Strathmore, 16 Vesey 419; Semple v. Burd, 7 S. & R. 286; Friedly v. Hamilton, 17 Id. 70 ; Jacques v. Weeks, 7 Watts 284.\nOr. F. Smith, for appellee,\nwho was stopped by the court, cited in his paper-book: Love v. Jones, 4 Watts 465; Cake\u2019s Appeal, 11 Harris 186 ; Kauffelt v. Bower, 7 S. & R. 64; Semple v. Burd, Id. 286; Mode\u2019s Appeal, 6 W. & S. 280; Heister v. Green, 12 Wright 96; Watt v. Steel, 1 Barr 886; Lyon v. McGuffey, 4 Id. 126."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 173,
+  "last_page_order": 175
+}

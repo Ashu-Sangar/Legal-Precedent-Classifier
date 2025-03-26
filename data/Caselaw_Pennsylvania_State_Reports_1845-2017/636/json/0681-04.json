@@ -1,0 +1,80 @@
+{
+  "id": 12286032,
+  "name": "Ray v. Civil Service Com'n of Borough of Darby",
+  "name_abbreviation": "Ray v. Civil Service Com'n of Borough of Darby",
+  "decision_date": "2016-08-25",
+  "docket_number": "222-223 MAL (2016)",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6830267
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/131/1012-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "ocr_confidence": 0.832,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24933249004092517
+    },
+    "sha256": "8b046287d455011a15b2cb609a52949066ce7ddc49ddf13079779e298fcb7cf2",
+    "simhash": "1:4974243b3842c119",
+    "word_count": 18
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ray v. Civil Service Com\u2019n of Borough of Darby"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 131 A.3d 1012",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ray v. Civil Service Com\u2019n of Borough of Darby\n08/25/2016\n222-223 MAL (2016)"
+  },
+  "file_name": "0681-04",
+  "first_page_order": 733,
+  "last_page_order": 733
+}

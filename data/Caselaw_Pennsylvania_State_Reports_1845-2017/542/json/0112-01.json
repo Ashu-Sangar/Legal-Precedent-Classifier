@@ -1,0 +1,130 @@
+{
+  "id": 459054,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. David CIPTAK, Petitioner",
+  "name_abbreviation": "Commonwealth v. Ciptak",
+  "decision_date": "1995-10-11",
+  "docket_number": "",
+  "first_page": "112",
+  "last_page": "113",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "542 Pa. 112"
+    },
+    {
+      "type": "parallel",
+      "cite": "665 A.2d 1161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "520 A.2d 10",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1802530
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0255-02"
+      ]
+    },
+    {
+      "cite": "513 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802530,
+        1802533
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0255-02",
+        "/pa/513/0255-01"
+      ]
+    },
+    {
+      "cite": "530 Pa. 279",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1833017
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "285-286"
+        },
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/530/0279-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 143,
+    "char_count": 1715,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 2.3815123932105854e-07,
+      "percentile": 0.7968669215850036
+    },
+    "sha256": "ec134150c0e115bff4bab59775190910f7985c7b7c69d4b68585bef8872d828a",
+    "simhash": "1:0ff9556de4dbbfc6",
+    "word_count": 275
+  },
+  "last_updated": "2024-02-27T19:57:31.406053+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MONTEMURO, J., is sitting by designation."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. David CIPTAK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nThe Petition for Allowance of Appeal is GRANTED. Petitioner asserts that trial counsel was ineffective for failing to object to the trial court\u2019s imposition of the costs of prosecution without first determining petitioner\u2019s ability to pay pursuant to Pa.R.Crim.P. 1407(c). In the instant matter, trial counsel and appellate counsel are both members of the same public defender\u2019s office. As a general rule, a public defender may not argue the ineffectiveness of another member of the same public defender\u2019s office since appellate counsel, in essence, is deemed to have asserted a claim of his or her own ineffectiveness. See Commonwealth v. Shannon, 530 Pa. 279, 285-286, 608 A.2d 1020, 1023 (1992). When appellate counsel asserts a claim of his or her own ineffectiveness, the case should be remanded so that new counsel may be appointed except (1) where, it is clear from the record that counsel was ineffective or (2) where it is clear from the record that the ineffectiveness claim is meritless. Commonwealth v. McBee, 513 Pa. 255, 261, 520 A.2d 10, 13 (1986). Here, trial counsel\u2019s reason for not objecting to the trial court\u2019s imposition of costs of prosecution cannot be gleaned from the record.\nAccordingly, the order of the Superior Court affirming the trial court\u2019s imposition of the costs of prosecution is hereby REVERSED. The matter is REMANDED to the Court of Common Pleas of Allegheny County for the appointment of new counsel and an evidentiary hearing is hereby ordered to resolve the ineffectiveness claim.\nMONTEMURO, J., is sitting by designation.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "665 A.2d 1161\nCOMMONWEALTH of Pennsylvania, Respondent, v. David CIPTAK, Petitioner.\nSupreme Court of Pennsylvania.\nOct. 11, 1995."
+  },
+  "file_name": "0112-01",
+  "first_page_order": 426,
+  "last_page_order": 427
+}

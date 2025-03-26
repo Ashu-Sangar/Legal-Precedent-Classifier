@@ -1,0 +1,82 @@
+{
+  "id": 197200,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Taibu Modamu GRANT a/k/a Bryant Damu Taibu a/k/a/ Tyrone Gramm, Appellant",
+  "name_abbreviation": "Commonwealth v. Grant",
+  "decision_date": "2003-04-28",
+  "docket_number": "No. 57 WAP 2001",
+  "first_page": "141",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "573 Pa. 141"
+    },
+    {
+      "type": "parallel",
+      "cite": "821 A.2d 1246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 540,
+    "ocr_confidence": 0.653,
+    "pagerank": {
+      "raw": 1.5367253732700339e-07,
+      "percentile": 0.6721117717673888
+    },
+    "sha256": "efb48a92371fb5527cc7858709d15c92035fe54a98e5260f55803a42e98b67fa",
+    "simhash": "1:533e4124b8ad396f",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:51:24.602860+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Taibu Modamu GRANT a/k/a Bryant Damu Taibu a/k/a/ Tyrone Gramm, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of April, 2003, the Application for Reargument is DENIED. We clarify that the rule announced in Commonwealth v. Grant, 813 A.2d 726 (Pa.2002), does not apply to claims of ineffective assistance of counsel where the intermediate appellate court on direct appeal has rendered a disposition on the merits.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "821 A.2d 1246\nCOMMONWEALTH of Pennsylvania, Appellee, v. Taibu Modamu GRANT a/k/a Bryant Damu Taibu a/k/a/ Tyrone Gramm, Appellant.\nNo. 57 WAP 2001.\nSupreme Court of Pennsylvania.\nApril 28, 2003."
+  },
+  "file_name": "0141-01",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

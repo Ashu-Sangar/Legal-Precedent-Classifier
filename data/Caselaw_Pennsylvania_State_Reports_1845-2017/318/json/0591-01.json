@@ -1,0 +1,98 @@
+{
+  "id": 1159620,
+  "name": "Bridges's Estate",
+  "name_abbreviation": "Bridges's Estate",
+  "decision_date": "1935-05-27",
+  "docket_number": "Appeal, No. 70",
+  "first_page": "591",
+  "last_page": "592",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "318 Pa. 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "314 Pa. 274",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1154720
+      ],
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/314/0274-01"
+      ]
+    },
+    {
+      "cite": "300 Pa. 185",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1125941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/300/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 156,
+    "char_count": 1502,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6002896307854242
+    },
+    "sha256": "7ca8c1842f1446115804a0c398c660036f49d02c6ad7577bacbc032ffbcf819a",
+    "simhash": "1:1b0e0c34a1b538fe",
+    "word_count": 260
+  },
+  "last_updated": "2024-02-27T23:35:14.112531+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Bridges\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe Mercy Hospital of Johnstown, Pa., a \u201cbody politic . . . for charitable uses,\u201d appeals from a decree of the Orphans\u2019 Court of Cambria County, distributing a portion of the assets of the estate of Mary R. Bridges, deceased, to appellee, although it, the hospital, has not now and never has had any pecuniary interest therein. By testatrix\u2019s will the hospital was given a remainder interest in a portion of those assets, but as she died less than thirty days after executing her will, the attempted gift was \u201cvoid and [passed] to the residuary legatee or devisee, heirs or next of kin, according to law: Section 6, Act of June 7,1917, P. L. 403. The present appellee is the only one who comes within that designation. Since the hospital had and has no pecuniary interest in those assets, it has no standing whatsoever to attack the decree of the court below distributing them. Only a \u201cperson [who is] aggrieved by a definitive sentence or decree of the orphans\u2019 court may appeal from the same\u201d: Section 59 of the Act of March 29,1832, P. L. 190, 213, reenacted in section 22 of the Orphans\u2019 Court Act of June 7, 1917, P. L. 363, 383; Carothers\u2019s Est., 300 Pa. 185; Levan\u2019s Est., 314 Pa. 274, 276.\nThe appeal is quashed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Edward J. Harkins, of Scanlon \u2022& Harkins, for appellant.",
+      "Philip N. Bhettig, with him William Williams, Donald J. Perry and Arthur A. Nelson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bridges\u2019s Estate.\nArgued May 15, 1935.\nBefore Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ.\nEdward J. Harkins, of Scanlon \u2022& Harkins, for appellant.\nPhilip N. Bhettig, with him William Williams, Donald J. Perry and Arthur A. Nelson, for appellee.\nMay 27, 1935:"
+  },
+  "file_name": "0591-01",
+  "first_page_order": 619,
+  "last_page_order": 620
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1781110,
+  "name": "In re Thomas J. ESHELMAN, Candidate for Supreme Court of Pennsylvania",
+  "name_abbreviation": "In re Eshelman",
+  "decision_date": "1983-04-20",
+  "docket_number": "No. 23 M.D. Appeal Dkt. 1983",
+  "first_page": "545",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "500 Pa. 545"
+    },
+    {
+      "type": "parallel",
+      "cite": "458 A.2d 1350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 391,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7634105364581095
+    },
+    "sha256": "e085351c329513c07e63a7aab7dd0970bdc4079bd7caacf2adf48ab0aff278ce",
+    "simhash": "1:5187ced884882f02",
+    "word_count": 58
+  },
+  "last_updated": "2023-07-14T22:41:55.536104+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before ROBERTS, C.J., and NIX, LARSEN, FLAHERTY, McDERMOTT, HUTCHINSON and ZAPPALA, JJ."
+    ],
+    "parties": [
+      "In re Thomas J. ESHELMAN, Candidate for Supreme Court of Pennsylvania."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nOrder affirmed.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "C. Kent Price, Harrisburg, for appellant.",
+      "Lawrence J. Hracho, William R. Bernhart, Reading, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "458 A.2d 1350\nIn re Thomas J. ESHELMAN, Candidate for Supreme Court of Pennsylvania.\nSupreme Court of Pennsylvania.\nArgued April 20, 1983.\nDecided April 20, 1983.\nC. Kent Price, Harrisburg, for appellant.\nLawrence J. Hracho, William R. Bernhart, Reading, for appellee.\nBefore ROBERTS, C.J., and NIX, LARSEN, FLAHERTY, McDERMOTT, HUTCHINSON and ZAPPALA, JJ."
+  },
+  "file_name": "0545-01",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

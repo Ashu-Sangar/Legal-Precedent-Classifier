@@ -1,0 +1,82 @@
+{
+  "id": 1809852,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Allen G. WASHINGTON, Respondent",
+  "name_abbreviation": "Commonwealth v. Washington",
+  "decision_date": "1988-01-28",
+  "docket_number": "Petition No. 615 W.D. Allocatur Docket 1986",
+  "first_page": "326",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 326"
+    },
+    {
+      "type": "parallel",
+      "cite": "536 A.2d 796"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808559
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0300-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 468,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06732033411986568
+    },
+    "sha256": "0999b9fc8769de9d3f7ec29ee80f47d22f7e6287fbd193737faa57a3acc19bf7",
+    "simhash": "1:349f7fa590c9e5b7",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Allen G. WASHINGTON, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of January, 1988, the petition for allowance of appeal is granted. The order of Superior Court is vacated, see Commonwealth v. Samuels, 516 Pa. 300, 532 A.2d 404 (1987), and the case remanded to Superior Court for consideration of any issues not resolved in Respondent Washington\u2019s appeal.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "536 A.2d 796\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Allen G. WASHINGTON, Respondent.\nSupreme Court of Pennsylvania.\nJan. 28, 1988."
+  },
+  "file_name": "0326-01",
+  "first_page_order": 394,
+  "last_page_order": 394
+}

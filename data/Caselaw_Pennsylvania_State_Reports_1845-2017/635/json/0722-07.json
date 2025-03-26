@@ -1,0 +1,70 @@
+{
+  "id": 12281482,
+  "name": "Com. v. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-02-03",
+  "docket_number": "661 MAL (2015)",
+  "first_page": "722",
+  "last_page": "722",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 722"
+    },
+    {
+      "type": "parallel",
+      "cite": "131 A.3d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 168,
+    "ocr_confidence": 0.748,
+    "sha256": "069c65309f06d591eb1ce0f31a8e39053ce0515da9c012254b1d1c7c9ffd11ba",
+    "simhash": "1:2f57e84eb6aaf14a",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 367",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Johnson\n02/03/2016\n661 MAL (2015)\n. Justice EAKIN and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0722-07",
+  "first_page_order": 782,
+  "last_page_order": 782
+}

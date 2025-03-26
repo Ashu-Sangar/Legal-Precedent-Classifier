@@ -1,0 +1,64 @@
+{
+  "id": 1307367,
+  "name": "Shapiro Estate",
+  "name_abbreviation": "Shapiro Estate",
+  "decision_date": "1962-04-17",
+  "docket_number": "Appeal, No. 2",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "407 Pa. 28"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 687,
+    "ocr_confidence": 0.452,
+    "sha256": "03fd6142b60018a786b61a1dfcc621f1e6cdb4adbf18ce13dfd89fc2d5185054",
+    "simhash": "1:7446bbb02dae4633",
+    "word_count": 116
+  },
+  "last_updated": "2023-07-14T16:51:13.554543+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen and O\u2019Brien, JJ."
+    ],
+    "parties": [
+      "Shapiro Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nAppellant, who was a daughter of testatrix, raises objections (a) as to the validity of a decree compelling her to pay a monthly rental, and (b) as to the validity of a partition proceeding and the sale of real estate thereunder, and (c) as to many other matters of less importance.\nWe have considered all of appellant\u2019s contentions and find no merit in any of them.\nDecree affirmed, each party to pay own costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Clara Shapiro, appellant, in propria persona, submitted a brief.",
+      "Theodore H. Schmidt, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Shapiro Estate.\nArgued March 22, 1962.\nApril 17, 1962:\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen and O\u2019Brien, JJ.\nreargument refused May 4, 1962.\nClara Shapiro, appellant, in propria persona, submitted a brief.\nTheodore H. Schmidt, for appellee."
+  },
+  "file_name": "0028-01",
+  "first_page_order": 50,
+  "last_page_order": 50
+}

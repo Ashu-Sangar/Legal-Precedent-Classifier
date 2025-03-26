@@ -1,0 +1,81 @@
+{
+  "id": 1284910,
+  "name": "Mayer v. Knopf, Appellant",
+  "name_abbreviation": "Mayer v. Knopf",
+  "decision_date": "1959-06-30",
+  "docket_number": "Appeal, No. 143",
+  "first_page": "312",
+  "last_page": "313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "396 Pa. 312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Pa. D. & C. 2d 308",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.2d",
+      "case_ids": [
+        1636510
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c2d/17/0308-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 413,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 2.1252607619860423e-07,
+      "percentile": 0.7650666119916644
+    },
+    "sha256": "02790f4f6beff8a0561b6730df0fb1c0acc3f0c9f5ceaf6ff472c728006dc14f",
+    "simhash": "1:8001aa866c86e038",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T22:39:42.767283+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, Musmanno, Jones, Cohen, Bok and McBride, JJ."
+    ],
+    "parties": [
+      "Mayer v. Knopf, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgment of the court below is affirmed on the opinion of Judge Wbinrott of the Court of Common Pleas No. 5 of Philadelphia County, appearing in 17 Pa. D. & C. 2d 308.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John J. McDevitt, 3rd, with him Harry A. Short, Jr., for appellant.",
+      "Henry J. Lotto, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Mayer v. Knopf, Appellant.\nArgued April 27, 1959.\nBefore Bell, Musmanno, Jones, Cohen, Bok and McBride, JJ.\nJohn J. McDevitt, 3rd, with him Harry A. Short, Jr., for appellant.\nHenry J. Lotto, for appellee.\nJune 30, 1959:"
+  },
+  "file_name": "0312-01",
+  "first_page_order": 334,
+  "last_page_order": 335
+}

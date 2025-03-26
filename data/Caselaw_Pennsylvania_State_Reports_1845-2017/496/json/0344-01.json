@@ -1,0 +1,86 @@
+{
+  "id": 1772903,
+  "name": "COMMONWEALTH of Pennsylvania, v. Joseph RUCKER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Rucker",
+  "decision_date": "1981-09-09",
+  "docket_number": "Petition No. 302 E.D.Misc.Dkt.1981",
+  "first_page": "344",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "496 Pa. 344"
+    },
+    {
+      "type": "parallel",
+      "cite": "437 A.2d 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "435 A.2d 271",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        175702,
+        175588,
+        175821,
+        175654
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/293/0579-01",
+        "/pa-super/293/0578-02",
+        "/pa-super/293/0580-01",
+        "/pa-super/293/0579-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 572,
+    "ocr_confidence": 0.754,
+    "pagerank": {
+      "raw": 4.643594115661138e-08,
+      "percentile": 0.2906049734945937
+    },
+    "sha256": "2d40c8153e3087908c0b5aa0e779a6e84dc0163acd972a3517bb2cca1cbffca9",
+    "simhash": "1:5c118acfe2ffb4f8",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T16:50:00.190752+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, v. Joseph RUCKER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAnd now, September 9, 1981, the petition for allowance of appeal is granted with respect to the issue of PCHA counsel\u2019s ineffectiveness, the order of the Superior Court, 435 A.2d 271, is vacated and the case is remanded to the Court of Common Pleas of Philadelphia for an evidentiary hearing to determine whether or not PCHA counsel was ineffective for failing to raise the adequacy of the guilty plea colloquy at the PCHA proceeding.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "437 A.2d 385\nCOMMONWEALTH of Pennsylvania, v. Joseph RUCKER, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 9, 1981."
+  },
+  "file_name": "0344-01",
+  "first_page_order": 418,
+  "last_page_order": 419
+}

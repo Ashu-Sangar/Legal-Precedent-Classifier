@@ -1,0 +1,106 @@
+{
+  "id": 12284636,
+  "name": "Com. v. Jones",
+  "name_abbreviation": "Com. v. Jones",
+  "decision_date": "2016-08-23",
+  "docket_number": "92 EAL (2016)",
+  "first_page": "672",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 672"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 187",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486405,
+        12486406,
+        12486407,
+        12486408,
+        12486409,
+        12486410,
+        12486411,
+        12486412,
+        12486413,
+        12486414,
+        12486415,
+        12486416,
+        12486417,
+        12486418,
+        12486419,
+        12486420
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0187-10",
+        "/a3d/144-2/0187-11",
+        "/a3d/144-2/0187-12",
+        "/a3d/144-2/0187-13",
+        "/a3d/144-2/0187-14",
+        "/a3d/144-2/0187-15",
+        "/a3d/144-2/0187-16",
+        "/a3d/144-2/0187-01",
+        "/a3d/144-2/0187-02",
+        "/a3d/144-2/0187-03",
+        "/a3d/144-2/0187-04",
+        "/a3d/144-2/0187-05",
+        "/a3d/144-2/0187-06",
+        "/a3d/144-2/0187-07",
+        "/a3d/144-2/0187-08",
+        "/a3d/144-2/0187-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.831,
+    "sha256": "f29d9faace09f9a5585f2c571f2698244cafdfa159482e9f063972e5d846c52d",
+    "simhash": "1:3224ca3773692e31",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Jones"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 187",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Jones\n08/23/2016\n92 EAL (2016)"
+  },
+  "file_name": "0672-11",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

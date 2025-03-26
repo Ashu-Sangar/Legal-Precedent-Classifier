@@ -1,0 +1,83 @@
+{
+  "id": 468630,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Dante TODARO",
+  "name_abbreviation": "Commonwealth v. Todaro",
+  "decision_date": "1996-12-20",
+  "docket_number": "Petition No. 169 W.D. Allocatur Docket 1996",
+  "first_page": "2",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "547 Pa. 2"
+    },
+    {
+      "type": "parallel",
+      "cite": "688 A.2d 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "547 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468628
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 625,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.74867511580791
+    },
+    "sha256": "332bbc35e8a02fcd27530ccc85a044241dfe3d478b7aa2522a73f6791f57b5af",
+    "simhash": "1:2e1ce263739d7ca5",
+    "word_count": 99
+  },
+  "last_updated": "2024-02-27T18:23:23.688489+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Dante TODARO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of December, 1996, the Petition for Allowance of Appeal is GRANTED BUT LIMITED to the question of whether the Superior Court erred by denying Petitioner\u2019s PCRA petition alleging that counsel was ineffective by failing to object to the submission of written instructions to the jury.\nIt is further ordered that the case be submitted on briefs and consolidated with Commonwealth v. Skibicki, 547 Pa. 1, 688 A.2d 165 (1996).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Dante Todaro, Philadelphia, for Petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "688 A.2d 165\nCOMMONWEALTH of Pennsylvania, Respondent, v. Dante TODARO.\nSupreme Court of Pennsylvania.\nDec. 20, 1996.\nDante Todaro, Philadelphia, for Petitioner."
+  },
+  "file_name": "0002-01",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

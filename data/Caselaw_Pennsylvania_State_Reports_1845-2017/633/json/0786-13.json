@@ -1,0 +1,80 @@
+{
+  "id": 12286845,
+  "name": "Com. v. Roles",
+  "name_abbreviation": "Com. v. Roles",
+  "decision_date": "2015-12-01",
+  "docket_number": "334 WAL (2015)",
+  "first_page": "786",
+  "last_page": "786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 786"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 122",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6862580
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/116/0122-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.829,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24942342198328937
+    },
+    "sha256": "55021ba40d6032597aaa55b64a9f28fe3d67415e0d93282ba78b9dcf69075149",
+    "simhash": "1:1b95a01908f10741",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Roles"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 122",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Roles\n12/01/2015\n334 WAL (2015)"
+  },
+  "file_name": "0786-13",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

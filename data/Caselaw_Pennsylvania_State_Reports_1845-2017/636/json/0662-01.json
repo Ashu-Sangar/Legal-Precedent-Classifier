@@ -1,0 +1,80 @@
+{
+  "id": 12282970,
+  "name": "Com. v. Sattazahn",
+  "name_abbreviation": "Com. v. Sattazahn",
+  "decision_date": "2016-08-02",
+  "docket_number": "161 MAL (2016)",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 662"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "128 A.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6765939
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/128/0291-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.838,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2491226322461271
+    },
+    "sha256": "0f53a654b98a2716911d644420ecdf2ffdccf926a743cc764aed2ad06b15d9f7",
+    "simhash": "1:ec5c40f068f901c3",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Sattazahn"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 128 A.3d 291",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Sattazahn\n08/02/2016\n161 MAL (2016)"
+  },
+  "file_name": "0662-01",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

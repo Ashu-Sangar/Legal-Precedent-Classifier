@@ -1,0 +1,70 @@
+{
+  "id": 12287264,
+  "name": "N.G. v. C.G.",
+  "name_abbreviation": "N.G. v. C.G.",
+  "decision_date": "2015-12-01",
+  "docket_number": "792 MAL (2015)",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 788"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 66",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 69,
+    "ocr_confidence": 0.832,
+    "sha256": "ddc38a1eee72568b7fcc85d6132bbf6ab2fe7c47907b05f5ef714970bbada7f8",
+    "simhash": "1:3b0a01b0b67743ad",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "N.G. v. C.G."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 133 A.3d 66",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "N.G. v. C.G.\n12/01/2015\n792 MAL (2015)"
+  },
+  "file_name": "0788-13",
+  "first_page_order": 842,
+  "last_page_order": 842
+}

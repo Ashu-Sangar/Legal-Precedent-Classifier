@@ -1,0 +1,96 @@
+{
+  "id": 706312,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Gregory Philip KENDALL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kendall",
+  "decision_date": "2001-08-10",
+  "docket_number": "Petition No. 205 MAL 2001",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 207"
+    },
+    {
+      "type": "parallel",
+      "cite": "779 A.2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "734 A.2d 386",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56867,
+        11543391
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0429-01",
+        "/a2d/734/0386-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56867
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0429-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 426,
+    "ocr_confidence": 0.625,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.02578374260429855
+    },
+    "sha256": "f88e1fed8a1712ef2d435b137ec072f39d1ffc6c4afae1272406825b736b7a37",
+    "simhash": "1:6c351345d38e4db6",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Gregory Philip KENDALL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 10th day of August 2001, the petition for allowance of appeal is GRANTED, limited to the issue of whether there is a conflict between the holding in the instant case and this court\u2019s holding in Commonwealth v. Scavello, 557 Pa. 429, 734 A.2d 386 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "779 A.2d 490\nCOMMONWEALTH of Pennsylvania, Respondent, v. Gregory Philip KENDALL, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 10, 2001."
+  },
+  "file_name": "0207-01",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

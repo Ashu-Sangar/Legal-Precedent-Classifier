@@ -1,0 +1,123 @@
+{
+  "id": 1919750,
+  "name": "Commonwealth ex rel. Lucas, Appellant, v. Russell",
+  "name_abbreviation": "Commonwealth ex rel. Lucas v. Russell",
+  "decision_date": "1968-11-27",
+  "docket_number": "Appeal, No. 234",
+  "first_page": "357",
+  "last_page": "359",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "432 Pa. 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "240 A. 2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 1
+    },
+    {
+      "cite": "429 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1913487
+      ],
+      "year": 1968,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/429/0458-01"
+      ]
+    },
+    {
+      "cite": "176 A. 2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "643",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "406 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1304936
+      ],
+      "year": 1962,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/406/0045-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 261,
+    "char_count": 3300,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0698901750642605
+    },
+    "sha256": "6226623a186ed3566d7e3e5ac44f26cf0aea38c8b6e907d5e3395fea16df78d5",
+    "simhash": "1:20969448e4a89e14",
+    "word_count": 526
+  },
+  "last_updated": "2024-02-27T23:35:35.279252+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.",
+      "Mr. Justice Musmanno did not participate in the decision of this case.",
+      "Mr. Justice Eagen and Mr. Justice O\u2019Brien join in this dissenting opinion."
+    ],
+    "parties": [
+      "Commonwealth ex rel. Lucas, Appellant, v. Russell."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nOrder affirmed, the Court being evenly divided.\nMr. Justice Musmanno did not participate in the decision of this case.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Roberts:\nWhen appellant appeared for trial, he was not represented by counsel. The attorney hired by his co-defendant either volunteered or was appointed by the court to defend appellant also. Appellant claims that a conflict of interest arose because his codefendant had previously given the police a confession which was introduced into evidence, maintaining that the conflict became manifest when counsel made no effort to have the confession excluded. I believe that appellant is correct and would grant him a new trial.\nThis case is governed by Commonwealth ex rel. Whitting v. Russell, 406 Pa. 45, 176 A. 2d 641 (1962), which states the correct conflict of interest rule as follows : \u201cIf, in the representation of more than one defendant, a conflict of interest arises, the mere existence of such conflict vitiates the proceedings, even though no actual harm results. The potentiality that such harm may result, rather than that such harm did result, furnishes the appropriate criterion.\u201d Id. at 48, 176 A. 2d at 643 (emphasis in original). Under Commonwealth v. Wilson, 429 Pa. 458, 240 A. 2d 498 (1968), defendant must demonstrate that a conflict in fact existed at trial.\nThe crucial and controlling inquiry here is whether or not there was a potential conflict when appellant was represented at trial by the same attorney as his codefendant who had already confessed and implicated appellant. It is not for us to speculate on the possible courses counsel representing only the appellant would have taken if he, instead of codefendant\u2019s counsel, had represented appellant at the trial. It is enough for us to find, in a given factual situation, some point at which the interests of the two defendants might diverge. With one defendant having implicated the other in a pretrial confession, the potential conflict must of necessity exist. For example, how likely was it that counsel would vigorously cross-examine his retained client in order to undermine his credibility and to aid his additional indigent client whose defense rested on refuting retained client\u2019s confession? Therefore I would reverse appellant\u2019s conviction so that he might obtain a new trial represented by counsel, free of the possibility of conflicting interests.\nIn passing, I would also note that I find particularly unpersuasive the assertion that appellant failed to object to the appointment of his codefendant\u2019s counsel until his habeas corpus petition. I do not suppose that it would have been particularly appropriate for him to object earlier, since until that time codefendant\u2019s counsel was still his! Further, to expect him to object on his own is to assume a degree of legal sophistication on the part of appellant which is unreasonable.\nI dissent.\nMr. Justice Eagen and Mr. Justice O\u2019Brien join in this dissenting opinion.",
+        "type": "dissent",
+        "author": "Mr. Justice Roberts:"
+      }
+    ],
+    "attorneys": [
+      "James P. McKenna, Jr., for appellant.",
+      "Charles B. Watkins, Assistant District Attorney, and Robert W. Duggan, District Attorney, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth ex rel. Lucas, Appellant, v. Russell.\nArgued October 3, 1968.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nJames P. McKenna, Jr., for appellant.\nCharles B. Watkins, Assistant District Attorney, and Robert W. Duggan, District Attorney, for appellee.\nNovember 27, 1968:"
+  },
+  "file_name": "0357-01",
+  "first_page_order": 405,
+  "last_page_order": 407
+}

@@ -1,0 +1,877 @@
+{
+  "id": 1003479,
+  "name": "Phillips' Estate",
+  "name_abbreviation": "Phillips' Estate",
+  "decision_date": "1914-02-09",
+  "docket_number": "Appeal, No. 244",
+  "first_page": "35",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "244 Pa. 35"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "108 Pa. 395",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539228
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/108/0395-01"
+      ]
+    },
+    {
+      "cite": "82 Pa. 72",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047992
+      ],
+      "pin_cites": [
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/82/0072-01"
+      ]
+    },
+    {
+      "cite": "223 Pa. 596",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/223/0596-01"
+      ]
+    },
+    {
+      "cite": "10 Sadler 539",
+      "category": "reporters:state",
+      "reporter": "Sadler",
+      "case_ids": [
+        252186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sadler/10/0539-01"
+      ]
+    },
+    {
+      "cite": "205 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        929969
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/205/0455-01"
+      ]
+    },
+    {
+      "cite": "238 Pa. 585",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        991515
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/238/0585-01"
+      ]
+    },
+    {
+      "cite": "207 Pa. 284",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        933555
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "289"
+        },
+        {
+          "page": "288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/207/0284-01"
+      ]
+    },
+    {
+      "cite": "184 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        987959
+      ],
+      "pin_cites": [
+        {
+          "page": "49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/184/0041-01"
+      ]
+    },
+    {
+      "cite": "65 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        430666
+      ],
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/65/0368-01"
+      ]
+    },
+    {
+      "cite": "41 Pa. 312",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        480041
+      ],
+      "pin_cites": [
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/41/0312-01"
+      ]
+    },
+    {
+      "cite": "207 Pa. 203",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        933619
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/207/0203-01"
+      ]
+    },
+    {
+      "cite": "162 Pa. 567",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        856736
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/162/0567-01"
+      ]
+    },
+    {
+      "cite": "157 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        846581
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/157/0264-01"
+      ]
+    },
+    {
+      "cite": "185 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        897980
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/185/0437-01"
+      ]
+    },
+    {
+      "cite": "195 Pa. 282",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        914062
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/195/0282-01"
+      ]
+    },
+    {
+      "cite": "198 Pa. 363",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        920309
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/198/0363-01"
+      ]
+    },
+    {
+      "cite": "201 Pa. 477",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        925635
+      ],
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/201/0477-01"
+      ]
+    },
+    {
+      "cite": "220 Pa. 531",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1005889
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/220/0531-01"
+      ]
+    },
+    {
+      "cite": "179 Pa. 645",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        886928
+      ],
+      "pin_cites": [
+        {
+          "page": "652-3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/179/0645-01"
+      ]
+    },
+    {
+      "cite": "154 Pa. 517",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842334
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/154/0517-01"
+      ]
+    },
+    {
+      "cite": "115 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        551735
+      ],
+      "pin_cites": [
+        {
+          "page": "40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/115/0032-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 545",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446076
+      ],
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/99/0545-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 199",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452118
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/104/0199-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444781
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/97/0163-01"
+      ]
+    },
+    {
+      "cite": "80 Pa. 170",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1042315
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/80/0170-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. 283",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        432476
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/66/0283-01"
+      ]
+    },
+    {
+      "cite": "239 Pa. 467",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        996016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/239/0467-01"
+      ]
+    },
+    {
+      "cite": "224 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963038
+      ],
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/224/0001-01"
+      ]
+    },
+    {
+      "cite": "198 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        920323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/198/0326-01"
+      ]
+    },
+    {
+      "cite": "229 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        971859
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/229/0071-01"
+      ]
+    },
+    {
+      "cite": "210 Pa. 22",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        937775
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/210/0022-01"
+      ]
+    },
+    {
+      "cite": "122 Pa. 239",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/122/0239-01"
+      ]
+    },
+    {
+      "cite": "76 Pa. 106",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038902
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/76/0106-01"
+      ]
+    },
+    {
+      "cite": "23 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        974017
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/23/0375-01"
+      ]
+    },
+    {
+      "cite": "10 W. N. C. 241",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Pa. 495",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        500898
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "505"
+        },
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/101/0495-01"
+      ]
+    },
+    {
+      "cite": "185 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        897938
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "62"
+        },
+        {
+          "page": "71"
+        },
+        {
+          "page": "70-1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/185/0061-01"
+      ]
+    },
+    {
+      "cite": "202 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        992343
+      ],
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/202/0198-01"
+      ]
+    },
+    {
+      "cite": "208 Pa. 414",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998153,
+        998054
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "415"
+        },
+        {
+          "page": "415"
+        },
+        {
+          "page": "420, 424, 433"
+        },
+        {
+          "page": "433"
+        },
+        {
+          "page": "421"
+        },
+        {
+          "page": "424"
+        },
+        {
+          "page": "430, 433"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "427"
+        },
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/208/0414-01",
+        "/pa/208/0414-02"
+      ]
+    },
+    {
+      "cite": "203 Pa. 400",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994779
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "416"
+        },
+        {
+          "page": "422, 425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/203/0400-01"
+      ]
+    },
+    {
+      "cite": "194 Pa. 107",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        912354
+      ],
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/194/0107-01"
+      ]
+    },
+    {
+      "cite": "224 Pa. 116",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963072,
+        963154
+      ],
+      "pin_cites": [
+        {
+          "page": "120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/224/0116-01",
+        "/pa/224/0116-02"
+      ]
+    },
+    {
+      "cite": "236 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        986756
+      ],
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/236/0031-01"
+      ]
+    },
+    {
+      "cite": "116 Pa. 612",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        554389
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "626"
+        },
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/116/0612-01"
+      ]
+    },
+    {
+      "cite": "134 Pa. 250",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        814925
+      ],
+      "pin_cites": [
+        {
+          "page": "260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/134/0250-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 10",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        549988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/114/0010-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 628",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498408
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/100/0628-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498467
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/100/0458-01"
+      ]
+    },
+    {
+      "cite": "75 Pa. 337",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1036799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/75/0337-01"
+      ]
+    },
+    {
+      "cite": "98 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        496887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/98/0501-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 286",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9504397
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/24/0286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1211,
+    "char_count": 27121,
+    "ocr_confidence": 0.48,
+    "pagerank": {
+      "raw": 1.7994609045861548e-06,
+      "percentile": 0.9940017738485911
+    },
+    "sha256": "5c701480f9f9815538b6659d11bb21d7ac293403061968adb4f8387d6e256d3c",
+    "simhash": "1:862d20b1c36929c3",
+    "word_count": 4703
+  },
+  "last_updated": "2024-02-27T20:13:13.863484+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Fell, O. J., Brown, Mestrezat, Elkin and Moschzisker, JJ."
+    ],
+    "parties": [
+      "Phillips\u2019 Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMb. Justice Moschziskek,\nThis was a petition for an issue devisavit vel non. The estate in question was estimated at from $300,000 to $400,000, about $125,000 of which, comprising the personal property, had been accounted for by the appellee, as executor, and distributed under a decree of the court below before these proceedings were commenced. In refusing the issue, the court found, inter alia, the following facts: That the testatrix, Elizabeth Phillips, was a widow without children and had no relatives nearer than first cousins; that she made and executed her will on April 12, 1909, when seventy-three years of age, and died March 31,-1910; that the present proceedings were instituted on August 22, 1911; that during her entire life she was \u201cnormal in her physical make-up and in her mental endowment\u201d; that she had a common school education and took an active interest in the management of her business affairs and in running her house and farm; that she read the newspapers, attended church services, \u201cwas sensible in her views of life,\u201d and \u201cnothing could be said against her moral character\u201d; that she was \u201cabove the average country woman in her knowledge of affairs and of business\u201d; that she lived with a sister, \u201cLucinda Hill,\u201d who died September 3,1908; that there had never been any great intimacy between the two sisters and their cousins, the contestants, and \u201cboth Lucinda Hill and Elizabeth Phillips appeared to think that their cousins did not treat them as they should have done\u201d; that Charles Miller, the proponent, is the son of James M. Miller, a business man who conducted a general store and a bank in the vicinity of the decedent\u2019s home and for years had been intimate with her father and his family; that the proponent was known to Mrs. Phillips and her sister Lucinda ever since a boy, and in the year 1902 or 1903 they asked him to look after \u201csuch of their business as they wished to give into his charge\u201d; that thereafter Charles Miller made frequent visits to the home of the testatrix, was kind and attentive to her and active in the management of her business affairs; that he attended to selling, considerable of her real estate and to the investment of her money; that in course of time, as the real estate was disposed of, a great part of the proceeds came into his hands, and, at the request of Lucinda Hill and Mrs. Phillips, was deposited or reinvested in notes directly in his name, that to secure them, \u201cwhen he received these notes in his own name for their money and received these certificates of deposit he turned them over to the custody of Miss Hill and Mrs. Phillips, and he also kept a book account of his own with them in which he charged himself every time he received any of their money\u201d; that T. F. Birch, Esq., a member of the Washington County bar, of high standing, who had represented the decedent and her family for some years drew the will in controversy; that Mr. Miller accompanied the decedent to Mr. Birch\u2019s office, at her request, and when they arrived she informed the attorney that she wanted to make a deed to Mr. Miller, conveying the coal under a large and valuable piece of land owned by her; that after this deed was prepared, she stated that she desired to make her will; that she spent the greater part of the day with Mr. Birch and his stenographer, and, without any memoranda previously prepared gave specific directions for the eighty-nine bequests which appear in the will, in almost every instance recalling the name of the person she desired to designate; that after this had been done, Mr. Birch asked her to whom she wanted the rest of her estate to go, and' she said \u201cCharles Miller,\u201d also naming him as her executor; that Mr. Miller was not in the office during the preparation of the entire will, but he was in and out; that he took Mrs. Phillips out to midday dinner, and in a short time came back with her; that when the dictation was completed, he accompanied her to the house of a friend whom she desired to visit, and remained with her while the will was being transcribed; that he returned with her, and just prior to signing the will, Mrs. Phillips affixed her signature to the deed and handed it to Mr. Miller, saying, \u201cThis is yours\u201d; that she then executed the will in the presence of Mr. Birch and Miss Patterson, the stenographer, and it was put in the former\u2019s safe; that the deed was not recorded until after Mrs. Phillips\u2019 death, and in the meantime the land continued in her name; that, \u201cafter the deed had been executed and delivered and the will made, Mrs. Phillips made declarations to different parties tending to show she had full knowledge of what she had done\u201d and that the will was her own deliberate act; that she stated, inter alia, she had been to Washington, had seen her attorney and arranged her business as she wanted it, and that she had carried out a promise made to her sister on her death bed and \u201cfixed everything for Charley\u201d (meaning Charles Miller) ;\u2022 that to one of the witnesses, she said, concerning her will, \u201cI think it will surprise some of the people and I hope it will.\u201d Under the heading of \u201cFacts Not Found,\u201d the court states that there was no testimony to show that the testatrix was in any sense \u201cmentally incapable of making a will,\u201d that \u201cany improper relations ever existed between Elizabeth Phillips and Charles Miller, or that the relation between them was different from that which might very properly be expected between persons who sustained the business relations to each other that they did\u201d; further, that there was no testimony to show \u201cthat Charles Miller ever practiced any deceit or fraud bn Elizabeth Phillips or that he ever attempted to prejudice her against her heirs at law, or that he ever suggested to her that she should make a will or what provisions should be in it if she made one, or that he ever indulged in any flattery of Mrs. Phillips.\u201d\nMr. Birch, the attorney, died before the hearing, but Miss Patterson, the stenographer, was produced as a witness, and testified that on the day the will was made Mrs. Phillips displayed a \u201cremarkable memory,\u201d that she gave every appearance of having \u201ca mind of her own,\u201d and was \u201cperfectly clear upon what she wanted to do,\u201d that her demeanor indicated \u201cshe was an intelligent woman and knew what she was doing,\u201d and that when Mr. Birch advised her against a bequest of $10,000 she wanted to make to the county for the redemption of bonds, she insisted upon having her own way in the matter. The witness stated that Mr. Miller was present during the dictation of the first sixteen paragraphs of the will, and left immediately thereafter, that he was in and out of the office during the afternoon session, but was not there when Mr. Birch asked the testatrix concerning the disposition of her residuary estate, and, finally, that Mr. Miller took no part in the preparation of the will, \u2014 \u201che did not say anything\u201d or \u201cmake any suggestions.\u201d The witness said that from time to time as various parts of the will were prepared they were read over to Mrs. Phillips and she placed her name on each page as she approved it. Charles Miller testified that he never made any suggestions to the testatrix concerning the disposition of her property, and that when he aecompanied her to Mr. Birch\u2019s office he did not know that she intended to make a will or to designate him as her residuary legatee.\nThe will consists of the usual introduction, a direction that all collateral inheritance taxes shall be paid out of the residuary estate, and a setting aside of $10,000 to maintain the family cemetery lot; then follow eighty-nine tersely stated provisions disposing of lands and moneys to public institutions, friends and relatives \u2014 \u25a0 among others $10,000 to the County of Washington for the redemption of court house bonds, bequests to churches in the vicinity, to the board of home missions and foreign missions and religious societies in Pittsburgh, to certain school districts, to charitable associations, and to the Washington County Home, then a devise of the surface of a 120 acre farm to Charles Miller, and another of the surface of a seventy-four acre farm to one Mark Galway, who for years had been a tenant on'the land; after which came the residuary provision and the appointment of the executor.\nThere is but one specification of error and that goes to the final decree refusing the issue; there is no assignment to any of the findings, and no exceptions thereto appear to have been taken in the court below. (Bull\u2019s App., 24 Pa. 286; Robb\u2019s App., 98 Pa. 501). We have read the testimony, however, and are not convinced of reversible error in the court\u2019s conclusions concerning the facts or in the final decree. From the cases cited to us, and the various authorities therein referred to, we deduce the following applicable general principles: An issue devisavit vel non is a matter of right where the existence of a substantial dispute upon a material question of fact is demonstrated to the court by competent evidence which, under the circumstances of the case, measures in probative force up to the requirements of the law; or, in other words, \u2014 as the rule has heretofore most often been put, \u2014 when upon a review of all the proofs a verdict against the will could be properly sustained by a trial judge, the controversy must be submitted to a jury, even though the judge should feel that were he sitting as a juror he would not draw the inferences or reach the conclusions contended for by the contestants. But if the testimony is such that the judge would feel constrained to set aside a verdict against the will as contrary to the manifest weight of the evidence, determined according to relevant legal standards, it cannot be said that a substantial dispute has arisen (DeHaven\u2019s App., 75 Pa. 337; Harrison\u2019s App., 100 Pa. 458, 460; Schwilke\u2019s App., 100 Pa. 628; Knauss\u2019s App., 114 Pa. 10; Sharpless\u2019s Est., 134 Pa. 250, 260; Herster v. Herster, 116 Pa. 612, 626; Roup\u2019s Est., 236 Pa. 31, 33, and other cases infra). The \u201cabsolute right of the parties\u201d to a trial by jury depends upon \u201cthe strength of their evidence,\u201d and to determine that, on an application for an issue, the Orphans\u2019 Court must hear and weigh the proofs as a whole (Harrison\u2019s App., supra, 461 and 462; Brink v. Brady, 224 Pa. 116, 120). \u201cIn an issue tried in the Common Pleas involving the validity of a will assailed on the ground of undue influence......the trial judge sits as a chancellor\u201d (McCormick v. McCormick, 194 Pa. 107, 117; Robinson v. Robinson, 203 Pa. 400, 416; Caughey v. Bridenbaugh, 208 Pa. 414, 415; Roberts v. Clemens, 202 Pa. 198, 200) and when such a case is before the Orphans\u2019 Court on a petition for an issue, in practical effect, the same rules, concerning the duties of the judge, apply there as would hold good upon a trial in the Common Pleas. (Yorke\u2019s Est., 185 Pa. 61, 62.) \u201cIn every case tried before a jury in which the trial judge sits as a chancellor, the evidence is addressed to him quite as much as to the jury \u2014 it must as a whole be judged by him independently of the jury \u2014 must satisfy his (legal) conscience as well as the jury \u2014 and cannot be rightfully submitted to the jury as a basis of any finding which he would not approve; in a word, he cannot permit the jury to do what he as a chancellor (after weighing the evidence in the light of the established law upon the subject) would not do\u201d (Caughey v. Bridenbaugh, supra, 415). In so far as the testimony of the proponent of a will is not inherently unreasonable or improbable, the judge may consider it in measuring the preponderance of the evidence (Caughey v. Bridenbaugh, supra, 420, 424, 433; Yardley v. Cuthbertson, 108 Pa. 395, 460; Wilson v. Mitchell, 101 Pa. 495, 505; Yorke\u2019s Est., 185 Pa. 61, 71), and in the absence of \u201cdirect proof of undue influence actually exercised by the proponent\u201d or \u201ca presumption thereof arising against him from something in the evidence indicating weakness or infirmity in the testatrix,\u201d his testimony, when taken with the other proofs in the case, may so far discharge the burden of explaining away any circumstances introduced by the contestants\u2019 witnesses, which apparently require explanation, as to justify binding instructions in favor of the will or the refusal of an issue. (Caughey v. Bridenbaugh, supra, 433.)\nWhen a will is attacked on the ground of undue influence, \u201cIt is necessary to bear in mind the meaning of the term......; as a legal phrase it is used as denoting ......something violative of legal duty......The word \u2018influence\u2019 does not refer to any and every line of conduct capable of disposing in one\u2019s favor a fully and self directing mind, but to a control acquired over another which virtually destroys his free agency...... In order to constitute undue influence sufficient to void a will, there must be imprisonment of the body or mind ......fraud, or threats, or misrepresentations, or circumvention, or inordinate flattery, or physical or moral coercion, to such a degree as to prejudice the mind of the testator, to destroy his free agency and to operate as a present restraint upon him in the making of the will.\u201d (Caughey v. Bridenbaugh, supra, 421; Stokes v. Miller, 10 W. N. C. 241; Miller v. Miller, 3 S. & R. 267; Zimmerman v. Zimmerman, 23 Pa. 375; Tawney v. Long, 76 Pa. 106; Herster v. Herster, supra, 612, 122 Pa. 239; Allison\u2019s Est., 210 Pa. 22; McNitt\u2019s Est., 229 Pa. 71; Englert v. Englert, 198 Pa. 326; McCauley\u2019s Est., 224 Pa. 1, 5; Keller v. Keller, 239 Pa. 467.)\nWhere a person has testamentary capacity, but is so weak physically or mentally as to be susceptible to undue influence, and a substantial part of his estate is left to one occupying a confidential relation to Mm, the burden is upon the latter to show that no improper influence controlled the making of the will (Boyd v. Boyd, 66 Pa. 283, \u2014 in connection with this case see Frew v. Clark, 80 Pa. 170, 180, Cuthbertson\u2019s App., 97 Pa. 163, 172, Caldwell v. Anderson, 104 Pa. 199, 204 \u2014 ; Wilson\u2019s App., 99 Pa. 545, 555; Cuthbertson\u2019s App., 97 Pa. 163; Yardley v. Cuthbertson, 108 Pa. 395; Robinson v. Robinson, 203 Pa. 400, 422, 425; Blume v. Hartman, 115 Pa. 32, 40; Wilson v. Mitchell, 101 Pa. 495, 505; Armor\u2019s Est., 154 Pa. 517; Miller\u2019s Est., 179 Pa. 645, 652-3; Adam\u2019s Est., 220 Pa. 531; many of the foregoing cases are explained in York\u2019s Est., 185 Pa. 61, 70-1); but in a case where the decedent\u2019s testamentary capacity is conceded and there is no evidence of weakened intellect, the burden is upon those asserting undue influence to prove it, even where the bulk of the estate is left to one occupying a confidential relation (Frew v. Clarke, 80 Pa. 170; Harrison\u2019s App., 100 Pa. 458; Caldwell v. Anderson, 104 Pa. 199, 204; McEnroe v. McEnroe, 201 Pa. 477, 482; Friend\u2019s Est., 198 Pa. 363; Logan\u2019s Est., 195 Pa. 282; Coleman\u2019s Est., 185 Pa. 437; Yorke\u2019s Est., supra, 70; Miller v. Oestrick, 157 Pa. 264; Douglass\u2019 Est., 162 Pa. 567; Hook\u2019s Est., 207 Pa. 203; Caughey v. Bridenbaugh, 208 Pa. 414, 424). A testator of sound and disposing mind is entitled to distribute his property as he may see fit without regard to the personal motives or prejudices which influence him (Dean v. Negley, 41 Pa. 312, 316), and when he makes substantial provision in his will for one occupying a confidential relation, the strict legal presumptions that apply to and govern cases of gifts inter vivos under like conditions do not control (Caughey v. Bridenbaugh, supra, 430, 433). Mere old age does not prove mental weakness (Caughey v. Bridenbaugh, supra, 428; Thompson v. Kyner, 65 Pa. 368, 380; Messener v. Elliott, 184 Pa. 41, 49; Masterson v. Berndt, 207 Pa. 284, 289) , and where the charge is that undue influence was exerted on a mind healthy, strong, and free, the proof \u201cmust be clear and convincing\u201d (Caughey v.. Bridenbaugh, supra, 427; also see Logan\u2019s Est., 195 Pa. 282, 289; Hook\u2019s Est., 207 Pa. 203, 205; Eble v. Fidelity & Trust Co., 238 Pa. 585). When the effort is to establish undue influence without direct proof upon the point \u201cIt cannot be made out by circumstances which, though to be expected if there was fraud, are equally consistent with its absence, and such circumstances cannot, whether taken singly or collectively, justify an inference of wrong doing\u201d (Caughey v. Bridenbaugh, supra, 423).\nIn their brief the appellants say, \u201cWe frankly concede that the evidence did not warrant the granting of an issue to determine whether or not at the time of the execution of said paper the said Elizabeth Phillips was possessed of sufficient testamentary capacity to make a valid will; the only question before the court is whether or not the will was procured to be executed by undue influence exercised upon Elizabeth Phillips by Charles Miller.\u201d After reviewing the testimony and calling attention to the fact that there was no direct proof of solicitation, a course of flattery or other elements necessary, to constitute undue influence, the court below states that the circumstances relied upon by the contestants do not in themselves prove that fraud (undue influ-' ence), \u201cthat most of them, if not all of them, are'just as consistent with the hypothesis that no fraud existed,\u201d and that, since no direct attack had been made upon the truthfulness of the proponent or of Miss Patterson, the only living witness to the will, and since there was nothing \u201cinherently unreasonable or improbable in her story or that of Charles Miller,\u201d considering all of the proofs in the case, \u201cif a jury would render a verdict against the validity of Elizabeth Phillips\u2019 will on the ground that when she executed it her act was not voluntary and of her own free will......it would be the duty of the court to set such verdict aside.\u201d We have held that the testi; mony of a disinterested person who was \u201cactually pres,ent at the drafting of the will, its engrossing and submission to the testator, heard his assent to its provisions, saw him affix his signature thereto, and listened to his remarks and conversation,\u201d is entitled to \u201cbelief and reliance\u201d (Tasker\u2019s Est., 205 Pa. 455, 459; Masterson v. Berndt, 207 Pa. 284, 288); and we cannot say that the learned judge below erred in this instance when he considered the evidence given by Miss Patterson; nor do we think error was committed in taking cognizance of the testimony of the proponent. The adjudication plainly shows that the court did not rest its final conclusion on the testimony of these two witnesses, but rather upon what it deemed to be the weight of the evidence, judged according to the applicable rulings of this court, and thereunder the failure of the contestants to prove their allegation of undue influence. Of course, such influence may be shown by circumstantial evidence demonstrating a prior course of improper conduct calculated to produce an undue impression likely to remain and operate in the subsequent making of a will (Steadman v. Steadman, 10 Sadler 539); but it is not enough simply to prove a course of conduct, consistent with propriety, which afforded opportunities for undue influence (Tyson\u2019s Est., 223 Pa. 596). The testimony shows that Charles Miller was courteous to the testatrix personally and diligent in his attention to her affairs for several years prior to the making of the will, and that she undoubtedly had a high regard for and absolute confidence in him; further, it indicates generous appreciation of his kindness and constant attentions and is sufficient to prove a confidential business relation between them; hence, had there been any proof of extreme infirmity or mental weakness, this case would have been one proper to send to the jury. But, with the conceded fact of Elizabeth Phillips\u2019 strong mentality at the time she made her will, and in view of the lack of direct evidence of undue influence, we cannot say that the court below erred when it refused the issue.\nWe have not attempted specifically to notice each circumstance depended upon by the contestants or the explanations thereof relied upon by the proponent; to pursue such a course would unduly extend this opinion. But we have examined and considered all the proofs, and after so doing, we agree with the court below that,no matter how unreasonable the distribution may seem to others, \u201cif she (the testatrix) was of sound and disposing mind and memory when she made her will, and was not acting under an illegal restraint, then her will, in law, must stand, although it may offend the sense of propriety and justice of every man in the land; her prejudices, her likes and dislikes, acquired by her associations in life, were her own as much as the property of which she made distribution.\u201d (Cauffman v. Long, 82 Pa. 72, 77.) A'court of first instance is always in a better position than a reviewing tribunal to pass upon the elements of fact entering into cases of this character, and on appeal its judgment thereon is entitled to the utmost consideration. In the present case, had the evidence shown or clearly tended to show facts sufficient in law to indicate a \u201csubstantial dispute\u201d as to whether or not the will had been produced through undue influence exercised by the proponent over the mind of the testatrix, it might have been reversible error to refuse the issue, but the court below, after applying the relevant legal principles established by our decisions, found the manifest weight of the evidence to be against the contestants, and if right in this, it was not obliged to submit the case to a jury. While the introductory sentence of the adjudication suggests that, possibly, matters aliunde the evidence may have been considered by the court, and in some instances the statement of a legal principle relied upon is open to just criticism, yet, a careful reading of the whole record, together with the testimony and the able argument of counsel for the appellants, has failed to convince us that, under the. law as heretofore ruled, the decree complained of should be reversed; it is accordingly affirmed, at the cost of the appellants.",
+        "type": "majority",
+        "author": "Mb. Justice Moschziskek,"
+      }
+    ],
+    "attorneys": [
+      "R. W. Irvin, with him Jesse Stephens, Jas. A. Wiley and W. U. Lacey, for appellants.",
+      "J ohn G. Bane, with him Andrew M. Linn, J ohn R. Mc-Oreight, Owen G. Underwood, R. U. Meloy, Harry A. Jones, James P. Eagleson, and Richard G. Miller, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Phillips\u2019 Estate.\nWills \u2014 Devisavit vel non \u2014 Undue influence \u2014 Insufficient evidence.\n1. In order to constitute undue influence sufficient to avoid a will there must be imprisonment of the body or mind, or threats, or misrepresentations, or circumvention, or inordinate flattery, or physical or moral coercion to such a degree as to prejudice the mind of the testator, to destroy his free agency, and to operate as a present restraint upon him in the making of a will.\n2. Where a person of testamentary capacity is so weak physically or mentally as to be susceptible to undue influence, and a substantial part of his estate is left to one occupying a confidential relation to him, the burden is upon the latter to show that no improper influence controlled the making of the will; but where the decedent\u2019s testamentary capacity is conceded and evidence of weakened intellect is lacking the burden is upon those asserting undue influence to prove it, even where the bulk of the estate is left to one occupying a confidential relation; mere old age does not prove mental weakness and where the charge is that undue influence was exerted on a mind healthy, strong and free the proof must be clear and convincing.\n3. Where the validity of the will is disputed the right of the contestants to a trial by jury depends on the strength of their evidence and to determine that, the Orphans\u2019 Court must hear and weigh the proofs as a whole, and in so far as the testimony of the proponent of the will is not inherently unreasonable or improbable the judge may consider it in weighing the evidence.\n4. In an issue tried in the Common Pleas to determine the validity of a will assailed on the ground of undue influence the trial judge sits as a chancellor and when such a case is before the Orphans\u2019 Court the same rules concerning the duties of the judge apply as would hold good upon a trial in the Common Pleas; the evidence can not rightfully be submitted to a jury as a basis for any finding which the judge would not approve, nor can the jury be permitted to do what the chancellor, after weighing the evidence in the light of the established law upon the subject, would not do.\n5. An issue devisavit vel non is a matter of right where the existence of a substantial dispute upon a material question of fact is demonstrated to the court by competent evidence; and where upon a review of all the proofs a verdict against the will would be properly sustained, the controversy must be submitted to the jury even though the judge should feel that were he sitting as a juror he would not draw the inferences or reach the conclusions contended for by the contestants. If, however, the testimony is such that the judge would feel constrained to set aside a verdict against the will as contrary to the manifest weight of the evidence it can not be said that a substantial controversy exists.\n6. A petition for an issue devisavit vel non alleging that the proponent of the will and the principal beneficiary thereunder had exercised undue influence over the testatrix, is properly refused where it appeared that testatrix, a widow of seventy-three years of age, without relatives nearer than first cousins, and of undisputed testamentary capacity had bequeathed a large residuary estate to the proponent who had been her business adviser; that the relations between the testatrix and her surviving relatives were strained; that the proponent was not present at the time of the preparation of part of the will making the provision for him, and that subsequent to its execution testatrix had made statements to different parties tending to show that she had full knowledge of what she had done, and that she was normal in her physical makeup and in her mental endowment; and there was no direct proof of solicitation, flattery, or other elements necessary to constitute undue influence and none that the testatrix was physically infirm or mentally weak.\nArgued.Oct. 17, 1913.\nAppeal, No. 244, Oct. T., 1913, by Albert A. Hill, Mary H. Kyle, Jerome F. Hill, Aurelia L. Eckman, Annie N. Hill, Bella Shidler, Marie Richards, Rebecca A. Barnard, G. H. Shidler, Eli Jami-son, Henry Jamison, Julia Jamison, Isaac Hill, John Shidler, and Alpha H. Frye, from decree of O. C. Washington Go., May T., 1911, No. 85, refusing issue devisavit vel non, in Estate of Elizabeth Phillips, deceased.\nBefore Fell, O. J., Brown, Mestrezat, Elkin and Moschzisker, JJ.\nAffirmed.\nAppeal from decree of. register of wills admitting to probate the will of Elizabeth Phillips, deceased.\nPetition for an issue devisavit vel non. Before Mc-Ilvaine, P. J.\nThe opinion of the Supreme Court states the facts.\nThe court dismissed the appeal and refused, the issue.\nError assigned was the decree of the court.\nR. W. Irvin, with him Jesse Stephens, Jas. A. Wiley and W. U. Lacey, for appellants.\nJ ohn G. Bane, with him Andrew M. Linn, J ohn R. Mc-Oreight, Owen G. Underwood, R. U. Meloy, Harry A. Jones, James P. Eagleson, and Richard G. Miller, for appellees.\nFebruary 9, 1914:"
+  },
+  "file_name": "0035-01",
+  "first_page_order": 63,
+  "last_page_order": 75
+}

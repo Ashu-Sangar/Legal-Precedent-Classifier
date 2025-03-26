@@ -1,0 +1,249 @@
+{
+  "id": 1004730,
+  "name": "Brendlinger versus Yeagley",
+  "name_abbreviation": "Brendlinger v. Yeagley",
+  "decision_date": "1867-01-07",
+  "docket_number": "",
+  "first_page": "464",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 Pa. 464"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wright 411",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 426",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dall. 129",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        1408457,
+        12134082,
+        1408462,
+        12134231
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0133-01",
+        "/dall/1/0129-01",
+        "/us/1/0132-01",
+        "/dall/1/0129-02"
+      ]
+    },
+    {
+      "cite": "2 Grant 121",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        227644
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/2/0121-01"
+      ]
+    },
+    {
+      "cite": "2 Binn. 587",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1788949
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/2/0587-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 320",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841258
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/3/0320-01"
+      ]
+    },
+    {
+      "cite": "4 Dall. 232",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        581160
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/4/0232-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 305",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Watts 473",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Yeates 491",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Binn. 461",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "case_ids": [
+        1787929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/binn/1/0461-01"
+      ]
+    },
+    {
+      "cite": "1 Wright 394",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 W. & S. 257",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852654
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0257-01"
+      ]
+    },
+    {
+      "cite": "1 Dall. 314",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Watts 424",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848459
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0424-01"
+      ]
+    },
+    {
+      "cite": "3 Watts 320",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1841258
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/3/0320-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 257",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852654
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0257-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 469,
+    "char_count": 7934,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 4.5046715916883656e-08,
+      "percentile": 0.2820206892370945
+    },
+    "sha256": "d87092d6f6269673bfe968e4de1978508853c6aab835e13c67fb59e8c7c824e3",
+    "simhash": "1:0e7726369a525c79",
+    "word_count": 1425
+  },
+  "last_updated": "2024-02-27T16:26:48.725513+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brendlinger versus Yeagley."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nAgnew, J.\nThe effect of this award must be determined by the language and purpose of the submission. It is contended that the submission and award are good under the Act of 1836, on the ground that there was a pending action to which the submission was applicable, and that under the rulings of this court it is unnecessary it should be made a rule of court. The cases referred to are McAdams\u2019 Ex\u2019rs. v. Stilwell, 1 Harris 90, Ford v. Keen, Id. 179, and Buckman v. Davis, 4 Casey 211. In the first and last not only are the pending actions expressly referred to in the submissions, but the actions themselves are specifically submitted to the decision of the arbitrators, and the awards agreed to be filed and judgment entered thereupon by the prothonotary. In Ford v. Keen the agreement expressly stipulated that the reference should he under the 6th section of the Act of 1836. Therefore the court held in these cases that the intent to make the reference a rule of court was sufficiently implied. Such consent is to he presumed from the manifest intent to refer the action itself, and to make the award a part of the proceeding therein, and the means of prosecuting it to a conclusion. But when this intent does not appear, or where a contrary intent is manifest from the terms of the submission, the reverse has always been held. The following cases are instances: Okison v. Flickinger, 1 W. & S. 257; Gallup v. Reynolds, 8 Watts 424; Stokely v. Robinson, 10 Casey 315. In the last case the result of the decisions is summed up by our brother Thompson to the effect already stated, and he adds \u2014 \u201c further than this the courts have not gone.\u201d\nWhat then is the purport of the submission in this case ? It begins by reciting that a lawsuit is now pending between the parties and for trial at June Term 1864, the date being June 3d 1864. But what was the purpose of this recital? We are told in the next sentence. We do agree and covenant with each other (the paper says) that they, the said Brendlinger and Yeagley, will stop all further proceedings at law, and leave it to Lewis Eisher and J. R. Stull, who shall select a third man, and whatever decision they make shall be binding and final of all former transactions between the said parties. What is to be inferred from this ? Clearly not an intention to prosecute the action, for it was agreed to stop it though then on the trial list. It was not to refer the issue in that action only, for whatever the decision of the referees, it should be binding not only upon the matters of controversy therein, but of all former transactions between the parties. The nature of the pending case more clearly exhibits this. A judgment had been entered on a warrant of attorney, which had been opened, and an issue directed by the court to determine the amount due upon the judgment. It was therefore a special proceeding arising under the equity powers of the court to determine the specific extent of the defendant\u2019s liability under the judgment. No such purpose is to be seen in this submission. On the contrary, the purpose was to stop this proceeding, and to institute another which should embrace all former transactions, and instead of being a part of the action, and filed in its prosecution, should be itself a finality. Richardson v. Cassily, 3 Watts 320, is a case more nearly resembling this than any one we have been referred to.\nWhether the award in this case is good at common law, or how it shall be enforced, it is not our present purpose to decide. We think it is not available as an award in a pending action, and the judgment is therefore reversed, leaving the plaintiff to stand upon his award, and to take such proceedings upon it as may he authorized by law.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Agnew, J."
+      }
+    ],
+    "attorneys": [
+      "G. M. Reade, for plaintiff in error,",
+      "R. L. Johnson, for defendant in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Brendlinger versus Yeagley.\n1. A feigned issue having been directed to ascertain the amount due on a judgment, the parties entered into an agreement to \u201cstop all further proceedings at law and leave it (to three referees), and whatever decision they make shall be binding and final of all former transactions between the said parties.\u201d Held, that judgment could not be entered on the award made under the agreement as upon a submission of a case pending.\n2. The consent of parties to make the reference a rule of court is never implied, where the intent does not appear or a contrary intent is manifest.\nError to the Court of Common Pleas of Cambria county.\nA judgment was entered by confession in favor of David Brendlinger against Henry Yeagley, on the 29th of April 1862, for $1110.\nOn the 10th of February 1864, upon an affidavit of the defendant, the court opened the judgment and let him into a defence ; and directed an issue \u201c to determine what amount is due from defendant to the plaintiff upon the judgment in this case.\u201d\nThe parties afterwards entered into the following agreement of reference:\u2014\n\u201c Article of agreement between David Brendlinger, of Rich-land township, Cambria county, Pennsylvania, of the first part, and Dr. Henry Yeagley, of Johnstown, of the second part, as follows: Whereas a lawsuit is now pending, and for trial at June Term 1864, between the said parties, wherein the said David Brendlinger is plaintiff, and the said Henry Yeagley defendant, we do hereby agree and covenant with each other, that they, the said David Brendlinger and the said Henry Yeagley will stop all further proceedings at law, and leave it to Lewis Fisher and J. R. Stull, who shall select a third man, and whatever decision they make shall be binding and final of all former transactions between the said parties. In witness whereof we have hereunto set hands and seals this third day of June, A. d. 1864.\n\u201cDavid Brendlinger, [l. s.]\n\u201c H. Yeagley. . [l. s.]\n\u201c Signed, sealed and delivered\nin the presence of\n\u201c Lewis Fisher,\n\u201c J. R. Stull.\nThe referees awarded: \u201cIn the case of Brendlinger v. Yeagley, we find for plaintiff three hundred and twenty-three dollars and six cents, and each party pay his own costs.\u201d\nThe award was signed by the two referees selected and a third person; but there was nothing else showing the choice of the third person.\nThe award was filed. The plaintiff afterwards filed exceptions to it, one of which was: The agreement purports to refer a cause pending in court to arbitrators, yet it is not provided in the submission that it shall be made a rule of court; and no rule of court having been issued, the proceedings are irregular, erroneous and void.\nThe exceptions were overruled, and judgment was entered on the award. The plaintiff took out a writ of error.\nThe error considered in the opinion of the Supreme Court was the overruling the above exception.\nJanuary 7th 1867,\nG. M. Reade, for plaintiff in error,\ncited Acts of June 16th 1836, \u00a7\u00a7 1, 2, 3, 6, Pamph. L. 717; March 21st 1806, \u00a7\u00a7 1, 2, 3, 4 Sm. L. 326; 1705, Id. 50; Purd. 50 et seq. pl. 1, 2, 3, 6, 9, 10, 11, 14; Williams v. Craig, 1 Dall. 314; Stokely v. Robinson, 10 Casey 316 ; Okison v. Flickinger, 1 W. & S. 257 ; Marshall v. Bozorth, 5 Harris 411; Wall v. Fife, 1 Wright 394; Stevens\u2019s Appeal, 2 Id. 13 ; Graham v. Hamilton, 1 Binn. 461; Brink v. Bell, 4 Yeates 491; White v. Shriver, 2 Watts 473; 1 Bac. Ab. Arb. and Award; 2 Saunders on Pl. & Ev. 1282, 1295; 2 Greenl. on Ev. \u00a7 71, note 2; Tidd\u2019s Pr. 826, 830-831; Bayne v. Gaylord, 3 Watts 305 ; Falconer v. Montgomery, 4 Dall. 232; Passmore v. Pettit, Id. 272; Richardson v. Cassily, 3 Watts 320 ; Gallup v. Reynolds, 8 Id. 424; Guier v. McFadden, 2 Binn. 587 ; Lewis v. England, 4 Id. 5; Clark v. McKisson, 6 S. & R. 87; Holdship v. Alexander, 13 Id. 230; Carson v. Coulter, 2 Grant 121; Buckley v. Durant, 1 Dall. 129; Russell v. Gray, 6 S. & R. 145.\nR. L. Johnson, for defendant in error,\ncited Gallup v. Reynolds, 8 Watts 426; McAdams v. Stilwell, 1 Harris 96 ; Ford v. Keen, Id. 179; Buckman v. Davis, 4 Casey 214; White v. Shriver, 2 Watts 473; Chase v. Miller, 5 Wright 411."
+  },
+  "file_name": "0464-01",
+  "first_page_order": 464,
+  "last_page_order": 467
+}

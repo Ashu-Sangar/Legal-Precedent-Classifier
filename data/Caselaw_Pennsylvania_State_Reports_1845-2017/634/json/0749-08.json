@@ -1,0 +1,80 @@
+{
+  "id": 12282925,
+  "name": "Moskowitz, In re Estate of; Fein, In re",
+  "name_abbreviation": "In re Estate of Moskowitz",
+  "decision_date": "2015-12-11",
+  "docket_number": "580 MAL (2015)",
+  "first_page": "749",
+  "last_page": "749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 749"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "115 A.3d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6868574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/115/0372-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2491208946930883
+    },
+    "sha256": "19755b9a286ebfeb3422fd8618f2aad10057d8d8e49c7bcdb8d5b940b5aee242",
+    "simhash": "1:3b92b60d0d66963e",
+    "word_count": 22
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moskowitz, In re Estate of; Fein, In re ."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 115 A.3d 372",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Moskowitz, In re Estate of; Fein, In re .\n12/11/2015\n580 MAL (2015)\n. Reconsideration Denied January 29, 2016."
+  },
+  "file_name": "0749-08",
+  "first_page_order": 793,
+  "last_page_order": 793
+}

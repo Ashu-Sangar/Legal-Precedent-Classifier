@@ -1,0 +1,81 @@
+{
+  "id": 1781146,
+  "name": "COMMONWEALTH of Pennsylvania v. Sheldon DORIAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Dorian",
+  "decision_date": "1983-03-03",
+  "docket_number": "",
+  "first_page": "383",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "500 Pa. 383"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 A.2d 1340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "304 Pa. Super. 163",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        199355
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/304/0163-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 366,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0665355393306714
+    },
+    "sha256": "6db6b74fd25499c3a573b6d52d55b0be906feb4aa4116d1e219761c6d7f3085d",
+    "simhash": "1:7a97a707a4860cd5",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T23:49:15.316484+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Sheldon DORIAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPetition for Allowance of Appeal is granted. Record is remanded to the Court of Common Pleas of Cambria County for appointment of new counsel and a hearing on petitioner\u2019s claim for post-conviction relief. 304 Pa. Super. 163, 450 A.2d 152.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "456 A.2d 1340\nCOMMONWEALTH of Pennsylvania v. Sheldon DORIAN, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 3, 1983."
+  },
+  "file_name": "0383-01",
+  "first_page_order": 433,
+  "last_page_order": 433
+}

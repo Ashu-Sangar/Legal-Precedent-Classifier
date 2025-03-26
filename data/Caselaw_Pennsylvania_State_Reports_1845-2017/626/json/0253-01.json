@@ -1,0 +1,100 @@
+{
+  "id": 4253765,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. David Jonathan WEAVER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Weaver",
+  "decision_date": "2014-07-11",
+  "docket_number": "No. 7 MAL 2013",
+  "first_page": "253",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "626 Pa. 253"
+    },
+    {
+      "type": "parallel",
+      "cite": "96 A.3d 987"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "84 A.3d 603",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7266978,
+        4079423
+      ],
+      "weight": 3,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/84/0603-01",
+        "/pa/624/0053-02"
+      ]
+    },
+    {
+      "cite": "624 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4079240,
+        4079423
+      ],
+      "weight": 3,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/624/0053-01",
+        "/pa/624/0053-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 108,
+    "char_count": 1183,
+    "ocr_confidence": 0.735,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.14286144792357483
+    },
+    "sha256": "090da08c53cc501dc320ed70e64dcfdf64a4bdce6340987dbd20008035e96f7a",
+    "simhash": "1:a8a3421b400b2cb6",
+    "word_count": 197
+  },
+  "last_updated": "2024-02-27T18:10:28.110990+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. David Jonathan WEAVER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 11th day of July, 2014, the Petition for Allowance of Appeal is GRANTED, LIMITED to the following issue as stated by Petitioner:\nWhether, if Act 152 violates the single-subject rule of Article III, Section 3 of the Pennsylvania Constitution, Megan\u2019s Law can be sustained by severance of the remaining portions of Act 152 of 2004.\nThe Superior Court\u2019s decision is VACATED, based on our decision in Commonwealth v. Neiman, 624 Pa. 53, 84 A.3d 603 (2013), to the extent that it upheld the amendments to Megan\u2019s Law, and the matter is REMANDED for reconsideration in light of Commonwealth v. Neiman, 624 Pa. 53, 84 A.3d 603 (2013). Allocatur is DENIED as to all remaining issues.\nJustice Stevens notes his dissent to the order, as he would vote to grant allocatur to revisit this Court\u2019s decision in Commonwealth v. Neiman, 624 Pa. 53, 84 A.3d 603 (2013), which struck down Act 152, P.L. 1243 No. 152 (2004) as unconstitutional under the single subject rule of Article III, Section 3 of the Pennsylvania Constitution.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "96 A.3d 987\nCOMMONWEALTH of Pennsylvania, Respondent v. David Jonathan WEAVER, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 11, 2014."
+  },
+  "file_name": "0253-01",
+  "first_page_order": 303,
+  "last_page_order": 304
+}

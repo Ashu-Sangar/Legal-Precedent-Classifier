@@ -1,0 +1,100 @@
+{
+  "id": 3697703,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Shawn JONES, Respondent",
+  "name_abbreviation": "Commonwealth v. Jones",
+  "decision_date": "2010-04-07",
+  "docket_number": "Appeal, No. 782 MAL 2008",
+  "first_page": "565",
+  "last_page": "566",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "605 Pa. 565"
+    },
+    {
+      "type": "parallel",
+      "cite": "992 A.2d 844"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "977 A.2d 1089",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4195470,
+        7297227,
+        4195212,
+        7297166
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0009-02",
+        "/a2d/977/1089-02",
+        "/pa/602/0010-01",
+        "/a2d/977/1089-01"
+      ]
+    },
+    {
+      "cite": "602 Pa. 10",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4195212
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0010-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 437,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10748116975159555
+    },
+    "sha256": "2a58249bb453edb3eec6c6896977e5ab26589ac05de66abae1b788106906953b",
+    "simhash": "1:b58f01fdc089a8be",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T16:47:15.478848+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Shawn JONES, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of April, 2010, the Petition for Allowance of Appeal is GRANTED. The Superior Court\u2019s Order is VACATED, and this matter is REMANDED to the Superior Court for reconsideration in light of this Court\u2019s decision in Commonwealth v. Liston, 602 Pa. 10, 977 A.2d 1089 (2009).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "992 A.2d 844\nCOMMONWEALTH of Pennsylvania, Petitioner v. Shawn JONES, Respondent.\nSupreme Court of Pennsylvania.\nApril 7, 2010."
+  },
+  "file_name": "0565-01",
+  "first_page_order": 631,
+  "last_page_order": 632
+}

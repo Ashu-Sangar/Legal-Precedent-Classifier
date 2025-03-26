@@ -1,0 +1,629 @@
+{
+  "id": 1187933,
+  "name": "Dorrance's Estate",
+  "name_abbreviation": "Dorrance's Estate",
+  "decision_date": "1939-01-03",
+  "docket_number": "",
+  "first_page": "162",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "333 Pa. 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "170 A. 713",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Pa. Superior Ct. 32",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        972605
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/112/0032-01"
+      ]
+    },
+    {
+      "cite": "146 A. 419",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 N. J. Eq. 585",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        42231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/104/0585-01"
+      ]
+    },
+    {
+      "cite": "184 A. 743",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 N. J. L. 362",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        99078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/116/0362-01"
+      ]
+    },
+    {
+      "cite": "176 A 902",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 A. 503",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 N. J. Eq. 204",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        940218
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/116/0204-01"
+      ]
+    },
+    {
+      "cite": "170 A. 601",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 N. J. Eq. 268",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        19361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/115/0268-01"
+      ]
+    },
+    {
+      "cite": "163 A. 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141686
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0151-01"
+      ]
+    },
+    {
+      "cite": "139 Fed. 593",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1892396
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/139/0593-01"
+      ]
+    },
+    {
+      "cite": "6 Ohio C. C. 452",
+      "category": "reporters:state",
+      "reporter": "Ohio C.C.",
+      "case_ids": [
+        1497848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-cc/6/0452-01"
+      ]
+    },
+    {
+      "cite": "113 N. E. 458",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Mass. 516",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        44357
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/224/0516-01"
+      ]
+    },
+    {
+      "cite": "23 N. E. 488",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 N. Y. 137",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2229510
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/119/0137-01"
+      ]
+    },
+    {
+      "cite": "50 Md. 377",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1824577
+      ],
+      "year": 1878,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/50/0377-01"
+      ]
+    },
+    {
+      "cite": "29 Md. 48",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1766758
+      ],
+      "year": 1868,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/29/0048-01"
+      ]
+    },
+    {
+      "cite": "197 A. 547",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Pa. Superior Ct. 263",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1006116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/130/0263-01"
+      ]
+    },
+    {
+      "cite": "188 A. 758",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "324 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1171307
+      ],
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/324/0501-01"
+      ]
+    },
+    {
+      "cite": "298 U. S. 193",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1486355
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/298/0193-01"
+      ]
+    },
+    {
+      "cite": "277 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3902980
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/277/0001-01"
+      ]
+    },
+    {
+      "cite": "280 U. S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3909948
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/280/0083-01"
+      ]
+    },
+    {
+      "cite": "166 A. 580",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 Pa. 503",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146241
+      ],
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/311/0503-01"
+      ]
+    },
+    {
+      "cite": "8 W. & S. 405",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483398
+      ],
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0405-01"
+      ]
+    },
+    {
+      "cite": "276 U. S. 260",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3901726
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/276/0260-01"
+      ]
+    },
+    {
+      "cite": "173 U. S. 509",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8298405
+      ],
+      "pin_cites": [
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/173/0509-01"
+      ]
+    },
+    {
+      "cite": "42 Stat. 227",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "39 Stat. 756",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "116 A. 222",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "272 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1068359
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/272/0255-01"
+      ]
+    },
+    {
+      "cite": "6 Allen 285",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2124625
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/88/0285-01"
+      ]
+    },
+    {
+      "cite": "10 Ohio Rep. 437",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 1
+    },
+    {
+      "cite": "19 Md. Rep. 13",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1837169
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/19/0013-01"
+      ]
+    },
+    {
+      "cite": "76 A. L. R. 806",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "301 U. S. 234",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        547604
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/301/0234-01"
+      ]
+    },
+    {
+      "cite": "333 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1187902
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/333/0129-01"
+      ]
+    },
+    {
+      "cite": "25 A. 23",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "151 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        836645
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/151/0001-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 309",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239494
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/175/0309-01"
+      ]
+    },
+    {
+      "cite": "280 U. S. 204",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3910985
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/280/0204-01"
+      ]
+    },
+    {
+      "cite": "281 U. S. 497",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3916643
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/281/0497-01"
+      ]
+    },
+    {
+      "cite": "50 Md. 377",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1824577
+      ],
+      "year": 1878,
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/50/0377-01"
+      ]
+    },
+    {
+      "cite": "29 Md. 48",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1766758
+      ],
+      "year": 1868,
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/29/0048-01"
+      ]
+    },
+    {
+      "cite": "324 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1171307
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/324/0501-01"
+      ]
+    },
+    {
+      "cite": "280 U. S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3909948
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/280/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1449,
+    "char_count": 47070,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 6.01119863180651e-07,
+      "percentile": 0.9544141376582187
+    },
+    "sha256": "aa1da5d4e48b2a01fe745c03b64fff71f08150099771103e916a3d5a60de3fb3",
+    "simhash": "1:800fee9b0420b249",
+    "word_count": 8033
+  },
+  "last_updated": "2024-02-27T17:42:17.732269+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaefer, Maxey, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Dorrance\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMe. Justice Linn,\nThe question is whether the challenged assessment for personal property tax for the year 1935 is authorized by the State Personal Property Tax Act of June 22, 1935, P. L. 414, 72 PS section 3242 et seq., which provides that \u201cAll personal property of the classes hereinafter enumerated, owned, held or possessed by any resident whether . . . in his own right, or as . . . trustee . . .\u201d shall be taxed.\nThe assessment was made against \u201cEthel M. Dorrance, George M. Dorrance, M.D., Arthur Calbraith Dorrance, et al., Trs.\u201d under the will of John T. Dorrance, deceased, who died September 21, 1930, in Cinnaminson, New Jersey. Pursuant to directions contained in his will, it was admitted to probate in the office of the Surrogate of Burlington County, New Jersey, on October 2, 1930. Ethel M. Dorrance, George Morris Dorrance, M.D., Arthur Calbraith Dorrance and the Camden Safe Deposit and Trust Company, a corporation doing business in Camden, New Jersey, were named as executors and trustees. In 1935 the executors, as permitted by the law of New Jersey, transferred to themselves as trustees all the assets in the trust estate.\nThe property involved in this suit was valued by the Commonwealth\u2019s taxing officers, for purposes of taxation, at $27,256,126.00 and was assessed at the rate fixed by the statute in the amount of $27,256.13.\nThe assessment was on % of the total value of the taxable property and, while the words \u201cet al.\u201d appear after the names of the three persons mentioned in the assessment and so might be understood to constitute an assessment against the Camden Safe Deposit and Trust Company, the fourth trustee, we were informed at the argument that the assessment was fixed at % of the taxable assets because three of the four trustees resided in Pennsylvania; Mrs. Dorrance residing in Delaware County, Doctor Dorrance in Philadelphia, Arthur C. Dorrance in Montgomery County. The trustee, the Camden Safe Deposit and Trust Company is a corporation organized under the law of New Jersey with its principal office in the City of Camden in that state; it is not authorized to engage in business in Pennsylvania. In all, there are three trusts created by the will, one, of $10,000 for the maintenance of a family burying place, etc.; another, of $360,000 for the benefit of decedent\u2019s sisters; and the third, of the entire residue for the benefit of decedent\u2019s widow and children, etc.\nThe four trustees appealed from the assessment to the court below, from which, the assessment having been sustained, they now appeal to this court. They contend they have shown that the seat of the trust is in New Jersey and that testator intended it should be there; that the property is evidenced by identified documents which are kept there by them; that the trust is administered as a unit in that state according to its laws; that none of their duties as trustees is performed in this state and that it is, therefore, (1) not subject to the property taxing power of Pennsylvania, or (2) not within the terms of the statute.\nBefore dealing with the facts and appellants\u2019 legal contentions, a word may be said about the nature of the title by which trustees hold the trust property. It has long been settled, as was said in Vandever\u2019s Appeal, 8 W. & S. 405, 409, that \u201cWhen the administration of a trust is vested in co-trustees, they all form but one collective trustee. They must, therefore, execute the duties of the office in their joint capacity. ...\u201d And that is the general rule. \u201cEach [joint tenant] has an undivided moiety of the whole, and not the whole of an undivided moiety. . . . The interest of two joint tenants is not only equal or similar, but also is one and the same. . . . While it continues, each of two joint tenants has a concurrent interest in the whole; Haggerty\u2019s Estate, 311 Pa. 503, 506, 166 A. 580.\nThe following findings were made by the learned court below:\n\u201c12. There are two beneficiaries of the $360,000 trust, one a resident of the State of New Jersey and the other a resident of the State of California. There are six beneficiaries of the residuary trust, one a resident of the State of Rhode Island, Four residents of the State of Pennsylvania, and one, a minor, whose guardian is the Camden Safe Deposit and Trust Company.\n\u201c13. The total trust estate in the hands of Appellants, as of January 1, 1936, was of the approximate value of $50,000,000, $36,341,501.95 being the agreed value of those assets which are taxable in this proceeding, if any part of the estate is subject to the Pennsylvania Personal Property Tax, and $13,700,426.80 being the book value of those assets exempt from the Pennsylvania Personal Property Tax.\n\u201c14. The above item of $36,341,501.95 consists of Mortgages of the value of $39,800, Public Loans or Bonds of the value of $5,095,287.50, bonds, notes or evidences of indebtedness of the value of $30,706.25 and shares of corporate stock of the value of $31,176,708.20.\n\u201c15. Among the shares of corporate stock in the above figure of $31,176,708.20, is all of the common stock of the Campbell Soup Company, of the value of $29,429,255.09. The balance of $1,747,453.11 consists of stock in twenty-four other corporations, . . .\n\u201c16. The above item of $13,700,426.80 is comprised of $7,329,000 in United States Treasury Notes, $43,700 in corporate bonds, and $6,327,726.80 in stock of twenty-four well known corporations, . . .\n\u201c17. Between the date of Decedent\u2019s death, September 21, 1930, and January 1, 1936, the approximate date on which the assets in question were transferred from the executors to the trustees, the executors made more than thirty-five sales of securities, more than twenty-five exchanges of securities and more than twenty purchases of securities, the largest single transaction being the sale of all of the outstanding Preferred Stock of the Campbell Soup Company, at a price in excess of $13,000,000.\n\u201c18. During the six months\u2019 period between July 1, 1935, and January 1, 1936, the trustees made seven changes in investments, none of which involved large amounts.\n\u201c19. At the time of his death, Decedent was the owner of all of the Common stock of the Campbell Soup Company and Appellants, as trustees, have succeeded to and still retain this ownership. This investment, at the time of Decedent\u2019s death, represented 58 per cent, of the book value of his estate, and, as of January 1, 1936, represented 67 per cent, of the book value of the trust estate, the increase in percentage being due to the payment of large sums in estate and inheritance taxes. The Common Stock of the Campbell Soup Company, on January 1, 1936, comprised approximately 81 per cent, in value of the assets of the trust estate claimed to be taxable in this proceeding.\n\u201c20. All of the securities of said trust estate are either registered in the names of \u2018Ethel M. Dorrance, George Morris Dorrance, M.D., Arthur C. Dorrance, and Camden Safe Deposit and Trust Company, Trustees under the will of John T. Dorrance, Deceased/ and kept in a safe deposit box of the Camden Safe Deposit and Trust Company, leased by the trustees in Camden, New Jersey, or, if unregistered, are kept in the vaults of the Camden Safe Deposit and Trust Company, and access thereto can be had only by properly authorized representatives of the corporate trustee.\u201d\nAs the property is of the class generally described as \u201cintangible\u201d and as we are dealing with resident and also nonresident trustees, it is necessary, in considering the appeal, to have in mind what was said by the Supreme Court in Safe Deposit & Trust Company of Baltimore v. Commonwealth of Virginia, 280 U. S. 83, 92, in considering the power to tax trust property of that character : \u201cOrdinarily this Court recognizes that the fiction of mobilia sequuntur personam may be applied in order to determine the situs of intangible personal property for taxation: Blodgett v. Silberman, 277 U. S. 1. But the general rule must yield to established fact of legal ownership, actual presence and control elsewhere, and ought not to be applied if so to do would result in inescapable and patent injustice, whether through .double taxation or otherwise . . . [citing cases] . . . Here, where the possessor of the legal title holds the securities in Maryland, thus giving them a permanent situs for lawful taxation there, and no person in Virginia has present right to their enjoyment or power to remove them, the fiction must be disregarded. It plainly conflicts with fact; the securities did not and could not follow any person domiciled in Virginia. Their actual situs is in Maryland and can not be changed by the cestid que trustent.\u201d See also Wheeling Steel Corp. v. Fox, 298 U. S. 193.\nAccordingly, we must inquire whether, as contended by the appellants, the record shows that a trust was established in New Jersey to be administered there, with trust property maintained there, without control elsewhere, and whether the trust is being administered there; in other words, whether New Jersey may be regarded as the \u201ctrust domicile,\u201d if that term may be used.\nThe established fact is that the property is identified as trust property and is located and administered at the trust domicile. The will clearly shows that such administration of the trust in Camden, New Jersey, was intended by the testator. By far the larger part of trust property was and is invested in the capital stock of the Campbell Soup Company all of which belonged to testator and which by his will he provided should be conserved for purposes there stated. The will conferred on the trustees extensive powers for the investment of trust funds in aid of the company. As showing in part the character of the trust administration at the trust domicil the following findings may be quoted at this point:\n\u201c26. The board of directors of the Campbell Soup Company consists of nine members, among whom are Appellants, Ethel M. Dorrance, George Morris Dorrance, Arthur Calbraith Dorrance, and a representative of the corporate trustee. Arthur Calbraith Dorrance is president and general manager of said corporation.\n\u201c27. The trustees rent an office in the building of the Camden Safe Deposit and Trust Company where they hold regular meetings for the consideration of matters connected with the trust estate. In the year 1935 there were forty-five such meetings, thirty-six thereof being held in the office of the trustees in the Camden Safe Deposit and Trust Company building and nine thereof being held in the office of the Campbell Soup Company. There have been no meetings of the trustees outside of the City of Camden, State of New Jersey.\n\u201c28. At the meetings of the trustees, all of the investments of the trust estate are considered, but a large portion of the time is devoted to discussion of the affairs of the Campbell Soup Company.\n\u201c29. The meetings of the trustees are held in Camden because the mortgages, bonds, certificates of stock, etc. of the trust estate are kept in a vault at the Camden Safe Deposit and Trust Company, because it is essential that one or more officers of that institution be present at the meetings, because Camden is most convenient for Arthur Calbraith Dorrance, and because it is considered desirable that the meetings be held at a place where the records of the Campbell Soup Company will be available.\n\u201c30. The trustees have properly construed the Will of Decedent as imposing upon them the primary duty of retaining the Common Stock of Campbell Soup Company as an asset of the trust estate. Because this stock comprises such a high proportion of the trust estate, the trustees have adopted the policy of investing the balance of the trust estate primarily for safety and liquidity. For this reason an increasing percentage of the assets has been invested in United States Treasury Certificates.\u201d\nThe statute authorizes a tax on personal property owned, held or possessed by any resident in his own right or as trustee. The legal title to the property assessed is not in any resident of Pennsylvania but in the four trustees, one of them, the corporate trustee, not engaged in, and having no right to engage in business in Pennsylvania. They hold the trust property as a unit in the State of New Jersey. The ownership, holding or possession of the trust property is therefore not within the words of the statute; it contains no provision for dividing such trust property among resident and nonresident trustees for purposes of this tax. The taxing officers realize that the facts presented show a case that is not within the words of the statute but endeavor to bring the property within its provisions by construing it as if the legislature had said that in the case of resident and nonresident trustees a proportionate part should be taxed here. In so construing the statute, we think, for various reasons, that the taxing authorities and the learned court below reached a result which the statute does not allow. The familiar rule is that unless property is clearly within a taxing statute, it is not taxable : Arbuckle\u2019s Estate, 324 Pa. 501, 505, 188 A. 758.\nThe learned court below recognized that the trustees held by joint tenancy but, apparently treating them as tenants in common, concluded that \u201cthe undivided three-quarters interest in the trust assets held by individual residents of the State of Pennsylvania is taxable under the . .' . \u201d statute. The legislature has not attempted to authorize a division of the joint tenancy title. It is quite apparent from the amendment to the Act (if we may refer to it) made by the same legislature at the special session of 1936, that it had no intention, when it passed the Act in 1935, to tax to resident trustees of foreign held trust property, because the amendment provides for the taxing to resident beneficiaries of equitable interests in foreign trusts. Without now considering the power of the legislature as exercised, the amendment taxing beneficial interests would seem to indicate that the legislature thought it had not already taxed the same property in the trustee\u2019s hands.\nIn view of Safe Deposit & Trust Company v. Virginia, 280 U. S. 83, (supra) and Wheeling Steel Corp. v. Fox, 298 U. S. 193, dealing directly with taxation of intangibles, it is unnecessary for the purposes of this case to i*efer to decisions concerning estate, inheritance or excise taxes or earlier decisions of this court. We also think it is unnecessary now to refer particularly to the cases cited by the learned court below or considered in the briefs. Those dealing with the administration of estates by more than one executor (compare Thompson\u2019s Estate, 130 Pa. Superior Ct. 263, 197 A. 547) while of interest, may be laid aside because during administration the property is generally considered in the custody of the court in which they account. Cases from the states in which trustees hold as tenants in common may also be passed over, because the interest of a tenant in common is essentially different from that of a joint tenant. Cases in which trust assets were divided pursuant to the command of a statute, for that reason, do not aid the appellee. Two cases from Maryland are cited: Mayor of Baltimore v. Stirling et at., Trustees, 29 Md. 48 (1868), and The Appeal Tax Court of Baltimore City v. Gill et al., Trustees, 50 Md. 377 (1878) ; from what appears in the reports of those cases, we do not find them of assistance in the construction of our statute.\nOn the other hand, there are cases which support appellants\u2019 view that the trust is a unit and will not be divided in the absence of statute requiring it. In People v. Coleman, 119 N. Y. 137, 23 N. E. 488, the statute provided : \u201c \u2018. . .all debts and obligations for the payment of money due or owing to persons residing within this state, however secured, or wherever such securities shall be held, shall be deemed, for the purposes of taxation, personal estate within the state, and shall be assessed as such to the owner or owners thereof in the town, village or ward in which such owner or owners shall reside. . . .The state assessed bonds and mortgages composing the trust property held by three trustees, two residing in New York and one in New Jersey. The securities were in the physical possession of the New Jersey trustee. In holding that such property whs not taxable under the statute quoted, Peckham, J., said: \u201cThe case here presented is one where the persons assessed are not the absolute owners of the property, but are trustees, and have only a representative or official interest therein, and but two out of the three are residents within the state, while a third resides in another state and also has the custody and control of the property, and the beneficiaries are also nonresidents. Does the act of 1883 meet such a case? We think not. It is not a debt due and owing to persons residing within this state, for it is one which is due or owing to them in connection with another who is a joint owner, and who is not a resident within this state and such other has possession of the securities. The statute means that the debt must be one which is solely due or owing to residents of this state.\u201d\nIn Newcomb v. Paige, 224 Mass. 516, 113 N. E. 458, the statute involved provided: \u201c \u2018Fifth, Personal property held in trust by . . . trustee, the income of which is payable to another person, shall be assessed to the . . . trustee in the city or town in which such other person resides, if within the commonwealth; and if he resides out of the commonwealth it shall be assessed in the place where the . . . trustee resides; and if there are two or more . . . trustees residing in different places, the property shall be assessed to them in equal portions in such places. . . . \u2019 \u201d\nThe case involved a trust of which there were three trustees, one resident in Massachusetts, one in California, and one in New York. All of the securities were kept in New York in the custody of the New York trustee. An assessment was made against the Massachusetts trustee for one-third of the property. In the course of an opinion holding the assessment void, Rugg, C. J., said (p. 520); \u201cWhen there are several trustees, one or more of wliom is domiciled in the State of origin of the trust, and the corporeal custody of the securities of the trust is with that trustee at his domicil, and the title of the trustees is joint and their powers must be exercised as a unit, there is no such several ownership in one trustee resident outside the state of the establishment of the trust, but resident in Massachusetts, as brings him within the scope of our tax law as to the trust property. St. 1909, c. 490, pt. 1, section 23. Under these circumstances he alone as resident of this commonwealth does not hold the title as owner within the commonwealth in such sense as to bring him within the terms of the tax act. He cannot exercise ownership as a resident in this Commonwealth, but only by conjoint action with his fellow trustees, none of whom are resident here, as to a fund in substance in the custody of the courts of another jurisdiction. His ownership is not of such character as to bring the taxable domicil of the trust within the terms of our law.\u201d See also Hawk v. Bonn, 6 Ohio C. C. 452; Goodsite v. Lane, 139 Fed. 593 (C. C. A. 6th Ct.).\nIn the circumstances, it is also unnecessary to consider appellants\u2019 contention that the trust property had acquired a \u201cbusiness situs\u201d in New Jersey and was therefore not within the statute.\nThe order dismissing the appeal and affirming the assessment of taxes made by the Department of Revenue is reversed and the record is remitted with instructions to sustain the appeal and set aside the assessment.\nWhile it was held in Dorrance\u2019s Estate, 309 Pa. 151, 163 A. 303 (1932), that decedent at the time of his death was domiciled in Pennsylvania and that his estate was subject to an inheritance tax in this state, the administration of the estate has been conducted by the executors and the trustees in the State of New Jersey pursuant to the probate proceedings in Burlington County, and not under the law of Pennsylvania.\nThe New Jersey litigation dealing with decedent\u2019s domicil in that state is reported as Dorrance et al. v. Thayer-Martin Tax Com\u2019r, 115 N. J. Eq. 268, 170 A. 601; 116 N. J. Eq. 204, 172 A. 503; 13 N. J. Mis. 168, 176 A 902; 116 N. J. L. 362, 184 A. 743.\nEourth finding of fact.\nSee Perry on Trusts and Trustees, 7th ed., sec. 411; Lewin, Trusts, *p. 258; Restatement, Trusts, see. 103, comment a;, sec. 194. Van Order v. Bailey, 104 N. J. Eq. 585, 146 A. 419. Cf. Restatement, Trusts, sections 103, 104, 105. Corn Exchange National Bank v. Jones, 112 Pa. Superior Ct. 32, 170 A. 713.\nOn giving effect to such intention, see Beale, Conflict of Laws, Yol. 1, sec. 1180.40, and Restatement, Conflict of Laws, section 298.\nThe amendment passed at the special session of 1936, P. L. 51, amends section 3 by adding in the first paragraph as taxable property \"... the equitable interest in any such personal property of the classes hereinafter enumerated, owned, held or possessed by any resident, where the legal title to such personal property is vested in a trustee, agent; or attorney-in-fact' domiciled in another state, and where such resident is entitled to receive all or any part of the income therefrom. ...\u201d To the last paragraph of section 3 the following was added: \u201cThe value of the equitable interest in any personal property, made subject to tax by this section, shall be measured by ascertaining the value of the personal property in which such resident has the sole equitable interest, or in case of divided equitable interests in the same personal property, then by ascertaining such part of the value of the whole of such personal property as represents the equitable interest of such resident therein",
+        "type": "majority",
+        "author": "Me. Justice Linn,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Maxey :\nI dissent from the majority opinion and I would affirm the judgment of the court below and hold that 75% of the $36,241,501.95 worth of trust property, made up of non-tax-exempt securities, was taxable in this Commonwealth.\nThe majority opinion correctly states that \u201cthe statute authorizes a tax on personal property, owned, held or possessed by any resident in his own right or as trustee,\u201d but it then says: \u201cThe legal title to the property assessed is not in any resident of Pennsylvania but in the four trustees, one of them, the corporate trustee, not engaged in, and having no right to engage in business in Pennsylvania.\u201d From this last statement it proceeds to the conclusion that\u201d Pennsylvania cannot tax any of these trustees.\nIt was frankly conceded by appellants\u2019 counsel at the argument that if all four of these trustees were residents of Pennsylvania the property in question would be taxable in this State, but it was contended that since one of the four trustees does not reside in this Commonwealth the trust property was absolutely exempt from Pennsylvania taxation. This postulate gives rise to the anomalous situation that where a testator bequeaths, his property to (say) ten trustees, nine of.whom are residents of Pennsylvania and one of whom is a resident of some other state, the property cannot be taxed in Pennsylvania in spite of the fact that the laws of this Commonwealth plainly states that all personal property of the classes enumerated, \u201cowned, held or possessed by any resident in his own right or as trustee\u201d shall be taxed. It follows from appellants\u2019 argument that if New Jersey had a personal property tax law similar to Pennsylvania\u2019s (and most all states have such a law), and if appellants\u2019 contention here should be followed by the highest court of New Jersey, the trust in question could not be taxed in either New Jersey or Pennsylvania and would be wholly exempt from taxation for, I repeat, the basic argument of appellants is that when trustees of an estate all reside in Pennsylvania they are taxable under our laws but if one of them is a nonresident of Pennsylvania, the trust estate cannot be reached either in whole or in part for purposes of taxation. If this contention is to be accepted as sound in law, a wide and easy avenue of escape from taxation is opened to property held in trust.\nThe majority opinion preliminarily quotes the established rule- that \u201cwhen the administration of a trust is vested in co-trustees, they all form but one collective trustee. They must therefore execute the duties of the office in their joint capacity.\u201d While fully recognizing that rule, I challenge the conclusion appellants draw from it and which conclusion the majority opinion appears to accept, to wit, that the \u201cproportional assessment rule\u201d cannot be applied when the trustees reside in different jurisdictions. I will hereafter point out that the \u201cproportional assessment rule\u201d is merely a matter of practical administration of our taxing laws, and that the \u201clegal fiction\u201d that co-trustees \u201care one,\u201d like the \u201clegal fiction\u201d that husband and wife as joint owners of property \u201care one,\u201d should not be permitted (as the United States Supreme Court said in a husband and wife joint ownership of property taxing case: Tyler et al., Admrs., v. U. S., 281 U. S. 497), to \u201crestrict the power of taxation\u201d which the Supreme Court characterized as \u201ca fundamental and imperious necessity of all government.\u201d\nHowever, the majority opinion, taking a broader base than the legal fiction as to \u201cthe unitary character of the trust,\u201d which fiction was appellants\u2019 chief reliance, but accepting this \u201cunitary character\u201d fiction as one of the two grounds on which to predicate its. conclusion, also bases its conclusion on the theory that New Jersey is this trust\u2019s \u201cdomicile\u201d and that therefore the entire property is exempt from taxation in Pennsylvania. The majority opinion says: \u201cAccordingly, we must inquire whether, as contended by the appellants, the record shows that a trust was established in New Jersey to be administered there, with trust property maintained there, without control elsewhere and whether the trust is being administered there; in other words, whether New Jersey may be regarded as the \u2018trust domicile,\u2019 if that term may be used.\u201d The doctrine of \u201ctrust domicile\u201d for purposes of determining whether property is taxable is apparently a novel one, for appellants themselves nowhere invoke it. They invoke the \u201cbusiness situs\u201d doctrine which is quite a different thing, for a mere trust can be administered in any jurisdiction regardless of whether the trust itself carries on any business in that jurisdiction and regardless of whether the securities held in trust have any relation to any business in that jurisdiction. Where a trust is administered is absolutely immaterial when the sovereign state imposes a tax on personal property held within its jurisdiction by any trustee. The majority opinion then says: \u201cThe established fact is that the property is identified as trust property and is located and administered as the trust domicile. The will clearly shows that such administration of the trust in Camden, New Jersey, was intended by the testator.\u201d My answer to that is that Pennsylvania has not the slightest concern as to where the testator \u201cintended\u201d his trust to be administered. If a wealthy automobile manufacturer of Detroit, Michigan, would appoint a resident of Pennsylvania as trustee of a $50,000,000 estate, and \u201cintend\u201d or even direct that the trustee should have his trust office in Detroit, Michigan, and deposit his securities in a Michigan safe deposit box, the Pennsylvania trustee would nevertheless be tax\u00e9d on that trust fund because our law says so. I do not understand appellants to controvert that. Their contention is (embodying for clarity their contention in the example used) that if the Michigan manufacturer appointed two or more Pennsylvania residents as trustees and one non-Pennsylvanian as trustee, this State could not impose any tax on the Pennsylvania trustees. If such is the law in this State then all that Pennsylvania trustees administering trust property in this Commonwealth need to do to exempt the trust property in their hands from taxation is to have one of them become a resident of another state. Or, as Judge Lamberton cogently puts it: \u201cIf this be true, then any testator by naming trustees residing in different states could be assured that the trust estate would entirely escape local and state taxation in- so far as intangible assets were-concerned. We believe this to be contrary to both logic and common sense. We prefer to follow the reasoning so clearly stated in the case of Mackay v. San Francisco, 128 Calif. 680. In that case there were two trustees, only one of whom resided in California. The court said: \u2018The property is not in California nor in Nevada, but, being intangible personal property, is said by defendants to follow the person of the owner. If it follows the person of the owner, it could not, as matter of laAV, be said to follow the person of the plaintiff who resides in California and to forsake and refuse to folloAV the person of the plaintiff who resides in Nevada. It follows one as much as the other, and the situs is that of the place of domicile of its owners.\u2019 The court then held that one-half and only one-half of the trust assets could be taxed by the State of California.\u201d\nThe decision in Safe Deposit & Trust Company of Baltimore v. Virginia, 280 U. S. 83, referred to in the majority opinion, is an authority supporting Pennsylvania\u2019s contention in this case, for in that case the United States Supreme Court held that under a Maryland personal property tax laAV similar to ours, a trustee domiciled in Maryland Avho was holding the trust property for the benefit of Virginia residents was taxable under the law of Maryland. In the concurring opinion of Mr. Justice Stone in that case, he summed up the grounds for the decision when he said: \u201cIt is enough to support it [i. e., the decision] that, as stipulated in the record, the Virginia assessment was levied against a trustee domiciled in Maryland upon securities held by it in trust in its exclusive possession and control there, and so is forbidden as an attempt to tax property without the jurisdiction.\u201d In other words, as I read that case, the important point is the fact that the trustee was a resident of the State of Maryland. The corporate trustee residing there had the property in its exclusive possession and control. Even if the trustee had placed the property in a safe deposit box in New York or Canada or elsewhere, it Avas still legally in its possession and control and since it, the possessor and controller, Avas a resident of Maryland, it was obliged to pay the tax that its sovereign State imposed on it. In the instant case, it is conceded by appellants, according to the statement of their counsel in open court, that if all the four trustees Avere domiciled in Pennsylvania, the entire trust property would be taxable in this State regardless of the fact that the securities which constitute the trust property are physically in New Jersey and regardless of the fact that the trustees hold their meetings in New Jersey. I think this admission by appellants\u2019 counsel indicates that appellants do not place any reliance on the theory that New Jersey is the \u201cbusiness situs\u201d of this property, for if that state is the business situs of that property, the property is taxable there and not elsewhere, regardless of where the trustees Avho hold title to that property have their legal residence. \u201cClioses in action may acquire a situs for taxation other than at the domicile of their owner if they have become integral parts of some local business\u201d: Farmers Loan Co. v. Minn., 280 U. S. 204; New Orleans v. Stempel, 175 U. S. 309; Small\u2019s Est., 151 Pa. 1, 25 A. 23, (see also other cases cited in the dissenting opinion filed on December 29, 1938, in re: Girard Trust Company, Trustee\u2019s Appeal, 333 Pa. 129).\nI think the contention of this Commonwealth that \u201cthe intangibles comprising the Dorrance Trusts do not have a business situs in New Jersey\u201d is supported in the Commonwealth\u2019s paper book by an argument that is unanswerable. In that paper book, the Attorney General of Pennsylvania aptly says: \u201cAn examination of the eases on business situs reveals that the conventional situation where this doctrine is applicable is Avhere a creditor places choses in action in the hands of an agent in another State for collection or reneAval with a view to re-loaning the money and keeping it invested as a continuous and permanent business in such other state. The test- seems basically whether such a business is carried on regularly and in competition with local money lenders. Where such credits are not an integral part of a continuing business, as where they are held in the foreign state merely for collection or merely for safekeeping, the cases hold that they do not acquire, a business situs. These principles are pointed out generally in First Bank Stock Corp. v. Minnesota, 301 U. S. 234, as follows: \u2018The doctrine that intangibles may be taxed at their business situs, as distinguished from the legal domicile of their owner has usually been applied to obligations to pay money, acquired in the course of a localized business [citing cases].\u2019 . . . An extensive annotation is contained in 76 A. L. R. 806, in which the cases pertaining to business situs are reviewed at length. See also article entitled, Multiple Taxation by the State\u2014 What is left of it? Volume 48 Harvard Law Review 407.\u201d I repeat that the contention of the Commonwealth that the intangibles comprising the Dorrance Trusts do not have a business situs in New Jersey finds support in the admission of appellants that if all four of the Dorrance trustees were residents of Pennsylvania, the trust property would be taxable here. If this property had a business situs in New Jersey, it would be taxable there even though all four trustees resided here.\nThe majority opinion, as I interpret it, then comes down to this: Since the statutes of Pennsylvania do not expressly provide for proportional assessment of trust property held by trustees respectively domiciled in different jurisdictions, that trust property can be taxed only in the jurisdiction where the trustees meet to administer the trust. I can find no warrant whatever under our Pennsylvania law for such a judicial holding. Our taxing laws say nothing about the administration of a trust. Our taxing laws are not concerned as to where trustees meet to administer the trust committed to their keeping. They might meet in Florida or on a vessel at sea or elsewhere. The law provides (72 PS sec. 4821) : \u201cAll personal property of the classes hereinafter enumerated, owned, held or possessed by any person, persons ... or company, resident, located or liable to taxation within this Commonwealth . . . or by any bank or corporation, . . . whether such personal property be owned, held or possessed by such person or persons . . . company ... or bank or corporation, in his, her, their or its own right or as active trustee, agent, attorney-in-fact, or in any other capacity, for the use, benefit or advantage of any other person, persons . . . is hereby made taxable . . . for county purposes.\u201d A similar Act (72 PS sec. 3244) makes the same kind of property taxable \u201cfor state purposes.\u201d\nThe $36,000,000 worth of trust property known as the \u201cDorrance Trust\u201d is held by four trustees, three of whom reside in Pennsylvania. If all four trustees resided in this State, the entire $36,000,000 trust property would be assessed and taxed here. That fact is conceded hy appellants Since one of the four trustees resides outside of this State, the assessment of the majority of the trustees (three out of four) residing here became merely a matter of practical administration of the law. In my judgment, those officials charged with administering this law did a common-sense thing when they said, in practical effect: \u201cIf all four trustees of this property resided here, we would, of course, tax the entire $36,000,000 of trust property here, but since one trustee resides in New Jersey and therefore is not as \u2018trustee\u2019 subject to our taxing laws and since three of the trustees do reside here, we will tax only %tlis of this trust property in this Commonwealth.\u201d That is exactly what was done by the taxing authorities of California in a similar ease. See Mackay v. San Francisco (supra). In The Mayor and City Council of Baltimore v. Stirling & Ridgely, Trustees, 29 Md. 48, the Court of Appeals of Maryland filed the following opinion: \u201cThis Court in the case of Latrobe v. The Mayor and City Council of Baltimore, 19 Md. Rep. 13, having settled the doctrine, that the residence of the trustee, and not that of the cestui que trust, decides the situs for taxation upon property of the description mentioned in the record, the only question presented by this appeal arises from the fact, that in this case there are two trustees, one of whom resides in Baltimore city, and. the other in Baltimore county. The tax laws of the State do not expressly provide for such a case, and our decision must be made to rest upon.what we regard to be equity and right. The property is certainly not liable to a double tax. If the whole of it were taxable in Baltimore city, under the authority of Latrobe v. The Mayor, etc., of Baltimore, it would, under the same authority, be also taxable in Baltimore county. This cannot be. We think it should be taxed, one-half as of the place of residence of each trustee, \u2014 that is, one-half should be taxed to the trustee residing in Baltimore city, and the other half to the trustee residing in Baltimore county. We are sustained in this view by the case of The State ex rel. Harkness et al. v. Matthews, 10 Ohio Rep. 437, and the case of Hardy et al. v. The Inhabitants of Yarmouth, 6 Allen 285. The judgment below will accordingly be reversed.\u201d In Appeal Tax Court of Baltimore City v. Gill, etc., Trustees et al., 50 Md. 377, the Court of Appeals of Maryland held (quoting the fourth syllabus) : \u201cWhere it was conceded that two of the appellees, in the first named case, resided in this State, and the other resided in New, York, two-thirds only cf the bonds and stocks held by them as trustees should be subjected to taxation in this State.\u201d\nI find nothing in our decision in Arbuckle\u2019s Est., 324 Pa. 501, which is at variance with the position I take in this case. That case reiterated the principle expressed in Callery\u2019s Appeal, 272 Pa. 255, 272, 116 A. 222, as follows : \u201cNo tax can be collected in the absence of a provision clearly imposing it upon the class to which the taxpayer or his property belongs.\u201d As applicable to the instant case, my contention is that the law clearly imposes a tax upon trust property held by a trustee residing in Pennsylvania and to my mind it is unthinkable that the legislature in framing this tax law intended that when trust property was held by trustees, all of whom were residents of Pennsylvania, such property should pay a personal property tax here but when one of the trustees resided elsewhere than Pennsylvania, though all the others resided here, such property should pay no taxes. As there is no possible reason for such a distinction, I cannot believe that the legislature intended to make it nor can I concur in any opinion which in practical effect holds that our tax laws must be administered on the basis of such a distinction.\nThe case of Tyler v. U. S., 281 U. S. 497, and already herein referred to, affords a good illustration of how the highest court in the land brushed aside an argument based on a legal fiction which was invoked to prevent the practical and common-sense administration of our federal taxing laws. There Mr. Justice Sutherland, speaking for the United States Supreme Court, said: \u201cThese cases present the question whether [real and personal] property owned by husband and wife as tenants by the entirety may be included, without contravening the Constitution, in the gross estate of the decedent spouse for the purpose of computing the tax \u2018upon the transfer of the net estate\u2019 imposed by the Revenue Acts of 1916, c. 463, 39 Stat. 756, 777-8, and of 1921, c. 136, 42 Stat. 227, 277-8.\u201d In those cases the applicable taxing act imposed a transfer tax on the property, of a decedent \u201cto the extent of the interest therein held jointly or as tenants in '[by] the entirety by the decedent and any other person, or deposited in banks or other institutions in their joint names and payable to either or the survivor, except such part thereof as may be shown to have originally belonged to such other person and never to have belonged to the decedent.\u201d A surviving wife challenged the tax on property which she and her husband had held as tenants by the entireties. Her contention was that since she and her husband were in respect to the property they owned jointly, a unit, nothing was. \u201ctransferred\u201d- to her by the death of her husband in respect to that property. As Justice. Sutherland expressed it: \u201cThe contention . proceeds upon the aground that no right in such property is transferred by death, but the survivor retains only what he already had. . . . The question here, then, is, not whether there has been, in the strict sense of that word, a \u2018transfer\u2019 of the property by the death'of the decedent, or a .receipt of it by right of succession, but whether the death has brought into' being or ripened for. the survivor, property rights of such character as to make appropriate the imposition of a tax upon that result (which Congress may call a transfer-tax, a death duty or anything else it sees fit), to be measured, in whole or in part, by the value of such rights. According to the amiable fiction of the common law, adhered to in Pennsylvania and Maryland, husband and wife are but one person, and the point made is, that by the death of One party to this unit no interest in property held by them as tenants by the entirety passes to the other. This view, when applied to a taxing act, seems quite unsub: stantial. The power of taxation is a fundamental and imperious necessity of all government, not' to be restricted by mere legal fictions. Whether that power has been properly exercised in the present instance must be determined by the actual results brought about by the death, rather than by a consideration of the artificial rules which delimit the title, rights and powers of tenants by the entirety at common law. See Nicol v. Ames, 173 U. S. 509, 516; Saltonstall v. Saltonstall, supra, [276 U. S. 260], p. 271. Taxation, as it many times has been said, is eminently practical, and a practical mind, considering results, would have some difficulty in accepting tbe conclusion that tbe death of one of the tenants in each of these cases did not have the effect of passing to the survivor substantial rights, in respect of the property, theretofore never enjoyed by such survivor.\u201d\nI cite the above case to show that both Congress and the Supreme Court did not permit the \u201clegal fiction\u201d of the unity of husband and wife in respect to property held jointly by them to stand in the way of a tax on the \u201ctransfer\u201d of an interest in that property from the deceased spouse to the surviving spouse though, according to the legal fiction invoked, no such \u201ctransfer\u201d ever took place. Applying the reasoning of that case to this case, the three Pennsylvania trustees do have a taxable relationship to the trust property, and the \u201clegal fiction\u201d that the trustees are in law a unit should not be permitted to stand in the way of taxing these trustees who are residents of Pennsylvania and who therefore fall within the statutory designation of the subjects of taxation. Since it would be manifestly unfair to tax these three of the four trustees to the full extent of the value of the property (one of the four being a nonresident of Pennsylvania), the court below adopted a just and rea-, sonable formula for the practicable administration of our personal property tax law.\nI agree fully with what Judge Lamberton of the court below says in his opinion, to wit: \u201cThe testimony shows that the Trustees meet in New Jersey merely for reasons of convenience. At such meetings they transact only the usual business of a trust estate. They do not conduct any business or do anything of a local character which would have the effect of giving the trust assets a business situs in New Jersey. Guiding the interests of the Campbell Soup Company is likewise ineffective. The stock of the Campbell Soup Company has an identity and a situs independent of the assets or business of that Company. If the trustees, by virtue of their control of Campbell Soup Company through stock ownership, give to that stock a business situs in New Jersey, then any individual, controlling a corporation through stock ownership would give to his stock a situs at the place where the business and assets of the corporation are located. In short, stock, amounting to control of a corporation, and used for that purpose would always have its situs where the corporation is located. That is not the law. A continued course of dealing in securities in New Jersey would give to the particular assets dealt in a business situs in New Jersey if they thereby became an integral part of a local business in that state. But 81% of the allegedly taxable assets consists of Common Stock of the Campbell Soup Comp\u00e1ny, which the trustees acquired from the estate of Decedent and still retain. Obviously this stock has not acquired a business situs anywhere. The remaining assets consist of United States Treasury Notes, corporate bonds and corporate stocks, in the main readily purchasable and salable on the stock exchange. Such assets have no features local to the State of New Jersey and consequently no amount of mere buying and selling could make them an integral part of local business in that State. But, as a matter of fact, the transactions therein were few and isolated and so plainly fall short of the requirements of the decisions.\u201d\nI would affirm the decree of the court below.\nIn addition to what counsel for appellants said at the oral argument, the following statement is made on page 19 of his paper book: \u201cWe think it is clear that the statute here involved, on its very terms, must he construed to reach the whole of such jointly owned trust property as is owned exclusively hy Pennsylvania trustees [italics supplied], or is held or in the possession of a Pennsylvania trustee, and to reach none of the trust property which is jointly owned hy trustees of diverse residence, when held outside Pennsylvania. This construction is supported by numerous decisions in other states.\u201d",
+        "type": "dissent",
+        "author": "Mr. Justice Maxey :"
+      }
+    ],
+    "attorneys": [
+      "Wm. A. Schnader, of Schnader & Lewis, with him Louis F. Floge and Gilbert W. Oswald, for appellants.",
+      "E. Russell Shockley, Deputy Attorney General, with him Guy K. Bard, Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Dorrance\u2019s Estate.\nArgued December 23, 1938.\nBefore Kephart, C. J., Schaefer, Maxey, Linn, Stern and Barnes, JJ.\nWm. A. Schnader, of Schnader & Lewis, with him Louis F. Floge and Gilbert W. Oswald, for appellants.\nE. Russell Shockley, Deputy Attorney General, with him Guy K. Bard, Attorney General, for appellee.\nJanuary 3, 1939:"
+  },
+  "file_name": "0162-01",
+  "first_page_order": 194,
+  "last_page_order": 218
+}

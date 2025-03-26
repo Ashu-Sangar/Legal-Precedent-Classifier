@@ -1,0 +1,70 @@
+{
+  "id": 12283787,
+  "name": "Com. v. Akoi",
+  "name_abbreviation": "Com. v. Akoi",
+  "decision_date": "2016-03-23",
+  "docket_number": "687 EAL (2015)",
+  "first_page": "747",
+  "last_page": "747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 747"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "105 A.3d 784",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 117,
+    "ocr_confidence": 0.792,
+    "sha256": "95c4038578e73218b23c7a2e6bb8b8525d28ea764f0d018e4f46bd48944e9faa",
+    "simhash": "1:398f0e92d16b7542",
+    "word_count": 19
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Akoi"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 105 A.3d 784",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SUPREME COURT OF PENNSYLVANIA\n135 A.3d 582-588\nCom. v. Akoi\n03/23/2016\n687 EAL (2015)"
+  },
+  "file_name": "0747-01",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

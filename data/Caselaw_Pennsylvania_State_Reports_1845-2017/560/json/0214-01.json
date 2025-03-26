@@ -1,0 +1,100 @@
+{
+  "id": 95756,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Patty A. PITCOCK, Petitioner",
+  "name_abbreviation": "Commonwealth v. Pitcock",
+  "decision_date": "2000-01-13",
+  "docket_number": "Petition No. 553 W.D. Alloc. Dkt. 1999",
+  "first_page": "214",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "560 Pa. 214"
+    },
+    {
+      "type": "parallel",
+      "cite": "743 A.2d 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "737 A.2d 738",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838569,
+        11572066,
+        11572086,
+        838583
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0408-01",
+        "/a2d/737/0738-01",
+        "/a2d/737/0738-02",
+        "/pa/558/0409-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 409",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838583
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0409-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 436,
+    "ocr_confidence": 0.683,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0030752758172387655
+    },
+    "sha256": "e90363364e19376f242c9b8edb56156ffd71b3b4d948f6bdb10032608336c71f",
+    "simhash": "1:1d2da27fe1e3afe2",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T17:16:51.704335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Patty A. PITCOCK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 13th day of January 2000, the Petition For Allowance of Appeal is GRANTED and this matter is REMANDED to the trial court for further consideration in light of this Court\u2019s decision in United National Ins. Co. v. JH France Refractories, 558 Pa. 409, 737 A.2d 738 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "743 A.2d 448\nCOMMONWEALTH of Pennsylvania, Respondent, v. Patty A. PITCOCK, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 13, 2000."
+  },
+  "file_name": "0214-01",
+  "first_page_order": 834,
+  "last_page_order": 835
+}

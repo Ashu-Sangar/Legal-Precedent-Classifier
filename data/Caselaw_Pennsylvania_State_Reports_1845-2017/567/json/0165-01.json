@@ -1,0 +1,763 @@
+{
+  "id": 404532,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Ricky Lynn McCALL, Appellant",
+  "name_abbreviation": "Commonwealth v. McCall",
+  "decision_date": "2001-12-19",
+  "docket_number": "No. 39 WAP 2000",
+  "first_page": "165",
+  "last_page": "183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "567 Pa. 165"
+    },
+    {
+      "type": "parallel",
+      "cite": "786 A.2d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "493 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8731729
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/493/0164-01"
+      ]
+    },
+    {
+      "cite": "657 A.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11940709,
+        472150
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/657/0927-01",
+        "/pa/540/0318-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472150
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0318-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56907,
+        11553069
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1183",
+          "parenthetical": "\"a petitioner may not obtain relief on collateral review merely by alleging ineffective assistance of counsel and presenting claims that were previously litigated under new theories\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01",
+        "/a2d/732/1167-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56907
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"a petitioner may not obtain relief on collateral review merely by alleging ineffective assistance of counsel and presenting claims that were previously litigated under new theories\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01"
+      ]
+    },
+    {
+      "cite": "493 U.S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331685
+      ],
+      "weight": 8,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "345"
+        },
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0342-01"
+      ]
+    },
+    {
+      "cite": "388 Pa.Super. 610",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        472495
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "622"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/388/0610-01"
+      ]
+    },
+    {
+      "cite": "598 A.2d 275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1829856
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0393-01"
+      ]
+    },
+    {
+      "cite": "567 A.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1820354
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0305-02"
+      ]
+    },
+    {
+      "cite": "523 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820354,
+        1820303
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0305-02",
+        "/pa/523/0305-01"
+      ]
+    },
+    {
+      "cite": "523 Pa. 75",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1820353
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0075-01"
+      ]
+    },
+    {
+      "cite": "417 Pa.Super. 280",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        914313
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/417/0280-01"
+      ]
+    },
+    {
+      "cite": "661 A.2d 352",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7870893,
+        470782
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/661/0352-01",
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 108",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470782
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0108-01"
+      ]
+    },
+    {
+      "cite": "25 A.L.R.4th 934",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 4th",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "493 U.S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331685
+      ],
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/493/0342-01"
+      ]
+    },
+    {
+      "cite": "743 A.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        95789,
+        11492966
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/560/0240-01",
+        "/a2d/743/0907-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 240",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95789
+      ],
+      "year": 2000,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/560/0240-01"
+      ]
+    },
+    {
+      "cite": "658 A.2d 771",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872600,
+        472178
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/658/0771-01",
+        "/pa/540/0493-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 493",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472178
+      ],
+      "year": 1995,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/540/0493-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1702005,
+        11635951
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "333",
+          "parenthetical": "setting forth the standard for evaluating a claim of ineffective assistance of counsel"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/555/0299-01",
+        "/a2d/724/0326-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1702005
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "setting forth the standard for evaluating a claim of ineffective assistance of counsel"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/555/0299-01"
+      ]
+    },
+    {
+      "cite": "695 A.2d 770",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11971819,
+        960452
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "772-73"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/695/0770-01",
+        "/pa/548/0131-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 131",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960452
+      ],
+      "year": 1997,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/548/0131-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 117",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715584
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "129",
+          "parenthetical": "the law attaches particular significance to an acquittal"
+        },
+        {
+          "parenthetical": "the law attaches particular significance to an acquittal"
+        },
+        {
+          "parenthetical": "the law attaches particular significance to an acquittal"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/449/0117-01"
+      ]
+    },
+    {
+      "cite": "591 A.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1827738,
+        1827716
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "711"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/527/0345-01",
+        "/pa/527/0344-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 345",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827738
+      ],
+      "year": 1991,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/527/0345-01"
+      ]
+    },
+    {
+      "cite": "428 Pa.Super. 344",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        933156
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "claims finally litigated where discussed thoroughly by Superior Court on direct appeal"
+        },
+        {
+          "page": "1282",
+          "parenthetical": "claims finally litigated where discussed thoroughly by Superior Court on direct appeal"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa-super/428/0344-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673289,
+        356239
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "252",
+          "parenthetical": "claim previously litigated where this Court specifically addressed the argument on direct appeal"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/719/0242-01",
+        "/pa/553/0285-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 285",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356239
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "claim previously litigated where this Court specifically addressed the argument on direct appeal"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/553/0285-01"
+      ]
+    },
+    {
+      "cite": "738 A.2d 1026",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11572083
+      ],
+      "pin_cites": [
+        {
+          "page": "1028-29"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/738/1026-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805857,
+        765946,
+        765988,
+        11805966
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "this Court cannot evaluate claims that counsel has not briefed"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/720/0693-01",
+        "/pa/554/0030-01",
+        "/pa/554/0031-01",
+        "/a2d/720/0693-02"
+      ]
+    },
+    {
+      "cite": "554 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765988
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "this Court cannot evaluate claims that counsel has not briefed"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/554/0031-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        95785,
+        11471757
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Because this claim does not rest solely upon the previously litigated evidence, we will reach the merits of appellant's claim\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/560/0500-01",
+        "/a2d/746/0592-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 500",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95785
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Because this claim does not rest solely upon the previously litigated evidence, we will reach the merits of appellant's claim\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/560/0500-01"
+      ]
+    },
+    {
+      "cite": "657 A.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11940709,
+        472150
+      ],
+      "weight": 4,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "932-33"
+        },
+        {
+          "page": "932"
+        },
+        {
+          "page": "932-33"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/657/0927-01",
+        "/pa/540/0318-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472150
+      ],
+      "year": 1995,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/540/0318-01"
+      ]
+    },
+    {
+      "cite": "493 U.S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331685
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "345-46",
+          "parenthetical": "courl gave limiting instruction as to prior crimes evidence and twice told jury of defendant's prior acquittal"
+        },
+        {
+          "parenthetical": "courl gave limiting instruction as to prior crimes evidence and twice told jury of defendant's prior acquittal"
+        },
+        {
+          "parenthetical": "courl gave limiting instruction as to prior crimes evidence and twice told jury of defendant's prior acquittal"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/493/0342-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1290,
+    "char_count": 36255,
+    "ocr_confidence": 0.654,
+    "pagerank": {
+      "raw": 1.1859208938862168e-07,
+      "percentile": 0.5901898141551882
+    },
+    "sha256": "0e5229f45ba8f23a88c31d10eae852c5646c5b1f0ec3d19395e844b6f23891be",
+    "simhash": "1:2536a294f11fcfed",
+    "word_count": 5888
+  },
+  "last_updated": "2024-02-27T20:42:38.943670+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J, and ZAPPALA, GAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ.",
+      "Justice SAYLOR files a concurring opinion.",
+      "Chief Justice FLAHERTY, and Justice NIGRO file dissenting opinions."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Ricky Lynn McCALL, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Justice NEWMAN.\nWe granted appeal in this matter to determine whether former counsel for Ricky Lynn McCall (Appellant) was ineffective for failing to brief and argue on direct appeal Appellant\u2019s subsequent acquittal of a prior crime that was used as evidence of motive and intent during trial of the instant matter, thus entitling him to relief pursuant to the Post-Conviction Relief Act, 42 Pa.C.S. \u00a7\u00a7 9541 \u2014 9546.\nFacts and Procedural History\nIn February of 1992, Appellant was residing in Butler County in a home owned by Francis Blystone (Blystone), and Blystone\u2019s child. Her boyfriend, Gary Risinger, also lived in the house. The house was insured for $80,000.00, which was more than the purchase price. Blystone was having serious financial difficulties and the utility company had shut off the natural gas service to the residence. The house was heated by a coal and wood-burning stove.\nOn February 7, 1992, fire destroyed the Blystone house, three days after a teacher indicated to Blystone that she would report to the county children\u2019s agency that the house was unsuitable for children. The Pennsylvania State Police Fire Marshall\u2019s Office investigated the fire and determined that it was arson. Appellant, Blystone, and Risinger were interviewed as part of the investigation. Each claimed that the fire was accidental. A polygraph examination was scheduled for all three individuals regarding their knowledge of the crime.\nFollowing the fire, they moved into another house in Butler County, where Blystone\u2019s grandmother, Mary Boofer (Boofer), was living. On the night of March 7, 1992, Blystone and Risinger were staying in the upstairs bedroom. Blystone\u2019s cousin, Judith Ealy (Ealy) and her boyfriend, David Pisor were also sleeping on the second floor. Boofer and her boyfriend, James Shever, were in a downstairs bedroom. Appellant was staying in the living room, where it was his job to tend the fireplace, which was the only source of heat in the entire house. At approximately 4:00 a.m., a fire destroyed the home, resulting in the death of Blystone and Ealy. The survivors, who were either naked or partially dressed when they escaped the fire, noticed that Appellant was fully dressed and was wearing his lace-up boots. \u00edtisinger and Shever testified that Appellant usually removed his shirt and shoes when sleeping on the living room couch.\nMichelle Goodman, who was Boofer\u2019s granddaughter, lived next door to the house where the fire took place. She awoke at approximately 4:00 a.m. when she heard her dogs barking. She looked outside the window, and saw that the porch of the house next door was on fire. After asking her boyfriend to call 9-1-1 to report the fire, she saw Appellant walk across the yard at a normal pace. He knocked on her door and told her that everyone was out of the house. According to Appellant, he cleaned out the fireplace at 7:80 p.m. the evening of the fire and he placed the ashes in a bucket that he set on the porch to cool. At 2:30 a.m., he transferred the ashes to a paper bag, and placed the bag of ashes on the couch on the porch. He claimed that he saved the ashes because his mother wanted to use them for kitty litter. Appellant went to sleep' at 3:30 a.m. and was awakened by the fire at 4:00 a.m.\nThe Pennsylvania State Police Fire Marshall, assisted by the Allegheny County Fire Marshall, investigated the scene and determined that the cause of the fire was arson. They discovered evidence of liquid burn patterns on the front porch and unusual damage that could only be caused by use of a liquid accelerant. Areas of the living room tested positive for hydrocarbons, indicating that a petroleum based product had been used to accelerate the fire. According to the Allegheny County Fire Marshall, even if the fire had been started by the ashes on the couch, as Appellant claimed, it would have taken three to four hours of smoldering before the couch burst into flames.\nThe Commonwealth\u2019s theory of the case was that Appellant started both fires and that he started the second fire in order to kill Blystone who, had she lived, would have implicated him in the first fire if she failed the lie detector test as she said she would.\nThe Commonwealth charged Appellant for both fires. After the Court of Common Pleas of Butler County (trial court) denied the Commonwealth\u2019s motion to consolidate the two cases, the Commonwealth decided to prosecute the second fire first.\nA jury convicted Appellant of two counts of second-degree murder and one count each of arson, recklessly endangering another person, failure to prevent a catastrophe and intimidation of a witness. The trial court sentenced him to serve two consecutive terms of life imprisonment for the murder convictions, sixty-six to one hundred thirty-two month\u2019s imprisonment for the arson conviction, and eight to sixteen months for the intimidation of witnesses\u2019 conviction. No further penalty was imposed on the remaining convictions.\nFollowing a subsequent trial for the first fire, Appellant was acquitted. He then appealed his conviction for offenses involving the second fire. On direct appeal, he argued that the trial court erred by admitting evidence of a separate arson charge because it allowed the Commonwealth to assert that he was an arsonist without establishing it beyond a reasonable doubt. He also claimed that the trial court improperly admitted evidence of the other arson because he was not convicted of that crime. The Superior Court affirmed the decision of the trial court. Appellant filed a petition for allowance of appeal, which this Court denied.\nAppellant filed a pro se petition pursuant to the Post Conviction Relief Act, 42 Pa.C.S. \u00a7\u00a7 9541-9546. Court-appointed counsel later amended the petition. The PCRA court denied relief, and the Superior Court affirmed the decision.\nDiscussion\nThis Court granted allocatur limited to the question of whether counsel on direct appeal rendered ineffective assistance by failing to brief and argue Appellant\u2019s subsequent acquittal of a prior crime used against him as evidence of motive and intent in the trial regarding the second fire.\nThe Commonwealth argues that because this issue has been finally litigated, it may not be raised in a PCRA petition. Section 9543 of the PCRA provides, in relevant part:\n\u00a7 9543. Eligibility for relief.\n(a) General rule \u2014 To be eligible for relief under this subchapter, the petitioner must plead and prove by a preponderance of the evidence all of the following:\n(3) That the allegation of error has not been previously litigated or waived.\nSection 9544 provides in relevant part:\n\u00a7 9544. Previous litigation and waiver\n(a) Previous litigation. \u2014 For purposes of this subchapter, an issue has been previously litigated if:\n(2) the highest appellate court in which the petitioner could have had review as a matter of right has ruled on the merits of the issue.\nIt is well settled that one cannot avoid the restrictions on raising a previously litigated issue by claiming that counsel was ineffective in his or her method of advocating the issue. See Commonwealth v. Travaglia, 541 Pa. 108, 661 A.2d 352, 358 (1995). In his direct appeal, Appellant challenged the decision of the trial court to allow evidence of his involvement in the first arson as proof of his motive for committing the second arson. In the following passage, the Superior Court addressed Appellant\u2019s argument on direct appeal:\nAppellant initially argues the trial court erred in denying his repeated requests that the Commonwealth be directed not to make any reference to a separate arson charge which was then pending against appellant or matters which related thereto.\nAppellant contends the separate arson charge pending against him was inadmissible because he had successfully severed the two trials by means of an omnibus pretrial motion. Furthermore, by using the preceding arson charge in the subsequent arson trial, appellant alleges the Commonwealth was able to assert appellant was an arsonist without proving each and every element beyond a reasonable doubt.\nThe omnibus hearing only served to deny consolidation of the cases, however, the court made no evidentiary ruling nor did appellant, in his motion, ask for a ruling on the evidence. Later, at trial, appellant presented a motion in limine to the trial judge, who properly ruled on the admissibility of the evidence.\nThis Court will not reverse the trial court\u2019s determination regarding the admissibility of evidence of prior crimes absent an abuse of discretion. Commonwealth v. Camperson, 417 Pa.Super. 280, 612 A.2d 482 (1992). As a general rule, evidence of a separate crime is inadmissible. Commonwealth v. Hall, 523 Pa. 75, 565 A.2d 144 (1989). However, evidence showing prior criminality may be admitted if it is relevant for some other legitimate reason other than defendant\u2019s propensity for committing crimes or to show bad character. Commonwealth v. Tedford, 523 Pa. 305, 567 A.2d 610 (1989). Specifically, evidence of other crimes may be admitted to prove motive, intent, absence of mistake or accident, a common scheme, plan, or design embracing the commission of two or more crimes so related to each other that proof of one tends to prove the other or to establish the identity of the person charged with the commission of the crime on .trial. Commonwealth v. Newman, 564 [528] Pa. 1308 [393], 598 A.2d 275 (1991).\nHere, evidence of the first fire was admissible to establish appellant\u2019s motive for setting the second fire as well as being the basis for the witness intimidation charge. Moreover, the evidence was relevant as both fires were started by use of a liquid accelerant.\nAppellant further contends the prior arson charge should not have been admitted because he was not convicted of the crime. However, actual convictions are not necessary for evidence of prior crimes to be held admissible. See Commonwealth v. Marsh, 388 Pa.Super. 610, 622, 566 A.2d 296 (1989). This rule holds true even if the prior charges are dropped. Id. Accordingly, we find the trial court did not abuse its discretion in admitting the evidence of the prior arson charges.\nSuperior Court Memorandum Opinion, 00803 Pittsburgh 1993, pp. 2-4.\nAppellant\u2019s present claim is that counsel was ineffective for not arguing on appeal Appellant\u2019s subsequent acquittal on the first arson charge as grounds for overturning the trial court\u2019s decision to permit evidence of this arson as proof of Appellant\u2019s motive for the second arson. The ultimate question with respect to Appellant\u2019s present claim and his issue on direct appeal is the same: was the admission of evidence of Appellant\u2019s involvement in the first arson proper? Appellant\u2019s acquittal of the first arson charge after his conviction for the second arson where the trial court allowed the Commonwealth to introduce evidence of his participation in the first arson to prove his motive for committing the second arson does not -per se invalidate the decision of the trial court. Indeed, neither the Double Jeopardy nor the Due Process Clauses of the United States Constitution prohibit the introduction of otherwise admissible evidence of a defendant\u2019s prior crime, even where the defendant has been acquitted of that crime. See Dowling v. United States, 493 U.S. 342, 110 S.Ct. 668, 107 L.Ed.2d 708 (1990). An acquittal on the first arson charge supports Appellant\u2019s argument that the trial court improperly-ruled that the probative value of this evidence outweighed its prejudicial impact, but it is not dispositive of this point. It is merely one more aspect of the issue already raised by Appellant on direct appeal, i.e., whether the trial court properly admitted the evidence of Appellant\u2019s involvement in the first arson. So long as counsel has raised the issue, we will not allow a PCRA petitioner to circumvent the bar against previously litigated issues by claiming ineffective assistance of counsel in his or her manner of arguing the issue. See, e.g., Commonwealth v. Williams, 557 Pa. 207, 732 A.2d 1167, 1183 (1999) (\u201ca petitioner may not obtain relief on collateral review merely by alleging ineffective assistance of counsel and presenting claims that were previously litigated under new theories\u201d). That is essentially what Appellant attempts in his present claim.\nMoreover, even assuming that the PCRA\u2019s bar against review of previously litigated issues does not apply, Appellant is not entitled to a new trial. At the time of Appellant\u2019s trial on the second arson and murder charges, the charges against him from the first arson were still open. The Commonwealth offered evidence of Appellant\u2019s involvement in the first arson to establish his motive for committing the second arson. It is well settled that evidence of a defendant\u2019s prior criminal activity may be introduced to establish his or her motive for the crime for which he or she presently stands accused. See Commonwealth v. Murphy, 540 Pa. 318, 657 A.2d 927 (1995). The focus of the trial court in ruling on the admissibility of evidence of Appellant\u2019s involvement in the first arson is whether the probative value of that evidence outweighs its prejudicial impact. See Commonwealth v. Morris, 493 Pa. 164, 425 A.2d 715 (1981). As demonstrated by Dowling, supra, Appellant\u2019s subsequent acquittal of the first arson does not automatically require reversal of the determination by the trial court that the probative value of this evidence outweighed its potential prejudice. The ruling of the trial court was correct when made, and the Appellant\u2019s subsequent acquittal of the first arson charges does not change the propriety of that ruling.\nConclusion\nFor these reasons, we affirm the Order of the Superior Court denying PCRA relief to Appellant.\nJustice SAYLOR files a concurring opinion.\nChief Justice FLAHERTY, and Justice NIGRO file dissenting opinions.\n. 18 Pa.C.S \u00a7 2502(b).\n. 18 Pa.C.S. \u00a7 3301(a)(1).\n. 18 Pa.C.S. \u00a7 2705.\n. 18 Pa.C.S. \u00a7 3303(2).\n. 18 Pa.C.S. \u00a7 4952(a)(1).\n. Appellant points to the issues framed by his appellate counsel in the Superior Court brief as proof that counsel failed to raise the issue of his subsequent acquittal of the first arson. The following testimony from Appellant\u2019s direct appeal counsel demonstrates that counsel brought Appellant\u2019s acquittal of the first arson to the Superior Court\u2019s attention:\nQ: Let me just ask you in your brief as to that issue, you state that the issue is did the trial court err in denying the Defendant\u2019s repeated requests both prior to and during trial on the \u2014 with the \u2014 within charges that [sic] Commonwealth be directed not to make any reference to either a separate arson charge which was then pending against the Defendant or matters related thereto. That's the statement of the issues, correct?\nA: Right.\nQ: There is nothing within the statement of that issue that relates to the subsequent acquittal, is that right?,\nA: That's true. It's in the body of the argument.\nQ: Let me just show you a copy of your brief. Here's your argument relative to that issue. And could you just \u2014 could you just tell us where in this you specifically speak to the issue of the acquittal?\nA: In the last paragraph, the last sentence, last couple sentences of the \u2014 .\nQ: And that's on page 12 of your brief, right?\nA: Yes.\nQ: And in essence you just make the statement that in fact the Defendant was later acquitted of the first arson charge. So there is no question that the prejudice was real?\nA: Uh-huh.\nNotes of Testimony, PCRA hearing, 6/26/98, pp. 26-28.\nWe should assume that the Superidr Court read Appellant's brief and was therefore aware of his acquittal of the first arson when it considered the propriety of the trial court's evidentiary ruling on direct appeal. Consequently, as discussed further infra, the issue underlying Appellant's present claim of ineffective assistance of counsel has been previously litigated.\n. In Dowling, the government introduced evidence of Dowling's involvement in an attempted robbery, of which Dowling had previously been acquitted, as proof of identity in the bank robbery for which he was on trial and to establish a connection between Dowling and a co-conspirator in the bank robbery. Dowling, 493 U.S. at 345, 110 S.Ct. 668. Dowling argued that due to his acquittal of the attempted robbery, collateral estoppel and double jeopardy principles should prohibit the government from introducing any evidence of Dowling\u2019s involvement in the attempted robber as evidence of identity in the bank robbery trial. The Court rejected this argument: \u201cwe decline to extend ... .the collateral estoppel component of the Double Jeopardy Clause to exclude in all circumstances ... .relevant and probative evidence that is otherwise admissible under the Rules of Evidence simply because it relates to alleged criminal conduct for which a defendant has been acquitted.\u201d Id. at 348, 110 S.Ct. 668.\nAppellant\u2019s situation merits less concern than the position rejected by the Court in Dowling. At the time of Appellant's trial on the second arson and murder charges, the case against Appellant for the first arson was still pending. The trial court in Appellant\u2019s case, therefore, was not faced with evidence of Appellant\u2019s involvement in prior criminal activity for which he had already been acquitted, as happened in Dowling.",
+        "type": "majority",
+        "author": "Justice NEWMAN."
+      },
+      {
+        "text": "Justice SAYLOR,\nconcurring.\nI agree with the majority that, given the Superior Court\u2019s treatment on direct appeal of the issue sought to be raised in this PCRA proceeding, the question has been previously litigated and is therefore not presently available as a viable claim for post-conviction relief. However, to the extent that the majority\u2019s further expression concerning the merits of the underlying claim can be read to suggest that a subsequent acquittal may never be offered as a basis for supporting a claim that evidence of prior conduct should not have been admitted and/or that prejudice resulted from the erroneous admission of such evidence, I would respectfully disassociate myself from such suggestion. Notably, other jurisdictions are divided concerning whether, and under what circumstances, evidence may be admitted of another crime for which the defendant has been acquitted. See generally 2 McCormick, Evidence \u00a7 190, at 671 & n. 64 (5th ed. 1999) (collecting cases); Annotation, Admissibility of Evidence as to Other Offense as Affected by Defendant\u2019s Acquittal of That Offense, 25 A.L.R.4th 934 (2000) (same). Given the competing views and the rather complex nature of the questions involved, and particularly in light of the overtones of an after-discovered evidence paradigm arising where the other-crime acquittal occurs subsequent to the conviction under review, I view these questions as best left for a c\u00e1se (or cases) in which their resolution is necessary to the disposition.",
+        "type": "concurrence",
+        "author": "Justice SAYLOR,"
+      },
+      {
+        "text": "Chief Justice FLAHERTY,\ndissenting.\nWhere one is charged with crime A and crime B and due to bifurcation crime B is brought to trial prior to alleged crime A, but crime A becomes a significant part of the record in the trial of crime B resulting in a conviction, then the defendant is acquitted by a jury of crime A, does fundamental fairness require a new trial, when reviewed in an ineffectiveness context where, counsel fails to brief and argue the point on appeal? On this record, at least, I would say it does. In the new trial the facts of crime A as they regard the defendant would not necessarily be precluded, but that a jury acquitted the defendant of crime A along with appropriate instructions delivered to.the jury would be made known to and subject to argument before the jury as it was in Dowling v. United States, 493 U.S. 342, 110 S.Ct. 668, 107 L.Ed.2d 708 (1990).",
+        "type": "dissent",
+        "author": "Chief Justice FLAHERTY,"
+      },
+      {
+        "text": "Justice NIGRO,\ndissenting..\nAppellant was charged with arson and related offenses resulting from a fire on February 7, 1992. Appellant was later charged with two counts of criminal homicide, arson, and related offenses stemming from a second fire on March 7, 1992. The cases were severed for trial upon Appellant\u2019s motion, and the Commonwealth chose to prosecute the homicide/arson case first, which is the case before the Court here. At trial, the Commonwealth presented evidence of the alleged prior crime of arson to prove motive and intent in the instant case. On January 21, 1993, a jury convicted Appellant of two counts of second-degree murder and one count each of arson, intimidation of witnesses, recklessly endangering another person and failure to prevent a catastrophe. Subsequently, on March 23, 1998, a jury acquitted Appellant of all charges in the first arson case. In this appeal under the Post-Conviction Relief Act (\u201cPCRA\u201d), 42 Pa.C.S. \u00a7\u00a7 9541-9546, Appellant claims that counsel on direct appeal was ineffective for failing to argue that the evidence of the first arson was improperly used as motive and intent in the instant case because he was subsequently acquitted of that arson.\nThe majority concludes that the Superior Court addressed Appellant\u2019s claim on direct appeal and therefore, his claim is barred under the PCRA as previously litigated. Based on my reading of the record, however, I cannot agree with this conclusion. Furthermore, I believe that Appellant is entitled to a new Rial due to the ineffectiveness of counsel on direct appeal. Accordingly, 1 respectfully dissent.\nThe majority first holds that Appellant\u2019s claim asserted here in his PCRA appeal has been previously litigated because it is substantially similar to the evidentiary claim he asserted on direct appeal. The crux of the evidentiary issue raised on direct appeal, however, was that the trial court erred in admitting evidence of a crime for which Appellant had been charged but not yet convicted, thereby allowing the Commonwealth to assert Appellant\u2019s guilt in the first arson case without having to prove that charge beyond a reasonable doubt. The crux of the issue here, on the other hand, is the effect of the subsequent acquittal rather than the admission of evidence of a crime for which the charges were still pending. The distinction between the two claims is, in my view, most clearly highlighted by the simple fact that Appellant had merely been charged with, and not yet acquitted of, the first arson at the time the trial court made its evidentiary ruling. Thus, it would have been impossible for Appellant to argue the effect of the acquittal at that point, when such an event had not yet occurred. Given these circumstances, I believe it is unfair to conclude, as the majority does, that the \u201cultimate question\u201d in the two proceedings is the same. See Commonwealth v. Miller, 560 Pa. 500, 746 A.2d 592, 602 n. 9 (2000)(\u201cBecause this claim does not rest solely upon the previously litigated evidence, we will reach the merits of appellant\u2019s claim\u201d).\nFurthermore, I disagree with the majority\u2019s conclusion that Appellant\u2019s counsel on direct appeal raised the issue of Appellant\u2019s subsequent acquittal in the first arson case and that the Superior Court addressed that issue in its memorandum opinion. The majority states that Appellant is simply attempting to circumvent the bar against previously litigated issues by alleging ineffectiveness of counsel, but my reading of the record compels me to reach a different conclusion.\nOn direct appeal to the Superior Court, Appellant\u2019s counsel did not set forth a question presented involving Appellant\u2019s acquittal and the effect of the acquittal. See Pa.R.A.P. 2116(a)(\u201cordinarily no point will be considered which is not set forth in the statement of questions involved\u201d). More importantly, Appellant\u2019s counsel conducted no research and presented absolutely no argument regarding the acquittal or whether the acquittal was grounds for a new trial. See Pa.R.A.P 2119 & 2101; Commonwealth v. Albrecht, 554 Pa. 31, 720 A.2d 693, 701 n. 9 (1998)(this Court cannot evaluate claims that counsel has not briefed); Commonwealth v. Sneddon, 738 A.2d 1026, 1028-29 (Pa.Super.l999)(the argument portion of an appellate brief must include a full discussion of the particular point raised along with citation to pertinent authorities). Direct appeal counsel merely mentioned Appellant\u2019s acquittal once, in the second to last line of the discussion section of the appellate brief. Amazingly, the majority concludes that this lone and passing reference to Appellant\u2019s acquittal constitutes effective and sufficient appellate advocacy. In my view, however, this reference to Appellant\u2019s acquittal in the first arson case falls far short of what is required by the law of this Commonwealth to properly raise an issue on appeal.\nMy conclusion that appellate counsel failed to raise Appellant\u2019s acquittal of the first arson is supported by the fact that the Superior Court did not, at any point, mention Appellant\u2019s acquittal in its opinion on direct appeal. Nevertheless, the majority proclaims that this Court \u201cshould assume that the Superior Court read Appellant\u2019s brief and was therefore aivare of his acquittal of the first arson when it considered the propriety of the trial court\u2019s evidentiary ruling on direct appeal.\u201d Majority Opinion at 195, n. 6 (emphasis added). Initially, I believe it is improper to assume that the Superior Court considered an issue that it did not raise, much less discuss, in its opinion. Moreover, in making this assumption, the majority necessarily admits that the Superior Court addressed only the trial court\u2019s evidentiary ruling, and not the issue regarding Appellant\u2019s subsequent acquittal. The PCRA clearly states that an issue has been previously litigated only if \u201cthe highest appellate court in which the petitioner could have had review as a matter of right has ruled on the merits of the issue.\u201d 42 Pa.C.S \u00a7 9544(a)(2). \u25a0 In order to be previously litigated, an appellate court must have, at the very least, addressed the merits of a claim on direct appeal. See Commonwealth v. Copenhefer, 553 Pa. 285, 719 A.2d 242, 252 (1998)(claim previously litigated where this Court specifically addressed the argument on direct appeal); Commonwealth v. Bond, 428 Pa.Super. 344, 630 A.2d 1281, 1282 (1993)(claims finally litigated where discussed thoroughly by Superior Court on direct appeal). Since the Superior Court on direct appeal did not even mention Appellant\u2019s subsequent acquittal in the first arson case, I am perplexed by the majority\u2019s conclusion that the Superior Court\u2019s opinion constituted a ruling on the merits as to Appellant\u2019s PCRA claim.\nBased on the reasoning set forth above, I cannot agree with the majority that Appellant\u2019s claim was previously litigated under the PCRA. Given my belief that Appellant\u2019s ineffectiveness claim is properly before the Court, the issue then becomes whether counsel\u2019s failure to brief and argue Appellant\u2019s acquittal of .the first arson on direct appeal entitles him to relief under the PCRA.\nResolution of this issue is, in my view, controlled by this Court\u2019s decision in Commonwealth v. Fisher, 527 Pa. 345, 591 A.2d 710 (1991). The jury in Fisher convicted the defendant (\u201cFisher\u201d) of murder. Prior to the murder trial, Fisher had been convicted in federal court for conspiracy to violate the constitutional rights of a government informant scheduled to testify at a then-imminent drug trial. The informant had been murdered and his death was an integral issue regarding the motivation for the murder in Fisher\u2019s state case. During voir dire in the state murder case, the prosecution asked whether a potential juror had read anything about Fisher\u2019s earlier federal conviction. The individual responded affirmatively and was later selected to sit as a member of the jury.\nFollowing his conviction in the state murder case, Fisher\u2019s federal conviction was reversed and he was completely discharged from the federal case. On appeal from the murder conviction, this Court unanimously concluded that, given Fisher\u2019s subsequent acquittal on the federal charges, the question asked by the prosecutor during voir dire was prejudicial. Id. at 711. The Court reasoned that although evidence regarding the federal conviction may have been relevant at the time the prosecutor questioned the juror, the subsequent acquittal caused the evidence to lose its pertinency and to become unduly prejudicial. Id. Explaining that the effect of the prosecutor\u2019s inquiry on the jury was \u201cinestimable,\u201d the Court reversed Fisher\u2019s murder conviction and ordered a new trial. Id.\nThe validity of Fisher was subsequently reaffirmed in Commonwealth v. Murphy, 540 Pa. 318, 657 A.2d 927 (1995), where this Court drew a distinction between being discharged from a case and being granted a new trial. In Murphy, the Court held there was no error in admitting evidence of an alleged prior crime where the defendant was convicted but later granted a new trial by this Court on appeal. Id. at 932-33. The Court explained that the defendant had not been discharged on the prior crime because the case had been reversed and remanded for a new trial. Id. at 932. On remand, the defendant pled guilty, thereby admitting to the evidence regarding the prior crime that had been presented to the jury in the subsequent case. The Muiphy Court specifically distinguished this factual scenario from Fisher, where Fisher\u2019s federal conviction was reversed and he was completely discharged from that case. Murphy, 657 A.2d at 932-33. In my view, the instant case likewise differs from Murphy.\nUnlike the defendant in Murphy, Appellant was not granted a new trial on appeal from the first arson. Instead, Appellant was completely discharged from the first arson case when a jury found him not guilty of all charges. See United States v. DiFrancesco, 449 U.S. 117, 129, 101 S.Ct. 426, 66 L.Ed.2d 328 (1980)(the law attaches particular significance to an acquittal); Commonwealth v. D.M., 548 Pa. 131, 695 A.2d 770, 772-73 (1997)(a defendant enters a trial cloaked in the presumption of innocence and when the fact-finder reaches a verdict of acquittal, there is no justification to undermine the verdict because the defendant has achieved the stx-ongest vindication possible under our criminal tx-adition, laws and procedures). Thus, I believe Appellant\u2019s case is analogous to Fisher. Appellant\u2019s acquittal in the first arson case similaxdy affected the relevancy and concomitant prejudice of the evidence concerning motive and intent in the instant case. In fact, Appellant\u2019s case presents a stronger justification for a new trial than the0 factual scenario before the Coui\"t in Fisher. In Fisher, the prosecutor x'elied upon a conviction that was subsequently reversed. Here, the prosecutor used evidence of an alleged bad act for which Appellant was later tried and acquitted The effect of the prior eximes evidence on the jury, without the jurors knowing of the subsequent acquittal, is, as it was in , Fisher, inestimable.\nBased on the facts of record and prior decisions of this Court, 1 believe that Appellant\u2019s ineffectiveness claim has arguable merit, that Appellant\u2019s counsel had no reasonable basis for failing to brief and argue Appellant\u2019s subsequent acquittal of the prior arson, and that if counsel had properly briefed and argued this issue there is a reasonable probability that the outcome of the proceedings would have been different. See Commonwealth v. Kimball, 555 Pa. 299, 724 A.2d 326, 333 (1999)(setting forth the standard for evaluating a claim of ineffective assistance of counsel). Accordingly, I would grant Appellant a new trial.\n. At the PCRA hearing, Appellant's direct appeal counsel testified as follows:\nQ. [PCRA counsel]: At the time of your appointment I think we have already established that [Appellant] had been found not guilty of the first arson, is that correct?\nA. [direct appeal counsel] Yep.\nQ. And you raised in your Superior Court brief the issue of the prior crimes evidence coming in in the murder arson case, is that correct?\nA. Yes.\nQ. And you raised it in the context of the order in which the cases had been charged, is that true?\nA. Yes.\nQ. And your arguments would be fair to say basically tracked [trial counsel's] arguments pretrial as to why this should not occur?\nA. Yes, that's fair.\nQ. Is that fair to say?\nA. Yes.\nQ. Did you research at that time the specific issue of \u2014 the significance of the prior crimes resulting in an acquittal?\nA. My research was limited to the issue I have raised in my brief. N.T., PCRA Hearing, 6/26/98, at 24-25.\n. Even assuming lhat the Superior Court was \"aware\u201d of Appellant\u2019s acquittal in the first arson, that does not necessarily mean that the issue was properly raised by counsel or that the Superior Court considered the effect of Appellant\u2019s acquittal in rendering its decision.\n. I am troubled by the majority's use of leaping logic when it concludes that the Superior Court considered and rejected a claim based solely on the majority's assumption that the Superior Court considered Appellant's acquittal. Based on the majority's reasoning, an appellate court reviewing a PCRA petition may now assume that a lower court has addressed an issue not even raised by counsel, thereby transforming unraised claims into previously litigated claims. Taking the majority's reasoning to its logical conclusion, an appellate court may sua sponte consider any number of issues that it may be \"aware\u201d of, despite counsel's failure to properly raise the issues.\n. Although it is undisputed that one of the purposes of the PCRA is to preclude defendants from relitigating the merits of issues long since decided on direct appeal, Commonwealth v. Buehl, 540 Pa. 493, 658 A.2d 771, 775 (1995), unlike the majority, I do not believe that the previously litigated preclusion should be extended to include claims that this Court assumes have been addressed by the lower courts.\n. Despite concluding that Appellant's claim was previously litigated, the majority nevertheless proceeds to address the undertying merits of the claim. It is beyond dispute that if a defendant's claim was previously litigated, he is not eligible for relief under the PCRA. 42 Pa.C.S. \u00a7 9544(a); Commonwealth v. Lewis, 560 Pa. 240, 743 A.2d 907, 909 (2000). Thus, it seems improper for the majority to address the merits of Appellant\u2019s claim after concluding that the claim is not eligible for review by this Court.\n. If the order of the two trials had been reversed and the Commonwealth introduced prior crimes evidence of the first arson, it is likely that Appellant would have been permitted to inform the jury of his acquittal in the arson case. See Dowling v. United States, 493 U.S. 342, 345-46, 110 S.Ct. 668, 107 L.Ed.2d 708 (1990)(courl gave limiting instruction as to prior crimes evidence and twice told jury of defendant\u2019s prior acquittal). In my view, the majority unjustifiably rewards the Commonwealth for choosing to prosecute the murder/arson case before the first arson case. By prosecuting the murder/arson case first, the Commonwealth was able to argue that the first arson was motive for murder without having to prove Appellant's involvement in the first arson beyond a reasonable doubt. The majority's decision has the effect of allowing the Commonwealth to charge a defendant with a crime and introduce evidence of that crime in a trial for a second crime, without regard for the ultimate disposition of the charges in the first case.\n. In addition to arguing that ho is entitled to a new trial, Appellant argues that on remand, evidence of the first arson should be completely excluded from a new trial, or that in the alternative, he should be allowed to present evidence of the acquittal to the jury. That issue is beyond the scope of the issue on which ihis Court granted allocatur and therefore, is not squarely before the Court at this junciure of Appellant's case. Moreover, I believe that the trial court would be better equipped to address this evidentiary issue in the first instance on remand.",
+        "type": "dissent",
+        "author": "Justice NIGRO,"
+      }
+    ],
+    "attorneys": [
+      "Andrea Konow, Collegeville, for appellant, Ricky Lynn McCall.",
+      "David A. Hepting, Timothy F. McCune, Butler, for appellee, Com. of Pa."
+    ],
+    "corrections": "",
+    "head_matter": "786 A.2d 191\nCOMMONWEALTH of Pennsylvania, Appellee v. Ricky Lynn McCALL, Appellant.\nSupi\u2019eme Court of Pennsylvania.\nSubmitted Oct. 16, 2000.\nDecided Dec. 19, 2001.\nAndrea Konow, Collegeville, for appellant, Ricky Lynn McCall.\nDavid A. Hepting, Timothy F. McCune, Butler, for appellee, Com. of Pa.\nBefore FLAHERTY, C.J, and ZAPPALA, GAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+  },
+  "file_name": "0165-01",
+  "first_page_order": 285,
+  "last_page_order": 303
+}

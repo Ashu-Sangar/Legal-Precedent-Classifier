@@ -1,0 +1,92 @@
+{
+  "id": 1802533,
+  "name": "Jean Baker WILLIAMS, Petitioner, v. Edward J. McCLAIN, M.D.",
+  "name_abbreviation": "Williams v. McClain",
+  "decision_date": "1987-01-21",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "513 Pa. 255"
+    },
+    {
+      "type": "parallel",
+      "cite": "519 A.2d 950"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "501 A.2d 635",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1795388,
+        645214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/509/0199-01",
+        "/pa-super/348/0041-01"
+      ]
+    },
+    {
+      "cite": "509 Pa. 199",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1795208,
+        1795388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/509/0199-02",
+        "/pa/509/0199-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 388,
+    "ocr_confidence": 0.738,
+    "sha256": "38454455bf14acfe7f4746b34b37858143703759b5652af996910eecf95464b2",
+    "simhash": "1:797aa303c46a2f16",
+    "word_count": 67
+  },
+  "last_updated": "2024-02-27T23:49:18.512517+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jean Baker WILLIAMS, Petitioner, v. Edward J. McCLAIN, M.D."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 21st day of January, 1987, allocatur having been granted in this matter by Order dated December 27, 1985, at No. 478 W.D. Allocatur Dkt. 1985, 509 Pa. 199, 501 A.2d 635, the instant Petition for Allowance of Appeal is dismissed as moot.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "519 A.2d 950\nJean Baker WILLIAMS, Petitioner, v. Edward J. McCLAIN, M.D.\nSupreme Court of Pennsylvania.\nJan. 21, 1987."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 335,
+  "last_page_order": 335
+}

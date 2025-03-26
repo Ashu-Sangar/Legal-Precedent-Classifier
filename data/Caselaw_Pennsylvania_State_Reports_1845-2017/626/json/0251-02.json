@@ -1,0 +1,103 @@
+{
+  "id": 4254244,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Stephen REID, Petitioner",
+  "name_abbreviation": "Commonwealth v. Reid",
+  "decision_date": "2014-07-08",
+  "docket_number": "Appeal, No. 406 MAL 2011",
+  "first_page": "251",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "626 Pa. 251"
+    },
+    {
+      "type": "parallel",
+      "cite": "96 A.3d 986"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 2208139",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 A.3d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4217024,
+        6959967
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0450-01",
+        "/a3d/92/0766-01"
+      ]
+    },
+    {
+      "cite": "625 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4217024
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 475,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1420129127219386
+    },
+    "sha256": "fd3c2ba8a41123953f0c55174a392448d3c6ab22f7922f9a04e04324e530033c",
+    "simhash": "1:0da7232ea1090576",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T18:10:28.110990+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Stephen REID, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of July, 2014, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court VACATED, and the matter REMANDED to the trial court for further proceedings consistent with Commonwealth v. Walker, 625 Pa. 450, 92 A.3d 766, 2014 WL 2208139 (Pa. May 28, 2014). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "96 A.3d 986\nCOMMONWEALTH of Pennsylvania, Respondent v. Stephen REID, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 8, 2014."
+  },
+  "file_name": "0251-02",
+  "first_page_order": 301,
+  "last_page_order": 302
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12280807,
+  "name": "Com. v. Widener",
+  "name_abbreviation": "Com. v. Widener",
+  "decision_date": "2015-10-28",
+  "docket_number": "205 WAL (2015)",
+  "first_page": "728",
+  "last_page": "728",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 728"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "122 A.3d 452",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.85,
+    "sha256": "ed2d9528460866f0287cbf4b8bbe44f4ef3bdac3ea8b64e5634a4ae6d4920fb3",
+    "simhash": "1:0994aa9095b81b41",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Widener"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 122 A.3d 452",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Widener\n10/28/2015\n205 WAL (2015)"
+  },
+  "file_name": "0728-05",
+  "first_page_order": 772,
+  "last_page_order": 772
+}

@@ -1,0 +1,100 @@
+{
+  "id": 4198735,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Joseph ABRAHAM, Respondent",
+  "name_abbreviation": "Commonwealth v. Abraham",
+  "decision_date": "2010-11-30",
+  "docket_number": "No. 305 WAL 2010",
+  "first_page": "618",
+  "last_page": "619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "607 Pa. 618"
+    },
+    {
+      "type": "parallel",
+      "cite": "9 A.3d 1133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "130 S.Ct. 1473",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3581896,
+        12447673
+      ],
+      "weight": 2,
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0356-01",
+        "/l-ed-2d/176/0284-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1096,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 8.19418460453276e-08,
+      "percentile": 0.4757951139236303
+    },
+    "sha256": "6d1e5de1cd68a2f383dc5f7cf0a98899a505f5781eff99ef1fbf97a3150a6ba7",
+    "simhash": "1:6efe23aae6871193",
+    "word_count": 169
+  },
+  "last_updated": "2024-02-27T21:17:14.678165+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice ORIE MELVIN did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Joseph ABRAHAM, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of November 2010, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issues set forth below. Allocatur is DENIED as to all remaining issues. The issues, rephrased for clarity, are:\n(1) Whether, in light of Padilla v. Kentucky, \u2014 U.S. -, 130 S.Ct. 1473, 176 L.Ed.2d 284 (2010), the distinction in Pennsylvania between direct and collateral consequences to define the scope of constitutionally \u201creasonable professional assistance\u201d required under Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984) is appropriate?\n(2) If so, whether the forfeiture of a pension that stems from a public school teacher\u2019s negotiated plea to crimes committed in the scope of his employment is a collateral consequence of a criminal conviction which relieves counsel from any affirmative duty to investigate and advise?\nJustice ORIE MELVIN did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "9 A.3d 1133\nCOMMONWEALTH of Pennsylvania, Petitioner v. Joseph ABRAHAM, Respondent.\nSupreme Court of Pennsylvania.\nNov. 30, 2010."
+  },
+  "file_name": "0618-01",
+  "first_page_order": 662,
+  "last_page_order": 663
+}

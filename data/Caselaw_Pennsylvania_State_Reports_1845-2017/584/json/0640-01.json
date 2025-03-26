@@ -1,0 +1,822 @@
+{
+  "id": 988566,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Landon D. MAY, Appellant",
+  "name_abbreviation": "Commonwealth v. May",
+  "decision_date": "2005-11-23",
+  "docket_number": "No. 412 CAP",
+  "first_page": "640",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "584 Pa. 640"
+    },
+    {
+      "type": "parallel",
+      "cite": "887 A.2d 750"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "856 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1370926,
+        9212057,
+        1370995,
+        9212126
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0424-01",
+        "/a2d/856/0767-01",
+        "/pa/579/0425-01",
+        "/a2d/856/0767-02"
+      ]
+    },
+    {
+      "cite": "579 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370995
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0425-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 1026",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        587985,
+        9088786
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1034"
+        },
+        {
+          "page": "1034"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0594-01",
+        "/a2d/832/1026-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 594",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587985
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0594-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817450
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "858"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0188-01"
+      ]
+    },
+    {
+      "cite": "817 A.2d 1033",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9368833,
+        716459
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1054"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/817/1033-01",
+        "/pa/572/0489-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 489",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716459
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0489-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12814
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0001-01"
+      ]
+    },
+    {
+      "cite": "637 A.2d 1313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371804,
+        1843159
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1322"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/637/1313-01",
+        "/pa/536/0057-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843159
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0057-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 340",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9422876,
+        163741
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "355",
+          "parenthetical": "plurality"
+        },
+        {
+          "page": "356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/795/0340-01",
+        "/pa/568/0182-01"
+      ]
+    },
+    {
+      "cite": "568 Pa. 182",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        163741
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/568/0182-01"
+      ]
+    },
+    {
+      "cite": "811 A.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9314433,
+        1070125
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/811/0530-01",
+        "/pa/571/0001-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070125
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0001-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9145624,
+        1100688
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "37",
+          "parenthetical": "failure to object results in appellate waiver"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/860/0031-01",
+        "/pa/580/0183-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100688
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "failure to object results in appellate waiver"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0183-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988556,
+        8937709
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0011-01",
+        "/a2d/880/0597-01"
+      ]
+    },
+    {
+      "cite": "826 A.2d 831",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9111753,
+        197189
+      ],
+      "weight": 5,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "853-55"
+        },
+        {
+          "page": "852"
+        },
+        {
+          "page": "851-53",
+          "parenthetical": "proposed penalty phase testimony by victim's mother, concerning her personal opposition to the death penalty, was not relevant mitigation evidence, as it had no bearing on defendant's character, prior record, or circumstances of the event"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/826/0831-01",
+        "/pa/573/0426-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 426",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197189
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "proposed penalty phase testimony by victim's mother, concerning her personal opposition to the death penalty, was not relevant mitigation evidence, as it had no bearing on defendant's character, prior record, or circumstances of the event"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0426-01"
+      ]
+    },
+    {
+      "cite": "472 Pa. 259",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1727744
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/472/0259-01"
+      ]
+    },
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "overruling Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977)"
+        },
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "overruling Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "152 L.Ed.2d 355",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 S.Ct. 1360",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "535 U.S. 955",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        352835,
+        355046,
+        352614,
+        353993,
+        353450,
+        352395,
+        352267,
+        353486,
+        354293,
+        354070,
+        351862,
+        351707,
+        352316,
+        355229
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0955-01",
+        "/us/535/0955-13",
+        "/us/535/0955-05",
+        "/us/535/0955-09",
+        "/us/535/0955-04",
+        "/us/535/0955-12",
+        "/us/535/0955-11",
+        "/us/535/0955-03",
+        "/us/535/0955-10",
+        "/us/535/0955-06",
+        "/us/535/0955-07",
+        "/us/535/0955-02",
+        "/us/535/0955-14",
+        "/us/535/0955-08"
+      ]
+    },
+    {
+      "cite": "773 A.2d 131",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        124739,
+        11088900
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0289-01",
+        "/a2d/773/0131-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124739
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0289-01"
+      ]
+    },
+    {
+      "cite": "759 A.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1366970,
+        11235770,
+        11235819,
+        1366976
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0268-01",
+        "/a2d/759/1280-01",
+        "/a2d/759/1280-02",
+        "/pa/563/0269-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366976
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0269-01"
+      ]
+    },
+    {
+      "cite": "757 A.2d 859",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11243658,
+        1366900
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "864"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/757/0859-01",
+        "/pa/563/0001-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366900
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0001-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108680,
+        9108745,
+        197235,
+        197204,
+        197206,
+        9108637
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/827/0385-02",
+        "/a2d/827/0385-03",
+        "/pa/573/0531-01",
+        "/pa/573/0532-02",
+        "/pa/573/0532-01",
+        "/a2d/827/0385-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197204,
+        197206
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/573/0532-02",
+        "/pa/573/0532-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    },
+    {
+      "cite": "861 A.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9190888,
+        1100751
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "918",
+          "parenthetical": "\"The demeanor of a defendant, including his apparent remorse, is a proper factor to be considered by a jury in the sentencing phase of a capital case.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/861/0898-01",
+        "/pa/580/0403-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 403",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100751
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The demeanor of a defendant, including his apparent remorse, is a proper factor to be considered by a jury in the sentencing phase of a capital case.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/580/0403-01"
+      ]
+    },
+    {
+      "cite": "637 A.2d 1313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371804,
+        1843159
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1322"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/637/1313-01",
+        "/pa/536/0057-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843159
+      ],
+      "year": 1993,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/536/0057-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1840,
+    "char_count": 56773,
+    "ocr_confidence": 0.65,
+    "pagerank": {
+      "raw": 3.3899471923743526e-07,
+      "percentile": 0.876862512061514
+    },
+    "sha256": "2d2a2891b7936cdb8791b6d8fd8081c17b36fec126b09f7d534eef7a55ee6eea",
+    "simhash": "1:12c7197e166b9b58",
+    "word_count": 8999
+  },
+  "last_updated": "2024-02-27T19:42:10.084196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CAPPY, C.J., CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ.",
+      "Chief Justice CAPPY, Justice NEWMAN and Justice BAER are with the opinion.",
+      "Justice EAKIN did not participate in the consideration or decision of this case.",
+      "Justice SAYLOR joins Parts I, II and IV of the opinion and concurs in the result with respect to Part III.",
+      "Justice NIGRO files a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Landon D. MAY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice CASTILLE.\nThis is a direct appeal from two sentences of death imposed by the Lancaster County Court of Common Pleas. On November 27, 2002, following a capital jury trial, appellant was convicted of two counts of first degree murder, two counts of burglary, two counts of conspiracy, and one count of involuntary deviate sexual intercourse. The convictions arose from the burglary of the residence of Lloyd and Beverly Good, and the subsequent murders of Terry and Lucy Smith.\nAt the penalty phase, with regard to the murder of Terry Smith, the jury found three aggravating circumstances: the killing was committed during the perpetration of a felony (burglary), appellant had been convicted of another murder at the time of the current offense (multiple murders), and the offense was committed by means of torture. The jury also found two mitigating circumstances: appellant had no significant history of prior criminal convictions, and \u201cany other evidence of mitigation concerning the character and record of the defendant and the circumstances of the defendant\u2019s offense\u201d (the \u201ccatchall\u201d mitigator). With regard to the murder of Lucy Smith, the jury found two aggravating circumstances: the killing was committed during the course of a felony (burglary and involuntary deviate sexual intercourse), and appellant was convicted of another murder at the time of the current offense (multiple murders). The jury also found the same two mitigating circumstances it had found in relation to Terry Smith\u2019s murder: i. e., no significant history of prior criminal convictions, and the catchall mitigator.\nThe jury determined that, for each of appellant\u2019s murders, the aggravating circumstances outweighed the mitigating circumstances, and accordingly, it returned two sentences of death against appellant. On January 9, 2003, the trial court formally imposed the two death sentences as well as an aggregate term of 60 to 120 years of imprisonment on the related charges. No post-sentence motions were filed.\nAppellant filed notice of direct appeal to this Court on January 15, 2003. Appellant filed a statement of matters complained of on appeal, pursuant to Pa.R.A.P. 1925(b), to which the Commonwealth responded. On July 17, 2003, pursuant to Pa.R.A.P. 1925(a), the trial court filed an opinion addressing the claims raised by appellant on appeal. For the reasons set forth below, we affirm the verdict and the sentences of death.\nI. Sufficiency of the Evidence\nWe begin, as we do in all death penalty direct appeals, by independently reviewing the evidence to ensure that it is sufficient to support the first-degree murder convictions. Commonwealth v. Zettlemoyer, 500 Pa. 16, 454 A.2d 937, 942 n. 3 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983). We do so notwithstanding that appellant does not challenge the sufficiency of the evidence. Commonwealth v. Freeman, 573 Pa. 532, 827 A.2d 385, 402 (2003). When reviewing the sufficiency of the evidence, this Court must determine whether the evidence at trial, and all reasonable inferences derived therefrom, when viewed in the light most favorable to the Commonwealth as verdict winner, are sufficient to establish all elements of the offense beyond a reasonable doubt. Commonwealth v. Bridges, 563 Pa. 1, 757 A.2d 859, 864 (2000). A person is guilty of first-degree murder where the Commonwealth proves that: (1) a human being was unlawfully killed; (2) the person accused is responsible for the killing; and (3) the accused acted with specific intent to Mil. 18 Pa.C.S. \u00a7 2502(d); Commonwealth v. Spotz, 563 Pa. 269, 759 A.2d 1280, 1283 (2000). An intentional Mlling is a \u201cMilling by means of poison, or by lying in wait, or by any other Mnd of willful, deliberate and premeditated Mlling.\u201d 18 Pa.C.S. \u00a7 2502(d). The Commonwealth may establish that a defendant intentionally Mlled another solely by circumstantial evidence, and the fact finder may infer that the defendant intended to Mil a victim based on the defendant\u2019s use of a deadly weapon on a vital part of the victim\u2019s body. Commonwealth v. Rivera, 565 Pa. 289, 773 A.2d 131, 135 (2001), cert. denied, 535 U.S. 955, 122 S.Ct. 1360, 152 L.Ed.2d 355 (2002).\nThe evidence adduced at trial established the following facts. On Saturday, September 1, 2001, appellant, along with Steven Estes, Raymond Navarro Perez, and Michael Bourgeois, drove to the home of Lloyd and Beverly Good in Lititz, Lancaster County, Pennsylvania, intending to commit a burglary while the Good family was absent on vacation. In furtherance of the agreement, the perpetrators gained entrance through a side garage door and ransacked the home. They stole a 1996 green Chevrolet Suburban and a 1996 silver Saturn sedan, both of which had been parked in the garage. They also stole a number of weapons: a .22 caliber revolver, a .32-20 caliber revolver, a Marlin 12 gauge bolt action shotgun, an Ithaca 12 gauge pump shotgun, a 30-06 Remington rifle, a Browning 300 Winchester Magnum rifle, two boxes of 300 shells, three boxes of 30-06 shells, two blocks of .22 shells, assorted hunting knives, a Jennings \u201cBuckmaster\u201d compound bow, a Jennings \u201cBear\u201d bow, two 10-pump BB guns, and one one-pump BB gun. Cash and other assorted household and personal items were also stolen, including dishes and a taxidermist mounted fox.\nThe burglary was discovered by the Good family upon returning on Monday, September 3, 2001, at approximately 8:00 a.m. and was reported to police. That same day, the Lancaster City Police recovered the Chevrolet Suburban, which was being driven by Estes. The next day, the Saturn was found abandoned on U.S. Route 222 in Manheim Township, Lancaster County. Also on that day, the Good residence was processed for latent fingerprints. Several prints were lifted, one of which matched fingerprints on file for Bourgeois. On September 5, 2001, police made unsuccessful efforts to locate Bourgeois at the residence of his mother, Lucy Smith, and her husband, Terry Smith, in Ephrata. That evening the Smiths went to 109 South 11th Street, Akron, which was leased to Drenea Rodriguez, to visit Bourgeois, who had moved out of the Smith home approximately two months earlier to live with Rodriguez, with whom he was romantically involved. During their visit, the Smiths informed Bourgeois that the State Police were seeking his whereabouts.\nOn September 6, 2001, at approximately 10:00 a.m., the Ephrata Borough Police Department received a telephone call from Diane Lamm, an employee of Terry Smith. Ms. Lamm advised the police that Terry Smith had not come to work during the morning hours that day, that she had not heard from him and that he usually reported to work in a reliable and consistent manner. Ms. Lamm reported that Lucy Smith was also not at work as an elementary school principal, which was unusual. Detective David Shupp and Officer Douglas Heilman responded to the Smith residence at approximately 10:30 a.m. and attempted to gain the attention of residents inside by knocking on the door and ringing the doorbell. They found the front door locked, but discovered that the rear sliding door was unlocked. Detective Shupp then checked in with his office and learned that Bourgeois was the son of Lucy Smith, that his fingerprint had been discovered at the scene of the Good burglary, and that firearms had been stolen from the house. Detective Shupp then requested additional assistance and was joined by Detective Ballinger and Sergeant Kurtz of the Ephrata Borough Police Department, and Officer Diane Houston from the Ephrata Township Police Department.\nAt approximately 10:55 a.m., the officers entered the residence through the unlocked sliding door and did a quick sweep of the first floor, finding nothing unusual. Officer Heilman and Detective Shupp went upstairs and entered the master bedroom, where it was obvious that a struggle had taken place. They observed blood spatters on the mattress and wall and what appeared to be a body wrapped in a comforter on the floor in a pool of blood. This body was later identified as Lucy Smith. She had been severely assaulted on the left side of her head and shot in the head. Sergeant Kurtz located another body wrapped in bedding in a front bedroom, which was later identified as Terry Smith. This bedroom also showed signs of a struggle and Terry Smith had been stabbed repeatedly and shot multiple times in the head.\nIn the late morning hours of September 6, 2001, Corporal Raymond Guth of the Pennsylvania State Police and Detective Shupp went to the Rodriguez residence to interview Bourgeois regarding the Good burglary. Bourgeois admitted that he and Perez had committed the burglary. Bourgeois also stated that Perez had told him that the items taken from the Good residence were stored at Perez\u2019s residence on Plum Street in Lancaster City. Bourgeois was subsequently arrested on the burglary charge. Detective \u2019 Brad Ortenzi of the Ephrata Police Department and Detective Sergeant Edward Tobin of the Warwick Township Police Department remained at Rodriguez\u2019s residence to interview her. During that discussion, which took place on the front porch, appellant May came downstairs and Rodriguez introduced him to the detectives. Appellant agreed to talk to the detectives after they finished their conversation with Rodriguez. At about 3:30 p.m., the detectives began asking appellant about the whereabouts of Bourgeois over the days leading up to September 6, 2001. Upon request by Rodriguez, the detectives left the front porch and they asked appellant if he would accompany them to the police station. Appellant agreed.\nDuring the conversation at the police station, appellant admitted to the detectives that he was involved in the Good burglary. Near the end of the interview, the detectives informed appellant that Bourgeois\u2019 parents, Terry and Lucy Smith, were found dead, and asked if appellant had any involvement in their deaths. In response, appellant said that he wanted to talk to an attorney. The interview was concluded and appellant was driven back to the Rodriguez home. Approximately 50 minutes later, at 7:40 p.m. on September 6, 2001, Detectives Ortenzi and Tobin returned to the Rodriguez residence to arrest appellant for the Good burglary. The detectives were told that appellant could be found at his girlfriend\u2019s residence. They then proceeded to 916 Main Street, Akron, and arrested appellant. Appellant was advised of his Miranda rights by Detective Tobin and was placed in the police cruiser. Appellant then initiated a conversation with the detectives and expressed a willingness to answer questions.\nAfter arriving at the Ephrata Borough Police Station, appellant reviewed and signed a document confirming that he wanted to speak to the police, acknowledging that he had asked for an attorney several hours earlier, and confirming that he initiated a new discussion. Appellant was then given Miranda warnings again, which he acknowledged in writing. Appellant then gave a statement to Detectives Ortenzi and Tobin in which he confessed to participation in the killings of Terry and Lucy Smith. Appellant stated, inter alia, that he had worn rubber gloves to the Smith residence and that Bourgeois did not, and that he was wearing jeans and a tee shirt which he had subsequently placed in the Rodriguez house. Appellant also admitted to police that during the assaults on Terry and Lucy Smith, he went downstairs to get knives from the kitchen, and he used a knife to cut Lucy Smith\u2019s throat and shot her once.\nThe police obtained a search warrant for the Rodriguez home later the same night and executed it immediately. The clothing worn by Bourgeois and appellant during the murders was found in a dark green plastic garbage bag in the laundry room along with three bloody knives, a bloody claw hammer, Terry Smith\u2019s wallet, a purse with a cell phone, papers and cards belonging to Terry and Lucy Smith, a key ring, a roll of duct tape, five .22 caliber spent casings, a chocolate box full of personal items belonging to Terry and Lucy Smith including credit cards, and other items taken from the Smith residence. Money taken from the Smith home was found in a cigarette box in a gold watering can in the kitchen. During the search, the police also observed in plain view items known to them to be stolen from the Good burglary, including the stuffed and mounted fox and a canvas bag with the name \u201cGood\u201d embroidered on one side. Sergeant Larry Martin of the East Cocalico Township Police Department searched the attic and found several of the weapons stolen from the Good residence, along with ammunition and hunting supplies. The .22 caliber and .32 caliber revolvers used in the murder were not found during the search.\nAfter the officers left, Rodriguez enlisted the help of her two teenage daughters and two young men to remove the two firearms from the residence and to dispose of them. On September 8, 2001, after a tip about suspicious activity by three juveniles, police recovered the .32 caliber Colt handgun from a dumpster located in Akron, approximately one-half mile from the Rodriguez residence. It had been wrapped in plastic wrap, placed inside a Pizza Hut bread sticks box, and taped shut with masking tape. On September 26, 2001, Detective Shupp, with the cooperation of the two male juveniles recruited by Rodriguez, recovered the .22 caliber revolver which had been buried in a cornfield in Akron.\nAutopsies of the bodies of Terry and Lucy Smith were performed on September 7, 2001, by Wayne Ross, M.D., the Lancaster County forensic pathologist. At trial, Dr. Ross testified that Terry Smith was stabbed 47 times, his neck was cut at least five times, he was shot \u201cexecution-style\u201d five times, and he was strangled or asphyxiated. There were no defensive wounds on Terry Smith. The evidence established that Terry Smith was tortured before being killed. During the autopsy of Lucy Smith, Dr. Ross obtained swabbings from her mouth, which were examined and found to contain semen matching a sample of appellant\u2019s blood. Dr. Ross testified that Lucy Smith was cut 51 times, shot in the head, beaten on the left side of her head with a claw hammer, suffered blunt force trauma to her forehead, and was eventually smothered to death. She also suffered defensive wounds to her hands and arms.\nOther scientific testing indicated that the blood discovered on the latex gloves and the DNA on the pants and tee shirt appellant was wearing at the time of the murders, both confiscated from the Rodriguez residence, were Lucy Smith\u2019s. Lucy Smith\u2019s blood was also found on the 13-1/2\" knife recovered from the Rodriguez home. Appellant\u2019s left thumb print was on the back of Terry Smith\u2019s Ephrata rec card, also recovered from the Rodriguez home. Additionally, the .22 caliber casings recovered from the Rodriguez home were traced to one of the firearms stolen from the Good residence.\nThis evidence, and all reasonable inferences derived therefrom, when viewed in the light most favorable to the Commonwealth as verdict winner, supports appellant\u2019s first-degree murder convictions. The evidence was sufficient to permit the jury to conclude, beyond a reasonable doubt, that appellant intentionally, deliberately, and with premeditation participated in the murders of Terry and Lucy Smith. These victims were unlawfully killed; appellant actively participated in the killings; and that active participation, combined with the fact that the victims were assaulted with deadly weapons on vital parts of their bodies, was sufficient to permit the jury to find that appellant harbored a specific intent to kill. Even if appellant did not inflict the specific injuries which caused each of the Smiths\u2019 deaths, the evidence proved that he clearly shared that intent with his accomplice, Bourgeois. Additional evidence of appellant\u2019s specific intent to kill included the statements he made to police. There was also substantial evidence of premeditation and motive. Several witnesses testified regarding the \u201cbrotherhood\u201d formed between appellant, Estes, Bourgeois, and Rodriguez. One of appellant\u2019s co-conspirators, Estes, testified about three conversations he participated in at the Rodriguez residence in which the robbery and murder of Terry and Lucy Smith were discussed between appellant, Rodriguez and Bourgeois. Estes\u2019 girlfriend, Rosanna Sheaffer, also testified that following the burglary of the Good residence and the arrest of Estes in the stolen vehicle, she and appellant had a conversation during which appellant told Sheaffer that Estes was a part of their brotherhood and that they were not complete without him. Appellant stated that the group needed money to bail him out, showed Sheaffer a loaded gun, and said they were going to shoot the Smiths.\nAccordingly, the evidence was sufficient to sustain appellant\u2019s convictions for murder in the first degree.\nII. Ineffective Assistance of Counsel\nAppellant raises three claims, all deriving from events at trial, but as to which no contemporaneous objection was raised. Apparently recognizing the resulting waiver of these claims, appellant, who is represented by new counsel upon appeal, alleges the ineffective assistance of his trial counsel. Specifically, appellant alleges that trial counsel was ineffective for failing to object to: (1) the improper bolstering of Commonwealth witnesses during the guilt phase; (2) the Commonwealth\u2019s misstatement of the law on the mitigating circumstance of age during the penalty phase; and (3) the trial court\u2019s improper instruction to the jury, during the penalty phase, that United States Supreme Court precedent was relevant in determining whether age was a mitigating factor.\nThis Court has abrogated the procedural rule requiring new counsel to raise claims of previous counsel\u2019s ineffectiveness at the first opportunity after new counsel is appointed. Commonwealth v. Grant, 572 Pa. 48, 813 A.2d 726 (2002) (overruling Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977)). In Grant, this Court announced a new general rule providing that a defendant \u201cshould wait to raise claims of ineffective assistance of trial counsel until collateral review.\u201d 813 A.2d at 738. We also held that the new rule applies retroactively to \u201cany other cases on direct appeal where the issue of ineffectiveness was properly raised and preserved.\u201d Id. In Commonwealth v. Bomar, 573 Pa. 426, 826 A.2d 831 (2003), this Court recognized a limited exception to Grant. Bomar was litigated under the Hubbard rule. Bomar\u2019s trial counsel withdrew from the case after sentencing, and new counsel entered the matter and filed post-sentence motions, raising claims of ineffective assistance of counsel. The trial court conducted hearings at which counsel testified, and later wrote an opinion addressing the merits of the claims. In such a circumstance, the concerns which powered the rule in Grant were not implicated; accordingly, Bomar held, this Court would also pass upon the merits of the claims on direct review. Id. at 853-55; see also Commonwealth v. O\u2019Berg, 880 A.2d 597 (Pa.2005) (discussing Bomar). Appellant argues that his three claims fall under the Bomar exception, and are reviewable now. We disagree.\nIn its Pa.R.A.P. 1925(a) opinion, the trial court found that these claims should be dismissed without prejudice to appellant\u2019s right to pursue them under the Post Conviction Relief Act (\u201cPCRA\u201d), 42 Pa.C.S. \u00a7 9541, et seq. The trial court nevertheless addressed the underlying merits of each of these claims, which appellant had raised in his Rule 1925(b) statement as separate issues of prosecutorial misconduct and trial court error, and determined that each was meritless. To the extent the claims would sound in trial court error, they are waived due to the absence of contemporaneous objections. See Pa.R.A.P. 302(a); Commonwealth v. Dougherty, 580 Pa. 183, 860 A.2d 31, 37 (2004) (failure to object results in appellate waiver). The claims are not defaulted to the extent they sound in ineffective assistance; however, the Bomar exception to Grant does not apply so as to make the claims reviewable on this direct appeal. The claims were not raised when the matter was within the jurisdiction of the trial court and, as a consequence, the court did not hold an evidentiary hearing at which trial counsel testified. Moreover, there is no reason to believe that the record-based challenges here exhaust the universe of claims respecting trial counsel\u2019s performance, both record-based and non-record-based, which might be pursued in the fuller procedural time-frame made available for PCRA review. Entertaining these claims now would likely involve piecemeal review and would generate the future complication of requiring appellant to \u201clayer\u201d additional claims of ineffectiveness upon PCRA review. Accordingly, to facilitate a more appropriate and complete review of appellant\u2019s collateral claims, we dismiss the instant claims of ineffective assistance of trial counsel without prejudice to appellant\u2019s right to pursue those claims in a petition filed pursuant to the PCRA.\nIII. Penalty Phase Claims\nAppellant raises two penalty phase claims, aspects of which trial counsel preserved by making timely objections. Appellant first contends that the trial court abused its discretion in ruling that the Commonwealth could use hearsay evidence to prove his prior bad acts, including armed robberies and a shooting, in order to impeach Dr. Neil H. Blumberg, a forensic psychiatrist who testified for the defense. The background for this claim is as follows: The defense suggested that Dr. Blumberg would testify to the existence of three mitigating factors: (1) that appellant was under the influence of an extreme mental or emotional disturbance at the time of the murder; (2) that appellant\u2019s ability to appreciate the criminality of his conduct and his ability to conform his conduct to the requirements of the law were substantially impaired; and (3) that appellant\u2019s family background reflected circumstances that could be considered mitigating. Dr. Blumberg\u2019s testimony would have concluded that, in his opinion, at the time of the murders appellant was suffering from: (1) cocaine intoxication; (2) alcohol intoxication; (3) polysubstance abuse; (4) bipolar disorder not otherwise specified; (5) cognitive disorder not otherwise specified; (6) attention deficit/hyperactivity disorder, combined type; and (7) borderline personality disorder with antisocial features. This proposed testimony concerning appellant\u2019s mental state was based in part upon Dr. Blumberg\u2019s interview of appellant, an interview during which appellant stated that he had not committed any acts of violence within the two-week period before the murders.\nBefore Dr. Blumberg testified, the defense made an oral motion in limine to preclude the Commonwealth from cross-examining him about appellant\u2019s alleged criminal conduct in the two weeks before the murders. Specifically, the defense moved to exclude alleged statements made by appellant, which were contained in a police report, as well as statements by Estes, Sheaffer and Pam Shirk, all indicating that appellant had committed, or claimed that he had committed, several armed robberies and a shooting within that time period. The Commonwealth argued that it should be permitted to cross-examine Dr. Blumberg in relation to these violent acts in order to demonstrate that appellant had lied to Dr. Blumberg and that, in turn, the doctor\u2019s diagnoses were suspect because they were based upon the faulty factual basis that appellant had provided. The trial court ruled upon the issue as follows:\nI don\u2019t think there\u2019s any question that the factual basis for the expert\u2019s opinion is subject to cross examination. If that\u2019s what he wrote in his report, that\u2019s what he wrote in his report. The report reflects accurately what he learned from the defendant. And I think the Commonwealth is entitled to explore that with this witness. I don\u2019t think there is any doubt about that. That\u2019s basic cross examination of an expert opinion.... The opinion is only as good [as] the facts on which it\u2019s based----So I just don\u2019t think there\u2019s any way that you can avoid his being cross-examined.\n* * * *\nIf you want to keep it out, you have to think about whether you want to call this witness. That really is the terrible choice that you have. I will instruct the jury that the evidence of prior bad acts doesn\u2019t go to whether he is a person of bad character. That they\u2019re to consider that testimony on the basis\u2014on the topic of the reliability of the opinion expressed by this witness.\nN.T. Sentencing, at 282-83. In response to the trial court\u2019s ruling, defense counsel decided not to pursue any personal opinion from Dr. Blumberg that depended upon the impressions he formed during his interviews with appellant. Instead, the doctor explained what the reports of previous psychiatric evaluations of appellant had revealed, concerning his mental state.\nAppellant acknowledges that prior bad acts evidence may be admissible for some relevant purpose other than to show criminal propensity or bad character. See Pa.R.E. 404(b)(2) (\u201cEvidence of other crimes, wrongs, or acts may be admitted for other purposes.... \u201d). Appellant also acknowledges that one such relevant purpose is to impeach an expert witness. Appellant argues, however, that a witness may not be impeached based upon mere hearsay, unless the hearsay consists of prior inconsistent statements made by that very witness. Appellant argues that his own statements, as memorialized in Corporal Guth\u2019s report, were a police officer\u2019s written account of what appellant said, a classic example of double hearsay; and that his interview with Corporal Guth was obtained in violation of his Fifth Amendment right to counsel. Appellant then argues that Estes\u2019 statements, concerning the shooting, which are found in Detective Shupp\u2019s police report, were also double hearsay; that Sheaffer merely told Detective Shupp what Estes had told her, which amounts to triple hearsay; and that Shirk\u2019s statement to police does not appear to provide any evidence of appellant\u2019s prior bad acts. Since none of the evidence which might have served as a basis to impeach the doctor\u2019s testimony was admissible, nor did the evidence consist of actual prior inconsistent statements offered by the doctor, appellant argues, the trial court\u2019s ruling was erroneous. Appellant also argues that the trial court\u2019s denial of his motion deprived him of his right to confront witnesses against him; and the ruling particularly prejudiced him because it served to deprive the jury of evidence concerning appellant\u2019s family history, his diagnoses of mental disorders, and an expert opinion that additional mitigating circumstances were present.\nThe Commonwealth responds that the trial court properly ruled that the factual basis for the expert\u2019s opinion was subject to cross-examination and that the Commonwealth was entitled to test the reliability of Dr. Blumberg\u2019s proffered expert conclusions. The Commonwealth notes that the trial court\u2019s ruling was limited to permitting such cross-examination only if the expert\u2019s testimony and diagnosis were based on appellant\u2019s statements to Dr. Blumberg that he had not been involved in any other violent criminal activity in the two weeks preceding the murders. The Commonwealth notes that it is for the jury to assess the credibility of evidence and that it is entitled to challenge the veracity of evidence proffered by the defense.\nWith respect to appellant\u2019s hearsay argument, the Commonwealth submits that the proffered cross-examination did not involve hearsay because the prosecutor\u2019s questions to Dr. Blumberg would not have been testimony and, in any event, the purpose of the cross-examination would have been to challenge the facts upon which Dr. Blumberg had based his diagnosis, not to prove the truth of the statements which suggested that appellant had committed other violent criminal acts. Even assuming that the proffered cross-examination could be deemed testimony offered for its truth, the Commonwealth argues that appellant\u2019s inculpatory statements respecting the other crimes, as made to police and to others, were admissible as admissions of a party, pursuant to Pa.R.E. 803(25).\nIn response to appellant\u2019s claim that his right to confront the witnesses against him was violated by the court\u2019s ruling, the Commonwealth argues waiver because appellant did not raise that objection at trial or in post-sentence motions and, in the alternative, that appellant\u2019s right to confrontation was never implicated because, as a result of defense counsel\u2019s strategic response to the trial court\u2019s ruling, the Commonwealth never pursued the relevant line of inquiry. Finally, with respect to appellant\u2019s claim that the trial court precluded him from offering evidence concerning his family background, the Commonwealth again argues waiver due to the absence of objection below, and then notes that, in any event, the trial court never ruled that appellant could not present evidence concerning his family background, including testimony regarding his father. The Commonwealth only asked that the specific crimes committed by appellant\u2019s father not be revealed to the jury, and appellant\u2019s counsel agreed that the specific crimes committed by appellant\u2019s father were irrelevant.\nRulings on the admissibility of evidence, including evidence proffered at the penalty phase of a capital trial, are within the discretion of the trial judge, and such rulings will form no basis for appellate relief absent an abuse of discretion. See Commonwealth v. Reid, 571 Pa. 1, 811 A.2d 530, 550 (2002); see also Commonwealth v. Rice, 568 Pa. 182, 795 A.2d 340, 355 (2002) (plurality) (trial court did not abuse its discretion in ruling that if appellant offered evidence of his good character during penalty phase, then the Commonwealth would be allowed to offer evidence of appellant\u2019s bad character during its rebuttal). We first note that the Commonwealth is correct that appellant\u2019s claim that the trial court\u2019s ruling violated his right to confront witnesses is waived, since this objection was never forwarded at trial. The same is true as to appellant\u2019s claim that he was denied the right to present evidence of his family background, including testimony regarding his father. The absence of contemporaneous objections renders both claims waived. Pa.R.A.P. 302(a).\nThe objection appellant did preserve concerned the trial court\u2019s basic ruling that, if Dr. Blumberg testified to opinions or diagnoses which were based in part on his interviews with appellant, then the Commonwealth could cross-examine the doctor on the factual bases for those opinions, including whether appellant had committed other crimes in the two weeks before the murders. There are various, distinct theoretical aspects to appellant\u2019s objection: first, whether the trial court erred in ruling that the Commonwealth could cross-examine Dr. Blumberg concerning the accuracy of the factual bases for his opinions; second, whether that cross-examination could include references to prior bad acts committed by appellant to rebut evidence that the doctor\u2019s diagnosis assumed that appellant had not committed those acts; and third, whether the good faith basis for the cross-examination, or any necessary proof of the substance of the cross-examination, could be based upon hearsay accounts.\nIn his brief, appellant acknowledges that the Commonwealth could cross-examine Dr. Blumberg concerning the accuracy of the factual assumptions that were the basis for any opinion he might offer on appellant\u2019s mental state, as derived from his interviews with appellant, and that the cross-examination could include references to appellant\u2019s prior bad acts. Appellant argues, however, that the Commonwealth lacked the requisite good faith basis for its cross-examination because that examination would be based upon hearsay accounts reciting appellant\u2019s prior bad acts.\nAt trial, the following exchange, which occurred after the trial court ruled that the expert\u2019s opinion was subject to factual impeachment, represented the only discussion of hearsay in connection with this issue:\n[Prosecutor]: ... This whole basis is impeachment of this doctor that the defendant was not being truthful with him and your opinion is going to be thrown off because he\u2014 because the defendant lied to you.\n[Defense Counsel]: You know, we\u2019re making presumptions here. He is charged with several acts that could be termed violent.\n[Prosecutor]: Yeah.\n[Defense Counsel]: But no one has established that he committed any acts of violence during the course of those acts.\n[Prosecutor]: On redirect you can say he hasn\u2019t been convicted of them if you want I guess.\n[Defense Counsel]: How do you cross-examine with that? Bring in hearsay from reports?\n[Prosecutor]: No. They\u2019re admissions. His statement to the police is admissions. His statement to Pam Shirk saying he shot the guy on the bike is an admission. His statement to Rosanna Sheaffer that he shot the guy on the bike is an admission.\n[Defense Counsel]: So you\u2019re limiting your cross examination of Blumberg to statements that [appellant] himself made about this?\n[Prosecutor]: I think Steve Estes as well. It\u2019s impeachment. I\u2019m not offering it for the truth. It\u2019s all impeachment. Steve Estes says he shot the guy on the bike, too. I don\u2019t have anything written out in the form of exactly what I\u2019m going to say, but I think it\u2019s all relevant. But I\u2019m\u2014 [The Court]: I think we understand what the issue is, and I understand your objection, but I think you have my ruling. Let\u2019s get the jury in here and get started.\nN.T. Sentencing, at 283-85. During this exchange, trial counsel did not affirmatively forward an objection that the cross-examination the court would permit was improper because it would be based upon inadmissible hearsay. Additionally, trial counsel did not affirmatively request a ruling on whether the cross-examination would derive from inadmissible hearsay, and whether that was an independent basis for excluding the cross-examination. It appears, however, that trial counsel may well have been attempting to advance and develop a hearsay objection, and that before this objection was explicitly proffered, the trial court interjected and indicated that it understood the objection, had made its ruling, and wished to proceed with trial. Additionally, it is apparent that trial counsel had solely focused on the Commonwealth\u2019s ability to employ hearsay to cross-examine Dr. Blumberg immediately before the trial court ended the discussion. On such a record, we will deem appellant\u2019s general hearsay objection to have been preserved.\nAs noted by the Commonwealth, appellant\u2019s statements to police, Shirk, and Sheaffer that he had committed crimes in the two weeks prior to the murders would appear to fall within the exception to the hearsay rule pertaining to party admissions. See Pa.R.E. 803(25). Additionally, the record indicates that all of the declarants of these inculpatory statements, other than appellant, testified for the Commonwealth at the guilt and/or penalty phases of trial. Thus, it appears that the Commonwealth possessed the requisite good faith basis for cross-examination of Dr. Blumberg, and had at its disposal admissible statements concerning appellant\u2019s unrelated criminal conduct.\nAppellant\u2019s second penalty phase claim involves the trial court\u2019s ruling that his out-of-court apology to the daughters of one of the victims was inadmissible. The defense proffer in this regard was as follows. Linell and Megan Smith are the daughters of victim Terry Smith. Early in the case, the Smith sisters expressed to the prosecutor\u2019s office that they were strongly opposed to the death penalty. One of the sisters contacted defense counsel before trial because she felt that their opposition to the death penalty was not being considered by the prosecutor. Apparently, counsel then maintained contact with the sisters during the course of the trial, and asked whether they would be willing to meet with appellant. The Smith sisters ultimately agreed and they met with appellant at the Lancaster County Prison after the guilty verdict but before the sentencing hearing. According to counsel, the sisters told him that, during their prison conversation with appellant,\nthe things that he said included various times where he apologized for what occurred, that he was sorry, and they noted shame in\u2014and he had a hard time looking them in the eye and he was ashamed of what he was talking about.\nThere was a question asked by Linell ... if you had three wishes what would they be, and apparently [appellant\u2019s] response was I would take back everything that happened and if I had that then I wouldn\u2019t need another two.\nN.T. Sentencing, at 364-68. Counsel represented that appellant also wrote a three-page \u201capology letter\u201d to the Smith sisters after this meeting. Counsel noted that he had considered whether to recommend that appellant testify, if testimony from the Smith sisters was deemed inadmissible, but ultimately recommended that appellant should not testify.\nCiting Commonwealth v. Young, 536 Pa. 57, 637 A.2d 1313 (1993), the trial court noted that it would exclude the testimony of the Smith sisters because, under Pennsylvania law concerning the hearsay rule, a defendant\u2019s out-of-court statements of remorse and apology are inadmissible. N.T. Sentencing, at 369-70. The court also noted that it would not permit the sisters to testify to their personal opposition to the death penalty. The prosecutor then noted that the reliability of appellant\u2019s out-of-court statements was particularly problematic because of the circumstances\u2014i.e., appellant did not reach out to the family to express remorse, but rather, it was the Smith sisters who were trying to find a way to express their general opposition to the death penalty. N.T. Sentencing, at 370.\nDefense counsel responded by arguing two reasons why, \u201cdespite the appellate case law,\u201d he believed testimony concerning the out-of-court statements was admissible. First, counsel argued that appellant\u2019s statements should be deemed reliable because the Smith sisters \u201chad an opportunity not, only to hear from [appellant] but to look at him and an opportunity to judge his state of mind and the sincerity of his apology and sincerity of his other statements.\u201d Second, counsel argued that the statements were admissible because they were statements \u201cmade by the defendant\u201d which, though not \u201ctechnically\u201d \u201cadmissions,\u201d nevertheless were statements by a \u201cparty to the case\u201d which \u201cindicate[d] a state of mind.\u201d N.T. Sentencing, at 368-71.\nThe prosecutor countered that permitting the Smith sisters to testify to appellant\u2019s out-of court statements would deprive him of a fair opportunity to cross-examine the alleged expression of remorse, whereupon the defense responded that the Commonwealth could instead emphasize the Smith sisters\u2019 personal motives, i.e., their opposition to the death penalty. The Commonwealth noted that such a scenario would merely place before the jury the irrelevancy of the sisters\u2019 views. Following this exchange, the trial court reiterated its ruling that the proffered evidence concerning appellant\u2019s out-of-court expression of remorse was inadmissible. Counsel noted that he needed to talk to his co-counsel about the fact that, in light of the ruling, \u201cno evidence of remorse [is] coming in in this case at this point.\u201d N.T. Sentencing, at 371-72. Counsel also noted that he would have a discussion with appellant about \u201cwhether or not he should testify.\u201d N.T. Sentencing, at 372-73.\nAppellant now claims that testimony relating to his out-of-court apology to the Smith sisters was admissible as a mitigating circumstance which set him apart from other first-degree murderers. Appellant does not argue that the proffered evidence falls under any of the numerous hearsay exceptions recognized in this Commonwealth; instead, he argues that his out-of-court apology was not hearsay at all, because it \u201cwas not offered for its truth (that he was truly sorry), but rather for the mere fact that it occurred.\u201d Brief for Appellant, at 35. In appellant\u2019s view, the expression of remorse, whether sincere or not, has \u201cindependent relevance and significance,\u201d and the jury could have been instructed accordingly. In support of his argument, appellant notes the United States Supreme Court\u2019s general holding that a capital penalty phase jury may not be precluded from considering, as a mitigating factor, any aspect of a defendant\u2019s character or record or any of the circumstances of the offense that the defendant proffers as a basis for a sentence less than death, citing Skipper v. South Carolina, 476 U.S. 1, 106 S.Ct. 1669, 90 L.Ed.2d 1 (1986).\nThe Commonwealth responds that, while a defendant may present relevant mitigation evidence at the sentencing hearing, the jury still has the duty of assessing the credibility of that evidence and the Commonwealth is entitled to challenge its veracity and credibility. The Commonwealth notes that the relevance and veracity of appellant\u2019s alleged expression of remorse depended, not upon what the Smith sisters said, but upon appellant\u2019s credibility\u2014which the Commonwealth would have been precluded from challenging due to appellant\u2019s decision not to testify. The Commonwealth also posits that in excluding the testimony of the Smith sisters, the trial court properly relied upon the factually similar case of Young, which held that out-of-court statements of remorse and apology by a defendant were inadmissible.\nAppellant\u2019s claim is waived because he did not raise his current argument below. As the above description of the proffer and ruling reveal, appellant argued to the trial court that his apology was relevant precisely to show its truth\u2014i. e., to show that he was truly sorry and remorseful. Counsel asked the court to admit appellant\u2019s apology, by way of the Smith sisters\u2019 testimony, based upon the fact that the sisters \u201chad an opportunity not only to hear from him but to look at him and an opportunity to judge his state of mind and the sincerity of his apology and sincerity of his other statements.\u201d N.T. Sentencing, at 371. Appellant now changes his position and argues that his out-of-court apology should have been admitted because it was not hearsay, as it was not offered for its truth. This is a wholly distinct theory, which was not proffered below.\nIn any event, both versions of the claim fail. A capital defendant at the penalty hearing may present relevant evidence in mitigation. 42 Pa.C.S. \u00a7 9711(a)(2); Rice, 795 A.2d at 356. Evidence is relevant to mitigation if it is probative of any of the enumerated mitigating circumstances set forth in 42 Pa.C.S. \u00a7 9711(e), including the \u201ccatchall\u201d provision of subsection (e)(8), which encompasses, \u201c[a]ny other evidence of mitigation concerning the character and record of the defendant and the circumstances of his offense.\u201d This Court has noted that the subsection (e)(8) mitigating circumstance \u201c \u2018obviously mirrors the requirements\u2019 \u201d set forth by the United States Supreme Court in Skipper. Bomar, 826 A.2d at 852 (quoting Commonwealth v. Harris, 572 Pa. 489, 817 A.2d 1033, 1054 (2002)). Skipper required that, \u201cin capital cases, the sentencer may not be precluded from considering, as a mitigating factor, any aspect of a defendant\u2019s character or record and any of the circumstances of the offense that the defendant proffers as a basis for a sentence less than death.\u201d Bomar, 826 A.2d at 851 (citing Skipper, 476 U.S. at 4, 106 S.Ct. 1669). This Court has also recognized that, \u201c[ijmplicit in the fact that the defendant bears the burden of proving mitigating circumstances is the understanding that the jury must assess the credibility of such evidence.\u201d Young, 637 A.2d at 1322 (citing Commonwealth v. Abu-Jamal, 521 Pa. 188, 555 A.2d 846, 858 (1989)). Accordingly, \u201cthe Commonwealth must have the opportunity \u2018to challenge the veracity of facts asserted and the credibility of the person asserting those facts, whether that person is a witness or the defendant.\u2019 \u201d Young, 637 A.2d at 1322. This challenge is customarily accomplished through cross-examination.\nGiven the broad standard governing what qualifies as mitigation evidence, we have no doubt that a defendant\u2019s testimonial expression of remorse at the penalty phase could be deemed relevant to his character. However, the question here is whether the out-of-court expression of remorse appellant proffered is admissible against a hearsay challenge; plainly, we think, it was not. Hearsay is \u201ca statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.\u201d Pa.R.E. 801(c); Commonwealth v. McCrae, 574 Pa. 594, 832 A.2d 1026, 1034 (2003). Rule 802 provides that, \u201c[hjearsay is not admissible except as provided by these rules [the Rules of Evidence], other rules prescribed by the Pennsylvania Supreme Court, or by statute.\u201d McCrae, 832 A.2d at 1034. Appellant\u2019s alleged apology to the victim\u2019s daughters was not relevant if it was not offered for its truth. Testimony by the victim\u2019s daughters as to appellant\u2019s apology clearly would have constituted hearsay.\nThe case sub judice is very similar to Young, in which the defendant also declined to testify on his own behalf during the penalty phase. In an attempt to present evidence of his remorse, the defendant there sought to introduce letters he had written to a member of a religious order concerning his case, but the trial court ruled that the letters were inadmissible hearsay. On appeal, this Court held that the trial court properly excluded the letters because the Commonwealth could not cross-examine the defendant regarding their content. This Court specifically noted that \u201cto allow the letters into evidence would have been tantamount to granting [the defendant] the right of allocution ... [which right] has been abrogated and replaced by the statutory law which specifies procedures for sentencing for first-degree murder.\u201d Id. at 1322. The fact that the evidence here would have been admitted through testimony, whereas the evidence in Young would have been admitted through letters, makes no relevant difference. Both constitute hearsay. In both circumstances, the defendants attempted to present favorable evidence while denying the Commonwealth an opportunity to challenge the statements through cross-examination. The trial court did not abuse its discretion and properly excluded the testimony of the victim\u2019s daughters.\nIV. Statutory Review\nFinally, pursuant to the Sentencing Code, this Court is required to conduct a statutory review of the death sentences and must affirm those sentences unless we determine that:\n(i) the sentence of death was the product of passion, prejudice, or any other arbitrary factor; or (ii) the evidence fails to support the findings of at least one aggravating circumstance specified in subsection (d).\n42 Pa.C.S. \u00a7 9711(h)(3). The jury unanimously found three statutory aggravating circumstances as to the murder of Terry Smith\u2014ie., that the killing was committed during the perpetration of a felony (burglary); appellant had been convicted of another murder at the time of the current offense; and the offense was committed by means of torture, and two statutory aggravating circumstances as to the murder of Lucy Smith\u2014ie., the killing was committed during the course of a felony (burglary and involuntary deviate sexual intercourse); and appellant was convicted of another murder at the time of the current offense. The evidence amply demonstrated that appellant committed two murders, of which he was convicted, during the perpetration and commission of a burglary and involuntary deviate sexual intercourse, and that the murder of Terry Smith was committed by means of torture. Thus, the evidence clearly was sufficient to support the jury\u2019s finding of the aggravating circumstances. Furthermore, our independent review of the record demonstrates that the jury\u2019s sentence of death, which followed upon a consideration of appellant\u2019s multiple proffered mitigating circumstances, and then a weighing of the aggravators and mitigators actually found, was not the product of passion, prejudice, or any other arbitrary factor, but rather, resulted from the proper discharge of its sentencing function.\nAccordingly, we affirm appellant\u2019s convictions and sentences of death and dismiss appellant\u2019s claims of ineffectiveness of trial counsel without prejudice to appellant\u2019s right to raise those claims on collateral review under the PCRA.\nChief Justice CAPPY, Justice NEWMAN and Justice BAER are with the opinion.\nJustice EAKIN did not participate in the consideration or decision of this case.\nJustice SAYLOR joins Parts I, II and IV of the opinion and concurs in the result with respect to Part III.\nJustice NIGRO files a dissenting opinion.\n. 18 Pa.C.S. \u00a7 2502(a).\n. 18 Pa.C.S. \u00a7 3502(a).\n. 18 Pa.C.S. \u00a7 903(a)(1), (2).\n. 18 Pa.C.S.\u00a7 3123(a)(1), (2).\n. 42 Pa.C.S. \u00a7 9711(d)(6).\n. 42 Pa.C.S. \u00a7 971 l(d)(l 1).\n. 42Pa.C.S. \u00a7 9711(d)(8).\n. 42 Pa.C.S. \u00a7 9711(e)(1).\n. 42 Pa.C.S. \u00a7 9711(e)(8).\n. Our sua sponte review of the sufficiency of the evidence is performed only as to the first degree murder convictions and not with regard to any related convictions. See, e.g., Commonwealth v. Malloy, 579 Pa. 425, 856 A.2d 767, 773 (2004).\n. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).\n. The apparent reason for the torture was to obtain the PIN numbers to Terry Smith\u2019s bank cards, which were stolen and later recovered at the Rodriguez residence. See Trial Court slip. op. at 17-18 (noting that witnesses testified that the Smiths would be bound with duct tape, with the purpose of forcing them to relinquish their ATM card pin numbers, before being killed).\n. Presumably, this was a membership card to the Ephrata Recreation Center.\n. Family background is not a specific mitigating circumstance recognized by the Sentencing Code, but rather would fall within the \"catchall\u201d mitigator provided in 42 Pa.C.S. \u00a7 9711(e)(8). The family background proffer consisted of a history of mental illness in appellant\u2019s family members, supposedly placing appellant at an increased risk of developing such disorders. The evidence also included Dr. Blumberg's conclusion that appellant's Borderline Personality Disorder was caused, in part, by appellant\u2019s knowledge of his father's past, including a capital conviction and death sentence. Appellant's condition allegedly deteriorated after he learned of this information, and it was exacerbated by his stepfather, who would tell him he was going to be just like his father, a killer and in prison. N.T. Sentencing, at 265-270; Court Exhibit # I.\n. The record reveals that appellant admitted to police, Shirk, and Sheaffer that he had committed crimes prior to the Good burglary and the Smith murders. N.T. Sentencing, at 284. The record demonstrates that Estes also told the police about the shooting incident. N.T. Sentencing, at 285. The exhibits attached to appellant\u2019s brief contain appellant\u2019s statements to police that he was driving a truck while Estes reached out the window and shot a man riding a bike. Sheaffer told police that Estes told her that appellant was driving the truck and that Estes was a passenger, when appellant stopped \"to ask an Amish guy on a bike directions.\u201d According to Sheaffer's statement, appellant then shot the man on the bike in the head or neck and possibly ran him over.\n. Brief for Appellant, at 9 (\"Demonstrating that Blumberg relied on faulty information was clearly relevant to impeaching his conclusions.\"); id. at 23 (\"Assuming arguendo that prior bad acts may be admitted for the limited purpose of impeaching an expert's opinion. ...\").\n. After the quoted exchange, the defense made a tactical decision not to pursue the area of inquiry. A side-bar exchange during cross-examination corroborates trial counsel\u2019s deliberate strategy in this regard, as he stated:\nAs the court knows, I have some concern about facts about previous acts of violence getting out and, as a result of that, I made a strategic decision in this case to restrict Dr. Blumberg's testimony to themes that are running through previous psychiatric reports that Dr. Blumberg reviewed. And I restricted his testimony to those reports only and not to any interview he conducted with [appellant].... I did that purposely so we could avoid this line of cross examination, whether [appellant] was lying and opening up the door and bringing in people making statements about what he said.\nN.T. Sentencing, at 320. We offer no view on whether trial counsel made a reasonable strategic decision concerning the scope of Dr. Blumberg\u2019s testimony, as that issue is not before us on this direct appeal.\n. See Commonwealth v. Bomar, 573 Pa. 426, 826 A.2d 831, 851-53 (2003) (proposed penalty phase testimony by victim\u2019s mother, concerning her personal opposition to the death penalty, was not relevant mitigation evidence, as it had no bearing on defendant\u2019s character, prior record, or circumstances of the event).\n. The Prothonotary of this Court is directed to transmit a complete record of this case to the Governor of Pennsylvania, pursuant to 42 Pa.C.S. \u00a7 9711 (i).",
+        "type": "majority",
+        "author": "Justice CASTILLE."
+      },
+      {
+        "text": "Justice NIGRO\ndissenting.\nI respectfully dissent, as I believe that the trial court erred in excluding all of the Smith daughters\u2019 testimony regarding their in-prison meeting with Appellant and would therefore give him a new penalty phase hearing.\nIn addressing Appellant\u2019s claim, the majority limits its analysis to the statement of apology that Appellant made to the daughters during their visit. While I agree with the majority that Appellant\u2019s actual out-of-court apology to the Smith daughters constituted hearsay and was therefore not admissible, I nevertheless believe that the daughters should have been allowed to testify in general terms about their visit with Appellant and that he appeared remorseful during that visit. Clearly, such testimony relating to the fact that the Smith daughters met with Appellant and what they observed first-hand during that meeting should not have been precluded on the basis that it was inadmissible hearsay. Rather, such direct observations were plainly relevant and therefore, as Appellant asserts, should have been admitted to support his contention that the catch-all mitigating circumstance applied to his case. See Commonwealth v. Fletcher, 580 Pa. 403, 861 A.2d 898, 918 (2004) (\u201cThe demeanor of a defendant, including his apparent remorse, is a proper factor to be considered by a jury in the sentencing phase of a capital case.\u201d).\nThis conclusion is actually supported by Commonwealth v. Young, 536 Pa. 57, 637 A.2d 1313 (1993), the case cited to by the majority in support of its conclusion that the daughters\u2019 proposed testimony was inadmissible hearsay. In Young, this Court held that the appellant\u2019s written letters to a nun to whom the appellant had expressed remorse were inadmissible hearsay given that the Commonwealth would not be able to cross-examine the appellant on their content. However, in Young, the nun, unlike the daughters here, was allowed to testify on behalf of the appellant and the Court specifically stated that the nun\u2019s testimony was \u201cin no way restricted, placed evidence of appellant\u2019s character before the jury, and is not now in contention.\u201d Id. at 1322. In fact, the Court made clear that the only issue before it was whether Appellant\u2019s letters to the nun in which he expressed his remorse for the killings should have been admitted into evidence. Thus, while Young does indeed support the trial court\u2019s ruling that Appellant\u2019s out-of-court apology, like the letters in Young, was inadmissible on the basis that it was hearsay, it also supports the conclusion that the daughters here should have been allowed to testify about the fact that they met with Appellant as well as their personal impressions of Appellant\u2019s character and remorsefulness from their meeting with him. As I believe Appellant is entitled to a penalty phase hearing in which the daughters can offer such testimony, I must dissent from the majority\u2019s opinion effectively holding otherwise.",
+        "type": "dissent",
+        "author": "Justice NIGRO"
+      }
+    ],
+    "attorneys": [
+      "Christopher P. Lyden, for Landon Daniel May, appellant.",
+      "Donald R. Totaro, Amy Zapp, Harrisburg, for the Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "887 A.2d 750\nCOMMONWEALTH of Pennsylvania, Appellee, v. Landon D. MAY, Appellant.\nSupreme Court of Pennsylvania.\nArgued May 18, 2004.\nDecided Nov. 23, 2005.\nChristopher P. Lyden, for Landon Daniel May, appellant.\nDonald R. Totaro, Amy Zapp, Harrisburg, for the Com., appellee.\nBEFORE: CAPPY, C.J., CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "0640-01",
+  "first_page_order": 964,
+  "last_page_order": 994
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1031247,
+  "name": "Coe versus Vogdes",
+  "name_abbreviation": "Coe v. Vogdes",
+  "decision_date": "1872-01-29",
+  "docket_number": "",
+  "first_page": "383",
+  "last_page": "386",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "71 Pa. 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wright 146",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Watts 172",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1843946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/5/0172-01"
+      ]
+    },
+    {
+      "cite": "9 W. & S. 36",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12168821
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/9/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 399,
+    "char_count": 8096,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 2.425988028479459e-07,
+      "percentile": 0.8014868820537414
+    },
+    "sha256": "54c0c9465b8237c82d80d37b25f954cb1bbde47b25b90fb19c3f72b8c875806f",
+    "simhash": "1:36ad0ce59188a5fe",
+    "word_count": 1453
+  },
+  "last_updated": "2024-02-27T22:19:31.896699+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Thompson, C. J., Agnew and Sharswood, JJ. Williams, J., at Nisi Prius."
+    ],
+    "parties": [
+      "Coe versus Vogdes."
+    ],
+    "opinions": [
+      {
+        "text": "The opinion of the court was delivered, by\nAgnew, J.\nThe defendants, as sureties, made themselves responsible to J. R. Vogdes for the true and faithful performance of the terms of the lease on part of Mrs. L. E. Wyman. The lease, by its own terms, provided for its continuance from year to year, until legal notice was given for a removal. It is evident, therefore, that if a new year\u2019s tenancy took place by Mrs. Wyman\u2019s holding over without a notice of removal, the sureties became responsible for the rent by the very terms of their contract. Neither the affidavit nor the supplemental affidavit avers a termination of the lease by notice or otherwise; but the supplemental affidavit merely avers that Coe, the deponent, received a note from Mr. Vogdes informing him that Mrs. Wyman was then in arrear for rent, and that he replied that on account of the untenantable condition of the house he would .not he liable for the rent, but that Mrs. Wyman would try to pay him. It then avers that the sum then demanded has been paid by her, and that the rent now sued for has accrued since that notice.\nBut this was clearly insufficient, for by the continuance of Mrs. Wyman in possession, and the renewal of the lease by its own terms, Mrs. Wyman became liable to pay the rent. This was,her contract, and by the terms of the contract of suretyship, the sureties became liable for her faithful performance. Whatever, therefore, might be the power of the sureties, as contended in the argument, to limit their future liability by notice against the renewal of the lease, the affidavit sets forth no such notice, and no termination of the lease in fact. A mere notice by the sureties that they will not be liable, is no defence to their covenant, for it is not in their power to dissolve their contract at their own pleasure. The untenantable condition of the premises is not stated in the affidavit to have been set up by Mrs. Wyman in discharge of the lease, and as the cause of bringing it to an end in fact. If she did not abandon the possession and bring the lease to an end for this cause, the sureties can certainly make no such defence. Whether it would be in her power even to abandon after the commencement of a new term, for this cause, we cannot determine, and it would not be proper for us to do so. The affidavit is therefore insufficient, and the judgment must be affirmed.\nAffirmed.",
+        "type": "majority",
+        "author": "Agnew, J."
+      }
+    ],
+    "attorneys": [
+      "L. Wain Smith, for plaintiff in error.",
+      "J. II. Grendell and H. S. Miller, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Coe versus Vogdes.\n1. A surety became bound for a tenant\u2019s performance of a contract of lease for one year, the rent payable monthly, and if tenant continued after the term, the contract to continue for another year. Held, if the tenant held over the year, the surety was responsible for the subsequent rent.\n2. That the premises were in an untenantable condition was no defence to the surety, the tenant having continued in possession.\n3. The surety being informed by the landlord that the tenant was in arrears, gave him notice that he would not be further liable : the tenant paid the arrears to that time ; this did not discharge the surety from the subsequent rent.\n4. A mere notice by surety that he would not be liable was no defence; he could not dissolve the contract at his pleasure.\nJanuary \u2014 1872.\nBefore Thompson, C. J., Agnew and Sharswood, JJ. Williams, J., at Nisi Prius.\nCertificate from Nisi Prius: No. 33, to January Term 1871.\nOn the 29th of January 1870, Hannah E. Vogdes, devisee of John R. Vogdes, commenced an action of covenant against Benjamin Scott, Jr., and John E. Coe, on an agreement by defendants to be responsible for the performance by- Louisa F. Wyman of the stipulations in a lease to her from John R. Vogdes, dated November 15th 1865. Coe only was served.\nThe lease was for a house for one year from November 15th 1865, at the annual rent of $1800, payable \u201c in monthly portions when due,\u201d with the further stipulations:\u2014\n\u201c That all the personal property on the premises shall be liable to distress, and also all personal property if removed therefrom, shall, for thirty days after such removal, be liable to distress, and may be distrained and sold for rent in arrear; the said L. F. Wyman hereby waiving all right to the benefit of any laws now made, or hereafter to be made, exempting personal property from levy and sale for arrears of rent. * * * That if the above-named L. E. Wyman should continue on the above-described premises after the termination of the above contract, then this contract is to continue in full force for another year, and so on from year to year, until legal notice is given for a removal.\u201d\nThe covenant of the defendants of the same date was :\u2014\n\u201cWe, B. Scott, Jr., and J. E. Coe do hereby agree to be responsible to J. R. Yogdes or his assigns for the true and faithful performance of the above-named contract on the part of Mrs. L. E. Wyman.\u201d\nCoe filed an affidavit of defence:\u2014\n\u201c That Mrs. Wyman took possession, and moved into the said premises, furniture to the value of over $2000. By the waiving of all legal exemption, the whole amount was fully subjected to seizure by the plaintiff for rent, in case the rent should not be paid to plaintiff by the tenant, as agreed upon. That the said furniture remained on said premises, liable to be taken in distress for rent during all the period of said tenancy and during all the time when the rent accrued for which this said suit was brought. That the said Yogdes, knowing that the said rent was due, wilfully and intentionally allowed the said Mrs. Wyman to remove from the said premises all the said furniture, with the intent, your deponent believes, of collecting the said rent from her sureties. That after the said removal and before any notice of these proceedings was given to the deponent, Mrs. Wyman, the tenant, became insolvent. That the said Yogdes allowed the furniture in question to be sold by other subsequent creditors without any prosecution of his claim, and that only after the said insolvency of Mrs. Wyman did he notify the deponent of these proceedings. That in so acting, the plaintiff was guilty of gross laches, and that it amounted to a fraud upon the deponent. That the said contract on which he was security required that the rent should be paid in monthly portions when due, and that he only became surety for said monthly payments. That if liable at all on said contract he is liable only for one monthly portion.\u201d -\nThe defendant, Coe, afterwards filed a supplemental act of defence \u201c That the above suit is brought for rent that accrued in the spring of 1870, and that he was guaranty for the rent of Mrs. Wyman only for one year, from November 15th 1865, and further that no attempt has been made by the plaintiff to collect said rent of Mrs. Wyman. That more than one year ago he received a note from Mr. Yogdes informing him that Mrs. Wyman was then in arrear for rent, and that he replied that on account of the untenantable condition of the house, he would not be liable for the rent, but that Mrs. Wyman would nevertheless try to pay him. That the said sum then demanded has been paid by her, and that the sum now sued for accrued since said notice.\u201d\nThe court, on the 13th of October, entered judgment for the plaintiff for want of a sufficient affidavit of defence.\nThe defendant had the record certified to the court in banc, and assigned for error, the-entry of judgment for the plaintiff.\nL. Wain Smith, for plaintiff in error.\nIf a surety pays all due at the time by the principal, and gives notice that he will no longer be liable, he will be discharged: Gardner v. Ferree, 15 S. & R. 28. Vogdes allowed the tenant\u2019s goods to be removed, thus releasing the security which he had, and thereby discharged her surety: Neff\u2019s Appeal, 9 W. & S. 36; Pitman on Principal and Surety 113, 114; 40 Law Lib. 86; Theobald on Principal and Surety 84, &c.; Commonwealth v. Miller, 8 S. & R. 452.\nJ. II. Grendell and H. S. Miller, for defendants in error.\nA surety is not released by the mere neglect of the creditor: United States v. Simpson, 3 Penna. R. 437; Mundorff v. Singer, 5 Watts 172; Richards v. Commonwealth, 4 Wright 146.\nJanuary 29th 1872,"
+  },
+  "file_name": "0383-01",
+  "first_page_order": 385,
+  "last_page_order": 388
+}

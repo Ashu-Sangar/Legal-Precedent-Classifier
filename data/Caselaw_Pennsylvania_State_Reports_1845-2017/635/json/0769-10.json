@@ -1,0 +1,70 @@
+{
+  "id": 12287019,
+  "name": "Com. v. Edmunds",
+  "name_abbreviation": "Com. v. Edmunds",
+  "decision_date": "2016-05-10",
+  "docket_number": "712 EAL (2015)",
+  "first_page": "769",
+  "last_page": "769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 769"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 647",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 160,
+    "ocr_confidence": 0.752,
+    "sha256": "8e22fdc38d01657ef35b38175ad95c6a0bfa208bab8d6f9d7370f01cfb78a01a",
+    "simhash": "1:9356f996be6fb3c6",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Edmunds"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 647",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Edmunds\n05/10/2016\n712 EAL (2015)\n. Justice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0769-10",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

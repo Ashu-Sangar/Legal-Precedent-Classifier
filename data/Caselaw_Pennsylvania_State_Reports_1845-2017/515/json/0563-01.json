@@ -1,0 +1,94 @@
+{
+  "id": 1806098,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. James E. HUGNEY, Sr., Respondent",
+  "name_abbreviation": "Commonwealth v. Hugney",
+  "decision_date": "1987-10-05",
+  "docket_number": "Petition No. 295 M.D. Alloc. Dkt. 1986",
+  "first_page": "563",
+  "last_page": "564",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "515 Pa. 563"
+    },
+    {
+      "type": "parallel",
+      "cite": "531 A.2d 424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800414
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/512/0349-01"
+      ]
+    },
+    {
+      "cite": "517 A.2d 1364",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 Pa.Super. 634",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 446,
+    "ocr_confidence": 0.707,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06720024989873927
+    },
+    "sha256": "8ec8335e042215fd218e8514eba7573bbcd672311499d3c92ffb225aef235766",
+    "simhash": "1:b90b193360c9b9aa",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T22:38:43.238776+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. James E. HUGNEY, Sr., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPrior report: 361 Pa.Super. 634, 517 A.2d 1364.\nPER CURIAM.\nThe petition for allowance of appeal is granted, the order of the Superior Court is vacated, and this case is remanded to that court for reconsideration in light of our decision in Commonwealth v. Gillespie, 512 Pa. 349, 516 A.2d 1180 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "531 A.2d 424\nCOMMONWEALTH of Pennsylvania, Petitioner, v. James E. HUGNEY, Sr., Respondent.\nSupreme Court of Pennsylvania.\nOct. 5, 1987."
+  },
+  "file_name": "0563-01",
+  "first_page_order": 749,
+  "last_page_order": 750
+}

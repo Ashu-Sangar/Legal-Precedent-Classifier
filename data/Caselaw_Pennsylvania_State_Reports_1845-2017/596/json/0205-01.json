@@ -1,0 +1,96 @@
+{
+  "id": 4088573,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Patrick H. OTTERSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Otterson",
+  "decision_date": "2007-12-28",
+  "docket_number": "Appeal No. 961 MAL 2007",
+  "first_page": "205",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "596 Pa. 205"
+    },
+    {
+      "type": "parallel",
+      "cite": "941 A.2d 1255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "764 A.2d 532",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1276824,
+        11164461
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0086-01",
+        "/a2d/764/0532-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 86",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276824
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0086-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 427,
+    "ocr_confidence": 0.648,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13056224513475495
+    },
+    "sha256": "e0a71d7017d6eb65c67e1795246a84d01ba569e2fb161e08dbf49d9a7d72cd60",
+    "simhash": "1:75136ab480e80c9a",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T18:32:49.754452+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Patrick H. OTTERSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of December, the Petition for Allowance of Appeal is hereby GRANTED, the Order of the Superior Court is VACATED, and the matter is REMANDED to the Superior Court for consideration in light of Commonwealth v. Torres, 564 Pa. 86, 764 A.2d 532 (2001).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "941 A.2d 1255\nCOMMONWEALTH of Pennsylvania, Respondent v. Patrick H. OTTERSON, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 28, 2007."
+  },
+  "file_name": "0205-01",
+  "first_page_order": 263,
+  "last_page_order": 263
+}

@@ -1,0 +1,962 @@
+{
+  "id": 1800487,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Charles E. LUTZ, Appellee",
+  "name_abbreviation": "Commonwealth v. Lutz",
+  "decision_date": "1986-10-17",
+  "docket_number": "No. 59 Western District Appeal Docket, 1985",
+  "first_page": "192",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "512 Pa. 192"
+    },
+    {
+      "type": "parallel",
+      "cite": "516 A.2d 339"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "699 F.2d 989",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1510708
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/699/0989-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 923",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 5146",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "614 F.Supp. 282",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3780956
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/614/0282-01"
+      ]
+    },
+    {
+      "cite": "679 F.2d 698",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        553233
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/679/0698-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 170",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195904
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0170-01"
+      ]
+    },
+    {
+      "cite": "265 U.S. 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137218
+      ],
+      "weight": 3,
+      "year": 1924,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/265/0057-01"
+      ]
+    },
+    {
+      "cite": "25 Pa. Code \u00a7 75.1-75.450",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 657",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "436 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490680
+      ],
+      "weight": 7,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0307-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 921-929",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "406 U.S. 311",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170455
+      ],
+      "weight": 7,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "316"
+        },
+        {
+          "page": "1596"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0311-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12049338
+      ],
+      "weight": 6,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0072-01"
+      ]
+    },
+    {
+      "cite": "30 U.S.C. \u00a7\u00a7 801-962",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 U.S, 594",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313625
+      ],
+      "weight": 15,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "598-99"
+        },
+        {
+          "page": "2537-38"
+        },
+        {
+          "page": "600"
+        },
+        {
+          "page": "2539"
+        },
+        {
+          "page": "606"
+        },
+        {
+          "page": "2542",
+          "parenthetical": "quoted below"
+        },
+        {
+          "page": "606"
+        },
+        {
+          "page": "2542"
+        },
+        {
+          "page": "603"
+        },
+        {
+          "page": "2540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/452/0594-01"
+      ]
+    },
+    {
+      "cite": "387 U.S. 541",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11338972
+      ],
+      "weight": 5,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0541-01"
+      ]
+    },
+    {
+      "cite": "387 U.S. 523",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11338823
+      ],
+      "weight": 4,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0523-01"
+      ]
+    },
+    {
+      "cite": "142 A.2d 14",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa. 45",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279610
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/393/0045-01"
+      ]
+    },
+    {
+      "cite": "106 S.Ct. 1819",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12763
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1825-26",
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0227-01"
+      ]
+    },
+    {
+      "cite": "205 A.2d 89",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 2
+    },
+    {
+      "cite": "416 Pa. 138",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1892979
+      ],
+      "year": 1964,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/416/0138-01"
+      ]
+    },
+    {
+      "cite": "225 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 2
+    },
+    {
+      "cite": "424 Pa. 4",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1904924
+      ],
+      "year": 1967,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/424/0004-01"
+      ]
+    },
+    {
+      "cite": "489 Pa. 547",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1762425
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/489/0547-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 577",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772905
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/496/0577-01"
+      ]
+    },
+    {
+      "cite": "497 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1775347
+      ],
+      "weight": 2,
+      "year": 1981,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/497/0071-01"
+      ]
+    },
+    {
+      "cite": "498 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776311
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/498/0326-01"
+      ]
+    },
+    {
+      "cite": "508 Pa. 576",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794081
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/508/0576-01"
+      ]
+    },
+    {
+      "cite": "43 A.2d 229",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1945,
+      "opinion_index": 2
+    },
+    {
+      "cite": "352 Pa. 504",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        464133
+      ],
+      "year": 1945,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/352/0504-01"
+      ]
+    },
+    {
+      "cite": "97 A.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "opinion_index": 2
+    },
+    {
+      "cite": "374 Pa. 165",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1241456
+      ],
+      "year": 1953,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/374/0165-01"
+      ]
+    },
+    {
+      "cite": "172 A.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 2
+    },
+    {
+      "cite": "405 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1303571
+      ],
+      "year": 1961,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/405/0023-01"
+      ]
+    },
+    {
+      "cite": "198 A.2d 840",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 2
+    },
+    {
+      "cite": "413 Pa. 652",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1888582
+      ],
+      "year": 1964,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/413/0652-01"
+      ]
+    },
+    {
+      "cite": "218 A.2d 261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 2
+    },
+    {
+      "cite": "421 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1900394
+      ],
+      "year": 1966,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/421/0188-01"
+      ]
+    },
+    {
+      "cite": "244 A.2d 741",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 2
+    },
+    {
+      "cite": "431 Pa. 276",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1917384
+      ],
+      "year": 1968,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/431/0276-01"
+      ]
+    },
+    {
+      "cite": "254 A.2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 2
+    },
+    {
+      "cite": "434 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1922561
+      ],
+      "year": 1969,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/434/0408-01"
+      ]
+    },
+    {
+      "cite": "469 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1722165
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/469/0092-01"
+      ]
+    },
+    {
+      "cite": "491 Pa. 255",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1765702
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/491/0255-01"
+      ]
+    },
+    {
+      "cite": "503 Pa. 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785906
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/503/0373-01"
+      ]
+    },
+    {
+      "cite": "507 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1792355
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/507/0001-01"
+      ]
+    },
+    {
+      "cite": "507 A.2d 323",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1796968
+      ],
+      "year": 1986,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/510/0158-02"
+      ]
+    },
+    {
+      "cite": "510 Pa. 158",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796968,
+        1796992
+      ],
+      "year": 1986,
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/510/0158-02",
+        "/pa/510/0158-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 311",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170455
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding validity of warrantless inspections authorized by Gun Control Act"
+        },
+        {
+          "parenthetical": "upholding validity of warrantless inspections authorized by Gun Control Act"
+        },
+        {
+          "parenthetical": "upholding validity of warrantless inspections authorized by Gun Control Act"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/406/0311-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12049338
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding validity of warrantless inspections of businesses in alcoholic beverage industry"
+        },
+        {
+          "parenthetical": "upholding validity of warrantless inspections of businesses in alcoholic beverage industry"
+        },
+        {
+          "parenthetical": "upholding validity of warrantless inspections of businesses in alcoholic beverage industry"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/397/0072-01"
+      ]
+    },
+    {
+      "cite": "509 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1796924,
+        1796956
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "849"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/510/0430-01",
+        "/pa/510/0429-01"
+      ]
+    },
+    {
+      "cite": "515 A.2d 1358",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1800462
+      ],
+      "year": 1986,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/512/0074-02"
+      ]
+    },
+    {
+      "cite": "512 Pa. 74",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800457,
+        1800462
+      ],
+      "year": 1986,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/512/0074-01",
+        "/pa/512/0074-02"
+      ]
+    },
+    {
+      "cite": "496 Pa. 159",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772934
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "166"
+        },
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/496/0159-01"
+      ]
+    },
+    {
+      "cite": "504 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787672
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "247"
+        },
+        {
+          "page": "1340"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/504/0244-01"
+      ]
+    },
+    {
+      "cite": "510 Pa. 430",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796924
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "452"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/510/0430-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 3
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 3
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "year": 1983,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "58-60"
+        },
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490680
+      ],
+      "weight": 3,
+      "year": 1978,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/436/0307-01"
+      ]
+    },
+    {
+      "cite": "452 U.S, 594",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313625
+      ],
+      "weight": 6,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "601"
+        },
+        {
+          "page": "2539"
+        },
+        {
+          "page": "598-99, 601"
+        },
+        {
+          "page": "2538-39",
+          "parenthetical": "citations omitted; emphasis added"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/452/0594-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1625,
+    "char_count": 47198,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 2.3053983016370928e-07,
+      "percentile": 0.787862342553562
+    },
+    "sha256": "7a5227964f11eed3057ef398f88f160d63551f925a7295fff6ee97c913a01ad4",
+    "simhash": "1:f1fb1342dcd93532",
+    "word_count": 7402
+  },
+  "last_updated": "2024-02-27T16:43:27.621968+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NIX, C.J., and LARSEN, FLAHERTY, McDERMOTT, HUTCHINSON, ZAPPALA and PAPADAKOS, JJ.",
+      "FLAHERTY, J., joins in the opinion announcing the judgment of the Court and files a concurring opinion.",
+      "NIX, J., files a concurring opinion.",
+      "LARSEN, J., files a dissenting opinion in which McDERMOTT and PAPADAKOS, JJ., join.",
+      "McDERMOTT and PAPADAKOS, JJ., join this dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. Charles E. LUTZ, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION ANNOUNCING THE JUDGMENT OF THE COURT\nHUTCHINSON, Justice.\nThe Commonwealth directly appeals a Westmoreland County Common Pleas\u2019 order dismissing several criminal charges filed against appellee. He was charged with violating Section 610(7) of the Solid Waste Management Act, Act of July 7, 1980, P.L. 380, No. 97, 35 P.S. \u00a7\u00a7 6018.101-6018.-1003 (Supp.1985) (\u201cAct\u201d), 35 P.S. \u00a7 6018.610(7), obstructing a Department employee, and with obstruction of justice under 18 Pa.C.S. \u00a7 5101.\nIn a pre-trial motion, appellee challenged the validity of the charges on constitutional grounds. He claimed that the warrantless search provisions of the Act were unconstitutional. Common Pleas agreed and dismissed those charges because it believed appellee was entitled to prevent an unconstitutional search. The Commonwealth appealed to Commonwealth Court. That court transferred the case to us pursuant to 42 Pa.C.S. \u00a7 5103(a) because we have exclusive jurisdiction of cases where a court of common pleas has ruled a state statute unconstitutional. 42 Pa.C.S. \u00a7 722(7).\nOn analysis of the statute and relevant case law, we conclude that the warrantless inspection provisions of the Act, in the current absence of a regulation defining the circumstances under which such inspections of non-hazardous waste will be conducted, violates the Fourth Amendment of the United States Constitution. We also believe that the \u201copen fields\u201d doctrine, developed under the Fourth Amendment, does not apply in this case. The lands here were used for commercial activities which, because of a strong public interest, requires extensive and pervasive regulation and the attempted search involved an actual physical intrusion. See Dow Chemical Co. v. United States, \u2014 U.S. \u2014, 106 S.Ct. 1819, 90 L.Ed.2d 226 (1986). The order of Common Pleas is affirmed.\nAppellee has had a history of dealings with the Department. In early 1982, he was in the process of attempting to renew several expired permits to store sewage on his property.\nIn January of that year, appellee took some oily waste from a spill site in Westmoreland County. In that same month, the Department attempted to search his property to determine whether that material had been illegally dumped on it. Appellee refused to admit them. The Department then contacted appellee\u2019s attorney to arrange a consensual search of the property. It was agreed that the Department\u2019s agents would identify themselves to the Lutz family before actually searching the property. Appellee\u2019s attorney testified at the hearing in this case that he believed that this procedure would be followed whenever the Department wished to search his client\u2019s property. The Department\u2019s attorney stated that the procedure was intended only for the search in January. The Department did in fact follow the procedure at that time.\nOn April 22, 1982, two Department agents attempted to conduct a search of appellee\u2019s property without either obtaining a search warrant or attempting to contact appellee before conducting the search. The agents had been told by an anonymous informant that solid waste was on appellee\u2019s property. Appellee refused to allow the agents to carry out their search, confiscated a camera and empty sample bottles and ordered the agents off his property. The agents complied with his request. After obtaining his permission, the Department was able to conduct its search the next day. However, the Department filed the charges that are before us based on appellee\u2019s initial refusal to allow a search and the seizure of its camera and supplies.\nThe Department, as appellant, claims that the Solid Waste Management Act allows it to conduct warrantless searches for all solid wastes. Section 608 of the Act provides:\n\u00a7 6018.608. Production of materials; recordkeeping requirements; rights of entry\nThe department and its agents and employees shall:\n(1) Have access to, and require the production of, books and papers, documents, and physical evidence pertinent to any matter under investigation.\n(2) Require any person or municipality engaged in the storage, transportation, processing, treatment or disposal of any solid waste to establish and maintain such records and make such reports and furnish such information as the department may prescribe.\n(3) Enter any building, property, premises or place where solid waste is generated, stored, processed, treated or disposed of for the purposes of making such investigation or inspection as may be necessary to ascertain the compliance or noncompliance by any person or municipality with the provisions of this act and the rules or regulations promulgated hereunder. In connection with such inspection or investigation, samples may be taken of any solid, semisolid, liquid or contained gaseous material for analysis....\n35 P.S. \u00a7 6018.608 (Supp.1985). Appellee first argues that this section does not authorize the Department to conduct warrantless searches. We disagree. We conclude that the Act, read as a whole, does authorize such conduct.\nThe stated legislative policy of the Act is to \u201cprovide a flexible and effective means to implement and enforce the provisions of this act.\u201d Section 102(5), 35 P.S. \u00a7 6018.102(5) (Supp.1985). The Department is given authority to \u201cdo any and all other acts and things not inconsistent with any provisions of this act, which it may deem necessary or proper for the effective enforcement of this act....\u201d Section 104(13), 35 P.S. \u00a7 6018.104(13) (Supp.1985). Thus, it is designed to give the broadest possible powers to the Department to control waste management in this Commonwealth.\nSection 608, quoted above, empowers the Department to have materials produced and records kept and affords it a right of entry where solid waste is generated or otherwise managed. This section provides that the Department shall enter such facilities. Shall is ordinarily construed as an imperative. Commonwealth v. Garland, 393 Pa. 45, 142 A.2d 14 (1958). Thus, while Section 608 is silent on the question of a warrant, we believe that it was the intent of the legislature to authorize warrantless searches pursuant to Section 608(3).\nFurthermore, Section 610, which proscribes certain conduct, provides in pertinent part:\nIt shall be unlawful for any person or municipality to:\n(7) Refuse, hinder, obstruct, delay, or threaten any agent or employee of the department in the course of performance of any duty under this act, including, but not limited to, entry and inspection under any circumstances.\n35 P.S. \u00a7 6018.610(7) (Supp.1985). This existence of criminal, as opposed to civil, penalties underscores the intention of the legislature to permit warrantless searches by the Department in enforcing the Act\u2019s provisions.\nAgainst this construction appellee argues that the Act provides a procedure whereby the Department may obtain a search warrant. Section 609, 35 P.S. \u00a7 6018.609 (Supp.1985). That section permits the Department to obtain a search warrant on three grounds: the search is part of a general administrative plan to determine compliance with the Act; there is reason to believe there is a violation of the Act; or the Department has been refused entry to the site in question. Id. These grounds meet the lesser standard of probable cause allowed for administrative search warrants. See Camara v. Municipal Court, 387 U.S. 523, 87 S.Ct. 1727, 18 L.Ed.2d 930 (1967).\nThus, the Department may obtain a warrant if it anticipates a landowner\u2019s refusal of a warrantless search. It also has the authority to obtain a warrant, without a full court hearing, after such a refusal. Section 609 gives the Department the flexibility it needs without requiring the issuance of a warrant in all cases. Nonetheless, although the Act authorizes warrantless searches by the Department, mere statutory authorization of this conduct is not enough. Any such search is still subject to constitutional limitations.\nThe United States Supreme Court has analyzed the constitutionality of similar statutes allowing administrative searches of commercial operations under the federal constitution. In 1967, that Court determined that Fourth Amendment protections do indeed apply to commercial property. See v. City of Seattle, 387 U.S. 541, 87 S.Ct. 1737, 18 L.Ed.2d 943 (1967); Camara v. Municipal Court, supra. On several occasions it has held that certain warrantless administrative searches without probable cause may be constitutional:\nThe greater latitude to conduct warrantless inspections of commercial property reflects the fact that the expectation of privacy that the owner of commercial property enjoys in such property differs significantly from the sanctity accorded an individual\u2019s home, and that this privacy interest may, in certain circumstances, be adequately protected by regulatory schemes authorizing warrantless inspections.\nDonovan v. Dewey, 452 U.S, 594, 598-99, 101 S.Ct. 2534, 2537-38, 69 L.Ed.2d 262 (1981). The Court summarized the cases on this issue by stating:\nThese decisions make clear that a warrant may not be constitutionally required when Congress has reasonably determined that warrantless searches are necessary to further a regulatory scheme and the federal regulatory presence is sufficiently comprehensive and defined that the owner of commercial property cannot help but be aware that his property will be subject to periodic inspections undertaken for specific purposes.\nId. at 600, 101 S.Ct. at 2539. By this analysis, the Court in Dewey upheld a warrantless inspection under the Mine Safety and Health Act of 1977, 30 U.S.C. \u00a7\u00a7 801-962. In doing so, the Court seemingly relied on the pervasive regulation of mining, the regularity of the inspections and the strong federal interest in protecting persons employed in the mining industry.\nIn Colonnade Catering Corp. v. United States, 397 U.S. 72, 90 S.Ct. 774, 25 L.Ed.2d 60 (1970), the Court also held that, because of its history of pervasive regulation, the alcoholic beverage industry was subject to warrantless searches to promote federal interests in the control of the sale of alcohol. Likewise, in United States v. Biswell, 406 U.S. 311, 92 S.Ct. 1593, 32 L.Ed.2d 87 (1972), the Court held that warrantless searches under the Gun Control Act of 1968, 18 U.S.C. \u00a7\u00a7 921-929, were justified because there was a comprehensive inspection scheme, a strong federal interest in gun control, and only a limited threat to the privacy of the gun dealer.\nHowever, in Marshall v. Barlow\u2019s, Inc., 436 U.S. 307, 98 S.Ct. 1816, 56 L.Ed.2d 305 (1978), the Court invalidated a warrantless inspection under Section 8(a) of the Occupational Safety and Health Act, 29 U.S.C. \u00a7 657(a). Because the OSHA provisions covered all businesses engaged in interstate commerce and there were no standards governing the searches, the Court held that there was no reasonable expectation that the property would actually be subjected to warrantless searches.\nIn each of these cases, the United States Supreme Court balanced the need for warrantless regulatory searches against the business owner\u2019s expectation of privacy. In so doing, it looked at four factors: first, whether the business operator is on notice that he is engaged in activity which may subject him to warrantless searches; second, whether the regulation of the industry is pervasive and regular, considering the history of the regulatory scheme as a factor in this determination; third, whether there is a strong governmental interest in the search; and fourth, whether there are reasonable legislative or administrative standards governing the search.\nWe believe that the fourth requirement is not satisfied on the record before us. The Dewey Court, in analyzing the provisions of the Mine Safety and Health Act, noted that it provided inspections at least four times per year for underground mining, and at least twice a year for surface mining operations. The Solid Waste Management Act does not set up any specific schedule of inspections. The Department is merely given the power to conduct inspections at any reasonable time. Thus, there is no legislative determination of either the frequency of searches on commercial property used to store solid waste or the circumstances which will result in a warrantless search. It appears that the legislature has left such definition to the Department, the regulatory agency. Section 104(7), 35 P.S. \u00a7 6018.-104(7).\nHowever, the Department has failed to properly and publicly set forth any further definition. The regulations adopted by the Department and published in the Pennsylvania Code, 25 Pa. Code \u00a7 75.1-75.450, do not provide any sort of timetable or schedule of regular inspections. There is no evidence of record to indicate that the particular search in this case was in fact part of a regular inspection nor any public declaration by the Department of the administrative standards which will trigger an ad hoc inspection.\nThe trial court in the case before us held that Dewey, supra, required legislative or administrative periodicity for searches in all cases. We do not believe this is an accurate reading of Dewey. In Colonnade Catering, supra, Congress gave extremely broad powers to the Treasury Department to conduct searches for liquor violations. The United States Supreme Court held that the statute\u2019s prohibition of forcible entry sufficiently limited this broad power and saved the warrantless search, despite the presence of civil penalties for refusal to allow it, because of the long history of close supervision of the liquor industry. Our Act similarly prohibits forceful entry and has both civil and criminal penalties for refusing to allow inspection, \u00a7 610(7). Refusal itself provides grounds for issuing a warrant, \u00a7 609(3).\nIn industries where the governmental interest is special, either because of a long history of pervasive regulation, as in the case of alcohol, Colonnade Catering, or firearms, Biswell, or because of the nature of the risks involved, as in the nuclear power industry, see Dewey, supra, 452 U.S. at 606, 101 S.Ct. at 2542 (quoted below), warrantless searches with minimal restrictions are permitted because operators who engage in such businesses are on notice that they will be subject to them. Thus, the operators\u2019 expectation of privacy is reduced and such searches are constitutional because they must reasonably be expected by the persons in those businesses.\nHazardous waste poses severe public health risks not only to those working in the industry but to the public at large. It is the type of business that can be reasonably subjected to warrantless searches with minimal definition. This is so, even though the special dangers of hazardous waste and its consequent separation from other solid waste for special regulatory treatment is recent. As the Court said in Dewey:\nUnder [the view that there must be a longstanding regulatory scheme in all cases], new or emerging industries, including ones such as the nuclear power industry that pose enormous potential safety and health problems could never be subject to warrantless searches even under the most carefully structured inspection program simply because of the recent vintage of regulation.\n452 U.S. at 606, 101 S.Ct. at 2542. By definition, the interests of the public at large must predominate when hazardous waste is involved. Our statute categorizes as hazardous that waste which because of its quantity, concentration, or physical, chemical, or infectious characteristics may:\n(1) cause or significantly contribute to an increase in mortality or an increase in morbidity in either an individual or the total population; or\n(2) pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of or otherwise managed.\nSection 103, 35 P.S. \u00a7 6018.103. The risks these substances pose to the public, coupled with the commercial operator\u2019s knowledge of those risks, justify warrantless searches of sites where they are kept. The nature of the business and its narrow definition justify the search as indicated when Dewey is compared to Barlow\u2019s. In short, we conclude that such searches are a reasonable means of ameliorating the great risk these materials pose to the general public.\nWe do not believe the same is true with respect to non-hazardous solid waste, the material involved in this case. The Act covers all waste, including municipal, residual or hazardous wastes. It specifically defines agricultural waste, food processing waste, hazardous waste (discussed, supra), municipal waste, and residual waste. While we recognize an important public interest in controlling nonhazardous waste, it does not rise to the same level of concern as hazardous waste. Although certainly unpleasant at times, ordinary solid waste does not pose the same danger to public health as hazardous waste. Since the public interest is less vitally affected and the industry itself has fewer of the special characteristics that would put an operator on notice of random regulatory searches, we believe that warrantless searches for ordinary solid waste cannot withstand constitutional scrutiny absent proper adoption by the Department of a flexible inspection schedule or a reasonable definition of the circumstances under which such searches will be conducted. See Dewey, supra.\nAlternately, the Department argues that the search should be upheld under the \u201copen fields\u201d exception to the Fourth Amendment. That exception, first set out by the United States Supreme Court in Hester v. United States, 265 U.S. 57, 44 S.Ct. 445, 68 L.Ed. 898 (1924), and recently reaffirmed in Oliver v. United States, 466 U.S. 170, 104 S.Ct. 1735, 80 L.Ed.2d 214 (1984), states that there can be no reasonable expectation of privacy in areas beyond the traditional curtilage surrounding one\u2019s home.\nThe United States Supreme Court has just addressed a question similar to that presented here: the applicability of the open fields doctrine to outdoor commercial property. In Dow Chemical Co. v. United States, \u2014 U.S. \u2014, 106 S.Ct. 1819, 90 L.Ed.2d 226 (1986), the Court analyzed whether the Environmental Protection Agency could lawfully take aerial photographs of Dow\u2019s chemical processing plant. That plant, because of the size of its facility and the dangers of conducting the activity in closed spaces, left much of its equipment exposed to the elements. The plant was subject to extremely stringent security precautions to protect its trade secrets.\nThe Court held that taking aerial photographs of the plant did not violate the Fourth Amendment because the pictures were of items that could ordinarily be seen in the air. The Court did note the limited nature of its holding:\nAdmittedly, Dow\u2019s enclosed plant complex, like the area in Oliver, does not fall precisely within the \u201copen fields\u201d doctrine. The area at issue here can perhaps be seen as falling somewhere between \u201copen fields\u201d and curtilage, but lacking some of the critical characteristics of both. Dow\u2019s inner manufacturing areas are elaborately secured to ensure they are not open or exposed to the public from the ground. Any actual physical entry by EPA into any enclosed area would raise significantly different questions, because \u201c[t]he businessman, like the occupant of a residence, has a constitutional right to go about his business free from unreasonable official entries upon his private commercial property.\u201d See v. City of Seattle, supra [387 U.S. 541], at 543 [87 S.Ct. at 1739]. The narrow issue raised by Dow\u2019s claim of search and seizure, however, concerns aerial observation of a 2,000-acre outdoor manufacturing facility without physical entry.\n106 S.Ct. at 1825-26 (footnotes omitted). The Court also noted, in limiting the application of this case, that it was not addressing any question of general \u201cbusiness curtilage.\u201d 106 S.Ct. at 1827 n. 7.\nWe believe that the case before us is distinguishable from Dow. The Department attempted actual entry onto private land that was not visible from any public area. Dow\u2019s holding is expressly limited to aerial searches. The implication of the above-quoted language is that physical entry into the enclosed plant complex, even the outdoor portions of that area, would not be permissible because that area is not an open field.\nThe conclusion that outdoor business areas are not open fields is consistent with the purpose of the open fields doctrine. The basic premise of the open fields doctrine, that there can be no reasonable expectation of privacy in an open field, is at times incompatible with the idea that a business owner has a reasonable expectation of privacy in his property. This is especially true where the business must, by its nature, be conducted outside. See, e.g., United States v. Swart, 679 F.2d 698 (7th Cir.1982) (used car dealer\u2019s parking lot was part of the \u201cbusiness curtilage\u201d and was not subject to warrantless search after business hours); Allinder v. Ohio, 614 F.Supp. 282 (N.D. Ohio .1985), appeal pending, No. 85-3664 (6th Cir.) (open fields doctrine cannot apply to warrantless administrative searches of beekeeping facility).\nThus, because the Court in Oliver, supra, required a balancing of governmental intrusion against the societal values protected by the Fourth Amendment, 104 S.Ct. at 1743, we believe that in this case the legitimate expectation of privacy, protected by the provisions of the Act and the decisions of the United States Supreme Court discussed in the first portion of this opinion, renders the open fields doctrine inapplicable to this property. The Department cannot rely on it to justify its search of appellee\u2019s property. Because we can find no constitutional exception to the requirement of a warrant in this case, we would affirm the dismissal of the charges.\nThe order of the Court of Common Pleas of Westmoreland County is affirmed.\nFLAHERTY, J., joins in the opinion announcing the judgment of the Court and files a concurring opinion.\nNIX, J., files a concurring opinion.\nLARSEN, J., files a dissenting opinion in which McDERMOTT and PAPADAKOS, JJ., join.\n. Appellee was also charged with violating Section 610(1) of the Act, 35 P.S. \u00a7 6018.610(1), dumping solid waste without a permit. That charge is not before us.\n. The Department claims that the constitutionality of the statute allowing entry for inspection was not challenged and therefore is waived. Although appellee\u2019s pre-trial motion only raised general constitutional violations, it is clear on this record that the Department relied solely on the statutory right of entry and that it knew of the grounds for appellee\u2019s contention. Indeed, the Department\u2019s response to the motion specifically cited the statute as authority for its action. Thus, it cannot claim the issue was waived.\n. The Department did not file any charges based on appellee's use of force in preventing the search.\n. Appellee argues that because he is not licensed to store solid waste under this Act he is not subject to the inspection provisions, and therefore all searches must be based on warrants issued on probable cause. We believe that this argument fails. Although the United States Supreme Court at one time stated that entry into a regulated business supported the warrantless searches on an implied consent theory, United States v. Biswell, 406 U.S. 311, 316, 92 S.Ct. 1593, 1596, 32 L.Ed.2d 87 (1972), it has since stated that the existence and pervasive nature of the regulations, not consent, give the notice required. Donovan v. Dewey, 452 U.S. 594, 603, 101 S.Ct. 2534, 2540, 69 L.Ed.2d 262 (1981). See W. LaFave, Search and Seizure, \u00a7 10.2, n. 52.3 (Supp.1986). On the facts of this case, this argument would not succeed in any event. Appellee stated that he was attempting to obtain a permit under the Act. Thus, he cannot claim that he was unaware of the Act\u2019s provisions.\n. Clear designation of the Department\u2019s power as a \"right of entry\u201d is stated in the title of Section 608. This title may be used to aid in statutory construction. 1 Pa.C.S. \u00a7 1924.\n. Several federal statutes have similar language on the right of entry. See, e.g., Internal Revenue Code, 26 U.S.C. \u00a7 5146; Gun Control Act, 18 U.S.C. \u00a7 923(g); Occupational Safety and Health Act, 29 U.S.C. \u00a7 657. This language has been held to authorize warrantless searches. See Colonnade Catering v. United States, 397 U.S. 72, 90 S.Ct. 774, 25 L.Ed.2d 60 (1970); Biswell, supra; Marshall v. Barlow\u2019s, Inc., 436 U.S. 307, 98 S.Ct. 1816, 56 L.Ed.2d 305 (1978). These cases are discussed at 343.\n. Appellee was cited for violation of this section.\n. The record shows that the Solid Waste Management Act meets the first three requirements. It contains specific definitions of what is and what is not subject to its provisions. See Section 103, 35 P.S. \u00a7 6018.103; see also 25 Pa.Code \u00a7\u00a7 75.1-75.450. The second is also satisfied. The regulation of the industry is pervasive, with tight restrictions on the handling of solid and hazardous waste. The potential health hazards of improper waste management provide the strong governmental interest that is also needed to justify a warrant-less inspection scheme. The Act contains the following finding in its declaration of policy:\n[I]mproper and inadequate solid waste practices create public health hazards, environmental pollution, and economic loss, and cause irreparable harm to the public health, safety and welfare....\nSection 102, 35 P.S. \u00a7 6018.102. In addition, Article I, Section 27 of the Pennsylvania Constitution provides that there is a right to clean air and pure water, thus giving constitutional implications to environmental protection measures.\n. In its brief, the Department states that its policy is to inspect monthly. It also cites federal authority to show that policy can be considered in this analysis. See United States v. Kaiyo Maru No. 53, 699 F.2d 989 (9th Cir.1983). We cannot consider this policy, however, since it was never introduced at the, hearing on appellee\u2019s pre-trial motion and has not been placed on the record anywhere beyond its mention in the Department\u2019s brief. See also Section 1208 of the Act of July 31, 1968, P.L. 769, No. 240, 45 P.S. \u00a7 1208.\n. The Dewey Court\u2019s emphasis on the congressional requirement that mine inspections take place at regular intervals was noted in the process of distinguishing that case from Marshall v. Barlow\u2019s, Inc., supra. In Barlow\u2019s, the Court invalidated OSHA warrantless searches because the OSHA statute allowed searches of all worksites engaged in interstate commerce. This did not provide reasonable notice to previously unregulated workplaces that such searches would be conducted. The Dewey Court, also considering legislation designed to protect on-site employees, upheld warrantless searches under a statute which set a regular schedule for them. It seems to us the congressionally-defined schedule, coupled with the narrower scope of the regulations, were crucial factors in distinguishing Barlow\u2019s prohibition on warrantless searches under OSHA and upholding the constitutionality of such searches under the Mine Health and Safety Act.\n. We note that the Act contains a severability clause. Section 1002, 35 P.S. \u00a7 6018.1002. The distinction between hazardous waste and other forms of solid waste is a distinction already present in the Act. There is a separate article dealing with hazardous waste, and Section 606 contains separate criminal penalties for those violating the hazardous waste portions of the Act.\n. Appellee did not attack the search in this case under Article I, Section 8 of the Pennsylvania Constitution.",
+        "type": "majority",
+        "author": "HUTCHINSON, Justice."
+      },
+      {
+        "text": "FLAHERTY, Justice,\nconcurring.\nI join the opinion announcing the judgment of the Court authored by Mr. Justice Hutchinson, although I am compelled to express the view that the discussion regarding hazardous waste is unnecessary and goes beyond the issue in this case.",
+        "type": "concurrence",
+        "author": "FLAHERTY, Justice,"
+      },
+      {
+        "text": "NIX, Chief Justice,\nconcurring.\nThe appellant, the court below and my brethren on this Court have focused upon the constitutionality of the \u201cwarrantless search provisions\u201d provided for in the Enforcement and Remedies sections of Article VI of the Solid Waste Management Act, Act of July 7, 1980, P.L. 380, No. 97, 35 P.S. \u00a7\u00a7 6018.601-6018.617 (Supp.1986). Yet nowhere in those sections is there an express grant of a warrantless right of entry. Thus the constitutional issue arises from a statutory interpretation and not from the express dictates of the General Assembly.\nIt should not be necessary to remind the members of this Court that it is a cardinal rule of statutory construction that it be assumed that the legislature did not intend to violate the Constitutions of the United States and of this Commonwealth. 1 Pa C.S. \u00a7 1922(3); Consumer Party of Pennsylvania v. Commonwealth, 510 Pa. 158, 507 A.2d 323 (1986); Hospital Utilization Project v. Commonwealth, 507 Pa. 1, 487 A.2d 1306 (1985); Krenzelak v. Krenzelak, 503 Pa. 373, 469 A.2d 987 (1983); Wajert v. State Ethic Commission, 491 Pa. 255, 420 A.2d 439 (1980); Triumph Hosiery Mills v. Commonwealth, 469 Pa. 92, 364 A.2d 919 (1976); Devlin v. Osser, 434 Pa. 408, 254 A.2d 303 (1969); Philadelphia v. Depuy, 431 Pa. 276, 244 A.2d 741 (1968); Bentman v. Seventh Ward Democratic Committee, 421 Pa. 188, 218 A.2d 261 (1966); Milk Control Commission v. Battista, 413 Pa. 652, 198 A.2d 840 (1964); Commonwealth v. McCoy, 405 Pa. 23, 172 A.2d 795 (1961); Baker v. Retirement Board of Allegheny County, 374 Pa. 165, 97 A.2d 231 (1953); Spigelmire v. North Braddock School District, 352 Pa. 504, 43 A.2d 229 (1945), This is particularly true where one must strain to reach the unconstitutional meaning, Consumer Party of Pennsylvania v. Commonwealth, supra; Philadelphia Housing Authority v. Commonwealth, Pennsylvania Labor Relations Board, 508 Pa. 576, 499 A.2d 294 (1985); Commonwealth v. Stanley, 498 Pa. 326, 446 A.2d 583 (1982); Commonwealth v. College, 497 Pa. 71, 439 A.2d 107 (1981); In Re: Estate of Baker, 496 Pa. 577, 437 A.2d 1191 (1981); Commonwealth v. Mumma, 489 Pa. 547, 414 A.2d 1026 (1980); Stegmaier Estate, 424 Pa. 4, 225 A.2d 566 (1967); Davis v. Sulcowe, 416 Pa. 138, 205 A.2d 89 (1964), which in my judgment is the case here.\nSection 608(3), the subsection said to authorize a \u201cwarrantless entry,\u201d simply provides that the Department and its agents and employees shall:\n(3) Enter any building, property, premises or place where solid waste is generated, stored, processed, treated or disposed of for the purposes of making such investigation or inspection as may be necessary to ascertain the compliance or noncompliance by any person or municipality with the provisions of this act and the rules or regulations promulgated hereunder. In connection with such inspection or investigation, samples may be taken of any solid, semisolid, liquid or contained gaseous material for analysis. If any analysis is made of such samples, a copy of the results of the analysis shall be furnished within five business days to the person having apparent authority over the building, property, premises or place.\n35 P.S. \u00a7 6018.608(3) (Supp.1986).\nThis subsection merely defines the Department\u2019s obligations to perform on-site investigations and inspections. It does not authorize any entry that would be violative of existing law. This is clearly evident because the very next paragraph, section 609, provides for an administrative search warrant, which clearly would satisfy constitutional standards, for the carrying out of the responsibilities imposed under subsection 608(3). The obvious question that is raised by an interpretation that would read section 608(3) as providing a blanket authority for warrantless investigations and inspections is what then would be the need for section 609.\nIt is also argued that subsection 610(7) is conclusive proof that subsection 608(3) was intended to authorize a warrant-less entry. Section 610(7) provides:\nIt shall be unlawful for any person or municipality to:\n(7) Refuse, hinder, obstruct, delay, or threaten any agent or employee of the department in the course of performance of any duty under this act, including, but not limited to entry and inspection under any circumstances.\n35 P.S. \u00a7 6018.610(7) (Supp.1986).\nTo argue that this provision embraces any entry, whether lawful or not, would again violate fundamental concepts of statutory construction. The obvious meaning of the use of the word \u201centry\u201d in the last clause of the above quoted subsection is an \u201centry\u201d permitted under the provisions of the Act. That would therefore require the entry to be either consented to by the landowner or pursuant to a warrant secured under section 609.\nI therefore agree with appellee that subsection 608(3) did not implicitly provide for a warrantless entry and since the entry was unauthorized the criminal charges against appellant were properly dismissed. For that reason I would affirm the order of the court below.\n. Section 609 provides:\nAn agent or employee of the department may apply for a search warrant to any Commonwealth official authorized to issue a search warrant for the purposes of inspection or examining any property, building, premise, place, book, record or other physical evidence of conducting tests, or of taking samples of any solid waste. Such warrant shall be issued upon probable cause. It shall be sufficient probable cause to show any of the following:\n(1) that the inspection, examination, test, or sampling is pursuant to a general administrative plan to determine compliance with this act;\n(2) that the agent or employee has reason to believe that a violation of this act has occurred or may occur; or\n(3) that the agent or employee has been refused access to the property, building, premise, place, book, record or physical evidence, or has been prevented from conducting test or taking of samples.\n35 P.S. \u00a7 6018.609 (Supp.1986).\n. Colonnade Catering Corp. v. United States, 397 U.S. 72, 90 S.Ct. 774, 25 L.Ed.2d 60 (1970) (upholding validity of warrantless inspections of businesses in alcoholic beverage industry); United States v. Biswell, 406 U.S. 311, 92 S.Ct. 1593, 32 L.Ed.2d 87 (1972) (upholding validity of warrantless inspections authorized by Gun Control Act).",
+        "type": "concurrence",
+        "author": "NIX, Chief Justice,"
+      },
+      {
+        "text": "LARSEN, Justice,\ndissenting.\nIn my opinion, the warrantless inspection provisions of the Solid Waste Management Act (the \u201cAct\u201d), section 608, 35 P.S. \u00a7 6018.608 (Supp.1985), are clearly valid under the \u201cColonnade-Biswell exception\u201d to the warrant requirement of the Fourth Amendment, as that exception was explained by the United States Supreme Court in Donovan v. Dewey, 452 U.S. 594, 601, 101 S.Ct. 2534, 2539, 69 L.Ed.2d 262 (1981). Accordingly, I dissent.\nIn Donovan v. Dewey, the United States Supreme Court stated:\n[U]nlike searches of private homes, which generally must be conducted pursuant to a warrant in order to be reasonable under the Fourth Amendment, legislative schemes authorizing warrantless administrative searches of commercial property do not necessarily violate the Fourth Amendment. ...\nThe greater latitude to conduct warrantless inspections of commercial property reflects the fact that the expectation of privacy that the owner of commercial property enjoys in such property differs significantly from the sanctity accorded an individual\u2019s home, and that this privacy interest may, in certain circumstances, be adequately protected by regulatory schemes authorizing warrantless inspections ____\nThe interest of the owner of commercial property is not one in being free from any inspections. Congress has broad authority to regulate commercial enterprises engaged in or affecting interstate commerce, and an inspection program may in some cases be a necessary component of federal regulation.\n\u2021 % :{: sj* 4s it\nThese decisions make clear that a warrant may not be constitutionally required when Congress has reasonably determined that warrantless searches are necessary to further a regulatory scheme and the federal regulatory presence is sufficiently comprehensive and defined that the owner of commercial property cannot help but be aware that his property will be subject to periodic inspections undertaken for specific purposes.\n452 U.S. at 598-99, 601, 101 S.Ct. at 2538-39 (citations omitted; emphasis added).\nThe majority seems to hold that the warrantless inspections authorized by the Act are almost valid under the balancing test enunciated by Dewey, and would be valid if the authorization were limited to warrantless inspection of \u201chazardous waste\u201d facilities and operations as opposed to \u201cordinary solid waste\u201d facilities and operations. The majority concludes that three of Dewey\u2019s four \u201crequirements\u201d for valid warrantless inspections are satisfied by the Act, but that the fourth is not. Majority op. at 201, n. 8. The fourth requirement, that there be \u201creasonable legislative or administrative standards\u201d governing the inspection, is not met, according to the majority, where \u201cordinary solid waste\u201d is involved because:\nordinary solid waste does not pose the same danger to public health as hazardous waste. Since the public interest is less vitally affected and the industry itself has fewer of the special characteristics that would put an operator on notice of random regulatory searches, we believe that warrantless searches for ordinary solid waste cannot withstand constitutional scrutiny absent proper adoption by the Department of a flexible inspection schedule or a reasonable definition of the circumstances under which such searches will be conducted.\nMajority op. at 204.\nThe majority\u2019s attempt to distinguish this case from \u201cColonnade-Biswell exception\u201d cases because this case involves \u201cordinary solid waste\u201d is unpersuasive, for two reasons.\nFirst, the majority's factual assumption is wrong \u2014 we do not know what kind of waste the Department of Environmental Resources\u2019 inspectors would have found on April 22, 1982, because the inspectors were not able to take samples that day after they were ordered off the property by appellee. The DER was informed that a sludgey solid waste was being dumped on appellee\u2019s property, where a few months before some oily waste had been deposited. The inspectors had no way of knowing, therefore, whether the waste was \u201chazardous\u201d or \u201cnon-hazardous,\u201d \u201cresidual,\u201d \u201cagricultural,\u201d or \u201cmunicipal\u201d as those terms are defined in the Act. 35 P.S. \u00a7 6018.103. That was one of the critical reasons why inspection was so important. Moreover, the definitions of the various recognized types of waste are not mutually exclusive. \u201cHazardous waste\u201d includes \u201csludge from an industrial or other waste water treatment plant\u201d and \u201csolid, liquid, semisolid or contained gaseous material resulting from municipal, commerical, industrial, institutional, mining or agricultural operations,\u201d and \u201csolid waste\u201d includes \u201cmunicipal, residual or hazardous wastes\u201d of \u201csolid, liquid, semisolid or contained gaseous materials.\u201d Id. The \u201caffidavit for issuance of process\u201d accompanying the criminal complaint in this matter states that the DER had received information that \u201cmaterial (presumably sewage sludge)\u201d had been dumped on appellee\u2019s property. \u201cSewage sludge\u201d is certainly \u201csolid waste\u201d within the definition of that term, and could also be \u201chazardous waste\u201d if, \u201cbecause of its quantity, concentration, or physical, chemical or infectious characteristics may: (1) cause or significantly contribute to an increase in mortality ...; or (2) pose a substantial present or potential hazard to human health or the environment. ...\u201d 35 P.S. \u00a7 6018.103. Because of appellee\u2019s actions in refusing to allow DER inspectors to take samples on April 22, 1982, there is no way of knowing whether \u201csewage sludge\u201d had in fact been dumped and, if so, whether it was \u201chazardous\u201d or, as the majority phrases it, \u201cordinary solid waste.\u201d\nThe second flaw in the majority\u2019s distinction is that, even if there had only been non-hazardous, \u201cordinary solid waste\u201d involved in this case, the legislature has determined that the risk to the public health, safety and welfare, and to the environment, posed by \u201cimproper and inadequate solid waste practices,\u201d both hazardous and non-hazardous, necessitates the warrantless inspection procedures authorized by the Act. Thus, the majority errs in stating: \u201cWhile we recognize an important public interest in controlling nonhazardous waste, it does not rise to the same level of concern as hazardous waste.\u201d Majority op. at 204. It is not for this Court to determine the \u201clevel of concern\u201d for the problems and risks posed by \u201cnon-hazardous\u201d waste, for the appropriate level of concern has been established by the legislature.\nThere is a strong and fundamental presumption that the legislature has acted within constitutional bounds. Commonwealth v. Zettlemoyer, 500 Pa. 16, 58-60, 454 A.2d 937, 959 (1983), cert. denied 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983); American Trucking Associations, Inc. v. Scheiner, 510 Pa. 430, 452, 509 A.2d 838, 849 (1986); Commonwealth v. Mikulan, 504 Pa. 244, 247, 470 A.2d 1339, 1340 (1983). Consequently, one challenging the constitutionality of a legislative enactment bears the heavy burden of demonstrating that it clearly, plainly and palpably violates some specific mandate or prohibition of the constitution. Id. Snider v. Thornburgh, 496 Pa. 159, 166, 436 A.2d 593, 596 (1981).\nIn considering the constitutionality of the Solid Waste Management Act, we must also bear in mind that it was enacted to implement the will of the people as expressed in Article I, section 27 of the Pennsylvania Constitution, which provides:\nNatural resources and the public estate The people have a right to clean air, pure water, and to the preservation of the natural, scenic, historic and esthetic values of the environment. Pennsylvania\u2019s public natural resources are the common property of all the people, including generations yet to come. As trustee of these resources, the Commonwealth shall conserve and maintain them for the benefit of all the people.\nAdopted May 18, 1971.\nSee section 102(10) of the Act, 35 P.S. \u00a7 6018.102(10) (\u201cit is the purpose of this act to ... implement Article I, section 27 of the Pennsylvania Constitution. ... \u201d).\nViewed in that light, it is apparent that the legislature is very concerned about the problems and risks posed by both hazardous and non-hazardous (\u201cordinary\u201d) waste disposal and has subjected the disposal of all forms of solid waste to heavy regulation. The strong presumption of constitutionality that accompanies environmental legislation in this Commonwealth requires that we give great deference to the General Assembly\u2019s assessment of the dangers and risks posed by \u201cimproper and inadequate solid waste practices\u201d regarding all forms of solid waste. Section 102 of the Act states:\nThe Legislature hereby determines, declares and finds that, since improper and inadequate solid waste practices create public health hazards, environmental pollution, and economic loss, and cause irreparable harm to the public health, safety and welfare, it is the purpose of this act to:\n(1) establish and maintain a cooperative State and local program of planning and technical and financial assistance for comprehensive solid waste management;\n(2) encourage the development of resource recovery as a means of managing solid waste, conserving resources, and supplying energy;\n(3) require permits for the operation of municipal and residual waste processing and disposal systems, licenses for the transportation of hazardous waste and permits for hazardous waste storage, treatment, and disposal;\n(4) protect the public health, safety and welfare from the short and long term dangers of transportation, processing, treatment, storage, and disposal of all wastes;\n(5) provide a flexible and effective means to implement and enforce the provisions of this act____\n35 P.S. \u00a7 6018.102 (emphasis added).\nWhile hazardous waste is subject to perhaps more stringent regulation, 35 P.S. \u00a7\u00a7 6018.401-6018.405 (Article IV), so-called \u201cordinary solid waste\u201d is subject to extensive and pervasive regulation as well. 35 P.S. \u00a7\u00a7 6018.201-6018.203 (Article II. Municipal Waste) and \u00a7\u00a7 6018.301-6018.303 (Article III. Residual Waste). Thus, as for \u201cnon-hazardous\u201d or \u201cordinary\u201d waste just as with \u201chazardous\u201d waste, the legislature has determined that:\nThe risks these substances pose to the public, coupled with the commercial operator\u2019s knowledge of those risks, justify warrantless searches of sites where they are kept. The nature of the business and its narrow definition justify the search as indicated when Dewey is compared to [Marshall v. Barlow\u2019s, Inc., 436 U.S. 307 [98 S.Ct. 1816, 56 L.Ed.2d 305] (1978)]. In short, such searches are a reasonable means of ameliorating the great risk these materials pose to the general public.\nMajority 204 (in reference to risks of hazardous waste only).\nAs this Court recently stated in Commonwealth v. Parker White Metal Co., 512 Pa. 74, 515 A.2d 1358 (1986):\n[The] presumption [of constitutionality] is further strengthened in this case by the explicit purpose of the Act to implement Article I, section 27 of the Pennsylvania Constitution, a remarkable document expressing our citizens\u2019 entitlement and \u201cright to clean air, pure water, and \u2014 to the preservation of the natural, scenic, historic and esthetic values of the environment.\u201d The courts of this Commonwealth, as part of a co-equal branch of government, serve as \u201ctrustees\u201d of \u201cPennsylvania\u2019s public natural resources,\u201d no less than do the executive and legislative branches of government____ As one of the trustees of the public estate and this Commonwealth\u2019s natural resources, we share the duty and obligation to protect and foster the environmental well-being of the Commonwealth of Pennsylvania. Failure to act with vigilance \u201cso as best to achieve and effectuate the goals and purposes\u201d of the Solid Waste Management Act would be detrimental to the public health, safety and welfare, and would be a breach of the public trust.\nFor the foregoing reasons, I would uphold the validity of section 608 of the Act and its authorization of warrantless inspections of appellee\u2019s property in this case.\nMcDERMOTT and PAPADAKOS, JJ., join this dissenting opinion.\n. The majority concludes that the following Dewey requirements are satisfied by the Act:\nfirst, whether the business operator is on notice that he is engaged in activity which may subject him to warrantless searches; second, whether the regulation of the industry is pervasive and regular, considering the history of the regulatory scheme as a factor in this determination; third, whether there is a strong governmental interest in the search____\nMajority op. at 201.",
+        "type": "dissent",
+        "author": "LARSEN, Justice,"
+      }
+    ],
+    "attorneys": [
+      "LeRoy S. Zimmerman, Atty. Gen., Harrisburg, Charles P. Mackin, Jr., Deputy Atty. Gen., Sp. Prosecutions Section, Patti J. Saunders, Asst. Counsel, Pittsburgh, for appellant.",
+      "James E. DePasquale, Elash, Miller & DePasquale, Samuel M. Pontier, Pittsburgh, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "516 A.2d 339\nCOMMONWEALTH of Pennsylvania, Appellant, v. Charles E. LUTZ, Appellee.\nSupreme Court of Pennsylvania.\nArgued March 7, 1986.\nDecided Oct. 17, 1986.\nLeRoy S. Zimmerman, Atty. Gen., Harrisburg, Charles P. Mackin, Jr., Deputy Atty. Gen., Sp. Prosecutions Section, Patti J. Saunders, Asst. Counsel, Pittsburgh, for appellant.\nJames E. DePasquale, Elash, Miller & DePasquale, Samuel M. Pontier, Pittsburgh, for appellee.\nBefore NIX, C.J., and LARSEN, FLAHERTY, McDERMOTT, HUTCHINSON, ZAPPALA and PAPADAKOS, JJ."
+  },
+  "file_name": "0192-01",
+  "first_page_order": 236,
+  "last_page_order": 260
+}

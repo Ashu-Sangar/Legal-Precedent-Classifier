@@ -1,0 +1,118 @@
+{
+  "id": 706243,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Daniel Clarence FRY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Fry",
+  "decision_date": "2001-07-25",
+  "docket_number": "Petition No. 118 W.D. Allocatur Docket 2001",
+  "first_page": "84",
+  "last_page": "84",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "566 Pa. 84"
+    },
+    {
+      "type": "parallel",
+      "cite": "778 A.2d 623"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "770 A.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11103876
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/770/0788-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11471568,
+        95797
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "allowing a nunc pro tunc appeal where the failure to comply with the timeliness requirement was caused by an administrative body's misstatement of the deadline for filing an appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0581-01",
+        "/pa/560/0481-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 481",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95797
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "allowing a nunc pro tunc appeal where the failure to comply with the timeliness requirement was caused by an administrative body's misstatement of the deadline for filing an appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0481-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 821,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.02578181198981099
+    },
+    "sha256": "bfcf89b7f9483e611e59d82550d5384e8f173018fc2f4652fa17fa167bf427fe",
+    "simhash": "1:44a5516ea21b08b0",
+    "word_count": 130
+  },
+  "last_updated": "2024-02-27T17:47:20.128090+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Daniel Clarence FRY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 25th day of July, 2001, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is VACATED, and the case is REMANDED for consideration on the merits. See Union Electric Corp. v. Bd. of Property Assessment, 560 Pa. 481, 746 A.2d 581 (2000) (allowing a nunc pro tunc appeal where the failure to comply with the timeliness requirement was caused by an administrative body\u2019s misstatement of the deadline for filing an appeal); Commonwealth v. Coolbaugh, 770 A.2d 788 (Pa.Super.2001) (allowing an untimely appeal from the revocation of probation where the trial court misinformed the defendant of the appeal filing deadline).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "778 A.2d 623\nCOMMONWEALTH of Pennsylvania, Respondent v. Daniel Clarence FRY, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 25, 2001."
+  },
+  "file_name": "0084-01",
+  "first_page_order": 194,
+  "last_page_order": 194
+}

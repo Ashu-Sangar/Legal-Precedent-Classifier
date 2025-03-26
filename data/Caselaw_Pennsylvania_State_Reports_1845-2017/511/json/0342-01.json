@@ -1,0 +1,82 @@
+{
+  "id": 1798705,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Gerald John GIOAN, Respondent",
+  "name_abbreviation": "Commonwealth v. Gioan",
+  "decision_date": "1986-08-25",
+  "docket_number": "No. 1016",
+  "first_page": "342",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "511 Pa. 342"
+    },
+    {
+      "type": "parallel",
+      "cite": "513 A.2d 983"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "510 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1796921
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/510/0123-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 469,
+    "ocr_confidence": 0.717,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06694077531161083
+    },
+    "sha256": "71ff39a167e752f2a84756951e7de663c2a806fe818baaf2e3f2f494dca0088a",
+    "simhash": "1:b69fd78a81ebddab",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T23:49:17.534825+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Gerald John GIOAN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW this Twenty-first day of August, 1986, the Commonwealth\u2019s petition for allowance of appeal is granted; the order of the Superior Court is vacated; and this matter is remanded to the Superior Court for reconsideration in light of our recent decision in Commonwealth v. Brady, 510 Pa. 123, 507 A.2d 66 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "513 A.2d 983\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Gerald John GIOAN, Respondent.\nSupreme Court of Pennsylvania.\nAug. 25, 1986."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 384,
+  "last_page_order": 385
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1906743,
+  "name": "Cochran Will",
+  "name_abbreviation": "Cochran Will",
+  "decision_date": "1967-05-24",
+  "docket_number": "Appeal, No. 259",
+  "first_page": "634",
+  "last_page": "635",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "425 Pa. 634"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "222 A. 2d 885",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "422 Pa. 540",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1901714
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/422/0540-01"
+      ]
+    },
+    {
+      "cite": "174 A. 2d 870",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "405 Pa. 238",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1303543
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/405/0238-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 350,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06956544570745245
+    },
+    "sha256": "168628c15d0b25e2eb0be462ddf0b29c98b4591dca4adb93f25a4858e8a642fa",
+    "simhash": "1:c3b88de4216a6e36",
+    "word_count": 61
+  },
+  "last_updated": "2024-02-27T19:31:34.821437+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Cochran Will."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPee Curiam,\nDecree affirmed. Kadilak Will, 405 Pa. 238, 174 A. 2d 870 (1961). See also Holtz Will, 422 Pa. 540, 222 A. 2d 885 (1966).\nCosts on appellant.",
+        "type": "majority",
+        "author": "Pee Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Blair F, Green, for appellant.",
+      "Robert E. Ashe, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Cochran Will.\nArgued March 20, 1967.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nBlair F, Green, for appellant.\nRobert E. Ashe, for appellee.\nMay 24, 1967:"
+  },
+  "file_name": "0634-01",
+  "first_page_order": 670,
+  "last_page_order": 671
+}

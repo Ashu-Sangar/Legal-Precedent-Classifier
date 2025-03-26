@@ -1,0 +1,70 @@
+{
+  "id": 12283846,
+  "name": "Com. v. Wilkerson",
+  "name_abbreviation": "Com. v. Wilkerson",
+  "decision_date": "2015-09-29",
+  "docket_number": "292 MAL (2015)",
+  "first_page": "767",
+  "last_page": "767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 767"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 76,
+    "ocr_confidence": 0.877,
+    "sha256": "29d3207c5bc9d346bd43801e176c2d4e30aba751e5c34ff774cd6f64a7502144",
+    "simhash": "1:22012128d734c8c0",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Wilkerson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1054",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Wilkerson\n09/29/2015\n292 MAL (2015)"
+  },
+  "file_name": "0767-11",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

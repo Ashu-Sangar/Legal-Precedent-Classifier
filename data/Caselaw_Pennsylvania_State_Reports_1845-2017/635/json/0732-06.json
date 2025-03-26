@@ -1,0 +1,70 @@
+{
+  "id": 12282346,
+  "name": "Com. v. Saragih",
+  "name_abbreviation": "Com. v. Saragih",
+  "decision_date": "2016-02-25",
+  "docket_number": "656 MAL (2015)",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 A.3d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "ocr_confidence": 0.725,
+    "sha256": "9a6a4b50e04b392f97040adc49925686b15534ce4aa08db9fb752bb2193d73c2",
+    "simhash": "1:a576e5759b8a9954",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Saragih"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 104",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Saragih\n02/25/2016\n656 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0732-06",
+  "first_page_order": 792,
+  "last_page_order": 792
+}

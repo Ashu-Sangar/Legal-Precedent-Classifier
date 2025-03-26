@@ -1,0 +1,119 @@
+{
+  "id": 4078317,
+  "name": "In the Interest of C.S., a Juvenile. Appeal of Commonwealth of Pennsylvania",
+  "name_abbreviation": "In the Interest of C.S.",
+  "decision_date": "2014-01-23",
+  "docket_number": "No. 27 MAP 2013",
+  "first_page": "212",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "624 Pa. 212"
+    },
+    {
+      "type": "parallel",
+      "cite": "84 A.3d 698"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "486 Pa. 241",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1757593
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that issues, even of constitutional dimension, cannot be raised for the first time on appeal"
+        },
+        {
+          "page": "883-84",
+          "parenthetical": "holding that issues, even of constitutional dimension, cannot be raised for the first time on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/486/0241-01"
+      ]
+    },
+    {
+      "cite": "395 Pa.Super. 221",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        881225
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "determining it was improper for trial court to act as advocate and sua sponte raise defenses on behalf of a party"
+        },
+        {
+          "page": "1128",
+          "parenthetical": "determining it was improper for trial court to act as advocate and sua sponte raise defenses on behalf of a party"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/395/0221-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 183,
+    "char_count": 1837,
+    "ocr_confidence": 0.715,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.12977938096004826
+    },
+    "sha256": "5e1e343c5b49cc86dfa5aba8a05f79b4203c32924a93417d81076f5b9c4034a5",
+    "simhash": "1:77b90cbee60b1d26",
+    "word_count": 296
+  },
+  "last_updated": "2024-02-27T21:02:06.836768+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justices EAKIN and TODD join the order reversing and remanding the case, but express no opinion on matters of waiver."
+    ],
+    "parties": [
+      "In the Interest of C.S., a Juvenile. Appeal of Commonwealth of Pennsylvania."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 23rd day of January, 2014, the order of the court of common pleas is REVERSED, the delinquency petition is REINSTATED, and the case is REMANDED to the court of common pleas for resolution of any issues C.S. properly raised in her motion to dismiss. The court erred when it sua sponte raised a vagueness challenge to 18 Pa.C.S. \u00a7 6312 and declared the statute unconstitutional on that basis. See MacGregor v. Mediq, Inc., 395 Pa.Super. 221, 576 A.2d 1123, 1128 (1990) (determining it was improper for trial court to act as advocate and sua sponte raise defenses on behalf of a party). By failing to raise such a challenge in the trial court, C.S. waived the issue for purposes of appeal. See Commonwealth v. Klobuchir, 486 Pa. 241, 405 A.2d 881, 883-84 (1979) (holding that issues, even of constitutional dimension, cannot be raised for the first time on appeal); see also Pa.R.A.P. 302(a). C.S.\u2019s additional argument that we should address the constitutional issue now in the interest of judicial economy is meritless, because she cannot raise the issue on remand. See Pa.R.J.C.P. 346 (\u201cUnless otherwise required in the interests of justice, all pre-adjudicatory requests for relief shall be included in one omnibus motion filed prior to the adjudicatory hearing.\u201d).\nJustices EAKIN and TODD join the order reversing and remanding the case, but express no opinion on matters of waiver.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Heather F. Gallagher, James Bernard Martin, Lehigh County District Attorney\u2019s Office, for Commonwealth of Pennsylvania.",
+      "Andrea Dawn Olsovsky, Christian Michael Perrucci, Lehigh County Public Defender\u2019s Office, Marsha Levick, Riya Saha Shah, Juvenile Law Center, Philadelphia, for C.S."
+    ],
+    "corrections": "",
+    "head_matter": "84 A.3d 698\nIn the Interest of C.S., a Juvenile. Appeal of Commonwealth of Pennsylvania.\nSupreme Court of Pennsylvania.\nJan. 23, 2014.\nHeather F. Gallagher, James Bernard Martin, Lehigh County District Attorney\u2019s Office, for Commonwealth of Pennsylvania.\nAndrea Dawn Olsovsky, Christian Michael Perrucci, Lehigh County Public Defender\u2019s Office, Marsha Levick, Riya Saha Shah, Juvenile Law Center, Philadelphia, for C.S."
+  },
+  "file_name": "0212-01",
+  "first_page_order": 262,
+  "last_page_order": 263
+}

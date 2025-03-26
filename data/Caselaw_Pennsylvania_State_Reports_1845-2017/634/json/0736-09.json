@@ -1,0 +1,80 @@
+{
+  "id": 12281589,
+  "name": "Linde v. Linde Enterprises, Inc.; Linde, In re",
+  "name_abbreviation": "Linde v. Linde Enterprises, Inc.",
+  "decision_date": "2015-12-23",
+  "docket_number": "528 MAL (2015)",
+  "first_page": "736",
+  "last_page": "736",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 736"
+    },
+    {
+      "type": "parallel",
+      "cite": "129 A.3d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "118 A.3d 422",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6860627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/118/0422-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 172,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905602604630617
+    },
+    "sha256": "5eb3b14f6f862ab4600b865b1315bf024291d2540497adf914a1d5ce16daacef",
+    "simhash": "1:2d26a94cb778a1ce",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linde v. Linde Enterprises, Inc.; Linde, In re"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 118 A.3d 422",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Linde v. Linde Enterprises, Inc.; Linde, In re\n12/23/2015\n528 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0736-09",
+  "first_page_order": 780,
+  "last_page_order": 780
+}

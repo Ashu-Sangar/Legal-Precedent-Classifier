@@ -1,0 +1,70 @@
+{
+  "id": 12282548,
+  "name": "Com. v. Evans",
+  "name_abbreviation": "Com. v. Evans",
+  "decision_date": "2016-08-04",
+  "docket_number": "163 EAL (2016)",
+  "first_page": "658",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 658"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 649",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 169,
+    "ocr_confidence": 0.747,
+    "sha256": "bf36b90ab62c11731f93f64ce62fa8e9bc9f58dcccf05bf02d09a321702a23fc",
+    "simhash": "1:3b33fadeab9ef15c",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Evans"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 649",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Evans\n08/04/2016\n163 EAL (2016)\n. Justices DONOHUE and MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0658-10",
+  "first_page_order": 710,
+  "last_page_order": 710
+}

@@ -1,0 +1,67 @@
+{
+  "id": 3595004,
+  "name": "COMMONWEALTH of Pennsylvania, v. Imanuel Bassil ALI, a/k/a Emanuel Lester, Appeal of Community Federal Defender Office for the Eastern District of PA",
+  "name_abbreviation": "Commonwealth v. Ali",
+  "decision_date": "2007-10-31",
+  "docket_number": "No. 29 EAP 2007",
+  "first_page": "312",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "594 Pa. 312"
+    },
+    {
+      "type": "parallel",
+      "cite": "935 A.2d 1271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 319,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.10112688313568473
+    },
+    "sha256": "e2a87d4c230447c0e6d28e1578ead7d633f6bc09a7f482ec2a54db3b2cf8b908",
+    "simhash": "1:e01f8332738f3d72",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T22:19:05.384814+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, v. Imanuel Bassil ALI, a/k/a Emanuel Lester, Appeal of Community Federal Defender Office for the Eastern District of PA."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of October, 2007, the Motion to Quash is granted.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "935 A.2d 1271\nCOMMONWEALTH of Pennsylvania, v. Imanuel Bassil ALI, a/k/a Emanuel Lester, Appeal of Community Federal Defender Office for the Eastern District of PA.\nNo. 29 EAP 2007.\nSupreme Court of Pennsylvania.\nOct. 31, 2007."
+  },
+  "file_name": "0312-01",
+  "first_page_order": 386,
+  "last_page_order": 386
+}

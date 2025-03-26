@@ -1,0 +1,80 @@
+{
+  "id": 12286122,
+  "name": "Tullytown Borough v. Armstrong",
+  "name_abbreviation": "Borough v. Armstrong",
+  "decision_date": "2016-09-06",
+  "docket_number": "121 MAL (2016)",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "129 A.3d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6767430
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/129/0619-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 90,
+    "ocr_confidence": 0.838,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24934195005191423
+    },
+    "sha256": "45f30ab7481f5d4bb96236f4768efa5847d9420782e9445c4913239cad3d6e1d",
+    "simhash": "1:3c54c27a82d1491d",
+    "word_count": 13
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tullytown Borough v. Armstrong."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Cmwlth., 129 A.3d 619",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tullytown Borough v. Armstrong.\n09/06/2016\n121 MAL (2016)"
+  },
+  "file_name": "0681-09",
+  "first_page_order": 733,
+  "last_page_order": 733
+}

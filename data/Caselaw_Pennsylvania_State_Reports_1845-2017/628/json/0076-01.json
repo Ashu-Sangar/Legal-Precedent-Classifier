@@ -1,0 +1,103 @@
+{
+  "id": 4366228,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Dontez PERRIN, Respondent",
+  "name_abbreviation": "Commonwealth v. Perrin",
+  "decision_date": "2014-10-02",
+  "docket_number": "No. 89 EAL 2013",
+  "first_page": "76",
+  "last_page": "76",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "628 Pa. 76"
+    },
+    {
+      "type": "parallel",
+      "cite": "103 A.3d 1224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 2722742",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 A.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4216658,
+        6939471
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0582-01",
+        "/a3d/93/0818-01"
+      ]
+    },
+    {
+      "cite": "625 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4216658
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/625/0582-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 436,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 6.184765865984079e-08,
+      "percentile": 0.383726425749146
+    },
+    "sha256": "12b2dbe48b21155c3d86ab4a4503e21957c920fc6aca87380fc19d42ea7a4740",
+    "simhash": "1:399b139306bb0ca6",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T20:45:03.566989+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Dontez PERRIN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of October, 2014, the Petition for Allowance of Appeal is GRANTED, the order of the Superior Court is VACATED, and the matter is REMANDED to the Superior Court for reconsideration in light of Commonwealth v. Castro, 625 Pa. 582, 93 A.3d 818, 2014 WL 2722742 (2014).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "103 A.3d 1224\nCOMMONWEALTH of Pennsylvania, Petitioner v. Dontez PERRIN, Respondent.\nSupreme Court of Pennsylvania.\nOct. 2, 2014."
+  },
+  "file_name": "0076-01",
+  "first_page_order": 120,
+  "last_page_order": 120
+}

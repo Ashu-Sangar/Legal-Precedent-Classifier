@@ -1,0 +1,70 @@
+{
+  "id": 12286302,
+  "name": "Com. v. Barksdale",
+  "name_abbreviation": "Com. v. Barksdale",
+  "decision_date": "2015-12-11",
+  "docket_number": "351 WAL (2015)",
+  "first_page": "783",
+  "last_page": "783",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 783"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 463",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.853,
+    "sha256": "03e013a4816f7ba0f132f7916215a04401d8ed8a90ef77dabacd38497bfee21a",
+    "simhash": "1:5912e40d8bf04357",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Barksdale"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 463",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Barksdale\n12/11/2015\n351 WAL (2015)"
+  },
+  "file_name": "0783-08",
+  "first_page_order": 837,
+  "last_page_order": 837
+}

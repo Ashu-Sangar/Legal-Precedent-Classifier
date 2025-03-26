@@ -1,0 +1,96 @@
+{
+  "id": 1809809,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Charles BATES, Petitioner",
+  "name_abbreviation": "Commonwealth v. Bates",
+  "decision_date": "1988-02-01",
+  "docket_number": "Petition No. 1457 E.D.Alloc.Dkt.1985",
+  "first_page": "369",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 369"
+    },
+    {
+      "type": "parallel",
+      "cite": "537 A.2d 1350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "532 A.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1808593,
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0364-01",
+        "/pa/516/0365-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 409,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06731956187407065
+    },
+    "sha256": "a1fbd9c041dd9db00631365a1ccbc82d860eca7f14fabfa28f1a2b050ca757af",
+    "simhash": "1:d2336cd7e58b0db2",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Charles BATES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nPetitioner\u2019s request for allowance of appeal is granted. The Order of the Superior Court is reversed, and the case is remanded to the Court of Common Pleas of Bucks County for resentencing in light of Commonwealth v. Sessoms, 516 Pa. 365, 532 A.2d 775 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "537 A.2d 1350\nCOMMONWEALTH of Pennsylvania, Respondent, v. Charles BATES, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 1, 1988."
+  },
+  "file_name": "0369-02",
+  "first_page_order": 437,
+  "last_page_order": 438
+}

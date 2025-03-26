@@ -1,0 +1,912 @@
+{
+  "id": 988481,
+  "name": "EAGLE ENVIRONMENTAL II, L.P., Appellant v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF ENVIRONMENTAL PROTECTION and Chest Township, Appellees; Tri-County Industries, Inc. and Tri-County Landfill, Inc., Appellants v. Commonwealth of Pennsylvania, Department of Environmental Protection, Appellee",
+  "name_abbreviation": "Eagle Environmental II, L.P. v. Commonwealth",
+  "decision_date": "2005-10-27",
+  "docket_number": "Nos. 261, 263 MAP 2003",
+  "first_page": "494",
+  "last_page": "529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "584 Pa. 494"
+    },
+    {
+      "type": "parallel",
+      "cite": "884 A.2d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "152 U.S. 133",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3574181
+      ],
+      "weight": 3,
+      "year": 1894,
+      "pin_cites": [
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/152/0133-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559552,
+        11705261
+      ],
+      "weight": 6,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "395"
+        },
+        {
+          "page": "395",
+          "parenthetical": "citations and quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0304-01",
+        "/a2d/715/0390-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 304",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559552
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0304-01"
+      ]
+    },
+    {
+      "cite": "817 A.2d 451",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        716454,
+        9365390
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0431-01",
+        "/a2d/817/0451-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716454
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0431-01"
+      ]
+    },
+    {
+      "cite": "684 A.2d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        466754,
+        7359652
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1055"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/546/0315-01",
+        "/a2d/684/1047-01"
+      ]
+    },
+    {
+      "cite": "546 Pa. 315",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        466754
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/546/0315-01"
+      ]
+    },
+    {
+      "cite": "25 Pa. Code \u00a7\u00a7 271.127",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "690 A.2d 1157",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        468717,
+        11926182
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0425-01",
+        "/a2d/690/1157-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468717
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0425-01"
+      ]
+    },
+    {
+      "cite": "422 A.2d 487",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1767173,
+        1767127
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "490",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "490"
+        },
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/492/0090-01",
+        "/pa/492/0092-01"
+      ]
+    },
+    {
+      "cite": "492 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1767127
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/492/0092-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798706
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "1320",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0088-01"
+      ]
+    },
+    {
+      "cite": "805 A.2d 476",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        312760,
+        11433559
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "479"
+        },
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0436-01",
+        "/a2d/805/0476-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 436",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312760
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0436-01"
+      ]
+    },
+    {
+      "cite": "834 A.2d 488",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9080480,
+        630448
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/834/0488-01",
+        "/pa/575/0005-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 5",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630448
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0005-01"
+      ]
+    },
+    {
+      "cite": "818 A.2d 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9353551
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "581"
+        },
+        {
+          "page": "585"
+        },
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/818/0574-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 489",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306266
+      ],
+      "weight": 7,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "497-98"
+        },
+        {
+          "page": "497"
+        },
+        {
+          "page": "498-499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0489-01"
+      ]
+    },
+    {
+      "cite": "468 Pa. 226",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1719712
+      ],
+      "weight": 6,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Payne //\""
+        },
+        {
+          "parenthetical": "\"Payne //\""
+        },
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/468/0226-01"
+      ]
+    },
+    {
+      "cite": "312 A.2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Payne /\""
+        },
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "730 A.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        607176,
+        11613132
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "942"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0621-01",
+        "/a2d/730/0935-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 621",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607176
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0621-01"
+      ]
+    },
+    {
+      "cite": "2002 WL 648978",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 1
+    },
+    {
+      "cite": "673 A.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461545,
+        7865205
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "904",
+          "parenthetical": "explaining that a per curiam affirmance becomes the law of the case, but to adopt the rationale employed by the intermediate appellate court, we would need to enter a per curiam Order to affirm \"on the basis of the opinion of the lower court\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/543/0578-01",
+        "/a2d/673/0898-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461545
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that a per curiam affirmance becomes the law of the case, but to adopt the rationale employed by the intermediate appellate court, we would need to enter a per curiam Order to affirm \"on the basis of the opinion of the lower court\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/543/0578-01"
+      ]
+    },
+    {
+      "cite": "619 A.2d 1063",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1837424,
+        923472
+      ],
+      "year": 1993,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/533/0097-01",
+        "/pa-super/422/0489-01"
+      ]
+    },
+    {
+      "cite": "533 Pa. 97",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1837424
+      ],
+      "year": 1993,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/533/0097-01"
+      ]
+    },
+    {
+      "cite": "348 A.2d 910",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "600 A.2d 260",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1423148
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa-commw/143/0577-01"
+      ]
+    },
+    {
+      "cite": "323 U.S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1229682
+      ],
+      "weight": 3,
+      "year": 1944,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/323/0134-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 546",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9873
+      ],
+      "weight": 3,
+      "year": 1973,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/411/0546-01"
+      ]
+    },
+    {
+      "cite": "313 A.2d 156",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "169"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "455 Pa. 52",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        582037
+      ],
+      "year": 1973,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/455/0052-01"
+      ]
+    },
+    {
+      "cite": "16 A.2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "9",
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "340 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1203404
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "parenthetical": "internal citation omitted"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/340/0001-01"
+      ]
+    },
+    {
+      "cite": "211 A.2d 487",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "418 Pa. 520",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1896035
+      ],
+      "year": 1965,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/418/0520-01"
+      ]
+    },
+    {
+      "cite": "464 Pa. 168",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1710363
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/464/0168-01"
+      ]
+    },
+    {
+      "cite": "272 A.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "480"
+        },
+        {
+          "parenthetical": "internal quotation and citation omitted"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "441 Pa. 293",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1933867
+      ],
+      "year": 1971,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/441/0293-01"
+      ]
+    },
+    {
+      "cite": "487 Pa. 516",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1759059
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "\"substantive rule-making is a widely used administrative practice, and its use should be upheld whenever the statutory delegation can reasonably be construed to authorize it\""
+        },
+        {
+          "page": "733",
+          "parenthetical": "\"substantive rule-making is a widely used administrative practice, and its use should be upheld whenever the statutory delegation can reasonably be construed to authorize it\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/487/0516-01"
+      ]
+    },
+    {
+      "cite": "422 A.2d 487",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1767173,
+        1767127
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "489",
+          "parenthetical": "citing State Bd. of Chiropractic Examiners v. Life Fellowship of Pa., 441 Pa. 293, 272 A.2d 478, 480 (1971)"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/492/0090-01",
+        "/pa/492/0092-01"
+      ]
+    },
+    {
+      "cite": "492 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1767127
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State Bd. of Chiropractic Examiners v. Life Fellowship of Pa., 441 Pa. 293, 272 A.2d 478, 480 (1971)"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/492/0092-01"
+      ]
+    },
+    {
+      "cite": "818 A.2d 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9353551
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "584"
+        },
+        {
+          "page": "586"
+        },
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/a2d/818/0574-01"
+      ]
+    },
+    {
+      "cite": "468 Pa. 226",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1719712
+      ],
+      "weight": 9,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "273",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/468/0226-01"
+      ]
+    },
+    {
+      "cite": "312 A.2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 3
+    }
+  ],
+  "analysis": {
+    "cardinality": 1995,
+    "char_count": 68622,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 1.5741859769074024e-07,
+      "percentile": 0.6792210665563899
+    },
+    "sha256": "5790d246a9f36859a17f8919cf446abf06a9380c3b56977846935efa2c848c85",
+    "simhash": "1:3f45f5ee699ca466",
+    "word_count": 10663
+  },
+  "last_updated": "2024-02-27T19:42:10.084196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CAPPY, C.J., CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ.",
+      "Chief Justice CAPPY and Justice NIGRO join the majority opinion.",
+      "Justice CASTILLE files a concurring opinion.",
+      "Justice NEWMAN files a dissenting opinion in which Justice EAKIN joins.",
+      "Justice EAKIN joins this Dissenting Opinion."
+    ],
+    "parties": [
+      "EAGLE ENVIRONMENTAL II, L.P., Appellant v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF ENVIRONMENTAL PROTECTION and Chest Township, Appellees. Tri-County Industries, Inc. and Tri-County Landfill, Inc., Appellants v. Commonwealth of Pennsylvania, Department of Environmental Protection, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice BAER.\nWe granted review of this ease to determine whether the en banc panel of the Commonwealth Court correctly concluded that the Environmental Quality Board\u2019s (EQB) regulations adopting a \u201cHarms/Benefits Test\u201d as part of the permitting process for waste disposal facilities are constitutional and authorized by the Solid Waste Management Act (SWMA), 35 P.S. \u00a7\u00a7 6018.101-6018.1003, and the Municipal Waste Management Planning, Recycling and Waste Reduction Act (Act 101), 53 P.S. \u00a7\u00a7 4000.101-4000.1904 (collectively \u201cthe Acts\u201d). For the foregoing reasons, we conclude that the regulations are within the authority granted by the General Assembly to the EQB and further withstand the other facial challenges to their constitutionality brought by Appellants Eagle Environmental II, L.P. (\u201cEagle\u201d) and Tri-County Industries, Inc. and TriCounty Landfill, Inc. (\u201cTri-County\u201d) (collectively \u201cAppellants\u201d). Therefore, we affirm the decision of the Commonwealth Court.\nFacts and Procedural History\nThe EQB published the regulations entitled \u201cEnvironmental assessment\u201d as final rules. 25 Pa.Code \u00a7\u00a7 271.127 (pertaining to the municipal waste and effective December 23, 2000), 287.127 (pertaining to residual waste and effective January 13, 2001). The regulations at issue relate to a portion of the first phase of a two-phase application process by which landfill operators obtain permits from the Department of Environmental Protection (DEP). 25 Pa.Code \u00a7\u00a7 273.101, 288.101. The two regulations contain nearly identical language and differ only as to the type of facility regulated. In Subsection (a), the regulation requires that a permit application include \u201ca detailed analysis of the potential impact of the proposed facility on the environment, public health and public safety, including traffic, aesthetics, air quality, water quality, stream flow, fish and wildlife, plants, aquatic habitat, threatened or endangered species, water uses and land use.\u201d 25 Pa.Code 271.127(a), 287.127(a). Furthermore, it requires consideration of environmental features \u201csuch as scenic rivers, recreational river corridors, local parks, State and Federal forests and parks, the Appalachian trail, historic and archaeological sites, National wildlife refuges, State natural areas, National landmarks, farmland, wetland, special protection watersheds ..., airports, public water supplies and other features deemed appropriate by the Department or the applicant.\u201d Id.\nAfter satisfying the investigatory aspects of subsection (a), the applicant under subsection (b) must describe any known and potential environmental harms, provide mitigation plans, and identify any known or potential unmitigated environmental harms. The DEP then \u201cwill review the assessment and mitigation plans to determine whether there are additional harms and whether all known and potential environmental harms will be mitigated.\u201d 25 Pa.Code \u00a7\u00a7 271.127(b), 287.127(b). The DEP finally reviews the mitigation measures \u201cto ensure that individually and collectively they adequately protect the environment and the public health, safety and welfare.\u201d Id.\nOnce the DEP determines that the mitigation measures for the known and potential environmental harms are adequate, the next step in the assessment is the Harms/Benefits Test set forth in subsection (c), which is the subject of the challenges in this case:\n(c) ... the applicant shall demonstrate that the benefits of the project to the public clearly outweigh the known and potential environmental harms. In making this demonstration, the applicant shall consider harms and mitigation measures described in subsection (b). The applicant shall describe in detail the benefits relied upon. The benefits of the project shall consist of social and economic benefits that remain after taking into consideration the known and potential social and economic harms of the project and shall also consist of the environmental benefits of the project, if any.\n25 Pa.Code \u00a7\u00a7 271.127(c), 287.127(c) (omitting only the portion of the subsection describing the applicable type of waste facility). The DEP then performs the second phase of the review which includes a technical review of the project.\nEagle\u2019s challenge to the Harms/Benefits Test arises as a result of a permit issued for its Royal Oak Landfill, a residual waste landfill in Chest Township, Clearfield County. Eagle filed submissions to obtain the permit between November 2000 and January 2001, which apparently complied with the requirements of the regulation which became effective January 13,2001.\nEagle\u2019s documents identified a number of benefits flowing from the project. Eagle cited the following potential short term benefits: disposal of debris in the event of a disaster; payments for health and safety training courses for landfill operators; and use of coal excavated from the site. Eagle identified additional real short term economic benefits: jobs for local residents at the landfill; increased employment at businesses associated with or located near the landfill; increased local, state and federal income taxes as a result of increased employment; higher real estate taxes; a $2 dollar per ton host fee to the township (as specifically authorized by 53 P.S. \u00a7 4000.102(b)(7)); and provision of a recycling drop-off center. Eagle further noted real long term benefits of the project: replacement of wetland acreage (although the project would disturb .17 acres of wetlands, the disturbed wetland would be replaced with .42 acres of wetlands); improvement of the roads leading to the landfill; benefit to wetlands in the form of landfill runoff and reduced erosion; reclamation of a strip mine, and the resulting visual enhancement and increased soil fertility.\nIn contrast, Eagle identified harms resulting from the landfill and described how those harms could or could not be mitigated. The potential harm of a malfunction of the leach-ate treatment plant could be mitigated by proper operation of the plant and utilization of a leachate storage tank. Eagle recognized the potential negative impact on the residents of the area but concluded that any impact would largely be anticipatory and could be alleviated by working with the residents. Eagle acknowledged sediment-laden runoff as a harm but asserted that it could be mitigated by erosion and sedimentation control features, and various measures relating to sediment required by other regulations. Furthermore, the resulting sedimentary ponds would be beneficial to aquatic life and migratory birds. Eagle observed that an increased risk of fires, emergencies, and accidents that could result from the project would burden the local emergency services, but could be mitigated by contingency planning, fire protection measures, and payments to the local fire departments to cover the increased burden. Eagle further noted the short term harms caused by waste hauling trucks which include fumes, visual impact, noise, spills, and odors. Eagle offered to mitigate these harms by insuring that the trucks are well maintained and that other measures would be employed to reduce the dust, noise, and odors resulting from the site.\nEagle acknowledged the long term harms of the project. After closure of the landfill, the land, which is currently woodland, would be converted to grassland. Eagle argued that, although the conversion could be viewed as a harm, it could also be seen as a benefit because it would increase species diversity in the area. Another long term harm is the negative aesthetic aspect of the landfill, however, Eagle planned to mitigate this by planting vegetation around the perimeter of the landfill.\nThe DEP found that the benefits outweighed the harms in part because the harms were only potentialities, whereas the benefits were actual. Therefore, after further review of the technical aspects, the DEP granted, in essence, a conditional permit on August 3, 2001. The permit included Condition 22, which stated, \u201cFailure to provide for all benefits described in these submissions would invalidate the Harms/Benefits analysis and will be a violation of this permit.\u201d\nEagle appealed to the Environmental Hearing Board (EHB), objecting to Condition 22 and challenging the facial validity of the Harms/Benefits Test. Eagle asserted that, pursuant to Condition 22, it could be subject to penalties resulting from the failure to supply the benefits even if such failure were related to economic events outside of its control. Chest Township also appealed the decision to grant the permit and requested that the permit be revoked, asserting that the benefits did not clearly outweigh the harms. Eagle filed for summary judgment of Chest Township\u2019s claims, asserting that the Harms/Benefits Test was invalid and unconstitutional.\nThe majority of the EHB denied Eagle\u2019s motion, concluding that the regulation was valid and constitutional. Observing that the regulation in question was adopted pursuant to the EQB\u2019s legislative rulemaking authority rather than its interpretive rulemaking authority, the EHB noted that courts must give such a regulation the same deference as given to a duly adopted statute so long as the regulation was (a) within the authority granted to the adopting agency; (b) issued pursuant to proper procedure; and (c) reasonable. EHB Slip. Op. at 10, citing Housing Authority of County of Chester v. Pennsylvania State Civil Service Com\u2019n, 556 Pa. 621, 730 A.2d 935, 942 (1999). Appellants only challenged the regulation as violative of the first requirement relating to whether they are \u25a0within the authority granted to the EQB by the SWMA and Act 101.\nThe majority of the EHB further concluded that the regulation was within the granted authority of the Acts. It noted that Section 105 of the SWMA granted the EQB the broad power to adopt rules and regulations to accomplish the purposes of the Act, including \u201cthe protection of safety, health, welfare and property of the public and the air, water and other natural resources of the Commonwealth.\u201d The majority then looked to the purposes of the Acts set forth in Section 102 of each Act which authorized the agency to take economic and social considerations into account rather than merely limiting their authority to preventing environmental harms. See 35 P.S. \u00a7 6018.102; 53 P.S. \u00a7 4000.102. The majority additionally relied on both Acts\u2019 listed purpose of implementing Article 1, Section 27 of the Pennsylvania Constitution, known as the Environmental Amendment. Relying on the Commonwealth Court\u2019s decision in Payne v. Kassab, 11 Pa.Cmwlth. 14, 312 A.2d 86 (1973) (\u201cPayne /\u201d) and this Court\u2019s affirmance of Payne I, 468 Pa. 226, 361 A.2d 263 (1976) (\u201cPayne //\u201d) and subsequent cases, the EHB concluded that reference to Article 1, Section 27 signaled a need to balance environmental and social concerns, which, in turn, provides authority for the Harms/Benefits Test employed by the regulation.\nThe EHB then held that the regulation did not violate the non-delegation doctrine because the Harms/Benefits Test did not constitute a \u201cbasic policy choice\u201d which the legislature could not delegate to an agency. Instead, the EHB held that the legislature had made the basic policy decision to permit landfills, subject to restrictions set forth in a comprehensive waste management program which would protect the public\u2019s health, safety and welfare and the environment, and encourage private enterprise and the development of resource recovery.\nThe people have a right to clean air, pure water, and to the preservation of the natural, scenic, historic and esthetic values of the environment. Pennsylvania's public natural resources are the common property of all the people, including generations yet to come. As trustee of these resources, the Commonwealth shall conserve and maintain them for the benefit of all the people.\nNext, the EHB determined that the authorization of the Harms/Benefits Test by the Acts did not constitute a violation of the Commonwealth\u2019s police power as the police power may be utilized both to protect the public from harm and to promote public health and the general well-being of the community. Furthermore, the EHB concluded that the regulation did not constitute an unconstitutional taking, finding that the regulation did not require applicants to convey economic benefits, but rather merely to identify the social and economic benefits inherent in the project and demonstrate that those benefits outweigh the harms.\nFinally, the EHB determined that the regulation was not unconstitutionally vague in that it provided entities sufficient notice and could be narrowed through ample consultation with the DEP, which occurs during the permitting process. Relying on the United States Supreme Court\u2019s decision in Village of Hoffman Estates v. Flipside, Hoffman Estates, Inc., 455 U.S. 489, 497-98, 102 S.Ct. 1186, 71 L.Ed.2d 362 (1982), the EHB concluded that Eagle was unable to show that the regulation was impermissibly vague in all its applications, especially considering that it was a business regulation. The EHB did, however, recognize the potential for arbitrary enforcement, but concluded that Eagle had failed to prove that the regulation was facially unconstitutionally vague. Furthermore, the EHB recognized that a more specific regulation would be nearly impossible to draft due to the plethora of variables in the permitting process. Concluding that the regulation was within the authority granted by the Acts and otherwise constitutional, the EHB denied Eagle\u2019s motion, but certified it for interlocutory appeal to the Commonwealth Court.\nOne EHB member drafted an emphatic dissent asserting that the Acts do not provide authority for a balancing of harms and benefits with the required clear and unmistakable language. He argued that the Acts are directed toward ensuring the protection of the environment and not the provision of social and economic benefits. He feared that if the EQB is allowed to utilize the Harms/Benefits Test in relation to the SWMA and Act 101, it will be able to do so in nearly all environmental legislation that references Article 1, Section 27, and thus make basic policy choices that should be reserved to the legislative branch. He further agreed with Appellants that the Harms/Benefits Test is void for vagueness due to the ambiguity inherent in the terms \u201charms,\u201d \u201cbenefits,\u201d and \u201cclearly outweigh.\u201d\nDuring approximately the same time-frame, Tri-County\u2019s case proceeded through a similar administrative process and was lodged in the Commonwealth Court. In July 2000, TriCounty filed a \u201cSubstitute Repermitting Application\u201d to construct a municipal waste landfill in a portion of their existing landfill in Pine and Liberty Townships in Mercer County. While the permit application was pending, the regulation at issue in this case became effective. Tri-County submitted documents and an environmental assessment noting potential harms and benefits. In October, 2001, the DEP denied the permit because it concluded that Tri-County failed to mitigate adequately the increased risk of aircraft striking birds attracted to the food waste in the landfill which was located near the Grove City Airport. The DEP found that without the bird issue, the permit would have been granted as the project\u2019s benefits outweighed the other harms.\nTri-County appealed the DEP\u2019s decision to the EHB challenging the validity of the Harms/Benefits Test and moved for summary judgment. In April 2002, the EHB denied TriCounty\u2019s motion based on its decision on Eagle\u2019s motion for summary judgment, but similarly, certified the case for interlocutory appeal. The Commonwealth Court granted Eagle permission to appeal in June 2002 and consolidated the appeal with that of Tri-County.\nOn February 10, 2003, the Commonwealth Court affirmed the EHB\u2019s decision. Tri-County Industries, Inc. v. Commonwealth of Pennsylvania, Dep\u2019t of Environmental Protection, 818 A.2d 574 (Pa.Cmwlth.2003). Addressing the same issues raised before this Court, Judge Smith-Ribner wrote for the majority which found the Harms/Benefits Test constitutional. First, the Commonwealth Court concluded that the Acts \u201cclearly conferred broad supervisory power on the [EQB] over health, safety and welfare concerns beyond the narrow interpretation of simple protection of the environment from harm, and that the power conferred was broad enough to encompass the adoption of the harms/benefits test.\u201d Id. at 581. Second, the court found that the legislature signaled its intent to authorize a balancing of environmental concerns against social and economic concerns by including implementation of Article 1, Section 27 in the purpose sections of both Acts. Next, the court held that the Acts\u2019 delegation of authority, which included the ability to adopt the Harms/Benefits Test, did not violate the non-delegation doctrine. Fourth, the court concluded that the Harms/Benefits Test was not facially unconstitutionally vague. The court further rejected the suggestion of Appellants that the benefits portion of the Harms/Benefits Test requires coerced contributions, but instead noted that the benefits must be related to the project and many times arise directly from the project. The court finally concluded that because the benefits arise from the project they do not violate the police power. The court therefore held that the regulation was authorized by the SWMA and Act 101 and was not otherwise unconstitutional.\nOne judge dissented, asserting that the SWMA and Act 101 did not clearly and unambiguously confer authority on the EQB to promulgate the Harms/Benefits Test. The dissent is based oh the flawed assumption that the Harms/Benefits Test authorizes the DEP to consider the establishment of schools and charitable contributions as benefits. Apparently relying on information provided in the DEP\u2019s August 24, 2002 nonbinding guidance document (Environmental Assessment Process, Phase I Review (EAP)) rather than the language of the regulation at issue, the dissent asserted that the purposes of the Acts were not \u201caccomplished by the establishing of schools or the making of charitable contributions.\u201d Id. at 585.\nEagle and Tri-County now appeal from the Commonwealth Court\u2019s order affirming the EQB and the constitutionality of the regulation. Appellants challenge the Harms/Benefits Test on a number of bases. They first assert that the regulation is not within the authority granted to the EQB and thus is ultra vires because the purposes specified in the Acts, specifically the reference to implementation of Article I, Section 27, do not provide the necessary clear and unmistakable language required to justify the regulation\u2019s promulgation. Second, if we determine that the Acts do grant the EQB authority to promulgate the Harms/Benefits Test, Appellants argue that such grant of authority constitutes a violation of the non-delegation doctrine in that the decision to require social and economic benefits is a basic policy choice and that such decision must be made by the legislature. Third, Appellants challenge the regulation as unconstitutionally vague. Finally, Eagle argues that the test which requires the provision of benefits is beyond the reach of the Commonwealth\u2019s police power. Although, the issues are closely related, we will answer each separately.\nI. Is the Harms/Benefits Test within the authority granted by the SWMA and Act 101?\nAppellants assert that the general grant of rule-making authority and the reference to Article I, Section 27 do not provide the EQB with the authority to require a permit applicant to show that their project will provide social and economic benefits to the public in order for the DEP to grant a private landowner a permit for a project which otherwise meets all other environmental requirements. They contend that if the legislature intended to impose a Harms/Benefits Test, it would have done so in clear and unmistakable language as in other statutes. Instead, Appellants argue that the EQB\u2019s authority should be limited to developing regulations which evaluate a project\u2019s potential impact on the environment.\nIn regard to the argument that Article I, Section 27 provides authority for the Harms/Benefits Test, Appellants assert that no further balancing is required in that the legislature made the basic policy choice of balancing the potential impact of landfills on the public\u2019s health and safety and the environment with the need for waste disposal facilities by requiring compliance with engineering principles and environmental standards. Furthermore, they assert that Article 1, Section 27 must be interpreted as limiting the powers of the Commonwealth in relation to public property, rather than providing authority for a balancing test relating to private property beyond that specifically authorized by the General Assembly. They argue that Article 1, Section 27 does not mention the promotion of social and economic benefits, but instead only requires protection of the environment, which was accomplished by subsections (a) and (b) of the regulation. Appellants contend that if Article 1 Section 27 is deemed to provide authority, then all environmental statutes are unnecessary as their purpose could be accomplished by a mere reference to implementing Article 1, Section 27.\nAdditionally, Appellants argue that the legislature provided certain limited economic benefits to provide incentives for communities to host disposal facilities, and that consideration of economic benefits should be otherwise precluded. Finally, they claim that the Harms/Benefits Test allows for a grant of a permit application when the landfill might actually harm the environment so long as it provides social and economic benefits. In sum, Appellants argue that the Harms/Benefits Test is ultra vires in that it establishes a \u201cnew, broad, social policy\u201d which \u201cpreclude[s] any legitimate business from operating in Pennsylvania unless it demonstrates that the operation will have a net social and economic benefit to the public, after subtracting social and environmental harms, which will clearly outweigh any environmental harms, especially where the legislature has provided for and encouraged that activity.\u201d TriCounty Brief at 24. We disagree.\nPreliminarily, we note that because challenges to the constitutionality of regulations or statutes constitute pure questions of law, our review is plenary. See Commonwealth v. Mockaitis, 575 Pa. 5, 834 A.2d 488, 492 (2003); Pennsylvania Sch. Bds. Ass\u2019n, Inc. v. Commonwealth Ass\u2019n of Sch. Adm\u2019rs, 569 Pa. 436, 805 A.2d 476, 479 (2002). In the past, we have acknowledged the importance of substantive rulemaking, which the legislature granted to the EQB by the Acts, and concluded that \u201csubstantive rulemaking is a widely used administrative practice, and its use should be upheld whenever the statutory delegation can reasonably be construed to authorize it.\u201d Process Gas Consumers Group v. Pennsylvania Public Utility Commission, 511 Pa. 88, 511 A.2d 1315, 1320 (1986) (citation omitted). In determining whether a power has been delegated \u201cwe are not limited to the letter of the law, but must look to the purpose of the statute and its reasonable effect.\u201d Gilligan v. Pennsylvania Horse Racing Commission, 492 Pa. 92, 422 A.2d 487, 490 (1980) (citations omitted). Additionally, \u201can agency\u2019s interpretation of its enabling statute is entitled to great weight and will not be overturned unless it is clearly erroneous.\u201d Anela v. Pennsylvania Housing Finance Agency, 547 Pa. 425, 690 A.2d 1157, 1159 (1997). The legislature\u2019s delegation of this rulemaking power, however, must be \u201cclear and unmistakable\u201d as a \u201cdoubtful power does not exist.\u201d Gilligan, 422 A.2d at 490.\nInitially, we note that the SWMA specifies that \u201c[t]he terms and provisions of this act are to be liberally construed, so as to best achieve and effectuate the goals and purposes hereof.\u201d 35 P.S. \u00a7 6018.901. We recognize that the overriding goal of the SWMA and Act 101 was to establish a comprehensive state and local solid waste management program, involving permits for disposal facilities, which would provide the necessary disposal facilities and also protect the environment and the public from improper and inadequate solid waste practices while encouraging conservation and recycling. 35 P.S. \u00a7 6018.102; 53 P.S. \u00a7 4000.102. For the following reasons, we conclude that the regulation, specifically subsection (c), is authorized by the general grant of authority provided to the EQB to establish rules and regulations to accomplish the purposes of the SWMA and Act 101. 35 P.S. \u00a7 6018.105; 53 P.S. \u00a7 4000.302.\nAs previously discussed, subsection (a) of the regulation requires applicants to analyze the impact of the project on a number of areas and specifically on sixteen environmental features. Subsection (b) requires the applicants to provide mitigation plans for any \u201cknown or potential environmental harm\u201d and describe any unmitigated harms. 25 Pa.Code \u00a7\u00a7 271.127(a), 287.127(a). Furthermore, subsection (b) provides that the Department will then review the assessment and mitigation plans \u201cto ensure that individually and collectively [the mitigation measures] adequately protect the environment and the public health, safety and welfare.\u201d 25 Pa. Code \u00a7\u00a7 271.127(b), 287.127(b). Therefore, contrary to the fear of the dissent in this Court and below, subsections (a) and (b) require that the DEP \u201censure\u201d that the mitigation measures \u201cadequately protect\u201d the environment and the public health, safety, and welfare such that a landfill operator could not \u201cbuy\u201d the right to damage the environment through subsection (c)\u2019s Harms/Benefit Test. The Harms/Benefit Test, in other words, would not be applied if the environment was not \u201cadequately protected.\u201d\n\u201cAdequate\u201d protection, however, does not mean that no harms remain or that the EQB has satisfied its duties fully under the Acts. Therefore, while the regulation devotes substantial investigation to the environmental concerns, similar to the focus of the Acts, subsection (c) provides a vehicle through which the DEP can satisfy the statutory purpose of protecting against the potential for \u201ceconomic loss\u201d resulting from improper and inadequate waste management. 35 P.S. \u00a7 6018.102; 53 P.S. \u00a7 4000.102. Clearly, the legislature envisioned that the EQB would consider economic issues in determining whether to grant a permit for a waste disposal facility. Subsection (c) provides the DEP the ability to assess the potential negative, and positive, economic and social implications of the project and weigh those impacts against any remaining environmental harms. Therefore, the consideration of economic and social harms and benefits is within the authority of the Acts.\nFurthermore, we conclude that a balancing of these harms and benefits satisfies the requirement that the EQB establish a \u201cflexible and effective means to implement and enforce the provisions\u201d of the Acts. 35 P.S. 6018.102(5); 53 P.S. \u00a7 4000.102(b)(4). The Harms/Benefits Test allows for the infinite variations of factors and considerations which will present themselves in various petitions for permits.\nWhile the Harms/Benefits Test would be within the authority granted by the Acts even without reference to implementation of Article 1, Section 27, such inclusion in the statement of purposes only strengthens the EQB\u2019s authority to promulgate the regulation. 35 P.S. \u00a7 6018.102(10); 53 P.S. \u00a7 4000.102(b)(13). While we have not held that Article 1, Section 27 requires any specific balancing test, we have determined that \u201cit is manifest that a balancing must take place\u201d between the Commonwealth\u2019s duty under Article 1, Section 27 to protect the environment of the Commonwealth and its other duties to provide other needed services to the public. Payne II, 361 A.2d at 273. In Payne II, we affirmed the Commonwealth Court\u2019s decision that the Commonwealth did not violate its duties as trustee under Article 1, Section 27, when it complied with the relevant statutory requirements which required the Department of Transportation to consider a number of factors before approving the widening of a road through a public commons. A similar balancing must take place between protecting the public and the environment and securing proper waste disposal. The legislature has signaled to the EQB the necessary considerations for such a balancing of duties, including the need to protect the health, safety, welfare and property of the people from the dangers of waste disposal and the desire to encourage private enterprise. 35 P.S. \u00a7 6018.102(4), (11). The reference to Article 1, Section 27, therefore, further emphasizes that the Harms/Benefits Test of subsection (c) is authorized by the SWMA and Act 101.\nII. Does the grant of authority for the Harms/Benefits Test violate the non-delegation doctrine, rendering the Acts unconstitutional?\nAppellants argue that if we conclude that the Harms/Benefits Test is authorized by the Acts, then we must conclude that the Acts are unconstitutional because they delegate to the EQB a basic policy choice, reserved by the constitution to the legislature, which alters fundamental property rights. They argue that the Harms/Benefits Test requires property owners to provide the public with benefits merely so that the owner can utilize the property in a lawful manner. Furthermore, they assert that the legislature failed to provide the primary standards under which the agency could adopt the regulation.\nAppellants have a heavy burden of persuasion for there is a strong presumption that acts of the General Assembly are constitutional, and this Court will not declare such acts unconstitutional unless they \u201cclearly, palpably, and plainly\u201d violate the constitution. Pennsylvania School Boards Ass\u2019n, Inc., 805 A.2d at 479; see also Empire Sanitary Landfill, Inc. v. Com., Dept. of Environmental Resources, 546 Pa. 315, 684 A.2d 1047, 1055 (1996). We acknowledge, however, that there are clear restraints on the ability of the General Assembly to delegate its lawmaking authority:\nIt is axiomatic that the Legislature cannot constitutionally delegate the power to make law to any other branch of government or to any other body or authority. It may, however, confer authority and discretion in connection with the execution of the law; it may establish primary standards and impose upon others the duty to carry out the declared legislative policy in accordance with the general provisions of the act. The principal limitations on this power are twofold: (1) the basic policy choices must be made by the Legislature; and (2) the legislation must contain adequate standards which will guide and restrain the exercise of the delegated administrative functions. This does not mean, however, that all details of administration must be precisely or separately enumerated in the statute.\nGilligan, 422 A.2d at 489. (citations and quotations omitted) (finding constitutional the delegation of authority to set a jockey fee schedule based on the \u201cbroad general supervisory powers over the previously unlawful activity of thoroughbred horseracing\u201d).\nThe legislature made the basic policy decision that, although landfills potentially create significant dangers to the public and the environment, they are nonetheless a public necessity. Furthermore, the legislature made the basic policy decision to regulate the industry with certain purposes in mind and adopted the SWMA and the Act 101. The legislature, however, did not set forth the specific rules and regulations to determine how to protect the environment or the public; instead it appropriately delegated those to the EQB. The EQB has developed extensive regulations relating to technical details of the landfills such as the thickness of the liners and the specifics of road construction. See, e.g., 25 Pa.Code \u00a7\u00a7 273.256; 273.213. The regulation at issue in this case merely details the assessment that is to occur prior to a technical review of the application. Moreover, as previously noted, the regulation satisfies the EQB\u2019s duty to establish regulations that protect the \u201csafety, health, welfare and property of the public\u201d as well as the Commonwealth\u2019s natural resources from the \u201cpublic health hazards, environmental pollution, and economic loss\u201d that may result from improper and inadequate solid waste disposal while at the same time insuring the provision of solid waste disposal by private enterprise as needed by the public. 35 P.S. \u00a7 6018.102; 53 P.S. \u00a7 4000.102. Therefore, we conclude that the delegation of authority does not violate the non-delegation doctrine.\nWe further reject Appellants\u2019 suggestion the Harms/Benefits Test constitutes a basic policy decision that alters fundamental property rights by requiring private property owners to provide public benefits prior to utilizing property for legal uses. The flaw in Appellants\u2019 argument is that, unlike most property owners, Appellants and others who desire to utilize their property to conduct business in a regulated industry have chosen to subject themselves to regulations to which most property owners are not subject. In this case, Appellants have chosen to do business in the extensively regulated solid waste disposal industry. Furthermore, as discussed in reference to the dissent in the Commonwealth Court, the regulation does not require private property owners to supply benefits to the public which would not occur as a natural result of the project. Instead, the Harms/Benefits Test, as written without reference to the non-binding guidance document and as applied to the permits in this case, requires only that the applicant for a permit identify the harms and benefits so that the DEP can evaluate the pros and cons of the project.\nIII. Is the Harms/Benefits Test unconstitutionally vague?\nAppellants assert that the Harms/Benefits Test is also unconstitutionally vague because the EQB failed to define necessary terms such as \u201cbenefit,\u201d \u201charm\u201d and \u201cclearly outweigh.\u201d They assert, not only that the permittees will be unable to predict whether something is a harm or a benefit or whether the benefits will be deemed to outweigh the harms, but the DEP staff itself is not provided guidance in making the determinations. The result, they argue, is that the decisions of the DEP staff will be arbitrary. They reject any reliance on the guidance documents which they note are not binding regulations.\nA law may be unconstitutionally vague and thus violate the Due Process Clause of the United States Constitution if it fails to provide the necessary information such that an ordinary citizen could understand what conduct is prohibited. Commonwealth v. Craven, 572 Pa. 431, 817 A.2d 451, 454 (2003). Unless the statute implicates constitutionally protected conduct, \u201cthe complainant must demonstrate that the law is impermissibly vague in all of its applications.\u201d Village of Hoffman Estates, 455 U.S. at 497, 102 S.Ct. 1186. The United States Supreme Court has further detailed the appropriate review for vagueness challenges to business statutes:\nThe degree of vagueness that the Constitution tolerates\u2014 as well as the relative importance of fair notice and fair enforcement\u2014depends in part on the nature of the enactment. Thus, economic regulation is subject to a less strict vagueness test because its subject matter is often more narrow, and because businesses, which face economic demands to plan behavior carefully, can be expected to consult relevant legislation in advance of action. Indeed, the regulated enterprise may have the ability to clarify the meaning of the regulation by its own inquiry, or by resort to an administrative process. The Court has also expressed greater tolerance of enactments with civil rather than criminal penalties because the consequences of imprecision are qualitatively less severe.... Finally, perhaps the most important factor affecting the clarity that the Constitution demands of a law is whether it threatens to inhibit the exercise of constitutionally protected rights. If, for exam-pie, the law interferes with the right of free speech or of association, a more stringent vagueness test should apply.\nId. at 498-499, 102 S.Ct. 1186 (footnotes omitted).\nIn applying the recommended review to the Harms/Benef\u00edts Test, we note that the regulation at issue applies to an extremely narrow subject matter. The businesses to which the test applies have extensive experience in the area and interaction throughout the permitting process with the DEP, such that there is ample opportunity to clarify the meaning of the test. Although Section 6018.606 of the SWMA sets forth the potential of criminal penalties for violation of, inter alia, a condition of a permit, the penalties do not relate to the determination of what is a benefit or a harm. Appellants have further failed to show that the test is vague in all of its applications such that it is unconstitutional as written. We note that the concept of a balancing test is common and practiced by businesses everyday and the concepts of harms and benefits are easily understood. It is not difficult to determine that an increase in jobs would be a benefit but that locating a landfill within eyesight of the Gettysburg battlefield would be a harm. Like the EHB, we do not close the door to later challenges to arbitrary application of the regulations. We decline, however, to hold them to be facially void for vagueness.\nTV. Does the Harms/Benefits Test exceed the reach of the Commonwealth\u2019s police power?\nAppellants argue that the Harms/Benefits Test exceeds the Commonwealth\u2019s police power because the police power does not include the provision of benefits to the public, but rather merely protects the public from harm. Instead, they argue that the regulation constitutes taxation on the industry or a taking which must be compensated. They further argue that aesthetic considerations should be left to the municipalities\u2019 zoning regulations.\nAppellants have failed to overcome the heavy burden of proof necessary to demonstrate that the Commonwealth has exceeded the police power. See Adams Sanitation Co., Inc. v. Commonwealth of Pennsylvania, Dep\u2019t of Environmental Protection, 552 Pa. 304, 715 A.2d 390, 395 (1998). The police power is one of the most essential and least limitable powers of the Commonwealth. See id. The police power allows the state to \u201cpromote the public health, morals or safety and the general well-being of the community.\u201d Id. \u201cWhile the state\u2019s exercise of its police power often causes tension between the Commonwealth and property owners, the courts will not invalidate the Commonwealth\u2019s exercise of its police powers unless it is performed in an unreasonable and arbitrary manner.\u201d Id. We have adopted the following test set forth in Lawton v. Steele, 152 U.S. 133, 137, 14 S.Ct. 499, 38 L.Ed. 385 (1894) to determine whether there has been an unconstitutional assertion of police power:\nTo justify the State in ... interposing its authority in behalf of the public, it must appear, first, that the interests of the public generally, as distinguished from those of a particular class, require such interference; and second, that the means are reasonably necessary for the accomplishment of the purpose, and not unduly oppressive upon individuals.\nAdams Sanitation Co., Inc., 715 A.2d at 395 (citations and quotations omitted). In determining whether a governmental action is unduly oppressive, we must consider the \u201ceconomic impact of the regulation on the property holder and whether the governmental interference with property could be characterized as a physical intrusion.\u201d Id.\nAppellants challenge the regulation under the second prong of the Lawton test, asserting that the requirement that landfills provide public benefits is not reasonably necessary to the protection of the environment or the public\u2019s health, safety and welfare. The argument, however, is unavailing because the benefits evaluated in the Harms/Benefits Test may arise, as in this case, as natural by-products of the landfill project and through compliance with other regulations. Clearly, a determination of a project\u2019s inherent harms and benefits is reasonably necessary in order to determine whether a potentially dangerous project should be granted a permit in a heavily regulated industry. We therefore, conclude that the regulation does not exceed the Commonwealth\u2019s police power.\nFor the foregoing reasons, we affirm the decision of the Commonwealth Court and reject the challenges to the constitutionality of the Harms/Benefit tests set forth at 25 Pa.Code \u00a7\u00a7 271.127 and 287.127. Jurisdiction relinquished.\nChief Justice CAPPY and Justice NIGRO join the majority opinion.\nJustice CASTILLE files a concurring opinion.\nJustice NEWMAN files a dissenting opinion in which Justice EAKIN joins.\n. None of the parties have contested the procedural aspects of the regulations' adoption.\n. The only other substantive difference between the two regulations is the inclusion of subsection (f) in 25 Pa.Code \u00a7 271.127 which includes the \"need for the facility\u201d as a factor in the Harms/Benefits Test. As the regulations are nearly identical, we will reference them in the singular, noting any differences between the regulations when relevant.\n. Unlike 287.127(a), 271.127(a) also includes analysis of the impact of the project on municipal waste plans.\n. Leachate is the liquid that percolates through a landfill.\n. Chest Township and the DEP challenged Eagle's standing to assert a claim based on potential injury; however, the EHB found that Eagle did have standing to challenge the regulation because Eagle would be barred from challenging the lawfulness of the condition in a future proceeding if it did not object within 30 days of issuance of the permit, and Condition 22 was a direct result of the Harms/Benefits Test. EHB Slip Op. at 7-8. Furthermore, as Eagle\u2019s motion was in response to Chest Township\u2019s claim that the permit should be revoked because the harms outweighed the benefits, Eagle could appropriately challenge the validity of the Harms/Benefits Test as a defense to Chest Township\u2019s claims.\n. The EHB also noted that Section 302 of Act 101 provided that the EQB had the power \"to adopt the regulations of the department to accomplish the purposes and to carry out the provisions of this act.\u201d\n. \u00a7 27. Natural resources and the public estate\n. A concurring opinion in the EHB emphasizes the statutory reference to Article 1, Section 27 in the purpose section of the Acts as signaling the legislative intent for the EQB to employ a balancing test.\n. Had Tri-County submitted its application as a new application rather than a repermitting application, the location for the landfill would have been barred by regulations prohibiting landfills within 10,000 feet of an airport runway.\n. Alliance Sanitary Landfill, Inc. (\u201cAlliance\u201d) also challenged the regulation in an appeal granted by the Commonwealth Court, which was consolidated with the appeals of Eagle and Tri-County. Alliance, however, has not pursued its appeal to this Court.\n. The dissent in this Court also takes issue with the reference to the establishment of schools and charitable contributions in the guidance document. As discussed above, this language is non-binding and not part of the regulations challenged in this case, and thus it should not be the basis for declaring the regulation invalid. Moreover, in contrast to the specter of companies buying permits, Dissenting Opinion 584 Pa. at 526-28, 884 A.2d at 887-88, the facts of the cases before the Court involve consideration of benefits that are \u201cdirectly related to the proposed project.\u201d Id. at 528, 884 A.2d at 888. Additionally, the language of the regulations requires consideration of benefits \"of the project\u201d and thus, facially, does not contemplate the incorporation of unrelated benefits in the Harms/Benefits analysis. See 25 Pa.Code \u00a7 271.127(c).\nThe dissents in this Court and below also take the position that schools and charitable contributions should not be included in an Article 1, Section 27 balancing test by asserting that such benefits were not part of the test in which this Court \"enumerated twenty-three social, economic and environmental factors for courts to consider in performing an Article 1, Section 27 balancing test\u201d in Payne II, 468 Pa. 226, 361 A.2d 263 (1976). Tri-County Industries, 818 A.2d at 585. To the contrary, this Court did not enumerate such a test, but rather concluded that the twenty-three factors, which the legislature required the Department of Transportation to consider prior to certain road construction projects, made careful provision for the balancing required by Article 1, Section 27. We made no suggestion that those factors constituted the only way to satisfy the balancing that must result from the struggle between the Commonwealth\u2019s duty to protect the environment and its duty to perform other responsibilities which might harm the environment, such as road construction or, in the case sub judice, the provision of waste disposal.\n. Chest Township, an appellee before this Court, asserts that the regulations are valid. The township further requested that this Court revoke Eagle's permit if we determine that the regulations are unconstitutional. We need not address this argument because we find the regulations to be constitutional.\n. Alternatively, they assert that if a balancing test is authorized, the test should comply with the Commonwealth Court\u2019s decision in Payne I which requires that the harms do not clearly outweigh the benefits rather than requiring that the benefits clearly outweigh the harms.\n. Additionally, it is logical why consideration of social and economic issues is appropriate. Placement of a landfill may significantly decrease property values in an area and create all of the problems identified in Eagle\u2019s permitting process; however, a landfill still may be deemed beneficial as a result of the economic benefits it provides such as jobs, business, and increased taxes. Moreover, the SWMA requires the EQB to adopt regulations to protect the \"health, safety, welfare and property of the public and the air, water and other natural resources of the Commonwealth.\u201d 35 P.S. \u00a7 6018.105(a) (emphasis added). Therefore, not only should the EQB adopt regulations to protect the Commonwealth\u2019s natural resources, but arguably, it also must protect the private property of the public, along with the public\u2019s health, safety, and welfare, from the dangers of improper and inadequate solid waste practices. 35 P.S. 6018.105\n. The parties focus substantial portions of their briefs on the import of the three-part test set forth in the Commonwealth Court\u2019s decision in Payne I:\nThe court\u2019s role must be to test the decision under review by a threefold standard: (1) Was there compliance with all applicable statutes and regulations relevant to the protection of the Commonwealth\u2019s public natural resources? (2) Does the record demonstrate a reasonable effort to reduce the environmental incursion to a minimum? (3) Does the environmental harm which will result from the challenged decision or action so clearly outweigh the benefits to be derived therefrom that to proceed further would be an abuse of discretion?\n312 A.2d at 94. The test, however, is not directly applicable to the questions in this case. The test, which questions whether the harms \"clearly outweigh\u201d the benefits does not prohibit an agency from requiring that the benefits clearly outweigh the harms. Furthermore, this Court did not specifically adopt the three-part test, but instead noted that the Commonwealth Court's test merely provided for \"normal appellate review.\u201d Payne II, 361 A.2d at 273 n. 23.",
+        "type": "majority",
+        "author": "Justice BAER."
+      },
+      {
+        "text": "Justice SAYLOR\ndissents for the reasons stated by Justice NEWMAN and Environmental Hearing Board Member Bernard A. Labuskes, Jr., see Eagle Environmental II, L.P. v. DEP, No. 2001-198-MG, 2002 WL 648978 (Pa. Env. Hrg. Bd. Apr. 4, 2002 (Labuskes, B., dissenting)).",
+        "type": "dissent",
+        "author": "Justice SAYLOR"
+      },
+      {
+        "text": "Justice CASTILLE,\nconcurring.\nAlthough I share many of the concerns expressed in Madame Justice Newman\u2019s thoughtful Dissenting Opinion, I nevertheless join the Majority Opinion in its entirety. I write only to explain why I tender my joinder notwithstanding the concerns I share with the Dissent.\nThe Dissenting Opinion expresses concern with the legitimacy of an agency establishing a regulatory regime which would allow for consideration, under the \u201cHarms/Benefits Test,\u201d of \u201cbenefits\u201d totally unrelated to the solid waste project at issue, such as an applicant\u2019s establishing a school or making charitable contributions, in order to provide for the benefits side of the equation. The Dissent has not pulled this concern out of thin air. Rather, the EQB has produced a \u201cguidance document\u201d which defines the regulatory term \u201csocial and economic benefits\u201d as including precisely such items unrelated to the projects. If the actual regulations promulgated by the EQB in point of fact allowed for consideration of such unrelated matters on the benefits side of the equation, or if this case involved a challenge to the EQB insisting upon such unrelated benefits before approving an application, the regulatory action could not pass muster in my opinion.\nMr. Justice Baer\u2019s thorough and erudite analysis, however, has satisfied me that the \u201cguidance document\u201d relied upon by the Dissent is not a binding document, it played no role in the actual litigation of this case, and it may not strictly be at issue. More importantly for purposes of the tender of my joinder, the Majority stresses that it construes the EQB\u2019s regulations as requiring benefits that have a direct relationship to the project itself. Slip op. at 11-12 & n. 11. In this regard, it seems to me, the views of the Majority and the Dissent concerning the necessity that benefits must be directly related to the proposed project are not far apart.\nIf a case were to arise where the EQB followed its guidance document, rather than its regulation, there should be no doubt that such a determination would not be sustainable. The EQB perhaps should attend to redrafting any such material to conform to the statutory mandate, its regulations as issued, and the guidance of this Court\u2019s opinion. In short, although I do not see the Dissent\u2019s concerns as at all baseless, I am sufficiently satisfied that they are premature.",
+        "type": "concurrence",
+        "author": "Justice CASTILLE,"
+      },
+      {
+        "text": "Justice NEWMAN,\ndissenting.\nI respectfully dissent from the Majority Opinion in this matter. I believe that the Environmental Quality Board (\u201cthe EQB\u201d), when promulgating the regulations at issue in this matter, 25 Pa.Code \u00a7 287.127(c) and 25 Pa.Code \u00a7 271.127(c), exceeded its statutory authority.\nThe Department of Environmental Protection (\u201cDEP\u201d), as an administrative agency, has not only the authority, but also the duty to promulgate rules and regulations to enable it to more efficiently and effectively carry out its legislatively supplied control. See generally 2 Pa.C.S. \u00a7 102(a); accord Hospital Ass\u2019n of Pa. v. MacLeod, 487 Pa. 516, 410 A.2d 731, 733 (1980) (\u201csubstantive rule-making is a widely used administrative practice, and its use should be upheld whenever the statutory delegation can reasonably be construed to authorize it\u201d). However, equally unassailable is the principle that \u201cthe Legislature cannot constitutionally delegate the power to make law to any other branch of government or to any other body or authority.\u201d Gilligan v. Pa. Horse Racing Comm\u2019n, 492 Pa. 92, 422 A.2d 487, 489 (1980) (citing State Bd. of Chiropractic Examiners v. Life Fellowship of Pa., 441 Pa. 293, 272 A.2d 478, 480 (1971)).\nThe General Assembly may \u201cconfer authority and discretion in connection with the execution of the law [and] may establish primary standards and impose upon others the duty to carry out the declared legislative policy in accordance with the general provisions of the act.\u201d Id. (internal quotation and citation omitted). However, \u201c(1) the basic policy choices must be made by the Legislature; and (2) the legislation must contain adequate standards which will guide and restrain the exercise of the delegated administrative functions.\u201d Id. (quoting William Penn Parking Garage, Inc. v. City of Pittsburgh, 464 Pa. 168, 346 A.2d 269, 291 (1975), and Chartiers Valley Joint Sch. Dist. v. County Bd. of Sch. Dirs., 418 Pa. 520, 211 A.2d 487, 493 (1965)). \u201cThe power and authority to be exercised by administrative commissions must be conferred by legislative language clear and unmistakable. A doubtful power does not exist. Such tribunals are extra judicial. They should act within the strict and exact limits defined.\u201d Green v. Milk Control Comm\u2019n, 340 Pa. 1, 16 A.2d 9, 9 (1940) (internal citation omitted).\nAlthough courts traditionally accord some deference to the interpretation made by the agency charged with administration of the act, the meaning of a statute is essentially a question of law for the court, and, when convinced that the interpretative regulation adopted by an administrative agency is unwise or violative of legislative intent, courts disregard the regulation. Pa. Human Relations Comm\u2019n v. Uniontown Area Sch. Dist., 455 Pa. 52, 313 A.2d 156, 169 (1973); see also United States v. Cartwright, 411 U.S. 546, 93 S.Ct. 1713, 36 L.Ed.2d 528 (1973); Skidmore v. Swift & Co., 323 U.S. 134, 65 S.Ct. 161, 89 L.Ed. 124 (1944).\nTherefore, this review begins with the statutes themselves, i.e., the Solid Waste Management Act (\u201cSWMA\u201d), 35 P.S. \u00a7\u00a7 6018.101-6018.1003, and the Municipal Waste Planning, Recycling and Waste Reduction Act (\u201cAct 101\u201d), 53 P.S. \u00a7\u00a7 4000.101-4000.1904 (collectively, \u201cthe Acts\u201d). Sections 105(a) of the SWMA and 302 of Act 101 expressly provide the EQB with the authority to develop and adopt regulations to carry out the purposes of the legislative enactments. 35 P.S. \u00a7 6018.105(a); 53 P.S. \u00a7 4000.302. The purposes of the Acts include: (1) protecting the public from the dangers of waste; and (2) implementing Article I, Section 27 of the Pennsylvania Constitution. 35 P.S. \u00a7 6018.102; 53 P.S. 4000.102(b). The crux of the issue before us in these consolidated cases is whether the EQB had the constitutional authority to promulgate the harms/benefits test.\nIn Payne v. Kassab, 11 Pa.Cmwlth. 14, 312 A.2d 86, 94 (1973) aff'd, Payne v. Kassab, 468 Pa. 226, 361 A.2d 263 (1976), the Commonwealth Court held that' Article I, Section 27 of the Pennsylvania Constitution \u201cwas intended to allow the normal development of property in the Commonwealth, while at the same time constitutionally affixing a public trust concept to the management of public natural resources in Pennsylvania.\u201d The Court explained that controlled development is preferable to no development. Id. In so holding, the Commonwealth Court articulated the following three-pronged test for judicial review of a decision emanating from such a balancing of environmental and social factors:\n(1) Was there compliance with all applicable statutes and regulations relevant to the protection of the Commonwealth\u2019s natural resources? (2) Does the record demonstrate a reasonable effort to reduce the environmental incursion to a minimum? (3) Does the environmental harm that will result from the challenged decision or action so clearly outweigh the benefits to be derived therefrom that to proceed further would be an abuse of discretion?\nId. On appeal, this Court affirmed the Order of the Commonwealth Court. We stated that \u201c[i]t is manifest that a balancing must take place, and ... the legislature has made careful provision for just that.\u201d Payne v. Kassab, 468 Pa. 226, 361 A.2d 263, 273 (1976) (emphasis added). \u201cThe elaborate safeguards provided [by Section 13(b)], if truly complied with by the governmental departments and agencies involved, vouchsafe that a breach of the trust established by Article I, \u00a7 27 will not occur.\u201d Id.\nHowever, the statute at play in Payne provided explicit direction for performing this balancing by enumerating twenty-three social, economic and environmental factors for courts to consider in performing an Article I, Section 27 balancing test. Payne v. Kassab, 468 Pa. 226, 361 A.2d 263 (1976). Notably, the Majority fails to mention that consideration of the establishment of a school or making of a charitable contribution are not among the factors enumerated in the statute.\nUnlike the statute at issue in Payne, the Acts in the instant case do not provide express authority for such balancing. I find this omission telling. \u201cIf the statute expressed such authority, we would be engaged in this controversy----Indeed, in light of our duty to discern legislative language clear and unmistakable in every case ... the absence of specific language in the SWMA should have been dispositive.\u201d Slip Op. at 56 (Labuskes, J., dissenting). If the Legislature wished for the DEP to, via regulation, balance these harms, it was capable of saying as much. I believe that where the Legislature has declined to provide such direction to the regulatory agency, we cannot presume there was an unspoken grant of this power. Rather, I believe, in such instances the Legislature intended to perform this task itself. The Acts themselves are the result of this balancing.\nIn Nat\u2019l Solid Wastes Mgmt. Ass\u2019n v. Casey, 143 Pa. Cmwlth. 577, 600 A.2d 260 (1991), the Governor argued that he had the authority to issue the Order pursuant to Article I, Section 27 of the Pennsylvania Constitution. However, the Commonwealth Court rejected this argument, reasoning that \u201c[t]he Governor\u2019s power is to execute the laws and not to create or interpret them.\u201d Id. at 263 (quoting Shapp v. Butera, 22 Pa.Cmwlth. 229, 348 A.2d 910 (1975)).\nAdditionally, we find no authority for [the] Executive Order ... in Article I, Section 27 of the Pennsylvania Constitution .... The balancing of environmental and societal concerns, which the Commonwealth argues is mandated by Article I, Section 27, was achieved through the legislative process which enacted [the SWMA and Act 101] and which promulgated the applicable regulations. Article I, Section 27 does not give the Governor authority to disturb that legislative scheme. Neither does it give him the authority to alter DER\u2019s responsibilities pursuant to that scheme.\nId. (internal citation omitted). We entered a per curiam Order affirming the decision of the Commonwealth Court, Nat'l Solid Wastes Mgmt. Ass\u2019n v. Casey, 533 Pa. 97, 619 A.2d 1063 (1993), which has no precedential effect. See Commonwealth v. Tilghman, 543 Pa. 578, 673 A.2d 898, 904 (1996) (explaining that a per curiam affirmance becomes the law of the case, but to adopt the rationale employed by the intermediate appellate court, we would need to enter a per curiam Order to affirm \u201con the basis of the opinion of the lower court\u201d).\nWhile Payne and Casey have limited applicability to the matter sub judice, nevertheless, they are the pronouncements of the law in this Commonwealth most relevant to our case. What Payne and Casey do stand for in this context is that Article I, Section 27 of the Pennsylvania Constitution creates a public trust in the government to ensure that any advances or changes to the natural landscape do no more harm to the environment (or historic, natural or scenic areas) than is necessary to accomplish an important public work, and that the benefit of the important public work outweighs the harm that the environment (or historic, natural or scenic areas) will suffer.\nArticle I, Section 27, when conceived in this manner, limits consideration of harms and benefits to those directly related to the proposed public work. I do not agree that:\nThe language of the [SWMA] or [Act 101] clearly and unambiguously confers on the [EQB] the authority to promulgate a harms/benefits environmental assessment test which, under the guidelines published by the [DEP] considers \u201cestablishing schools\u201d and \u201ccharitable contributions\u201d as possible \u201csocial and economic benefits\u201d of municipal or residual waste landfill.\nEagle Environmental v. DEP, 818 A.2d 574, 584 (Friedman, J., dissenting) (internal quotations omitted). Thus, while a harms/benefits analysis in a general sense is not only appropriate, but also required, the promulgation of regulations defining the confines of such an analysis must be a matter of careful drafting. Where the harms/benefits test of the EQB falls afoul of this principle is in the scope of \u201csocial and economic benefits\u201d that DEP can consider when deciding whether to grant an application.\nA social or economic benefit is generally educationally or financially based, and has social and economic impacts. Impacts are not to be categorized separately as \u201csocial\u201d or \u201ceconomic\u201d benefits; the category of \u201csocial and economic benefits\u201d is a single concept. The category includes, [inter alia ], establishing schools, charitable contributions and free waste disposal for communities.\nAugust 24, 2002, Environmental Assessment Process, Phase I Review, DEP Document Number 254-2100-101, page 8 (emphasis added).\nI agree with Judge Friedman who states in her dissent, \u201cI see no connection between regulating waste \u2018disposal\u2019 and establishing schools or making charitable contributions.\u201d Eagle, 818 A.2d at 586. The establishment of schools in the surrounding community and the contribution of funds to charities, while beneficial to the public at large, have nothing to do with the construction of a waste disposal site.\nThe petitioners in this case have suggested that \u201cbenefits\u201d like the establishing of schools and the making of charitable contributions are akin to coerced contributions. (See majority at-, 818 A.2d at 583.) I agree. Indeed, it appears that an applicant who would not otherwise be entitled to a municipal or residual waste landfill permit based on the harms/benefits test could buy such a permit by agreeing to pay enough money that, according to the DEP\u2019s calculations, benefits would outweigh harms.\nId. n. 8. The harms/benefits test promulgated by the EQB effectively allows an entity seeking to create a waste disposal facility to buy a permit. The system of balancing employed by the EQB contravenes the Acts because it enables the DEP to compromise the protection of the environment based upon what it perceives to be a general benefit to the community.\nTherefore, I find that Article I, Section 27 of the Pennsylvania Constitution, and its reference in the purpose provisions of the SWMA and Act 101, limit the authority of the EQB to promulgate regulations pursuant to these statutes. Specifically, the EQB erred by developing a regulatory scheme whereby an entity can pump enough money into the community surrounding the planned site of a public work to trump significant environmental concerns about the proposed project. The only benefits relevant to an Article I, Section 27 determination are those directly related to the proposed project for which a permit is sought. Accordingly, in light of the narrow scope of the challenge made in the instant case, I believe the harms/benefits test is invalid to the extent that it allows for the consideration of the establishment of schools and contributions to charities in determining the social and economic benefits of a municipal or residual waste landfill.\nJustice EAKIN joins this Dissenting Opinion.\n. Section 105(a) of the SWMA provides as follows:\nThe [EQB] shall have the power and its duty shall be to adopt the rules, regulations, criteria and standards of [DEP] to accomplish the purposes and to carry out the provisions of this act, including but not limited to the establishment of rules and regulations relating to the protection of safety, health, welfare and property of the public and the air, water and other natural resources of the Commonwealth.\n. Section 302 of Act 101 states that \"[t]he [EQB] shall have the power and its duty shall be to adopt the regulations of [DEP] to accomplish the purposes and to carry out the provisions of this act.\u201d\n. Section 13(b) of Article XX of the Administrative Code of 1929 provides as follows:\nUpon the submission of the preliminary plan or design to the Department of Transportation for any transportation route or program requiring the acquisition of new or additional right-of-way, the Department of Transportation except in cases involving complaint proceedings under the jurisdiction of the Public Utility Commission shall have the power and its duty shall be to follow the hearing procedures now or hereafter required by the Federal Government for Federal-aid transportation programs pursuant to Titles 23 and 49 of the United States Code as amended and the regulations and procedures thereunder even though the transportation route or program does not contemplate the use of or actually employ Federal funds. At the hearings required by this subsection the Department of Transportation shall consider the following effects of the transportation route or program:\n(1) Residential and neighborhood character and location;\n(2) Conservation including air, erosion, sedimentation, wildlife and general ecology of the area;\n(3) Noise, and air and water pollution;\n(4) Multiple use of space;\n(5) Replacement housing;\n(6) Displacement of families and businesses;\n(7) Recreation and parks;\n(8) Aesthetics;\n(9) Public health and safety;\n(10) Fast, safe and efficient transportation;\n(11) Civil defense;\n(12) Economic activity;\n(13) Employment;\n(14) Fire protection;\n(15) Public utilities;\n(16) Religious institutions;\n(17) Conduct and financing of government including the effect on the local tax base and social service costs;\n(18) Natural and historic landmarks;\n(19) Property values;\n(20) Education, including the disruption of school district operations;\n(21) Engineering, right-of-way and construction costs of the project and related facilities;\n(22) Maintenance and operating costs of the project and related facilities;\n(23) Operation and use of existing transportation routes and programs during construction and after completion.\nAt the hearings required by this section, the public officials named in clause (15) of subsection (a) of this section shall make a report indicating the environmental effects of the proposed transportation route or program. The Department of Transportation shall not construct or reconstruct any portion of the transportation route or program unless the Secretary of Transportation makes a written finding published in the Pennsylvania Bulletin that:\n(1) No adverse environmental effect is likely to result from such transportation route or program; or\n(2) There exists no feasible and prudent alternative to such effect and all reasonable steps have been taken to minimize such effect. For the purpose of this subsection environmental effect shall refer to the effects enumerated in this subsection.\n71 P.S. \u00a7 512(b).\n. Although the Majority attempts to assuage my concern regarding this issue by noting that the regulations require that mitigation plans adequately protect the environment, it fails to do so. My concern is the relationship between the harm caused and the benefit provided. Simply stating that adequate protections must be in place does not ensure that the benefit conferred on the public relates to the damage suffered by the environment. It is this lack of relation between the harm and benefit that I believe is not supported by the statutory grant of rulemaking authority.",
+        "type": "dissent",
+        "author": "Justice NEWMAN,"
+      }
+    ],
+    "attorneys": [
+      "John J. Brazil, Jr., for Borough of Moosic.",
+      "Doreen M. Graziano, Old Forge, for Alliance Against Alliance.",
+      "David Joseph Gromelski, Scranton, for Borough of old Forge and County of Lackawanna.",
+      "David R. Overstreet, John P. Krill, for Eagle Environmental II, L.P.",
+      "David J. Brooman, Berwyn, for PA Chapter of the Solid Waste Ass\u2019n of North America.",
+      "Maura Tobin Donley, for PA Chamber of Business and Industry.",
+      "Neis Jahn Taber, Williamsport, Dennis Ward Strain, Harrisburg, Amy F. Ershler, Williamsport, Douglas Glenn Moor-head, Thaddeus Adam Weber, for Dept, of Environmental Protection.",
+      "Robert P. Ging, Confluence, for Chest Tp.",
+      "Tybe Ann Brett, Alan Stuart Miller, Pittsburgh, for TriCounty Industries, Inc. and Tri-County Landfill, Inc.",
+      "Kenneth Lawson Joel, for County of Berks."
+    ],
+    "corrections": "",
+    "head_matter": "884 A.2d 867\nEAGLE ENVIRONMENTAL II, L.P., Appellant v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF ENVIRONMENTAL PROTECTION and Chest Township, Appellees. Tri-County Industries, Inc. and Tri-County Landfill, Inc., Appellants v. Commonwealth of Pennsylvania, Department of Environmental Protection, Appellee.\nSupreme Court of Pennsylvania.\nArgued May 11, 2004.\nDecided Oct. 27, 2005.\nJohn J. Brazil, Jr., for Borough of Moosic.\nDoreen M. Graziano, Old Forge, for Alliance Against Alliance.\nDavid Joseph Gromelski, Scranton, for Borough of old Forge and County of Lackawanna.\nDavid R. Overstreet, John P. Krill, for Eagle Environmental II, L.P.\nDavid J. Brooman, Berwyn, for PA Chapter of the Solid Waste Ass\u2019n of North America.\nMaura Tobin Donley, for PA Chamber of Business and Industry.\nNeis Jahn Taber, Williamsport, Dennis Ward Strain, Harrisburg, Amy F. Ershler, Williamsport, Douglas Glenn Moor-head, Thaddeus Adam Weber, for Dept, of Environmental Protection.\nRobert P. Ging, Confluence, for Chest Tp.\nTybe Ann Brett, Alan Stuart Miller, Pittsburgh, for TriCounty Industries, Inc. and Tri-County Landfill, Inc.\nKenneth Lawson Joel, for County of Berks.\nBEFORE: CAPPY, C.J., CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "0494-01",
+  "first_page_order": 818,
+  "last_page_order": 853
+}

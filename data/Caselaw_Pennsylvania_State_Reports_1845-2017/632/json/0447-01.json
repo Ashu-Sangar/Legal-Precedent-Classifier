@@ -1,0 +1,101 @@
+{
+  "id": 12173942,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Roland GATHRIGHT, Respondent",
+  "name_abbreviation": "Commonwealth v. Gathright",
+  "decision_date": "2015-08-14",
+  "docket_number": "",
+  "first_page": "447",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 447"
+    },
+    {
+      "type": "parallel",
+      "cite": "121 A.3d 434"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "115 A.3d 1284",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6789460,
+        6872319
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/631/0692-01",
+        "/a3d/115/1284-01"
+      ]
+    },
+    {
+      "cite": "631 Pa. 692",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        6789460
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/631/0692-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 91,
+    "char_count": 866,
+    "ocr_confidence": 0.603,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24709915520171252
+    },
+    "sha256": "58a7fccfd86c84af99088be83ab39a11737e449e57c50faf1da005e12691be57",
+    "simhash": "1:509fa684638145aa",
+    "word_count": 134
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Roland GATHRIGHT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of August, 2015, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is VACATED, and the case is REMANDED for consideration by the trial court consistent with Commonwealth v. Carrasquillo, 631 Pa. 692, 115 A.3d 1284, 1292 (2015) (holding \u201ca defendant\u2019s innocence claim must be at least plausible to demonstrate, in and of itself, a fair and just reason for presentenee withdrawal of a plea\u201d and \u201cthe proper inquiry on consideration of such a withdrawal motion is whether the accused has made some colorable demonstration, under the circumstances, such that permitting withdrawal of the plea would promote fairness and justice\u201d). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "121 A.3d 434\nCOMMONWEALTH of Pennsylvania, Petitioner v. Roland GATHRIGHT, Respondent.\nSupreme Court of Pennsylvania.\nAug. 14, 2015."
+  },
+  "file_name": "0447-01",
+  "first_page_order": 501,
+  "last_page_order": 502
+}

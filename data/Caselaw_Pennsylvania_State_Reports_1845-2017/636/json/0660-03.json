@@ -1,0 +1,98 @@
+{
+  "id": 12282714,
+  "name": "Com. v. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-07-27",
+  "docket_number": "150 EAL (2016)",
+  "first_page": "660",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 660"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486513,
+        12486514,
+        12486515,
+        12486516,
+        12486517,
+        12486518,
+        12486519,
+        12486520,
+        12486521,
+        12486522,
+        12486523,
+        12486524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0194-10",
+        "/a3d/144-2/0194-11",
+        "/a3d/144-2/0194-12",
+        "/a3d/144-2/0194-01",
+        "/a3d/144-2/0194-02",
+        "/a3d/144-2/0194-03",
+        "/a3d/144-2/0194-04",
+        "/a3d/144-2/0194-05",
+        "/a3d/144-2/0194-06",
+        "/a3d/144-2/0194-07",
+        "/a3d/144-2/0194-08",
+        "/a3d/144-2/0194-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.723,
+    "sha256": "3e255617bf8dd599bfc8207db419702aa0e8c016d04f0b245c0a6b4f2e621a86",
+    "simhash": "1:2d367202bacef2e6",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 194",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Johnson\n07/27/2016\n150 EAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0660-03",
+  "first_page_order": 712,
+  "last_page_order": 712
+}

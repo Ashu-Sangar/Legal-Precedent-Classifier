@@ -1,0 +1,608 @@
+{
+  "id": 1722164,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. Frank McKETTA, Appellee",
+  "name_abbreviation": "Commonwealth v. McKetta",
+  "decision_date": "1976-10-20",
+  "docket_number": "No. 148",
+  "first_page": "223",
+  "last_page": "235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "469 Pa. 223"
+    },
+    {
+      "type": "parallel",
+      "cite": "364 A.2d 1350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "21 U.S.C. \u00a7 371",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 Pa. 37",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708092
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/463/0037-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 482",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483688
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/461/0482-01"
+      ]
+    },
+    {
+      "cite": "467 Pa. 43",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1717282
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/467/0043-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 353",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Stat. 1040",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        },
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "512 F.2d 688",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        158907
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/512/0688-01"
+      ]
+    },
+    {
+      "cite": "371 F.2d 421",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2046483
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/371/0421-01"
+      ]
+    },
+    {
+      "cite": "466 F.2d 1102",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        719583
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/466/1102-01"
+      ]
+    },
+    {
+      "cite": "82 Pa.Super. 79",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        657481
+      ],
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/82/0079-01"
+      ]
+    },
+    {
+      "cite": "101 Pa.Super. 126",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        692962
+      ],
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/101/0126-01"
+      ]
+    },
+    {
+      "cite": "82 A.2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Pa.Super. 206",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        473053
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/169/0206-01"
+      ]
+    },
+    {
+      "cite": "118 A.2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Pa.Super. 501",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        727594
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/179/0501-01"
+      ]
+    },
+    {
+      "cite": "142 A.2d 467",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Pa.Super. 412",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        740587
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "415-416"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/186/0412-01"
+      ]
+    },
+    {
+      "cite": "66 A.2d 675",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "362 Pa. 201",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477334
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "218-219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/362/0201-01"
+      ]
+    },
+    {
+      "cite": "263 A.2d 448",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "458, n. 21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "437 Pa. 463",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1927824
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "480, n. 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/437/0463-01"
+      ]
+    },
+    {
+      "cite": "251 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3681522
+      ],
+      "weight": 3,
+      "year": 1920,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/251/0466-01"
+      ]
+    },
+    {
+      "cite": "326 A.2d 272",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "458 Pa. 418",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479736
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/458/0418-01"
+      ]
+    },
+    {
+      "cite": "306 A.2d 892",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "452 Pa. 524",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        574367
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/452/0524-01"
+      ]
+    },
+    {
+      "cite": "461 Pa. 709",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483764
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/461/0709-01"
+      ]
+    },
+    {
+      "cite": "466 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1714948
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/466/0224-01"
+      ]
+    },
+    {
+      "cite": "467 Pa. 605",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1717292
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/467/0605-01"
+      ]
+    },
+    {
+      "cite": "331 A.2d 539",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 Pa.Super. 770",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        816696,
+        816858,
+        816755
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/231/0770-03",
+        "/pa-super/231/0770-02",
+        "/pa-super/231/0770-01"
+      ]
+    },
+    {
+      "cite": "321 A.2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "884"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "457 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477729
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/457/0380-01"
+      ]
+    },
+    {
+      "cite": "21 U.S.C.A. \u00a7 353",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 353",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)"
+        },
+        {
+          "page": "(b)",
+          "parenthetical": "B"
+        },
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "52 Stat. 1040",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "371 F.2d 421",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2046483
+      ],
+      "year": 1967,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/371/0421-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 925,
+    "char_count": 20768,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 1.889264031349676e-07,
+      "percentile": 0.7287822571895118
+    },
+    "sha256": "69bd25cff9a2480a907b97b211409429f6be7e7514e744e4f482e1a59a6156ef",
+    "simhash": "1:a36abe0164aad436",
+    "word_count": 3492
+  },
+  "last_updated": "2024-02-27T18:00:07.181477+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ.",
+      "JONES, C. J., did not participate in the consideration or decision of this case.",
+      "MANDERINO, J., filed a dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. Frank McKETTA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF COURT\nNIX, Justice.\nOn March 13, 1972, appellee Frank McKetta was tried before a jury in the Court of Common Pleas, Allegheny County for possession of dangerous drugs and dealing in dangerous drugs, in violation of the Drug, Device and Cosmetic Act, Act of September 26, 1961, P.L. 1664, 35 P.S. \u00a7 780-1 et seq., (now repealed, Act of April 14, 1972, P.L. 233, No. 64, \u00a7 43, 35 P.S. \u00a7 780-101 et seq.). The specific drug with which appellee was charged with possessing and dispensing was the substance known as Ritalin. During the course of the trial, the question arose as to whether Ritalin was in fact a \u201cdangerous drug\u201d within the meaning of the statute. After hearing testimony outside the presence of the jury, the trial court ruled as a matter of law, that Ritalin did fall within the statutory definition of a dangerous drug and so instructed the jury during the charge. Thereafter, a verdict of guilty was returned on these counts.\nFollowing argument on post-trial motions the trial court granted appellee\u2019s motion for a new trial. The assigned reason for this action was that the trial judge believed he had committed error by failing to allow the jury to determine whether the substance in question was a dangerous drug under the Act, swpra. The ruling was appealed by the Commonwealth to the Superior Court, which affirmed the order per curiam. Commonwealth v. McKetta, 231 Pa.Super. 770, 331 A.2d 539 (1975). This court granted the Commonwealth\u2019s request for review and this appeal followed.\nThe trial court framed the issue as a challenge to the charge. In its view the charge was in error in that it did not instruct the jurors of their responsibility to decide the question of whether Ritalin was, in fact, a \u201cdangerous drug\u201d within the meaning of the Pennsylvania Drug, Device and Cosmetic Act, swpra. This would appear at first blush to present a problem since neither the defense nor the Commonwealth filed exceptions to the charge as given. We must consider, therefore, whether the matter was an appropriate subject for consideration on post-trial motions. Our cases have made it clear that trial judges should not consider challenges to a charge where the provisions of Pennsylvania Rule of Criminal Procedure 1119(b) have been ignored. Commonwealth v. Branham, 467 Pa. 605, 359 A.2d 766 (1976); Commonwealth v. O\u2019Searo, 466 Pa. 224, 352 A.2d 30 (1976); Commonwealth v. McNeil, 461 Pa. 709, 337 A.2d 840 (1975); Commonwealth v. Waltington, 452 Pa. 524, 306 A.2d 892 (1974); Commonwealth v. Clair, 458 Pa. 418, 326 A.2d 272 (1974).\nNevertheless, we are of the view under the instant facts that the issue was properly preserved and that the trial court was correct in addressing this question on post-trial motions. At the conclusion of the hearing, during which the jury had been excluded, the court stated its finding that Ritalin was a \u201cdangerous drug\u201d and that the Commonwealth was not required to offer testimony before the jury on this subject. An exception to this ruling was properly noted for the record. It is this properly preserved objection and not an omission in the charge which in fact forms the basis of the instant challenge.\nTurning next to the merits of the issue we acknowledge that appellee and the trial court are undoubtedly correct in their assertion that an issue of fact must be resolved by the jury and that a court cannot intrude upon this function. Schaefer v. United States, 251 U.S. 466, 40 S.Ct. 259, 64 L.Ed. 360 (1920); General Electric Credit Corporation v. Aetna Casualty & Surety Co., 437 Pa. 463, 480, n. 21, 263 A.2d 448, 458, n. 21 (1970). It is equally axiomatic that questions of law are for the court to decide and not the jury. Schofield Discipline Case, 362 Pa. 201, 218-219, 66 A.2d 675, 683 (1949). Our difference with the result reached by the court below stems from our belief that the question presented was one of law and therefore solely within the province of the court to resolve.\nA distinction must be recognized between a challenge to the identity of a substance and where the identity is known and its classification is at issue. The former has traditionally been recognized as a factual dispute and its resolution has been left to the trier of fact. Commonwealth v. Martin, 186 Pa.Super. 412, 415-416, 142 A.2d 467, 468 (1958); Commonwealth v. Aikens, 179 Pa.Super. 501, 505, 118 A.2d 205, 207 (1955); Commonwealth v. Bozzi, 169 Pa.Super. 206, 209, 82 A.2d 303, 305 (1951); Commonwealth v. Rupert, 101 Pa.Super. 126, 129 (1930); Commonwealth v. Retacco, 82 Pa.Super. 79, 80 (1923). In such cases, the Commonwealth clearly has the burden of establishing by expert testimony or otherwise that the substance in question was in fact the substance charged. Here, however, the identity of the substance is not in dispute. The brand name of the drug is Ritalin and its generic name is Methylphenidate Hydrochloride. Unlike a challenge to the identity of a substance, which is simply a question of whether or not it is a particular substance, we are here called upon to ascertain the intent of the legislature. Statutory interpretation has been traditionally a function of the court and not the jury. United States v. Lanni, 466 F.2d 1102 (3rd Cir. 1972).\nThis consideration alone is more than sufficient to support a finding that the question raised was one of law and not of fact. However, the conclusion is further strengthened in this particular case because another judicial function is also called into play in the resolution of the question.\nThe pertinent section provides inter alia as a definition of the term \u201cdangerous drug\u201d:\n\u201ca drug other than a narcotic drug as defined in paragraph (g) of this section, which ... (4) . is limited under the Federal Act to use under the professional supervision of a practitioner licensed by law to administer such drug.\u201d 35 P.S. \u00a7 780-2 (h).\nThus, under this provision our legislature has expressed a clear and unambiguous intention to include within the definition of \u201cdangerous drugs\u201d sought to be regulated under this Act, those drugs which Federal law prevented from being dispensed without prescriptions. Therefore, to resolve the question raised, it was necessary to ascertain Federal law and determine if it required Ritalin to be used only under professional supervision.\nIn this jurisdiction it is clear that it is a court function and not the responsibility of a jury to ascertain the law of another jurisdiction. The Act of May 4, 1939, P.L. 42, No. 36, \u00a7 1,28 P.S. \u00a7 291 provides:\n\u201cEvery court of this State shall take judicial notice of the common law and statutes of every state, territory and other jurisdiction of the United States.\u201d\nAnd Section 2 of this Act, supra, 28 P.S. \u00a7 292 provides:\n\u201cThe court may inform itself of such laws in such a manner as it may deem proper, and the court may call upon counsel to aid it in obtaining such information.\u201d\nIn discussing the wisdom of assigning the function of finding and interpreting the law to the courts and not to juries, the authors of McCormick on Evidence, 2nd Ed. (1972) reasoned:\n\u201cIt would appear to be self-evident that it is peculiarly the function of the judge to find and interpret the law applicable to the issues in a trial, and in a jury case, to announce his finding of law to the jury for their guidance. The heavy-footed common law system of proof by witnesses and authenticated documents is too slow and cumbrous for the judge\u2019s task of finding what the applicable law is.\u201d (Citations omitted), p. 776.\nThese same authors when specifically addressing the laws of sister states, which would have equal applicability to Federal law, observed:\n\u201cIt is easy to see how the difference of languages and inaccessibility of source books should have led the English courts to develop the common law rule that the laws of foreign nations would not be noticed but must be pleaded and proved as facts. The assumption in the earlier cases in this country that the courts of one state must treat the laws of another state as foreign for this purpose is less understandable and to the after-view seems a deplorable instance of mechanical jurisprudence.\u201d (Citations omitted), p. 777.\nHaving determined that the legislature intended to incorporate federal law, it would be violative of the fundamental rules of statutory construction to assume that the legislature at the same time intended to ignore the method it provided for ascertaining laws of other jurisdictions. See Act of Nov. 25, 1970, P.L. 707, No. 230, added by Act of Dec. 6, 1972, P.L. 1339, No. 290, \u00a7 3, 1 Pa.C.S. \u00a7 1932.\nIt is asserted that United States v. Key, 371 F.2d 421 (6th Cir. 1967) supports appellee\u2019s view that the fact that the drug could only be dispensed under professional supervision was a material element of the offense and therefore must necessarily be submitted as a question for the finder of fact. This reliance is based upon the following cursory reference to the subject:\n\u201cContrary to the claim of counsel for the appellant, the government proved all of the essential elements of the crime. It was only necessary to - prove that the drug in question was shipped in interstate commerce, that it was not safe for use, except under the supervision of a practitioner licensed by law to administer such a drug and that it was dispensed without a prescription from a practitioner licensed by law to administer such a drug.\u201d (Emphasis added). Id. at 423.\nFirst, it is to be noted that that court failed to offer a single citation in support of these observations. Further, it does not necessarily follow from the statement that it is incumbent upon the Government to prove that the substance was not safe for use, except under supervision, that the jury must make the policy determination of whether the drug should only be dispensed by prescription. The language of Key, supra, is equally compatible with an interpretation that a determination by an executive officer or a regulatory agency that the drug may only be dispensed by a physician is presumptive proof of this element of the offense. Cf. National Nutritional Food Assoc. v. Weinberger, 512 F.2d 688 (2nd Cir. 1975).\nMost convincing is that the position urged by appellee would result in rendering an easily ascertained question, uncertain and dependent upon the vicissitudes of each jury which is called upon to hear such a case. Thus, the legality or illegality of the possession or dispensing of the exact same substance would depend upon a particular jury\u2019s finding. Such a result would needlessly ignore the wise counsel of Lord Coke of the value of certainty in our law. We are therefore satisfied that it was the intention of our legislature to make the question a matter of judicial concern and not a question of fact for resolution by a jury.\nAppellee also charges that the trial court erred in the interpretation of the Federal law. The thrust of the argument was that \u00a7 780-2(h) (4) of the Pennsylvania Drug, Device and Cosmetic Act, supra,, in its reference to \u201cFederal Law\u201d referred only to the Federal Food, Drug and Cosmetic Act, 21 U.S.C. \u00a7 301 et seq., 52 Stat. 1040 et seq. and that Ritalin was not expressly included within the pertinent provisions thereof. This view would exclude from the ambit of \u00a7 780-2(h)(4) of the Act, supra, the regulations issued pursuant to the Federal Act.\nWe believe this position erroneously restricts the purview of the state statute, whose purpose was to adopt the federal law through the incorporation of applicable sections of the Federal Food, Drug and Cosmetic Act. Under the Federal Act, the Secretary of Health, Education and Welfare is empowered to promulgate additional regulations which he deems necessary to effectuate the purposes and enforcement of the Act. Moreover, it is abundantly clear that the Act intended the Secretary or his delegated representative to determine which drugs are within the ambit of the regulatory provisions. Thus, under 21 U.S.C. \u00a7 353(b), the federal statute specifically provides several ways in which drugs can be added to or deleted from the list of dangerous drugs. National Nutritional Food Association v. Weinberger, supra. The Act therefore, provides for the continuous evaluation and classification of new and derivative drugs.\nIn defining \u201cdangerous drug\u201d under the state statute, the Pennsylvania legislature did not limit the definition to any specific sections of the Federal Act. Rather, it broadly defined the term to include those substances which are \u201climited under the Federal Act to use under professional supervision.\u201d In so doing, it intended to incorporate all regulations promulgated under federal law through the provisions of the Federal Act. This necessarily included those additional classifications and regulations announced by the Secretary pursuant to his authority under the Federal Act.\nMoreover, the state legislature, by its adoption of the federal regulations, has in effect achieved certainty and uniformity under our state law. Apart from its reference to federal law, the Pennsylvania Drug, Device and Cosmetic Act provides only for a specific list of chemical compounds of dangerous drugs which are either specified in the statute itself or in regulations promulgated by the Secretary of Health of Pennsylvania. 35 P.S. \u00a7 780-2(h) (1-3). The mere inclusion in paragraph (h) of the definition of prescription drugs in the Federal Act without incorporating the additional regulations contemplated thereunder (and which in fact designates those proscribed substances) would require the trial court to interpret the chemical composition of those drugs in question to determine whether they fall within the definition of the statute. Such an interpretation would cause undue confusion and uncertainty since most judges are without the necessary expertise to make such an evaluation without the benefit of time consuming expert testimony. However, by incorporating the federal regulations, the court need only ascertain whether the drug is listed thereon.\nIn the instant case, it was undisputed that Ritalin is limited to \u201cuse under professional supervision\u201d by the federal regulations. Accordingly, it is also a dangerous drug under the laws of this Commonwealth.\nThe order of the Superior Court is reversed and the cause is remanded for the imposition of sentence upon the jury verdict entered.\nIt is so ordered.\nJONES, C. J., did not participate in the consideration or decision of this case.\nMANDERINO, J., filed a dissenting opinion.\n. An additional count of conspiracy to commit an unlawful act was dismissed upon motion of the Commonwealth.\n. In the situation where, as here, relief has been granted by a court after a consideration of an issue that had not been properly preserved, the proper remedy is to vacate the relief granted on the basis of the improperly considered issue and to remand the matter for a determination based upon those issues that were properly before it. Phillips Home Furnishings, Inc., v. Continental Bank, 467 Pa. 43, 354 A.2d 542 (1976); Wiegand v. Wiegand, 461 Pa. 482, 337 A.2d 256 (1975); Benson v. Penn Central Transportation Co., 463 Pa. 37, 342 A.2d 393 (1975).\n. The major textwriters in the area agree with this approach. McCormick on Evidence, 2nd Ed. (1972), p. 776 et seq.; Wigmore on Evidence, Vol. IX, 3rd Ed., \u00a7 2573(c) (1940).\n. The general rule that judicial notice will be taken of domestic law is usually construed to include Federal law which is controlling upon the state. Id. at p. 776. Here the Act of Congress related only to the Federal system and thus the ascertainment of the provisions of this Act by Pennsylvania courts must be treated as judicial notice of the law of another jurisdiction.\n. Under the Federal Food, Drug and Cosmetic Act, 21 U.S.C. \u00a7 301 et seq., the Secretary of Health, Education and Welfare was authorized to promulgate regulations for the efficient enforcement of the Act. See 21 U.S.C. \u00a7 371(a). This power has been delegated to the Food and Drug Commissioner.\n. See note 5 supra.",
+        "type": "majority",
+        "author": "NIX, Justice."
+      },
+      {
+        "text": "MANDERINO, Justice\n(dissenting).\nI dissent.\nThe appellee, Frank McKetta, was indicted in 1971 under the Drug, Device and Cosmetic Act, Act of September 26, 1961, P.L. 1664, 35 P.S. \u00a7 780-1 et seq., (now repealed, Act of April 14, 1972, P.L. 233, No. 64, \u00a7 43, 35 P.S. 780-101 et seq.) for possession of dangerous drugs and for dealing in dangerous drugs. The drug appellee allegedly possessed and dealt in was \u201cRitalin.\u201d During the trial, the question arose as to whether the drug Ritalin was a \u201cdangerous drug\u201d within the meaning of the statute. After hearing testimony outside the presence of the fury, the trial court ruled as a matter of law that Ritalin was a \u201cdangerous drug\u201d and so instructed the jury.\nWith several exceptions not relevant here, the Act of September 26, 1961, P.L. 1664, \u00a7 4(q), 35 P.S. 780-4 (q), made possession of or dealing in dangerous drugs illegal. That sub-section\u2019s prohibition of the possession of or dealing in dangerous drugs did not define \u201cdangerous drug.\u201d A \u201cdangerous drug,\u201d however, was defined elsewhere in the Act as,\n\u201c. . . a drug other than a narcotic drug [as elsewhere defined] which . . . is limited under the Federal Act to use under the professional supervision of a practitioner licensed by law to administer such drug.\u201d\nAct of September 26, 1961, P.L. 1664, Sec. 2(h) (4), 35 P.S. 780-2 (h)(4).\nThe term Federal Act means the Federal Food, Drug and Cosmetic Act, Title 21, U.S.C. \u00a7 301 et seq., 52 Stat. 1040 et seq. See Act of September 26, 1961, P.L. 1664, Sec. 2(p), 35 P.S. 780-2 (p).\nThe Federal Act, 21 U.S.C.A. \u00a7 353(b)(1)(B), limits the dispensing of a drug which,\n\u201c. . . because of its toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary to its use, is not safe for use except under the supervision of a practitioner licensed by law to administer such drug. . . . \u201d\nThus, to be guilty of possessing or dispensing a \u201cdangerous drug\u201d as defined by the Pennsylvania Statute, 35 P. S. 780-2(h)(4), one must possess or dispense a drug so limited by the Federal Act, 21 U.S.C. \u00a7 353(b)(1)(B).\nUnited States v. Key, 371 F.2d 421 (6th Cir. 1967), involved a federal prosecution for dispensing certain drugs in violation of 21 U.S.C. \u00a7 353(b) (1) (B) \u2014 the same section incorporated in Pennsylvania\u2019s Drug, Device and Cosmetic Act. The court in Key held that the prosecution\u2019s burden of proving all elements of the offense charged required it to prove that the substance\n\u201cwas not safe for use, except under the supervision of a practitioner licensed by law to administer such a drug and that it was dispensed without a prescription from a practitioner licensed by law to administer such a drug.\u201d\nId. at 423.\nThe appellant here was entitled to a jury trial as to all elements of the crimes with which he was charged. Commonwealth v. Rose, 457 Pa. 380, 321 A.2d 880 (1974). The prosecution, therefore, had a burden to convince the jury that Ritalin was a \u201cdangerous drug\u201d as defined by the Pennsylvania Statute. Because 35 P.S. 780-2(h) (4) defines \u201cdangerous drug\u201d as a drug limited by the Federal Act to being dispensed by prescription, the prosecution must show that Ritalin is so limited. To meet this burden, the prosecution here, like the prosecution in Key, is required to convince the jury beyond a reasonable doubt that Ritalin, because of its toxicity, or the method of its use, or because of other factors necessary for its use, it is not safe for use except under the supervision of a licensed practitioner, and that appellant in fact \u201cpossessed\u201d and \u201cdealt in\u201d such a \u201cdangerous drug\u201d without a prescription. This jury function could only have been performed had the jury been permitted to hear evidence concerning whether the substance in question met the statutory definition of a dangerous drug.\nAs stated in Commonwealth v. Rose, 457 Pa. 380, 389, 321 A.2d 880, 884 (1974), \u201cthe Commonwealth has an unshifting burden to prove beyond a reasonable doubt all elements of the crime.\u201d The trial court\u2019s original ruling here deprived appellant of his right to a determination by the jury as to the existence of all elements of the crime; the trial court therefore properly granted a new trial.\nFor these reasons, I would affirm the order of the Superior Court and grant appellee a new trial.",
+        "type": "dissent",
+        "author": "MANDERINO, Justice"
+      }
+    ],
+    "attorneys": [
+      "John J. Hickton, Dist. Atty., Charles W. Johns, Robert L. Campbell, Robert L. Eberhardt, Asst. Dist. Attys., Pittsburgh, for appellant.",
+      "Thomas A. Livingston, Dennis J. Clark, Pittsburgh, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "364 A.2d 1350\nCOMMONWEALTH of Pennsylvania, Appellant, v. Frank McKETTA, Appellee.\nSupreme Court of Pennsylvania.\nArgued Sept. 25, 1975.\nDecided Oct. 20, 1976.\nJohn J. Hickton, Dist. Atty., Charles W. Johns, Robert L. Campbell, Robert L. Eberhardt, Asst. Dist. Attys., Pittsburgh, for appellant.\nThomas A. Livingston, Dennis J. Clark, Pittsburgh, for appellee.\nBefore EAGEN, O\u2019BRIEN, ROBERTS, POMEROY, NIX and MANDERINO, JJ."
+  },
+  "file_name": "0223-01",
+  "first_page_order": 263,
+  "last_page_order": 275
+}

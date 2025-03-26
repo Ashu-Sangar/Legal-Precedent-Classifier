@@ -1,0 +1,96 @@
+{
+  "id": 470744,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. James JONES, Petitioner",
+  "name_abbreviation": "Commonwealth v. Jones",
+  "decision_date": "1995-06-08",
+  "docket_number": "",
+  "first_page": "361",
+  "last_page": "362",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "541 Pa. 361"
+    },
+    {
+      "type": "parallel",
+      "cite": "663 A.2d 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "651 A.2d 1101",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474141,
+        12257615
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0222-01",
+        "/a2d/651/1101-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 222",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474141
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0222-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 89,
+    "char_count": 948,
+    "ocr_confidence": 0.649,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.017203898760120764
+    },
+    "sha256": "caacee5326de6fd0b9ee3f72d97b62f8f07158c293b8a43cf007b14676c5ce63",
+    "simhash": "1:c5c2f10067a5a5be",
+    "word_count": 153
+  },
+  "last_updated": "2024-02-27T16:48:33.154946+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. James JONES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 8th day of June, 1995, upon consideration of petitioner\u2019s application for extraordinary relief in the form of a stay of execution pending the filing and resolution of a petition for a writ of certiorari, and for the exercise of King\u2019s Bench Powers, and the Commonwealth\u2019s representation that it takes no position on this application, IT IS HEREBY ORDERED that petitioner\u2019s application is GRANTED and his execution will be stayed until either the United States Supreme Court denies his petition for writ of certiorari from this Court\u2019s ruling in Commonwealth v. Jones, 539 Pa. 222, 651 A.2d 1101 (1994), or, if his writ of certiorari is granted on this case, until the United States Supreme Court issues a ruling following argument on the merits.\nMONTEMURO, J., is sitting by designation.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "663 A.2d 142\nCOMMONWEALTH of Pennsylvania, Respondent, v. James JONES, Petitioner.\nSupreme Court of Pennsylvania.\nJune 8, 1995."
+  },
+  "file_name": "0361-01",
+  "first_page_order": 555,
+  "last_page_order": 556
+}

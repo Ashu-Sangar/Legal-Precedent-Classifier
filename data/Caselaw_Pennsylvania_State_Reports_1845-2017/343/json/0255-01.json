@@ -1,0 +1,87 @@
+{
+  "id": 1208288,
+  "name": "Murphy, Appellant, v. McGinnis",
+  "name_abbreviation": "Murphy v. McGinnis",
+  "decision_date": "1941-11-24",
+  "docket_number": "Appeal, No. 113",
+  "first_page": "255",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "343 Pa. 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "20 A. 2d 206",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1206900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/342/0160-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 141,
+    "char_count": 1244,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 1.284870568780299e-07,
+      "percentile": 0.6184569061748387
+    },
+    "sha256": "36159ade68a3f212e0af5215b68180dc7c53e1777345eb9f207c977844acae3f",
+    "simhash": "1:6c842eaaf415aa56",
+    "word_count": 221
+  },
+  "last_updated": "2024-02-27T20:51:06.569721+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, C. J., Maxey, Drew, Linn, Stern, Patterson and Parker, JJ."
+    ],
+    "parties": [
+      "Murphy, Appellant, v. McGinnis"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis is a suit by the holder of a check against one of the indorsers. Various defenses were interposed, some of them raising questions of fact. The jury found a verdict for plaintiff. The court granted a new trial.\nIn the opinion of the court in banc, written by the trial judge, it is stated that he failed to charge the jury upon matters which were basic and fundamental and that he did not so instruct them as to clarify the issue and to enable them to comprehend the questions that they were to decide. He states \u201cthat fairness and justice dictate that a new tidal be had.\u201d Plaintiff insists that he was entitled to binding instructions and that judgment should now be entered in his favor. In view of the statements of the trial judge above mentioned, and because issues of fact were raised due to conflicting testimony, we will not interfere with the order granting a new trial: Weinfeld v. Funk, 342 Pa. 160, 20 A. 2d 206.\nOrder affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Elverton Haslett Wiclcs, with him G. Elmer Sown, for appellant.",
+      "J ohn Duggan, Jr., and Robert A. J arris, for appellee, were not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Murphy, Appellant, v. McGinnis\nArgued October 2, 1941.\nBefore Schaffer, C. J., Maxey, Drew, Linn, Stern, Patterson and Parker, JJ.\nElverton Haslett Wiclcs, with him G. Elmer Sown, for appellant.\nJ ohn Duggan, Jr., and Robert A. J arris, for appellee, were not heard.\nNovember 24, 1941:"
+  },
+  "file_name": "0255-01",
+  "first_page_order": 283,
+  "last_page_order": 284
+}

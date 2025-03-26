@@ -1,0 +1,113 @@
+{
+  "id": 1113396,
+  "name": "Graham's Estate",
+  "name_abbreviation": "Graham's Estate",
+  "decision_date": "1928-12-07",
+  "docket_number": "No. 129",
+  "first_page": "493",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "294 Pa. 493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "264 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1048529
+      ],
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/264/0224-01"
+      ]
+    },
+    {
+      "cite": "232 Pa. 189",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977909
+      ],
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/232/0189-01"
+      ]
+    },
+    {
+      "cite": "270 Pa., 367",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1066119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/270/0367-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 235,
+    "char_count": 3468,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 2.3019437394809592e-07,
+      "percentile": 0.7874791155777808
+    },
+    "sha256": "cf99fa8ce18add4440b185b3a2c29daae4ed727b5cb114703eac88d99cee4b10",
+    "simhash": "1:17028a29fb950715",
+    "word_count": 581
+  },
+  "last_updated": "2024-02-27T20:39:49.964940+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Graham\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nAn account was filed in the court below to have determined the ownership of 150 shares of the stock of a certain corporation, held by the accountant as trustee. The auditing judge, being of opinion that one-third of this stock represented income, awarded \u201cfifty shares to the persons who, on June 30, 1926, were entitled to income,\u201d adding, \u201cAs, under this adjudication, the estate...... now holds 100 shares.......as part of the principal, the said shares will be appraised and the above balance, as affected by the said appraisement,......is awarded to the accountant as trustee...... The account also shows a balance of income......, to which add [the] fifty shares of......stock.....making a total of $-, which......is awarded to be distributed to the parties entitled to income...... Counsel will prepare a schedule of distribution in duplicate, and certify to its correctness in conformity herewith, which, when approved by the auditing judge, will be annexed hereto, and form part hereof.\u201d Exceptions filed were dismissed on June 29, 1928, and the order then entered by the court below reads that \u201cthe adjudication is confirmed absolutely.\u201d On November 2, 1928, the same court entered an order entitled \u201cFinal Decree,\u201d which reads as follows: \u201cAnd now, to wit, November 2, 1928, the appraisement of the stock referred to in the adjudication, and therein ordered to be made, having been made, and the schedule of distribution as therein ordered having been filed and approved, and the exceptions to the adjudication filed on behalf of John S. G. Dunne having been dismissed, it is ordered and decreed that distribution be made as set forth in the said schedule of distribution and the adjudication is hereby confirmed absolutely.\u201d\nAn appeal was taken on November 14, 1928. A motion to quash is now before us, appellees contending that the appeal was taken more than three calendar months after the order of June 29, 1928, which they assert was the final and definitive decree, considering the decree of November 2,1928, as surplusage.\nThe motion to quash cannot be sustained. The order of June 29, 1928, was not final; at that time, so far as income is concerned, no awards of definite amounts were made to named beneficiaries. A decree awarding a balance for distribution to those entitled thereto, without naming the parties or fixing their shares, is an interlocutory order not subject to appeal: Monnia\u2019s Est., 270 Pa., 367. Moreover, on June 29, 1928, the stock in question had not been appraised and the schedule of distribution, then ordered to be prepared and submitted for approval, had not been drawn or approved. There can be no final decree until a schedule of distribution is approved by the court (Hoyt\u2019s Est., 232 Pa. 189, 190; Kaeir\u2019s Est., 264 Pa. 224, 225), and in the present case this did not take place till November 2, 1928.\nAppellees refer to Rule 3 of the court below. The rule in question fixes 15 days as the limit of time for filing exceptions to an adjudication, \u201cirrespective of whether [the auditing judge] shall or shall not have directed the submission of a schedule of distribution.\u201d This may be an effective manner to dispose quickly of the points of law decided in the adjudication, but it cannot affect the right of appeal to this court; nor does it so attempt.\nThe motion to quash is dismissed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Chas. Myers and Barnes, Brinton & Biddle, for motion.",
+      "Joseph H. Shoemaker, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Graham\u2019s Estate.\nChas. Myers and Barnes, Brinton & Biddle, for motion.\nJoseph H. Shoemaker, contra.\nDecember 7, 1928:"
+  },
+  "file_name": "0493-01",
+  "first_page_order": 517,
+  "last_page_order": 519
+}

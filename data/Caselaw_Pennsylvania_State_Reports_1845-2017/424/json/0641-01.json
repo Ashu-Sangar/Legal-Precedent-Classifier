@@ -1,0 +1,89 @@
+{
+  "id": 1904915,
+  "name": "Commonwealth v. Phillips, Appellant",
+  "name_abbreviation": "Commonwealth v. Phillips",
+  "decision_date": "1967-03-14",
+  "docket_number": "Appeals, Nos. 19, 20 and 21",
+  "first_page": "641",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "424 Pa. 641"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "220 A. 2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "208 Pa. Superior Ct. 121",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        776581
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/208/0121-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 471,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 4.193436467276212e-07,
+      "percentile": 0.9129916454588666
+    },
+    "sha256": "b93524d31f297e373bf0197707f697321c9318009a8ef024944111201104ba4d",
+    "simhash": "1:a4130b500a6a2467",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T23:35:32.544785+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Phillips, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPee Curiam,\nThe order of the Superior Court is affirmed on the able opinion of Judge Jacobs, 208 Pa. Superior Ct. 121, 220 A. 2d 345 (1966).",
+        "type": "majority",
+        "author": "Pee Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Harry L. HcNeal, Jr., for appellant.",
+      "John T. Hiller, First Assistant District Attorney, with him John F. Rauhauser, Jr., District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Phillips, Appellant.\nArgued November 16,1966.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nHarry L. HcNeal, Jr., for appellant.\nJohn T. Hiller, First Assistant District Attorney, with him John F. Rauhauser, Jr., District Attorney, for Commonwealth, appellee.\nMarch 14, 1967:"
+  },
+  "file_name": "0641-01",
+  "first_page_order": 665,
+  "last_page_order": 666
+}

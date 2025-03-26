@@ -1,0 +1,106 @@
+{
+  "id": 12284312,
+  "name": "Com. v. Canada",
+  "name_abbreviation": "Com. v. Canada",
+  "decision_date": "2016-08-30",
+  "docket_number": "82 EAL (2016)",
+  "first_page": "670",
+  "last_page": "670",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 670"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 211",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486784,
+        12486785,
+        12486786,
+        12486787,
+        12486772,
+        12486773,
+        12486774,
+        12486775,
+        12486776,
+        12486777,
+        12486778,
+        12486779,
+        12486780,
+        12486781,
+        12486782,
+        12486783
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0211-06",
+        "/a3d/144-2/0211-07",
+        "/a3d/144-2/0211-08",
+        "/a3d/144-2/0211-09",
+        "/a3d/144-2/0211-10",
+        "/a3d/144-2/0211-11",
+        "/a3d/144-2/0211-12",
+        "/a3d/144-2/0211-13",
+        "/a3d/144-2/0211-14",
+        "/a3d/144-2/0211-15",
+        "/a3d/144-2/0211-16",
+        "/a3d/144-2/0211-01",
+        "/a3d/144-2/0211-02",
+        "/a3d/144-2/0211-03",
+        "/a3d/144-2/0211-04",
+        "/a3d/144-2/0211-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 151,
+    "ocr_confidence": 0.752,
+    "sha256": "6860803c320628b883b6739411971fb9be07ed7c0a13e856e3a99d5a9ff722aa",
+    "simhash": "1:63b5e242bf7bf846",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Canada"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 211",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Canada\n08/30/2016\n82 EAL (2016)\n. Justice DONOHUE and MUNDY did not participate in the decision of this matter."
+  },
+  "file_name": "0670-12",
+  "first_page_order": 722,
+  "last_page_order": 722
+}

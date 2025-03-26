@@ -1,0 +1,80 @@
+{
+  "id": 12286977,
+  "name": "Com. v. Tyson",
+  "name_abbreviation": "Com. v. Tyson",
+  "decision_date": "2015-12-01",
+  "docket_number": "537 MAL (2015)",
+  "first_page": "787",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 787"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "119 A.3d 353",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6857583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/119/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.839,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24943693628470232
+    },
+    "sha256": "46d834fb0013bff7137f89383541c6ca374d18985d1c1de7670029329c3c857a",
+    "simhash": "1:7b08302648ff0ba2",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Tyson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 119 A.3d 353",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Tyson\n12/01/2015\n537 MAL (2015)"
+  },
+  "file_name": "0787-07",
+  "first_page_order": 841,
+  "last_page_order": 841
+}

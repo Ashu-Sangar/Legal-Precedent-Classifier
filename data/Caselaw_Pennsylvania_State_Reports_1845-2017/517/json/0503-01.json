@@ -1,0 +1,83 @@
+{
+  "id": 1809866,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Glenn DUNBAR, Respondent",
+  "name_abbreviation": "Commonwealth v. Dunbar",
+  "decision_date": "1988-03-08",
+  "docket_number": "Appeal No. 841 E.D. Allocatur Dkt. 1986",
+  "first_page": "503",
+  "last_page": "503",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 503"
+    },
+    {
+      "type": "parallel",
+      "cite": "539 A.2d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808600
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0053-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 509,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06732091330421194
+    },
+    "sha256": "f5424cf82058b1522e934b9dc856b7e2e17681e2a2a9989cfec2821d01107b75",
+    "simhash": "1:8bbb6ad7818bd8e8",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "McDERMOTT, J., did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Glenn DUNBAR, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nPetition for allowance of appeal granted. The order of the Superior Court is reversed, the complaints are reinstated, and the matter is remanded to the Court of Common Pleas of Carbon County for further consideration in light of Commonwealth v. Revtai, 516 Pa. 53, 532 A.2d 1.\nMcDERMOTT, J., did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "539 A.2d 347\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Glenn DUNBAR, Respondent.\nSupreme Court of Pennsylvania.\nMarch 8, 1988."
+  },
+  "file_name": "0503-01",
+  "first_page_order": 571,
+  "last_page_order": 571
+}

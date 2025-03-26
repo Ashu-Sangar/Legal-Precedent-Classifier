@@ -1,0 +1,70 @@
+{
+  "id": 12283073,
+  "name": "Com. v. Henderson",
+  "name_abbreviation": "Com. v. Henderson",
+  "decision_date": "2015-11-04",
+  "docket_number": "129 WAL (2015)",
+  "first_page": "763",
+  "last_page": "763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 763"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 1197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "116 A.3d 699",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.846,
+    "sha256": "b39ec6b551d237c10ef59923ecc49451c4822d00995fa903565b34d50d82bf42",
+    "simhash": "1:1b17f0a199564943",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Henderson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 116 A.3d 699",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Henderson\n11/04/2015\n129 WAL (2015)"
+  },
+  "file_name": "0763-05",
+  "first_page_order": 817,
+  "last_page_order": 817
+}

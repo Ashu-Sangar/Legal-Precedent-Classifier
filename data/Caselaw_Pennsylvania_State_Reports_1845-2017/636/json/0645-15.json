@@ -1,0 +1,70 @@
+{
+  "id": 12281111,
+  "name": "Com. v. Flint",
+  "name_abbreviation": "Com. v. Flint",
+  "decision_date": "2016-06-16",
+  "docket_number": "69 MAL (2016)",
+  "first_page": "645",
+  "last_page": "645",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 645"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "ocr_confidence": 0.831,
+    "sha256": "0c75b610f7864c14ac95724630fa0d63c6655d16122ee561129f081424c8f51e",
+    "simhash": "1:df52fadbadfcb81c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Flint"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 664",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Flint\n06/16/2016\n69 MAL (2016)\n. Justice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0645-15",
+  "first_page_order": 697,
+  "last_page_order": 697
+}

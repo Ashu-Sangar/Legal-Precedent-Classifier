@@ -1,0 +1,87 @@
+{
+  "id": 1793990,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. John Stephen ZAENGLE, Respondent",
+  "name_abbreviation": "Commonwealth v. Zaengle",
+  "decision_date": "1985-06-27",
+  "docket_number": "No. 144 M.D. Alloc. Dkt. 1984",
+  "first_page": "355",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "508 Pa. 355"
+    },
+    {
+      "type": "parallel",
+      "cite": "497 A.2d 1330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "506 Pa. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790972
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/506/0461-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 622,
+    "ocr_confidence": 0.771,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.5997058129643852
+    },
+    "sha256": "cee72ed387f99d14e101b9b8bd27badaad18cf7133bc8b0f5400b8493da70a47",
+    "simhash": "1:33cf654ef5bd4cae",
+    "word_count": 99
+  },
+  "last_updated": "2024-02-27T16:43:42.712799+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. John Stephen ZAENGLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nAND NOW, this 27th day of June, 1985, the Commonwealth\u2019s Petition for Allowance of Appeal is granted; its Motion to Vacate and Remand is granted; and the case is remanded to Superior Court for proceedings consistent with our recent decision in Commonwealth v. Frisbie, 506 Pa. 461, 485 A.2d 1098 (1985).",
+        "type": "majority",
+        "author": null
+      },
+      {
+        "text": "ZAPPALA, J.,\ndissents and would grant this petition, thereby giving all counsel the opportunity to fully brief and argue the issues involved.",
+        "type": "dissent",
+        "author": "ZAPPALA, J.,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "497 A.2d 1330\nCOMMONWEALTH of Pennsylvania, Petitioner, v. John Stephen ZAENGLE, Respondent.\nNo. 144 M.D. Alloc. Dkt. 1984.\nSupreme Court of Pennsylvania.\nJune 27, 1985."
+  },
+  "file_name": "0355-01",
+  "first_page_order": 417,
+  "last_page_order": 417
+}

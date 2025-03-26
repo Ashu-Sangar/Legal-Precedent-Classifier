@@ -1,0 +1,80 @@
+{
+  "id": 12281588,
+  "name": "Com. v. Valentine",
+  "name_abbreviation": "Com. v. Valentine",
+  "decision_date": "2015-09-23",
+  "docket_number": "800 MAL (2014)",
+  "first_page": "749",
+  "last_page": "749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 749"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 A.3d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "101 A.3d 801",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6916761
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/101/0801-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.869,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24905583298485742
+    },
+    "sha256": "99222957dfab4d9997ccaa314b283214bfaf48b5a3da069f7bdced1e935bfb41",
+    "simhash": "1:03c61cbc3077d041",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Valentine"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 101 A.3d 801",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Valentine\n09/23/2015\n800 MAL (2014)"
+  },
+  "file_name": "0749-11",
+  "first_page_order": 803,
+  "last_page_order": 803
+}

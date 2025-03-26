@@ -1,0 +1,89 @@
+{
+  "id": 1924246,
+  "name": "Commonwealth v. Trowery, Petitioner",
+  "name_abbreviation": "Commonwealth v. Trowery",
+  "decision_date": "1969-11-04",
+  "docket_number": "Petition for leave to appeal, No. 220",
+  "first_page": "586",
+  "last_page": "587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "435 Pa. 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "256 A. 2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 Pa. 301",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1924318
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/435/0301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 772,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 8.846255838124209e-08,
+      "percentile": 0.49839102588606515
+    },
+    "sha256": "d12470e4149e0254147da6e0ec77319d06b94947074f4d1604e03014c44cba5a",
+    "simhash": "1:d4c26a3566394ee3",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T23:35:38.084093+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Trowery, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nPetitioner was convicted of robbery and he appealed to the Superior Court, which affirmed. A petition for allocatur followed. The petition was prepared by petitioner; counsel has merely furnished a backer and a typist. This is clearly not the \u201crepresentation in the role of an advocate\u201d which we require. Commonwealth v. Stancell, 435 Pa. 301, 256 A. 2d 798 (1969).\nThe record is remanded to the hearing court so that counsel can file a proper petition for allocatur.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "G. Barry Buckley, for petitioner.",
+      "'William H. Lamb, Assistant District Attorney, with, him Norman J. Pine, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Trowery, Petitioner.\nBefore Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nG. Barry Buckley, for petitioner.\n'William H. Lamb, Assistant District Attorney, with, him Norman J. Pine, District Attorney, for Commonwealth, appellee.\nNovember 4, 1969:"
+  },
+  "file_name": "0586-01",
+  "first_page_order": 616,
+  "last_page_order": 617
+}

@@ -1,0 +1,92 @@
+{
+  "id": 12281763,
+  "name": "J.R.W. v. E.J.W.",
+  "name_abbreviation": "J.R.W. v. E.J.W.",
+  "decision_date": "2016-06-24",
+  "docket_number": "338 MAL (2016)",
+  "first_page": "651",
+  "last_page": "651",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 651"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 213",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486803,
+        12486804,
+        12486805,
+        12486806,
+        12486807,
+        12486808,
+        12486809,
+        12486810,
+        12486811
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0213-01",
+        "/a3d/144-2/0213-02",
+        "/a3d/144-2/0213-03",
+        "/a3d/144-2/0213-04",
+        "/a3d/144-2/0213-05",
+        "/a3d/144-2/0213-06",
+        "/a3d/144-2/0213-07",
+        "/a3d/144-2/0213-08",
+        "/a3d/144-2/0213-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.822,
+    "sha256": "c8818acddfca51a2efacfe283f1ddd97e130d0515d5f0e1ee7a26143ebe3e0b7",
+    "simhash": "1:249482778ae16a85",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J.R.W. v. E.J.W."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 213",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J.R.W. v. E.J.W.\n06/24/2016\n338 MAL (2016)"
+  },
+  "file_name": "0651-03",
+  "first_page_order": 703,
+  "last_page_order": 703
+}

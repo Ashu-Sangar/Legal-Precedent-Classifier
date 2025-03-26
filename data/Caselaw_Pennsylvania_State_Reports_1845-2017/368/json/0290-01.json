@@ -1,0 +1,81 @@
+{
+  "id": 1230316,
+  "name": "Commonwealth v. Geuss, Appellant",
+  "name_abbreviation": "Commonwealth v. Geuss",
+  "decision_date": "1951-06-27",
+  "docket_number": "Appeals, Nos. 135 and 136",
+  "first_page": "290",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "368 Pa. 290"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "168 Pa. Superior Ct. 22",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        471883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/168/0022-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 508,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 9.175229855573886e-08,
+      "percentile": 0.5090538097008744
+    },
+    "sha256": "ffa2c359f9678666ec49f01b72ca15bcce6e4ce0dd3e3ed2c5f774f9360953aa",
+    "simhash": "1:6752c6f58693321c",
+    "word_count": 79
+  },
+  "last_updated": "2024-02-27T18:12:52.853558+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Drew, C. J., Stern, Stearns, Jones, Bell, Ladner and Chidsey, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Geuss, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe judgments are affirmed on the opinion for the Superior Court: see 168 Pa. Superior Ct. 22.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Hayden C. Covington, with him Harold Mayberry, for appellants.",
+      "Ralph H. Griesemer, City Solicitor, with him Joseph B. Walker, Assistant City Solicitor, Kenneth H. Koch, District Attorney and Ray R. Brennan, Assistant District Attorney, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Geuss, Appellant.\nArgued May 22, 1951.\nBefore Drew, C. J., Stern, Stearns, Jones, Bell, Ladner and Chidsey, JJ.\nJune 27, 1951:\nHayden C. Covington, with him Harold Mayberry, for appellants.\nRalph H. Griesemer, City Solicitor, with him Joseph B. Walker, Assistant City Solicitor, Kenneth H. Koch, District Attorney and Ray R. Brennan, Assistant District Attorney, for appellee."
+  },
+  "file_name": "0290-01",
+  "first_page_order": 312,
+  "last_page_order": 313
+}

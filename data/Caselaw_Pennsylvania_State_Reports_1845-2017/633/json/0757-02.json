@@ -1,0 +1,80 @@
+{
+  "id": 12282308,
+  "name": "Krepps v. Snyder",
+  "name_abbreviation": "Krepps v. Snyder",
+  "decision_date": "2015-08-31",
+  "docket_number": "314 MAL (2015)",
+  "first_page": "757",
+  "last_page": "757",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 757"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "112 A.3d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6879884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/112/1246-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.896,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24908788118535097
+    },
+    "sha256": "58d3aef4ea35c71380bae6df07d1e5a78716b547c8a81e4ec2d6d104f86cccc6",
+    "simhash": "1:330a2005dc5c1408",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Krepps v. Snyder"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 112 A.3d 1246",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Krepps v. Snyder\n08/31/2015\n314 MAL (2015)"
+  },
+  "file_name": "0757-02",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

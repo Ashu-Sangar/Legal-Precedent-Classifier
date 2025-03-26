@@ -1,0 +1,106 @@
+{
+  "id": 4197634,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Cleveland LOFTON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Lofton",
+  "decision_date": "2009-09-03",
+  "docket_number": "No. 102 EM 2009",
+  "first_page": "88",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "603 Pa. 88"
+    },
+    {
+      "type": "parallel",
+      "cite": "982 A.2d 61"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation ixnproper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation ixnproper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 582,
+    "ocr_confidence": 0.66,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1380966612339175
+    },
+    "sha256": "809795db13fa0ec875d8f433b86182cbe9d7790cf1942ad8f02a567fa6df90bf",
+    "simhash": "1:2d0c242843850075",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T23:00:33.759121+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Cleveland LOFTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of September, 2009, the Application for Leave to File Original Process, the Petition for Writ of Prohibition, and the Application for an Immediate Hearing-are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation ixnproper). The Prothonotary is directed to forward these filings to counsel of record. See CP-51-CR-0006383-2007 and CP-51-CR-0006399-2007.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "982 A.2d 61\nCOMMONWEALTH of Pennsylvania, Respondent v. Cleveland LOFTON, Petitioner.\nNo. 102 EM 2009.\nSupreme Court of Pennsylvania.\nSept. 3, 2009."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

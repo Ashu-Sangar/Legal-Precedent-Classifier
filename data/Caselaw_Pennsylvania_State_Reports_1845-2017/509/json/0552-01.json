@@ -1,0 +1,82 @@
+{
+  "id": 1795289,
+  "name": "Dwight BAKER, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent",
+  "name_abbreviation": "Baker v. Commonwealth, Pennsylvania Board of Probation & Parole",
+  "decision_date": "1986-02-21",
+  "docket_number": "Petition No. 2 W.D.Alloc.Dkt. 1985",
+  "first_page": "552",
+  "last_page": "552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "509 Pa. 552"
+    },
+    {
+      "type": "parallel",
+      "cite": "506 A.2d 861"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Pa. 248",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1795390
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/509/0248-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 556,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0668552490898118
+    },
+    "sha256": "8f1a30b2546db3459a36d695f189f6923cf03e9dc408b61a5fe1d38546215bfe",
+    "simhash": "1:75883abd83a92f7b",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T18:13:32.590987+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight BAKER, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of FEBRUARY, 1986, the petition for allowance of appeal is granted, the orders of the Board of Probation and Parole and the Commonwealth Court are vacated and the case is remanded to the Board for proceedings consistent with this Court\u2019s opinion in Rivenbark v. Pennsylvania Board of Probation and Parole, 509 Pa. 248, 501 A.2d 1110 (1985).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "506 A.2d 861\nDwight BAKER, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 21, 1986."
+  },
+  "file_name": "0552-01",
+  "first_page_order": 620,
+  "last_page_order": 620
+}

@@ -1,0 +1,565 @@
+{
+  "id": 1181434,
+  "name": "Quigley's Estate",
+  "name_abbreviation": "Quigley's Estate",
+  "decision_date": "1938-03-21",
+  "docket_number": "Appeal, No. 253",
+  "first_page": "281",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "329 Pa. 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "313 Pa. 328",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1152626
+      ],
+      "pin_cites": [
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/313/0328-01"
+      ]
+    },
+    {
+      "cite": "203 U. S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8290327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/203/0056-01"
+      ]
+    },
+    {
+      "cite": "211 U. S. 321",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11927290
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/211/0321-01"
+      ]
+    },
+    {
+      "cite": "257 Pa. 377",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032402
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/257/0377-01"
+      ]
+    },
+    {
+      "cite": "323 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1169561
+      ],
+      "pin_cites": [
+        {
+          "page": "239, 240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/323/0229-01"
+      ]
+    },
+    {
+      "cite": "267 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057677
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/267/0390-01"
+      ]
+    },
+    {
+      "cite": "250 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1016958
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/250/0105-01"
+      ]
+    },
+    {
+      "cite": "301 Pa. 509",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1126492
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/301/0509-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111143
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0273-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 94",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092036
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0094-01"
+      ]
+    },
+    {
+      "cite": "257 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032363
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/257/0329-01"
+      ]
+    },
+    {
+      "cite": "251 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019549
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/251/0582-01"
+      ]
+    },
+    {
+      "cite": "213 Pa. 390",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        943358
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "397, 398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/213/0390-01"
+      ]
+    },
+    {
+      "cite": "196 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        916829
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "379, 380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/196/0366-01"
+      ]
+    },
+    {
+      "cite": "185 Pa. 179",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        898030
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/185/0179-01"
+      ]
+    },
+    {
+      "cite": "124 Pa. 10",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        563106
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/124/0010-01"
+      ]
+    },
+    {
+      "cite": "272 Pa. 143",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1068386
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "148, 152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/272/0143-01"
+      ]
+    },
+    {
+      "cite": "328 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1179682
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/328/0513-01"
+      ]
+    },
+    {
+      "cite": "320 Pa. 112",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163620
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "121"
+        },
+        {
+          "page": "120, 121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/320/0112-01"
+      ]
+    },
+    {
+      "cite": "316 Pa. 12",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1158993
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0012-01"
+      ]
+    },
+    {
+      "cite": "306 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1136884
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "405"
+        },
+        {
+          "page": "406"
+        },
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/306/0394-01"
+      ]
+    },
+    {
+      "cite": "296 Pa. 348",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1116602
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "356-358"
+        },
+        {
+          "page": "356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/296/0348-01"
+      ]
+    },
+    {
+      "cite": "293 Pa. 497",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111154
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "508"
+        },
+        {
+          "page": "508"
+        },
+        {
+          "page": "507-509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/293/0497-01"
+      ]
+    },
+    {
+      "cite": "288 Pa. 348",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100809
+      ],
+      "pin_cites": [
+        {
+          "page": "353, 354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/288/0348-01"
+      ]
+    },
+    {
+      "cite": "284 Pa. 90",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1092045
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "93, 94"
+        },
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/284/0090-01"
+      ]
+    },
+    {
+      "cite": "257 Pa. 385",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1032410
+      ],
+      "pin_cites": [
+        {
+          "page": "390, 391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/257/0385-01"
+      ]
+    },
+    {
+      "cite": "248 Pa. 285",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1011486
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/248/0285-01"
+      ]
+    },
+    {
+      "cite": "198 Pa. 454",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        920359
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "457, 458"
+        },
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/198/0454-01"
+      ]
+    },
+    {
+      "cite": "136 Pa. 354",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        819995
+      ],
+      "pin_cites": [
+        {
+          "page": "365, 366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/136/0354-01"
+      ]
+    },
+    {
+      "cite": "220 Pa. 450",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1005867
+      ],
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/220/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1022,
+    "char_count": 25526,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 1.035053482767986e-06,
+      "percentile": 0.9837998277119632
+    },
+    "sha256": "4995dd772ecfcb0d662cb1c6eb910ffea7584003fb9ddd02313f716e01b90265",
+    "simhash": "1:07b4ac5644e566a1",
+    "word_count": 4405
+  },
+  "last_updated": "2024-02-27T21:05:26.763160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaefer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Quigley\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Stern,\nTestator, John A. Quigley, died April 24, 1934, a widower, and leaving an estate of upwards of $475,000. Surviving him were his son John G. Quigley, twenty-nine years of age, unmarried, his sister Mary V. Logan, his sister Lillian Conley with whom he had been living for sixteen years, her daughter Madeline E. Dooley, and the latter\u2019s four minor sons, James, William, Charles and John. Testator was on terms of great intimacy with his two sisters, his niece and his grandnephews, and saw them frequently.\nThe will of testator was dated February 7,1934. By a codicil of April 6, 1934, the residuary clauses were revoked and the residue of the estate was devised and bequeathed \u201cunto the Provident Trust Company of Philadelphia, Pennsylvania, and John W. Hallahan, Esq., of Philadelphia, Pennsylvania, IN TRUST NEVERTHELESS, for the following uses and purposes:\n\u201c(I) To pay the net income therefrom to my said son John G. Quigley, for and during his natural life.\n\u201c (II) Upon the decease of my said son, John G. Quigley, to pay the net income therefrom to his child or children, share and share alike, for and during the period of twenty years after the death of my said son, John G. Quigley, and at the expiration of said twenty years from the death of my said son, John G. Quigley, IN TRUST, to assign, transfer and pay over one-half of the principal of my residuary estate to the child or children of my said son, John G. Quigley, absolutely, share and share alike; I direct that the share of income and principal to which a child or children of my said son, John G. Quigley, may be entitled hereunder, in case of his, her or their death, shall be paid to the descendants of such deceased child or children per stirpes, upon the principle- of representation.\n\u201c(Ill) In case my said son, John G. Quigley, dies without children or descendants of children entitled to take as hereinabove set forth, then and in such case to pay the net income from the entire residue of my estate, and in case of the distribution of one-half of the principal of the residue of my estate as hereinabove directed, then and in such case to pay the net income from the remaining one-half of the said residue as follows:\n\u201c(a) To my sisters, Lillian Conley, and Mary V. Logan, share and share alike, during their natural lives.\n\u201c(b) Should either of my said sisters die without leaving children or grandchildren, then to the survivor of my said sisters, the share my deceased sister would have received if living, during her natural life.\n\u201c(c) In case of the death of either or both of my said sisters leaving children, then the share of said net income payable to my said deceased sister should she have lived, shall be paid to her child or children, share and share alike, during the lifetime of said child or children, and from and after the death of any of said child or children, the child or children of any such deceased child capable by law of taking, to be paid during his, her or their natural lives, the share its parent would have taken if living, and in case of the death of any grandchild of such deceased sister having child or children capable by law of taking, the share his, her or their parent would have taken, if living, to be paid to him, her or them during their natural lives; if there be no such children or grandchildren or great-grandchildren of a deceased sister, the aforesaid net income of this trust estate to be paid to my surviving sister, if any, during her natural life, or if no surviving sister, to the child or children of any deceased sister of mine, if any, for his, her or their natural lives, and if no child or children of any deceased sister of mine, then to the grandchild or grandchildren of any deceased child of my sister, who by law is capable of taking, during his, her or their natural lives, the child or children of a deceased child or grandchild by law capable of taking to take, during his, her or their natural lives, the share its parent would have taken if living, share and share alike.\n\u201c(d) In case of the death of both of my said sisters, one only of them leaving no child or children but a grandchild or grandchildren, then to pay the net income to such of said grandchildren as may by law be capable of taking, during his, her or their natural lives, the child or children of grandchildren capable by law of taking, to receive, during his, her or their natural lives the share its parent would have taken, if living, share and share alike.\n\u201cI direct my said trustees, upon the death of all those entitled to the income therefrom, to pay the principal of the aforesaid trust .estates not otherwise disposed of, to his Eminence, Dennis Cardinal Dougherty, or to whomever may be at the time, Archbishop of the Diocese of Philadelphia, or his successor as Archbishop of said Diocese, to be used for such charitable purpose as he shall deem proper, PROVIDED, however, in the event of my death within one calendar month, I direct my trustees, upon the death of all those entitled to the income therefrom, to pay the principal of the aforesaid trust estates not otherwise disposed of, to His Eminence, Dennis Cardinal Dougherty, or to whomever may be at the time, Archbishop of the Diocese of Philadelphia, absolutely, and in fee.\u201d\nBy a clause in the original will not affected by the codicil it was provided that \u201cSo far as may be permissible by law, all the shares of principal and income hereby- given shall be free from anticipation, assignment, pledge or obligations of beneficiaries, and shall not be subject to any execution or attachment.\u201d\nUpon adjudication of the executors\u2019 account, testator\u2019s son, John G. Quigley, contended that the limitations in the codicil following his own life estate, the bequest to his children, and the life estates of testator\u2019s two sisters and their children, transgressed the rule against perpetuities, that testator\u2019s dominant purpose was to create these invalid limitations and illegally to tie up his estate for a period prohibited by the rule, and that, therefore, all prior limitations fell with the failure of the testamentary scheme as a whole. He claimed that the result was an intestacy which entitled him to an award of the residuary estate as sole heir at law, or, in any event, to the half of it which was to go to the collateral line and for charity following the distribution of the other half to his children if any. The court below rejected these contentions - and awarded the entire residuary estate \u201cto the accountants in trust for John G. Quigley, under the terms and provisions of the will.\u201d\nJohn G. Quigley, appellant, concedes, as he must, that the bequests of the life estate to himself, of the income to his children for twenty years following his death, of the one-half of the residuary estate to such children, and of the life estates to testator\u2019s sisters and their children either in the entire residuary estate or in one-half of it, depending upon whether or not John G. Quigley should die without children, are all properly within the limits of the rule against perpetuities and, in and by themselves, valid estates. His attack is upon the limitations which follow these. He contends that the shares of the sisters\u2019 grandchildren do not become vested until the death of their respective parents, a time which may violate the rule, and the same objection is made, with greater force because of their greater remoteness, to the shares of their great-grandchildren; he argues that the codicil, properly construed, includes a bequest of life estates even to the sisters\u2019 great-great-grandchildren. Appellees, the trustees under the will, in answer to these contentions, maintain that the bequests to the descendants of the sisters are vested, not contingent, remainders, to which, therefore, the rule against perpetuities does not apply, and that, in any event, their validity is assured by the beneficiaries in each generation being limited to those \u201ccapable by law of taking.\u201d Appellant counters with the proposition that if there is a limitation of a future interest to a class, and it is void as to any of the class, it is void as to all; to which appellees reply that this is not the case of a gift to a class only some of whom can take, but to a group or class all of whom can take, being to those \u201ccapable by law of taking,\u201d and that the number of those thus \u201ccapable\u201d will necessarily be determined within the time required by the rule against perpetuities; appellees point to a concession by appellant that the testator could have provided that at the death of a legatee named by him to enjoy income the income should go to such of the children or issue of the legatee as might be alive at the testator\u2019s death or in whom the gift might vest within twenty-one years after the death of a legatee alive at the testator\u2019s death, and appellees assert that this is just what testator did provide, only by a different method of expression. As to the ultimate remainder of the estate, testator died within a month of the execution of the codicil, which, in such event, bequeathed it \u201cto His Eminence, Dennis Cardinal Dougherty or to whomever [sic] may be at the time, Archbishop of the Diocese of Philadelphia, absolutely, and in fee.\u201d Under this provision, notwithstanding the designation of the alternative beneficiary by office or title rather than by name, he takes as an individual: Flood v. Ryan, 220 Pa. 450, 453. Appellees contend that this remainder is vested because it follows unconditionally upon life estates which must inevitably terminate, but appellant argues that it is contingent because the person to whom the description shall be found to apply cannot be ascertained until such termination, which may not, and probably will not, be within the time prescribed by the rule against perpetuities.\nThe relative contentions of the parties thus summarized outline problems of considerable legal interest, but the question arises at the very threshold of inquiry as to whether they require solution at this time, in view of the fact that there is a valid outstanding life estate in appellant, with other admittedly valid limitations to follow. Appellant\u2019s theory of the ease is that, if his propositions as to the invalidity of the subsequent estates are correct, the prior limitations, otherwise valid, must likewise fall as being merely ancillary and subordinate to the dominant intention of the testator to create a long-term, forbidden trust, and that, therefore, the question of the invalidity of the ulterior limitations must now be determined, so that it may be ascertained whether he is entitled to an immediate award of the residuary estate.\nThe general doctrine is definitely opposed to this position. Ordinarily the validity of prior limitations is not affected or disturbed by reason of ultimate ones which transgress the rule against perpetuities. There is a well nigh continuous current of authorities in Pennsylvania establishing this principle: Lawrence\u2019s Estate, 136 Pa. 354, 365, 366; Goddard\u2019s Estate, 198 Pa. 454, 457, 458; Whitman\u2019s Estate, 248 Pa. 285; Ewalt v. Davenhill, 257 Pa. 385, 390, 391; Jones\u2019s Trust Estate, 284 Pa. 90, 93, 94; Hays\u2019s Estate, 288 Pa. 348, 353, 354; McCaskey\u2019s Estate, 293 Pa. 497, 508; Kern\u2019s Estate, 296 Pa. 348, 356-358; Lockhart\u2019s Estate, 306 Pa. 394, 405; Hecht\u2019s Estate, 316 Pa. 12; Warren\u2019s Estate, 320 Pa. 112, 121; McCreary\u2019s Trust Estate, 328 Pa. 513.\nIt is true there are cases in which prior bequests, entirely valid in themselves, fall by reason of being but incidental factors in a general plan of distribution the vital portion of which is invalidated because of remoteness, or, in other words, where a series of limitations form such an integrated testamentary scheme that they cannot be separated from one another without defeating the organic plan of the testator. It was said in Lilley\u2019s Estate, 272 Pa. 143, 153: \u201cWhere the limitations of the prior and ulterior estates are so intimately and inseparably intertwined that the failure of the limitation of the latter disturbs the main and dominant purpose of the testator, of which the prior limitations are a part, such prior and ulterior estates are void; so, too, where the prior estate is but a mere agency to accomplish a transgression of the rule.\u201d Perhaps, instead of making the criterion the \u201cdominant intention\u201d of the testator, it might be better, adopting phraseology from the opinion in McCaskey\u2019s Estate, 293 Pa. 497, 508, to inquire whether \u201cthe striking down of the void gifts would, in vital matters, so emasculate his (the testator\u2019s) plan of distribution, as to render it reasonably certain he would not have made the will in the way he did had he known it could not be sustained in the respects in which it must be set aside.\u201d Such a test makes the question analogous to the familiar subject of inquiry whether the remaining portions of a statute should be held valid and in effect after part of the act has been declared to be unconstitutional. Would the testator have intended that all the limitations of the trust should stand or fall together?\nIn the present case none of the factual circumstances exist which would justify a judicial invalidation of the prior life estates as being inextricable parts of a frustrated testamentary purpose. What the testator has done here is to make primary provision for his own flesh and blood, first for his son, and then for his son\u2019s children if there should be any. Being, however, warmly attached, as the admitted facts indicate, to his sisters, his niece and the latter\u2019s children, he provides that the income from half of the estate shall go in this collateral line, and all of it if his son dies without issue. His ultimate gift was for charity if a not too premature death after the execution of the codicil permitted. It seems difficult, if not impossible, to believe that, by this disposition of his property, he showed that his bequests to the more remote descendants of his sisters and for charity constituted so dominant a part of his testamentary intent that his bequests of a life estate to his son, of the income for twenty years and half the principal of the estate to his grandchildren, and of the life estates to his sisters and their children, were to him but mere legalistic props to keep the estate alive until the half of it came to the Archbishop, and that, if he had known the later limitations would be pronounced invalid, he would not have wished the prior bequests to those to whom he was most devoted, and who were the natural objects of his bounty, to be effective, but would have desired that his sisters, niece and grandnephews receive no share of his estate at all. Rather is the conclusion inescapable that the precedent estates were created for a vital purpose of their own, and not merely to support the estates which followed them. Appellant\u2019s argument that testator could not have been seriously interested in the welfare of his sisters, since they, being advanced in age, would probably not be alive when their life estates should commence twenty years after the death of the testator\u2019s son, is not impressive. The answer is that testator\u2019s son might die at any time, and without children, whereupon the sisters\u2019 life estates in the entire income would begin. Testator desired to protect his sisters, but only after accomplishing his prior object of making provision for his son and possible grandchildren.\nThe cases upon which' appellant relies are all distinguishable. In Coggins\u2019s Appeal, 124 Pa. 10, the estates of the first takers were not stricken down; the secondary estates were held to be invalid as too remote, and it happened that the next of kin were those who took the prior estates; therefore the prior and secondary estates coalesced and there was an award accordingly to the persons who thus became entitled. In John son\u2019s Estate, 185 Pa. 179, a trust was established for a period of seventy-five years, at the expiration of which the estate was to be liquidated and the proceeds distributed to the testator\u2019s then living descendants; meanwhile the income was to be paid annually to his children, grandchildren, and their descendants. It was held that the scheme of the testator fell as a whole, the seventy-five years\u2019 trust apparently not being designed to serve any purpose of its own, but solely in furtherance of the postponement of distribution to the end of the period; the testator was attempting merely to prevent a sale of the property until that time. In Gerber\u2019s Estate, 196 Pa. 366, the testator\u2019s real estate was not to be sold until all his grandchildren had died and the youngest grandchild of his son had become twenty-two years of age, at which time it was to be liquidated and divided among his son\u2019s lawful heirs; meanwhile, but an insignificant part of the income was to be distributed, the bulk of it accumulating until the distribution provided for. It naturally was held that the essential feature of this testamentary scheme was the holding of the estate intact during the period, the minor interim bequests of part of the income being wholly ancillary to the main purpose. In Kountz\u2019s Estate, 213 Pa. 390, also 251 Pa. 582, the estate was given in trust for the children of the testatrix, and, after the decease of the last of them and ten years after her youngest grandchild should come of age, the principal was to be divided among the grandchildren. Here, as in the Johnston case, the estate was given solely for the benefit of the lineal descendants, but the attempt was to tie it up so that the children and grandchildren could not alienate or interfere with it until the time provided for ultimate distribution. It was reasonable, therefore, for the court to assume that if the testatrix had known she could not legally accomplish this object, she would not have made limitations of life estates. In Geissler v. Reading Trust Co., 257 Pa. 329, there was a devise in trust, the income being given for the lives of the children and then of the grandchildren, and the corpus to vest, after the death of the last of the grandchildren, in the great-grandchildren of the testator. Such disposition being invalid, the limitation of the property of his descendants by successive stages of life estates was manifestly without remaining point or purpose. In Lilley\u2019s Estate, 272 Pa. 143, there was to be an accumulation in a trust for ninety-nine years, at which time distribution was to be made to the then living heirs of two nephews of the testator. Meanwhile none of the income was to be paid to anyone. There was a direction in regard to the operation of coal mines owned by a company in which the testator held stock, upon payment of \u201ca royalty to suit the company.\u201d This provision, being merely incidental to the administration of the illegal trust, of course fell with it. Ledwith v. Hurst, 284 Pa. 94, was a case similar to Goggins\u2019s Appeal, supra, where, the ultimate limitations being invalidated, the heirs who thereupon became entitled were the same as those to whom the prior estates had been given; therefore a coalescence of the titles resulted. In Feeney\u2019s Estate, 293 Pa. 273, there was a trust, the income to be paid to the testator\u2019s son for life, then for the lives of the son\u2019s children living at the time of the son\u2019s death; upon the death of a grandchild his share of the corpus was to be paid to the other children of the testator or their heirs. The case is therefore similar to the Geissler case, supra. Finally, in Scott\u2019s Estate, 301 Pa. 509, where the net income was to be paid to the testator\u2019s son for life, then to the latter\u2019s children, and upon the death of the son and all his children the principal to be distributed to other named legatees if living, the ultimate gift being in violation of the rule against perpetuities the precedent estates were held to fall likewise. Since the testator\u2019s gift to the residuary legatees was defeated and the estate thereby confined to his children and grandchildren, there was no reason to - assume that under such circumstances the testator would have desired to establish the life estates.\nIt is clear that the present case differs from all of these. If testator had known that his bequest to his grandnephews and to the Archbishop could not be sustained, there is nothing to indicate that he would not even in that event have restricted his son\u2019s interest to a life estate (his son had lived apart from him for twenty-six of the twenty-nine years of his life), and given the life estates in income to his sisters and niece. There was here no plan for accumulation of income, nor any attempt to keep an estate intact for the benefit of remote lineal descendants, but rather a series of successive bequests, each clearly explicable as to purpose and motivated by the differences in testator\u2019s relationships to those whom he made the beneficiaries of his estate.\nSince, therefore, as now held, the precedent life estates would not be affected in the present case even if the subsequent ones were to be declared invalid, there is no occasion for presently deciding whether or not such invalidity exists; such decision must wait until the necessity for it arises. This is in accordance with the uniform practice in such cases: Goddard\u2019s Estate, 198 Pa. 454, 457; Whitman\u2019s Estate, 248 Pa. 285, 292; Strickler\u2019s Estate, 250 Pa. 105; Lockhart\u2019s Estate, 267 Pa. 390, also 306 Pa. 394, 406; Jones\u2019s Trust Estate, 284 Pa. 90, 94; McCaskey\u2019s Estate, 293 Pa. 497, 507-509; Hecht\u2019s Estate, 316 Pa. 12; Warren\u2019s Estate, 320 Pa. 112, 120, 121; McCreary\u2019s Trust Estate, 328 Pa. 513. Appellant requests that, even if it be held the fund must be maintained intact for the benefit of the immediate trusts, the court should nevertheless render a declaratory decree as to the validity of the subsequent limitations, so that he may be advised as to his ultimate rights in the estate, and he calls attention to the amendment of April 25, 1935, P. L. 72, to the Declaratory Judgments Act, and also to the supplement to that Act of May 22, 1935, P. L. 228. These acts, however, still leave to the court the discretion to render declaratory judgments or decrees only where it is convinced \u201cthat such a judgment or decree is appropriate and proper to be entered,\u201d and is satisfied that antagonistic claims are present \u201cwhich indicate imminent and inevitable litigation.\u201d Persons may be born hereafter who will be concerned in the problems here involved, which is a cogent reason for postponing an adjudication of their rights; moreover, it may, and probably will, be many years until the questioned remainders can in any event ripen into possession.\nAt the audit the executors claimed commissions of 4% on the principal of the estate. The auditing judge ordered a reduction to 3% ; the court in banc sustained appellees\u2019 exceptions to this order and awarded commissions of 4% on the part of the estate to be held in trust and 3% on the balance. It is now appellant\u2019s contention that the flat award of 3% allowed by the auditing judge should be reinstated. It is true that where the same persons fulfill the duties of executors and trustees they can charge only one commission on the moneys passing through their hands, which, in addition to their commissions on income, shall be deemed full compensation for their services in the double capacity of executors and trustees (Act of June 7, 1917, P. L. 447, sec. 45), and this should be borne in mind in awarding commissions on the accounts of executors. Nevertheless where, as here, a commission of 5% has been allowed on income, and the size of the estate is taken into consideration, it would seem, for the reasons set forth in Gardner\u2019s Estate, 323 Pa. 229, 239, 240, that an allowance of 3% on the corpus of the estate is adequate under the circumstances. The decree should be modified accordingly.\nThe decree of the court below, as amended, is affirmed; costs to be divided equally between appellant, John G. Quigley, and the corpus of decedent\u2019s estate.\nMcCauley\u2019s Estate, 257 Pa. 377.\nIn re Finch & Chew\u2019s Contract, L. R. 2 Ch. (1903) 486, \u201ccapable of taking effect\u201d; In re Hooper, L. R. 1 Ch. (1932) 38, \u201cso far as they legally can do so\u201d; Pownall v. Graham, 33 Beavan 242 (55 Eng. Rep. 360), \u201cas the law in such cases admits\u201d; Fitchie v. Brown, 211 U. S. 321, \u201cfor as long a period as is legally possible.\u201d\nCoggins\u2019s Appeal, 124 Pa. 10, 30; Lockhart\u2019s Estate, 306 Pa. 394, 401.\nKern\u2019s Estate, 296 Pa. 348, 356.\nBlackstone\u2019s Commentaries, Book II, ch. XI, 169; Fearne on Contingent Bemainders, Vol. 1, ch. 1, sec. 2, par. 4; Johnston\u2019s Estate, 185 Pa. 179, 186; Gerber\u2019s Estate, 196 Pa. 366, 379, 380; Kountz\u2019s Estate (No. 1), 213 Pa. 390, 397, 398; Lilley\u2019s Estate, 272 Pa. 143, 148, 152; Feeney\u2019s Estate, 293 Pa. 273, 280.\nIt was said, somewhat picturesquely, in Landram v. Jordan, 203 U. S. 56, 63: \u201cThe trust is not a metaphysical entity or a Prince Rupert\u2019s drop which flies to pieces if broken in any part.\u201d\n\u201cTo talk of dominant or primary intentions of testator in connection with his measure of the duration of the trust would lead the court into refinements pregnant with litigation\u201d: Friday\u2019s Estate, 313 Pa. 328, 336.",
+        "type": "majority",
+        "author": "Mr. Justice Stern,"
+      }
+    ],
+    "attorneys": [
+      "Robert von Mosehzislcer, with him John J. Green, for appellant.",
+      "Darnel G. Donoghue, for appellee.",
+      "Thomas A. McNab, for appellees.",
+      "Walter B. Gibbons, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Quigley\u2019s Estate.\nArgued January 11, 1938.\nBefore Kephart, C. J., Schaefer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nRobert von Mosehzislcer, with him John J. Green, for appellant.\nDarnel G. Donoghue, for appellee.\nThomas A. McNab, for appellees.\nWalter B. Gibbons, for appellees.\nMarch 21, 1938:"
+  },
+  "file_name": "0281-01",
+  "first_page_order": 313,
+  "last_page_order": 327
+}

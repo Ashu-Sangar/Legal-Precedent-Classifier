@@ -1,0 +1,80 @@
+{
+  "id": 12285453,
+  "name": "Com. v. Wolfe",
+  "name_abbreviation": "Com. v. Wolfe",
+  "decision_date": "2016-08-25",
+  "docket_number": "93 MAL (2015)",
+  "first_page": "677",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 677"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "106 A.3d 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6897314
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/106/0800-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24927515079064455
+    },
+    "sha256": "b141fbae3addb2700ca63a82687e0f4a1bfc4166ca50d123f7105bf5897ec587",
+    "simhash": "1:1fc2660eaac67bfe",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Wolfe"
+    ],
+    "opinions": [
+      {
+        "text": "Dismissed\nPa.Super., 106 A.3d 800",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Wolfe\n08/25/2016\n93 MAL (2015)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0677-03",
+  "first_page_order": 729,
+  "last_page_order": 729
+}

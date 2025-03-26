@@ -1,0 +1,96 @@
+{
+  "id": 1100705,
+  "name": "Sherry GILLESPIE, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner",
+  "name_abbreviation": "Gillespie v. Commonwealth",
+  "decision_date": "2004-11-22",
+  "docket_number": "Appeal No. 294 EAL 2002",
+  "first_page": "560",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "580 Pa. 560"
+    },
+    {
+      "type": "parallel",
+      "cite": "862 A.2d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "860 A.2d 76",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9145771,
+        1100756
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/860/0076-01",
+        "/pa/580/0259-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 259",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100756
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 420,
+    "ocr_confidence": 0.651,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03996661581428106
+    },
+    "sha256": "f88140eacd9fdb7c0dea1b3ec48bd7298ea731c4d38b894d71edfa8b2c48ec6b",
+    "simhash": "1:54b12a46b1432182",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T18:09:30.519212+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sherry GILLESPIE, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of November, 2004, we GRANT the Petition for Allowance of Appeal and REVERSE the Order of the Commonwealth Court. See Siekierda v. PennDOT, 580 Pa. 259, 860 A.2d 76 (2004), 172 MAP 2002.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "862 A.2d 588\nSherry GILLESPIE, Respondent, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 22, 2004."
+  },
+  "file_name": "0560-01",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

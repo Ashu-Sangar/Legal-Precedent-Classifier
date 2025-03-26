@@ -1,0 +1,114 @@
+{
+  "id": 4202086,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. John S. LANG, Petitioner",
+  "name_abbreviation": "Commonwealth v. Lang",
+  "decision_date": "2011-05-18",
+  "docket_number": "No. 630 WAL 2010",
+  "first_page": "364",
+  "last_page": "365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "610 Pa. 364"
+    },
+    {
+      "type": "parallel",
+      "cite": "19 A.3d 531"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "700 A.2d 423",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        17288,
+        17205,
+        11899358,
+        11899398
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining the prisoner mailbox rule"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0058-02",
+        "/pa/549/0058-01",
+        "/a2d/700/0423-01",
+        "/a2d/700/0423-02"
+      ]
+    },
+    {
+      "cite": "549 Pa. 58",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        17288,
+        17205
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining the prisoner mailbox rule"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0058-02",
+        "/pa/549/0058-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 1052,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.1389839502178407
+    },
+    "sha256": "63912c04f6bd3d60efde52340930606ecec6e7b0eb267b50b35e751ae83ee8b7",
+    "simhash": "1:d51b25dca54f4cb6",
+    "word_count": 174
+  },
+  "last_updated": "2024-02-27T22:22:12.124190+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice ORIE MELVIN did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. John S. LANG, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of May, 2011, the Petition for Allowance of Appeal is hereby GRANTED. Petitioner, a pro se prisoner, has presented sufficient proof to establish that he presented three copies of his Concise Statement of Matters Complained of on Appeal to prison officials on June 12, 2009, one each to be mailed to the trial judge, the District Attorney, and the Clerk of Courts, and thus, has presented sufficient proof that he was in compliance with Pa.R.A.P. 1925(b). See also Commonwealth v. Jones, 549 Pa. 58, 700 A.2d 423 (1997) (explaining the prisoner mailbox rule). Also, the trial court acknowledged having received the Rule 1925(b) statement. Accordingly, the order of the Superior Court is vacated and the matter is remanded to the Superior Court for disposition of the direct appeal on its merits.\nJustice ORIE MELVIN did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "19 A.3d 531\nCOMMONWEALTH of Pennsylvania, Respondent v. John S. LANG, Petitioner.\nSupreme Court of Pennsylvania.\nMay 18, 2011."
+  },
+  "file_name": "0364-01",
+  "first_page_order": 424,
+  "last_page_order": 425
+}

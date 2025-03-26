@@ -1,0 +1,90 @@
+{
+  "id": 3014287,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Eric Allen ROBERTS a/k/a Ellis Roberts, Petitioner",
+  "name_abbreviation": "Commonwealth v. Roberts",
+  "decision_date": "2007-05-01",
+  "docket_number": "No. 661 WAL 2006",
+  "first_page": "582",
+  "last_page": "583",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "591 Pa. 582"
+    },
+    {
+      "type": "parallel",
+      "cite": "920 A.2d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839641
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "no constitutional right to hybrid representation on appeal"
+        },
+        {
+          "parenthetical": "no constitutional right to hybrid representation on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0176-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 769,
+    "ocr_confidence": 0.669,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.08700063208318323
+    },
+    "sha256": "1b95a8a1325f215f4b670ef25f16f07d7999f80384e7ac6dba68cde806f2916a",
+    "simhash": "1:d7a176be800be57a",
+    "word_count": 126
+  },
+  "last_updated": "2024-02-27T23:32:40.197356+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Eric Allen ROBERTS a/k/a Ellis Roberts, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 1st day of May, 2007, the Petition for Allowance of Appeal is GRANTED. The order of the Superi- or Court is VACATED, and this case is REMANDED to the Superior Court for disposition of the merits. \u201cThe requirement that the clerk time stamp and make docket entries of the filings in these cases only serves to provide a record of the filing, and does not trigger any deadline nor require any response.\u201d Pa.R.Crim.P. 576(A)(4), comment. See Commonwealth v. Ellis, 534 Pa. 176, 626 A.2d 1137 (1993) (no constitutional right to hybrid representation on appeal). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "920 A.2d 186\nCOMMONWEALTH of Pennsylvania, Respondent v. Eric Allen ROBERTS a/k/a Ellis Roberts, Petitioner.\nSupreme Court of Pennsylvania.\nMay 1, 2007."
+  },
+  "file_name": "0582-01",
+  "first_page_order": 834,
+  "last_page_order": 835
+}

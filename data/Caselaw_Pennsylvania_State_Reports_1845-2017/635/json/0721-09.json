@@ -1,0 +1,70 @@
+{
+  "id": 12281419,
+  "name": "Com. v. Ford",
+  "name_abbreviation": "Com. v. Ford",
+  "decision_date": "2016-02-08",
+  "docket_number": "455 WAL (2015)",
+  "first_page": "721",
+  "last_page": "721",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 721"
+    },
+    {
+      "type": "parallel",
+      "cite": "131 A.3d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 92",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 137,
+    "ocr_confidence": 0.809,
+    "sha256": "232d3002740eacee9da066a1b514102c3e5800df46152a9789bc135e70ef4b58",
+    "simhash": "1:6d46a3c4bf08f3c0",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Ford"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 92",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Ford\n02/08/2016\n455 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0721-09",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

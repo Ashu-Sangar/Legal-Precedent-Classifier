@@ -1,0 +1,70 @@
+{
+  "id": 12280491,
+  "name": "Com. v. Cuenas",
+  "name_abbreviation": "Com. v. Cuenas",
+  "decision_date": "2015-12-17",
+  "docket_number": "258 EAL (2015)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 725"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1131",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.818,
+    "sha256": "097be28d73424ca89cf5e01e1347a8004443ad4da7cc617b531ff0ca4770c009",
+    "simhash": "1:30414af073424370",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Cuenas"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1131",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Cuenas\n12/17/2015\n258 EAL (2015)"
+  },
+  "file_name": "0725-07",
+  "first_page_order": 769,
+  "last_page_order": 769
+}

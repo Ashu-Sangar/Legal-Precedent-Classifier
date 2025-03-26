@@ -1,0 +1,70 @@
+{
+  "id": 12281511,
+  "name": "Com. v. Simeone",
+  "name_abbreviation": "Com. v. Simeone",
+  "decision_date": "2016-06-08",
+  "docket_number": "80 MAL (2016)",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 649"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "135 A.3d 668",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.851,
+    "sha256": "354d8a66a5fec637a2d090b8c994e9bb7fe984bad1413a3f0ff41200e1404c04",
+    "simhash": "1:1054001684f8e00b",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Simeone"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 135 A.3d 668",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Simeone\n06/08/2016\n80 MAL (2016)"
+  },
+  "file_name": "0649-04",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

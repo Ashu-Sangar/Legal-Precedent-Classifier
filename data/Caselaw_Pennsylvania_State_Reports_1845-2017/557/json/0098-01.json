@@ -1,0 +1,96 @@
+{
+  "id": 56850,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. David MEADE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Meade",
+  "decision_date": "1999-06-22",
+  "docket_number": "Petition No. 059 M.D. Allocatur Docket 1999",
+  "first_page": "98",
+  "last_page": "98",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "557 Pa. 98"
+    },
+    {
+      "type": "parallel",
+      "cite": "731 A.2d 1276"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "725 A.2d 170",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1701968,
+        11635531
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0467-01",
+        "/a2d/725/0170-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 467",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701968
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0467-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 532,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0018277127353756918
+    },
+    "sha256": "ad2afc0019c9fe273b45631b14d389de96023fa7caea33cd7c592f78235288b0",
+    "simhash": "1:5da506bfa39b2c38",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T19:56:47.386838+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. David MEADE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 22nd day of June 1999, the petition for allowance of appeal is GRANTED, the order of the Superior Court is VACATED and the case is REMANDED to the Court of Common Pleas of Delaware County to conduct an evidentiary hearing to determine whether petitioner is entitled to relief for untimely sentencing pursuant to Commonwealth v. Anders, 555 Pa. 467, 725 A.2d 170 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "731 A.2d 1276\nCOMMONWEALTH of Pennsylvania, Respondent, v. David MEADE, Petitioner.\nSupreme Court of Pennsylvania.\nJune 22, 1999."
+  },
+  "file_name": "0098-01",
+  "first_page_order": 230,
+  "last_page_order": 230
+}

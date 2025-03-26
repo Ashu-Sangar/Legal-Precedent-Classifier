@@ -1,0 +1,769 @@
+{
+  "id": 716496,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Willie CLAYTON, Appellant",
+  "name_abbreviation": "Commonwealth v. Clayton",
+  "decision_date": "2002-12-31",
+  "docket_number": "No. 175 CAP",
+  "first_page": "395",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "572 Pa. 395"
+    },
+    {
+      "type": "parallel",
+      "cite": "816 A.2d 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1806092
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "515 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806001,
+        1806092
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-01",
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "720 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805857,
+        765946,
+        765988,
+        11805966
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0693-01",
+        "/pa/554/0030-01",
+        "/pa/554/0031-01",
+        "/a2d/720/0693-02"
+      ]
+    },
+    {
+      "cite": "554 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765988
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0031-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56907,
+        11553069
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1175",
+          "parenthetical": "recognizing \"unavailability of relief based upon undeveloped claims for which insufficient arguments are presented on appeal\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01",
+        "/a2d/732/1167-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56907
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing \"unavailability of relief based upon undeveloped claims for which insufficient arguments are presented on appeal\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1702005,
+        11635951
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0299-01",
+        "/a2d/724/0326-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1702005
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0299-01"
+      ]
+    },
+    {
+      "cite": "787 A.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "787 A.2d 327",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "782 A.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706331,
+        9471643
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "535",
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0553-01",
+        "/a2d/782/0517-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706331
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0553-01"
+      ]
+    },
+    {
+      "cite": "145 L.Ed.2d 841",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 S.Ct. 970",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "528 U.S. 1131",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9679618,
+        9679778,
+        9679716,
+        9679939,
+        9679692,
+        9679598,
+        9679663,
+        9679826,
+        9679866,
+        9679643,
+        9679901,
+        9679742
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/528/1131-02",
+        "/us/528/1131-08",
+        "/us/528/1131-06",
+        "/us/528/1131-12",
+        "/us/528/1131-05",
+        "/us/528/1131-01",
+        "/us/528/1131-04",
+        "/us/528/1131-09",
+        "/us/528/1131-10",
+        "/us/528/1131-03",
+        "/us/528/1131-11",
+        "/us/528/1131-07"
+      ]
+    },
+    {
+      "cite": "639 A.2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7858443,
+        1843135
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "12",
+          "parenthetical": "ineffectiveness of prior counsel must be raised at earliest stage in proceedings at which counsel whose stewardship is being challenged no longer represents defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/639/0009-01",
+        "/pa/536/0244-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843135
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "ineffectiveness of prior counsel must be raised at earliest stage in proceedings at which counsel whose stewardship is being challenged no longer represents defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0244-01"
+      ]
+    },
+    {
+      "cite": "133 L.Ed.2d 130",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 S.Ct. 194",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "516 U.S. 872",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        326371,
+        328004,
+        324227,
+        324793,
+        325512,
+        326602,
+        325581,
+        328625,
+        323635,
+        328276,
+        326614,
+        328346,
+        327961,
+        328442,
+        327133
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0872-15",
+        "/us/516/0872-05",
+        "/us/516/0872-06",
+        "/us/516/0872-07",
+        "/us/516/0872-12",
+        "/us/516/0872-08",
+        "/us/516/0872-13",
+        "/us/516/0872-03",
+        "/us/516/0872-14",
+        "/us/516/0872-01",
+        "/us/516/0872-04",
+        "/us/516/0872-09",
+        "/us/516/0872-02",
+        "/us/516/0872-10",
+        "/us/516/0872-11"
+      ]
+    },
+    {
+      "cite": "656 A.2d 877",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7880936,
+        472219
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/656/0877-01",
+        "/pa/540/0192-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472219
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0192-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 916",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1701912,
+        11639881
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0397-01",
+        "/a2d/724/0916-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 397",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701912
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0397-01"
+      ]
+    },
+    {
+      "cite": "709 A.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        507852,
+        11830684
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "384",
+          "parenthetical": "explaining general rule that counsel cannot raise own ineffectiveness, but where it is clear from record that counsel was ineffective or issue is meritless, appellate court can address it without appointing new counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0088-01",
+        "/a2d/709/0382-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507852
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining general rule that counsel cannot raise own ineffectiveness, but where it is clear from record that counsel was ineffective or issue is meritless, appellate court can address it without appointing new counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0088-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed.2d 261",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 1098",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "485 U.S. 929",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13843
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0929-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 263",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808608
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0263-01"
+      ]
+    },
+    {
+      "cite": "506 Pa. 24",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790952
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/506/0024-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        163716,
+        9427271
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "941-948"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/568/0264-01",
+        "/a2d/795/0935-01"
+      ]
+    },
+    {
+      "cite": "568 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        163716
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/568/0264-01"
+      ]
+    },
+    {
+      "cite": "809 A.2d 325",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11424113,
+        270339
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/809/0325-01",
+        "/pa/570/0378-01"
+      ]
+    },
+    {
+      "cite": "748 A.2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        93347,
+        11453926
+      ],
+      "year": 2000,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/561/0100-01",
+        "/a2d/748/0202-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 100",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93347
+      ],
+      "year": 2000,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/561/0100-01"
+      ]
+    },
+    {
+      "cite": "810 A.2d 1257",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        270313,
+        9320491
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1275-77"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/570/0622-01",
+        "/a2d/810/1257-01"
+      ]
+    },
+    {
+      "cite": "570 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        270313
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "653-659"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/570/0622-01"
+      ]
+    },
+    {
+      "cite": "529 U.S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508607
+      ],
+      "weight": 3,
+      "year": 2000,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/529/0362-01"
+      ]
+    },
+    {
+      "cite": "782 A.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706331,
+        9471643
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "525-26"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/566/0553-01",
+        "/a2d/782/0517-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706331
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "566-67"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/566/0553-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1010,
+    "char_count": 22025,
+    "ocr_confidence": 0.653,
+    "pagerank": {
+      "raw": 2.1783699780043077e-07,
+      "percentile": 0.7720177894541342
+    },
+    "sha256": "1a65acdf967400906b582f89814f8ab278acdb54245c535c23f429de73635f19",
+    "simhash": "1:a31cb9f4966b2b29",
+    "word_count": 3381
+  },
+  "last_updated": "2024-02-27T19:09:37.476453+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before ZAPPALA, C.J., and CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR and EAKIN, JJ.",
+      "Justice NIGRO files a concurring opinion.",
+      "Justice NEWMAN files a concurring opinion.",
+      "Justice SAYLOR files a concurring opinion.",
+      "Chief Justice ZAPPALA and Justice CAPPY concur in the result."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Willie CLAYTON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION ANNOUNCING THE JUDGMENT OF THE COURT\nJustice EAKIN.\nWillie Clayton appeals from the order denying his petition for relief pursuant to the Post Conviction Relief Act (PCRA), 42 Pa.C.S. \u00a7\u00a7 9541-9546. We affirm.\nOn March 30, 1982, following a jury trial, appellant was found guilty of first degree murder, robbery and possessing an instrument of crime (PIC) for fatally shooting Earl Grice in the head and taking money and drugs from his pockets. Appellant was sentenced to death for first degree murder, 10-20 years imprisonment for robbery, and 2%-h years imprisonment for PIC. On direct appeal, this Court vacated the judgment of sentence and remanded for a new trial because certain evidence had been improperly admitted. Commonwealth v. Clayton, 506 Pa. 24, 483 A.2d 1345 (1984).\nUpon retrial, appellant\u2019s case was consolidated with other charges against him for an unrelated murder and robbery, and the jury found him guilty of first degree murder in both cases, as well as two counts each of robbery and PIC. He was sentenced to death for each murder conviction, and to 10-20 years imprisonment for each robbery. The sentence for PIC was suspended. On direct appeal, this Court affirmed the judgment of sentence. Commonwealth v. Clayton, 516 Pa. 263, 532 A.2d 385 (1987), cert. denied, 485 U.S. 929, 108 S.Ct. 1098, 99 L.Ed.2d 261 (1988). Appellant was represented by the same attorney in both trials and direct appeals.\nAppellant filed two identical pro se PCRA petitions on May 13, 1988, and June 7, 1988. Counsel was appointed and filed an amended petition raising 19 issues. PCRA counsel was subsequently permitted to withdraw, and new PCRA counsel was appointed and filed a supplement to the amended petition. This supplement withdrew nine issues as meritless, retained ten issues and raised four additional issues. After an evidentiary hearing at which one issue was argued, the PCRA court dismissed appellant\u2019s petition. PCRA counsel filed a notice of appeal along with a motion to withdraw as counsel because of the issue of his ineffectiveness as PCRA counsel. This motion was granted and present counsel was appointed. See Commonwealth v. Green, 551 Pa. 88, 709 A.2d 382, 384 (1998) (explaining general rule that counsel cannot raise own ineffectiveness, but where it is clear from record that counsel was ineffective or issue is meritless, appellate court can address it without appointing new counsel).\nThe basis of appellant\u2019s entire appeal is grounded in the assertion PCRA counsel was ineffective. Appellant contends his second PCRA counsel was ineffective for filing \u201ca scant supplement to an initial amended PCRA petition that raised very few issues, and none of them non-record based claims.... \u201d Appellant\u2019s Brief, at 7. He further claims both prior PCRA counsel \u201cwere ineffective for failing to discover, investigate, and litigate both non-record mental health and record based claims for relief ... of arguable merit.\u201d Id., at 10. Specifically, appellant asserts PCRA counsel was ineffective for failing to investigate and present the following issues:\n(1) Whether trial counsel was laboring under an impermissible conflict of interest during his representation of appellant.\n(2) Whether the Commonwealth used peremptory challenges to exclude jurors on the basis of race.\n(3) Whether appellant\u2019s death sentence was the impermissible product of racial discrimination.\n(4) Whether the jury instructions by the trial court during the penalty phase were unconstitutional because a) the jury was told to count rather than weigh aggravating and mitigating circumstances; b) \u201cpreponderance\u201d was erroneously defined in the context of assessing the presence of mitigating factors; and c) the jury was not instructed that aggravating factors must be unanimously found by each and every juror.\n(5) Whether trial counsel failed to investigate and present readily available mitigating evidence of appellant\u2019s history of organic impairment, child abuse, domestic violence, dysfunctional family history and emotional trauma during the penalty phase of appellant\u2019s trial.\n(6) Whether newly discovered evidence demonstrates the trial court materially misled the jury by failing to instruct that appellant would be statutorily ineligible for parole if sentenced to life.\n(7) Whether the trial court improperly allowed the Commonwealth to exclude jurors for cause who voiced concern about the death penalty but also unequivocally indicated they would follow the law.\n(8) Whether the \u201cproportionality review\u201d by this Court provided meaningful appellate review.\n(9) Whether the jury instructions improperly shifted the burden onto appellant and relieved the Commonwealth of proving every element of the offense beyond a reasonable doubt.\n(10) Whether trial counsel was ineffective for failing to object to the trial court\u2019s guilt-phase jury instruction, which informed the jury of the maximum sentence appellant could receive for each degree of criminal homicide.\n(11) Whether trial counsel was ineffective for failing to investigate and argue that another person was responsible for the murder.\nAll of the above issues, except issues 6 and 8, pertain to alleged errors at trial; however, because they were not preserved by objection at that stage, in post sentence motions, or on direct appeal, they are waived. 42 Pa.C.S. \u00a7\u00a7 9543(a)(3), 9544(b). Issue 6 attempts to avoid the PCRA\u2019s time-bar. Issue 8, which pertains to alleged error on direct appeal, was not preserved by being pled in appellant\u2019s PCRA petition. Therefore, these claims themselves are lost as grounds for relief; to obtain relief, appellant must \u201clayer\u201d them beneath claims of all prior counsel\u2019s ineffectiveness since neither trial, appellate, nor PCRA counsel raised them. See Commonwealth v. Wallace, 555 Pa. 397, 724 A.2d 916, 921 (1999); Commonwealth v. Christy, 540 Pa. 192, 656 A.2d 877, 888 (1995), cert. denied, 516 U.S. 872, 116 S.Ct. 194, 133 L.Ed.2d 130 (1995); Commonwealth v. Chmiel, 536 Pa. 244, 639 A.2d 9, 12 (1994) (ineffectiveness of prior counsel must be raised at earliest stage in proceedings at which counsel whose stewardship is being challenged no longer represents defendant), cert. denied, 528 U.S. 1131, 120 S.Ct. 970, 145 L.Ed.2d 841 (2000).\nIt is the ineffectiveness claim, not the underlying error at trial, which is reviewed as a potential basis for relief. See Commonwealth v. Williams, 566 Pa. 553, 782 A.2d 517, 535 (2001) (Castille, J., concurring) (underlying claim is relevant only as it bears upon Sixth Amendment ineffectiveness analysis). Thus, appellant\u2019s claims of PCRA counsel\u2019s ineffectiveness are distinct, substantive claims, separate from the underlying claims of trial court error and trial counsel\u2019s ineffectiveness. See Commonwealth v. Lambert, 787 A.2d 327, 336 (Pa.2001) (Opinion Announcing the Judgment of the Court) (\u201cclaims of counsel ineffectiveness are ... analytically and constitutionally distinct from the underlying claims to which they relate.\u201d); Commonwealth v. Bracey, 787 A.2d 344, 360 (Pa.2001) (Castille, J., concurring) (same).\nAppellant must satisfy all three prongs of the ineffectiveness test with respect to PCRA counsel. Appellant must demonstrate: (1) the underlying claim is of arguable merit; (2) the particular course of conduct pursued by PCRA counsel did not have some reasonable basis designed to effectuate appellant\u2019s interests; and (3) but for PCRA counsel\u2019s ineffectiveness, there is a reasonable probability that the outcome of the proceedings would have been different. See Commonwealth v. Kimball, 555 Pa. 299, 724 A.2d 326, 333 (1999). Failure to address any prong will defeat an ineffectiveness claim. Lambert, at 337 (\u201cappellant\u2019s failure to forward relevant argumentation as to each necessary \u2018individual facet\u2019 of the Strickland standard dooms his boilerplate claims to failure.\u201d); see also Williams, at 525 (cautioning that \u201cPCRA counsel generally must, in pleadings and briefs, undertake to develop, to the extent possible, the nature of the claim asserted with respect to each individual facet of a layered ineffectiveness claim ....\u201d) (emphasis supplied).\nAlthough appellant argues the merits of the underlying claims in great detail, he has failed to develop the remaining two prongs concerning ineffectiveness. At the beginning of the argument section of his brief, appellant states in general terms that his claims of all prior counsel\u2019s ineffectiveness have arguable merit, that PCRA counsel\u2019s failure to investigate these issues \u25a0 constituted deficient performance, and the dismissal of his PCRA petition, resulting in an invalid conviction and death sentence, prejudiced him. However, appellant never develops his argument concerning PCRA counsel\u2019s performance; he focuses only on the alleged trial errors and trial counsel\u2019s stewardship, and at the end of his discussion of each issue, he \u201clayers\u201d it by tacking on the statement, \u201c[a]ll prior counsel were ineffective for failing to litigate this claim.\u201d Appellant does not address how PCRA counsel\u2019s failure to raise these claims lacked a reasonable basis designed to effectuate appellant\u2019s interests, or how the outcome of his PCRA proceeding would have differed had these claims been advanced; indeed, he offers no argument at all concerning PCRA counsel\u2019s actions. See Lambert, at 337 n. 9, 339 (counsel cannot be deemed ineffective per se for failing to pursue claim of arguable merit; \u201creasonable basis\u201d and prejudice prongs must also be established).\nFurthermore, it is a well settled principle of appellate jurisprudence that undeveloped claims are waived and unreviewable on appeal. Williams, at 532 (citing Commonwealth v. Williams, 557 Pa. 207, 732 A.2d 1167, 1175 (1999) (recognizing \u201cunavailability of relief based upon undeveloped claims for which insufficient arguments are presented on appeal\u201d)); Pa. R.A.P. 2119(a). In Commonwealth v. Albrecht, 554 Pa. 31, 720 A.2d 693 (1998), this Court held the relaxed waiver rule, applicable in capital appeals, is no longer applicable in PCRA appeals. See also Lambert, at 336 (question of waiver under \u00a7 9543 is distinct from question of whether appellant has sufficiently developed ineffectiveness claims in appellate brief so as to enable this Court to conduct effective appellate review); Williams, at 528-29 (Zappala, J., concurring) (\u00a7 9543\u2019s requisites pertain solely to eligibility for relief, and not to any prerequisites petitioner must satisfy to have court consider claim; \u201c[tjhis is not to say that our Court is precluded from dismissing a claim on appeal from denial of PCRA relief on the grounds that the petitioner failed to adequately develop an argument in support thereof....\u201d). Therefore, appellant\u2019s failure to develop any argument at all concerning the second and third prongs of the ineffectiveness test with respect to PCRA counsel results in waiver of these claims.\nFinally, we turn to appellant\u2019s sixth issue, in which appellant claims the trial court erred in failing to instruct the jury that a life sentence means \u201clife without parole,\u201d and that all prior counsel were ineffective for failing to raise this claim. Appellant\u2019s ineffectiveness claim fails for the same reasons all his other issues do; however, he also argues he is entitled to relief pursuant to 42 Pa.C.S. \u00a7 9543(a)(2)(vi), based on after-discovered evidence in the form of statistics demonstrating the infrequency with which clemency is granted, and surveys demonstrating the public\u2019s mistaken belief that individuals sentenced to life imprisonment are usually released. Contrary to appellant\u2019s contention, this \u201cnew evidence\u201d is not exculpatory, as required by \u00a7 9543(a)(2)(vi). This issue is meritless.\nThe PCRA court\u2019s order denying appellant\u2019s petition is affirmed.\nJustice NIGRO files a concurring opinion.\nJustice NEWMAN files a concurring opinion.\nJustice SAYLOR files a concurring opinion.\nChief Justice ZAPPALA and Justice CAPPY concur in the result.\n. Contrary to appellant's assertion, the first issue was raised in both the amended and supplemental PCRA petitions; the second issue was raised in the amended petition, but was withdrawn from the supplemental one.\n. In Commonwealth v. Pierce, 515 Pa. 153, 527 A.2d 973 (1987), we recognized the \"performance and prejudice\u201d ineffectiveness test in Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984) was the proper test under the Pennsylvania Constitution. \"This Court has come to characterize the test as a tripartite one, by dividing the performance element into two distinct parts, i.e., arguable merit and lack of reasonable basis.\u201d Lambert, at 337 n. 8. Although the ineffectiveness standard is the same under the PCRA as it is on direct appeal, Kimball, at 331-32, the right to elfeclive counsel in an initial PCRA proceeding arises from the Pennsylvania Rules of Criminal Procedure. See Pa.R.Crim.P. 904 (formerly Rule 1504); Lambert, at 338.\n. In Williams, the majority concluded a remand was necessary because the PCRA court had failed to provide sufficiently specific reasons for summary dismissal in its notice pursuant to Pa.R.Crim.P. 1507 (now Rule 907), as well as failed to provide its own reasons for dismissal in its Rule 1925(a) opinion; it adopted the Commonwealth's motion to dismiss. Williams, at 527. Since amendment of PCRA petitions is to be \u201cfreely allowed to achieve substantial justice,\u201d Pa.R.Crim.P. 905(A), the notice of summary dismissal must alert counsel to deficiencies in pleading so that the potential for amendment may be reasonably evaluated. Williams, at 526. Here, unlike Williams, we are not concerned with \"gaps\u201d in issues already pled in a petition which was dismissed without a hearing; we are dealing with issues never raised in the petition, on which there was a hearing. Accordingly, remand would be inappropriate. We will not revisit the issues appellant wants raised in hindsight, having already had one unsuccessful bite at the post conviction apple.\n. Wc are aware this decision raises tlie issue o\u00ed appellate PCRA counsel\u2019s ineffectiveness for failing to properly develop the issue of all prior counsel's ineffectiveness in his appellate brief; however, appellant would appear to be time-barred from filing a second PCRA petition raising appellate PCRA counsel\u2019s ineffectiveness, since his judgment of sentence was final nearly ten years ago. 42 Pa.C.S. \u00a7 9545(b)(1). At some point, even capital cases must become final.\n. The Prothonotary of the Supreme Court is directed to transmit the complete record in this case to the Governor in accordance with 42 Pa.C.S. \u00a7 9711(i).",
+        "type": "majority",
+        "author": "Justice EAKIN."
+      },
+      {
+        "text": "Justice NIGRO,\nconcurring.\nI concur in the result only. I write separately to note my disagreement with the majority\u2019s conclusion that all of Appellant\u2019s claims are waived. See Commonwealth v. Jones, 227 CAP (Nigro, J., concurring); Commonwealth v. Bracey, 568 Pa. 264, 795 A.2d 935, 941-948 (2001). However, because I find that those issues that I would not deem waived are without merit, I am able to concur in the result reached by the majority.",
+        "type": "concurrence",
+        "author": "Justice NIGRO,"
+      },
+      {
+        "text": "Justice NEWMAN,\nconcurring.\nI refer to my concurring opinion in Commonwealth v. Ford, 809 A.2d 325 (Pa.2002) (Newman, J., concurring).",
+        "type": "concurrence",
+        "author": "Justice NEWMAN,"
+      },
+      {
+        "text": "Justice SAYLOR,\nconcurring.\nAs the majority emphasizes, Appellant\u2019s appeal is premised upon the alleged failure of PCRA counsel to identify and assert meritorious post-conviction claims. Appellant acknowledges such basis by arguing in the opening section of his brief to this Court that he has a right to effective post-conviction counsel and that the applicable standard for demonstrating ineffectiveness on the part of PCRA counsel is the same as the burden for establishing relief under the PCRA, namely, that the unasserted claims are of arguable merit; that PCRA counsel\u2019s failure to determine the existence of these claims constituted deficient performance; and that Appellant suffered prejudice. Appellant then proceeds to argue the strength or merit of the underlying issues and, in this regard, he frames and develops the claim concerning the failure to investigate and present available mitigation evidence by asserting that:\nTrial counsel violated Appellant\u2019s right to the effective assistance of counsel at his capital sentencing hearing as guaranteed by the Sixth, Eighth, and Fourteenth Amendments to the United States Constitution and Article I, Sections 9 and 13 of the Pennsylvania Constitution by failing to investigate and present during (sic) penalty phase as mitigating evidence the readily available evidence of Appellant\u2019s history of organic impairment, child abuse, domestic violence, family dysfunction, history of depression, and emotional trauma that impacted his behavior the night of the offenses. Likewise, Appellant\u2019s PCRA counsel was also ineffective for failing to investigate and present these issues.\nAppellant\u2019s Brief at p. 40. Following such assertion, Appellant recites precedent from the United States Supreme Court concerning the importance of mitigating evidence, reiterates the three-part test for establishing a claim of ineffectiveness, and compares counsel\u2019s penalty phase investigation and presentation in the present matter with that deemed deficient by the United States Supreme Court in Williams v. Taylor, 529 U.S. 362, 120 S.Ct. 1495, 146 L.Ed.2d 389 (2000).\nAppellant then quotes from affidavits provided by family members, specifically, his mother and brother, detailing childhood abuse and emotional trauma, and also from the findings and conclusions of a psychologist, who opines that Appellant suffers from organic impairment affecting his neurological functioning, in arguing that such evidence was readily available, is routinely relied upon by mental health experts in assessing the presence of mitigating factors, and meets the standards for mitigation. Respecting the reasonableness of counsel\u2019s decision making and the resulting prejudice, Appellant maintains that:\n[I]n this case it was not that such mitigating information could not be found, or that counsel made a reasoned decision to .withhold the information for tactical or strategic reasons. The information was not presented because counsel never took the time to develop it.\n[I]n cases where sentencing counsel did not conduct enough investigation to formulate an accurate life profile of a defendant, counsel\u2019s representation has consistently been held beneath professionally competent standards.\nIn this case, trial counsel and PCRA counsel failed to conduct any investigation into Mr. Clayton\u2019s background, family history or psychiatric health. Accordingly, the jury was left with nothing to weigh against the aggravating factors submitted by the Commonwealth. The resulting sentence of death is thus unreliable and must be reversed. All prior counsel are ineffective for failing to raise this claim.\nAppellant\u2019s Brief at pp. 57-58 (quotations omitted). In this case, therefore, I would not conclude that Appellant\u2019s claims are waived because his brief inadequately develops the basis for PCRA counsel\u2019s actions and the existence of prejudice. Moreover, particularly where, as here, there has not been a hearing in which the issue of PCRA counsel\u2019s ineffectiveness was presented and, correspondingly, an opportunity to explore counsel\u2019s reasons for his actions, the principal method of demonstrating that counsel\u2019s stewardship was deficient \u201clies in establishing the strength and obviousness of the underlying claim.\u201d Commonwealth v. Williams, 566 Pa. 553, 567 n. 5, 782 A.2d 517, 526 n. 5 (2001).\nNevertheless, I do not believe that Appellant is entitled to relief or an evidentiary hearing, as record evidence belies his assertions. For example, concerning the mitigation claim, trial counsel retained a psychiatrist, Robert Sadoff, M.D., who evaluated Appellant and prepared a report, which was read into the record during the penalty proceeding and, although Dr. Sadoff concluded that Appellant did not suffer from any mental illness, his report included certain aspects of the family history presently emphasized. Notably, trial counsel chose to have the report introduced by stipulation so as to avoid having Dr. Sadoff cross-examined on the underlying premise for his opinion. Furthermore, trial counsel had a valid reason for not contacting Appellant\u2019s mother, as Appellant refused to provide counsel with her telephone number or allow him to contact her. Accord Commonwealth v. Marinelli, 570 Pa. 622, 653-659, 810 A.2d 1257, 1275-77 (2002). Finally, Appellant\u2019s brother testified in the penalty phase of the first trial and, as noted by the Commonwealth, a reasonable strategic basis existed for not presenting testimony from him at the second trial, since in the first trial he acknowledged that he had been robbed by Appellant, advised police where to find Appellant and warned them that Appellant had no respect for authority and might resist arrest, and refused to sign a statement to police and asked for their help because he feared Appellant.\n. Parenthetically, I would note that, in the past, the Court has afforded a degree of latitude concerning the degree to which the stewardship of counsel on direct appeal was developed as part of a layered claim of ineffectiveness. See Commonwealth v. Marrero, 561 Pa. 100, 103-04 n. 1, 748 A.2d 202, 203-04 n. 1 (2000). More recently, the Court has cautioned that, to ensure merits review, PCRA counsel must develop in pleadings and briefs each facet of a layered ineffectiveness claim. See Commonwealth v. Williams, 566 Pa. 553, 566-67, 782 A.2d 517, 525-26 (2001). Here, however, Appellant's brief was filed prior to the decision in Williams.",
+        "type": "concurrence",
+        "author": "Justice SAYLOR,"
+      }
+    ],
+    "attorneys": [
+      "James Moreno, Robert J. Dixon, Philadelphia, for appellant, Willie Clayton.",
+      "Catherine Marshall, Philadelphia, for appellant, Com. of PA."
+    ],
+    "corrections": "",
+    "head_matter": "816 A.2d 217\nCOMMONWEALTH of Pennsylvania, Appellee v. Willie CLAYTON, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted Nov. 14, 2000.\nDecided Dec. 31, 2002.\nReargument Denied Feb. 27, 2003.\nJames Moreno, Robert J. Dixon, Philadelphia, for appellant, Willie Clayton.\nCatherine Marshall, Philadelphia, for appellant, Com. of PA.\nBefore ZAPPALA, C.J., and CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR and EAKIN, JJ."
+  },
+  "file_name": "0395-01",
+  "first_page_order": 589,
+  "last_page_order": 601
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12283128,
+  "name": "Com. v. Dixon",
+  "name_abbreviation": "Com. v. Dixon",
+  "decision_date": "2016-03-15",
+  "docket_number": "382 WAL (2015)",
+  "first_page": "740",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 740"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 101",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "ocr_confidence": 0.716,
+    "sha256": "e61c22309eff9f42a8365afb85d9cab05a5bd8644b2a2eb6efec5844cd73838a",
+    "simhash": "1:2d56ead4ba4af1dc",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dixon"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 101",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dixon\n03/15/2016\n382 WAL (2015)\n. Justice EAKIN did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0740-03",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

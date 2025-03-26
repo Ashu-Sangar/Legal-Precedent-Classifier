@@ -1,0 +1,89 @@
+{
+  "id": 1929233,
+  "name": "Commonwealth v. D'Angelo, Petitioner",
+  "name_abbreviation": "Commonwealth v. D'Angelo",
+  "decision_date": "1970-04-10",
+  "docket_number": "No. 3187A, Miscellaneous Docket",
+  "first_page": "539",
+  "last_page": "540",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "438 Pa. 539"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "262 A. 2d 146",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "437 Pa. 193",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1927804
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/437/0193-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 97,
+    "char_count": 787,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.5998911519551912
+    },
+    "sha256": "a35fe53bd36729be25732bf592a1b13496a2484e849d9c7096b520be6babf8e1",
+    "simhash": "1:137a0b51aa387422",
+    "word_count": 130
+  },
+  "last_updated": "2024-02-27T23:35:41.418565+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, O. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. D\u2019Angelo, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe order of the Superior Court is reversed and the case remanded to the hearing court for the filing of a proper order in conformity with the Act of January 25, 1966, P. L. (1965) 1580, \u00a710, 19 P.S. \u00a71180-10 (Supp. 1969), which requires that \u201c[t]he order finally disposing of the petition shall state grounds on which the case was determined and whether a federal or a state right was presented and decided.\u201d See Commonwealth v. Naylor, 437 Pa. 193, 262 A. 2d 146 (1970).",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Dante R. D\u2019Angelo, appellant, in propria persona.",
+      "Coa'oI Mary Los, Assistant District Attorney, and Robert W. Duggan, District Attorney, for Commonwealth, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. D\u2019Angelo, Petitioner.\nBefore Bell, O. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\nDante R. D\u2019Angelo, appellant, in propria persona.\nCoa'oI Mary Los, Assistant District Attorney, and Robert W. Duggan, District Attorney, for Commonwealth, appellee.\nApril 10, 1970:"
+  },
+  "file_name": "0539-01",
+  "first_page_order": 655,
+  "last_page_order": 656
+}

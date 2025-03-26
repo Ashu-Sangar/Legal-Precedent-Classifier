@@ -1,0 +1,81 @@
+{
+  "id": 1220291,
+  "name": "Parsons v. Motor Freight Express, Appellant, et al.",
+  "name_abbreviation": "Parsons v. Motor Freight Express",
+  "decision_date": "1944-03-20",
+  "docket_number": "Appeal, No. 4",
+  "first_page": "530",
+  "last_page": "531",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "348 Pa. 530"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "348 Pa. 525",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1220256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/348/0525-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 479,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.045565011705315635
+    },
+    "sha256": "b8f647edd67ee2fbff875210aeba6fd91afc69cc409172e5db91e50cb6ca8217",
+    "simhash": "1:f3e99685aff10a96",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T16:11:05.958306+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Hughes, JJ."
+    ],
+    "parties": [
+      "Parsons v. Motor Freight Express, Appellant, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis case was tried with that of Schiele v. Motor Freight Express, Inc. 348 Pa. 525, in which the same exceptions were taken, and they have all been disposed of in that case.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Daniel G. Murphy, with him George Eves, for appellant.",
+      "Harry R. Matten, of Matten & Matten, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Parsons v. Motor Freight Express, Appellant, et al.\nArgued January 12,1944.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Hughes, JJ.\nDaniel G. Murphy, with him George Eves, for appellant.\nHarry R. Matten, of Matten & Matten, for appellee.\nMarch 20, 1944:"
+  },
+  "file_name": "0530-01",
+  "first_page_order": 584,
+  "last_page_order": 585
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1809918,
+  "name": "SAFEGUARD MUTUAL INSURANCE COMPANY, by the PENNSYLVANIA INSURANCE GUARANTY ASSOCIATION, Petitioner, v. Ruby JOYCE",
+  "name_abbreviation": "Safeguard Mutual Insurance v. Joyce",
+  "decision_date": "1988-02-08",
+  "docket_number": "Petition No. 428 E.D. Allocatur Dkt. 1987",
+  "first_page": "488",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "517 Pa. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "539 A.2d 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "362 Pa.Super. 522",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        671200
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/362/0522-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 764,
+    "ocr_confidence": 0.711,
+    "pagerank": {
+      "raw": 1.7940188868356228e-07,
+      "percentile": 0.7154139102318321
+    },
+    "sha256": "a0ed222c9cca96bae3c2baeaec1c3f230814b26085185cdc4024d78dfbdc3f84",
+    "simhash": "1:7e994993a0a9ad9c",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T23:49:20.178834+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SAFEGUARD MUTUAL INSURANCE COMPANY, by the PENNSYLVANIA INSURANCE GUARANTY ASSOCIATION, Petitioner, v. Ruby JOYCE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe petition for allowance of appeal is granted, the order of Superior Court, 362 Pa.Super. 522, 524 A.2d 1362, is reversed, and the matter is remanded to the Court of Common Pleas of Philadelphia County, with instructions to dismiss the case. The Insurance Commissioner\u2019s suspension order of May 29, 1979, and the Commonwealth Court\u2019s dissolution and liquidation order of April 21, 1982, precluded the institution or further prosecution of actions against Safeguard Mutual Insurance Company. Common Pleas Court was therefore without jurisdiction to entertain this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "539 A.2d 340\nSAFEGUARD MUTUAL INSURANCE COMPANY, by the PENNSYLVANIA INSURANCE GUARANTY ASSOCIATION, Petitioner, v. Ruby JOYCE.\nSupreme Court of Pennsylvania.\nFeb. 8, 1988."
+  },
+  "file_name": "0488-01",
+  "first_page_order": 556,
+  "last_page_order": 557
+}

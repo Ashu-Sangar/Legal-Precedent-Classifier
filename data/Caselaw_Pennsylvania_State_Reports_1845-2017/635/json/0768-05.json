@@ -1,0 +1,70 @@
+{
+  "id": 12286824,
+  "name": "Com. v. Aponte",
+  "name_abbreviation": "Com. v. Aponte",
+  "decision_date": "2016-05-03",
+  "docket_number": "92 MAL (2016)",
+  "first_page": "768",
+  "last_page": "768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 768"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1024",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.908,
+    "sha256": "b0cd7ef5c504d97f52dda01dc0513f554105ce4de7fb80430b068f1d83a48dde",
+    "simhash": "1:2d5c4125cffd051b",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Aponte"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 1024",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Aponte\n05/03/2016\n92 MAL (2016)"
+  },
+  "file_name": "0768-05",
+  "first_page_order": 828,
+  "last_page_order": 828
+}

@@ -1,0 +1,106 @@
+{
+  "id": 4080947,
+  "name": "Ephrem GARCIA, Petitioner v. COURT OF COMMON PLEAS, PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Garcia v. Court of Common Pleas",
+  "decision_date": "2013-10-16",
+  "docket_number": "No. 118 EM 2013",
+  "first_page": "354",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "621 Pa. 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "78 A.3d 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 497,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13002205920113488
+    },
+    "sha256": "661d7dbcd28dafc02ce2fdf2376d276646551e69a5d811c04324c6f55e5c9135",
+    "simhash": "1:ec27822063d03435",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T21:17:02.333073+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ephrem GARCIA, Petitioner v. COURT OF COMMON PLEAS, PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of October, 2013, the Application for Leave to File Original Process and the Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward these filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "78 A.3d 611\nEphrem GARCIA, Petitioner v. COURT OF COMMON PLEAS, PHILADELPHIA COUNTY, Respondent.\nNo. 118 EM 2013.\nSupreme Court of Pennsylvania.\nOct. 16, 2013."
+  },
+  "file_name": "0354-01",
+  "first_page_order": 414,
+  "last_page_order": 414
+}

@@ -1,0 +1,63 @@
+{
+  "id": 4194204,
+  "name": "In the Interest of O.J. Petition of O.J.",
+  "name_abbreviation": "In the Interest of O.J.",
+  "decision_date": "2009-04-02",
+  "docket_number": "No. 159 EM 2008",
+  "first_page": "629",
+  "last_page": "629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "600 Pa. 629"
+    },
+    {
+      "type": "parallel",
+      "cite": "969 A.2d 1177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 269,
+    "ocr_confidence": 0.717,
+    "sha256": "38ff94a213d4870ade8324b313daf02c79f90c8cd5ace9325ac98603d9581264",
+    "simhash": "1:000dd3e6aae3347a",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T21:47:03.019587+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of O.J. Petition of O.J."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of April, 2009, the \u201cPetition to File Out of Time Petition for Allowance of Appeal Nunc Pro Tunc \u201d is GRANTED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "969 A.2d 1177\nIn the Interest of O.J. Petition of O.J.\nNo. 159 EM 2008.\nSupreme Court of Pennsylvania.\nApril 2, 2009."
+  },
+  "file_name": "0629-01",
+  "first_page_order": 737,
+  "last_page_order": 737
+}

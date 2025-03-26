@@ -1,0 +1,90 @@
+{
+  "id": 12280913,
+  "name": "A.M.H. v. J.K.",
+  "name_abbreviation": "A.M.H. v. J.K.",
+  "decision_date": "2016-06-07",
+  "docket_number": "342 MAL (2016)",
+  "first_page": "644",
+  "last_page": "644",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 644"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 A.3d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "145 A.3d 785",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12487424,
+        12487425,
+        12487426,
+        12487419,
+        12487420,
+        12487421,
+        12487422,
+        12487423
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/145-2/0785-06",
+        "/a3d/145-2/0785-07",
+        "/a3d/145-2/0785-08",
+        "/a3d/145-2/0785-01",
+        "/a3d/145-2/0785-02",
+        "/a3d/145-2/0785-03",
+        "/a3d/145-2/0785-04",
+        "/a3d/145-2/0785-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 119,
+    "ocr_confidence": 0.673,
+    "sha256": "caaca9b6a9bb61973acd1b60be1490c166d238df5961e58eef502d8675e8d37b",
+    "simhash": "1:390f12f4306b4ed1",
+    "word_count": 19
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A.M.H. v. J.K."
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 145 A.3d 785",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SUPREME COURT OF PENNSYLVANIA\n141 A.3d 477-484\nA.M.H. v. J.K.\n06/07/2016\n342 MAL (2016)"
+  },
+  "file_name": "0644-01",
+  "first_page_order": 696,
+  "last_page_order": 696
+}

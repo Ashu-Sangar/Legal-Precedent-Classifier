@@ -1,0 +1,261 @@
+{
+  "id": 551680,
+  "name": "Pennsylvania Railroad Co.'s Appeal",
+  "name_abbreviation": "Pennsylvania Railroad Co.'s Appeal",
+  "decision_date": "1886-10-04",
+  "docket_number": "",
+  "first_page": "514",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "115 Pa. 514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Wright, 355",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 W. N. C., 552",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 G. & J., 479",
+      "category": "reporters:state",
+      "reporter": "G. & J.",
+      "case_ids": [
+        8736642
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/g-j/8/0479-01"
+      ]
+    },
+    {
+      "cite": "20 Ga., 537",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        246213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/20/0537-01"
+      ]
+    },
+    {
+      "cite": "5 Wall., 403",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 B. Mon., 800",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4370724
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/57/0800-01"
+      ]
+    },
+    {
+      "cite": "20 N. J. Eq., 530",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        526214
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/20/0530-01"
+      ]
+    },
+    {
+      "cite": "10 W. N. C., 453",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Grant, 412",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        225914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/1/0412-01"
+      ]
+    },
+    {
+      "cite": "12 H., 159",
+      "category": "reporters:state",
+      "reporter": "H.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 H., 378",
+      "category": "reporters:state",
+      "reporter": "H.,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Black, 485",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "case_ids": [
+        3466007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/67/0485-01"
+      ]
+    },
+    {
+      "cite": "6 Wh., 25",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836978
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/whart/6/0025-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. St., 159",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9503622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/24/0159-01"
+      ]
+    },
+    {
+      "cite": "56 Pa. St., 325",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1009177
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/56/0325-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. St., 355",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        422220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/48/0355-01"
+      ]
+    },
+    {
+      "cite": "27 Pa. St. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        979639
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/27/0339-01"
+      ]
+    },
+    {
+      "cite": "10 W. N. C., 453",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Wh., 25",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1836978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/6/0025-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1477,
+    "char_count": 43153,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 6.058310143159764e-07,
+      "percentile": 0.955047572271588
+    },
+    "sha256": "6a5e290834e94a09674c44a7a9207d5a21aca8ab3746b78fd04b966c9814f25e",
+    "simhash": "1:3eaff431ef706cd4",
+    "word_count": 7400
+  },
+  "last_updated": "2024-02-27T19:44:41.054639+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Mercur, C. J., Gordon, Paxsox, Trtjnkey, Sterrett, Green and Clark, JJ."
+    ],
+    "parties": [
+      "Pennsylvania Railroad Co.\u2019s Appeal."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Trunkey\ndelivered the opinion of the court October 4th, 1886.\nSection 77 of the Act of June 9th, 1832, authorized the Portsmouth and Lancaster Railroad Company to locate and construct a railroad of one or more tracks from Portsmouth to a point west of the city of Lancaster, and connecting with the Pennsylvania Railroad, and to construct all the appendages necessary for the convenience of said Company in the use of said railroad. And section 81 made it the \u201cdutj'. of said company to construct and keep in repair good and sufficient passages across the said railroad where any public roads shall intersect and cross the same.\u201d\nSection 78 authorized said company to enter upon anjr lands for the purpose of surveying and locating the route, and after determining the route, to enter upon, take possession of, and use the lands for the purpose of constructing said road. And sections 79 and 80 provided the mode of ascertaining the damages when the said company could not \u201cagree with the owner or owners of such required land for the purchase thereof.\u201d\nThe supplemental Act of March 11th, 1885, authorized said company to construct an extension of the railroad from Portsmouth to Harrisburg, and extended all such provisions of the Act of 1832, as were applicable to the locating,' constructing and maintaining of the construction of said extension of said railroad.\nThe Act of April 10th, 1867, empowered the Pennsylvania Railroad Company, \u201c from time to time, as they may deem necessary, to construct and use, along adjoining or contiguous to, their lines of railroad, or the lines of railroads now owned or leased, or that may be hereafter owned or leased by them, additional tracks, sidings, depots, turnouts, waterways, workshops and other appurtenances requisite and needful for the prosecution of their business, and for the accommodation and transportation of the trade and traffic over and upon the said railroads; and they are hereby also authorized and empowered to straighten and improve the said lines of railroads, and to construct the needful appurtenances thereto; and for all and any of such purposes, the company shall and may enter upon, acquire, take and appropriate such lands, tenements and property along, adjoining or contiguous to, said railroads or elsewhere, that they may deem necessary for the purpose of straightening, or improving of tire said railroads, and constructing the needful appurtenances thereto.\u201d\nThe foregoing are the statutory or charter provisions relating to the fundamental question in this issue, namely: have the appellants the right to occupy longitudinally a public road or street in a borough for the laying of their railway tracks? Reference was made to the Statute of March 17th, 1869, to enable railroads, canal and slackwater navigation companies, to straighten, widen, deepen and otherwise improve their lines and works, but that Statute confers no greater power on railroads than was conferred on the appellant by the Statute of April 10th, 1867. In passing it may be noted that the learned Master referred to the provisions relative to the occupancy of streets, in the general railroad law of 1849 and 1868, in terms which might be understood that those provisions are part of the charter of the appellants, or of their road held by lease, but at the argument no such position was taken. Indeed, the provision is alluded to in appellants\u2019 argument, but not as if to be read into their charter. A company organized under the general Statute may locate its railroad on a street or alley, because that Statute expressly confers the power.\nThat the legislature may authorize a railroad company to lay its tracks on a public street has not been doubted since the decision in the Philadelphia and Trenton Railroad Company\u2019s case, 6 Whar., 25. It ought to be equally free of doubt that when not authorized by legislative grant, a railroad company has no right to appropriate and use .a street or public highway for the laying of the tracks of its trunk line, switches, sidings or branches. And the power must be given in plain words or bjr necessary implication : Commonwealth v. Railroad Company, 27 Pa. St. 339; Penn. Railroad Co.\u2019s App., 93 Id., 150.\nThe course of legislation in Pennsylvania, relative to railroads, shows continuous care to proteot the public roads from the grasp of railroad companies except upon terms that they render an equivalent to the public. A fair example is the legislation upon this point for the Pennsylvania Railroad Company. At first, the Act of April 13th, 1846, provided that when necessary to cross or intersect any established road or way, said company should so construct their road as not to impede the passage or transportation of persons or property along said established road or way. This being the only provision in the Act of Incorporation relative to public roads, in face thereof, it would have been exceedingly difficult, in accordance with the rules of interpretation, to have construed the general terms authorizing the taking of land, to authorize the taking of an established road and laying the track thereon longitudinally. Therefore, supplemental Acts were enacted providing that when said company should find it necessary to change the site of any turnpike or public road, or any street, lane or alley, in any town, borough or city, they should reconstruct the same forthwith, on the most favorable location, and in as perfect a manner as the original road. In this connection it may be remarked that the charter authorized the making of such lateral railroads or branches, leading from the main line to such points in the counties through which the main line may pass, as the president and directors may deem advantageous, subject to the conditions and provisions relative to the main line; and hence when it was ruled in Pittsburgh v. Pennsylvania Railroad Co., 48 Pa. St., 355, that said company, within the designated counties, had as large powers to make branches as they had to make the main line, and could construct a branch through the city of Pittsburgh, by a route best suited to promote the convenience of the inhabitants of the city and the interest of the company, the ruling accorded with the precise terms of the charter. That case is no precedent for enlarging corporate grants by construction.\nIt has been said with reference to charters of incorporation, that, \u201c whatever is doubtful is decisively certain against the corporation.\u201d There seems no occasion to apply that rule in this case. Nothing in the Statutes relating to the powers of the Harrisburg, Portsmouth, Mount Joy and Lancaster Railroad Company, shows'an intendment that the company should have right to lay its tracks lengthwise on other public highways. Of course it would be necessary in the construction of the railroad to intersect and cross other highways and the charter compels the company to make and keep in repair good and sufficient passages at such crossings. This express provision left no room for doubt, as to any kind of occupancy of public roads not mentioned. What is not plainly expressed, or necessarily implied, is not granted.\nNor is the meaning of the Act of April 10th, 1867, doubtful. It contains no expression respecting public roads or streets. It does not extend the branching powers of the Pennsylvania Railroad Company to the lines it holds by lease. In view of the previous legislation relative to these companies, the words, \u201clands, tenements and property,\u201d are not used in a new sense which includes established roads. By the letter of the Statute lands and property may be taken for workshops as well as railway tracks. This is reasonable when applied to private property. But if public roads and streets are included as property which may be taken for workshops, the Act is unique, and a wide departure from the line of legislation relative to these railroad companies.\nThe appellants admit that when the bill was filed they were \u201c about to construct a railway track or siding on and' along the bed of said Brown street from the point where said street touches the main line of said road, intersecting Union street, and passing by and along the whole length of the properties on said Brown street owned by your orators respectively.\u201d The Master finds that \u201c the track or siding, which is a continuation of the siding that existed before, extends along Brown street, a distance of 1000 feet, from the railroad to Canal street, and to within 150 feet of the canal where the street terminates,\u201d and that a number of factories, mills and business houses are in the vicinity of the terminus on Canal street. One of the witnesses called by the defendants testifies that he has urged this siding for years because of the necessities for business; because it will benefit the town; that its continuation to his land would benefit the whole town; an extension of this track would open up business sites, and this is the first the Pennsylvania Railroad has done in that direction.\nWhether this railway track be called a siding, or some other name, it is easy to ascertain that if is laid on Brown street from the main line to a point in the vicinity of mills, factories and places of business. That it is a benefit to the business of that part of Middletown is undeniable. No doubt, were it extended farther,\u00bb land in the southeast part of the town would be enhanced in value.\nThis inquiry is not respecting the main line which has been laid for many years, nor the laying of additional tracks alongside that line; nor the right of the appellants to construct sidings, turnouts, depots or workshops; nor the right of the appellants to construct a railroad from their main line to mills and places of business in the south-east part of the town ; but whether they can lawfully take and occupy a street from the main line to mills and factories. As already seen, they cannot.\nThis case differs widely from Getz\u2019s Appeal, 10 W. N. C., 453. In that it was denied that the railroad had the right to construct the siding at all. The plaintiff\u2019s chief complaint was the injury don\u00e9 by taking part of his lot, destroying his dwelling house and obstructing his way to the street; but it was not contended that, if the charter gave the right to construct the siding, it did not give the right to construct it on the street.\nIn Cleveland & Pittsburgh R. R. Co. v. Speer, 56 Pa. St., 325, upon the grant in the charter, and the route authorized therein, it was said that the implication was irresistible, that the company could use Preble street for the tracks of its railroad. Stress was put on the fact that the railroad had been constructed for years before the beginning of the suit, and it was said, \u201c Whatever private remedies individuals might have had to prevent the location there, and to compel a change of site before consummation, it is now too late to treat the location as a mere nullity.\u201d And, if the act of location was \u201cvoidable because other ground ought to have been taken, none but the commonwealth can now call the company to account for it.\u201d That suit was when a party had no remedy for injury to his property, if none were taken, by the laying of a railroad at grade on a street in front of his dwelling. And it was before the Act of June 19th, 1871, which provides that in all proceedings, at law, or in equity, in which it is alleged that the private rights of individuals aie injured or invaded by any corporation claiming to have the right to do the act from which such injury results, it shall be the duty of the court to inquire and ascertain whether such corporation possesses the right to do the act, and if such right has not been conferred, if the suit be in equity, the court shall restrain such injurious acts by injunction; if at law, the party may recover damages for such injury. In that case, the switches complained of were within the lines of Preble street until they reached the land owned by the railroad company.\nIt is urged that the plaintiffs are not entitled to injunction because they have not suffered irreparable injury. This would be sound if the defendants had right to lay the track on the street. But, having no such right, the case is different. Where railroad companies or individuals exceed their statutory powers in dealing with oilier people\u2019s property, no question of damage is raised when an injunction is applied for: Commonwealth v. Railroad Co., 24 Pa. St., 159. True, they have not taken the plaintiffs\u2019 property, and, if the plaintiffs have not been specially injured, they are not entitled to injunction. But if the defendants, without authority from the state, create a nuisance on the street, one who is specially injured is entitled to relief without proving the amount of damage. In such case, the defendants are not in the position of a person who carries on a business, lawful in itself, of which a neighbor complains. They are not on their own land. If not empowered to use the street, they have no more right to construct a railroad on it than any other person. A wrongdoer may not set oft benefits to prevent the injured party obtaining relief. A man is not to be driven from his home by offensive structures, or compelled to sell it even for more than its value by one who is not invested with power to injure or take it for public purpose. As this case comes, it is wholly immaterial whether the railroad has increased the market value of the plaintiffs\u2019 dwellings. They are not claiming damages.\nAll persons who merely travel on Brown street suffer the same kind of inconvenience or injury, though the suffering may differ in degree. But he who has his dwelling fronting on the street who cannot turn his carriage between the front of Ins lot and the rails, who must drive around a block because he cannot turn in the street, whose business as a physician is interfered with, or who is subject to the smoke, noise and other incidents of railway trains passing near his door, suffers a special injury which differs in kind as well as degree from that done to the mere traveler. Were the road lawfully constructed, the only question would be whether the plaintiff's lots were worth less by reason of the construction, and, if so, how much.\nThe bill was promptly filed, and the plaintiffs prayed that the \u201cdefendants, their servants, agents and workmen may be restrained by injunction from constructing said railway track, or maintaining the same upon said public highway.\u201d And they prayed other relief. If the defendants went on and laid the track after notice of this proceeding, they have no reason to complain of a decree which puts the plaintiffs in the situation they were when, they asked preliminary injunction, No remedy is complete that does not require removal of the track-laid since the defendants had notice of the action.\nAnd now it is ordered and decreed that the decree of the court below be and is affirmed; that the appeal be dismissed at costs of theappellants; and record remitted, that the decree be enforced.",
+        "type": "majority",
+        "author": "Mr. Justice Trunkey"
+      }
+    ],
+    "attorneys": [
+      "Sail $ Jordan,for appellants.",
+      "M. M. Q-raydon, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Pennsylvania Railroad Co.\u2019s Appeal.\n1. The legislature may authorize a railroad company to lay its tracks on a public street; but when it is not so authorized by legislative grant, it has no right to appropriate and use a street, or public highway for the laying of the tracks of its trunk line, switches, sidings, or branches; and the power must be given in plain words or by necessary implication,\n8. The Pennsylvania Railroad Company does not have the right, under . its charter, to occupy longitudinally, a public road or street in a borough ' for the laying of its railway tracks.\n3. The Act of April 10th, 1867, P. L., 993, does not extend the branching powers of the Pennsylvania Railroad Company to the lines it holds by lease. In view of the previous legislation relative to railroad compa- \u25a0 nies, the words, \u201clands, tenements, and property,\u201d are not used in a new sense which includes established roads.\nMay 5th, 1886.\nBefore Mercur, C. J., Gordon, Paxsox, Trtjnkey, Sterrett, Green and Clark, JJ.\nAppeal from the court of Common Pleas of Dauphin county: Of May Term 1883, No. 27.\nAppeal of the Pennsylvania Railroad Company from a decree of said court awarding an injunction restraining said company from constructing or maintaining a railroad track, siding or other structure upon or along Brown street in the borough of Middletown, Pa., on hearing a bill in equity filed October 23d, 1882, wherein said company'was defendant and George E. Mish and Mary E. Mish, his wife, in right of the said Mary E. and Kirk Few, Jacob H. Blitz and Anna M., his wife, in right of the said Anna M. and John W. Few, children and heirs of Kirk Few, deceased, were plaintiffs.\nThe facts sufficiently appear in the opinion of the court below, Simonton, P. J., and in the report of the Master.\nThe bill avers that complainants are owners of real estate fronting on a public street known as Brown street, in the borough of Middletown, in this count}r. That respondents are about to construct a railroad track or siding on and along the bed of said street, from the main line of their road in front of and along the whole length of complainants\u2019 real estate on said street. The respondents have no legal right so to do, and that the construction and use of said track will be greatly detrimental to complainants and others, complainants\u2019 \u201c property will be injured and greatly impaired in value by reason of the construction of said railway, and the passing and repassing of cars upon said track.\u201d Complainants, therefore, pray for an injunction to restrain the construction and maintaining of said track upon said public highway.\nA temporary injunction was granted, which on hearing was dissolved.\nRespondents afterwards answered, admitting that they have \u201c entered, appropriated and occupied Brown street, as complained in said bill,\u201d but averring that they had done so in the lawful exercise of the rights of eminent domain,' conf\u00e9rred upon them by their charter and its several supplements, and especially by a \u201c further supplement to said Act, approved April 10, 1867,\u201d (P. L., 993). They also claim all the rights and privileges conferred upon the Harrisburg, Portsmouth, Mount Joy & Lancaster Railroad, by the Act approved May 7th, 1841 (P. L., 369), they being now the lessees of the railroad of said company. They also deny that complainants are injured by the construction and use of said track, or that the value of their property is impaired thereby. They also, in effect, demur to the bill, on the ground of want of jurisdiction, but assign no reason therefor.\nThe parties agreed upon an Examiner, .who was duly appointed, and took testimony on the one issue of fact, viz., whether the property of complainants was injured and impaired in value by the construction of said track, which had then been substantially completed, and its use by respondents.\nOn the coming in of this testimony the cause was heard by us on bill, answer and evidence.\nThe evidence shows that Brown street is about thirty feet wide, and the lots of complainants ea'ch front thereon about two hundred feet.\nThere is nothing in the bill to show that the lots are built upon even, and of course nothing showing the kind of buildings, nor the uses to which they are adapted or applied.\nThe evidence, however, shows that complainants have their private residences thereon, and that the value of their respective properties for the purposes of residence, would be much impaired, and they are injured and incommoded in the enjoyment of them for this purpose. If used for manufacturing purposes, the railroad track might be an advantage. No evidence was given to show that there was or was not a demand for these properties for manufacturing purposes. Nor do we think it would have been material. The evidence shows, also, that complainants .suffer special injury and damage, because of the construction and use of this track, not common to the public, who simply travel along said street. One of the complainants is a practicing physician, and convenience of access to his office, and the safetj\u00bb- of persons calling upon him there, and of their horses,, is lessened.\nThe testimony further shows that the track in question is not, properly speaking, a siding, but rather a short branch extending from respondent\u2019s main line to certain manufactories situated on Brown, and perhaps other streets.\nIf respondents have the legal right to enter upon, appropriate and occupy Brown street, as claimed by them in their answer, complainants\u2019 bill cannot be sustained. The legislature have ample power to authorize a railroad company to appropriate a public street for the purpose of laying their track thereon (Philadelphia & Trenton Railroad Company\u2019s case, 6 Wh., 25; Danville, Hazleton & Wilkesbarre Railroad Company v. Commonwealth, 28 P. E. S., 29). But without such authority, given expressly or by necessary implication, such a use of a public street constitutes a public nuisance (Harvey v. Lackawanna & Bloomsburg Railroad Company, 11 Wr., 428; Commonwealth v. Erie & North-East Railroad Company, 3 Casey, 339). And if given by implication, it must be a necessary implication, because it cannot be lightly presumed that the legislature intended to divert land, already dedicated to one public use, to another and different use.\nWe must, therefore, carefully examine the legislation pleaded by respondents, to find whether.it does or does not confer the authority claimed. It is not seriously contended that the charter of the Company respondents, nor any of its supplements, which relate to its main line between Harrisburg and Pittsburgh, have any bearing on the question. Nor can we see that the Act of May 7, 1841, relating to the Marietta, Bainbridge, Falmouth & Portsmouth Road Company, set up in the answer, affects the case in any way.\nThe authority claimed, if found at-all, in any of the legislation relied upon in the answer or on the argument must be found in the \u201cAct entitled a further supplement to the Act incorporating the Pennsylvania Railroad Company, approved April 10, 1867 (P. L., 993).\nThis Act authorizes respondents \u201c as they may deem necessary, to construct and use along, adjoining or contiguous to their lines of railroads, or the lines of railroads now owned or leased, or that may hereafter be owned or leased by them, additional tracks, sidings, depots, turnouts, water-ways, workshops and other appurtenances requisite and needful, etc.,\u201d and provides that \u201c for all or any of said purposes the Company shall and may enter upon, acquire, take and appropriate such lands, tenements and property along, adjoining or contiguous to said railroad or elsewhere, that they may deem necessary, etc.,\u201d provided that when the Company cannot agree with the owner or owners of such lands, tenements and property, as aforesaid upon the price of the same, or the compensation for the damage done, or likely to be done or sustained, then the same shall be appropriated and the damages ascertained and determined\u201d in the manner provided by their charter and its supplements.\nIf this Act authorizes respondents to appropriate or use Brown street for the\u2019purpose of constructing and maintaining a railroad track thereon, it also authorizes them to take and appropriate it for the building of a depot or workshop.\nThe authority is the same to \u201center upon, acquire, take and appropriate such lands, tenements and property as they may deem necessary, for all or any of said purposes.\u201d There is certainly no implied authority to take the street for such purposes. Again, provision is made in the Act for the purchase of the property taken from the owners, or for compensation to be ascertained by legal proceedings. This could not apply to streets. Manifestly by \u201clands, tenements and property,\u201d the legislature intended to designate what belonged to private owners.\nSuch is the construction given to a like provision in a charter by the Supreme Court in Cake v. Philadelphia & Erie Railroad Company, 6 Norris, 307, which is, we think, directly applicable here. And it is there pointed out by Mr. Justice Trunkby that if streets are included within the authority so are \u201c county and city grounds and buildings and everything else which the company may deem it expedient to take.\u201d This case is cited as authority in the Pennsylvania Company\u2019s Appeal (12 Norris, 150). For all these reasons we are of the opinion that the Act relied upon does not give respondents the right to take or use for any of the purposes mentioned the street in question.\nAs we have already seen the track of respondents, if laid on the street without authority of law, is a public nuisance. Can complainants sustain this suit for an injunction against it? The well-settled rule seems to be that individuals who have sustained, or will sustain special damage, as we have found complainants have and will in this case, may have a remedy by injunction, in a proper case, notwithstanding the right of the Attorney General to sue on behalf of the public (Bispham\u2019s Equity, 395;'Kerr on Injunctions, 334-5; Mississippi & Missouri Railroad Company v. Ward, 2 Black, 485).\nThe case of a corporation acting in excess of its corporate authority, is one which calls especially for the intervention of a Court of Equity, and the remedy by injunction (Bispham on Eq., 402; Kerr on Inj., 241-2 ancl 296-7; Sanford v. Railroad Company, 12 H., 378). . \u2022\nThere is no allegation in the bill in this case that the damage suffered and to be suffered is irreparable, except by injunction, as there ought to have been if complainants so believed it. But the testimony shows that because of its continuing character and its nature, and the difficulty of estimating it, except by conjecture, even if it could be recovered at all at law, it is such damage as is comprehended in the term iri\u2019eparable (Commonwealth v. Pittsburg & Connellsville Railroad Company, 12 H., 159). In Duncan v. Pennsylvania Railroad Company (18 Norris, 435), the question of jurisdiction does not appear to have been raised.\nWe are of opinion that the complainants are entitled to an injunction restraining defendants, their agents, servants and workmen, from constructing or maintaining a railroad track, siding or other structure upon or along said street. \u25a0 The following decree was thereupon entered. And now to wit: March 12, 1883, this cause came on to be heard at this term, and was argued by counsel, and thereupon, upon consideration thereof, it is ordered, adjudged and decreed as follows, to wit: That the defendants, the Pennsylvania Railroad Company, their agents, servants and workmen, be, and they are hereby enjoined and restrained from constructing or maintaining a railroad track, siding or other structure, upon or along Brown street, in the borough of Middletown, and so far as the same has been constructed since the granting of the preliminary injunction, they are required to remove said track from the bed of said street, and that the defendants pay the costs of this proceeding.\nThe defendant thereupon took this appeal and filed the following assignments of error.\nFirst. \u2014 The plaintiffs having neither alleged in their bill, nor proved, any special damage or irreparable injury, the court below erred in holding that they had such standing as to entitle them to remedy by injunction.\nSecond. \u2014 The court below erred also in holding and decreeing that the defendant had not the power under its charter and supplements to appropriate the street as it did.\nThird. \u2014 Tim court erred also in decreeing the final injunction against the defendant.\n'Fourth. \u2014 The court erred also in so shaping the decree as to require the defendant to take up the siding and tracks as laid, there being no prayer for such a decree in the plaintiffs\u2019 bill.\nFifth. \u2014 The court erred in stating the complainants have sustained irreparable injury, there being no such allegation in the bill.\nWhen the case was called for argument in the Supreme Court, June 1st, 1883, it -was referred to A. B. Sharpe, Esq., as Master, \u201c to find the facts from the evidence taken by the Examiner, and report the same to this court at the next term, together with his conclusions of law.\u201d\n. \"He reported, inter alia, as follows: That Brown street is a public highway in the borough of Middletown, and has been for a quarter of a century or more; that it is a short street, sixty j'eet wide, running from the railroad to the canal; and crosses Union street, which is the main street of that borough. The track or siding, which is a continuation of the siding that existed before, extends along Brown street a distance of 1000 feet, from the railroad to Canal street, and to within 150 feet of the canal, where the street terminates. It relieves the crossing at Union street from hindrances and delays, facilitates business and transfers it to a handier and safer point. There is but one track, which is five feet to the outside of both rails, and it is laid, not in the center of the street^ but nearer by about one half to the side of the street on which the property of the,Few heirs fronts, than to that on which the property of Dr. Mish fronts, which is just opposite the other. The track follows the grade of the street, is well laid, and is intended to be finished so that the top of the rail shall be no more than two inches above the surface of the street. The borough authorities consented to the laying of the track as it now is, with the understanding that the company would grade part of the street and bring it up to the level of the grade of the street as established, and this they were doing when the evidence was taken. This street never was in as good condition as it was then (i. e., when witnesses testified), so far as the work was finished. The Few and Mish. properties are private residences. The Raymond & Campbell property is a foundry, is along the side of the track, and is close to the Few and Mish properties. There are other business establishments on the north side of the railroad, on Brown street and vicinity, that derive advantage from the use of this siding. Snavely\u2019s flour and feed store, Kendig & Lauman, lumbermen, Landis\u2019s grist mill, S.amuel Singer, cabinet maker, the Middletown Furniture and Manufacturing Company, Coolbaugh & Hendrickson, lumbermen, Rife Brothers\u2019 steam tannery and tobacco warehouse, are instances.\nHe also finds that the properties of complainants\u2019 front on Brown street a distance of 200 feet each and on Union street about 50 feet. That they are private residences. That of Dr. Mish is occupied by him, both as a dwelling and an office. He has hitching posts along his property oh Brown street and a side entrance to his office on it, where parties coming for him hitch their horses. He is a practicing physician, and has country patients, who are afraid to tie their horses on Brown street for feat .of the engines frightening them. He cannot turn a vehicle in front of his office without backing on the pavement, since the track was laid down. When cars are being unloaded on Brown street, between Union street and the alley, he cannot take his usual course from his stable, but has to go around a block. His business as a physician is interfered with by reason of the siding laid down on Brown street. But it is not 'a fact that his property or that of any of the complainants has been injured by reason of the construction of this siding. On the contrary, Daniel Peters, a witness called before the Examiner, states, \u201c About a year ago the Few heirs offered to sell me their property for $4,500,\u201d and C. Y. Coolbaugh, \u201cthe Few heirs asked me $5,000 for their property since the location of this siding;\u201d and the bulk of the evidence, when carefully considered, fails to establish any intrinsic decrease in the value of the -property of complainants, since the location and construction of this siding.\nHe reported the following conclusions of law:\n1. That the Act of April 10th, 1867, legalizes the construction of this road on Brown street.\n2. That the general railroad law, passed Feb. 19th, 1849, authorizes the Penn\u2019a Railroad Company to build this road on a public highway.\n3. That the 8th section of the 16th article of the constitution of 1874 does not make the Penn\u2019a Railroad Company liable for consequential damages.\n4. That complainants, if entitled to damages, have not made out such a case as would warrant an injunction.\nExceptions were filed by the plaintiffs to the Master\u2019s findings of fact, to his right to report conclusions of law and to his conclusions of law.\nTo his finding, and recommending, that the bill of complainants should be dismissed with costs.\n. The case was argued at Harrisburg at May Term, 1884; a re-argument was subsequently ordered, when it was finally argued May 31st, 1886.\nSail $ Jordan,for appellants.\n\u2014 Nothing but very clear error will justify an appellate court in setting aside a Master\u2019s finding of the facts: Burton\u2019s Apjpeal, 12 Norris, 214.\nOn the record and the facts the plaintiffs had no such standing as to entitle them to remedy by injunction. The very remedy sought here is never granted unless there was a clear right which was violated, resulting in irreparable injury ; and where there is no adequate remedy at law: Hagner v. Hayber.ger, 7 S. R., 104; approved in Clark\u2019s Appeal, supra; Gray v. O. & Pa. R. R. Co., 1 Grant, 412; Richard\u2019s Appeal, 7 Smith, 105: Hil. on Inj.,'271; Adams Eq., 485; Fonb. Eq., 51; 2 Stoiy\u2019s Eq., \u00a7 925, et seq.\nAn injunction against such an erection will be refused, upon the principle that private advantage must yield to public benefit: Daughtry v. Warren, 13 Reporter, 667; Wells v. R. R. Co., 47 Maine, 345.\nThat the complainants have no standing to sustain an injunction. See Snyder v. P. R. R. Co., 5 Smith, 340; Duncan v. Same, 14 Norris, 435; Heller v. A. T. & S. F. R. R. Co., 7 Am. and Eng. R. R. Cases, 636; Clark v. Bridge Co., 5 Wr.', 161; Getz\u2019s Appeal, 10 W. N. C., 453.\nA court of equity will not enjoin an offence against the public at the instance of an individual, unless he suffers private, direct, and material damage beyond the public at large, as well as damage otherwise irreparable. Mere dimunition of the value of the property by the nuisance, without irreparable mischief, will not furnish any foundation for equitable relief: R. R. Co. v. Brudden, 20 N. J. Eq., 530.\nOne who does not own the fee of a public street over which a railroad is about to be built, but is only an abutting proprietor, must show a special damage to himself before he can invoke the aid of a court of equity: Osborne v. R. R. Co., 5 Blatch., C. C., 366.\nWhether the act complained of amounts to a public or private nuisance, the fact must be clearly proved by satisfactory evidence. If the evidence is conflicting, the injunction wiil not be granted: DuMesnil v. Dupont, 18 B. Mon., 800; Commonwealth v. Long, 1 Par. Eq., 143; Silliman v. Hudson River Bridge Co., 5 Wall., 403.\nCourts of equity will not interfere where the erections are for public convenience: Harrison v. Brooks, 20 Ga., 537; Barnes v. Calhoun, 2 Ire. Ch., 199.\nA public grievance furnishes no ground for a suit by a private individual. That remedy is applicable only to special injuries in violation of private rights, and individuals are not authorized to redress private grievances at their own suit: R. R. Co. v. Stump, 8 G. & J., 479.\nA party cannot vindicate others\u2019 rights by process in his own name, nor employ civil process to punish wrongs to the public.\nWhen equity intervenes to restrain acts prejudicial to the community, it must be by bill by the Attorney General: Spar-hawk v. Pass. R. R. Co., 4 Smith, 401. And to the same effect, Coal Co. v. Graham, 13 Smith, 290.\nA court of equity will not enjoin the obstruction of a public street at the suit of a private -citizen, who shows no special damages: Cox\u2019s Appeal, 10 W. N. C., 552; 11 Id., 571. ~\nThe Act of 10th of April, 1867, expressly authorizes the defendants, from time to time, as they may deem necessary, to construct and use, along, adjoining or contiguous to their lines of railroad, or the line of railroads now owned, or leased, or that may hereafter be owned, or leased, by them, additional tracks, sidings, depots, turnouts, waterways, workshops and other appurtenances requisite and needful for the prosecution of their business, and for the accommodation and transportation of the trade and traffic over and upon the said railroads. .....And the Act further authorizes the company to enter upon and take any \u201c lands \u201d necessary for all said purposes. It is difficult to see how the Act could have been broader. Both the discretion of the company and its power to take are full and clear. \u201c Lands, tenements and property,\u201d are words well known in the law, and when used are intended to include everything. \u201c Land \u201d includes not only the face of the earth, but everything under or over it. Sec J udge Gibson, in Brocket! v. Ohio & Penn\u2019a R. R. Co., 2 Harris, p. 241. That \u201c land \u201d should be any the less land because it had an easement upon it, is incomprehensible and incredible: R. R. Co. v. Williams, 4 P. F. Smith, 108.\nThe Acts of 1832,1834 and 1869, plainly show a legislative intent to confer all necessary powers claimed here, even more fully than the general railroad law of 1849.\nA railroad company may use a street or highway, when authorized by its charter, expressly or inferentially.\n\u201cLand in railroad charters has its common law and technical meaning, comprehending all structures upon it:\u201d Agnew, Justice, in C. & P. R. R. Co. v. Speer, supra.\n\u201c In the construction of a statute granting privileges to individuals, where there is ambiguity or inconsistenc}\u2019- in the language of the grant, if one construction bears against the public trade and convenience, and another abridges the grant, that must be adopted which favors the public convenience and trade: \u201d Stormfeltz v. Turnpike Co., 1 Harris, 555.\nM. M. Q-raydon, for appellees.\n\u2014 That the legislature may authorize a railroad company to construct their road tipon and along a public street, is not questioned. But the power to do so must appear in express terms, or by clear and necessary implication. All powers not given in this direct and unmistakable manner are withheld: Commonwealth v. Erie & North-East Railroad Company, 3 Casey, 339.\nThe principle decided in this case is recognized and affirmed in Pennsylvania Railroad Company\u2019s Appeal, 12 Norris, 150. It is there held that in favor of a right of a corporation to appropriate a public franchise, there is no implication, unless it arises from a necessity so absolute that without it the grant itself will be defeated. It must also be a necessity th\u00e1t arises from the very nature of things, over which the corporation has no control, and not a necessity created by itself, for its own convenience, or for the sake of economy.\nThat the Pennsylvania Railroad Company has the right, under their charter and its supplements, to occupy the streets and alleys of towns and cities, along the route of their main line from Harrisburg to Pittsburg, may be regarded as settled by the case of The Mayor, etc., of Pittsburg v. The Pennsylvania Railroad Company, 12 Wright, 355. But the decision in this case was the result of an examination of the various Acts of Assembly relating to this road, two of which by clear implication give the right to use the streets, lanes and alleys in any town, borough, or city through which the road may pass. These two Acts, one of them passed March 27th, 1818 (P. L., p. 275), and the other April 12th, 1851 (P. L., p. 518), are both referred to in the opinion of Judge Read, and are amply sufficient to sustain the ruling of the court. This case, however, can have no bearing upon the question involved in the present controversy, as its solution depends upon a very different statute.\nBut so far as the pending case is concerned it matters very little on which of the grounds indicated in the lower court the decision is made to stand. The borough of Middletown is situated neither upon the main line of the Pennsylvania Railroad, nor upon the road running from Columbia to Philadelphia, but upon the line of a railroad held by appellants, not under their charter but simply as lessees. They stand, therefore, precisely in the shoes of the Harrisburg, Portsmouth, Mt. Joy and Lancaster Railroad Company, and unless additional powers are given by subsequent legislation, can exercise only' those conferred upon their lessors. We look in vain through the charter of the former company, and its supplements, for any grant of power to occupy the bed of a public highway; and the appellants themselves do not claim to have discovered any. They set up, therefore, the Act of April 10th, 1867, and ailege that it invests them with full authority to build this branch road or siding along the bed of Brown street. If it does, our bill must be dismissed; if not, the injunction must stand. We m\u00e9efc them on this ground, and contend that the Act of 1867 will bear no such construction.\nIt is not denied that the Pennsylvania Railroad Company have authority, under the Act of 1867, to construct sidings and the other works mentioned in the Act, along the line of their leased roads. But they must do it by either purchasing or condemning private property, and, like other honest people, paying for it. It may be very convenient for them to build feeders for their mainline along public highways, and. thus save money whilst they trample upon the rights of citizens, but they do it without color of law. Says Judge Gordon, in this same Company\u2019s Appeal, 12 Norris, 150, already cited: \u201cWe thus discover that this necessity by which the unlawful acts of this company appellant are sought to be excused is one of its own making \u2014 a matter of economy. It 'is cheaper to use Dock street and the appellee\u2019s franchise than to bujr the property above mentioned. A defence more weak, or one more barren of equity could scarcely be imagined.\u201d These words so full of meaning, may well close this part of our argument.\nBut if our right to raise the question of the legal authority of the Pennsylvania Railroad Company to occupy Brown street were at all doubtful, under the cases already cited, the Act of June 19th, 1871 (P. L., p. 1360), entitled \u201c An Act relating to legal proceedings by or against corporations,\u201d removes all doubt. By that Act courts of equity are expressly authorized to inquire, at the instance of private parties, whether corporations have the legal right to do the acts by which it is alleged complainants are injured, and to enjoin the corporation if it is exceeding its power. This is probably simply an affirmance of a right already existing, but it makes the matter perfectly clear. In Western Peun\u2019a R. R. Co\u2019s Appeal, 8 Outer-bridge, 399, Judge Gordon says, in commenting upon this Statute: \u201c The powers of this, as of every other corporation, must be found in its charter, and under the provisions of the Act of 1871, the plaintiff has the undoubted right to call upon the defendant to show by its charter that it has the power to do what it proposes to do.\u201d"
+  },
+  "file_name": "0514-01",
+  "first_page_order": 528,
+  "last_page_order": 544
+}

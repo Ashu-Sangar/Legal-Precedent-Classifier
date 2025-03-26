@@ -1,0 +1,70 @@
+{
+  "id": 12288329,
+  "name": "Williams v. PA Dept. of Corrections",
+  "name_abbreviation": "Williams v. PA Dept. of Corrections",
+  "decision_date": "2016-05-10",
+  "docket_number": "86 MAL (2016)",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 776"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 A.3d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "134 A.3d 500",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 177,
+    "ocr_confidence": 0.762,
+    "sha256": "a89e12864b8771096c99ed62864261e5885b0930ad0c4dcd575719d1a3439011",
+    "simhash": "1:1766bac0a10e78b4",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williams v. PA Dept. of Corrections"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 134 A.3d 500",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Williams v. PA Dept. of Corrections\n05/10/2016\n86 MAL (2016)\n. Justice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0776-08",
+  "first_page_order": 836,
+  "last_page_order": 836
+}

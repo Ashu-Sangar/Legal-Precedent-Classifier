@@ -1,0 +1,698 @@
+{
+  "id": 1217394,
+  "name": "Rynier Estate",
+  "name_abbreviation": "Rynier Estate",
+  "decision_date": "1943-06-30",
+  "docket_number": "Appeal, No. 164",
+  "first_page": "471",
+  "last_page": "477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "347 Pa. 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "124 A. 176",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 Pa. 582",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1083564
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/279/0582-01"
+      ]
+    },
+    {
+      "cite": "21 A. 809",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Pa. 149",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        976735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/142/0149-01"
+      ]
+    },
+    {
+      "cite": "8 A. 64",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        551661
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/115/0198-01"
+      ]
+    },
+    {
+      "cite": "52 A. L. R. 1247",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 A. 756",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Pa. Superior Ct. 93",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1004362
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/129/0093-01"
+      ]
+    },
+    {
+      "cite": "163 A. 754",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "755, 756"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1141585
+      ],
+      "pin_cites": [
+        {
+          "page": "207, 208, 209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/309/0204-01"
+      ]
+    },
+    {
+      "cite": "77 A. 423",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        969823
+      ],
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/228/0126-01"
+      ]
+    },
+    {
+      "cite": "49 A. 218",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 Pa. 609",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        922925
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/199/0609-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 593",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/104/0593-01"
+      ]
+    },
+    {
+      "cite": "49 Pa. 127",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998549
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/49/0127-01"
+      ]
+    },
+    {
+      "cite": "8 Watts 9",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1848435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/8/0009-01"
+      ]
+    },
+    {
+      "cite": "10 Pa. 285",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        962705
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "291"
+        },
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/10/0285-01"
+      ]
+    },
+    {
+      "cite": "5 A. 2d 171",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "173"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 Pa. 319",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1187917
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "322, 323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/333/0319-01"
+      ]
+    },
+    {
+      "cite": "182 A. 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163623
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/320/0331-01"
+      ]
+    },
+    {
+      "cite": "34 A. 114",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "116"
+        },
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        878658
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "564, 565"
+        },
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/174/0558-01"
+      ]
+    },
+    {
+      "cite": "33 A. 60",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Pa. 479",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        985622
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "482"
+        },
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/171/0479-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434692
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/72/0434-01"
+      ]
+    },
+    {
+      "cite": "54 Pa. 20",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006297
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "22, 23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/54/0020-01"
+      ]
+    },
+    {
+      "cite": "29 A. 2d 790",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1216477
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/346/0202-01"
+      ]
+    },
+    {
+      "cite": "182 A. 392",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 Pa. 124",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1163668
+      ],
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/320/0124-01"
+      ]
+    },
+    {
+      "cite": "67 A. 124",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Pa. 150",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        999562
+      ],
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/218/0150-01"
+      ]
+    },
+    {
+      "cite": "200 A. 77",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "79"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1184361
+      ],
+      "pin_cites": [
+        {
+          "page": "276, 277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/331/0273-01"
+      ]
+    },
+    {
+      "cite": "161 A. 721",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "307 Pa. 570",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1138144
+      ],
+      "pin_cites": [
+        {
+          "page": "577, 578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/307/0570-01"
+      ]
+    },
+    {
+      "cite": "91 A. 634",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "245 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        326216
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/245/0349-01"
+      ]
+    },
+    {
+      "cite": "108 A. 610",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 Pa. 165",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1051880
+      ],
+      "pin_cites": [
+        {
+          "page": "169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/265/0165-01"
+      ]
+    },
+    {
+      "cite": "75 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1036649
+      ],
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/75/0115-01"
+      ]
+    },
+    {
+      "cite": "59 Pa. 281",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        426957
+      ],
+      "pin_cites": [
+        {
+          "page": "286, 287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/59/0281-01"
+      ]
+    },
+    {
+      "cite": "3 A. 2d 697",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "699"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 Pa. 561",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1187938
+      ],
+      "pin_cites": [
+        {
+          "page": "563"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/333/0561-01"
+      ]
+    },
+    {
+      "cite": "165 A. 34",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "310 Pa. 182",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1144230
+      ],
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/310/0182-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 685,
+    "char_count": 10620,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 8.080675532430933e-07,
+      "percentile": 0.9740357449411143
+    },
+    "sha256": "53ee58e28754282bd5df585c1248b5046537e9c816c6a58d2904e253f2e41a60",
+    "simhash": "1:ae66c7e12eced39e",
+    "word_count": 1954
+  },
+  "last_updated": "2024-02-27T23:35:20.815372+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J..; Drew, Linn, Stern, Patterson, Parker and Stearns, JJ."
+    ],
+    "parties": [
+      "Rynier Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Horace Stern,\nThe decedent, Ella Rynier, was the wife of Clayton W. Rynier, whom she married in 1931, she being then sixty-one years of age and he fifty-nine; it was her first but his second marriage. She died on January 13, 1942, intestate, without issue, and survived by her husband, a brother John K. Euch, and the children of a deceased sister. The husband became administrator, and at the audit of his account Euch presented a claim of $6,000 which was allowed by the court and which consumed practically the whole of decedent\u2019s estate, thus depriving the husband of any share therein.\nThe claim of Ituch was based on three promissory notes executed by decedent under the following circumstances : On July 13, 1936, she visited the office of one Samuel A. Myers, who was engaged in the insurance and real estate business, and had him prepare for her a judgment note in the sum of $2,000, payable to John K. Euch on demand, without interest, and containing the legend: \u201cThis note is not to be exercised until after my death.\u201d On January 22,1937, she had him prepare a similar note in the same amount and with the same inscription. On September 5,1941, she had him prepare a third note, also for $2,000, and similar to the other two except that it was marked \u201cFor services rendered\u201d and the other notation was omitted. Each of these notes was under seal, signed by Ella Eynier, witnessed by S. A. Myers, executed on the occasions of her respective visits to Myers and dated accordingly. She left the notes with him, telling him that \u201cafter her death she will advise her brother to lift the notes,\u201d (evidently meaning that she would direct her brother to call for them after her death). Myers did not know Euch but the latter came to him about a week after decedent\u2019s death and asked for and obtained the notes.\nIf the transactions between decedent and Myers effected a legal delivery to Euch, all objections to the validity of the notes necessarily fall. It is immaterial whether they were given because of a debt owed to her brother or as a gift inter vivos. The seals import consideration, and therefore .want of consideration would not constitute a defense to an action thereon (Killeen\u2019s Estate, 310 Pa. 182, 187, 165 A. 34, 35; Conrad\u2019s Estate, 333 Pa. 561, 563, 3 A. 2d 697, 699), provided delivery was consummated: Pringle v. Pringle, 59 Pa. 281, 286, 287; Trough\u2019s Estate, 75 Pa. 115, 118; Isett v. Maclay, 265 Pa. 165, 169, 108 A. 610, 611. Decedent had a perfect right to give away all or any of her property, and, if she actually divested herself of ownership and there was no fraud (as to which there is here no claim), it is immaterial that her husband was thereby deprived at her death of his distributive share in her estate: Windolph v. Girard Trust Co., 245 Pa. 349, 91 A. 634; Beirne v. Continental-Equitable Title & Trust Co., 307 Pa. 570, 577, 578, 161 A. 721, 723; DeNoble v. DeNoble, 331 Pa. 273, 276, 277, 200 A. 77, 79.\nThe sole question then comes down to this: Was there a good delivery of the notes? It is a general rule that \u201cto constitute a valid gift inter vivos two essential elements must combine: an intention to make the gift then and there, and such an actual or constructive delivery at the same time to the donee as divests the donor of all dominion over the subject, and invests the donee therewith\u201d: Reese v. Philadelphia Trust, Safe Deposit & Insurance Co., 218 Pa. 150, 156, 67 A. 124, 126; Henderson v. Hughes, 320 Pa. 124, 126, 182 A. 392, 393; Fitzpatrick v. Fitzpatrick, 346 Pa. 202, 29 A. 2d 790. Of course, the delivery need not be made directly to the beneficiary. The instrument may be placed in the possession of a third person for delivery upon the happening of a specified contingency or event, as, for example, the death of the donor; in such cases not only is the delivery valid, but it will be held to relate back to the time of the initial delivery if that be necessary to effectuate the donor\u2019s intention: Stephens v. Huss, 54 Pa. 20; Stephens v. Rinehart, 72 Pa. 434; Gish v. Brown, 171 Pa. 479, 482, 33 A. 60; Levengood v. Bailey, 1 Woodward 275; Wagoner\u2019s Estate, 174 Pa. 558, 564, 565, 34 A. 114, 116; Hartman\u2019s Estate (No. 2), 320 Pa. 331, 335, 182 A. 232, 233; Chambley v. Rumbaugh, 333 Pa. 319, 322, 323, 5 A. 2d 171, 173. Nor is it essential that the donee have knowledge of the transaction before the death of the donor, since there is a presumption that a person will accept what is for his benefit (Blight v. Schenck, 10 Pa. 285, 291) and by his subsequent actual acceptance the donee ratifies the original delivery by which the gift was made.\nAs the chief factor in the determination of the question whether a legal delivery has been effected is the intention of the donor to transfer title to the donee, as manifested by his words and actions and by the circumstances surrounding the transaction, it is evident that each case must depend largely upon its own facts. The delivery to an agent or custodian is ineffective as a gift inter vivos if it is not accompanied with definite instructions to make delivery in turn to the donee: Hannah v. Swarner, 8 Watts 9; Thompson\u2019s Executors v. Lloyd, 49 Pa. 127; Scott v. Lauman, 104 Pa. 593; Clapper v. Frederick, 199 Pa. 609, 49 A. 218; Sears v. Scranton Trust Co., 228 Pa. 126, 141, 77 A. 423, 428; Stewart\u2019s Estate, 309 Pa. 204, 207, 208, 209, 163 A. 754, 755, 756. It is likewise ineffective if the donor indicates an intention to retain title notwithstanding his parting with possession: Mearkle\u2019s Estate, 129 Pa. Superior Ct. 93, 194 A. 756. But where the purpose of the donor to make a present gift clearly appears, and explicit directions are given as to the person to whom final delivery is to be made, as well as the time when and the event or contingency upon which it is to be made, the transaction is upheld as vesting a valid title in the donee to the deed, bond, note, or other instrument which is the subject of the gift. Thus, in Wagoner\u2019s Estate, 174 Pa. 558, 34 A. 114, the facts of which are strikingly similar to those in the present case, a man executed a bond payable to his niece and gave it to a justice of the peace to be delivered to her after the donor\u2019s death; he told her she should go and get it at his death, which she did. The court sustained her claim on the bond against her uncle\u2019s estate. In Hartman\u2019s Estate (No. 2), 320 Pa. 331, 182 A. 232, a woman executed a deed conveying a part of her real estate to a certain grantee; the deed provided that possession of the property should be retained by her during her lifetime and should pass at her decease to the grantee. She delivered the deed to a third person with instructions to give it upon her death to the grantee if she, the grantor, did not call for it in the meantime. She never recalled it and after she died it was delivered to the grantee. The court held that the delivery was valid and that the title vested as of the time of the original delivery. In Chambley v. Rumbaugh, 333 Pa. 319, 5 A. 2d 171, a woman had her lawyer prepare deeds to real estate owned by her but she told him she did not wish them to be delivered until her death. He instructed her that to accomplish that purpose she should give them to someone who would turn them over to the grantees at that time. She took the deeds away with her and a year after her death they were found in the library of one of her. friends who had died the previous day. The court held that the evidence was sufficient to sustain an inference that the deeds had been given by the grantor to her friend for the purpose of delivery to the grantees at the time of the grantor\u2019s death; accordingly title passed to the grantees as of the time of the first delivery.\nIt would seem reasonably clear in the present case that Mrs. Bynier intended to vest title to the notes in her brother when she delivered them to Myers, and that only Ruch\u2019s possession and beneficial use of them were to be postponed until her death. The notes were delivered at intervals over a course of more than five years, showing a desire on her part to add gradually to the gift which she was thus making. She told Myers she would \u201cadvise her brother to lift the notes\u201d after her death, that is, she would direct him to call and receive them from Myers at that time. It would appear that she subsequently did this, because Myers testified that he had no communication with Buch, so presumably it was from decedent that Buch learned that the notes were being held for him by Myers. That the latter was not the agent of Buch, and indeed did not know him, is of no legal significance: Blight v. Schenck, 10 Pa. 285, 290; Gish v. Brown, 171 Pa. 479, 481, 33 A. 60. While it is true Myers testified that if decedent had come to his office after signing the notes and had requested their return he would have given them back to her as \u201cthey were her property,\u201d this represented merely his own conception of the legal effect of the transaction; his duty under the circumstances was not measured by what he would have thought it right to do but by what the laAV would have required him to do: Wagoner\u2019s Estate, 174 Pa. 558, 564, 34 A. 114, 116; 52 A. L. R. 1247, topic VI, and cases there cited.\nThe order and decree of the orphans\u2019 court is affirmed ; costs to be paid out of the estate.\nDecedent and her husband owned two properties as tenants by the entireties, the title to which passed to him by survivorship.\nIt was held also in Stephens v. Huss, 54 Pa. 20, 22, 23, that the grantor\u2019s retention of the right to revoke the authority given by him to deliver the deed after his death did not invalidate the delivery if the right was not in fact exercised. The reservation of such right is, however, important as evidence of an intention on the part of the grantor not to effect an immediate transfer of title. As to the validity of a voluntary deed of trust not being affected by a reserved but unexercised right of revocation see Dickerson\u2019s Appeal, 115 Pa. 198, 8 A. 64; Lines v. Lines, 142 Pa. 149, 21 A. 809; Dolan\u2019s Estate, 279 Pa. 582, 124 A. 176. As to the Hartman case see 43 Dickinson L. Rev. 192, 193.\nThe reason the third note was marked \u201cFor services rendered\u201d was probably that her brother had been living in her house during the latter months of her life and had been taking care of her to some extent during that period.",
+        "type": "majority",
+        "author": "Mr. Justice Horace Stern,"
+      }
+    ],
+    "attorneys": [
+      "W. Hensel Brown, with Mm Harold (?. Ripple and William, G. Storb, for appellant.",
+      "Ghas. W. Eaby, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Rynier Estate.\nArgued May 26, 1943.\nBefore Maxey, C. J..; Drew, Linn, Stern, Patterson, Parker and Stearns, JJ.\nW. Hensel Brown, with Mm Harold (?. Ripple and William, G. Storb, for appellant.\nGhas. W. Eaby, for appellee.\nJune 30, 1943:"
+  },
+  "file_name": "0471-01",
+  "first_page_order": 493,
+  "last_page_order": 499
+}

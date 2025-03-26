@@ -1,0 +1,78 @@
+{
+  "id": 687701,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Timothy SANDERS, Respondent",
+  "name_abbreviation": "Commonwealth v. Sanders",
+  "decision_date": "2005-07-22",
+  "docket_number": "No. 281 EAL 2004",
+  "first_page": "509",
+  "last_page": "509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "583 Pa. 509"
+    },
+    {
+      "type": "parallel",
+      "cite": "880 A.2d 502"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "870 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        650353,
+        9019627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0234-01",
+        "/a2d/870/0838-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 332,
+    "ocr_confidence": 0.642,
+    "sha256": "31f199eaa7973e999e0b9723be20976547b82d6c9fc0e3a454fcea6ebac662cf",
+    "simhash": "1:0c9f73ebd4d181aa",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T16:27:06.028967+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Timothy SANDERS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of July 2005, we GRANT the Petition for Allowance of Appeal and REVERSE the Order of the Superior Court. See Commonwealth v. Wallace, 870 A.2d 838 (Pa.2005).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "880 A.2d 502\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Timothy SANDERS, Respondent.\nSupreme Court of Pennsylvania.\nJuly 22, 2005."
+  },
+  "file_name": "0509-01",
+  "first_page_order": 703,
+  "last_page_order": 703
+}

@@ -1,0 +1,262 @@
+{
+  "id": 457568,
+  "name": "Steel et al. versus Goodwin et al.",
+  "name_abbreviation": "Steel v. Goodwin",
+  "decision_date": "1886-10-04",
+  "docket_number": "",
+  "first_page": "288",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "113 Pa. 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dall., 154",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.,",
+      "case_ids": [
+        1408409,
+        12137428,
+        12137590,
+        1408391
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/1/0159-02",
+        "/dall/1/0154-01",
+        "/dall/1/0154-02",
+        "/us/1/0159-01"
+      ]
+    },
+    {
+      "cite": "1 Dall., 354",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.,",
+      "case_ids": [
+        12147334,
+        12147388,
+        1408421,
+        1408390
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dall/1/0354-01",
+        "/dall/1/0354-02",
+        "/us/1/0371-01",
+        "/us/1/0371-02"
+      ]
+    },
+    {
+      "cite": "4 Yeates, 274",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "71 Pa. St., 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Pa. St., 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425164
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/50/0224-01"
+      ]
+    },
+    {
+      "cite": "7 W. & S.. 379",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481738
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0379-01"
+      ]
+    },
+    {
+      "cite": "45 Pa. St., 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9502955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/45/0349-01"
+      ]
+    },
+    {
+      "cite": "13 W. N C., 505",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Pa. St., 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425186
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/50/0230-01"
+      ]
+    },
+    {
+      "cite": "38 Pa. St., 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994110
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/38/0034-01"
+      ]
+    },
+    {
+      "cite": "13 W. N. C. 505",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wall., 151",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Binn., 361",
+      "category": "reporters:state",
+      "reporter": "Binn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Pa. St., 68",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1013219
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/58/0068-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. St., 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425164
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/50/0224-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. St., 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425186
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/50/0230-01"
+      ]
+    },
+    {
+      "cite": "38 Pa. St., 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        994110
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/38/0034-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 623,
+    "char_count": 12490,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 4.2828692467610423e-07,
+      "percentile": 0.916117889498577
+    },
+    "sha256": "9e78f0e39f7cec0baae293a5b1cdb3a038429de6ff5f7eef0c17516ecb84d96d",
+    "simhash": "1:d2c5dc09fe5782c5",
+    "word_count": 2210
+  },
+  "last_updated": "2024-02-27T21:04:30.183192+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Merour, C. J., Gordon, Trtjnkey, Sterrett, Green and Clark, JJ. Paxson, J., absent."
+    ],
+    "parties": [
+      "Steel et al. versus Goodwin et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Mercur\ndelivered the opinion of the Court,\nTins was a proceeding in foreign attachment against the defendants who resided in New York, with notice to garnishees who resided in Philadelphia. The writ was served on the latter. On the application of Bird, assignee for the- benefit of creditors of the defendants, the Court quashed the writ of attachment. This is assigned as error.\nThe assignment of the defendants was executed on the 11th December, 1884, and on the day following was recorded in the city of New York, where if was made ; but was not recorded in Pennsylvania until the 24th of the same month.\nThis writ of attachment was issued and served on the 12th of December. The plaintiffs were then informed of the insolvency of the defendants, but had no knowledge of the assignment.' Neither at the issuing of the writ, nor at any time thereafter, was the assignee made a party to the record, nor did he pray to become such. He did not ask that the attachment be dissolved, nor that the service of the writ be set aside. He only asked that the writ itself be quashed. The Court granted his request. Was this error ? He certainly occupied no higher ground than the defendants under whom he held. He did not stand in the position of a good faith purchaser for value: Ritter v. Brendlinger, 58 Pa. St., 68; Missimer v. Ebersole, 87 Id., 109; Kent, Santee & Co.\u2019s Appeal, Id., 165 ; Morris\u2019s Appeal, 88 Id., 868.\nThe garnishees did not allege any defect in the service on them. On the contrary they admitted its validity, and asked leave to pay into Court the money attached.\nThe defendants resided in the state of New York. The plaintiffs resided in this State, and the property sought to he attached was here. Was it subject to foreign attachment for a debt due from the defendants ? No service of the writ on them was required. The service on the garnishees was not set aside, nor was the attachment dissolved. It is not now necessary to decide any question relating thereto. The writ having been quashed, the sole contention is whether the action of foreign attachment lies.\nThe Act of 3d May, 1855 (P. L., 415), declares: \u201cWhenever any person making an assignment of his or her estate situate within this Commonwealth, for the benefit of creditors, shall be resident out of this State, such assignment may be recorded within any county where such estate, real or personal, may be, and take effect from its date ; provided that no bona fide purchaser, mortgagee or creditor having a lien thereon before the recording in the same county, and. not having had previous actual notice thereof, shall be affected or prejudiced \u201d by said assignment.\nThe power of a state to regulate the transfer of all propertv within its territory is well established: Story\u2019s Conflict of Laws, \u00a7 390 ; Milne v. Moreton, 6 Binn., 361 ; Green v. Van Buskirk, 7 Wall., 151; Warner\u2019s Appeal, 13 W. N. C. 505. When this power is asserted by legislation of the state where the property is situated, any principle of comity in conflict therewith must not render the legislation invalid: Id. When, therefore, a foreign attachment is issued in any county in this Commonwealth where the property of a non-resident is situated, after the execution of an assignment in another state, but prior to the recording thereof in the county where the property is found, the attachment has priority over the assignment : Id ; Philson et al. v. Barnes, 50 Pa. St., 230.\nThe power of quashing writs is limited to proceedings that are irregular, defective, or improper : Crawford v. Stewart, 38 Pa. St., 34. If it appears on the face of the record that the proceedings are void, or grossly irregular, or where it is clearly shown that a valid cause of action in this form does not exist, the Court may, on motion of the defendant or of the garnishees in his behalf, quash the writ. No such case is presented here. This record does not show anything irregular, defective, or improper in the commencement of the action.\nAs we have declared, the residence of the defendants, and of the garnishees, and the debt due from the latter, were such as to make the action proper. The attempt of the assignee was to show by evidence dehors the record, that the indebtedness from the defendants to the plaintiffs was not yet due. This, however, was a disputed question which should be passed upon by a jury. The learned judge erred in determining it against the plaintiffs as matter of law, and thus putting them out of Court. The right of the plaintiffs to maintain an action under all the evidence cannot be disposed of in this summary manner. An existing indebtedness from the defendants to the plaintiffs being unquestioned, the latter are entitled to have the other question, which is controverted, submitted to a jury: Lancaster County Bank v. Gross et al., 50 Pa. St., 224; Lorenz v. Orlady, 87 Id., 226.\nJudgment reversed, rule, to quash the attachment discharged, and a procedendo awarded.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Mercur"
+      }
+    ],
+    "attorneys": [
+      "George P. Pick and Mayer Sulzberger, for plaintiffs in error.",
+      "Sharp \u00bff- Alleman, for defendants in error."
+    ],
+    "corrections": "",
+    "head_matter": "Steel et al. versus Goodwin et al.\n1. When a foreign attachment is issued in any county in this Commonwealth where the property of a non-resident is situated, after the execution of an assignment for the benefit of creditors, but prior to the recording thereof in the county where the property is found, the attachment has priority over the assignment.\n2. If it appear in a proceeding in foreign attachment on the face of the record that it is void or grossly irregular, or where it is clearly shown that a valid cause of action in this form does not exist, the Court may, on motion of the defendant or of the garnishees in his behalf, quash the writ; but the power of quashing writs is limited to proceedings that are irregular, defective, or improper.\n3. Whether the debt for which a foreign attachment was issued was due or not cannot be determined by the Court as a matter of law; it is a question of fact which should be submitted to a jury.\nJanuary 28th, 1886.\nBefore Merour, C. J., Gordon, Trtjnkey, Sterrett, Green and Clark, JJ. Paxson, J., absent.\nError to the Court of Common Pleas, No. 1, of Philadelphia county: Of J uly Term 1885, No. 58.\nForeign attachment by Edward T. Steel, Henry M. Steel, and William G. Steel, trading as Edward T. Steel & Co., against H. J. Goodwin and R. J. Hudson, trading as H. J. Goodwin & Co.\nOn December 12th, 1884, H. J. Goodwin & Co., commission merchants of the city of New York, failed, and on the same day made an assignment for the benefit of creditors, which assignment was recorded in New York on the same day, and in Philadelphia on December 24th, 1884.\n\u2022 Edward T. Steel & Co., merchants of Philadelphia, and the plaintiffs herein, were their creditors to a large amount. On December 12th, 1884, having heard of the failure, but being ignorant-of the assignment, they issued a foreign attachment, and attached several debts owing to H. J\u2018. Goodwin & Co., by parties residing in the city of Philadelphia.\nOn Januaiy 17th, 1885, a rule was granted one of the garnishees to show cause why he should not have leave to pay money into court less counsel fees.\nOn the same day John H. Bird, also a resident of New York, filed an affidavit in the said Court, sworn to before a notary public of Kings County, New York, averring that he was the assignee under the deed of H. J. Goodwin & Co., and that the plaintiffs were aware of the execution of the assignment at the time they issued the attachment; that the property attached was choses in action, and not subject to such attachment, and prayed that the attachment be quashed.\nThe Court thereupon granted a rule to show cause why the attachment should not be quashed, and on April 25th, 1885, this rule was made absolute, and the attachment quashed.\nThe plaintiffs thereupon took this writ, assigning for error the judgment of the Court quashing the writ.\nGeorge P. Pick and Mayer Sulzberger, for plaintiffs in error.\n1. The assignee not being a party to the record had no standing in court.\nThe only means in which a stranger to the record, which ex necessitate includes one claiming to be the owner of the goods attached by purchase or assignment from the defendant, can have any relief, is under the Act of June 10th, 1881 (P. L., 170) ; and the only relief contemplated by this Act is an interpleader. It does not, in its terms or in the very nature of things, apply to choses in action ; as to these, the stranger claiming ownership in them would be as much without relief since the Act, as before.\nIn addition to dissolving the attachment where no cause of action is shown, the Court may also on motion of the defendant, or of the garnishee in his behalf, quash it, where it appears on the face of the record that the proceedings are irregular and void : Crawford v. Stewart, 38 Pa. St., 34; 2 Brightly\u2019s Troubat & Haly, 532, note 1.\n2. Choses in action are bound by foreign attachment like other proportju\nA debt due to a non-resident debtor is bound by a foreign attachment issued in this State, notwithstanding a previous assignment by him in trust of all his estate and effects, where the assignment was not recorded within the county in which the debt attached was due, as required by the Act of 3d of May, 1855, and no notice of the assignment was given to the attaching creditor : Philson v. Barnes, 50 Pa. St., 230.\nAn assignment for the benefit of creditors executed, delivered, and recorded outside of this State, is ineffectual to pass title to property within this State, until recorded in the county where said property lies. Where, therefore, a foreign attachment is issued in said county after the execution of said attachment, but prior to the recording thereof in said county, it lias priority over the attachment: Warner\u2019s Appeal, 13 W. N C., 505.\nThe case therefore stands thus: Either we have nothing before us but the record (and then it would be the case of quashing an attachment at the instance of a stranger), or we look at the affidavits, and find that the plaintiff, ignorant of the fact of an assignment in New York, issues a foreign attachment here which is quashed; and then such quashing is found to be in the teeth of the decisions of this Court above cited.\nIn either case, the order of the Court below should be reversed. The only possible mode of escape from this conclusion is to argue that the assignees\u2019 depositions raise a question as to whether the plaintiffs\u2019 claim was due at the time of the attachment. Such a question, however, is a contest on the very merits themselves, and cannot be summarily decided by the Gonrtfin this preliminary manner: Murdock v. Steiner, 45 Pa. St., 349; Lorenz v. Orlady, 87 Id., 226; Pleasants v. Cowden, 7 W. & S.. 379 ; Lancaster Co. Bank v. Gross, 50 Pa. St., 224.\nSharp \u00bff- Alleman, for defendants in error.\n1. The Court had the power to permit the assignee for the benefit of creditors to intervene, and this is what was practically done.\nSurely, if the garnishee can intervene, as is said by Shakswood, J., in Morris v. Turner, 3 Clark, 425, or if a subsequent judgment creditor may do so, as was held in Pfoutz v. Com-ford, 12 Id., 420, the assignee for the benefit of creditors may be allowed that, right: Reed\u2019s Appeal, 71 Pa. St., 382.\nA motion to quash was the proper remedy.\nIf the defendant be an inhabitant of the state, or the attachment otherwise improperly issue, the remedy is by a motion to quash the writ: Troub. & Hal. Prac., \u00a7 2269.\nThe foundation of the action was the existence of a debt, due and payable; the right to the effects in the garnishees\u2019 hands depended upon the legal service of the writ and their attachable character. If any of these requisites were wanting it went to the foundation of the matter, and a motion to quash was the proper one: See Troubat & Haley\u2019s Prac., \u00a7 2269; Downing v. Phillips, 4 Yeates, 274; Ross v. Clark, 1 Dall., 354; Doane v. Penhallow, Id., 218; McCoombe v. Dunch, 2 Id., 73.\nIn view of the severity of the remedy the Courts have exercised the largest powers in the protection of the rights of those in interest \u2014 requiring the plaintiff to affirmatively prove his cause of action, and inquiring into it the same as on a capias where the defendant is in custody: Troubat & Hal., \u00a7\u00a7 2271, 2272; see Vienna v. McCarty, 1 Dall., 154.\nOn a motion to quash the Court should inquire into the cause of action as carefully as on a rule to show cause of action \u2014 the only difference being perhaps that in the former case the burden would be on the party making the motion.\nOctober 4th, 1886."
+  },
+  "file_name": "0288-01",
+  "first_page_order": 304,
+  "last_page_order": 308
+}

@@ -1,0 +1,119 @@
+{
+  "id": 4344577,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Ricardo CRUZ, Respondent",
+  "name_abbreviation": "Commonwealth v. Cruz",
+  "decision_date": "2014-01-16",
+  "docket_number": "No. 617 MAL 2012",
+  "first_page": "561",
+  "last_page": "562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "623 Pa. 561"
+    },
+    {
+      "type": "parallel",
+      "cite": "83 A.3d 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 5814388",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 A.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4281018,
+        7301191
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/622/0543-01",
+        "/a3d/81/0001-01"
+      ]
+    },
+    {
+      "cite": "622 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4281018
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/622/0543-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 705,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.14750995135237613
+    },
+    "sha256": "133bba40ff393984fdc40b959a2928ac5b900cc979deb3f9f41d8a5349fb6268",
+    "simhash": "1:3a8b3e59af4ece16",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T20:51:12.816068+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice EAKIN did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Ricardo CRUZ, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of January 2014, the Petition for Allowance of Appeal is GRANTED. The order of the Superi- or Court is REVERSED pursuant to Commonwealth v. Cunningham, 622 Pa. 543, 81 A.3d 1, 2013 WL 5814388 (2013), (holding that the U.S. Supreme Court\u2019s ban on sentencing schemes that impose a mandatory life sentence without the possibility of parole for juveniles in Miller v. Alabama, \u2014 U.S. -, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012) does not apply retroactively).\nJustice EAKIN did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "83 A.3d 411\nCOMMONWEALTH of Pennsylvania, Petitioner v. Ricardo CRUZ, Respondent.\nSupreme Court of Pennsylvania.\nJan. 16, 2014."
+  },
+  "file_name": "0561-01",
+  "first_page_order": 597,
+  "last_page_order": 598
+}

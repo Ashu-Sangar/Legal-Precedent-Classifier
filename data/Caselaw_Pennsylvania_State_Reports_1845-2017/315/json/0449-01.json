@@ -1,0 +1,68 @@
+{
+  "id": 1156651,
+  "name": "Austin's Estate",
+  "name_abbreviation": "Austin's Estate",
+  "decision_date": "1934-06-30",
+  "docket_number": "Appeal, No. 170",
+  "first_page": "449",
+  "last_page": "455",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "315 Pa. 449"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 489,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 2.3055252135122718e-07,
+      "percentile": 0.7878729609332435
+    },
+    "sha256": "4907ff7dd37a369392a57bf166c1f4bb3989e23c7d244c7fe5cab2fe81f0234b",
+    "simhash": "1:430a9d96053f3808",
+    "word_count": 81
+  },
+  "last_updated": "2023-07-14T17:15:49.255645+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Austin\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe opinion of Judge Gest, confirmed by the court in banc, fully sets forth and correctly disposes of the question involved in this appeal. The decree of the lower court is affirmed on that opinion, at costs of the estate.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Shippen Lewis, with him Richard W. Ledwith, for appellant.",
+      "Cuthbert H. Latta, Jr., of Williams, Brittain & Sinclair, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Austin\u2019s Estate.\nArgued April 16, 1934.\nBefore Frazer, C. J., Simpson, Schaffer, Maxey, Drew and Linn, JJ.\nShippen Lewis, with him Richard W. Ledwith, for appellant.\nJune 30, 1934:\nCuthbert H. Latta, Jr., of Williams, Brittain & Sinclair, for appellees."
+  },
+  "file_name": "0449-01",
+  "first_page_order": 475,
+  "last_page_order": 481
+}

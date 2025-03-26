@@ -1,0 +1,82 @@
+{
+  "id": 12280778,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Terrance WASHINGTON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Washington",
+  "decision_date": "2015-12-02",
+  "docket_number": "No. 296 EAL 2015",
+  "first_page": "692",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 692"
+    },
+    {
+      "type": "parallel",
+      "cite": "127 A.3d 1287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699057
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0099-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 495,
+    "ocr_confidence": 0.63,
+    "pagerank": {
+      "raw": 4.351389287593408e-08,
+      "percentile": 0.2736078435460909
+    },
+    "sha256": "4ede3a95123dd15f8423c5318cdf42d5a9c8ff8f810e8a853dff752a8a5afe9c",
+    "simhash": "1:29657236e3ea6df2",
+    "word_count": 77
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Terrance WASHINGTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of December, 2015, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues. The issue is:\nAre the mandatory sentences imposed upon petitioner illegal pursuant to Alleyne v. United States[, \u2014 U.S. \u2014, 133 S.Ct. 2151, 186 L.Ed.2d 314 (2013) ]?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "127 A.3d 1287\nCOMMONWEALTH of Pennsylvania, Respondent v. Terrance WASHINGTON, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 2, 2015."
+  },
+  "file_name": "0692-01",
+  "first_page_order": 746,
+  "last_page_order": 746
+}

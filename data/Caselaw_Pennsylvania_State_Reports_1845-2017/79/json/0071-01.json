@@ -1,0 +1,272 @@
+{
+  "id": 438384,
+  "name": "Bare versus Hoffman",
+  "name_abbreviation": "Bare v. Hoffman",
+  "decision_date": "1875-05-20",
+  "docket_number": "",
+  "first_page": "71",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "79 Pa. 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Dallas 255",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 N. Y. Rep. 457",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2021219
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/18/0457-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 235",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013126
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/25/0241-01"
+      ]
+    },
+    {
+      "cite": "3 Pick. 352",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Mass. 519",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053435
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/11/0465-01"
+      ]
+    },
+    {
+      "cite": "7 Pick. 201",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 N. Y. 519",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2040665
+      ],
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/30/0519-01"
+      ]
+    },
+    {
+      "cite": "26 Barb. 409",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5007704
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/26/0409-01"
+      ]
+    },
+    {
+      "cite": "1 Rawle 27",
+      "category": "reporters:state",
+      "reporter": "Rawle",
+      "case_ids": [
+        1819358
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/rawle/1/0027-01"
+      ]
+    },
+    {
+      "cite": "6 Wright 67",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 W. & S. 14",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        481846
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/7/0014-01"
+      ]
+    },
+    {
+      "cite": "4 W. & S. 371",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yeates 194",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6772733
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/3/0193-01"
+      ]
+    },
+    {
+      "cite": "4 Metc. 1",
+      "category": "reporters:state",
+      "reporter": "Metc.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Barb. 20",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        2256812
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/58/0020-01"
+      ]
+    },
+    {
+      "cite": "25 Ill. 86",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        443626
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/25/0086-01"
+      ]
+    },
+    {
+      "cite": "17 N. Y. 489",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2019308
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/17/0489-01"
+      ]
+    },
+    {
+      "cite": "8 Wright 169",
+      "category": "reporters:state",
+      "reporter": "Wright",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 N. H. 90",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4518515
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/32/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 899,
+    "char_count": 19876,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 7.165057759277105e-07,
+      "percentile": 0.9672772428045032
+    },
+    "sha256": "371278c31eb75057ff6c8026421616a8f2c00c6bdf640e0bd864bca7ca4c745c",
+    "simhash": "1:646064d190dd725c",
+    "word_count": 3536
+  },
+  "last_updated": "2024-02-27T22:18:31.010578+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Agnew, C. J., Sharswood, Mercur, Gordon, Paxson and Woodward, JJ."
+    ],
+    "parties": [
+      "Bare versus Hoffman."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Mercur.\ndelivered the opinion of the court, October 12th 1875.\nAll the errors assigned, except the first and sixteenth, may be considered together. They relate to the measure of damages.\nEach party owned and operated a tannery supplied with water from the same stream. Bare also, owned other lands situate on the same stream above the tanneries. On those lands he placed a pipe in the stream, thereby withdrawing a portion of the water from its accustomed channel, and conveying it to his tannery. Hoffman, under a previous grant from Bare, drew the water necessary to supply his tannery, through a pipe placed in the stream above the one put in by Bare. The specific complaint was that Bare took, and failed to return, the water that Hoffman had been accustomed to use, and which he required in carrying away the exhausted tan and offal that accumulated on his premises.\nAbout two months after the water was thus diverted by Bare this action was brought to recover damages.\nThe defendant in error was permitted, under objection, to give evidence of the permanent injury done to the market value of his tannery by this diversion of the water; and the court charged the jury he was entitled to recover the permanent damages thus done to the freehold.\nThe whole damage of which the defendant in error complained, was caused by Bare\u2019s placing a pipe in the stream on his own land. A severance of the connection of the pipe with the stream, would cause the water to run in its accustomed channel, and remove the whole cause of complaint. It is not the case of an entry on the land of the defendant in error, and a severance of any part of his freehold; nor of depositing a permanent nuisance thereon, as in Seely v. Alden, 11 P. F. Smith 302. Bare neither took anything off from Hoffman\u2019s land, nor deposited anything thereon. The act he committed was not of such a permanent character as to assume it to continue through all coming time, and to justify the assessment of damages accordingly.\nThe general rule is that successive actions may be brought as as long as the obstruction is maintained. A recovery in the first action establishes the plaintiff\u2019s right. Subsequent actions are to recover damages for a continuance of the \u2022 obstruction. Hoffman was both the owner and the occupier of his tannery. Hence the authorities cited, and the argument made, as to the separate remedies of a tenant and reversioner, do not apply. The whole right was in him. For a continued obstruction to the flow of water he could sustain successive actions. In each he could recover the damages he had sustained subsequently to the last preceding action.\nWe think, therefore, the learned judge erred in permitting evidence to be given of the permanent injury to the market value of the tannery, and in charging that the defendant in error was entitled to recover the permanent damage done to the freehold.\nIf the defendant in yrror was entitled to recover for damages which he had sustained prior to the commencement of the suit, he was entitled to them as of that date. We therefore see no error in permitting the jury to compute interest thereon down to the time of the verdict as a mode of arriving at a just compensation. The reason of this is fully sustained by Railroad Co. v. Gesner, 8 Harris 240; Penna. Railroad Co. v. Cooper, 8 P. F. Smith 408; and by D. L. and Western Railroad Co. v. Burson, 11 Id. 869.\nThe application for a jury to go upon and view the premises, was not made until the week on which the cause was set down for trial, and on the very day it was liable to be tried. It was actually tried on the next day. To have granted the application would therefore have delayed the trial of the cause. It w\u00e1s not made in time. The court therefore committed no error in refusing it on that ground alone.\nThe sixteenth assignment is to the admission of evidence showing the plaintiff in error had twice, after suit brought, changed the place where his pipe entered the stream. The object of this evidence is not shown by the record. If those acts were wrongful another action would lie for them. On the argument it was contended that they showed knowledge of the plaintiff in error, that his former act in diverting the water, was wrongful. We are unable to see that they lead, or ought to lead, to any such conclusion. They were calculated to confuse and mislead the jury, and ought not to have been admitted. It is true in Railroad Co. v. McElwee, 17 P. F. Smith 311, where the action was for negligence, it was held that an act done after the injury, might be shown to prove knowledge of the previous unsafe condition of the structure; yet the reason on which it was sustained is inapplicable to the present case. The assignment is therefore sustained.\nThe defendant in error having collected the judgment by execution, the plaintiff is entitled to an order of restitution : Duncan v. Fitzpatrick, 13 S. & R. 292; Breading v. Blocher, 5 Casey 347.\nTherefore, judgment reversed, restitution ordered, and a venire facias de novo awarded.",
+        "type": "majority",
+        "author": "Mr. Justice Mercur."
+      }
+    ],
+    "attorneys": [
+      "W. S. Woods and l\u00ed. B. Petriken, for plaintiff in error.",
+      "H. M. Spear, for defendant in error."
+    ],
+    "corrections": "",
+    "head_matter": "Bare versus Hoffman.\n1. The defendant, during the week of court in which a ease was fixed for trial, moved for a view. Held, that application was nothin time.\n2. In an action for damages for diverting water the jury might add interest from the date of the damage.\n3. The defendant and plaintiff were owners of tanneries on opposite sides of the same stream, the defendant being the lower; the plaintiff was owner of land on both sides of the stream below both tanneries. The plaintiff had a dam from which he conducted the water to his tannery; the defendant made a dam below into which the surplus water over plaintiff\u2019s dam flowed; from this dam the defendant, by a pipe conducted the water to his tannery, by which the plaintiff lost the use of the water required to carry the offal from his tannery. Held, that evidence of permanent injury to the market value of plaintiff\u2019s tannery was inadmissible.\n4. The injury was not of such a character as to assume that it would be permanent and to assess damages accordingly.\n5. As a general rule successive actions may be brought so long as the obstruction is continued.\n6. After the bringing of the suit, the defendant removed the pipe which conducted the water from his dam. Held, in an action for the diversion, evidence by the plaintiff of this removal was irrelevant.\nMay 20th 1875.\nBefore Agnew, C. J., Sharswood, Mercur, Gordon, Paxson and Woodward, JJ.\nError to the Court of Common Pleas of Huntingdon county: Of May Term 1875, No. 16.\nThis was an action on the case brought, June 16th 1870, by Jacob Hoffman against John Bare, for diverting the water of a water-course from the premises of the plaintiff.\nThe parties each owned a tannery at Mt. Union, Huntingdon county; they were situate on opposite sides of a stream called Pollock\u2019s run, and were about thirty-two yards distant from each other, both on the bank of the Pennsylvania canal, between that and the Pennsylvania railroad. The railroad and canal here were parallel, and ran east and west.\nPrior to 1860, the land for some distance south of the railroad to the Juniata river, which is north of the canal, belonged to Samuel Miller. The source of Pollock\u2019s run was south of the railroad; it ran through Miller\u2019s land, under the railroad and emptied into tbe canal.\nOn the 2d of April 1860, Miller conveyed the land now owned by the plaintiff, and lying on the west side of the run, to the defendant; the deed contained the grant of the following privilege\n\u201c Also, the right to convey the waste water by means of covered drains or pipes by the old channel across the said property of the said Samuel Miller, across to the Juniata river; also the right to convey the said water out of the said run by means of a pipe from a small dam, of say eighteen inches high, on the south side of the Pennsylvania railroad.\u201d\nThe defendant erected a large tannery on the land, and after-wards, having obtained the privilege from Miller, he placed. the dam \u2014 referred to in Miller\u2019s deed to him \u2014 higher up the run, from which he laid to the tannery the water-pipes authorized by the grant, and carried on the business of tanning until 1865. On the 7th of February 1865, Miller conveyed to defendant the land on the east side of the run. On the 2d of June 1865, the defendant \u2014 his deed of February not being then recorded \u2014 conveyed to the plaintiff the land purchased from Miller in 1860, the deed to plaintiff containing the privilege as granted by Miller. The plaintiff owned land on both sides of the run between the two tanneries, the defendant\u2019s being the lowest on the run, and at a point below his tannery where he owned on both sides he had a dam, from which he constructed a sewer to the Juniata for the purpose of washing away the tan and other refuse matter from his tannery into the river. Defendant afterwards commenced the erection of the tannery, owned by him at the time of the injury alleged, on the eastern side of the run; it was completed in 1869. In April 1870, he put a dam in the run a short distance below the plaintiff\u2019s dam \u2014 that before mentioned \u2014 and inserted into it a three-inch pipe to convey the water to his (defendant\u2019s) tannery, the result being that no water passing over the plaintiff\u2019s upper dam could pass into the natural current of the stream until after its use by the defendant through his three-inch pipe.\nThe plaintiff alleged as his ground of injury, that the defendant by means of this diversion so exhausted the water before it reached the natural stream on plaintiff\u2019s land, that it was insufficient for carrying away the tan, &c., and for other purposes to which he might apply it.\nAt the April Term 1873, the case was on the list for trial, when it was continued until next term, under a peremptory order that it should be tried on Tuesday of the second week of that term in August. On the 18th of August, being in the second week of that term, the defendant moved for a view. The court overruled the motion.\nOn the 19th of August 1873, the case was tried before Dean, P. J.\nThe facts above stated appeared on the trial. The plaintiff was examined as a witness. Amongst other things, it was proposed to show by him \u201cthat after the institution of the suit, the defendant removed his pipe up the stream and put it into plaintiff\u2019s dam, and continued to take the water out of the plaintiff\u2019s dam through his pipe to his tannery, until some months ago, when he changed the pipe back again to his own dam, or near it.\u201d\nThis was objected to by defendant, admitted by the court, and a bill of exceptions sealed.\nPlaintiff testified that after this suit was brought, defendant took his pipe out of his own dam and put it into plaintiff\u2019s dam, and afterwards took it out of plaintiff\u2019s dam and put into his own dam.\nIt was then proposed to ask: \u201c What was the value of your tannery before the diversion of the water by defendant, and what was its value at the institution of the suit as affected by that diversion?\u201d for the purpose of eliciting from witness the fact that the market value of his realty has been seriously depreciated by the alleged wrongful act of defendant.\nThis was objected to by defendant. 1st. Because the answer of defendant would be irrelevant. 2d. Because even if the alleged diversion of water by defendant be wrongful, any depreciation in value of plaintiff\u2019s realty consequent thereupon, necessarily must be of a temporary character, existing only so long as the alleged wrong exists, and, therefore, should not be submitted to the jury.\nThe question was admitted and a bill of exceptions sealed.\nPlaintiff testified that he asked $30,000 for his property before the diversion of the water, and that the damage done to the property in market value by the diversion was $6000.\nUnder objection and exception, there was other testimony of the same character admitted by the court.\nThe court, amongst other things, charged: * * * \u201cBut the plaintiff claims further, that in addition to the damage to the use and occupancy during these three months, the defendant by his wrongful act, caused a permanent damage to the freehold; that there was a permanent depreciation in the market value of the property. If the estate or freehold was permanently damaged b}r the defendant\u2019s wrongful act, the plaintiff is entitled to recover such damage, but the damage must have been actual, not imaginary; must have been permanent, not temporary. * * *\n\u201c Does the evidence show any lasting depreciation of the property, or only a diminished value during the wrongful diversion ? Will the value of the property be restored when the rights of the parties are determined and the wrong ceases ? For mere temporary depreciation, damages for permanent injury should not be allowed. A number of reputable witnesses testify, that in their judgment the market value of the property has been permanently depreciated to the amount of from three to six thousand dollars. You will scrutinize their testimony, and determine, in view of the evidence bearing on the question, if what they call a permanent injury, is in fact so. You are not bound by their opinions, but must, from the evidence, make up your own opinions. When they speak of it as a permanent wrong or injury, were they mistaken ? * * *\n\u201cIf you find that plaintiff\u2019s occupation of the premises was interrupted, and he thereby damaged, you will find in your verdict the amount of such damage; and if you find that the value of the property was permanently depreciated by the wrong of the defendant, the plaintiff would, in addition, be entitled to a verdict in that amount; these two items of damage would be the principal of your verdict. On that amount, if you think proper, you can allow interest from the date of the damage, in case you find for the plaintiff, but you are not bound to allow it. * * *\n\u201cIf the plaintiff sustained no appreciable damage, he would be entitled to a verdict for nominal damages in vindication of his right. * * * If between the middle of April and 16th of June, the production of his tannery was lessened, then he would be entitled to a verdict for the actual damage sustained by him in the use of his property; and if by the wrong of the defendant, the value of his real estate has been permanently diminished, he would be entitled to a verdict in an amount to the extent of the diminished market value, and the two added together would form the principal of your verdict, on which sum you may compute interest, if, in view of the facts, you think interest should be added. * * *\n\u201c If between the middle of April and 16th of June the production of his tannery was lessened then he would be entitled to a verdict for the actual damage sustained by him in the use of his property. * * * In assessing the actual damage sustained by plaintiff, if any, the jury should find for him the amount of the loss in his business, caused by the wrongful acts of defendant from the date of the diversion of the water until the commencement of the suit.\u201d * * *\nThe court, in answer to points of the parties, charged in substantially the same manner.\nThe verdict was for the plaintiff, for $4442.32.\nAfter argument of a rule for a new trial, the plaintiff remitted all of the verdict in excess of $1160, and the rule was discharged. Judgment having been entered on the verdict for that sum, the defendant removed the record to the Supreme Court by writ of error.\nA non-pros, of this writ of error was entered in the Supreme Court; the record having been returned to the' court below, an execution was issued on the judgment, the defendant\u2019s personal property levied on and the money made.\nThe defendant issued another writ of error.\nHe assigned for error:\n1. Overruling his motion for a jury of view.\n2-6. Admitting evidence to show the amount of permanent injury to the plaintiff\u2019s property.\n7-14. The instruction of the court in the general charge, and in answer to points of the parties on the subject of permanent injury to plaintiff\u2019s property.\n15. Instructing the jury that they might compute interest on the amount of damage found by them.\n16. Admitting evidence, that after the institution of this suit the defendant removed his pipe, &c.\nW. S. Woods and l\u00ed. B. Petriken, for plaintiff in error.\nA view is a matter of right: 2 Tidd\u2019s Practice 730-733 ; 5 Bacon\u2019s Abr. \u201cJury\u201d 372, and cases cited; Kerr on Actions at Law 275. The damages must be the proximate consequence of the wrong\u2014 not remote or possible: Seely v. Alden, 11 P. F. Smith 304; Pittsburg Coal Co. v. Foster, 9 Id. 369; Tillotson v. Smith, 32 N. H. 90; Mason\u2019s Appeal, 20 Id. 26; Smith\u2019s Appeal, 19 Id. 424; Rogers v. Bemus, 19 P. F. Smith 432; McKnight v. Ratcliff, 8 Wright 169; Sedgwick on Damages 71, 72, 73, note 1; Griffith v. Colver, 17 N. Y. 489 ; Olmstead v. Barker, 25 Ill. 86; Shaw v. Wallace, 1 Dutcher (N. J.) 453; Pollitt v. Long, 58 Barb. 20. Interest is not allowable on unliquidated damages or contested claims sounding in damages: Gilpin v. Consequa, 1 Pet. C. C. R. 85; Willing v. Consequa, Id. 179; Sedgwick on Damages 377; Bank v. Fremont Ins. Co., 4 Metc. 1.\nThe plaintiff in error moved the court on reversal of the judgment to order a restitution of the money made under the execution. They cited for the motion: Cassel v. Duncan, 2 S. & R. 57; Russell v. Gray, 6 Id. 145; Duncan v. Fitzpatrick, 13 Id. 292; Breading v. Blocher, 5 Casey 349.\nH. M. Spear, for defendant in error.\nA view is not a matter of right: Act of April 14th 1834, sect. 124, Pamph. L. 363; 1 Br. Purd. 837, pi. 76 ; it has to be obtained upon rule: Nesbit v. Kerr, 3 Yeates 194. Jurors of view cannot be peremptorily challenged: Schuylkill Nav. Co. v. Farr, 4 W. & S. 371; Schwenk v. Umsted, 6 S. & R. 351. Deprivation of the use of the water would have reduced the product from the tannery, and therefore would be an injury to the freehold: Ripka v. Sergeant, 7 W. & S. 14. For an encroachment under a claim of right, a reversioner may have his action, although the immediate injury is merely nominal: Schnable v. Koehler, 4 Casey 181; Williams v. Esling, 4 Barr 486; Delaware & Hudson Canal Co. v. Torrey, 9 Casey 143; Graver v. Sholl, 6 Wright 67 ; Pastorius v. Fisher, 1 Rawle 27; Sedgwick on Damages 147-8; Angell on Water-courses, sects. 135, 432; Harder v. Harder, 26 Barb. 409; Brown v. Bowen, 30 N. Y. 519, 38; Sumner v. Tileston, 7 Pick. 201; Starr v. Jackson, 11 Mass. 519; Baker v. Sanderson, 3 Pick. 352. The water-course was a permanent advantage to the inheritance, and the taking it away was an injui\u2019y to the owner: Hart v. Evans, 8 Barr 13.\nThe proprietor has a right to the reasonable use of the water running through his land, but cannot, by the mere act of opposition, diminish the quantity of water through his neighbor\u2019s land, to the prejudice of his estate in point of value, although enough was still left to the neighbor for the purposes for which he had actually used the water: Miller v. Miller, 9 Barr 76. If the nuisance be of a permanent nature, and injurious to the inheritance, both the tenant in possession and the reversioner are respectively entitled to recover damages commensurate with the injury: Angell on Water-courses 585; Washburn on Easements 662; Sedgwick on Damages 149-50; Jesser v. Gifford, 4 Burrows 2141; Young v. Spencer, 10 B. & C. 145; Tucker v. Newman, 11 Ad. & Ellis 40; 2 Selwyn\u2019s Nisi Prius 1129; Lienow v. Ritchie, 8 Pick. 235; Seely v. Alden, 11 P. F. Smith 302.\nIn actions of tort, the allowance of interest is within the discretion of the jury: Sedgwick on Damages 441; Walrath v. Redfield, 18 N. Y. Rep. 457; St. Michael\u2019s Church v. The County, Brightly\u2019s R. 121; Weikel v. Long, 5 P. F. Smith 238; Perit v. Wallis, 2 Dallas 255. On the 16th error they cited: Duncan v. Lawrence, 12 Harris 154; Railroad Co. v. McElwee, 17 P. F. Smith 311; Railroad Co. v. Henderson, 1 Id. 315."
+  },
+  "file_name": "0071-01",
+  "first_page_order": 71,
+  "last_page_order": 78
+}

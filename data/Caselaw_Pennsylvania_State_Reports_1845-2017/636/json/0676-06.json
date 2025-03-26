@@ -1,0 +1,108 @@
+{
+  "id": 12285311,
+  "name": "Com. v. Thomas",
+  "name_abbreviation": "Com. v. Thomas",
+  "decision_date": "2016-08-30",
+  "docket_number": "159 EAL (2016)",
+  "first_page": "676",
+  "last_page": "676",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 676"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "141 A.3d 585",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12485792,
+        12485793,
+        12485794,
+        12485795,
+        12485796,
+        12485797,
+        12485798,
+        12485799,
+        12485800,
+        12485801,
+        12485802,
+        12485803,
+        12485804,
+        12485805,
+        12485789,
+        12485790,
+        12485791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/141-2/0585-13",
+        "/a3d/141-2/0585-14",
+        "/a3d/141-2/0585-15",
+        "/a3d/141-2/0585-16",
+        "/a3d/141-2/0585-17",
+        "/a3d/141-2/0585-01",
+        "/a3d/141-2/0585-02",
+        "/a3d/141-2/0585-03",
+        "/a3d/141-2/0585-04",
+        "/a3d/141-2/0585-05",
+        "/a3d/141-2/0585-06",
+        "/a3d/141-2/0585-07",
+        "/a3d/141-2/0585-08",
+        "/a3d/141-2/0585-09",
+        "/a3d/141-2/0585-10",
+        "/a3d/141-2/0585-11",
+        "/a3d/141-2/0585-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.808,
+    "sha256": "00f39b3a14e23ec0b23460320ce4396c37c5626a00a2fb33cc467c8362e4925b",
+    "simhash": "1:d64ce07ce55a4b53",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Thomas"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 141 A.3d 585",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Thomas\n08/30/2016\n159 EAL (2016)"
+  },
+  "file_name": "0676-06",
+  "first_page_order": 728,
+  "last_page_order": 728
+}

@@ -1,0 +1,98 @@
+{
+  "id": 16687,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Francisco PEREZ, Respondent",
+  "name_abbreviation": "Commonwealth v. Perez",
+  "decision_date": "2003-12-02",
+  "docket_number": "Appeal, Nos. 864 & 865 MAL 2002",
+  "first_page": "615",
+  "last_page": "615",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "576 Pa. 615"
+    },
+    {
+      "type": "parallel",
+      "cite": "840 A.2d 989"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "828 A.2d 1066",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108041,
+        587954,
+        587973,
+        9108025
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/828/1066-02",
+        "/pa/574/0100-01",
+        "/pa/574/0099-01",
+        "/a2d/828/1066-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 100",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        587954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0100-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 363,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00034075345705483214
+    },
+    "sha256": "0a66b661b69b06bab149e5609669d100030a9bab5b5a0cf4a9718eb07a629095",
+    "simhash": "1:815fd736abd6351b",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T22:13:59.925097+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Francisco PEREZ, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of December, 2003, the Petitions for Allowance of Appeal are hereby GRANTED and the order of the Superior Court is REVERSED. See Commonwealth v. Bethea, 574 Pa. 100,-828 A.2d 1066 (Pa.2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "840 A.2d 989\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Francisco PEREZ, Respondent.\nSupreme Court of Pennsylvania.\nDec. 2, 2003."
+  },
+  "file_name": "0615-01",
+  "first_page_order": 677,
+  "last_page_order": 677
+}

@@ -1,0 +1,81 @@
+{
+  "id": 8845207,
+  "name": "Roseberry's Estate",
+  "name_abbreviation": "Roseberry's Estate",
+  "decision_date": "1935-01-07",
+  "docket_number": "Appeal, No. 77",
+  "first_page": "45",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "317 Pa. 45"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "316 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1159001
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 117,
+    "char_count": 985,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 1.1229256438395389e-07,
+      "percentile": 0.5739473614098737
+    },
+    "sha256": "8588de96557c983b8b420f5257e93f5d071b5baa580aa43b8dfe8de952fe9aef",
+    "simhash": "1:2b6ac9bc7b379f0d",
+    "word_count": 175
+  },
+  "last_updated": "2024-02-27T20:40:55.989141+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ."
+    ],
+    "parties": [
+      "Roseberry\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe sole question raised by this appeal is whether the Act of June 26, 1931, P. L. 1384, (amending section 9 of the Orphans\u2019 Court Act of 1917, P. L. 363) repeals the Act of 1828, P. L. 453, in so far as it relates to trusts inter vivos, and vests in the orphans\u2019 courts exclusive jurisdiction of the appointment of substituted trustees in such cases. If there was any doubt as to this matter, it has been resolved by onr decision in tbe case of Schwartz v. Schwartz, 316 Pa. 318, in which we adopted in toto the opinion of the lower court which expressly stated that the jurisdiction over trusts inter vivos conferred upon the orphans\u2019 courts by the Act of 1931, supra, is concurrent with that of the courts of common pleas.\nThe decree is affirmed at appellant\u2019s costs.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "John B. MeCfurl, for appellant.",
+      "Chas. E. Berger, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Roseberry\u2019s Estate.\nArgued November 26, 1934.\nJanuary 7, 1935:\nBefore Frazer, C. J., Simpson, Kephart, Schaffer, Maxey, Drew and Linn, JJ.\nJohn B. MeCfurl, for appellant.\nChas. E. Berger, for appellee."
+  },
+  "file_name": "0045-01",
+  "first_page_order": 75,
+  "last_page_order": 76
+}

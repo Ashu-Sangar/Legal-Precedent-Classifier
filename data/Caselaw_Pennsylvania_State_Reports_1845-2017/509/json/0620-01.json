@@ -1,0 +1,123 @@
+{
+  "id": 1795220,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. George BRITTON, Appellant",
+  "name_abbreviation": "Commonwealth v. Britton",
+  "decision_date": "1986-03-31",
+  "docket_number": "Appeal No. 17 Eastern Dist. Appeal Docket, 1985",
+  "first_page": "620",
+  "last_page": "621",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "509 Pa. 620"
+    },
+    {
+      "type": "parallel",
+      "cite": "506 A.2d 895"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "334 Pa.Super. 203",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        618575
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "222",
+          "parenthetical": "dissenting opinion of Spaeth, P.J."
+        },
+        {
+          "page": "1304",
+          "parenthetical": "dissenting opinion of Spaeth, P.J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/334/0203-01"
+      ]
+    },
+    {
+      "cite": "123 A. 486",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1924,
+      "opinion_index": 1
+    },
+    {
+      "cite": "278 Pa. 505",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1080524
+      ],
+      "year": 1924,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/278/0505-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 119,
+    "char_count": 1030,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 1.8811984951877692e-07,
+      "percentile": 0.7276949351101164
+    },
+    "sha256": "9be2cff98a0aa550adcf387fac5a805048582791fe2ebd7d7cfe1c33f9162b3e",
+    "simhash": "1:6797b2c8362c90f8",
+    "word_count": 155
+  },
+  "last_updated": "2024-02-27T18:13:32.590987+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NIX, C.J., and LARSEN, FLAHERTY, McDER-MOTT, HUTCHINSON, ZAPPALA and PAPADAKOS, JJ.",
+      "ZAPPALA, J., files a dissenting statement."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. George BRITTON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAppeal dismissed as having been improvidently granted.\nZAPPALA, J., files a dissenting statement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      },
+      {
+        "text": "ZAPPALA, Justice,\ndissenting.\nNot only would I reach the merits of this appeal, but I would reverse the Appellant\u2019s conviction and grant him a new trial. It is clear from the record that the trial judge exceeded his proper duty by his extensive interrogation of the Appellant. Commonwealth v. Myma, 278 Pa. 505, 123 A. 486 (1924). See Commonwealth v. Britton, 334 Pa.Super. 203, 222, 482 A.2d 1294, 1304 (1984) (dissenting opinion of Spaeth, P.J.).",
+        "type": "dissent",
+        "author": "ZAPPALA, Justice,"
+      }
+    ],
+    "attorneys": [
+      "John W. Packel, Chief/Appeals Div., Asst. Public Defender, Jules Epstein, Philadelphia, for appellant.",
+      "Robert B. Lawler, Chief/Appeals Div., Eric B. Henson, Jane Cutler Greenspan, Asst. Dist. Attys., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "506 A.2d 895\nCOMMONWEALTH of Pennsylvania, Appellee, v. George BRITTON, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 25, 1985.\nDecided March 31, 1986.\nJohn W. Packel, Chief/Appeals Div., Asst. Public Defender, Jules Epstein, Philadelphia, for appellant.\nRobert B. Lawler, Chief/Appeals Div., Eric B. Henson, Jane Cutler Greenspan, Asst. Dist. Attys., for appellee.\nBefore NIX, C.J., and LARSEN, FLAHERTY, McDER-MOTT, HUTCHINSON, ZAPPALA and PAPADAKOS, JJ."
+  },
+  "file_name": "0620-01",
+  "first_page_order": 688,
+  "last_page_order": 689
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12283084,
+  "name": "Com. v. Dean",
+  "name_abbreviation": "Com. v. Dean",
+  "decision_date": "2016-03-16",
+  "docket_number": "459 WAL (2015)",
+  "first_page": "739",
+  "last_page": "739",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "635 Pa. 739"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 A.3d 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.871,
+    "sha256": "ea3e9e6d782cfe981f3b5cb93ac5fba1b2695459afed513cd96ec29d064a66ad",
+    "simhash": "1:0b47641859b0c040",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:02:42.600316+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Dean"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 1054",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Dean\n03/16/2016\n459 WAL (2015)"
+  },
+  "file_name": "0739-09",
+  "first_page_order": 799,
+  "last_page_order": 799
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12281150,
+  "name": "Com. v. Wilson",
+  "name_abbreviation": "Com. v. Wilson",
+  "decision_date": "2015-08-17",
+  "docket_number": "117 EAL (2015)",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "123 A.3d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.918,
+    "sha256": "274dfadb765ce683ef5b0567f3335010dbc14c872f3f6188f0f91e306f5b9368",
+    "simhash": "1:22032833d5506140",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Wilson"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 382",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Wilson\n08/17/2015\n117 EAL (2015)"
+  },
+  "file_name": "0745-02",
+  "first_page_order": 799,
+  "last_page_order": 799
+}

@@ -1,0 +1,78 @@
+{
+  "id": 940140,
+  "name": "Morris v. Jennings, Appellant",
+  "name_abbreviation": "Morris v. Jennings",
+  "decision_date": "1905-05-01",
+  "docket_number": "Appeal, No. 262",
+  "first_page": "606",
+  "last_page": "606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "211 Pa. 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "211 Pa. 600",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        940139
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/211/0600-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 67,
+    "char_count": 538,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.033023546932659006
+    },
+    "sha256": "ca4399b1508e048f0ddd47a6bb20e891b135d3c5b7c632c3af4708d95ce64bea",
+    "simhash": "1:359565bd5bfa69f4",
+    "word_count": 93
+  },
+  "last_updated": "2024-02-27T17:05:19.074333+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Mitchell, C. J., Fell, Brown, Mestrezat and Elkin, JJ."
+    ],
+    "parties": [
+      "Morris v. Jennings, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Per Chriam,\nThis case was tried below and argued here with Jennings v. Morris, 211 Pa. 600, and the judgment is affirmed on the referee\u2019s report.",
+        "type": "majority",
+        "author": "Per Chriam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Morris v. Jennings, Appellant.\nArgued Jan. 25, 1905.\nAppeal, No. 262, Jan. T., 1904, by defendant, from order of C. P. No. 4, Phila. Co., Dec. T., 1900, No. 281, dismissing exceptions to referee\u2019s report in case of William McK. Morris and Edwin J. Morris, trading as Morris & Company v. Edmund P. Jennings.\nBefore Mitchell, C. J., Fell, Brown, Mestrezat and Elkin, JJ.\nAffirmed.\nMay 1, 1905:"
+  },
+  "file_name": "0606-01",
+  "first_page_order": 638,
+  "last_page_order": 638
+}

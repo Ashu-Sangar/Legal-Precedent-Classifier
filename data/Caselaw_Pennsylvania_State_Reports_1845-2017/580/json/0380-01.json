@@ -1,0 +1,144 @@
+{
+  "id": 1100742,
+  "name": "ESTATE OF James J. CASCARDO, Deceased. Petition of Anna Maria Cutillo, Joseph Cascardo, Jr. and Vincent Cascardo",
+  "name_abbreviation": "Estate of Cascardo",
+  "decision_date": "2004-11-10",
+  "docket_number": "Petition No. 90 EAL 2004",
+  "first_page": "380",
+  "last_page": "381",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "580 Pa. 380"
+    },
+    {
+      "type": "parallel",
+      "cite": "861 A.2d 884"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "615 A.2d 1298",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1835914,
+        1835909
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/532/0304-01",
+        "/pa/532/0303-01"
+      ]
+    },
+    {
+      "cite": "532 Pa. 304",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1835914
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/532/0304-01"
+      ]
+    },
+    {
+      "cite": "615 A.2d 1298",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1835914,
+        1835909
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1303",
+          "parenthetical": "finding waiver under Rule 521 where the Attorney General was not provided with notice of a facial challenge to a statute's constitutionality"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/532/0304-01",
+        "/pa/532/0303-01"
+      ]
+    },
+    {
+      "cite": "532 Pa. 304",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1835914
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/532/0304-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 177,
+    "char_count": 2106,
+    "ocr_confidence": 0.642,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.37654840108438753
+    },
+    "sha256": "de8d5bbbb85e341d0db14307d8f5012bb1725b4de1a2b1b7448f5c43d466be98",
+    "simhash": "1:53989a5e016986aa",
+    "word_count": 342
+  },
+  "last_updated": "2024-02-27T18:09:30.519212+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice SAYLOR files a Dissenting Statement."
+    ],
+    "parties": [
+      "ESTATE OF James J. CASCARDO, Deceased. Petition of Anna Maria Cutillo, Joseph Cascardo, Jr. and Vincent Cascardo."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of November, 2004, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is VACATED, and this case REMANDED. As petitioners\u2019 challenge was confined to the application of this statute, and not its facial constitutionality, the Attorney General did not need to be notified. See Kepple v. Fairman Drilling Co., 532 Pa. 304, 615 A.2d 1298 (1992). This case is therefore remanded for the Superior Court to review the merits of this issue. Jurisdiction relinquished.\nJustice SAYLOR files a Dissenting Statement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      },
+      {
+        "text": "Justice SAYLOR\ndissenting.\nIn Kepple v. Fairman Drilling Co., 532 Pa. 304, 615 A.2d 1298 (1992), the Court distinguished between facial and as-applied constitutional challenges for purposes of providing notification to the Attorney General pursuant to Pennsylvania Rule of Appellate Procedure 521(a), see Pa.R.A.P. 521(a), with notice being required only in former scenario. Here, the legislature has expressly provided that the 2002 amendments to 20 Pa.C.S.A. \u00a7 6205 are to apply to, inter alia, \u201cdisclaimers made before the effective date of this act to the extent the distribution thereunder is made after the effective date of this act or, if made prior to the effective date, such distribution was consistent with this act.\u201d Act of May 16, 2002, P.L. 330, No. 50, \u00a7 14(b)(3). Thus, I would view Petitioner\u2019s argument before the Superior Court, which sought to attack the retroactive application that is expressly prescribed by section 14(b)(3), as implicating a facial challenge to the amendments. As such, I agree with the Superior Court\u2019s conclusion that the claim has been waived for the failure to provide the Attorney General with the requisite notice. See Kepple, 532 Pa. at 313, 615 A.2d at 1303 (finding waiver under Rule 521 where the Attorney General was not provided with notice of a facial challenge to a statute\u2019s constitutionality).",
+        "type": "dissent",
+        "author": "Justice SAYLOR"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "861 A.2d 884\nESTATE OF James J. CASCARDO, Deceased. Petition of Anna Maria Cutillo, Joseph Cascardo, Jr. and Vincent Cascardo.\nSupreme Court of Pennsylvania.\nNov. 10, 2004."
+  },
+  "file_name": "0380-01",
+  "first_page_order": 508,
+  "last_page_order": 509
+}

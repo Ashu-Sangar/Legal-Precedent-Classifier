@@ -1,0 +1,80 @@
+{
+  "id": 12282365,
+  "name": "Tecce v. Hally",
+  "name_abbreviation": "Tecce v. Hally",
+  "decision_date": "2015-08-21",
+  "docket_number": "154 MAL (2015)",
+  "first_page": "757",
+  "last_page": "757",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 757"
+    },
+    {
+      "type": "parallel",
+      "cite": "125 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "106 A.3d 728",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6896857
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/106/0728-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 72,
+    "ocr_confidence": 0.879,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24909135629142856
+    },
+    "sha256": "43046a29128d3fbde17e64a3cb234111c4809c1e057427afc158bc3af19dd894",
+    "simhash": "1:1ac420c215751dfb",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tecce v. Hally"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super,, 106 A.3d 728",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tecce v. Hally\n08/21/2015\n154 MAL (2015)"
+  },
+  "file_name": "0757-08",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

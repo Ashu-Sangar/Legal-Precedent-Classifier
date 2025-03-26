@@ -1,0 +1,107 @@
+{
+  "id": 3596120,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Larry D. WALLS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Walls",
+  "decision_date": "2007-11-20",
+  "docket_number": "Appeal No. 104 WAL 2007",
+  "first_page": "19",
+  "last_page": "20",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "594 Pa. 19"
+    },
+    {
+      "type": "parallel",
+      "cite": "934 A.2d 696"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "912 A.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3851813,
+        8444223
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "821",
+          "parenthetical": "stating that, where crimes each have an element not included in the other, but the same narrow facts satisfy both of the different elements, the lesser crime merges into the greater-inclusive offense for sentencing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0356-01",
+        "/a2d/912/0815-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 356",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851813
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that, where crimes each have an element not included in the other, but the same narrow facts satisfy both of the different elements, the lesser crime merges into the greater-inclusive offense for sentencing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0356-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 108,
+    "char_count": 981,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.10246350269841988
+    },
+    "sha256": "a634fb9dd1e9a5c5bb42e719b2a2678457fb59a30bf9c30705ccb2680f889e09",
+    "simhash": "1:d08f3357d7a1acbd",
+    "word_count": 158
+  },
+  "last_updated": "2024-02-27T23:28:17.435854+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Larry D. WALLS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of November 2007, the Petition for Allowance of Appeal is GRANTED and the Superior Court\u2019s decision is VACATED and the matter is REMANDED for reconsideration in light of our decision in Commonwealth v. Jones, 590 Pa. 356, 912 A.2d 815, 821 (2006) (stating that, where crimes each have an element not included in the other, but the same narrow facts satisfy both of the different elements, the lesser crime merges into the greater-inclusive offense for sentencing). Further, the Motion for Leave to Supplement Petition for Allowance of Appeal is DENIED.\n. One should note that in December of 2002, the legislature enacted 42 Pa.C.S. \u00a7 9765, which defines when offenses merge for sentencing purposes. Because the offenses in this particular case predate the enactment of this provision, \u00a7 9765 does not apply.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "934 A.2d 696\nCOMMONWEALTH of Pennsylvania, Respondent, v. Larry D. WALLS, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 20, 2007."
+  },
+  "file_name": "0019-01",
+  "first_page_order": 93,
+  "last_page_order": 94
+}

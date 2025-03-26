@@ -1,0 +1,82 @@
+{
+  "id": 1174508,
+  "name": "Easby's Petition",
+  "name_abbreviation": "Easby's Petition",
+  "decision_date": "1937-06-25",
+  "docket_number": "Appeal, No. 203",
+  "first_page": "511",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "326 Pa. 511"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "124 Pa. Superior Ct. 578",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        994020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/124/0578-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 67,
+    "char_count": 511,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 1.3530294321044402e-07,
+      "percentile": 0.633928850678167
+    },
+    "sha256": "31ddeaca16a2c3e36eaf21c74c4a5a80715867c376f57219889ef4b8d6b9deae",
+    "simhash": "1:2ae36e4b853a7058",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T22:44:20.736778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephaet, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Easby\u2019s Petition."
+    ],
+    "opinions": [
+      {
+        "text": "Pee Curiam,\nThe decree is affirmed at appellants\u2019 cost on the opinion of Judge Baldrige reported at 124 Pa. Superior Ct. 578.",
+        "type": "majority",
+        "author": "Pee Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Albert J. Williams, County Solicitor, for amicus curiae.",
+      "Philip G. Pendleton and E. Wallace Chadwick, for appellants.",
+      "John J. Stetser, with him Charles J. Margiotti, Attorney General, and George W. Keitel, Assistant Deputy Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Easby\u2019s Petition.\nArgued April 23, 1937.\nBefore Kephaet, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nAlbert J. Williams, County Solicitor, for amicus curiae.\nPhilip G. Pendleton and E. Wallace Chadwick, for appellants.\nJohn J. Stetser, with him Charles J. Margiotti, Attorney General, and George W. Keitel, Assistant Deputy Attorney General, for appellee.\nJune 25, 1937:"
+  },
+  "file_name": "0511-01",
+  "first_page_order": 543,
+  "last_page_order": 544
+}

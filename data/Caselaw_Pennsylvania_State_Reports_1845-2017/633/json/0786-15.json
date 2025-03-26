@@ -1,0 +1,70 @@
+{
+  "id": 12286879,
+  "name": "Com. v. Schneider",
+  "name_abbreviation": "Com. v. Schneider",
+  "decision_date": "2015-12-01",
+  "docket_number": "341 MAL (2015)",
+  "first_page": "786",
+  "last_page": "786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 786"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "121 A.3d 1134",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 76,
+    "ocr_confidence": 0.815,
+    "sha256": "9c10b9e92aff2514eeac23795667670d7e92ab575435cf7ed2f33a9e953b2303",
+    "simhash": "1:3b14c8bbcc704d12",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Schneider"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 121 A.3d 1134",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Schneider\n12/01/2015\n341 MAL (2015)"
+  },
+  "file_name": "0786-15",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

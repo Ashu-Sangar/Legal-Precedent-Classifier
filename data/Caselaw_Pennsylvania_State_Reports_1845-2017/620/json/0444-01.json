@@ -1,0 +1,110 @@
+{
+  "id": 4327874,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. James R. MOORE, Respondent",
+  "name_abbreviation": "Commonwealth v. Moore",
+  "decision_date": "2013-06-07",
+  "docket_number": "No. 401 EAL 2012",
+  "first_page": "444",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "620 Pa. 444"
+    },
+    {
+      "type": "parallel",
+      "cite": "68 A.3d 327"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Pa. 98",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1805997
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0098-01"
+      ]
+    },
+    {
+      "cite": "883 A.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988483,
+        8908078
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0244-01",
+        "/a2d/883/0479-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 244",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988483
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0244-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1096,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.33989607116090553
+    },
+    "sha256": "4dc277508702549f848ffb8aebefaf000607d42d36253f30bfcb7239a518becc",
+    "simhash": "1:9caae7156ba2a7b9",
+    "word_count": 176
+  },
+  "last_updated": "2024-02-27T19:46:19.917761+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. James R. MOORE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of June, 2013, the Petition for Allowance of Appeal is GRANTED on the following issues, as stated by Petitioner:\na. Given that inconsistent verdicts are permitted and a jury\u2019s verdict may not be interpreted as a finding of specific facts, did the Superior Court err when, in a published decision, it vacated defendant\u2019s conviction of possessing an instrument of crime because he was acquitted of other charges?\nb. Does the Superior Court\u2019s published decision contravene this Court\u2019s precedent by extending Commonwealth v. Magliocco, 584 Pa. 244, 883 A.2d 479 (2005), beyond the specific statutory context in which that case was denied?\nc. Should this Court clarify or overrule its decision in Commonwealth v. Gonzalez, 515 Pa. 98, 527 A.2d 106 (1987), which has been interpreted in this and other cases as forbidding a conviction of possessing an instrument of crime when the defendant is acquitted of the non-weapons charges?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "68 A.3d 327\nCOMMONWEALTH of Pennsylvania, Petitioner v. James R. MOORE, Respondent.\nSupreme Court of Pennsylvania.\nJune 7, 2013."
+  },
+  "file_name": "0444-01",
+  "first_page_order": 500,
+  "last_page_order": 501
+}

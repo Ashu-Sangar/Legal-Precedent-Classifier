@@ -1,0 +1,923 @@
+{
+  "id": 1289090,
+  "name": "Rosenblatt v. Pennsylvania Turnpike Commission, Appellant",
+  "name_abbreviation": "Rosenblatt v. Pennsylvania Turnpike Commission",
+  "decision_date": "1959-12-31",
+  "docket_number": "Appeal, No. 52",
+  "first_page": "111",
+  "last_page": "161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "398 Pa. 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "70 A. 2d 847",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "364 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1223462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/364/0071-01"
+      ]
+    },
+    {
+      "cite": "38 Pa. Superior Ct. 145",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        878701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/38/0145-01"
+      ]
+    },
+    {
+      "cite": "93 Pa. Superior Ct. 555",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        678538
+      ],
+      "pin_cites": [
+        {
+          "page": "557-558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/93/0555-01"
+      ]
+    },
+    {
+      "cite": "95 A. 429",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "250 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1016970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/250/0257-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040372
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/78/0365-01"
+      ]
+    },
+    {
+      "cite": "16 A. 20",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Pa. 613",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/122/0613-01"
+      ]
+    },
+    {
+      "cite": "19 A. 47",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810298
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/131/0408-01"
+      ]
+    },
+    {
+      "cite": "169 Pa. 333",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        870645
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/169/0333-01"
+      ]
+    },
+    {
+      "cite": "99 A. 477",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "255 Pa. 133",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1027717
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/255/0133-01"
+      ]
+    },
+    {
+      "cite": "129 A. 845",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "283 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090504
+      ],
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/283/0588-01"
+      ]
+    },
+    {
+      "cite": "121 A. 2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "384 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1263107
+      ],
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/384/0326-01"
+      ]
+    },
+    {
+      "cite": "71 A. 2d 381",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 Pa. 190",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1225534
+      ],
+      "pin_cites": [
+        {
+          "page": "211, 212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/365/0190-01"
+      ]
+    },
+    {
+      "cite": "43 A. 140",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "191 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907003
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/191/0134-01"
+      ]
+    },
+    {
+      "cite": "30 A. 1023",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "166 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        864153
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/166/0057-01"
+      ]
+    },
+    {
+      "cite": "145 A. 600",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "295 Pa. 538",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1115137
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/295/0538-01"
+      ]
+    },
+    {
+      "cite": "167 A. 40",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "311 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1146298
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/311/0490-01"
+      ]
+    },
+    {
+      "cite": "112 A. 2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "381 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1258840
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/381/0046-01"
+      ]
+    },
+    {
+      "cite": "65 A. 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "216 Pa. 309",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        950345
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/216/0309-01"
+      ]
+    },
+    {
+      "cite": "141 Pa. 327",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        974938
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/141/0327-01"
+      ]
+    },
+    {
+      "cite": "124 Pa. 320",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        563080
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/124/0320-01"
+      ]
+    },
+    {
+      "cite": "82 A. 2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "opinion_index": 1
+    },
+    {
+      "cite": "368 Pa. 189",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1230390
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/368/0189-01"
+      ]
+    },
+    {
+      "cite": "143 A. 134",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "293 Pa. 483",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1111122
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/293/0483-01"
+      ]
+    },
+    {
+      "cite": "261 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1042185
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/261/0088-01"
+      ]
+    },
+    {
+      "cite": "146 A. 557",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "297 Pa. 140",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1118257
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/297/0140-01"
+      ]
+    },
+    {
+      "cite": "61 A. 815",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "212 Pa. 128",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941879
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/212/0128-01"
+      ]
+    },
+    {
+      "cite": "98 A. 620",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "253 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1024000
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/253/0434-01"
+      ]
+    },
+    {
+      "cite": "89 A. 2d 521",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "371 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1237063
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/371/0242-01"
+      ]
+    },
+    {
+      "cite": "70 A. 2d 847",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "opinion_index": 1
+    },
+    {
+      "cite": "364 Pa. 71",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1223462
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/364/0071-01"
+      ]
+    },
+    {
+      "cite": "93 Pa. Superior Ct. 555",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        678538
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/93/0555-01"
+      ]
+    },
+    {
+      "cite": "95 A. 429",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "250 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1016970
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/250/0257-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040372
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/78/0365-01"
+      ]
+    },
+    {
+      "cite": "16 A. 20",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "122 Pa. 613",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1948431
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/122/0613-01"
+      ]
+    },
+    {
+      "cite": "19 A. 47",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "131 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810298
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/131/0408-01"
+      ]
+    },
+    {
+      "cite": "121 A. 2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "384 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1263107
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/384/0326-01"
+      ]
+    },
+    {
+      "cite": "141 A. 2d 844",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "393 Pa. 341",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1279697
+      ],
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/393/0341-01"
+      ]
+    },
+    {
+      "cite": "19 Atl. 47",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "65 Atl. 669",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "32 A. 2d 910",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "347 Pa. 643",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1217380
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/347/0643-01"
+      ]
+    },
+    {
+      "cite": "40 A. 2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "351 Pa. 139",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        462771
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/351/0139-01"
+      ]
+    },
+    {
+      "cite": "45 A. 2d 222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "353 Pa. 357",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465999
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/353/0357-01"
+      ]
+    },
+    {
+      "cite": "381 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "107 A. 2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "378 Pa. 603",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1250907
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/378/0603-01"
+      ]
+    },
+    {
+      "cite": "87 Atl. 609",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "240 Pa. 198",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        993151
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/240/0198-01"
+      ]
+    },
+    {
+      "cite": "146 Atl. 557",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "110 A. 2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "380 Pa. 397",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1256065
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/380/0397-01"
+      ]
+    },
+    {
+      "cite": "112 A. 2d 135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "381 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1258840
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/381/0046-01"
+      ]
+    },
+    {
+      "cite": "216 Pa. 309",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        950345
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/216/0309-01"
+      ]
+    },
+    {
+      "cite": "297 Pa. 140",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1118257
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/297/0140-01"
+      ]
+    },
+    {
+      "cite": "131 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810298
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/131/0408-01"
+      ]
+    },
+    {
+      "cite": "129 A. 845",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "283 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1090504
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/283/0588-01"
+      ]
+    },
+    {
+      "cite": "121 A. 2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "384 Pa. 326",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1263107
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/384/0326-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2056,
+    "char_count": 89910,
+    "ocr_confidence": 0.444,
+    "pagerank": {
+      "raw": 2.1809726559882032e-07,
+      "percentile": 0.7723000452922159
+    },
+    "sha256": "a325970e8545413a4f7d93a31342c7f34e999c721ffda7dd72ef9a1fa94d58f7",
+    "simhash": "1:a63f078d5556f606",
+    "word_count": 14841
+  },
+  "last_updated": "2024-02-27T23:35:30.032264+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and McBbide, JJ."
+    ],
+    "parties": [
+      "Rosenblatt v. Pennsylvania Turnpike Commission, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Jones,\nThe Pennsylvania Turnpike Commission appeals from a conditional judgment in ejectment entered against it by the Court of Common Pleas of Dauphin County in favor of the plaintiffs for the land occupied and embraced by the highway approaches and ramps of the Fort Washington Interchange of the Turnpike\u2019s Delaware River Extension.\nThe plaintiffs\u2019 theory, which the court below adopted, is that the land in controversy was never validly condemned by the Turnpike Commission. The court did not, however, award the plaintiffs a writ of possession but attached to the judgment a proviso that the Turnpike Commission should have a period of time, following the adjudication, within which to condemn the property by another condemnation proceeding.\nIt is apparently the plaintiffs\u2019 thought that the damages due for the Commission\u2019s taking of the property in question would be determined in the further proceeding on the basis of the current market value of real estate in the locality rather than on the fair market value of the land at the time the Turnpike Commission entered upon it and appropriated it to its own exclusive and permanent use in March, 1953. The Commission\u2019s entry was made with the plaintiffs\u2019 full knowledge and without objection or question from them until the filing of their complaint in the instant action in December of 1957. The fact is that the plaintiffs do not want actual possession of the property. What they seek is a determination of the damages due them for the Turnpike Commission\u2019s additional appropriation of some 68 acres of their property in March of 1953 on the basis of present day real estate values. In other words, the issue is not whether the plaintiffs should have actual and immediate possession of the land in question but the date as of which the damages for the Commission\u2019s taking of the property are to be assessed. That is what is, and all there is, at stake in this controversy.\nBy deed of December 31, 1949, Israel Rosenblatt, one of the present plaintiffs and a straw party for Philip Seltzer, the real owner and other plaintiff, became the grantee of some 213 acres of land in Upper Dublin Township, Montgomery County. On March 4, 1952, the Pennsylvania Turnpike Commission, acting pursuant to the Act of May 23, 1951, P.L. 335, condemned by formal resolution a portion of the Rosenblatt property. The resolution specified a right of way across the plaintiffs\u2019 land, 100 feet on either side of a center line described by courses and distances, for \u201ca total width of 200 feet, together with such additional lands sufficient to provide for slopes of cuts and embankments . . The drawings attached as exhibits to the resolution showed the taking of a swath 200 feet wide across the Rosenblatt property for an aggregate area of 9.18 acres. The validity of the condemnation of these 9.18 acres has never been, nor is it now, questioned.\nThe condemnation resolution, in keeping with a further provision of the statute, foreshadowed the Commission\u2019s later appropriation of \u201csuch additional lands deemed necessary for ramp approaches, maintenance sheds, gasoline stations, restaurants, . . . and other facilities needed for the construction, operation and maintenance of the Turnpike ... as contemplated by the said Act of Assembly, and as shown by said drawings as well as drawings made therefrom or to be made therefrom\u201d; and \u201cto the extent necessary therefor the Pennsylvania Turnpike Commission [thereby] exercise [d] the power of condemnation vested in it by the provisions of the said Act of Assembly.\u201d The resolution of March 4, 1952, did not specify to what extent or whose lands would be additionally appropriated for the purposes last above specified.\nOn September 18, 1952, the Turnpike Commission by formal resolution approved and accepted the engineering report for the construction of the Delaware River Extension: See paragraph 8 of the Stipulation of Pacts (39a) to which a copy of the resolution is attached and made part thereof as Exhibit \u201cD\u201d (67a). A copy of the engineering report referred to in the resolution is also attached to the stipulated facts as Exhibit \u201cC\u201d (51a et seq.). A drawing, identified as Plate 9 (66%a) and attached to and made part of Exhibit \u201cC\u201d, depicted the location and lay-out of the Port Washington Interchange at the situs of the Rosenblatt property where the turnpike was to make an overhead intersection of transverse Highway Route 731 (future relocated U.S. Route 309). A later plan (Defendant\u2019s Exhibit No. 1) (144a), showing in minute detail the land necessary for the construction of the Port Washington Interchange on the Rosenblatt property was approved by the Turnpike Commission on January 9, 1953, as so attested on the face of the plan by the hand of James P. Torrance, Secretary and Treasurer of the Turnpike Commission. In passing, we note that it has been suggested that the plan (Defendant\u2019s Exhibit No. 1) was never formally adopted by the Commission since its approval thereof was signed only by its Secretary and Treasurer. While it is not of vital importance whether this plan was ever formally adopted by the Commission, as we shall hereinafter see, the suggestion that Torrance\u2019s attestation evidenced only his own approval and not the Commission\u2019s is without merit. \u201cIn the absence of proof to the contrary, the law presumes that a public official\u2019s actions were pursuant to proper authority and that the antecedent steps necessary to give validity to his official acts were duly taken:\u201d See McIntosh Road Materials Co. v. Woolworth, 365 Pa. 190, 211, 212, 71 A. 2d 381, and cases there cited.\nBy letter dated March 13, 1953, the Commission mailed to Seltzer a description of his property to the extent that it was being appropriated by the Commission for highway and interchange purposes. The letter requested Seltzer, as he himself avers (22a, 23a), to insert the new property description in the bond securing land damages, which the Commission had theretofore mailed to him on January 13th preceding, as security for the 9.18 acres taken for the highway. The new description embraced a tract of 76.8 acres, more or less, and included the 9.18 acres for the 200 foot wide right of way specified in the resolution of March 1, 1952. Upon the substitution of the new description in the bond, the Commission therewith became entitled to a right of entry upon the property as then described in the bond: see Section 10 of the Act of 1951, supra. Consequently, from March 13, 1953, onward, Seltzer has had the Commission\u2019s bond to indemnify him for the damages due for the Commission\u2019s appropriation of approximately 76.8 acres, more or less, of his land and, for the same period of time, the Commission has had the exclusive use and possession of the property.\nThe bond provided, inter alia, that the property description, therein set forth, was subject to revision upon a more accurate survey by the Commission; and, on March 22, 1954, the Commission mailed to Seltzer a revised final plan showing the property appropriated as being 78.641 acres in fee, .567 acres for channel change, .082 acres for Township Road Route 731, and 1.546 (later corrected to read 1.555), acres for the Philadelphia Electric Company\u2019s easement.\nThe contractor engaged by the Commission to perform the highway construction work entered upon Seltzer\u2019s land on March 2, 1953. The new property description not yet having been substituted in the bond, the contractor was ordered off the property (outside the 9.18 acres) by Seltzer\u2019s agents on March 10, 1953. On the same day, however, the Chief Counsel of the Right of Way Division of the Commission advised Seltzer\u2019s office by telephone that he (the Chief Counsel) had received the final plan of the total area to be taken and would mail the new description to Seltzer, which was done, as already related. Prom the time of the substitution of the new description in the bond on March 13, 1953, neither the Turnpike Commission\u2019s representatives, its contractor, nor the contractor\u2019s employees were ever again interfered with or interrupted in their entry upon, use, and complete appropriation of the described 78 acres, more or less, of Seltzer\u2019s land. Except for an acre and a half later added for a utility easement, for two years and eight months before Seltzer petitioned the Montgomery County court for the appointment of viewers, he knew the exact extent of his property which the Turnpike Commission had appropriated. Eor further confirmation of Seltzer\u2019s material knowledge in March, 1953, see Plaintiffs\u2019 Exhibit No. 2, 133a, at 134a.\nOn October 25, 1955, Rosenblatt, acting in his capacity as Seltzer\u2019s straw man or agent, assigned to the Girard Trust Corn Exchange Bank, as security for loans to be made, from time to time, to Delaware Valley Industrial Properties, Inc. (a Seltzer concern), all of Ms right, title and interest in and to the damages dne for the Turnpike Commission\u2019s taking of the Rosenblatt (Seltzer\u2019s) property. The assignment contained the following specific assurance by Rosenblatt, as the assignor of the damages: \u201cPennsylvania Turnpike Commission, by resolution passed on March 4, 1952, adopted the line of the Delaware River Extension of the Pennsylvania Turnpike and, by said Resolution, condemned and appropriated for the construction, operation and maintenance of such Extension of the Turnpike, certain lands of Assignor lying within such right-of-way, amounting to 76.8 acres, more or less, in fee, and .78 acres, more or less, for an easement, . .\nA few days after this assignment to the Bank by Rosenblatt, viz., on November 4, 1955, the plaintiffs petitioned the Court of Common Pleas of Montgomery County for the appointment of viewers to ascertain and assess the damages due them for the Commission\u2019s appropriation of the approximately 78 acres, more or less, of Seltzer\u2019s land. Seltzer\u2019s petition recognized and averred that \u201cSince the date of the forwarding of [its] Bond, the Pennsylvania Turnpike Commission has entered upon the premises owned by the Petitioner Seltzer and built an interchange for the Turnpike and otherwise exercised complete dominion and control over the said premises.\u201d The court appointed viewers, as prayed for, and fixed December 14, 1955, as the time for the view which, however, never took place.\nNothing more having happened in respect of Seltzer\u2019s claim for damages for the Turnpike Commission\u2019s appropriation of his property for more than two years, the plaintiffs on December 13, 1957, petitioned the Court of Common Pleas of Montgomery County for an amendment of their petition for the appointment of viewers restricting the duties of the viewers to ascertaining and assessing the damages for the Commission\u2019s appropriation of only the 9.18 acres if the court should hold in another action (about to be instituted by the plaintiffs in Dauphin County), that the remaining 68 acres, more or less, entered upon and appropriated by the Commission were never legally condemned. The court granted the prayer of this petition; and, on December 18, 1957, the plaintiffs instituted against the Pennsylvania Turnpike Commission in the Court of Common Pleas of Dauphin County the action of ejectment out of which this appeal arose.\nAfter a trial without a jury, the Dauphin County Court on July 28, 1958, entered a judgment in ejectment in favor of the plaintiffs, upon condition that an opportunity be afforded the Commission to validly condemn the property in question not later than January 1, 1959. It is from the entry of that judgment that the Commission took this appeal.\nThe plaintiffs\u2019 contention that the tract of 68 acres, more or less, of Seltzer\u2019s land (exclusive of the 9.18 acres), which the Turnpike Commission appropriated early in 1953, was never validly condemned, is based upon a statement in Gitlin v. Pennsylvania Turnpike Commission, 384 Pa. 326, 333, 121 A. 2d 79, where we said that \u201cAll that was condemned by the resolution of March 4, 1952, was the two hundred foot strip and such additional ground as was necessary for the natural slopes of the cuts and fills.\u201d The validity of the Commission\u2019s additional appropriation of a portion of the Gitlin property for the construction thereon of an interchange was neither raised nor passed upon in that case. The legal questions there involved were (1) whether the trial court had erred in admitting testimony as to land values in the community at the time of the Commission\u2019s appropriation of the land taken for the turnpike highway by the resolution of March 4, 1952, and at the time of the Commission\u2019s appropriation of additional property for an interchange, fourteen months later, by delivering to the Gitlins a revised plan of the total property taken, and (2) whether the Turnpike Commission was liable for damages for detention measured by a rate per cent.\nViewed in the context in which the above quotation from the Qitlin opinion was employed and in the light of the cognate question for decision, the word \u201ccondemned\u201d was used in its factual sense, meaning \u201cappropriated\u201d. It is implicit in our opinion in the G-itlin case that both the taking for the highway, as described in the resolution of March 4, 1952, and the subsequent appropriation of additional land for an interchange, according to the revised plan delivered to the property owner, came equally Avithin the intended scope of the resolution\u2019s condemnation. No further resolution of condemnation was either contemplated or required by the Act of 1951, so that, while the QitUn decision recognized that the resolution of March 4, 1952, appropriated definitively only the 200 foot right of way, Avith slopes for cuts and fills, it did not hold that the land subsequently appropriated by the Commission for necessary appurtenances or facilities according to revised plans did not also come Avithin the purview of the condemning resolution. On the contrary, both appropriations were considered and treated with together as having been condemned by the resolution of March 4, 1952. No one questions that the resolution of March 4, 1952, complied with the statute\u2019s requirement so far as the condemnation of the land for the 200 foot highway from the Valley Forge Interchange eastward to the Delaware River was concerned. Why, then, should not the Commission\u2019s later appropriation of additional property for the construction of necessary approaches and ramps to the highway (i.e., an interchange), as envisioned by the Act of 1951 and contemplated by the resolution of March 4, 1952, come within the effective scope of Uie condemnation? Such appurtenances correspond, in their relation to the highway, with the type of things which this court denominated in Foley v. Beech Creek Extension R. R. Co., 283 Pa. 588, 595, 129 A. 845, as \u201cengineering detail\u201d and not matters outside the condemnation.\nIn the Foley case, the plaintiff sought an injunction to restrain the taking of his land for a right of way by the defendant railroad company in an exercise of its power of eminent domain, under the General Railroad Act of February 19, 1849, P. L. 79. The Act authorized a railroad company to lay out by resolution a route for a right of way not to exceed 60 feet in ividth except in the neighborhood of deep cuttings or high embankments. The railroad company\u2019s resolution laying out the route did not specify any width for the proposed taking. The lower court dismissed the plaintiffs\u2019 bill and, on appeal to this court, it was said, inter alia (pp. 594-595), \u201cAs there was no ividth fixed when the resolution was adopted, the presumption would be the company intended to take the full width permitted by the act, that is, sixty feet for roadbed, with such additional ground as might be necessary for deep cuts, fills, etc., or stations, sidings and turnouts. The definitive discretionary act is the location on the ground of the line, and its adoption by corporate action. Establishing by metes and bounds the necessary width on the various tracts over which the road passes is contemplated by the act as an engineering detail. It is unnecessary, and manifestly so, that corporate action should precede this latter designation on the various properties to be taken.\u201d (Emphasis supplied).\nA mere glance at the maps, drawings and proceedings taken, as shown by the record in this case, will at once reveal that it was an utter impossibility for the Turnpike Commission, prior to a complete survey of the exact location and lay-out of each of the five interchanges along the entire route of the Delaware River Extension, to accurately put into the condemning resolution, the \u201cengineering detail\u201d necessary to show the metes and bounds of the additional land necessary for the construction of the interchanges. An interchange had to be so designed as \u201cto provide for the safe and expeditious movement of traffic through the facility with due consideration being given to topography, permissible gradients, and curvature.\u201d Stipulation of Facts, Exhibit \u201cC\u201d (56a). In Williams v. Delaware, Lackawanna and Western Railroad Co., 255 Pa. 133, 99 A. 477, where the plaintiff insisted \u201cthat the resolution of the board of managers [of the defendant Railroad Company] in locating the new line was defective in that it failed to designate the exact width and area of lands to be appropriated at all points along the line,\u201d (Emphasis supplied), this court said, p. 143, \u201cWhile the proper time to designate the width is when the appropriation is made, failure to do so should not prevent the exercise of the right afterwards within a reasonable time: Jones v. Erie & Wyoming Val. R. R. Co., 169 Pa. 333. It may be impracticable to attempt to exactly define the limits of the land required from a preliminary survey.\u201d\nThe Turnpike Commission\u2019s resolution of March 4, 1952, effected a comprehensive condemnation of everything that was necessary for the construction, maintenance and efficient operation of the Delaware River Extension, although the resolution did not definitively appropriate any more property than the 200 foot right of way with slopes for cuts and fills for the highway. But the resolution did expressly spell out that, by virtue of the power of eminent domain which the resolution then avowedly exercised for the purpose, the Commission would, in the future, appropriate such additional lands along the Turnpike right of way as would be necessary for the construction of interchange approaches and ramps, maintenance buildings, gasoline stations, restaurants, etc. The metes and bounds of the additional appropriations were necessarily to be determined by property descriptions to be furnished the landowners by the Commission according to plans or revisions thereof to be made. Neither the Act nor the resolution of March 4, 1952, which incorporated in its provisions the Act\u2019s exact language, in relevant connection, contemplated that another condemnation resolution should be adopted each time the Commission found it necessary to appropriate an additional piece of property, along the defined right of way, for the construction of an essential appurtenance or facility. It will be recalled that, in the Foley case, supra, after stating that \u201cEstablishing by metes and bounds the necessary width on the various tracts over which the road passes is contemplated by the act as an engineering detail\u201d, this court then pointedly said, \u201cIt is unnecessary and manifestly so, that corporate action should precede this latter designation on the various properties to be taken.\u201d\nThe taking of additional property would date from the time the Commission\u2019s right of entry accrued, which, by operation of laAv, Avould be when the Commission delivered to the landowner its bond to secure payment of the damages due for the additional appropriation. Nor does this conflict with the provision in the Act that the date of the resolution shall be the date of the condemnation. The date of the condemnation remains constant but the dat\u00e9 for reckoning the damages for subsequent appropriations (not specifically described but within the purview of the resolution) is necessarily the date of the Commonwealth\u2019s right of entry thereupon, if the statutory provision is to be given a reasonable and constitutional interpretation. To antedate to the date of the resolution of March 4, 1952, subsequent appropriations of additional property Avithin the contemplation of the Act and the resolution, might possibly work a deprivation of a landowner\u2019s property rights without due process of law, \u2014 a thing which the legislature is to he presumed at not having intended. Section 52(3) of the Statutory Construction Act of 1937, 46 PS \u00a7552(3). The entire damages (i.e., for both the right of way and additional land) are assessable as of two different dates, viz., the date of the resolution\u2019s express appropriation of the 200 foot right of way and the date of the Commission\u2019s appropriation of the additional property through its permissible entry thereupon: see Gitlin v. Pennsylvania, Turnpike Commission, supra. The time for any landowner to object to such additional appropriations is when the Turnpike Commission tenders to him its indemnifying bond or when a new property description is delivered to him for substitution in the bond. See Foley v. Beech Creek Extension R. R. Co., supra. There was never any such objection by Seltzer in the instant case but, actually, quite the opposite.\nAssuming, however, for the purposes of this appeal, that the Turnpike Commission\u2019s condemnation of the plaintiffs\u2019 68 acres, more or less, for the construction of the Fort Washington Interchange was defective in some particular, nevertheless, the circumstances attending the Commission\u2019s appropriation, and exclusive possession thenceforth, of the property in question, legally bound the plaintiffs to the taking as having been validly effected.\nIt has long been established in this State that whenever a corporate body, which is clothed with the power of eminent domain, enters upon and appropriates for its own uses private property of another and the condemnation, pursuant to which the corporation purported to be acting is defective in some way because of the failure of the condemnor to conform strictly to the procedure prescribed by the statute for a valid condemnation, the landowner upon receiving notice of the taking may elect to do one of two things, viz.,\n(1) He may sue in ejectment. If, however, the entry and appropriation were made with his knowledge and without objection (indisputably the situation in the present instance), then the action is equitable in nature and, if the possessor of the property has made improvements upon the land to such extent as to make it inequitable to evict him, a judgment of conditional ejectment may be entered granting the possessor a reasonable opportunity to validly condemn the land. Oliver v. Pittsburgh V. & G. Railway Co., 131 Pa. 408, 19 A. 47; Wheeling P. & B. R. Co. v. Warrell, 122 Pa. 613, 16 A. 20. In such instance (and this is particularly important here) the damages for the property appropriated will be assessed as of the date of the possessor\u2019s original entry. Oliver v. Pittsburgh V. & C. Railway Co., supra.\nOr, (2) he may, despite the defective condemnation, treat the appropriation as valid and petition the court for the appointment of viewers to ascertain and assess the damages due him for the value of the property taken. Lawrence Appeal, 78 Pa. 365; Philadelphia Parkway, 250 Pa. 257, 95 A. 429; Barron\u2019s Use v. United Railway Company, 93 Pa. Superior Ct. 555, 557-558. Cf. also Gitlin v. Pennsylvania Turnpike Commission, supra.\nAs a proceeding in ejectment, when the complaining landowner has had knowledge of a putative condemnor\u2019s invasion of his property, is equitable in nature, the doctrine of laches, whereof the present plaintiffs were guilty, becomes pertinent and may constitute a bar to an ejectment action. That they knew that the Commission had appropriated 68 acres, more or less, of their property for the Fort Washington Interchange, before the Commission had done any work whatsoever on the property, stands out in the record and cannot be denied. Seltzer\u2019s own averments indisputably so confirm. From the time the Commission delivered to Seltzer on March 13, 1953, the new description of the property being appropriated for the Fort Washington Interchange and the Commission\u2019s contemporaneous entry thereon, Seltzer stood by without complaint or protest while the Commission made large and expensive permanent improvements on the property with the result that, by the time Seltzer petitioned for the appointment of viewers on November 4, 1955, the construction of the interchange had been entirely completed to Seltzer\u2019s positive knowledge, (see Exhibit \u201cD\u201d at p. 32a) and without complaint or protest from him. His conduct had never indicated other than that he would proceed for the assessment of his damages by a board of view. Indeed, at the time he did so proceed, he was otherwise bound to do so. Just ten days before he petitioned for the appointment of viewers, Seltzer, acting by Rosenblatt, had established a line of credit at the Girard Trust Corn Exchange Bank with an assignment to the bank of his prospective damages from the condemnation as security. To permit him to change his position with respect to the condemnation, to the injury of the Turnpike Commission, would be highly inequitable. A clearer case for the application of the doctrine of laches is not often met with.\nFor more than two years after the Montgomery County Court, \u25a0 on the plaintiffs\u2019 petition, appointed viewers to assess the damages due them for the Turnpike Commission\u2019s appropriation of 78 acres, more or less, of Seltzer\u2019s land, the petitioners did nothing further in the matter until December 13, 1957, when they petitioned the court for leave to amend their original petition for viewers by adding paragraph 10 thereto. The court allowed the amendment, the effect of which would be to restrict the inquiry of the viewers to the 9.18 acres of Seltzer\u2019s property, taken for the Turnpike right of way, if, in a proceeding about to be instituted in Dauphin County, that court should hold that the 68 acres, more or less, taken for the Fort Washington Interchange, were never validly condemned. The amendment was clearly without legal justification under the indisputable circumstances of this case. Once a landowner elects to treat an allegedly defective condemnation as valid and acquiesces in a proceeding instituted by the putative condemnor to have his damages assessed by a board of view, he cannot thereafter repudiate the proceeding and sue in ejectment: Hay v. Valley Pike Company, 38 Pa. Superior Ct. 145. Compare Philadelphia Appeal, 364 Pa. 71, 70 A. 2d 847, where we held that the City of Philadelphia, after passing an ordinance condemning certain land, could not abandon the condemnation without the consent of the affected landowners who were entitled to a viewers\u2019 award of damages.\nThe Say case is so analogous to the instant case in principle that a recital of its facts is warranted. There, the defendant turnpike company, which possessed the power of eminent domain, entered upon and took possession of land belonging to the plaintiffs without filing a bond required by the statute as a prerequisite to a valid condemnation. The plaintiffs were minors represented by a guardian. The defendant company petitioned the court for the appointment of viewers, which was done. The viewers made an award of damages in favor of the plaintiffs. The turnpike company appealed the award to the court of common pleas where an issue was framed and a jury trial ordered in accordance with a written stipulation of all parties. That was in 1893. Nothing further was done with the Company\u2019s appeal from the viewers\u2019 award until 1906. In the year preceding (1905) the plaintiffs, who had attained their majority, brought an action of ejectment against the turnpike company to recover possession of the appropriated property on the ground that the statutory procedure prerequisite to a valid taking had not been complied with. The case went to trial and the jury returned a verdict for the plaintiff. However, the trial judge, citing and following Oliver v. Railway Company, 131 Pa. 408, 19 A. 47, conditioned the jury\u2019s verdict by providing in the judgment for plaintiffs that the turnpike company should have four months within Avhich to institute another condemnation of the appropriated land. Instead of instituting such a proceeding, however, the turnpike company revived its appeal of 1893 from the viewers\u2019 award. The plaintiffs thereupon issued a writ of habere facias upon the judgment in ejectment in order to obtain possession of the property in controversy. The trial court granted the turnpike company a stay of execution of the writ of habere facias until a trial of the defendant\u2019s appeal from the viewers\u2019 award could be had. The plaintiffs appealed the stay order to the Superior Court. After noting that the plaintiffs (following attainment of their majority) had never attempted to obtain a trial of the company\u2019s appeal from the viewers\u2019 award or made any timely move to repudiate the proceeding (p. 147), the Superior Court held that the stay was proper and, in concluding, said that if the turnpike company \u201cproceeds in good faith, under order of the court, to have the plaintiffs\u2019 damages secured or paid, then their right of possession will surely have passed . . The election to proceed by board of view for the assessment of the damages due them is all the stronger in the instant case since it Avas Seltzer and his co-plaintiffs who petitioned for the appointment of viewers and not the condemning agency as in the Hay case, supra.\nIn an effort to obviate the binding effect of the legal status which his oavu voluntary conduct created for him, Seltzer points to an assertion of the Chief Counsel of the Right of Way Division of the Commission, in his letter of March 25, 1953 (Plaintiffs\u2019 Exhibit No. 2, 134a), addressed to Seltzer\u2019s counsel, that the 68 acres had been condemned in strict accordance with the Act of Assembly and the ruling of this court. Why not? No one had ever questioned otherwise, at least not in this court, until the instant case, which the plaintiffs belatedly instituted in the court below four and a half years after the Commission\u2019s entry upon the land was known to Seltzer, as the letter also confirms. According to the Chief Construction Engineer of the Commission, as reported in the same letter (Plaintiffs\u2019 Exhibit No. 2, supra), K 'Mr. Seltzer [sometime prior to March 25, 1953] was in the Board Room of the Commission at Harrisburg, when all the plans were laid down and a very thorough and complete discussion was carried on, showing him exactly what was being taken and what was being done.\u2019 \u201d The record before us does not present a case of a vi et armis invasion by the Commission of the private property of an uninformed individual, but, rather a consensual land appropriation by the Commission in an exercise of its power of eminent domain and a voluntary acquiescence therein by a well-informed and competent landowner. According to his own averment in his petition for viewers, Seltzer was \u201ca licensed real estate agent and developer of industrial and residential properties . . .\u201d.\nAs we endeavored to make plain at the outset, the question here involved is not concerned with any right of the plaintiffs to the actual and immediate possession of the Seltzer property taken by the Commission for the construction of the Port Washington Interchange and the sole issue is as to the date whereof the damages for the Commission\u2019s appropriation of Seltzer\u2019s 68 acres should be assessed. Under the circumstances, here obtaining, it is relatively of no moment whether the 68 acres were ever validly condemned or, indeed, condemned at all. See Philadelphia Parkway, supra. The thing of importance is that the possessor of the right of eminent domain entered upon and appropriated the land to its own use with the owner\u2019s knowledge and without objection from him and that the prospective damages due the owner for the taking were at all times secured to him by adequate bond. That such a situation constitutes, under the law of this State, a binding and unimpeachable exercise of the appropriator\u2019s power of eminent domain, there cannot be the slightest doubt. The plaintiffs were without standing to maintain an action in ejectment and should have been relegated to their viewers\u2019 proceeding in Montgomery County for the assessment of the damages due them. But, even if the plaintiffs were entitled to a conditional ejectment, the damages would still be assessable, upon the ensuing condemnation, as of the date of the Commission\u2019s entry upon the property. Oliver v. Railway Company, supra. And, the place for the ascertainment of such damages is in the plaintiffs\u2019 viewers proceeding which is still extant in the Court of Common Pleas of Montgomery County and which will again, upon entry of our order of reversal herein, embrace the 68 acres, more or less, appropriated by the Commission for the Fort Washington Interchange as well as the 9.18 acres appropriated for right of way. See amendment of the Plaintiff\u2019s Petition for Viewers, 36a.\nThrough the viewers\u2019 proceeding, the plaintiffs can and will receive the just compensation to which they are entitled for the Commission\u2019s appropriations of Seltzer\u2019s property for both right of way and interchange purposes.\nJudgment reversed and complaint dismissed at the plaintiffs\u2019 costs.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Jones,"
+      },
+      {
+        "text": "Concurring and Dissenting Opinion by\nMr. Justice Bell :\nI agree with the result reached by the majority but regret I can only arrive there by a different route. This proceeding is an unusual one. Plaintiffs brought an action in ejectment to eject the Pennsylvania Turnpike Commission from approximately 70 acres of their land on which the Commission had already built an interchange (allegedly) without any legal condemnation. Plaintiffs asked a conditional relief \u2014 a conditional judgment in ejectment against the Commission, with the allowance to it of reasonable time to exercise its power of eminent domain. The lower Court, after hearing oral testimony and considering a stipulation of facts, entered a Decree giving judgment in ejectment in favor of plaintiffs and against the Commission, conditioned, however, on allowing the Commission an opportunity to legally condemn plaintiffs\u2019 tract of 67.62 acres and an additional tract of 1.555 acres of land, condemnation proceedings to be instituted by the Commission not later than January 1, 1959. From this Judgment and Decree the Commission appealed.\nThe decision in this case is especially important because it will affect the rights of property owners along the present and any future extension of the Pennsylvania Turnpike and, incidentally, the rights of holders of $65,000,000 of Turnpike bonds, and issues of future revenue bonds.\nI shall summarize the most important facts.\nOn March 1\u00a1, 1952, the Pennsylvania Turnpike Commission passed a Resolution, pursuant to the Act of May 23, 1951, which approved and condemned Route A \u201c. . . beginning at a point on the present Pennsylvania Turnpike system near King of Prussia in Montgomery County [it then describes the route by compass directions and distances] . . . the right of way for the construction, operation and maintenance of the Delaware River extension as hereinabove located, is hereby fixed ad 100 feet on each side of the center line as shown on the official drawings . . . being Route A, or a total width of 200 feet, together with such additional lands sufficient to provide for slopes of cuts and embankments . . . and together with such additional lands deemed necessary for ramp approaches . . . gasoline stations, restaurants . . . and other facilities needed for the construction, operation and maintenance of the Turnpike . . . .\u201d This plan for Route A was approved by the Governor and by the Department of Highways in accordance with the provisions of the Act of May 23, 1951.\nNearly a year later, viz., on January 13, 1953, the Commission delivered and plaintiff accepted its bond dated December 15, 1952, to secure the property owner (plaintiffs) against damages resulting from the taking by the Commission of the plaintiffs\u2019 following described property: \u201cComprising all land of the said Obligee on either side of and lying within 100 feet of either side of the following described section of the Center Line of the Pennsylvania Turnpike in Upper Dublin Township, Montgomery County, beginning at [there then follows a description of the land] .... Containing 9.18 acres. . . .\u201d\nSometime in March 1953 the Commission\u2019s counsel mailed to plaintiffs a new description for insertion in its bond; the new description covered a total of 76.8 acres, which included the original 9.18 acres taken. There was also subsequently sent to plaintiffs by counsel for the Commission construction drawings dated January 14, 1954, which covered not only 76.8 acres of plaintiffs\u2019 land, but an additional 0.78 acres of plaintiffs\u2019 land which the Commission intended to take as a perpetual easement. In late March 1951\u00a1. defendant mailed to plaintiffs a so-called revised plan dated March 10, 1951\u00a1, which covered and purported to take a total of 80.846 acres of plaintiffs\u2019 property.\nThe Commission never passed any Resolution to condemn or take these 68 additional acres, or the additional .78 acres or the additional (nearly) 2 acres of plaintiffs\u2019 property, or to change the terms of its bond to include these additional 68 or 69 or 70 acres. It is agreed by all parties that these additional acres were not \u201ccuts or embankments,\u201d or other land specifically included in the original 9.18 acres.\nThe Commission actually and physically entered into possession of these (approximately) 68 acres of plaintiffs\u2019 property in April 1953, with intent to use them for Turnpike purposes, and upon 1.555 acres of plaintiffs\u2019 property in March or April, 1954-\nThe majority opinion holds (1) that the Commission\u2019s resolution of March 4, 1052 constituted a taking of 80 acres of plaintiffs\u2019 land which is directly contrary to this Court\u2019s recent decision in Cfitlin v. Pennsylvania Turnpike Commission, 384 Pa. 326, 121 A. 2d 79, and (2) that damages for taking 9.18 acres must be assessed as of March 4, 1952 and for 68 acres as of March 1958, in spite of the clear and express language of the 1951 Act that \u201cthe date of such resolution shall be the effective date of such condemnation.\u201d\nWe shall start with the Constitution \u2014 strange to say, the legislature, attorneys and Courts in most of the cases in this field have been so engrossed with the interpretation of the pertinent statute that they have completely overlooked or ignored the Constitution, which of course is paramount. Article I, \u00a710 of the Constitution of Pennsylvania provides: \u201c. . . nor shall private property be taken or applied to public use without authority of law and without just compensation being first made and secured.\u201d I believe the language and intent of the Constitution is clear \u2014 -private property cannot, constitutionally, be taken for public use without a bond or other security being first given.\nThe taking of private property by Government or by a Municipality or by a corporation or a commission or other body which is vested with a power of eminent domain, is a drastic appropriation and confiscation of a person\u2019s property and can be justified only if, and to the extent authorized (1) (a) by the Constitution and (b) by a valid Statute or Ordinance, or (2) by an unequivocal and illegal Act of taking under color of eminent domain. Furthermore, if the first (and usual) method of taking is adopted or relied upon, the Constitution and the appropriate provisions, terms and conditions of the pertinent Statute which authorized the taking must be strictly construed and pursued since the power of eminent domain is in derogation of basic rights of private property which were anciently recognized by the Common Law and in this Country by our Constitutions: Winger v. Aires, 371 Pa. 242, 89 A. 2d 521; Philadelphia\u2019s Petition, 253 Pa. 434, 98 A. 620; Lazarus v. Morris, 212 Pa. 128, 61 A. 815; Valmont Developing Co. v. Rosser, 297 Pa. 140, 146 A. 557; 29 C.J.S. 1140, 1141, \u00a7215, 1154, \u00a7223(a) ; Statutory Construction Act of May 28, 1937, P. L. 1019, \u00a758, 46 P.S. \u00a7558. Cf. Cochran Coal Co. v. Municipal Management Co., 380 Pa., supra.\nThe importance of limiting this extraordinary power of appropriation and confiscation of private property by eminent domain was recognized by the people of this Country in the Fifth Amendment to the Constitution of the United States and by the people of Pennsylvania in Article I, \u00a710 and Article XVI, \u00a78 of the Constitution of Pennsylvania, and in many recent decisions of this Court.\nThe Legislature provided in \u00a78(a) of the Act of May 23, 1951, P. L. 335: \u201cThe commission is hereby authorized and empowered to condemn, by resolution [not, as the Commission contends, by the frequently changing plans of some engineer, or the action of some subordinate Commission official, or a letter from its counsel, or even action or approval by a single member of the Commission, but only by Resolution of the Commission itself], any lands . . . deemed necessary . . . for the construction and efficient operation of the turnpike or necessary in the restoration or relocation of public or private property damaged or destroyed and the date of such resolution shall be the effective date of condemnation.\u201d Moreover, Section 10 of said Act provides: \u201cWhenever the commission has [validly] condemned any lands ... as hereinbefore provided, and has tendered a bond or other security to secure the owner or owners for damages . . . the commission shall have the right to immediate possession of the property covered by the bond and may enter thereon in the name of the commission.\u201d\nWhen a Statute or Ordinance is reasonably capable of two constructions, one of which will sustain its constitutionality and the other will invalidate it, we should adopt the construction which will make it valid. Considering and construing the Act of 1951 in conjunction with the paramount provisions of the Constitution, it seems to me to be clear that the Legislature authorized the Turnpike Commission to condemn and take necessary lands for turnpike uses only (1) after the Turnpike Commission had condemned by valid resolution the particular lands which it considered necessary for turnpike uses and (2) had tendered a bond or other security to secure the owner for damages to this property in accordance with the provisions of the Constitution. Both of these are essential prerequisites to a taking which will be valid constitutionally and statutorily. It follows that the 1951 Act must be construed to contemplate and require a resolution of the Commission and the subsequent entry of a bond within a reasonable time thereafter for the particular lands which it takes, for turnpike purposes, and the effective date of the taking must be the date of such resolution and the entry of a bond within a reasonable time thereafter\u2014 in this case March or April 1953 for the 68 odd acres here involved.\nPlaintiffs contend that there never was any valid taking by the Commission of these 68 acres and that this case is ruled in their favor by Gitlin v. Pennsylvania Turnpike Commission, 384 Pa., supra. The Commission seeks to distinguish it; the majority opinion in my judgment overrules Gitlin and certainly repudiates the grounds on which the Gitlin opinion was based. It is therefore important to analyze the Gitlin case, as well as prior and subsequent decisions of this Court. The Gitlin case arose under a Resolution of the Pennsylvania Turnpike Commission, which in all material respects was identical with the Commission\u2019s March 1\u00a1., 1952 Resolution in the instant case and on its facts was in all material aspects exactly the same as the instant case. In order to make clear what was decided in that case we shall quote at length from the Court\u2019s opinion (per Chief Justice Jones) :\n\u201cOn March 1\u00a1, 1952, the Pennsylvania Turnpike Commission formally adopted a resolution, pursuant to authority conferred on it by the Act of May 23, 1951, P. L. 335, locating its Delaware River Extension and condemning the private property necessary therefor, according to attached plan approved by the Governor and the Department of Highways. The resolution established the center line of the proposed extension by compass directions and distances and fixed the width of the right of way at one hundred feet on each side of the center line for a total width of two hundred feet together with such additional lands as were necessary for the slopes of cuts and fills and such further lands as were deemed necessary by the Commission Tor ramp approaches, maintenance sheds, gasoline stations, restaurants, power facilities, waste banks, borrow pits and other facilities including tunnels . . .\n\u201c. . . Some fourteen months later, the Commission, deeming it essential that an interchange at Route 611 be constructed, appropriated additional property of the plaintiffs to the extent of 7.14 acres in all. This increased appropriation, which included the two houses, was accomplished by means of a revised plan formally adopted by the Commission on May 8, 1953. . . .\n\u201cThe Commission contends that the condemnation took place in its entirety with the passage of the resolution of March 4, 1952, whereas the plaintiffs maintain that the two hundred foot strip was all of their property that was condemned by the resolution and that the balance of the appropriation did not occur until the Commission formally adopted the revised condemnation plan on May 8, 1953 [which all parties agreed specifically and validly included these 7.14 acres of plaintiffs\u2019 property unless they were included in the Commission\u2019s original resolution of March 4, 1952]\n\u201cAll that was condemned by the resolution of March 1\u00a1, 1952, toas the two hundred foot strip and such additional ground as was necessary for the natural slopes of the cuts and fills.1* The property outside those bounds, which the Commission later deemed necessary for the construction of the interchange, was not appropriated until May 8, 1953,when the Commission formally adopted the revised plan showing the further taking. [All parties agreed and the appeal was presented to this Court on the basis that these 7.14 acres were validly taken by the Commission on either March 4, 1952 or May 8, 1953]. The appellant argues, however, since the Act of 1951, supra, providing for the construction, operation and maintenance of the Delaware River extension, authorized the Commission to condemn additional property Tor ramp approaches, maintenance sheds, gasoline stations, restaurants, power facilities, waste banks, borrow pits and other facilities including tunnels,\u2019 that the resolution of Mar eh 4, 1952, ipso facto condemned to the full limit of the Commission\u2019s statutory power without identifying the precise property subject to the intended appropriation. The contention is obviously untenable, No property owner, abutting on the two hundred foot strip or at the bottom of the slopes of the cuts or fills, could possibly know how much additional of his land would be occupied for one or more of tbe statutorily authorized purposes not included in tbe plan made part of tbe condemnation resolution ....\n\u201cIn tbe instant ease tbe viewers correctly concluded that there were two separate appropriations of tbe plaintiffs\u2019 property, one on March 4,1952, and the other on May 8,1958.\u201d\nTbe two most important points which were clearly, expressly and specifically decided in tbe Gitlin case were (1) that tbe Commission\u2019s Resolution of March 4, 1952 took only the 200 foot strip \u2014 100 feet on each side of tbe defined center line \u2014 and such additional ground as was necessary for tbe natural slopes of tbe cuts and fills, and (2) that that Resolution did not include or condemn any property outside those bounds, (viz., 7.14 acres), which the Commission later deemed necessary for the construction of an interchange. On these two points Gitlin v. Pennsylvania Turnpike Commission specifically rules tbe instant case and is directly contrary to tbe basic ruling of tbe majority in the instant case and to the contentions of the Commonwealth.\nIt is both important and necessary to further analyze the problems involved.\nThere are two possible solutions: (1) There has never been any legal talcing of plaintiffs\u2019 additional 68 plus acres \u2014 a solution which will add untold millions of dollars to the cost of the Turnpike; or (2) an application of an exception to the above mentioned general rule, which exception is recognized in Philadelphia Parkway 250 Pa. 257, and in Rowan v. Commonwealth, 261 Pa. 88, and cases infra.\nDefendant did not comply with the Act of 1951, i.e., adopt a resolution taking or condemning plaintiffs\u2019 68 plus acres, although it finally complied with the Constitutional requirement of the entry of a bond to cover these 68 additional acres. In such a case property owners \u2014 where the body or Commission having power of eminent domain illegally enters upon and appropriates their land under color of eminent domain, i.e., without complying with the Constitution and with the pertinent statutory requirements \u2014 is given what might be termed an equitable remedy. Whether the Commission\u2019s actions were the result of gross negligence, or ignorance of the law, or actual fraud, or unintentional but legal fraud is immaterial \u2014 the property owner is entitled to damages when the unequivocal but illegal entry for turnpike purposes occurred on his (68 acres) land. Philadelphia Parkway and Rowan v. Common wealth, supra. See also Sansom Street. Capian\u2019s Appeal, 293 Pa. 483, 143 A. 134; Miller v. Beaver Falls, 368 Pa. 189, 82 A. 2d 34; Philadelphia Appeal, 364 Pa. 71, 70 A. 2d 847. In Sansom Street, supra, although the mere plotting of a city street on a city plan without anything more does not constitute a taking in the constitutional sense \u2014 the Court held that the property owner had been deprived of his property and was entitled to damages for a taking which resulted from a setback ordinance. In Miller v. Beaver Falls, 368 Pa. supra, the Court, quoting from Mr. Justice Schaffer's opinion in Sansom Street, said (page 196) : \u201c \u2018The governing principle is accurately stated in 20 Corpus Juris, 566, \u201cThere need not be an actual, physical taking, but any destruction, restriction or interruption of the common and necessary use and enjoyment of property in a lawful manner may constitute a taking for which compensation must be made to the owner of the property.\u201d \u2019 \u201d\nIn Rowan v. Commonwealth, 261 Pa., supra, the Court in sustaining the claim of the property owner said (page 93) : \u201cThe Commonwealth concedes the general rule that damages for taking or injury to land are to be determined as of the date of the actual taking or the doing of some unequivocal act by which the municipality or the State indicates the possession of the owner is about to be disturbed: Volkmar Street, Philadelphia, 124 Pa. 320; Whitaker v. Phoenixville Boro., 141 Pa. 327. . .\u201d\nIn Philadelphia Parkway, 250 Pa., supra, a similar question was presented. In that case the City plotted a Parkway on the City Plan to run from City Hall to a specified public park. Some properties in the line of the Parkway had been taken by condemnation, some had been acquired by purchase and some buildings had been torn down during an interval of 10 or 12 years. Appellant owned a parcel of ground within the lines of the proposed Parkway, and, based upon the above facts, presented its petition for the appointment of viewers to assess its damages for a taking. The City moved to quash the petition because only city streets had been plotted and no ordinance to open had been passed nor security given by City Council, and consequently there could be no legal taking of appellant\u2019s property. The Court first held that the general rule established by a long line of cases was well settled, namely, the mere plotting of a proposed new street did not constitute a taking of land so as to give an abutting owner the right to have damages assessed. However, the Court recognized an exception to this general rule, and held that \u2014 notwithstanding the Constitutional provision for compensation and a bond or other security, and notwithstanding the fact that no ordinance condemning the property had been passed and no bond to secure the property owners\u2019 damages had been given \u2014 under the facts in this exceptional case, there had been \u201ca taking\u201d and the property owner was entitled to damages. The Court said, inter alia: \u201cThe construction of the parkway is not an ordinary or usual undertaking on the part of the city; it is unusual and extraordinary. ... It is a defined public way within specified and limited boundaries. ... In Volkmar Street, Philadelphia, 124 Pa. 320, this court speaking through Mr. Justice Williams said (page 327) :\n\u201c \u2018As between the city and the land owner no right of action exists . . . for the recovery of damages until some act done, or notice or demand made, affecting, or relating to, the possession or appropriation of the land.\u2019\n\u201cAgain, in Whitaker v. Phoenixville Borough, 141 Pa. 327, Mr. Justice Green in discussing the Volkmar Street case, said (p. 332) :\n\u201c \u2018We decided that the right of action to have damages assessed to the owner did not commence until the opening of the street or the doing of some unequivocal act by the city which indicated that the possession of the owner was about to be disturbed\n\u201cThe plain inference from this language is that if the city did some unequivocal act evidencing an intention to open, followed by actual work done on the projected street, the right to compensation under proper circumstances might accrue even if councils had failed or neglected to pass an opening ordinance. In the very nature of things such cases would be exceptional and we only mention the excerpts above quoted to show that the principle has been recognized as applicable when the facts warrant its application. The present case belongs to this exceptional class.\u201d\nRealities and Justice sometimes require, as in the Philadelphia Parkway case, an exception to a general rule. The principle asserted in the aforesaid cases, while it was there applied in favor of the property owner, is equally applicable under the exceptional facts herein, to the instant case. Fraud or mutual mistake can void nearly every transaction. We should not permit the Constitution or a statute to be evaded by fraud, actual or legal, or to be used as a shield to protect fraud. In the instant case the grossly negligent actions of the Commission, followed by a taking under color of the statutory requirements of eminent domain amounted to legal, although of course unintentional, fraud. The exception may be thus stated: When a State, Municipality or governmental body or any corporation commits one or more unequivocal acts such as the actual physical seizure, confiscation or appropriation of an owner\u2019s real estate under color of eminent domain, justice and the realities of exceptional cases require that such unequivocal act or acts constitute in law a \u201ctaking\u201d, and the damages are determined as of the date of entry into a portion of the land for the purpose of appropriation. If there were no such exception, the possessor of a power of eminent domain, could by fraud or subterfuge or mistake, fail to comply with the Constitution and the applicable statute, and consequently could for years deprive a property owner of damages to which he is justly entitled.\nThis exception to the well settled general rule is supported by principle, by reason, by authority, and by practical common sense. Moreover, it very greatly minimizes fraud, accident or mistake by engineers or by clerks or subordinate officials or by one or more individual members of the Turnpike Commission, and equally important, it brings about a fair, practical and just result for both the property owner and the Commonwealth.\nI would, therefore, hold that, (1) while a so-called conditional ejectment will lie for the 68 plus acres here involved: Oliver v. Pittsburgh Railway Co., 131 Pa. 408, 19 A. 47; Connellsville Gas & Coal Co. v. Baltimore & Ohio R.R. Co., 216 Pa. 309, 65 A. 669; Wheeling, P. & B. R.R. Co. v. Warrell, 122 Pa. 613, 16 A. 20, a petition for the appointment of a Board of View would be a more appropriate remedy: Lawrence Appeal, 78 Pa. 365; Philadelphia Parkway, 250 Pa. 257, 95 A. 429; Barron\u2019s Use v. United Railway Co., 93 Pa. Superior Ct. 555. Cf. also Gitlin v. Pennsylvania Turnpike Commission, supra; (2) that the additional acres (68 or more) taken by the Commonwealth for an interchange and other Turnpike uses, without an appropriate Resolution of the Commission were taken as of the date of entry upon plaintiffs\u2019 land (68 acres) by the Commission for Turnpike uses, and (3) the damages for such land are to be determined and assessed as of the date of said actual physical entry.\nI would reverse the judgment, without prejudice to plaintiffs\u2019 right to petition for the appointment of a Board of View to determine and fix plaintiffs\u2019 damages in accordance with this opinion and with other pertinent principles of law.\nItalics throughout, ours.\nThe provision of Section 19 of the 1951 Act that it shall be \u201cliberally construed to effect the purposes thereof\u201d does not mean that we should or can ignore the plain language of the Act or the well settled law protecting an owner of land from an unlawful seizure and confiscation.\n*1 This is exactly and directly contrary to the majority\u2019s opinion in the instant case.\n*1 This is exactly and directly contrary to the majority\u2019s opinion in the instant case.\n**2 it is even more obvious that a property owner whose land did not abut on the 200 foot center strip could not possibly know that the Turnpike Commission sometime in the unknown future would wish to take a part or all of his property for an interchange, etc. Even the Turnpike Commission concedes that it did not know on March 4, 1952 or until sometime in 1953 (and it might not know for 10 years later) that it intended to take 68 additional acres of plaintiffs\u2019 land for Turnpike purposes. The vice of holding the Commission\u2019s resolution of March 4, 1952 condemned all land that might in the unknown future be considered necessary for Turnpike uses is strikingly illustrated by the following example: If A, who owned a hundred acres, 100 feet of which abutted on the Turnpike, built after Ma/reh 1\u00a1, 1952 a large commercial or industrial building, or a beautiful residence on that part of his property half a mile or a mile back from the center line of the turnpike, and 5 or 10 years later the Turnpike Commission decided to use such land for an interchange or other proper Turnpike purposes, and for the first time tendered a bond for this particular land, such property owner could not recover under the majority\u2019s opinion and under existing law any damages for these buildings or improvements: Lakewood Memorial Gardens Appeal, 381 Pa. 46, 112 A. 2d 135; Philadelphia Appeal, 364 Pa. 71, 70 A. 2d 847; Miller v. Beaver Falls, 368 Pa. 189, 82 A. 2d 34; Scattergood v. Lower Merion Township Commissioners, 311 Pa. 490, 167 A. 40; Philadelphia Parkway Opening, 295 Pa. 538, 145 A. 600; Bush v. McKeesport, 166 Pa. 57, 30 A. 1023; Witman v. Reading, 191 Pa. 134, 43 A. 140; Philadelphia Parkway, 250 Pa. 257, 95 A. 429. Could anything better illustrate the unfairness, the injustice and .the untenability of the majority\u2019s position that plaintiffs\u2019 land was, unbeknownst to him and to the Commission, being taken by the Commission\u2019s resolution of March 4, 1952.\nThe reason for the distinction which the Court made in Gitlin v. The Turnpike is clear and sound. It is obvious that the owner of land which the Commission deems necessary for slopes, fills or embankments along the clearly defined center line would be put on notice of the taking and thus given an opportunity to protest.\nIn some eases when a real estate depression bad occurred or lor some other reason there bad been a depreciation instead of an appreciation of property abutting or near tbe Turnpike, tbe cost of tbe Turnpike would be substantially decreased, but in either event it would be an unfair yardstick.\nPhiladelphia Parkway has been narrowed in its application to parkways and turnpikes, but has been cited with approval by this Court 12 times and by the Superior Court 6 times.\nWe note that the law as to what constitutes a taking has been undergoing a radical change during the last few years. Whenever the lawful rights of an individual to the possession, use or enjoyment of his land are materially abridged or destroyed by reason of the exercise or purported exercise of the power of eminent domain, his property is generally considered to be taken pro tanto, and he is entitled to compensation: Cf. Miller v. Beaver Falls, 368 Pa. 189, 82 A. 2d 34; Philadelphia Appeal, 364 Pa. 71, 70 A. 2d 847; also Sansom Street. Caplan\u2019s Appeal, 293 Pa. 483, 143 A. 134; 20 Corpus Juris 566.\nExamples will occur to everyone \u2014 a real estate depression or anything which decreases the value of the owner\u2019s land.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Mr. Justice Bell :"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice McBride :\nIt seems to me that the majority opinion recognizes but does not apply the underlying principle controlling this case, i.e., that condemnation in order to be legal must follow the statute that authorizes it.\nWhile it is true that \u00a719 of the Act of May 23, 1951, P. L. 335, 36 P.S. \u00a7658.19 provides that the Act be liberally construed to effect its purpose of promoting public welfare, it must be remembered that this statute permits the Commission to take a person\u2019s property without his consent. This power of eminent domain is thus in derogation of private property rights and hence, despite the legislative direction, must be strictly construed. Lakewood Memorial Gardens, Inc. Appeal, 381 Pa. 46, 112 A. 2d 135; Cochran Coal Co. v. Municipal Management Co., 380 Pa. 397, 110 A. 2d 345; Valmont Developing Co. v. Rosser et al., 297 Pa. 140, 146 Atl. 557; Boalsburg Water Co. v. State College Water Co., 240 Pa. 198, 87 Atl. 609.\nBut, whether we apply strict or liberal construction, we are not authorized to ignore the plain language of the statute. When the words of a law are clear and free from all ambiguity the letter of it is not to be disregarded under the pretext of pursuing its spirit. Act of M!ay 28, 1937, P.L. 1019, Art. IY, \u00a751, 46 P.S. \u00a7551.\nThe statute authorizing the Turnpike Commission to exercise power of condemnation to build the Delaware River Turnpike Extension prescribes an exact method whereby land may be condemned: \u201cThe Commission is hereby authorized and empowered to condemn, by resolution, any lands, interests in lands, property rights, rights of way, franchises, easements and other property deemed necessary or convenient for the construction and efficient operation of the turnpike or necessary in the restoration or relocation of public or private property damaged or destroyed, and the date of such resolution shall be the effective date of condemnation.\u201d (Emphasis supplied.) (36 P.S. \u00a7658.8) That this language was carefully and deliberately chosen by the legislature is emphasized by the fact that it is much more specific and restricted than the language used by the legislature in the earlier Turnpike statutes, all of which up to 1951 provided merely that the Turnpike Commission was authorized and empowered to acquire land \u201cby condemnation.\u201d Also, nothing was said in those Acts with respect to the effective date of condemnation. See Act of May 21, 1937, P.L. 774, 36 P.S. \u00a7652(f), establishing the Pennsylvania Turnpike Commission; Act of May 16, 1940 (1941), P.L. 949, 36 P.S. \u00a7853(h), establishing the Philadelphia Extension; Act of June 11, 1941, P.L. 101, 36 P.S. \u00a7654(h) establishing the Western Turnpike Extension.\nThe majority opinion, however, concludes that the Commission did condemn all of the land in question by resolution on March 4, 1952. On that date the Commission passed a resolution to condemn one hundred feet on each side of a center line with additional lands and slopes of cuts and embankments and such additional lands as would be needed for \u201cramp approaches, maintenance sheds, gasoline stations, restaurants, power facilities, waste banks, borrow pits and other facilities including tunnels. . . needed for the construction operation and maintenance of the Turnpike. . .\u201d This resolution exactly fixed the center line of the Delaware River Turnpike extension as shown on maps which were made part of the resolution. The maps attached to this resolution cover the entire length of the turnpike and affected property belonging to many owners. The maps included 9.18 acres of plaintiffs\u2019 property. Plaintiffs never have questioned before and do not now question the validity of the condemnation of these 9.18 acres. However, on March 10, 1958 plaintiff was notified that the Commission had condemned approximately 68 acres more of his land for an interchange \u201cstrictly in accordance with the provisions of our Act and with the ruling laid down by the Supreme Court.\u201d The Commission then took possession of the 68 acres. A year later the Commission notified plaintiffs that they needed an additional 1.555 acres of their property. There was no formal resolution adopted by the Commission condemning these 68 acres or the 1.555 acres. The majority opinion says that March 4, 1952 is the effective date of the condemnation of this additional land even though on that date the plans attached to the resolution indicated the land condemned was only 9.18 acres. Even the Commission has not contended that this date is the effective date of condemnation of the 68 acres or the 1.555 acres. The Commission\u2019s requested findings of fact and conclusions of law state, \u201c3. The effective date of the taking of the 9.18 acres is March 4, 1952. 4. The effective date of the taking of the approximately 68 acres is January 9, 1953. 5. The effective date of the taking of the utility easement of 1.555 acres is March 10, 1954.\u201d The reason that learned counsel for the Commission did not contend that the effective date of the condemnation of the 68 acres and the 1.555 acres is March 4, 1952 is understandable. That identical contention had been made by the Commission and rejected by this Court in the case of Gitlin v. Pennsylvania Turnpike Commission, 384 Pa. 326, 121 A. 2d 79.\nThe majority opinion, when faced with the same resolution as in the Gitlin case, with the same plans attached, now says that resolution effectively condemned the land later thought necessary to be taken for use as an interchange. They accomplish this by holding that when in Gitlin the Court said, \u201cAll that was condemned by the resolution of March 4, 1952 was the two hundred foot strip and such additional ground as was necessary for the natural slopes of the cuts and fills\u201d they did not use \u201ccondemned\u201d as the word of art that it is, but used it in its factual sense meaning \u201cappropriated.\u201d\nThis is perhaps best refuted by quoting from Gitlin where this Court unanimously said: \u201cSection 8 of the Act of 1951, supra, which authorized the construction of the Delaware River extension, from which the present proceeding stems, expressly provides that the date of the resolution shall be the effective date of the condemnation. Manifestly, that cannot mean that the condemnation embraces more property than was described in the resolution and identified by the attached plan.\u201d (In this case the 9.18 acres).\n\u201cThe appellant argues, however, since the Act of 1951, supra, providing for the construction, operation and maintenance of the Delaware River extension, authorized the Commission to condemn additional property Tor ramp approaches, maintenance sheds, gasoline stations, restaurants, power facilities, waste banks, borrow pits and other facilities including tunnels\u2019, that the resolution of March 4, 1952, ipso facto condemned to the full limit of the Commission\u2019s statutory power without identifying the precise property subject to the intended appropriation. The contention is obviously untenable. No property owner, abutting on the two hundred foot strip or at the bottom of the slopes of the cuts or fills, could possibly know how much additional of his land would be occupied for one or more of the statutorily authorized purposes not included in the plan made part of the condemnation resolution.\u201d\nThroughout the opinion in Qitlin when the Court used the word \u201ccondemned\u201d it meant condemned) and when it used the word \u201cappropriated\u201d it meant appropriated. The opinion iterates and reiterates that all that was condemned by the resolution of March 4, 1952 was the property described in the resolution and identified by the attached plan (in this case the 9.18 acres).\nThe Commission\u2019s position might be persuasive if the Delaware River Turnpike Extension Act, supra, (as interpreted by this Court in the GitUn case) had not prescribed the way in which they might condemn land, and fixed what constituted the effective date of condemnation. As noted above there are eminent domain statutes Avhich do not specifically prescribe the method of condemnation. The act involved in this case, hoAvever, does.\nIt is to be noted that in GitUn all parties agreed that the sole question was whether all of plaintiffs\u2019 property was condemned by the resolution of March 4, 1952. As the majority opinion points out no additional condemnation resolution was adopted condemning the land appropriated for the interchange. But contrary to the majority\u2019s conclusion that both appropriations were treated as having been condemned together by the resolution of March 4, 1952, in QitUn all parties agreed that the additional land taken for the interchange in that case was condemned by the Commission\u2019s formally adopting the later revised condemnation plan showing the additional taking. Just what the Commission did in \u201cformally adopting\u201d this revised plan is not apparent from the record in the Qitlin case. It is clear, however, that no additional resolution was passed.\nThe Commission has contended throughout the present proceedings that the resolution of March 4, 1952 plus a resolution adopting the report of a consulting engineer plus the approval of construction drawings by the secretary of the Commission plus descriptions and other drawings prepared from the construction drawings plus their delivery to plaintiffs constituted a course of conduct which should be given the same effect as a formal resolution of condemnation required by the statute. They attempt to equate these activities with the formal adoption referred to in Qitlin. But in Qitlin, what was meant by the term \u201cformally adopted\u201d was never in issue and it was never contested that the additional land could be condemned by this formal adoption. On this point the court\u2019s decision and language must be restricted to the facts as presented and the legal questions then in issue.\nThat the activities of the Turnpike Commission, its officers and employees, in this case, did not amount to a valid condemnation of plaintiff\u2019s land seems clear. It is beyond dispute that Qitlin correctly decided that the Resolution of March 4, 1952 condemned only the 200 foot strip plus such additional ground as was necessary for the natural slopes of cuts and fills and did not condemn the property outside those bounds which the Commission later deemed necessary and appropriated for the construction of the interchange. To that extent the present case is specifically controlled by Gitlin directly contrary to the majority\u2019s present position. That a formal adoption, which is in issue here, cannot be other than by resolution, is made apparent by the Act of 1951, supra. After such condemnation a bond or other security had to be tendered to secure the owner for damages from the taking. Both prerequisites, however, had to be met. The bond had to be filed, and a condemnation resolution had to be adopted. Neither is sufficient of itself to give the Commission the right to take private property. The inherent weakness in the Commissions\u2019 position is that condemnation cannot be accomplished in a manner not authorized by statute; regardless of the things done or activities carried on there must be conformity to statutory methods.\nThe rationale upon which the decision in Gitlin was based remains as valid today as it was at that time. It is still true that no property owner abutting on the 200 foot strip could possibly know how much of his land would be occupied for one or more of the statutorily authorized purposes not included in the plan made part of the condemnation resolution. The resolution itself provides, inter alia:\n\u201cNow, therefore, Be it enacted by the Pennsylvania Turnpike Commission . . . that\n\u201cThe route for the Delaware River extension of the Pennsylvania Turnpike system ... is hereby fixed and located ... in accordance with and as the same is definitely shown on the maps prepared at the instance of this commission. . .\u201d (Emphasis supplied) These maps covered only the 9.18 acres of plaintiff\u2019s land. The additional 68 acres and 1.555 acres could easily have belonged to some third person who would never have received notice of what this Court now says constituted a condemnation of his land.\nIt is also to be remembered that \u201cthe date of such resolution shall be the effective date of condemnation.\u201d Under the majority\u2019s ruling that there was such condemnation on March 4, 1952 but that an \u201cappropriation\u201d occurred on a later date, if at any time in the future the Turnpike Commission decides they need any new facility for the operation of the turnpike they may take the land of any abutting property owner merely by tendering security for damages and successfully contend that that land also was condemned by the resolution of March 4, 1952. See Act of May 23, 1951, P.L. 335, \u00a710, 36 P.S. \u00a7658.10.\nThe result of the majority\u2019s holding is thus that land may be condemned, not specifically as required by previous decision of this Court (see Department of Property and Supplies v. Rhoads, 378 Pa. 603, 107 A. 2d 868, and, Lakewood Memorial Gardens, Inc. Appeal, 381 Pa. 48, 112 A. 2d 135) but merely by the phrase in a resolution \u201ctogether with such additional lands deemed necessary for ramp approaches, maintenance sheds, gasoline stations, restaurants, power facilities, waste banks, borrow pits and other facilities . . . needed for the construction, operation and maintenance of the Turnpike . . .\u201d. I still believe that Gitlin was right in holding that this \u201ccontention is obviously untenable.\u201d\nTo buttress their decision the majority opinion says: \u201cWhy, then, should not the Commission\u2019s later appropriation of additional property for the construction of necessary approaches and ramps to the highway (i.e., an interchange), as envisioned by the Act of 1951 and contemplated by the resolution of March 4, 1952, come within the effective scope of the condemnation? Such appurtenances correspond, in their relation to the highway, with the type of things which this court denominated in Foley v. Beech Creek Extension R.R. Co., 283 Pa. 588, 595, 129 A. 845, as \u2018engineering detail\u2019 and not matters outside the condemnation.\u201d The Foley case is the same case on which the Commission relied in Gitlin. The Commission there quoted just the same portion of the opinion in its brief as it quoted in its brief in this case and the same portion of the opinion quoted by the majority opinion. I can say no more of this case than was said by a unanimous court in disposing of the very same issue in Gitlin: \u201cThe Commission\u2019s counsel cited at bar Foley v. Beech Creek Extension R. R. Co., 283 Pa. 588, 129 A. 845. But, that case affords the appellant no comfort. There, the railroad company, acting under its charter powers to condemn private property, pursuant to an enabling Act of February 19, 1849, P. L. 79, located, by resolution duly adopted, the center line of its proposed road. The Act authorized and empowered the officers, directors and engineers of the railroad to \u2018fix, mark and determine such route for a railroad as they may deem expedient . . . and not, except in the neighborhood of deep cuttings or high embankments . . ., to exceed sixty feet in width. . .\u2019 The plaintiffs, who were objecting property owners, conceded the company\u2019s right to take their land to the extent of sixty feet in width but urged that the condemnation proceedings were ineffective as to any land in excess of sixty feet. The court below permitted the railroad to take additional land to the extent needed for the slopes of the cuts and fills. That is all that was involved in that case. And, while there is a statement in the opinion implying that the resolution condemning the sixty foot strip also permitted the railroad to take such land as was necessary for \u2018stations, sidings and turnouts\u2019 not noted on the plan, the statement was a patent dictum for the court immediately went on to say that \u2018When the petition for approval of the bond is filed, accompanied by a map designating the extent of the land to be taken, the owner knows precisely the quantity of land the company proposes to take\u2019 (Emphasis supplied). The same is equally true here.\u201d\nThe majority opinion then concludes this part of the opinion by holding that plaintiffs are entitled to damages for the condemnation of the right of way as of the date of the resolution, i.e., March 4, 1952, and for the appropriation of the additional land for the interchange as of the date of the Commission\u2019s entry thereon, i.e., March 13, 1953:\n\u201cThe date of the condemnation remains constant but the date for reckoning the damages for subsequent appropriations (not specifically described but within the purview of the resolution) is necessarily the date of the Commonwealth\u2019s right of entry thereupon, if the statutory provision is to be given a reasonable and constitutional interpretation. . . . The entire damages (i.e., for both the right of way and additional land) are assessable as of two different dates, viz., the date of the resolution\u2019s express appropriation of the 200 foot right of way and the date of the Commission\u2019s appropriation of the additional property through its permissible entry thereupon: . . .\u201d Thus the majority has, sub silentio, overruled Lakewood Memorial Gardens, Inc. Appeal, supra. In that case the sole issue on appeal, as stated by this Court, was the date of the taking, i.e., the date from which plaintiff\u2019s damages accrued. The Court said: \u201c. . . we think it is both logical and just to conclude that the Commission\u2019s formal adoption of the condemnation resolution which set forth the location of the proposed turnpike extension by description and plans, approved by the Governor and the Department of Highways, constituted an appropriation of the indicated properties. . . .\u201d It is true that the case arose under the Western Pennsylvania Turnpike Extension Act of 1941, P.L. 101, as amended, 36 P.S. \u00a7654, et seq., which provides merely that the Turnpike Commission may take private property \u201cby condemnation\u201d. But the language applies here a fortiori. It is significant that Justice Musmanno, in dissent, objected to the majority\u2019s decision on the ground that the date of the condemnation resolution was the date of the taking. He said: \u201cIf the Legislature had intended to authorize the Turnpike Commission to condemn by resolution, it would have so declared, as in fact it did in the Pennsylvania Turnpike Delaware River Extension Act (Sec. 8, Act May 23, 1951, P.L. 335, 36 PS \u00a7658.8), where it said: '(a) The commission is hereby authorized and empowered to condemn, by resolution, any lands, interests in lands, property rights, rights of way, franchises . . . and the date of such resolution shall be the effective date of condemnation. . .\u2019\n\u201cWhere statutes dedicated to the same subject use such widely differing language, the only conclusion possible is that the Legislature intended to accomplish different results.\u201d\nIt is thus apparent that under the Act of 1951 the entire court which decided Lakewood would agree that, under the Act of 1951, the date of the taking is the date of the condemnation resolution.\nAlso, under the Act of May 21, 1937, P.L. 774, 36 P.S. \u00a7652 (a) et seq., which created the Turnpike Commission and gave it the power of eminent domain to be used in the construction of the original section of the turnpike and had the same procedures prescribed as the Act of 1941, supra, this Court held that the date of the resolution of condemnation was the date of taking. See Hunter v. McKlveen, 353 Pa. 357, 45 A. 2d 222; Pennsylvania Turnpike Commission Appeal, 351 Pa. 139, 40 A. 2d 404; and Pennsylvania Turnpike Land Condemnation Case, 347 Pa. 643, 32 A. 2d 910.\nIf, as the majority holds, plaintiffs\u2019 right to damages accrues from the date of the \u201cappropriation\u201d, i.e., when the revised plans were adopted and the new description, inserted into the bond, was furnished to the plaintiffs, no owner of private property abutting on the Turnpike can now convey title in fee simple. Title to this land since 1952 and thereafter can only be conveyed subject to the Turnpike Commission\u2019s right to enter at any time in the future if they decide a new ramp approach, gasoline station, restaurant, power facility, waste bank, borrow pit, or any other facility is needed. This taking could be accomplished no matter how far in the future simply by filing revised plans and alleging that this land was condemned by the resolution of March 4, 1952. Then, for the first time, would a future owner discover that he had purchased condemned land. Yet in the Lakewood case we said, and I believe correctly so: \u201c. . . from the moment of the adoption of the ordinance or resolution of condemnation, a cloud is placed on the property so appropriated. Actual physical entry may be, and frequently is, delayed. But, the owner, although still in possession, does not have the free and untrammeled use of the property.\u201d\nFurthermore, if in the meantime any owner after 1952 made (or in the future makes) improvements to Ms property located along the general route of the turnpike which may be taken for any reason enumerated in the resolution of March 4, 1952, such property owner could not recover under existing law for these improvements. Lakewood Memorial Gardens Appeal, supra. This, to me at least, seems a clear violation of Article I, Section 10 of the Pennsylvania Constitution \u201c. . . nor shall private property be taken or applied to public use, without authority of law and without just compensation being first made or secured.\u201d\nIn my opinion the resolution of March 4, 1952, the only formal resolution adopted by the commission to condemn land, does not lawfully condemn the 68 acres and the 1.555 acres. That resolution condemned only the two hundred foot strip and such additional ground as was necessary for the natural slopes of the cuts and fills and such additional land which was shown on the maps attached to the resolution. Gitlin v. Pennsylvania Turnpike Commission, supra.\nI, too, am somewhat impressed by the fact that plaintiffs assigned their right to damages and petitioned for a Board of Viewers as to 76.8 acres, but it does not seem to me that their answer is weak in view of the fact that they had been advised that the additional land had been condemned \u201cstrictly in accordance with the provisions of our act and with the ruling laid down by the Supreme Court.\u201d We must not overlook the fact that plaintiffs relied and acted on the assurances of the Commission. When the contractor for the Commission first appeared on the 68 acre tract, plaintiffs drove him off, whereupon he was notified by the Chief Counsel of the Bight of Way division that the land had been condemned and taken in accordance with law. It was only after this assurance that plaintiffs permitted the contractor to enter on the land. Thereafter, in October, 1957, they learned for the first time from counsel for the Commission that no resolution had ever been adopted by the Commission condemning the additional lands, and that there had not even been any formal approval by the Commission of the additional plans. Immediately thereupon plaintiff, with leave of court, amended his petition for the appointment of viewers so that the ascertainment of the damages in that proceeding would be limited to the portion of the land which was condemned by the Commission according to the legal requirements. I believe this action, in light of the foregoing facts, was timely.\nSince I believe Gitlin, supra, and Lakewood Memorial Gardens, supra, are correct and are contra to the result reached by the majority today, I must dissent. The majority opinion states a rule of law that would deprive countless owners of their property abutting on the turnpike without even notice that they were being affected. Public bodies and public officers should, above all others, act in strict accordance with the law which empowers them to act at all. To reverse the judgment of the court below permits too much power not authorized by the statute.\nFor the reasons stated I believe the judgment of the court below granting conditional ejectment is correct and should be approved. However, I agree that in view of all the circumstances it should not be enforced without giving the Commission an opportunity of condemning the land in the manner prescribed by law. This can be accomplished by extending the stay of execution for sufficient length of time to enable the Commission to condemn the additional lands in the statutorily prescribed manner. The judgment of the court below however, did not undertake to state the time at which damages should be measured. I agree with the majority that on remand to the Board of View appointed by the Court of Common Pleas of Montgomery County these damages should be assessed as of the date of entry. Connellsville Gas & Coal Co. v. Baltimore & Ohio R. Co., 216 Pa. 309, 65 Atl. 669; Oliver v. Pittsburgh V. & C. Ry. Co., 131 Pa. 408, 19 Atl. 47; 13 P.L.E., Eminent Domain \u00a7132.\nI would thus achieve the same result reached by the majority without creating a cloud on the titles of all property owners abutting on the turnpike. If in the future the Commission needs land for another borrow pit, waste bank, gasoline station, etc. I would require them to pass a resolution condemning that land and the property owner\u2019s right to damages would be measured from that date. Until such time, however, the owners may improve, convey or use their property as anyone else can and are not entitled to any damages. If, however, there has been a taking of land not according to the applicable laAV the OAvner\u2019s right to damages accrues at the date of that taking. He may bring an action in ejectment Avhicli may result in judgment of ouster if proper and feasible or in damages if not feasible.\nAct of May 23, 1951, P.L. 355, \u00a71, 36 P.S. \u00a7\u00a7658.1 to 658.20.\nThe Commission throughout this 12 month period (during which the majority says plaintiff\u2019s land was condemned) did not even have the right to take possession of the additional 68 acres. Section 10 of the Act of 1951 provides: \u201cWhenever the Commission has condemned any lands, rights, rights of way, easements and franchises or interests therein, as hereinbefore provided, and has tendered a bond or other security to secure the owner or owners for damages and the same has been accepted. . . the commission shall have the right to immediate possession of the property covered by the bond and may enter thereon in the name of the commission.\u201d (Emphasis supplied)\nThe property \u201ccovered by the bond\u201d throughout this period was only the 9.18 acres. A new description containing the additional 68 acres was not submitted to the plaintiffs to be inserted in the bond until March 33, 1953, more than a year after the resolution.\nThe majority opinion, in passing, suggests that the signing of these additional plans by the Secretary and Chief Engineer of the Commission is a formal adoption by the Commission in light of the presumption that a public official\u2019s acts are pursuant to proper authority. However, as stated therein, this presumption is effective only in the absence of proof to the contrary. Here, of course, there is such proof to the contrary. The Commission\u2019s Senior Plans Engineer testified that he carried the revised plans into the offices of the Chief Engineer and the Secretary where they were signed. There was never any action taken as to the signing of these plans by the Commission as a whole. The record is clear that the action of these individuals was not a resolution of the Commission. The Act of 1951, supra, does not say that the Commission may condemn property by having the engineer and the secretary of the Commission sign some plans. The Commission is a body of five members of whom three constitute a quorum. (36 P.S. \u00a7652(d)). We have defined a resolution as \u201ca formal expression of the opinion or will of an official body or public assembly, adopted by vote.\u201d Wiley v. Woods, 393 Pa. 341, 346, 141 A. 2d 844. Certainly here there was no formal expression of the opinion or will of the Turnpike Commission.",
+        "type": "dissent",
+        "author": "Mr. Justice McBride :"
+      }
+    ],
+    "attorneys": [
+      "Henry E. Earner, General Counsel, for appellant.",
+      "Morris Wolf, with him Frank A. Sinon, Abraham, L. Freedman, and Rhoads, Sinon & Reeder, and Wolf, Block, Schorr & Solis-Gohen, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Rosenblatt v. Pennsylvania Turnpike Commission, Appellant.\nArgued May 27, 1959; reargued June 30, 1959.\nBefore Jones, C. J., Bell, Musmanno, Jones, Cohen, Bok and McBbide, JJ.\nDecember 31, 1959:\nHenry E. Earner, General Counsel, for appellant.\nMorris Wolf, with him Frank A. Sinon, Abraham, L. Freedman, and Rhoads, Sinon & Reeder, and Wolf, Block, Schorr & Solis-Gohen, for appellees."
+  },
+  "file_name": "0111-01",
+  "first_page_order": 267,
+  "last_page_order": 317
+}

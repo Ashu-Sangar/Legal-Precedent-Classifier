@@ -1,0 +1,82 @@
+{
+  "id": 1804575,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Michael HELWIG, Respondent",
+  "name_abbreviation": "Commonwealth v. Helwig",
+  "decision_date": "1987-03-23",
+  "docket_number": "",
+  "first_page": "394",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "514 Pa. 394"
+    },
+    {
+      "type": "parallel",
+      "cite": "525 A.2d 732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1800491
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/512/0587-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 402,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06713209920732831
+    },
+    "sha256": "2a5bbc209c9b3486593ff957484009a1d8c6b068022e9e8eda3ebefd35415b46",
+    "simhash": "1:b42f531ce1e5a9a8",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T23:49:20.590095+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Michael HELWIG, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, to-wit, this 23 day of MARCH, 1987, the Petition for Allowance of Appeal is granted, and the case is remanded to the Superior Court for reconsideration in light of our decision in Commonwealth v. Goldhammer, 512 Pa. 587, 517 A.2d 1280 (1986).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "525 A.2d 732\nCOMMONWEALTH of Pennsylvania, Petitioner v. Michael HELWIG, Respondent.\nSupreme Court of Pennsylvania.\nMarch 23, 1987."
+  },
+  "file_name": "0394-01",
+  "first_page_order": 456,
+  "last_page_order": 457
+}

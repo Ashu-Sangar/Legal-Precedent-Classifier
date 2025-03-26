@@ -1,0 +1,70 @@
+{
+  "id": 12282417,
+  "name": "Com. v. Mitchell",
+  "name_abbreviation": "Com. v. Mitchell",
+  "decision_date": "2015-12-30",
+  "docket_number": "359 WAL (2015)",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "131 A.3d 109",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "ocr_confidence": 0.721,
+    "sha256": "0b14d3ca279c5628c3cea061e104733685b9b71353e265c285af06057adbf0bf",
+    "simhash": "1:cf52e0f4bb0af1dc",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Mitchell"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 131 A.3d 109",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Mitchell\n12/30/2015\n359 WAL (2015)\n. Justice EAKIN did not participate in the decision of this matter,"
+  },
+  "file_name": "0745-04",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

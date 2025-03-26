@@ -1,0 +1,70 @@
+{
+  "id": 12282490,
+  "name": "Com. v. Reil",
+  "name_abbreviation": "Com. v. Reil",
+  "decision_date": "2015-12-29",
+  "docket_number": "657 MAL (2015)",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 468",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 138,
+    "ocr_confidence": 0.75,
+    "sha256": "12039cde2ef85ba0693f72c106608756290f10c616e21239a642c52461cf6e28",
+    "simhash": "1:2d76e8ccbf2b924c",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Reil"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 468",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Reil\n12/29/2015\n657 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter,"
+  },
+  "file_name": "0745-11",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

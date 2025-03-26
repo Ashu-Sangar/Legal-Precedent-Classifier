@@ -1,0 +1,106 @@
+{
+  "id": 12172992,
+  "name": "Patrick J. HOPKINS, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, PA, and District Attorney of Philadelphia County, PA, Respondents",
+  "name_abbreviation": "Hopkins v. Court of Common Pleas of Philadelphia County",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 57 EM 2015",
+  "first_page": "143",
+  "last_page": "144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "632 Pa. 143"
+    },
+    {
+      "type": "parallel",
+      "cite": "118 A.3d 384"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "providing that hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 600,
+    "ocr_confidence": 0.613,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24705397882270355
+    },
+    "sha256": "6c7249009f31130a49b3476ec18475be26db60e8ddf005390f17c3fa4e57aa47",
+    "simhash": "1:2515b599d291ec3b",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T22:49:50.075015+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick J. HOPKINS, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, PA, and District Attorney of Philadelphia County, PA, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of June, 2015, the Application for Leave to File Original Process and the Petition for Extraordinary Relief and/or Habeas Corpus Relief are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (providing that hybrid representation is improper). The Pro-thonotary is DIRECTED to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "118 A.3d 384\nPatrick J. HOPKINS, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, PA, and District Attorney of Philadelphia County, PA, Respondents.\nNo. 57 EM 2015.\nSupreme Court of Pennsylvania.\nJune 29, 2015."
+  },
+  "file_name": "0143-02",
+  "first_page_order": 197,
+  "last_page_order": 198
+}

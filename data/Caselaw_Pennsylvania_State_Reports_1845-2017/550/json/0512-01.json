@@ -1,0 +1,118 @@
+{
+  "id": 281045,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Jeffry Lee KIBE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kibe",
+  "decision_date": "1998-03-27",
+  "docket_number": "Petition No. 0216 Middle District Allocatur Docket 1996",
+  "first_page": "512",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "550 Pa. 512"
+    },
+    {
+      "type": "parallel",
+      "cite": "707 A.2d 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "521 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817476
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0001-01"
+      ]
+    },
+    {
+      "cite": "699 A.2d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        960512,
+        11913043,
+        11913070,
+        960567
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0587-01",
+        "/a2d/699/1246-01",
+        "/a2d/699/1246-02",
+        "/pa/548/0588-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        960567
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/548/0588-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 559,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.011476730882765752
+    },
+    "sha256": "c106df5c481a47ef79b5bdfe570586bbd1025bceb7cd3c84bf970b2901849253",
+    "simhash": "1:5fcfe20fe5eb8cb2",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T19:01:34.236353+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, J., dissents."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Jeffry Lee KIBE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of March, 1998, the petition for allowance of appeal is granted, the judgment of sentence is vacated and the case is remanded to the Cumberland County Court of Common Pleas for a new trial. See Commonwealth v. Lawson, 548 Pa. 588, 699 A.2d 1246 (1997); Commonwealth v. Khorey, 521 Pa. 1, 555 A.2d 100 (1989).\nCASTILLE, J., dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Timothy L. Clawges, Mechanicsburg, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "707 A.2d 510\nCOMMONWEALTH of Pennsylvania, Respondent, v. Jeffry Lee KIBE, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 27, 1998.\nTimothy L. Clawges, Mechanicsburg, for petitioner."
+  },
+  "file_name": "0512-01",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

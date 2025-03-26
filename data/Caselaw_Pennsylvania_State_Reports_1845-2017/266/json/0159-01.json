@@ -1,0 +1,78 @@
+{
+  "id": 1055999,
+  "name": "Snyder v. Pittsburgh Coal Co., Appellant",
+  "name_abbreviation": "Snyder v. Pittsburgh Coal Co.",
+  "decision_date": "1920-01-05",
+  "docket_number": "Appeal, No. 126",
+  "first_page": "159",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "266 Pa. 159"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "266 Pa. 154",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1056084
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/266/0154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 620,
+    "ocr_confidence": 0.438,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.03763424045185646
+    },
+    "sha256": "366d5715a0be7d6c15231adb4fe1dcff98446d2bce1ab770ca5db74cef3ea81e",
+    "simhash": "1:2fa9473b4b4c14c8",
+    "word_count": 101
+  },
+  "last_updated": "2024-02-27T19:25:52.372855+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Brown, C. J., Moschzisker, Frazer, Walling and Kephart, JJ."
+    ],
+    "parties": [
+      "Snyder v. Pittsburgh Coal Co., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Moschzisker,\nAll the material questions in this case are determined in Schaper v. the present defendant, the opinion in which is filed simultaneously herewith, 266 Pa. 154.\nThe assignments of error are overruled and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Moschzisker,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Snyder v. Pittsburgh Coal Co., Appellant.\nArgued October 20, 1919.\nAppeal, No. 126, Oct. T., 1919, by defendant, from judgment of O. P. Allegheny Co., July T., 1919, No. 1787, for plaintiff on case stated in suit of Emma Jane Snyder v. Pittsburgh Coal Company.\nBefore Brown, C. J., Moschzisker, Frazer, Walling and Kephart, JJ.\nAffirmed.\nJanuary 5, 1920:"
+  },
+  "file_name": "0159-01",
+  "first_page_order": 185,
+  "last_page_order": 186
+}

@@ -1,0 +1,249 @@
+{
+  "id": 93283,
+  "name": "James W. MEYER, Appellant, v. Elaine M. MEYER, Appellee",
+  "name_abbreviation": "Meyer v. Meyer",
+  "decision_date": "2000-04-17",
+  "docket_number": "No. 0013 W.D. Appeal Docket 1999",
+  "first_page": "225",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "561 Pa. 225"
+    },
+    {
+      "type": "parallel",
+      "cite": "749 A.2d 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "349 Pa.Super. 524",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        646824
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/349/0524-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839734
+      ],
+      "weight": 4,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0393-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862043,
+        465052
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/0732-01",
+        "/pa/545/0391-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465052
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0391-01"
+      ]
+    },
+    {
+      "cite": "747 A.2d 337",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11469251,
+        95765
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "339",
+          "parenthetical": "re-jecting claim that separation benefits paid after marriage ended was marital property: \"[t]his interest was neither acquired during the marriage nor was it a benefit the acquisition of which could have been foreseen or anticipated.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/747/0337-01",
+        "/pa/560/0559-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 559",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95765
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "re-jecting claim that separation benefits paid after marriage ended was marital property: \"[t]his interest was neither acquired during the marriage nor was it a benefit the acquisition of which could have been foreseen or anticipated.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/560/0559-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 967",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "Tamilia, J., dissenting"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "349 Pa.Super. 524",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        646824
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "533"
+        },
+        {
+          "page": "976"
+        },
+        {
+          "page": "534"
+        },
+        {
+          "page": "976"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/349/0524-01"
+      ]
+    },
+    {
+      "cite": "681 A.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862043,
+        465052
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/681/0732-01",
+        "/pa/545/0391-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465052
+      ],
+      "year": 1996,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/545/0391-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 570,
+    "char_count": 12557,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 1.8375217344594827e-07,
+      "percentile": 0.7216057770163434
+    },
+    "sha256": "facff02bb4825287fe9bbe2b6f08e7815d2b6042db763455066f7bdac7bf689f",
+    "simhash": "1:dd8e71449b0e622c",
+    "word_count": 2045
+  },
+  "last_updated": "2024-02-27T17:40:57.208622+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ.",
+      "Justice CASTILLE files a dissenting opinion in which Justices ZAPPALA and NIGRO join.",
+      "Justices ZAPPALA and NIGRO join this dissenting opinion."
+    ],
+    "parties": [
+      "James W. MEYER, Appellant, v. Elaine M. MEYER, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nNEWMAN, Justice.\nJames W. Meyer has appealed from the Order of the Superior Court that affirmed the Order of the Court of Common Pleas of Allegheny County (trial court) that determined that certain early retirement incentive benefits, received by him after separation from Elaine M. Meyer, were marital property.\nFACTS AND PROCEDURAL HISTORY\nThe parties to the instant lawsuit were married in October of 1969, separated on August 15,1982, and divorced in October of 1987. Mr. Meyer worked as a trolley driver throughout the length of the marriage, while Mrs. Meyer was a homemaker and primary caretaker of the parties\u2019 son. After the separation, Mrs. Meyer worked in a day care center. On May 27, 1988, pursuant to an order of equitable distribution, the trial court awarded' Mrs. Meyer one-half of the marital share of Husband\u2019s Port Authority of Allegheny County retirement plan.\nMr. Meyer retired early, on July 1, 1994, pursuant to a retirement incentive entitled a \u201cspecial retirement option\u201d (SRO). This incentive was offered to Mr. Meyer on March 26, 1993, as a \u201cone time voluntary early retirement program.\u201d The benefit of the SRO was the credit to him of an additional five years of service for the purpose of calculating his pension. To be eligible for the SRO, an employee must already have had twenty-five years of service with the Port Authority of Allegheny County. Prior to his retirement, Mr. Meyer had worked for the Port Authority for only twenty-three years, however, the SRO permitted employees to buy, as additional years of pension service, years of prior military service. Accordingly, Mr. Meyer bought an additional two years of service based on his premarital military service. After that, he was considered to have twenty-five years of service, which made him eligible for the SRO five-year increment. Husband elected the SRO and retired with his pension under the SRO based on thirty years of service.\nMr. and Mrs. Meyer agreed that Mrs. Meyer was entitled to one-half of the marital share of the pension but disagreed as to how much, if any, of the five-year credit should be considered marital property. Mr. Meyer argued that none of the credit should be considered \u201cmarital\u201d, while Mrs. Meyer asserted that the five years should be considered in the marital share, suitably reduced by the coverture fraction. The trial court determined that the additional five years of service was the result of years of service while Mr. and Mrs. Meyer were married, as well as nonmarital service years, and that the five years of service should be a shared benefit to the extent of the coverture fracture. The Superior Court affirmed, and we granted allocatur to consider the question of whether this early retirement inducement should be considered marital property for purposes of equitable distribution.\nDISCUSSION\nThis Court has previously addressed, in Gordon v. Gordon, 545 Pa. 391, 681 A.2d 732 (1996), the issue of whether early retirement inducements accepted by an employee after separation, which have the effect of increasing the employee\u2019s retirement benefits, are includable in the marital estate. That case, however, resulted in a plurality opinion. Nevertheless, much of the analysis employed in Gordon is relevant in the case we decide today.\nThe Divorce Code defines \u201cmarital property\u201d as \u201call property acquired by either party during the marriage.\u201d 23 Pa.C.S.A \u00a7 3501(a). Generally, increases in retirement benefits occurring after separation are not considered marital property. However, in Berrington v. Berrington, 534 Pa. 393, 633 A.2d 589 (1993), this Court acknowledged that certain changes that occur in a pension after the date of separation arise through no effort or expense on the part of the participating spouse. \u201cThese changes in the pension not attributable to the participant\u2019s labors or contributions, therefore, are not regarded as property acquired after separation, but as adjustments to the plan which should be available to both parties to the marriage.\u201d Gordon, 681 A.2d at 735. The most important question to answer in deciding whether to apply this exception is whether the increase in retirement benefits was produced by the efforts or contributions of the participant spouse. In the instant matter, the answer is \u201cno.\u201d\nAs was the case in Gordon, the additional benefits received by Mr. Meyer were benefits based entirely on years of service. Mr. Meyer was required to have twenty-five years of service to receive the five-year bonus, and those twenty-five years included many years in which he and Mrs. Meyer were married and living together. Where, as here, increased pension benefits are based on years of service, which include years of service in which the marriage was intact, the increased benefits must be included in the marital estate to the extent of their coverture fraction.\nThe rationale behind such a rule is clear' \u2014 to provide to the nonparticipant spouse the benefit of favorable changes in retirement benefits that are not due to the participant spouse\u2019s post-separation efforts. Any other rule would merely provide an unearned windfall to the participant spouse.\nIn deciding issues such as the one before us today, we must be mindful that it is the policy of the Divorce Code to \u201ceffectuate economic justice between parties who are divorced.\u201d 23 Pa.C.S.A. \u00a7 3102(a)(6). As stated by the trial court in its well-reasoned decision in this case: \u201cThe keys to economic justice lie in the recognition that the benefits that Mr. Meyer received from his employer required the consideration of marital years of service during which time the parties were participating in a partnership and making joint sacrifices and decisions.... All that was required of husband to receive the benefits in this case was that he accumulate enough years of service to add up to twenty-five. Without the marital years of service, he could not have done this. He is fully compensated for his post separation years of service and military years of service by the coverture fraction.\u201d Slip op. at 5, 7.\nWe agree and, accordingly, affirm the Order of the Superior Court.\nJustice CASTILLE files a dissenting opinion in which Justices ZAPPALA and NIGRO join.\n. The coverture fraction is \"that portion of the value of the pension that is attributable to the marriage. The numerator of tire fraction is the total period of time the employee spouse was a participant in the plan from the date of marriage until the date of separation, and the denominator is the total period of participation in the pension plan.\u201d Berrington v. Berrington, 534 Pa. 393, 633 A.2d 589, 591 n. 5 (1993).\n. Mr. Meyer relies on LaBuda v. LaBuda, 349 Pa.Super. 524, 503 A.2d 971 (1986), claiming that the SRO early retirement incentive program in the case at bar was not created, and he accrued no interest therein, until years after the parties separation and that the SRO benefit is nonmarital. However, as noted in my concurring opinion in Gordon, supra, I do not believe that the application of LaBuda is helpful in analyzing whether the SRO in the instant matter should be considered marital. (Anticipated versus unanticipated nature of early retirement inducement not dispositive in determining whether benefits ''marital.'\u2019)",
+        "type": "majority",
+        "author": "NEWMAN, Justice."
+      },
+      {
+        "text": "CASTILLE, Justice,\ndissenting.\nI dissent for the reasons expressed in my Concurring and Dissenting Opinion in Gordon v. Gordon, 545 Pa. 391, 681 A.2d 732 (1996). In my view, early retirement inducements accepted by an employee-spouse after separation should not be considered marital property where such inducements did not exist prior to the parties\u2019 separation. Because the early retirement inducement at issue here unquestionably did not exist during the period when the parties were married, I would reverse the Superior Court.\nAs I noted in Gordon, the crucial factor in determining whether a benefit should be deemed marital property is the time that the right to the benefit accrued. The right at issue hero indisputably accrued long after the marriage ended. During the marriage, neither party had any reason to believe that Mr. Meyer would someday participate in the special retirement option (\u201cSRO\u201d) later offered by his employer. The one-time SRO was offered on March 26, 1993, more than ten years after the parties had separated. Under the SRO, Mr. Meyer would receive a five-year credit for the purpose of calculating his pension in exchange for agreeing to retire prior to December 1, 1994. In addition, the SRO would not otherwise affect the amount paid under his pension plan as of the date of separation. Mr. Meyer elected to participate in the program and retired on July 1, 1994. Because his right to the SRO did not accrue during the parties\u2019 marriage, and the parties had no expectation that the benefit would someday arise, I would hold that the SRO is not marital property.\nI further disagree with the majority\u2019s conclusion that the SRO benefit arose only through the passage of time, and required no \u201ceffort or contribution\u201d on Mr. Meyer\u2019s part. In point of fact, when his employer announced the program, Mr. Meyer did not qualify for the program because he had insufficient years of service. He was able to qualify only by using over $5,000 of non-marital funds to repurchase two years of service based upon his non-marital military service. This is decidedly not a case where the mere passage of time led to an increase in benefits; affirmative and costly action was required by Mr. Meyer, while nothing was required by Mrs. Meyer.\nIn addition, as the dissenting memorandum in the Superior Court noted, Mr. Meyer made an additional post-marital \u201ccontribution\u201d to obtain this benefit in that, in exchange for the benefit, he agreed to leave his employment \u201cprematurely.\u201d Meyer v. Meyer, 724 A.2d 967, Superior Court Slip Opinion at 6 (July 8, 1998)(Tamilia, J., dissenting). The increased benefit attributable to the five-year credit was intended, in part, to compensate Mr. Meyer for losing an untold number of years of additional earnings if he had continued working. If Mr. Meyer did not participate in the SRO and retire early, his continued earnings clearly would not be considered marital property. Thus, it is illogical to hold that any of the compensation arising from the SRO becomes marital property simply because the SRO benefit was offered to Mr. Meyer as an inducement to retire. Accordingly, I respectfully dissent.\nJustices ZAPPALA and NIGRO join this dissenting opinion.\n. I found support for this proposition in the Superior Court's decision in LaBuda v. LaBuda, 349 Pa.Super. 524, 503 A.2d 971 (1986). In LaBnda, the Superior Court held that a special one-time benefit offered to the employee-spouse after the date of marital separation should not be considered a marital asset, if that one-time benefit does not affect the parties\u2019 anticipated pension benefit. Mr. LaBuda was offered a special retirement program in April of 1983, whereby he would receive twenty-one monthly payments in exchange for retiring by July 31, 1983. Participation in the program would not alter his regular pension benefit. The employer offered the special program to Mr. LaBuda almost three years after the parties had separated. In determining that the benefit should not be considered marital property, the Superior Court focused on the expectations of the parties. \"To the extent that a property right 'accrues' or 'arises' during the marriage, then, the spouses expect they will enjoy the property when they receive it.\u201d Id. at 533, 503 A.2d at 976. Mrs. LaBuda \"could not have expected to enjoy [the benefit] ... because neither party had any idea that [Mr. LaBuda] would receive the payments until after they separated.\u201d Id. at 534, 503 A.2d at 976.\nThis Court has approved the LaBuda analysis in Horner v. Horner, 560 Pa. 559, 747 A.2d 337, 339, 1997 Pa. LEXIS 2835 at *6 (1997)(re-jecting claim that separation benefits paid after marriage ended was marital property: \"[t]his interest was neither acquired during the marriage nor was it a benefit the acquisition of which could have been foreseen or anticipated.\u201d). The majority nevertheless dismisses that analysis as \u201cunhelpful.\u201d",
+        "type": "dissent",
+        "author": "CASTILLE, Justice,"
+      }
+    ],
+    "attorneys": [
+      "James E. Mahood, Pittsburgh, for James W. Meyer.",
+      "Ronald L. Muha, Whitaker, Wendy E. DeGeorge, for Elaine M. Meyer."
+    ],
+    "corrections": "",
+    "head_matter": "749 A.2d 917\nJames W. MEYER, Appellant, v. Elaine M. MEYER, Appellee.\nSupreme Court of Pennsylvania.\nSubmitted Sept. 8, 1999.\nDecided April 17, 2000.\nReargument Denied June 15, 2000.\nJames E. Mahood, Pittsburgh, for James W. Meyer.\nRonald L. Muha, Whitaker, Wendy E. DeGeorge, for Elaine M. Meyer.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+  },
+  "file_name": "0225-01",
+  "first_page_order": 389,
+  "last_page_order": 396
+}

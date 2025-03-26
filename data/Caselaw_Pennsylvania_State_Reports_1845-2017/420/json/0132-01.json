@@ -1,0 +1,147 @@
+{
+  "id": 1898574,
+  "name": "Young, Appellant, v. United Steelworkers of America",
+  "name_abbreviation": "Young v. United Steelworkers of America",
+  "decision_date": "1966-01-17",
+  "docket_number": "Appeal, No. 36",
+  "first_page": "132",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "420 Pa. 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "403 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1299479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/403/0031-01"
+      ]
+    },
+    {
+      "cite": "400 Pa. 173",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1292505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/400/0173-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7141",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Stat. 136",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "371 U.S. 195",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        451047
+      ],
+      "weight": 2,
+      "year": 1962,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/371/0195-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7185",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1958,
+      "opinion_index": 1
+    },
+    {
+      "cite": "61 Stat. 156",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 3187,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 5.881958177012177e-08,
+      "percentile": 0.3685201337993064
+    },
+    "sha256": "c8ca03a37e49cd70742dc45b149fd27f1bbc2855c1b650e5abd4db6dd5c92113",
+    "simhash": "1:0a5310fc89240676",
+    "word_count": 524
+  },
+  "last_updated": "2024-02-27T23:35:31.240802+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ."
+    ],
+    "parties": [
+      "Young, Appellant, v. United Steelworkers of America."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer .Curiam,\nThe plaintiff Raymond Young filed a complaint in trespass against the United Steelworkers of America and its subsidiary Union 2323,. alleging that the defendants; as his agents, negligently and carelessly, represented him at an arbitration hearing which had to do with the propriety of the action of General Steel Industries, Inc., his employer, in discharging him from his job. The hearing resulted in the plaintiff\u2019s dismissal being affirmed.\nThe plaintiff claims that as a result of this dismissal, he lost wages in the amount of $125 per week for a period of 24 years (until he would reach the age of 65), for a total of $146,000.\nThe defendants filed preliminary objections raising, among other things, the question as to the court\u2019s jurisdiction, averring that the matters complained of were arguably an unfair labor practice within the exclusive jurisdiction of the National Labor Relations Board. The court below accepted this averment as valid and dismissed the complaint.\nThe plaintiff states that his employment relationship was unfairly prejudiced by the manner in which the defendants failed to properly represent him and that this failure resulted in the employer discriminating against him and removing him from his employment. This averment falls arguably within the scope of \u00a78(a) and (b) of the Labor Management Relations Act of 1947, as amended, 61 Stat. 136 et seq., 29 U.S.C. \u00a7141 et seq. Section 8(a)(3) of that Act. provides that it shall be an unfair, labor practice for an employer by discrimination, in regard to hire or tenure of employment or any term or condition of employment, to encourage or discourage membership in any labor organization, and \u00a78(b) provides it shall be an unfair l\u00e1bor practice for a labor organization or its agents to cause or attempt to cause an employer to discriminate against an employee in violation of \u00a78(a)(3).\nThus, the basic element of the plaintiff\u2019s cause of action is the injury he allegedly sustained to his employment status and the loss of earnings resulting therefrom; not an injury to his member-union relationship. This type of situation comes squarely within the rulings in Wax v. International Mailers Union, 400 Pa. 173 and Baker v. Shopmen\u2019s Local Union No. 755, 403 Pa. 31, which specified that actions based on such a situation come within the exclusive jurisdiction of the National Labor Relations Board.\nOrder affirmed.",
+        "type": "majority",
+        "author": "Per .Curiam,"
+      },
+      {
+        "text": "Dissenting Opinion by\nMr. Justice Roberts:\nI dissent. In my view the very least to which plaintiff is entitled is the opportunity to amend his complaint to an action of assumpsit which can be maintained in a state court under \u00a7301 of the National Labor Relations Act, 61 Stat. 156, 29 U.S.C. \u00a7185 (1958). Cf. Smith v. Evening News Association, 371 U.S. 195, 83 S. Ct. 267 (1962).\nAccordingly, I would remand.",
+        "type": "dissent",
+        "author": "Mr. Justice Roberts:"
+      }
+    ],
+    "attorneys": [
+      "Francis A. Ferrara, for appellant.",
+      "Melvin E. Caine, with him Norman M. Berger, and Gerber, Galfand & Berger, and Caine & Di Pasqua, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Young, Appellant, v. United Steelworkers of America.\nArgued November 10, 1965.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen, O\u2019Brien and Roberts, JJ.\nreargument refused February 16, 1966.\nFrancis A. Ferrara, for appellant.\nMelvin E. Caine, with him Norman M. Berger, and Gerber, Galfand & Berger, and Caine & Di Pasqua, for appellees.\nJanuary 17, 1966:"
+  },
+  "file_name": "0132-01",
+  "first_page_order": 168,
+  "last_page_order": 170
+}

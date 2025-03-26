@@ -1,0 +1,102 @@
+{
+  "id": 12284123,
+  "name": "Carmon v. Coleman",
+  "name_abbreviation": "Carmon v. Coleman",
+  "decision_date": "2016-08-10",
+  "docket_number": "212 MAL (2016)",
+  "first_page": "669",
+  "last_page": "669",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 669"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 188",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486432,
+        12486433,
+        12486434,
+        12486421,
+        12486422,
+        12486423,
+        12486424,
+        12486425,
+        12486426,
+        12486427,
+        12486428,
+        12486429,
+        12486430,
+        12486431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0188-07",
+        "/a3d/144-2/0188-08",
+        "/a3d/144-2/0188-09",
+        "/a3d/144-2/0188-10",
+        "/a3d/144-2/0188-11",
+        "/a3d/144-2/0188-12",
+        "/a3d/144-2/0188-13",
+        "/a3d/144-2/0188-14",
+        "/a3d/144-2/0188-01",
+        "/a3d/144-2/0188-02",
+        "/a3d/144-2/0188-03",
+        "/a3d/144-2/0188-04",
+        "/a3d/144-2/0188-05",
+        "/a3d/144-2/0188-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.9,
+    "sha256": "0d7091742efaa10ff133c77550dbe1fe3eaa02ea975ab8d70949077e93a6d4e8",
+    "simhash": "1:60846a2e95f9c1a2",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carmon v. Coleman"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 188",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Carmon v. Coleman\n08/10/2016\n212 MAL (2016)"
+  },
+  "file_name": "0669-07",
+  "first_page_order": 721,
+  "last_page_order": 721
+}

@@ -1,0 +1,106 @@
+{
+  "id": 12282485,
+  "name": "Com. v. Day",
+  "name_abbreviation": "Com. v. Day",
+  "decision_date": "2016-08-02",
+  "docket_number": "250 MAL (2016)",
+  "first_page": "658",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 658"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486688,
+        12486689,
+        12486690,
+        12486691,
+        12486692,
+        12486693,
+        12486678,
+        12486679,
+        12486680,
+        12486681,
+        12486682,
+        12486683,
+        12486684,
+        12486685,
+        12486686,
+        12486687
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0205-04",
+        "/a3d/144-2/0205-05",
+        "/a3d/144-2/0205-06",
+        "/a3d/144-2/0205-07",
+        "/a3d/144-2/0205-08",
+        "/a3d/144-2/0205-09",
+        "/a3d/144-2/0205-10",
+        "/a3d/144-2/0205-11",
+        "/a3d/144-2/0205-12",
+        "/a3d/144-2/0205-13",
+        "/a3d/144-2/0205-14",
+        "/a3d/144-2/0205-15",
+        "/a3d/144-2/0205-16",
+        "/a3d/144-2/0205-01",
+        "/a3d/144-2/0205-02",
+        "/a3d/144-2/0205-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 154,
+    "ocr_confidence": 0.74,
+    "sha256": "1b9016e35b3a02eb235e24417c4d1b398541597c813c4f6da7783ab75a895168",
+    "simhash": "1:2f36aa42a773f9ce",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Day"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 205",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Day\n08/02/2016\n250 MAL (2016)\n. Justice MUNDY did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0658-05",
+  "first_page_order": 710,
+  "last_page_order": 710
+}

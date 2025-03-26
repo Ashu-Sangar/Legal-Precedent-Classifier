@@ -1,0 +1,110 @@
+{
+  "id": 458800,
+  "name": "Thomas Will",
+  "name_abbreviation": "Thomas Will",
+  "decision_date": "1944-04-10",
+  "docket_number": "Appeal, No. 44",
+  "first_page": "212",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "349 Pa. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "31 A. 58",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Pa. 97",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        864175
+      ],
+      "pin_cites": [
+        {
+          "page": "p. 109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/166/0097-01"
+      ]
+    },
+    {
+      "cite": "28 A. 441",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Pa. 562",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850198
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/159/0562-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 191,
+    "char_count": 1949,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.654354661060585e-07,
+      "percentile": 0.6932774845174371
+    },
+    "sha256": "d5e17009715559cdd1d5582ffddea4a8835b3ae9942e8ee73fc510d30052ab64",
+    "simhash": "1:c42732b94b83873f",
+    "word_count": 355
+  },
+  "last_updated": "2024-02-27T22:56:39.230105+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Hughes, JJ."
+    ],
+    "parties": [
+      "Thomas Will."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Maxey,\nThis is an appeal from a decree of the Orphans\u2019 Court of Allegheny County refusing a motion for an issue d. v. n. and directing the probate of a will.\nThe questions involved the mental capacity of the decedent and whether or not fraud, duress and undue influence had been practiced upon her, The Court below held that there was not sufficient evidence to require the submission of the issues to the jury. We agree with this.\nIt appears in this case that the heirs and next of kin had not been joined as parties. We held in Miller\u2019s Estate, 159 Pa. 562, 28 A. 441, that \u201cWhere the heirs at law of a decedent are not voluntarily parties to an issue devisavit vel non, or have not been brought in by citation, the orphans\u2019 court has no jurisdiction to settle finally the validity of the will against such of the heirs as are not parties to the proceedings.\u201d In Miller\u2019s Estate, 166 Pa. 97, at p. 109, 31 A. 58, we said: \u201cThe act of 1832 prescribes the form of the precept to be issued by the register to the judges of the court of common pleas, in which is the direction that an issue be framed between the proponent and the caveator upon the merits of the controversy between them, and that the said judges cause all other persons who may be interested in the estate of the alleged testator \u2018as heirs, relations, or next of kin, devisees, legatees, or executors to be warned that they may come into our said court and become parties to the said action if they shall see cause.\u2019 \u201d\nHowever, the omission referred to does not warrant our reversing the decree of the court below.\nThe decree is affirmed on the opinion of President Judge Trimble, costs to be paid by the appellant.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Maxey,"
+      }
+    ],
+    "attorneys": [
+      "Jason Richardson, with him E. J. McGuinness, for appellant.",
+      "A. M. Oliver, with him A. W. Forsyth, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Will.\nArgued March 24,1944.\nBefore Maxey, C. J., Drew, Linn, Stern, Patterson, Stearns and Hughes, JJ.\nJason Richardson, with him E. J. McGuinness, for appellant.\nA. M. Oliver, with him A. W. Forsyth, for appellee.\nApril 10, 1944:"
+  },
+  "file_name": "0212-01",
+  "first_page_order": 234,
+  "last_page_order": 239
+}

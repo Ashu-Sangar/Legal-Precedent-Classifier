@@ -1,0 +1,96 @@
+{
+  "id": 93901,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Brian S. HIMES, Respondent",
+  "name_abbreviation": "Commonwealth v. HIMES",
+  "decision_date": "2000-05-17",
+  "docket_number": "Petition No. 594 W.D. Allocatur Docket 1998",
+  "first_page": "345",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "561 Pa. 345"
+    },
+    {
+      "type": "parallel",
+      "cite": "750 A.2d 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "741 A.2d 1281",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11658338,
+        837190
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/741/1281-01",
+        "/pa/559/0646-01"
+      ]
+    },
+    {
+      "cite": "559 Pa. 646",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        837190
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/559/0646-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 457,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0030420692480526857
+    },
+    "sha256": "05f920918f6c9cb2e6dd0785a1b245481b6af6cd757d54d0b6713a4f18eb4c90",
+    "simhash": "1:18ae52fd06a38dbe",
+    "word_count": 78
+  },
+  "last_updated": "2024-02-27T17:40:57.208622+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Brian S. HIMES, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 17th day of May, 2000, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is VACATED, and the matter is REMANDED to the trial court to consider the effect of this Court\u2019s recent decision in Department of Transp. v. Kline, 559 Pa. 646, 741 A.2d 1281 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "750 A.2d 304\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Brian S. HIMES, Respondent.\nSupreme Court of Pennsylvania.\nMay 17, 2000."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 509,
+  "last_page_order": 509
+}

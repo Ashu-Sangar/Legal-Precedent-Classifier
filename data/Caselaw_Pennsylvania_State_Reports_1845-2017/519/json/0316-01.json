@@ -1,0 +1,82 @@
+{
+  "id": 1813582,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Anthony GREGORY, Respondent",
+  "name_abbreviation": "Commonwealth v. Gregory",
+  "decision_date": "1988-10-17",
+  "docket_number": "Petition No. 185 W.D. Allocatur Dkt. 1988",
+  "first_page": "316",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "519 Pa. 316"
+    },
+    {
+      "type": "parallel",
+      "cite": "548 A.2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808559
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/516/0300-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 497,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06746609551367666
+    },
+    "sha256": "4fec43054e613d2adad01a034379850eefdee2188f64ca587e4014116a0f281f",
+    "simhash": "1:b6de7f6fb25821bc",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T21:33:40.073450+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Anthony GREGORY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is granted. The Order of the Superior Court, insofar as it vacates the order of the trial court and remands for resentencing, is vacated and the judgment of sentence is reinstated. In all other respects the order is affirmed. See Commonwealth v. Samuels, 516 Pa. 300, 304 n. 4, 532 A.2d 404, 406 n. 4 (1987).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "548 A.2d 250\nCOMMONWEALTH of Pennsylvania, Petitioner, v. Anthony GREGORY, Respondent.\nSupreme Court of Pennsylvania.\nOct. 17, 1988."
+  },
+  "file_name": "0316-01",
+  "first_page_order": 532,
+  "last_page_order": 533
+}

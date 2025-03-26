@@ -1,0 +1,76 @@
+{
+  "id": 12286008,
+  "name": "Schader v. Schader",
+  "name_abbreviation": "Schader v. Schader",
+  "decision_date": "2015-10-27",
+  "docket_number": "370, 371 MAL (2015)",
+  "first_page": "780",
+  "last_page": "780",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 780"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1049",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 A.3d 374",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 96,
+    "ocr_confidence": 0.86,
+    "sha256": "712e5f86baee67da61147efc816b60d59800766a1af1f3c5de22f7b3452442de",
+    "simhash": "1:3d287533d2728048",
+    "word_count": 16
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schader v. Schader"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 120 A.3d 374; 120 A.3d 1049",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Schader v. Schader\n10/27/2015\n370, 371 MAL (2015)"
+  },
+  "file_name": "0780-12",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

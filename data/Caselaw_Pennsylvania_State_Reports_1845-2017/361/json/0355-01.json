@@ -1,0 +1,656 @@
+{
+  "id": 476376,
+  "name": "McConnell, Appellant, v. Williams",
+  "name_abbreviation": "McConnell v. Williams",
+  "decision_date": "1949-03-25",
+  "docket_number": "Appeals, Nos. 196 and 197",
+  "first_page": "355",
+  "last_page": "376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "361 Pa. 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "90 A. 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "244 Pa. 221",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1003470
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/244/0221-01"
+      ]
+    },
+    {
+      "cite": "177 Fed. 79",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        20983
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/177/0079-01"
+      ]
+    },
+    {
+      "cite": "145 S. E. 673",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 N. C. 367",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8626950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/196/0367-01"
+      ]
+    },
+    {
+      "cite": "12 La. Ann. 394",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        573409
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/la-ann/12/0394-01"
+      ]
+    },
+    {
+      "cite": "67 N. Y. 379",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2164971
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/67/0379-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. (N. Y.) 9",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011150
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/9/0009-01"
+      ]
+    },
+    {
+      "cite": "154 P. 2d 687",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal. 2d 486",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2231221
+      ],
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/25/0486-01"
+      ]
+    },
+    {
+      "cite": "64 P. 2d 409",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal. 2d 82",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2247627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/8/0082-01"
+      ]
+    },
+    {
+      "cite": "94 Mont. 355",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4970361
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "366, 367"
+        },
+        {
+          "page": "613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/94/0355-01"
+      ]
+    },
+    {
+      "cite": "51 Ida. 81",
+      "category": "reporters:state",
+      "reporter": "Idaho",
+      "case_ids": [
+        2340200
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/idaho/51/0081-01"
+      ]
+    },
+    {
+      "cite": "280 P. 820",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Okla. 270",
+      "category": "reporters:state",
+      "reporter": "Okla.",
+      "case_ids": [
+        6280262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/okla/138/0270-01"
+      ]
+    },
+    {
+      "cite": "221 P. 752",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "pin_cites": [
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Okla. 203",
+      "category": "reporters:state",
+      "reporter": "Okla.",
+      "case_ids": [
+        6421131
+      ],
+      "pin_cites": [
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/okla/94/0203-01"
+      ]
+    },
+    {
+      "cite": "123 So. 726",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "pin_cites": [
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 A. 166",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 Pa. 479",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1134604
+      ],
+      "pin_cites": [
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/305/0479-01"
+      ]
+    },
+    {
+      "cite": "53 A. 2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "596"
+        },
+        {
+          "page": "595, 596"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "357 Pa. 204",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472085
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "209"
+        },
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/357/0204-01"
+      ]
+    },
+    {
+      "cite": "45 A. 2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "61"
+        },
+        {
+          "page": "62"
+        },
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "353 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465937
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "413, 414"
+        },
+        {
+          "page": "414"
+        },
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/353/0408-01"
+      ]
+    },
+    {
+      "cite": "37 A. 2d 596",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "599"
+        },
+        {
+          "page": "599"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "349 Pa. 511",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        459305
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "516"
+        },
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/349/0511-01"
+      ]
+    },
+    {
+      "cite": "158 A. 561",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "306 Pa. 13",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1136923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/306/0013-01"
+      ]
+    },
+    {
+      "cite": "157 A. 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 Pa. 378",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1134659
+      ],
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/305/0378-01"
+      ]
+    },
+    {
+      "cite": "36 A. 2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "348 Pa. 619",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1220313
+      ],
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/348/0619-01"
+      ]
+    },
+    {
+      "cite": "23 A. 2d 470",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 Pa. 636",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1208384
+      ],
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/343/0636-01"
+      ]
+    },
+    {
+      "cite": "5 A. 2d 559",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "334 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1190795
+      ],
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/334/0233-01"
+      ]
+    },
+    {
+      "cite": "64 A. 2d 785",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "361 Pa. 317",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        476387
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/361/0317-01"
+      ]
+    },
+    {
+      "cite": "360 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475106
+      ],
+      "pin_cites": [
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/360/0053-01"
+      ]
+    },
+    {
+      "cite": "15 A. 553",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 Pa. 624",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559800
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/120/0624-01"
+      ]
+    },
+    {
+      "cite": "90 A. 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "244 Pa. 221",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1003470
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/244/0221-01"
+      ]
+    },
+    {
+      "cite": "45 A. 2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "353 Pa. 408",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465937
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/353/0408-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1506,
+    "char_count": 39367,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 1.0301501396095429e-06,
+      "percentile": 0.9836534871338058
+    },
+    "sha256": "1c05a48f8e0cbdf3ccf27ccc48579f55566a365c49542e1b438686e4ea17b9f8",
+    "simhash": "1:bfb2f9a0e71a35fa",
+    "word_count": 6662
+  },
+  "last_updated": "2024-02-27T19:16:32.343400+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Maxey, C. J., Drew, Stern, Patterson, Stearne and Jones, JJ."
+    ],
+    "parties": [
+      "McConnell, Appellant, v. Williams."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Horace Stern,\nPhysicians and surgeons, like other persons, are subject to the law of agency, and one of them may be, either permanently or temporarily, in the service of another. The question in the present case is whether such a relationship existed between a hospital interne and defendant, a practicing surgeon, during the latter\u2019s performance at the hospital of an obstetrical operation in the course of which the interne, by alleged negligence, injured the new-born child of the patient.\nThe facts\u2014assuming plaintiff\u2019s testimony to be true\u2014are these: Mrs. Joseph K. McConnell consulted defendant in his professional capacity and she and her huband engaged him to attend her during her pregnancy and to deliver her of an expected child. Finding that a caesarian operation would be necessary, defendant suggested that it be performed at the Jewish Hospital in Philadelphia where he was one of the chiefs of the obstetrical staff, and accordingly she entered there on December 2, 1943. While the Jewish Hospital is not a public hospital in the sense of being owned or operated by government, it is a non-profit, charitable institution, with both private-patient and ward service, its facilities being available to all.\nOn December 3 defendant requested one of the internes at the hospital to attend on the following day \u201cto be his assistant and to take care of the baby at the time of the operation,\u201d but, being told that that interne would not be on duty, he asked that a certain other interne whose name he mentioned should be informed that \u201che was to be his assistant and take care of the baby at the time of the delivery.\u201d The operation took place on December 4; in the operating room, in addition to defendant and the patient, there were present a nurse attached to the hospital, another nurse privately engaged by Mrs. McConnell, and the interne whom defendant had designated. The operation was apparently a difficult one; the patient suffered profuse hemorrhages which required defendant\u2019s complete attention. When the child was delivered he .turned it over to the interne for the purpose of tying the cord and applying a solution of silver nitrate to the infant\u2019s eyes. Silver nitrate is an extremely caustic drug .requiring careful dosage, and proper, technique calls for the application of only one or two drops in each eye followed by prompt irrigation. A subsequent analysis of . the silver nitrate used on this occasion revealed that it was a 2.1 solution which, it was testified, was not of excessive intensity. The insertion of silver nitrate or other approved prophylactic agent in the eyes of every new-born child is not only a regularly established practice in obstetrical cases but is required by the rules and regulations of the Department of Health of the Commonwealth, the purpose being to prevent the disease known as ophthalmia neonatorum. According to the testimony of Mrs. McConnell\u2019s nurse the interne in this case filled a syringe and squirted the solution once^ into the child\u2019s left eye and twice into its right eye, putting into the latter \u201ca great many drops\u201d; moreover, he. failed to irrigate the eyes during at least the period of five or ten minutes while this nurse remained in the operating room. The result was that the child lost the sight in her right eye completely, which was so badly burned that it had later to be excised, necessitating a. plastic , operation and the substitution of a glass eye which she will be obliged to wear throughout her life; the left eye was also severely and permanently scarred. Defendant himself testified that the insertion of the silver nitrate drops was not a job-which required any special skill; he said that \u201cit.is done by midwives, nurses, students, physicians, and even those who are not educated in medicine in any way.\u201d\nThe present suit in trespass to ree\u00f3ver damages was brought against defendant on behalf of the injured child by her father Joseph K. McConnell and by the latter in his own right. At the conclusion of plaintiffs\u2019 testimony the court entered a nonsuit. It is their contention that the case should have been submitted to the jury, and that the court was in error\u2019 in negativing defendant\u2019s \u2018 responsibility \u00e1s a matt\u00e9r of law. They do not charge defendant personally with any act of negligence either of commission or omission; they-apparently concede that h\u00e9 is an obstetrician of high repute and that the operation he performed on Mrs. McConnell was entirely satisfactory and not subject to criticism. On the other hand, their testimony made out a prima facie case of negligence against the interne, and therefore the only legal question involved is whether the doctrine of respondeat superior applies, that is \u2019to'Say, whether, for the purpose of and during the course of the operation, which included the immediate caretaking of the infant child, the interne was, in the view of the law, the servant or employee of defendant.\nCounsel- for both plaintiffs and defendant agree that there is no exact precedent in Pennsylvania for the determination of this question, and little, if any, in other jurisdictions. However, the \u2019general principles applicable to the situation are not only clear, but so firmly established that there is no need to \u00e9xplore any new and hitherto uncharted pathway in the law. These applicable principles are as follows: '\n1. In determining whether a person is the servant of another, the essential-test is whether he-is subject to the latter\u2019s control or right of control with regard not only to the work to be done but also-to the manner of performing it: Walters v. Kaufmann Department Stores, Inc., 334 Pa. 233, 235, 5 A. 2d 559, 560; Joseph v. United Workers Association, 343 Pa. 636, 639, 23 A. 2d 470, 472. The true criterion is the existence of power to control the employee at the time of the commission of the negligent act: McGrath v. Edward G. Budd Manufacturing Co., 348 Pa. 619, 623, 36 A. 2d 303, 305.\n2. A servant directed or permitted by his master to perform services for another may become the servant of such other in performing the services; he may become the other\u2019s servant as to some acts, and not as to others: Rest. Agency, \u00a7 227. The important question is not whether he remains the servant of the general employer as to matters generally, but whether, as to the specific transaction in question, he is acting in the business of, and under the direction of, the one or the other: \u00a7 227, Comment a. Where one person lends his servant to another for a. special employment .the test is whether, in the particular service he is engaged to perform, he continues liable to the direction and control of his master or becomes subject to that of the party to whom he is lent or hired: Lang v. Hanlon (No. 1), 305 Pa. 378, 382, 157 A. 788, 789; Rosen v. Diesinger, 306 Pa. 13, 158 A. 561; Dunmire v. Fitzgerald, 349 Pa. 511, 516, 37 A. 2d 596, 599; Siidekum, Administrator, v. Animal Rescue League of Pittsburgh, 353 Pa. 408, 413, 414, 45 A. 2d 59, 61.\n3. A person may be. the servant of two masters, not joint employers, at one time as to one act, provided that the service to one does not involve abandonment of the service to the other: Rest. Agency, \u00a7 226. Such is the case where an employee is transferred to carry on work which is of mutual interest to both of two employers and to effect their common purpose: Siidekum, Administrator, v. Animal Rescue League of Pittsburgh, 353 Pa. 408, 414, 45 A. 2d 59, 62; Kissell v. Motor Age Transit Lines, Inc., 357 Pa. 204, 209, 53 A. 2d 593, 596.\n4. When different inferences can fairly be drawn from the evidence as to who is the controlling master of the borrowed employee at the time of the commission of the negligent act, it is for the jury, not the court, to determine the question of agency: Dunmire v. Fitzgerald, 349 Pa. 511, 516, 37 A. 2d 596, 599; Siidekum, Administrator, v. Animal Rescue League of Pittsburgh, 353 Pa. 408, 414, 45 A. 2d 59, 62; Kissell v. Motor Age Transit Lines, Inc., 357 Pa. 204, 209, 53 A. 2d 593, 595, 596.\nIn applying these principles of agency to the present case it is to be noted at the outset that defendant\u2019s obligation under his contract with Mrs. McConnell included not only her prenatal care and the delivery of her child, but also the care of the latter until it was turned over to the family physician. Mrs. McConnell testified, when asked what defendant \u201csaid he would do\u201d, that \u201che would perform a caesarian operation and care for the baby for the sum of $200.\u201d Defendant himself, when asked what his agreement covered and whether his liability was to continue until the baby was turned over to the family doctor, answered that \u201cI so considered that it was.\u201d It may well have been in contemplation that he might need help in taking care of the new-born infant, and, as it subsequently turned out, such help was essential, but the necessity of employing assistants is one of the ordinary circumstances of both business and professional life; it is to regulate just such situations that the law of agency exists. In' selecting a person to aid him in carrying out that part of his undertaking defendant was presumably free to make his own choice; there is nothing in the record to indicate that he was compelled to employ an interne; as previously stated, he testified, that as far as the insertion of the silver nitrate solution was concerned it would not have been necessary to use any licensed physician at all. What he chose to do was to call for and borrow from the hospital an interne who thereby became\u2014or so at least a jury might find\u2014his temporary servant or employee for the purpose for which he was engaged.\nThe next important fact to be considered is that defendant himself testified that he had complete control of the operating room and of every person within it while the operation was in progress. To the'question whether they were all Subject to his orders during that-period his answer was: \u201cSure\u201d. Asked whether the interne- was bound to carry out his orders, his nnsVer was :\u2019 \u201cThat' is t\u00edorrect\u201d; And indeed it can readily be understood that in the course of an operation in the operating room of a hospital, and until the surgeon leaves that room at the conclusion of th\u00e9 op\u00e9ration, (the \u201coperation\u201d in the present case including the tying of the cord and the insertion of the silver nitrate solution in the infants eyes) he is in the same complet\u00e9 charge of those who are present and assisting him as is the captain of a ship over all on board, and that such supreme control' is indeed essential in view of the high degree of protection to which an anaesthetized) unconscious patient is entitled, a protection which Mrs. McConnell could justly claim in this cas\u00e9 by reason Of her trust and confidence in, and necessary reliance upon, the surgeon she employed to take care of h\u00e9r and her child when born.\nIf, then, it be true that defendant had \u2019supervisory control and the right to give orders to the interne in regard to the very act in the performance of which the latter was negligent, it would follow, according to the\u2019 classical test of agency hereinbefore stated, that a jury would be justified in concluding that the temporary relationship betwe\u00e9n defendant and the interne was that of master and Servant, and that consequently defendant- was. legally liable. for the harm caused by any negligence on the part of the interne. As succinctly stated by Mr. Justice (now Chief Justice) Maxey in Rodgers v. Saxton, 305 Pa. 479, 488, 158 A. 166, 169: \u201cResponsibility is .commensurate with authority\u201d. Nor is it a tenable argument that- defendant should be relieved from legal responsibility because; the hospital furnished the services of an interne just as it furnished the silver nitrate-solution and the facilities of its laboratory and just as it furnished Mrs. McConnell with a room and board upon her payment of the hospital charges. The difference between the hospital\u2019s supplying mere mechanical implements or medicines and its furnishing, at defendant\u2019s request, an interne to assist him in the-operating: room.in the discharge of a duty which rested primarily\u2019on defendant\u2019s own shoulders, is obvious, because, by the interne\u2019s becoming subject to his control, he became, responsible for the proper performance by the interne of all acts .done in subordination to-such control, whether defendant actually exercised it or not, and it would make no difference, in view of such control, whether the interne was furnished by the hospital or had been obtained in some other manner. As far as the evidence discloses' it was\u2019 defendant, not the hospital, who assigned the interne; to the task of inserting the silver nitrate solution into the infant\u2019s eyes, and, even if-in the performance of that act he may also have been serving the hospital, that fact would not change his legal status, with respect to defendant, since a borrowed employee may, in the performance of a given act, be serting the interests of both his general employer and his temporary master.\nIt is urged by defendant that the rule of law in regard 'to a \u201cborrowed employee\u201d should no\u2019t apply where the employee ,is a regular part of the personnel of a public or quasi-public hospital. But such an employee can be temporarily detached, in whole or in part, from the hospital\u2019s general control, just as in Siidekum, Administrator, v. Animal Rescue League of Pittsburgh, 353 Pa. 408, 45 A. 2d 59, a policeman was held to have been borrowed from the city\u2019s police force so as to become the temporary servant of a charitablev institution for the purpose of driving its truck on the particular occasion when, by his negligence, an accident occurred.\nDefendant\u2019s counsel cites several cases from other jurisdictions in an attempt to show that an operating surgeon is not generally held liable for the negligence of hospital internes and nurses. In those cases, however, the negligence on the part of the nurse or interne was in connection with the post-operative care of a patient, not administered in the presence or under the control of the surgeon. Plaintiffs do not contend that a surgeon\u2019s liability should apply, after the operation is concluded, to treatment administered by floor nurses and internes in the regular course of the services ordinarily furnished by a hospital; as to all such care and attention they would clearly be acting exclusively on behalf of the hospital and not as assistants to the surgeon. But for the period of the operation itself the situation is entirely different, and if operating surgeons were not to be held liable for the negligent performance of the duties of those then working under them, the law would fail in large measure to afford a means of redress for preventable injuries sustained during the course of such operations.\nIn Jordan v. Touro Infirmary, 123 So. 726, 730 (La.), the Court said: \u201cAs we have seen from the testimony that the nurses are absolutely under the orders of the surgeons in the operation room and in no manner controlled by the officers of the defendant [hospital], it [the hospital] has no responsibility for the acts of the nurses. They may be considered, pro hac vice, as the servants of the surgeon.\u201d \u2022 *\nIn Aderhold v. Bishop, 94 Okla. 203, 206, 221 P. 752, 754, the Court stated that \u201cWhile the head nurse and her assistants were , the general employees of the El Reno Sanatarium, they were nevertheless, during the time required for. the actual operation, under the direction and supervision of the operating surgeons, and were the servants of the operating surgeons in respect to such services as were rendered by them in the performance of the operation, and for any negligence on the part of such employees in the performance of such services the operating surgeons are liable.\u201d\nIn Emerson v. Chapman, 138 Okla. 270, 280 P. 820, it was held that where a surgeon performs an operation at a hospital, and a nurse, an employee of the hospital, is used by him to remove adhesive tape and, with a fluid, clean the body of the patient then under an anaesthetic, the surgeon is liable for any negligence on the part of the nurse in applying the fluid for the reason that she was then under the immediate supervision and control of the operating surgeon.\nIn Davis v. Potter, 51 Ida. 81, 2 P. 2d 318, it was held that where the evidence disclosed that the surgeon supervised the placing of a patient in bed in the hospital after an operation, he was liable for the negligence of a nurse which resulted in the patient being burned by a hot water bottle which the nurse had placed there. In that case the surgeon obviously extended the period during which his responsibility continued by assuming the duty of conveying the patient from the operating room to her own room and there seeing that she was placed safely in bed.\nIn Simons v. Northern Pacific Rwy. Co., 94 Mont. 355, 366, 367, 22 P. 2d 609, 613, the Court said: \u201cThe mere tact that an assistant-to a physician or surgeon is himself, or herself, a member of the same ora similar profession, does not take the employer and employee out of the operation of the rule of respondeat superior. Where a physician retains complete control . . . but delegates to another the manual administration of the prescribed treatment; the relation of principal and agent, exists, whether the person administering the treatment b\u00e9 a dayman, a physician, or a nurse.\u201d\nIn Ales v. Ryan, 8 Cal. 2d 82; 105, 64 P. 2d 409, 420, it was said: \u201cThe surgeon in absolute charge of and who is directing the operation [performed by him at a hospital] . . . is responsible for the negligent act of the assistant, [a nurse who was an \u2019employee of the hospital] in failing to remove a sponge from the abdomen.\u201d\nIn Ybarra v. Spangard, 25 Cal. 2d 486, 492, 154 P. 2d 687, 690, the Court stated that \u201cIn this connection, it should be noted that while the assisting physicians and nurses may. be employed by the hospital or engaged by the patient, they normally become the temporary servants Or agents-of the surgeon in charge while the operation is in progress, and liability may be imposed upon him -for their - negligent acts under the doctrine of respondeat superior. Thus a surgeon has been held liable for th\u00e9 negligence of an assisting nurse who leaves a-sponge or other object, inside a patient, and the fact that the duty of seeing that\u2019 such mistakes do not-occur is delegated to others \u2019does not absolve the doctor from responsibility for their negligence.\u201d\nIn the present case the' court erred in entering a non-suit. It is for the jury to determine whether -the relationship between defendant and the interne, at the time the child is eyes were injured was that of master and servant. If such was the; relationship, defendant is legally liable for the injury caused; by the interne\u2019s alleged negligence. In determining whether the interne was defendant\u2019s servant at that time, the mere fact that he was then in the general employ of the hospital would not prevent the jury from finding that he was also at that same time the servant of defendant, if he was then subject, to his orders in respect to the treatment of the child\u2019s eyes with the silver -nitrate solution.\nOrder reversed . and record; . remanded with a procedendo. ... ......\nAs. to the personal liability, of .the captain, of a. vessel for negligent acts of the subordinate, officers and crew, whether or not appointed or employed by him, see Denison v. Seymour, 9 Wend. (N. Y.) 9; Ryall v. Kennedy, 40 N. Y. Superior Ct. (8. Jones & Spencer) 347, affirmed 67 N. Y. 379; Daret v. Gray, 12 La. Ann. 394; 58 C. J. 288 [\u00a7 400] b; Story on Agency, 9th ed. pp. 386, 387, \u00a7 314; idem., p. 388, \u00a7 316.\nCovington v. Wyatt, 196 N. C. 367, 145 S. E. 673; Harris v. Fall, 177 Fed. 79; Harlan v. Bryant, 87 Fed. (2) 170; Hohenthal v. Smith, 114 Fed. (2) 494; Stewart v. Manasses, 244 Pa. 221, 90 A. 574.",
+        "type": "majority",
+        "author": "Mr. Justice Horace Stern,"
+      },
+      {
+        "text": "Dissenting opinion by\nMr. Justice Allen M. Stearne:\nThe majority decide that a senior staff surgeon of a charitable hospital\u2019s obstetrical department who delivered a child of his private, patient in the hospital is personally liable in damages for an injury to the child caused by the alleged negligence of a hospital intern, a part of the hospital staff, an individual whom the surgeon neither hired nor paid and could not discharge.\nIn the opinion it is said, that counsel for both plaintiffs' and defendant agree that there is no exact precedent in Pennsylvania and little, if any, in other jurisdictions: It is also stated: \u201cHowever, the general principles applicable to the situation are not only clear, but so firmly established that there is no need to explore any new and hi therto uncharted pathway in the law.\u201d With this statement I am in complete disagreement. The majority misconceive the functions and duties of a charitable hospital respecting its staff, personnel and equipment when its facilities are made available to one of its staff surgeons who operates, in the hospital, on one of his private patients: They commence with a false premise, upon which they have erected an erroneous hypothesis. It is assumed that a charitable or public hospital ims the same attributes that would exist if the surgeon conducted a- private hospital, where the doctrine of respondeat superior would\u2019 apply. A private hospital, however,\u201d is operated for pro fit and consequently the owners are responsible for the negligence of their servants and agents as they would be if engaged in any other business enterprise. Because the staff surgeon operates on his private patient in a charitable hospital for a fee, the majority erroneously decide that when a hospital intern assists in such an operation, the public hospital \u201clends\u201d the intern (as well as all the hospital equipment and personnel) to the surgeon, who \u201cborrows\u201d from the charitable hospital for the surgeon\u2019s private gain. This is a false assumption. There can be no \u201clending\u201d or \u201cborrowing\u201d where a charity is involved. Such a transaction would be illegal. All assets of a charitable hospital are held in trust and must be employed solely for the purposes donated. Trust funds may not be given away. Furthermore, charities are not liable for the torts of their employes. Cf. Fire Insurance Patrol v. Boyd, 120 Pa. 624, 15 A. 553, and the many cases following it; Brindle Will, 360 Pa. 53, 63. It is clear to me that trust property or the paid personnel of a charitable hospital may not be loaned to a private individual to enable him to make a private gain.\nThe majority mistakenly hold the surgeon liable for the hospital intern\u2019s negligence because the intern was subject to the orders and directions of the surgeon who, it is said in the opinion, \u201c. .. is in the same complete charge of those who are present and assisting him as is the captain of a ship over all on board. . . .\u201d, which principle may apply under maritime law.\nIn my view the majority fail to distinguish the difference in the status of a surgeon operating in his own private hospital and where, as a member of the surgical staff, he is permitted to operate, for a fee, on a private patient in the public hospital. When a private patient enters a public hospital the patient necessarily has made two contracts: (1) with a hospital staff doctor for the patient\u2019s treatment and (2) with the hospital itself for the furnishing of the hospital\u2019s facilities which include the intern as well as the other employes.\nA hospital staff doctor is one who is selected by the governing body of the hospital and is granted hospital privileges. Such a doctor gives his services without compensation to ward or free patients and is permitted to attend, in the hospital, private patients on a fee basis. See MacEachern, Hospital Organization and Management, Physicians\u2019 Record Co. (1935). There is no difference- in hospital maintenance and treatment between free and paid patients. A free patient, in a ward, receives the same food, care, and medical and surgical service which is.supplied to a private patient. A free patient, however, may not select any staff doctor he chooses. He is required to accept the assignment of the hospital medical or surgical staff. A private patient, who pays, is granted the privilege of selecting, from the: staff, the doctor or surgeon he desires. He also enjoys the privacy and comfort of a private room\u2014 graded as to price according to its location, size and furnishings.\nCounsel for plaintiffs reflects the mistaken idea that a staff surgeon who operates on a private patient in a hospital for a fee has the entire facilities of the hospital placed at his disposal for his profit. Counsel said in the lower court (p. 52a): . . these [patients] are sent to the hospitals for the convenience of the doctor and not because the [patients] want to go there.\u201d\nThis is an erroneous assertion. Patients are NOT sent to hospitals for the convenience of doctors. True, doctors may prefer the attention and security of hospital care but this is for the benefit of the patients. To enter a modern hospital as a patient is definitely to his safety, comfort and advantage. It is a matter of judicial knowledge, and medical history, that, as late as the preceding generation, before modern efficient hospitalization was available, the family doctor frequently employed the patient\u2019s kitchen both as a delivery and operating room. In a difficult obstetrical case, the ironing board was improvised as a delivery table while the kitchen table served for an operation. In a modern hospital every known facility and equipment is supplied at enormous cost for the benefit of both free and pay-patients.\nA modern public hospital is a well organized and efficiently operated institution. Both its business and professional organizations are highly developed. Not only does the hospital care for the sick, and injured,\" but is required by law to assist in the education of physicians, nurses and other personnel. The hospital is-conducted by professional chiefs of departments, assistant chiefs, resident physicians, interns, dietitians, nurses (graduate and student), orderlies and corps of other efficient and necessary personnel.\nIt is a matter of judicial knowledge that in all public hospitals\u2014whether operated or subsidized by federal or state government, church, fraternity or community, Where free paitient\u2019s are received and treated, and where paid patients are also admitted the revenue derived from private patients always proves insufficient to meet the operating expenses of the hospital. The government, church, fraternity, community or charitable minded organizations or individimls-are required to meet, or assist in meeting, operating deficits. Private patients> as well as ward patients, in public hospitals, are to a graduated degree b\u00e9neficiaries of charity. Ward patients instate aided hospitals are required to pay, when able, to-the extent-of their ability.\nHospital interns are required by statute to serve-an apprenticeship in an accredited hospital after graduation from a medical school before they become eligible to obtain a license to practice medicine and surgery. The\" statutory requirements are set forth in Section 5 of the Act of June 3, 1911, P. L. 639, as amended, 63 PS 405. Under this Act no person is entitled to a license to practice medicine or surgery unless he possesses-named-educational qualifications, is a graduate-of a credited-medical school and shall have completed not less than one year as intern in an approved hospital which shall have at least twenty-five beds to each intern devoted to the treatment of medical, surgical, gynecological, and special diseases; shall maintain or establish cooperation with a maternity department or hospital, in which each intern shall have not less than six weeks service or the equivalent, thereof. . . ,\u201d\nIn compliance with this. Act, the Pennsylvania Department of Public Instruction, Bureau' of Professional Licensing, State Board of Medical. Education and Li-censure, issued (as a public record) in May, 1941, Bulletin No. 625. It is stated therein that the service of ah intern is required to be a \u201crotating\u201d one with diversity of work including: maternity the: object, being, that the intern receives an adequate apprenticeship, training in each department. It is also stated in the State Bulletin: \". . . the hospitals of-the Commonwealth of Pennsylvania have become a part, of-the teaching system of medicine, and surgery. . .The duties, of an intern in- the Obstetrical Department are given .in detail and need-not now be recited. It will suffice-to state that, in general,.,the intern, is required, to be given, in the hospital, practical experience and .instruction in medicine and surgery in -order to enable him to practice as .a physician and surgeon.\nIt is not contended that had this defendant surgeon been operating upon a free patient, he would have been personally liable for the negligence of the hospital intern. The liability here imposed is based upon the contractual relation between the surgeon and his patient it is my view that when the patient contracted for her admission into the public hospital and engaged all its facilities for her own benefit, safety and comfort, and employed one of the hospital\u2019s, staff surgeons to perform the operation, it was the patient: herself who placed, the facilities of the hospital at her surgeon\u2019s disposal. True, she paid the hospital staff surgeon a fee, but she was still the hospital\u2019s patient, paying for the hospital facilities furnished, and was required to abide by all the rules of the hospital. The majority, on the contrary, decide that the contract with the hospital\u2019s staff surgeon placed the entire personnel of the hospital under the surgeon\u2019s direction and control, thereby constituting all of them his servants and agents. True, the majority appear to limit this liability to negligence of hospital employes only when the surgeon is personally present, that is, present in the same operating room, even though he is unaware of the occurrence of the alleged negligence. Such a limitation is illogical and reveals what I consider an arbitrary and unreasonable imposition of liability. If it is true, as averred in the statement of claim, that the surgeon was to include the care of the mother \u201cduring her pregnancy and to deliver her of her expected child, and to care for both mother and child at said time of delivery and convalescence\u201d or as is said in the opinion \u201c. . . until [the child] was turned over to the family physician,\u201d according to the theory of the majority the entire personnel of the hospital necessarily became the servants and agents of the surgeon during this period\u2014not only in the operating room but in every department of the hospital where its service touched the patient. An absurd result would logically follow: the surgeon could become liable for the negligence of the chauffeur who drives the patient to the hospital in the ambulance; for the elevator operators; the nurses (private, floor and student); resident physicians; interns; anesthetists; orderlies and all of the employes of the hospital whose service is available to \"his private patient. Another absurd result would necessarily follow. Not only was the personnel placed at the surgeon\u2019s service but the equipment as well. If the rule of the majority is adopted the surgeon, by the use of the hospital equipment, becomes personally responsible for its condition and maintenance. He would owe the duty to bis patient to inspect and keep in repair the ambulance, the elevators, the operating room equipment and every mechanical tool, object and device employed in the care and treatment of the patient.\nThe correct view, in my opinion, is that succinctly stated by counsel for defendant in bis brief (p. 5): \u201c. . . when a patient enters a hospital for a surgical operation the services to be rendered are partly to be rendered by the surgeon and partly by the hospital. The contract between the patient and the hospital covers the services to be rendered by it. The contract with the surgeon covers the services to be rendered by him.\u201d This suit is really an attempt to make the surgeon responsible for the service rendered by the hospital.\nThe charitable hospital, where this Caesarian operation was performed, is the Jewish Hospital of Philadelphia. It is a corporation of the first class not for profit, founded and conducted by charitable-minded public-spirited citizens of the Jewish faith, as a public hospital open to all irrespective of race, color or religious affiliation. It is supported entirely by fees from paying patients, by donations from religious and charitable organizations, individual beneficences and other charitable means. Its functions, in common with all public hospitals, are (1) care of the sick and injured and (2) education of physicians, nurses and other personnel. Defendant, one of its staff surgeons, suggested to bis patient the use of this hospital. The patient agreed. She caused arrangements to be made for her entry into the hospital and for the payment of the use of all the hospital facilities. When the time arrived (while the patient was in the hospital) for a necessary Caesarian section, the surgeon, in arranging for the operation, requested an intern named Davidson to assist him at the operation fixed for the following morning. Dr. Davidson told the surgeon that be was no longer on that service but that Dr. Constcur was. The surgeqn then requested Dr. Davidson to inform Dr. Gonston (the intern then on that service) to be present next morning to assist in the operation.\nI strongly disagree that this conversation constituted a selection by the surgeon of the intern \u201cwhom [the surgeon] had designated\u2019 Under the state law requiring; the rotating of interns, this; was the then current rotating service of \u2019 Dr. Conston. That duty was NOT performed at the request of and for the sole benefit of the surgeon. It was a, part of the standard requirements of hospital service.\nThe defendant surgeon, called as if under cross examination,. and whose uncontradicted testimony must be accepted as true; (Steffenson v. The Lehigh Valley Transit Company, 361 Pa. 317, 64 A. 2d 785, and cases therein cited), testified (p. 39a) : \u201cA. . . . The child was delivered through an incision made in the anterior abdominal wall and into the uterus. The-child- was withdrawn from-the uterus. The cord was'damped with two clamps. Q.- That was by you?--A;-Yes, and. cut -between* and then the child was handed\u2018to one of; the resident physicians to take to a table near by and to tie the cord--and treat the eyes while continued to'-treat the-patient. Q; Were you in-any position because of the-, condition of the mother patient to have given any personal attention to the child at that time?- A. No,.I wasn\u2019t,--because during the operation when the afterbirth;had separated and was being delivered Mrs. McConnell bled profusely. She bled-too freely..'- She had a- hemorrhage-from the side where the- placenta\u2019 or afterbirth whs inserted against, the wall of the uterus and it was necessary for mein stopping that hemorrhage to pack the uterus with gauze and then continue to-suture the uterus;together, close the incision, afid to close the incision in the abdohainal wall.\u2019 During that time I was too busy to prevent further-hemorrhage and taking cafe of her to pay any attention to the baby at the side table. Q. Now, this job of putting drops of silver nitrate in the baby\u2019s eyes, is it or is it not a job which requires any special skill? A. It is .done by midwives, nurses, students, physicians. and even those who are not educated.in medicine in any way.\u201d\nAlso, p. 40a: \u201cAt the time of a Caesarian Section it is the universal custom in the Philadelphia Hospitals that the.baby is. handed to an intern who with the. assistance of a nurse ties the cord and puts drops in the baby\u2019s eyes.\u201d\nWe have then the uncontradicted fact,, binding the plaintiffs, that while the entire, .and undivided, attention of the surgeon was thus necessarily centered upon the mother and during an obvious emergency (24a). the baby was handed to the intern by the .operating surgeon. The intern asked the \u201csupervisor\u201d, a graduate nurse, to hand .him the silver nitrate. (By .the Rules and Regulations of the Pennsylvania Department of Health authorized by the Act of June .7, 1923, P. L. 498, a solution of silver nitrate is required to be instilled in each eye of a newborn child.) . The nurse handed the intern a. glass container of this solution, .with a syringe, prepared .and supplied by the hospital. It is charged (and for the present purpose it must be assumed) that the intern negligently instilled too great a quantity of the solution into th\u00e9 eyes \u00f3f the infant and failed t\u00f3 properly irrigate them, causing a silver burn which ultimately resulted in the, removal of the right eye.'\nI shall, not attempt to analyze the various cases from other jurisdictions cited in the majority opinion. For the reasons given above, I cannot see the difference between the' h\u00e9gligenee' of a hospital employe' in postoperative care and negligence during the operation. If the intern is \u201cborrowed\u201d and thus b\u00e9cam\u00e9 th\u00e9 surgeon\u2019s servant, that relation necessarily continued, under the contract, \u201cuntil the baby was turned over to the family doctor.\u201d Stewart v. Manasses, 244 Pa. 221, 90 A. 574, ought to be adopted as the rule of this case. This Court would have imposed liability in that case if the nurse had been a servant of the doctor, as the majority\u2019s theory would necessarily imply. But it did not. We decided that the surgeon was NOT liable for the negligence of the nurse in wrongfully applying a hot water bottle.\nNo one questions that a servant may be employed by two masters. But in Siidekum v. Animal Rescue League of Pittsburgh, 353 Pa. 408, 45 A. 2d 59, the city Policeman who was driving the \u201cdog-catcher\u2019s truck\u201d which caused the accident, was in fact working as a policeman in the interest and employ of the city. The city employed the League to help it rid the city of stray dogs. Anyone who has observed the operations of dog-catchers will fully appreciate the necessity of the use of policemen when operating in certain sections of a community. That case, and its principles, do not govern the present case.\nIt is crystal clear to me that when this staff surgeon used the services of an intern of a public hospital\u2014a member of the hospital\u2019s personnel, supplied, trained and paid by the hospital and whom the surgeon was required to use\u2014the surgeon was not dealing with his own servant or agent but with that of the hospital, supplied at the direction and cost of the patient, for the use of her own doctor, the staff surgeon. A direction or order of such a surgeon, under those circumstances, is quite different from that of a surgeon who is conducting his own private hospital for profit, where he becomes the master of all persons employed by him and for whom, in consequence, he assumes an employer\u2019s responsibility.\nI would affirm the entry of this nonsuit.",
+        "type": "dissent",
+        "author": "Mr. Justice Allen M. Stearne:"
+      }
+    ],
+    "attorneys": [
+      "Thomas E. Waters, with him Frank R. Ambler, for appellants.",
+      "Charles E. Kenworthey, with him Reed, Smith, Shaw & McClay, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McConnell, Appellant, v. Williams.\nArgued January 6, 1949.\nBefore Maxey, C. J., Drew, Stern, Patterson, Stearne and Jones, JJ.\nThomas E. Waters, with him Frank R. Ambler, for appellants.\nCharles E. Kenworthey, with him Reed, Smith, Shaw & McClay, for appellee.\nMarch 25, 1949:"
+  },
+  "file_name": "0355-01",
+  "first_page_order": 377,
+  "last_page_order": 398
+}

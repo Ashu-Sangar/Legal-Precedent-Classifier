@@ -1,0 +1,70 @@
+{
+  "id": 12285820,
+  "name": "Zellat v. McCulloch",
+  "name_abbreviation": "Zellat v. McCulloch",
+  "decision_date": "2016-09-06",
+  "docket_number": "81 WAL (2016)",
+  "first_page": "679",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 679"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "136 A.3d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 77,
+    "ocr_confidence": 0.855,
+    "sha256": "a13784e9e0d5711f7437c24f58452d99631558ac3e8c82b12bf123c50f30d08b",
+    "simhash": "1:a4508048ca1300db",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zellat v. McCulloch"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 136 A.3d 1038",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Zellat v. McCulloch\n09/06/2016\n81 WAL (2016)"
+  },
+  "file_name": "0679-03",
+  "first_page_order": 731,
+  "last_page_order": 731
+}

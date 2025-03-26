@@ -1,0 +1,257 @@
+{
+  "id": 1032460,
+  "name": "Taber's Estate",
+  "name_abbreviation": "Taber's Estate",
+  "decision_date": "1917-03-12",
+  "docket_number": "Appeal, No. 179",
+  "first_page": "81",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "257 Pa. 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "52 Pa. 181",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002260,
+        1002263
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/52/0181-02",
+        "/pa/52/0181-01"
+      ]
+    },
+    {
+      "cite": "155 Pa. 378",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        983262
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/155/0378-01"
+      ]
+    },
+    {
+      "cite": "163 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        859079
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/163/0035-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. 179",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444784
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/97/0179-01"
+      ]
+    },
+    {
+      "cite": "214 Pa. 525",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        945997
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/214/0525-01"
+      ]
+    },
+    {
+      "cite": "159 Pa. 508",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850139
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/159/0508-01"
+      ]
+    },
+    {
+      "cite": "159 Pa. 512",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/159/0512-01"
+      ]
+    },
+    {
+      "cite": "10 W. N. C. 235",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "99 Pa. 401",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446214
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/99/0401-01"
+      ]
+    },
+    {
+      "cite": "9 W. & S. 98",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        12169028
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/9/0098-01"
+      ]
+    },
+    {
+      "cite": "9 Watts 284",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850027
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/9/0284-01"
+      ]
+    },
+    {
+      "cite": "147 Pa. 164",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        829825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/147/0164-01"
+      ]
+    },
+    {
+      "cite": "214 Pa. 525",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        945997
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/214/0525-01"
+      ]
+    },
+    {
+      "cite": "159 Pa. 508",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850139
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/159/0508-01"
+      ]
+    },
+    {
+      "cite": "159 Pa. 512",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850213
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/159/0512-01"
+      ]
+    },
+    {
+      "cite": "99 Pa. 401",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        446214
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/99/0401-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 519,
+    "char_count": 9977,
+    "ocr_confidence": 0.449,
+    "pagerank": {
+      "raw": 2.3707890332627343e-07,
+      "percentile": 0.7953291871456598
+    },
+    "sha256": "7b0302799308d9a6a53421fd61c11117985e8879fb2d01f80b20928de57a506e",
+    "simhash": "1:82cc942044cab44f",
+    "word_count": 1768
+  },
+  "last_updated": "2024-02-27T20:04:24.308297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Brown, C. J., Mestrezat, Potter, Stewart and Frazer, JJ."
+    ],
+    "parties": [
+      "Taber\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Chief Justice Brown,\nAugusta Taber died January 15, 1909, unmarried and without issue. Soon after her death application was made to the register of wills of Philadelphia County for admission to probate of what purported to be her last will and certain codicils thereto, in which the Girard Trust Company was named as executor. First cousins of the decedent objected to the probate of these papers, on the ground that she was of unsound mind when she executed them, and an issue devisavit vel non was directed to the Court of Common Pleas No. 5 of the County of Philadelphia. Shortly before the date fixed for its trial the parties interested in the contest agreed, in writing, to a compromise, by the terms of which the contestants were to receive $60,589.68,. or more than two-thirds of th\u00e9 estate, which had been bequeathed largely to charities. In addition to this it was agreed that the sum of $7,500 should be paid to counsel as compensation for professional services rendered to the proponent of the will. In pursuance of this agreement a verdict was taken sustaining it, and letters testamentary were duly issued to the appellant. At the audit of its account, which showed that the estate amounted to $89,915.37, the Commonwealth claimed collateral inheritance tax on the sum of $60,589.68 to be paid to the contestants of the will and codicils, as well as on the sum of $7,500 to be paid as counsel fees under the terms of the agreement of settlement. The auditing judge allowed both of these claims, and, from the decree of the court in banc sustaining him, the executor of the testatrix has appealed.\nAs Augusta Taber was unmarried, and left neither father nor mother nor lineal descendants, there became due to the Commonwealth a tax \u201cof five dollars on every hundred dollars of the clear value\u201d of her estate. No matter how it passed \u2014 whether by will or under the intestate laws \u2014 it was liable to this tax. If there had been no contest over the will, the tax would have been payable; if those who contested it had succeeded in setting it aside, they would have .taken under the intestate laws, but the tax would have been payable before any one of them could have received a dollar from the estate. In the face of this, the contestants of the will contend that, because the estate has been partitioned by them and the legatees under an agreement as to how it shall be divided, the portion allotted to them \u2014 more than two-thirds of it \u2014 shall be exempt from the payment of collateral inheritance tax. If they had received from the testatrix legacies amounting to $60,589.68, would they have pretended that the Commonwealth had no claim for collateral inheritance tax on so much of her estate? Or, if that sum had been coming to them under the intestate laws, would they have questioned its liability to this tax? Surely not; and yet they seek to escape the tax because an amicable division of the estate has been made by them and the beneficiaries named in the will. The estate which has been so partitioned is the one of which Augusta Taber died seized, but as to this her cousins seem to be blind, for, if-they would see, they would know that the Act of May 6,1887, P. L. 79, in plainest terms, makes the clear value of the whole estate liable to collateral inheritance tax. The process by which the attempt is made to prevent the state from getting what is so manifestly due to it is as offensive to reason as it is to the statute.\nIt is hardly needful to say that th\u00e9 three cases upon which reliance seems to be placed as authorities for disallowing the claim of the Commonwealth for the tax on $60,589.68 are without application. In Pepper\u2019s Est., 159 Pa. 508, the sum which was held to be exempt'from collateral inheritance tax had never been received by the legatees, but was paid by the executor directly to a son of the testator in settling with him when he withdrew a contest over the will, the success of which would have given him the entire estate of his father, free from collateral inheritance tax, for he was in the exempt class under the Act of 1887. If the whole of his father\u2019s estate would have been exempt from taxation had it passed to the son, either by will or under the intestate laws, the same was true of any portion of it which he took in settlement of a claim which, in effect, was that of a sole lineal descendant of a father who had died intestate. This is what that case decided.. In Kerr\u2019s Est., 159 Pa. 512, Elizabeth S. Palmer left all of her property by will to Mary Jane Kerr, a friend. Mrs. Palmer\u2019s heirs at law and next of kin began proceedings to contest the will. Mrs. Kerr died during their pendency, and the contest was subsequently compromised by her heirs at law and next of kin entering into an agreement by which they withdrew all claim to Mrs. Palmer\u2019s personalty and to the one-half of her realty. In assessing the collateral inheritance tax upon Mrs. Kerr\u2019s estate the register of wills declined to make any deduction by reason of what had been surrendered in the Palmer estate. The collateral inheritance tax had been paid upon the entire estate of Mrs. Palmer, and only so much of it as remained after the recognition of the rights of those who claimed under the intestate laAvs became the estate of Mary Jane Kerr, her beneficiary. It was, therefore, held that no more than this avus taxable as her estate. The amount held to be exempt from tax in Hawley\u2019s Est., 214 Pa. 525, was the sum paid to the employees of the decedent, who insisted that his will, the validity of which his heirs denied, contained a provision in the nature of a contract. They resisted the attempt to set the instrument aside, and a settlement was made with them as creditors, after the Orphans\u2019 Court had determined what amount was due to each of them. In holding that Avhat they so received Avas exempt from tax, Mr. Justice Fell said: \u201cThey claimed that the writing was a valid will and that the provision for their benefit was in discharge of an obligation of the decedent. The heirs denied the validity of the writing as a will because of the want of testamentary capacity. A settlement was made in which the employees were treated as creditors and allowed a part of their demands. This was clearly a compromise of a doubtful rigid to avoid litigation, by which the heirs parted with a portion of the estate in the purchase of peace. The employees took nothing under the will, and the money paid them was not subject to tax, unless the whole arrangement was collusive.\u201d\nAs to the liability to tax of the $7,500 to be paid to counsel, it need only be said that the parties to the agreement as to how the estate should be divided had no more right to set that sum aside for the purpose stated, at the expense of the CommonAvealth, than they had to take' $60,589.68 from the estate, exempt from collateral inheritance tax. An executor is not bound to defend his testator\u2019s will. If he undertakes to do so, it must be as the agent and in the interest of those benefited by his action. He must look to them for expenses incurred in the contest over the will, and may not charge the same to the estate unless it is benefited by the. proceeding: Yerkes\u2019s App., 99 Pa. 401. No benefit resulted to the estate of the testatrix in the case before ns through the proceeding to contest her will \u2022 but it did largely benefit her next of kin.\n1 Appeal dismissed and decree affirmed at the costs of the appellant.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Brown,"
+      }
+    ],
+    "attorneys": [
+      "Franklin 8. Edmonds, with him Howard Schell Baker, for appellant.",
+      ", Edwin 8. Ward, with him Francis Shunk Brown, Attorney General, for the Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "Taber\u2019s Estate.\nDecedents\u2019 estates \u2014 Collateral inheritance tax \u2014 Settlement of contest over will \u2014 Counsel fee.\n1. Where an estate has been bequeathed largely to charities and the collateral heirs of the decedent contest the will and the contest is settled under an agreement whereby the contestants receive more than two-thirds of the estate the amount received by them in settlement is subject to the payment of collateral inheritance tax.\n2. In such case the amount of the counsel fee paid by the executor for professional services in upholding the will is not exempt from the payment of collateral inheritance tax.\nArgued Jan. 15,1917.\nAppeal, No. 179, Jan. T., 1916, by Girard Trust Company,. Executor of the Estate of Augusta Taber, deceased, from decree of O. C. Philadelphia Co., July T., 1910, No. 192, dismissing exceptions to adjudication, in Estate of Augusta Taber, deceased.\nBefore Brown, C. J., Mestrezat, Potter, Stewart and Frazer, JJ.\nAffirmed.\nExceptions to adjudication. Before Gummey, J.\nThe opinion of the Supreme Court states the facts.\nThe court dismissed the exceptions. Girard Trust Company, Executor, appealed.\nErrors assigned were in dismissing the exceptions.\nFranklin 8. Edmonds, with him Howard Schell Baker, for appellant.\n\u2014 The counsel fee incurred by the executor for professional services in upholding the will is not subject to collateral inheritance tax when the contest is conducted for the benefit of all the legatees under the will: Howell\u2019s Est., 147 Pa. 164; Geddis\u2019s App., 9 Watts 284; Scott\u2019s Est., 9 W. & S. 98; Yerkes\u2019s App., 99 Pa. 401; Rankin\u2019s App., 10 W. N. C. 235; Waller\u2019s Est., 24 Pa. D. R. 85.\nThe sum paid by the executor to the next of kin by way of compromise of all claims against the estate after the bona fi.de contest had been waged for four years, is not subject to collateral inheritance tax: Kerr\u2019s Est., 159 Pa. 512; Pepper\u2019s Est., 159 Pa. 508; Hawley\u2019s Est., 214 Pa. 525.\n, Edwin 8. Ward, with him Francis Shunk Brown, Attorney General, for the Commonwealth.\n\u2014 The fee to counsel for proponents of the will is not a proper deduction in ascertaining the clear value of the real estate: Orcutt\u2019s App., 97 Pa. 179; Titlow\u2019s Est., 163 Pa. 35; Line\u2019s Est., 155 Pa. 378.\nThe sum paid to the heirs at law and next of kin of testatrix in compromise of the litigation instituted by them to set aside the will is subject to collateral inheritance tax where testatrix left no one surviving her in the excepted class: Strode v. Com., 52 Pa. 181.\nMarch 12, 1917:"
+  },
+  "file_name": "0081-01",
+  "first_page_order": 115,
+  "last_page_order": 120
+}

@@ -1,0 +1,106 @@
+{
+  "id": 4209051,
+  "name": "Anthony HUGHES, Petitioner v. PHILADELPHIA COURT OF COMMON PLEAS, Respondent",
+  "name_abbreviation": "Hughes v. Philadelphia Court of Common Pleas",
+  "decision_date": "2012-08-08",
+  "docket_number": "",
+  "first_page": "543",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "616 Pa. 543"
+    },
+    {
+      "type": "parallel",
+      "cite": "51 A.3d 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 496,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.13889381195583217
+    },
+    "sha256": "d35a493a5f702dccd37bdce16af74f975d91ca60bd74ce6e0939a1806808cf48",
+    "simhash": "1:2eb5c3bf4090bd21",
+    "word_count": 78
+  },
+  "last_updated": "2024-02-27T20:46:56.028839+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony HUGHES, Petitioner v. PHILADELPHIA COURT OF COMMON PLEAS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of August, 2012, the Application for Leave to File Original Process and the Petition for Writ of Mandamus and/or Extraordinary Relief are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "51 A.3d 180\nAnthony HUGHES, Petitioner v. PHILADELPHIA COURT OF COMMON PLEAS, Respondent.\nSupreme Court of Pennsylvania.\nAug. 8, 2012."
+  },
+  "file_name": "0543-01",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

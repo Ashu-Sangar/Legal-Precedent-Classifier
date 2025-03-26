@@ -1,0 +1,613 @@
+{
+  "id": 1103323,
+  "name": "Smith v. Miller et al., Appellants",
+  "name_abbreviation": "Smith v. Miller",
+  "decision_date": "1927-04-11",
+  "docket_number": "Appeal, No. 58",
+  "first_page": "184",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "289 Pa. 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "165 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        862080
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/165/0016-01"
+      ]
+    },
+    {
+      "cite": "191 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907022
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/191/0349-01"
+      ]
+    },
+    {
+      "cite": "49 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "159 Pa. 277",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        850187
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/159/0277-01"
+      ]
+    },
+    {
+      "cite": "16 Pa. Superior Ct. 350",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        832701
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/16/0350-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. Superior Ct. 174",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        849806
+      ],
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/24/0174-01"
+      ]
+    },
+    {
+      "cite": "25 Pa. Dist. R. 844",
+      "category": "reporters:state",
+      "reporter": "Pa. D.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "261 Pa. 23",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1042190
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/261/0023-01"
+      ]
+    },
+    {
+      "cite": "273 Pa. 580",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070824
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/273/0580-01"
+      ]
+    },
+    {
+      "cite": "242 Pa. 18",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        998769
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/242/0018-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. Superior Ct. 496",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        875985
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/37/0496-01"
+      ]
+    },
+    {
+      "cite": "53 Pa. 62",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1004727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/53/0062-01"
+      ]
+    },
+    {
+      "cite": "191 Pa. 372",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        907075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/191/0372-01"
+      ]
+    },
+    {
+      "cite": "277 Pa. 181",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1079529
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/277/0181-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. Superior Ct. 289",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        428525
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/50/0289-01"
+      ]
+    },
+    {
+      "cite": "47 Pa. Superior Ct. 647",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        423129
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/47/0647-01"
+      ]
+    },
+    {
+      "cite": "265 Pa. 208",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1051913
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/265/0208-01"
+      ]
+    },
+    {
+      "cite": "222 Pa. 573",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        959405
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/222/0573-01"
+      ]
+    },
+    {
+      "cite": "149 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        832632
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/149/0134-01"
+      ]
+    },
+    {
+      "cite": "139 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        11251894
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/139/0429-01"
+      ]
+    },
+    {
+      "cite": "129 Pa. 376",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        568051
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/129/0376-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. Superior Ct. 438",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        868625
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/33/0438-01"
+      ]
+    },
+    {
+      "cite": "246 Pa. 178",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/246/0178-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454307
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/105/0543-01"
+      ]
+    },
+    {
+      "cite": "95 Pa. 52",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0052-01"
+      ]
+    },
+    {
+      "cite": "7 Watts 382",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1846806
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/7/0382-01"
+      ]
+    },
+    {
+      "cite": "269 Pa. 261",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1063494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/269/0261-01"
+      ]
+    },
+    {
+      "cite": "7 Pa. Superior Ct. 434",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        285452
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/7/0434-01"
+      ]
+    },
+    {
+      "cite": "278 Pa. 583",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1080583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/278/0583-01"
+      ]
+    },
+    {
+      "cite": "271 Pa. 260",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        295679
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/271/0260-01"
+      ]
+    },
+    {
+      "cite": "274 Pa. 206",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1073076
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/274/0206-01"
+      ]
+    },
+    {
+      "cite": "74 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1034678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/74/0300-01"
+      ]
+    },
+    {
+      "cite": "250 Pa. 61",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1016967
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/250/0061-01"
+      ]
+    },
+    {
+      "cite": "164 Pa. 360",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        860227
+      ],
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/164/0360-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 13",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1851011
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0013-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. 238",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        422189
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/48/0238-01"
+      ]
+    },
+    {
+      "cite": "9 Pa. Superior Ct. 71",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        817196
+      ],
+      "pin_cites": [
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/9/0071-01"
+      ]
+    },
+    {
+      "cite": "1 Wharton 303",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        1829020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/1/0303-01"
+      ]
+    },
+    {
+      "cite": "129 Pa. 404",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 Pa. 540",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061585
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/268/0540-01"
+      ]
+    },
+    {
+      "cite": "271 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        295672
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/271/0364-01"
+      ]
+    },
+    {
+      "cite": "4 W. N. C. 439",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Pa. 134",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        832632
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/149/0134-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. Superior Ct. 438",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        868625
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/33/0438-01"
+      ]
+    },
+    {
+      "cite": "246 Pa. 178",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006193
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/246/0178-01"
+      ]
+    },
+    {
+      "cite": "105 Pa. 543",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        454307
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/105/0543-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 673,
+    "char_count": 12307,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 2.1934127799577244e-07,
+      "percentile": 0.7740671367326821
+    },
+    "sha256": "1f00bca979c0a44da4cdec364c2648cafe02359b942ab3ea56db9b68381051dc",
+    "simhash": "1:285d4d16636a6bdc",
+    "word_count": 2152
+  },
+  "last_updated": "2024-02-27T21:44:55.982725+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Kephart and Sadler, JJ."
+    ],
+    "parties": [
+      "Smith v. Miller et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Walling,\nThis is an action of ejectment for an undivided one-half interest in a piece of land in the Borough of Punxsutawney, Jefferson County. In 1857, Sarah J. Miller, the then owner and common source of title devised the land to her three children, Virginia, Anna and Frank. Anna dying intestate and without issue, her interest became vested in Virginia and Frank, each of whom thereby became owner of an undivided one-half of the land. It is admitted that Virginia\u2019s one-half interest became and is vested in the defendants, while this suit involves the one-half interest formerly owned by Frank. This one-half he conveyed by warranty deed to his stepmother, Margaret J. Miller, in 1878; which deed, however, was not recorded until 1907. Meantime, in 1894, Frank\u2019s interest in this land was sold by the sheriff on execution issued upon a judgment obtained by the Mahoning Bank (subsequent to the conveyance above mentioned) and bought by its trustees. Whatever interest the bank acquired in the land was conveyed to Lyda P. Miller in 1903; and on the latter\u2019s death became vested in her daughter, the plaintiff. By the death of Margaret J. Miller, in 1917, her interest in the land became vested in her children, the defendants. On the pleadings the trial court entered judgment for plaintiff and defendants have appealed.\nThis action of the court was based on the untenable assumption that by moving for judgment on' the pleadings, as defendants did, they admitted the truth of plaintiff\u2019s averments and the falsity of their own, so far as the latter were in conflict with the former. True, section 2 of the Act of May 8, 1901, P. L. 142, as amended by the Act of June 12, 1919, P. L. 478, provides: \u201cThat the court may, on rule, enter such judgment on the pleadings in favor of either party as it may appear to the couit the party is entitled to.\u201d The court\u2019s assumption was right when passing upon the defendants\u2019 claim to judgment, but not for the entry of final judgment for plaintiff. The latter can be granted such affirmative relief only when his controlling averments are not denied. In other words, no matter who moves for judgment on the pleadings, neither is entitled thereto except where his necessary averments are not sufficiently denied. Refusal of summary judgment to one party is no ground for granting it to the other. This is not in all respects a demurrer and a party whose averments present a good cause of action cannot be put out of court merely by an unsuccessful challenge of those of his adversary.\nDefendants\u2019 answer and abstract, if established, will present a complete defense to plaintiff\u2019s claim. An adverse and exclusive possession commencing with the conveyance to Margaret J. Miller in 1878 and continuing until the impetration of this writ, a period of forty-seven years, is properly averred and, if proven, will be a good defense. Appellee\u2019s suggestion, that an adverse possession cannot be invoked because of a tenancy in common, is untenable. When Frank Miller conveyed his one-half part to Margaret J. Miller, his interest ceased and he was no longer a tenant in common of the property. Furthermore, Margaret J. Miller\u2019s interest in the land was received from Frank Miller and she never was a tenant in common therein with him or with those claiming under the sheriff\u2019s sale. If that sale conveyed any title it was for the one-half interest which Frank had conveyed to her and she had no interest in any other part of the land; hence, she could not be a tenant in common with the purchaser at that sale. The other one-half, not here at issue, was and is owned by defendants through a conveyance to them from Virginia Miller\u2019s executor in 1907. Moreover, a joint possession is evidence of the claim of title of each occupant: Jackson v. McFadden (Pa.), 4 W. N. C. 439; therefore, Margaret J. Miller\u2019s possession was evidence of her title.\nDefendants also aver that express notice of the title in Margaret J. Miller, by virtue of the unrecorded deed, was given at the sheriff\u2019s sale and if shown it will protect her interest. They also expressly aver, that Margaret J. Miller was in actual possession of the land at all times (from 1878 to 1917), including that of the sheriff\u2019s sale and of the later conveyance to Lyda P. Miller. If shown, that will be such constructive notice as to protect the title. One about to purchase land, either at sheriff\u2019s or private sale, is bound to inquire of those in possession of the premises and is charged with what such inquiry would have disclosed: Curry v. Bacharach Quality Shops, Inc., 271 Pa. 364; Stonecipher v. Keane, 268 Pa. 540; Lazarus v. Lehigh & W. B. Coal Co., 246 Pa. 178; Brown v. Carey, 149 Pa. 134; Anderson v. Brinser, 129 Pa. 404; Rowe v. Ream, 105 Pa. 543; Krider v. Lafferty, 1 Wharton 303; McGarry v. McGarry, 9 Pa. Superior Ct. 71, 77, and other cases. As stated by the Superior Court in Hymen v. Gatta, 33 Pa. Superior Ct. 438, 440: \u201cAn unrecorded deed, with possession taken thereunder and maintained, is sufficient notice to subsequent purchasers. It is to be presumed that if the plaintiff had inquired of the defendants she would have been informed of the unrecorded deed.\u201d Actual open possession is sufficient evidence of notice of the title of the possessor: Meehan v. Williams, 48 Pa. 238. Of course, the questions of notice and possession are usually for the jury.\nAgain, treating plaintiff\u2019s pleadings as verity, she was not entitled to summary judgment. Her entire claim rests on the sheriff\u2019s sale, of which there is record evidence, but she avers neither the acknowledgment nor delivery of a sheriff\u2019s deed, and those acts are essential to vest title in the purchaser and enable him to maintain ejectment, and proper proof of the acknowledgment is the record: Bellas v. McCarty, 10 Watts 13; Lee, Receiver, et al. v. Newland et al., 164 Pa. 360, 365; and see Central Penna. L. Co. v. Bristol, 250 Pa. 61; also Duff v. Wynkoop et al., 74 Pa. 300. In the instant case, so far as appears, no deed therefor from the sheriff is of record or can be found or ever existed. Plaintiff, however, expresses a belief in her ability to supply any apparent defects in that regard, and we are loath to turn her out of court at this early stage of the proceedings on account of some missing record or document that may be found before the trial. We do not pass upon the effect of defendants\u2019 delay of ten months in moving for judgment on the pleadings. A summary judgment, however, should never be entered in a doubtful case: Franklin Sugar R. Co. v. Lykens M. Co., 274 Pa. 206; 31 Cyc. 607.\nIn ejectment, he who moves for judgment on the pleadings is liable to have it entered against him, where justified by the record: Shaw et al., Exrs., v. Cornman, 271 Pa. 260. In the instant case, as in other actions of ejectment, plaintiff must recover on the strength of her own title. See Artz v. Meister, 278 Pa. 583.\nThe judgment is reversed and the rule therefor is discharged with a procedendo.",
+        "type": "majority",
+        "author": "Mr. Justice Walling,"
+      }
+    ],
+    "attorneys": [
+      "Charles Corbet, with him Mitchell & Morris, for appellants.",
+      "Charles J. Margiolti, with him W. M. Gillespie, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. Miller et al., Appellants.\nEjectment \u2014 Judgment on pleadings \u2014 Abstract of title \u2014 Adverse possession \u2014 Summary judgment \u2014 Acts of May 8, 1901, P. L. lb-2, and June 12,1919, P. L b78.\n1. Under the Act of May 8, 1901, P. L. 142, as amended by Act June 12, 1919, P. L. 478, a defendant in ejectment by moving for judgment on the pleadings does not admit the truth of plaintiff\u2019s averments and the falsity of his own, so far as the latter, are in conflict with the former.\n2. Plaintiff can be granted such affirmative relief only when his controlling averments are not denied.\n3. No matter which party moves for j'udgment on the pleadings, neither is entitled thereto except where his necessary averments are not sufficiently denied. Refusal of summary judgment to one party is no ground for granting it to the other.\n4. If, in ejectment, defendants show in their abstract of title continuous and adverse possession for forty-seven years, and move for judgment on the pleadings, it is error for the court to enter final judgment for plaintiff on a record title shown by him.\n, 5. Where one of several heirs of land, sells his interest to another who takes possession without recording the deed, and subsequently the land is sold as the grantor\u2019s, the grantee is not a tenant in common with the grantor or with those claiming under the sheriff\u2019s sale.\n6. One about to purchase land, either at sheriff\u2019s or private sale, is bound to inquire of those in possession of the premises and is charged with what such inquiry would have disclosed.\n7. An unrecorded deed, with possession taken thereunder and maintained, is sufficient notice to subsequent purchasers,\n8. A person claiming real estate under a sheriff\u2019s sale, does not establish title where she has not shown acknowledgment and delivery of a sheriff\u2019s deed for the land.\n9. In ejectment, plaintiff must recover on the strength of his own title.\n.10. In such action he who moves for judgment on the pleadings, is liable to have it entered against him, where justified by the record, but a summary judgment should never be entered in a doubtful case.\nArgued March 14, 1927.\nBefore Moschzisker, C. J., Frazer, Walling, Kephart and Sadler, JJ.\nAppeal, No. 58, March T., 1927, by defendant, from judgment of C. P. Jefferson Co., August T., 1925, No. 306, for plaintiff on pleadings, in case of Pauline Smith v. Lunetta Miller et al.\nReversed.\nEjectment for land in Punxsutawney Borough. Before Darr, P. J.\nThe opinion of the Supreme Court states the facts.\nJudgment for plaintiff on pleadings. Defendants appealed.\nError assigned was, inter alia, judgment on pleadings, quoting record.\nCharles Corbet, with him Mitchell & Morris, for appellants.\nIf a person enters into possession of land, and holds it, without more, the presumption is that he claims title. A possession of more than twenty-one years, under such circumstances, would be adverse; and as such would give title. Deppen v. Bogar, 7 Pa. Superior Ct. 434.\nThe deed to Margaret J. Miller was not fraudulent or void by reason of the Recording Act, or for any other reason. The Mahoning Bank was not within the Recording Act: Beman Thomas Co. v. White, 269 Pa. 261.\nThe title of Margaret J. Miller was protected by her possession, which for purpose of notice was as complete as recording could have been: Woods v. Farmers, 7 Watts 382; Jamison v. Dimock, 95 Pa. 52.\nDistinct and unequivocal possession puts purchasers and mortgagees on inquiry, and thus visits them with notice of the occupant\u2019s title: Rowe v. Ream, 105 Pa. 543; Lazarus v. Coal Co., 246 Pa. 178; Hymen v. Gatta, 33 Pa. Superior Ct. 438; Anderson v. Brinser, 129 Pa. 376; White v. Patterson, 139 Pa. 429; Brown v. Carey, 149 Pa. 134; Ohio River Junction R. R. Co. v. Penna. Co., 222 Pa. 573.\nThe court erred in not granting defendants\u2019 motion for judgment in their favor: Glenn v. Stewart, 265 Pa. 208.\nCharles J. Margiolti, with him W. M. Gillespie, for appellee.\nWhen a party moves for judgment on the pleadings, he not only, for the purposes of his motion, admits the truth of all the allegations of his adversary, but must also be deemed to have admitted the untruth of all his own allegations which have been denied by his adversary: Strawbridge v. Hawthorne, 47 Pa. Superior Ct. 647; Squires: v. Job, 50 Pa. Superior Ct. 289; Lackawanna Mills v. Scranton G. & W. Co., 277 Pa. 181; Merchants Nat. Bank v. Eckels, 191 Pa. 372; Com. v. R. R., 53 Pa. 62.\nWhile the law raises no presumption against the title acquired by adverse possession, it certainly raises none in its favor: Com. v. Bierly, 37 Pa. Superior Ct. 496; Moore Water Co. v. Starner, 242 Pa. 18; Deppen v. Bogar, 7 Pa. Superior Ct. 434.\nOpen possession may amount to an ouster of a co-tenant but it must be clear, positive and unequivocal. The statute will not bar the right of recovery where there is a mutual mistake of right: Hover v. Hills, 273 Pa. 580; Reap v. Dougher, 261 Pa. 23; Buchanan\u2019s Est., 25 Pa. Dist. R. 844.\nAs between co-tenants there is no constructive ouster; hostile acts must, be shown: Wells v. Becker, 24 Pa. Superior Ct. 174, 177; Carey v. Schaller, 16 Pa. Superior Ct. 350; Tanney v. Tanney, 159 Pa. 277; Tulloch v. Worral, 49 Pa. 123; Perry v. Livingston, 191 Pa. 349; Fisher v. Hartman, 165 Pa. 16.\nApril 11, 1927:"
+  },
+  "file_name": "0184-01",
+  "first_page_order": 208,
+  "last_page_order": 214
+}

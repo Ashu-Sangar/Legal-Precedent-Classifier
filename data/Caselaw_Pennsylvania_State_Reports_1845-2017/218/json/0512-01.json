@@ -1,0 +1,78 @@
+{
+  "id": 999556,
+  "name": "Ashman's Estate",
+  "name_abbreviation": "Ashman's Estate",
+  "decision_date": "1907-06-03",
+  "docket_number": "No. 2; Appeals, No. 260",
+  "first_page": "512",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "218 Pa. 512"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "218 Pa. 509",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        999622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/218/0509-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 809,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 4.621887471290392e-08,
+      "percentile": 0.28940528965202217
+    },
+    "sha256": "213a4d2246f75ff8c7ab00df5cae0977667f99676fe9c2f6f60afafe5e83379f",
+    "simhash": "1:da094616cee8812b",
+    "word_count": 140
+  },
+  "last_updated": "2024-02-27T21:14:36.513660+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Fell, Brown, Potter, Elkin and Stewart, JJ."
+    ],
+    "parties": [
+      "Ashman\u2019s Estate"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Stewart,\nThese are separate appeals by several distributees involving the same questions as those considered in the appeal of Sigel Ashman in the same estate, 218 Pa. 509, just decided. For the reasons set out in the opinion delivered in that case, these appeals are dismissed at the cost of the respective appellants and in each case the decree is affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Stewart,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ashman\u2019s Estate\n(No. 2).\nArgued April 22, 1907.\nAppeals, No. 260, Jan. T., 1906,\nby George H. Ashman, No. 261, Jan. T., 1906, by Cornelius I. Ashman, No. 262, Jan. T., 1906, by Lillian Bernhardt, and No. 263, Jan. T., 1906, by II. H. Ashman, from decree of O. C. Huntingdon Co., overruling exceptions to auditor\u2019s report in Estate of Mary Jane Ashman.\nBefore Fell, Brown, Potter, Elkin and Stewart, JJ.\nAffirmed.\nJune 3, 1907:"
+  },
+  "file_name": "0512-01",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

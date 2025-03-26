@@ -1,0 +1,130 @@
+{
+  "id": 472157,
+  "name": "Susan BODTKE, Petitioner, v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+  "name_abbreviation": "Bodtke v. State Farm Mutual Automobile Insurance",
+  "decision_date": "1995-02-10",
+  "docket_number": "",
+  "first_page": "540",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "540 Pa. 540"
+    },
+    {
+      "type": "parallel",
+      "cite": "659 A.2d 541"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "645 A.2d 1287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874032,
+        7874147,
+        475476,
+        475555
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/645/1287-01",
+        "/a2d/645/1287-02",
+        "/pa/538/0060-02",
+        "/pa/538/0060-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 60",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475555,
+        475476
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0060-01",
+        "/pa/538/0060-02"
+      ]
+    },
+    {
+      "cite": "637 A.2d 648",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        940024,
+        7359403
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/432/0031-01",
+        "/a2d/637/0648-01"
+      ]
+    },
+    {
+      "cite": "432 Pa.Super. 31",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        940024
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/432/0031-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 542,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 1.0161019270158246e-07,
+      "percentile": 0.543471067232105
+    },
+    "sha256": "6ca936157e20c9bd46ab966bc003cd6665cfe7dd16fcb757cfe45bd5ba5f3b77",
+    "simhash": "1:7d996f984197c970",
+    "word_count": 88
+  },
+  "last_updated": "2024-02-27T21:10:24.438651+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Susan BODTKE, Petitioner, v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 10th day of February, 1995, the Petition for Allowance of Appeal is granted. The Order of the Superi- or Court is reversed, 432 Pa.Super. 31, 637 A.2d 648, and the matter is remanded to the Court of Common Pleas for disposition consistent with Terminato v. Pennsylvania National Insurance Company, 538 Pa. 60, 645 A.2d 1287 (1994).\nMONTEMURO, J., is sitting by designation.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "659 A.2d 541\nSusan BODTKE, Petitioner, v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY.\nSupreme Court of Pennsylvania.\nFeb. 10, 1995."
+  },
+  "file_name": "0540-01",
+  "first_page_order": 832,
+  "last_page_order": 833
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1199923,
+  "name": "Paul's Estate",
+  "name_abbreviation": "Paul's Estate",
+  "decision_date": "1940-04-15",
+  "docket_number": "Appeal, No. 57",
+  "first_page": "191",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "338 Pa. 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "324 Pa. 252",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1171324
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/324/0252-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 158,
+    "char_count": 1613,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04453618724489343
+    },
+    "sha256": "30189bfa8f33c8b176f2ffb56d1dfa6fc0a93599e28780e9bcb31baae67ae7e2",
+    "simhash": "1:6ac4a506f3076ddb",
+    "word_count": 263
+  },
+  "last_updated": "2024-02-27T22:20:24.766240+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Schaffer, C. J., Maxey, Drew, Linn, Stern, Barnes and Patterson, JJ."
+    ],
+    "parties": [
+      "Paul\u2019s Estate."
+    ],
+    "opinions": [
+      {
+        "text": "Pee Cubiam,\nThe Colonial Trust Company filed its first and final account as trustee under a testamentary trust created by the last will of Elizabeth Paul, deceased. Exceptions were filed by Ora Cooper, Administratrix of the Estate of Flora Holmes Hunter, deceased, one of the remaindermen, to the decree which distributed to her participation certificates in a mortgage pool under the Fiduciaries Act of June 7, 1917, P. L. 447, section 49(e) 1. Upon dismissal of the exceptions by the Orphans\u2019 Court of Allegheny County, this appeal was taken.\nThe sole contention of appellant is that the investment by the trustee in 1928 in a mortgage investment fund or pool, composed entirely of first mortgages, is contrary to the directions of the testatrix\u2019s will, which provides: \u201cI give and bequeath to the Colonial Trust Company of Pittsburgh, Pa., the sum of Twenty Thousand Dollars, in trust nevertheless, to invest and keep invested in First Mortgages on real estate, in the funded debt of the United States or of the State of Pennsylvania . . .\u201d (Italics added). Dillon\u2019s Estate, 324 Pa. 252, is contrary to this argument of appellant, since there the will contained language of similar import and this court sanctioned the investment of the trustee in such fund or pool. That case rules this controversy.\nDecree affirmed; appellant to pay the costs.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Edward, G. Bothwell, for appellant.",
+      "Robert F. Barnett, of 8terrett, Acheson, Childs & Barnett, with him 8. Knox Hunter, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Paul\u2019s Estate.\nArgued March 20, 1940.\nBefore Schaffer, C. J., Maxey, Drew, Linn, Stern, Barnes and Patterson, JJ.\nEdward, G. Bothwell, for appellant.\nRobert F. Barnett, of 8terrett, Acheson, Childs & Barnett, with him 8. Knox Hunter, for appellee.\nApril 15, 1940:"
+  },
+  "file_name": "0191-01",
+  "first_page_order": 223,
+  "last_page_order": 224
+}

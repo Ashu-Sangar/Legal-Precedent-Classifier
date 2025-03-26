@@ -1,0 +1,114 @@
+{
+  "id": 356225,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Richard Edward CURLOTT, Appellant",
+  "name_abbreviation": "Commonwealth v. Curlott",
+  "decision_date": "1998-11-13",
+  "docket_number": "Appeal No. 42 M.D. Appeal Docket 1998",
+  "first_page": "483",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "553 Pa. 483"
+    },
+    {
+      "type": "parallel",
+      "cite": "719 A.2d 1048"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "528 Pa. 403",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829817
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0403-01"
+      ]
+    },
+    {
+      "cite": "682 A.2d 286",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        465117,
+        7860446
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0586-02",
+        "/a2d/682/0286-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 586",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465117,
+        465126
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0586-02",
+        "/pa/545/0586-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 469,
+    "ocr_confidence": 0.676,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.013450011950503679
+    },
+    "sha256": "797c36af52ebb04324119ac30dcaba3335c4c18e0f54aca2909efdb7a2af57c4",
+    "simhash": "1:c32681e2e339393a",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T19:48:13.813802+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE and NEWMAN, JJ., dissent."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Richard Edward CURLOTT, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 13th day of November, 1998, it is hereby ORDERED that the order of the Superior Court is reversed and the judgment of sentence is vacated. See, Commonwealth v. Crompton, 545 Pa. 586, 682 A.2d 286 (1996); Commonwealth v. Chambers, 528 Pa. 403, 598 A.2d 539 (1991).\nCASTILLE and NEWMAN, JJ., dissent.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "719 A.2d 1048\nCOMMONWEALTH of Pennsylvania, Appellee, v. Richard Edward CURLOTT, Appellant.\nSupreme Court of Pennsylvania.\nNov. 13, 1998."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 663,
+  "last_page_order": 663
+}

@@ -1,0 +1,70 @@
+{
+  "id": 12282717,
+  "name": "Com. v. Witherspoon",
+  "name_abbreviation": "Com. v. Witherspoon",
+  "decision_date": "2016-02-01",
+  "docket_number": "814 MAL (2015)",
+  "first_page": "748",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 748"
+    },
+    {
+      "type": "parallel",
+      "cite": "130 A.3d 1285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "125 A.3d 456",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "ocr_confidence": 0.778,
+    "sha256": "86d41614d7e441aabb6c3b67995d5bc0db733f4c925f68ed4bb34080643488ac",
+    "simhash": "1:a776e0c59f8bb35e",
+    "word_count": 23
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Witherspoon"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 125 A.3d 456",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Witherspoon\n02/01/2016\n814 MAL (2015)\n. Justice EAKIN did not participate in the decision of this matter."
+  },
+  "file_name": "0748-01",
+  "first_page_order": 792,
+  "last_page_order": 792
+}

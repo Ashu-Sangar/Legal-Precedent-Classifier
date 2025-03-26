@@ -1,0 +1,81 @@
+{
+  "id": 1122299,
+  "name": "Commonwealth v. Halderman",
+  "name_abbreviation": "Commonwealth v. Halderman",
+  "decision_date": "1930-02-03",
+  "docket_number": "No. 180",
+  "first_page": "198",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "299 Pa. 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "97 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444830
+      ],
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/97/0211-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 212,
+    "char_count": 2577,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 1.5849938401046346e-07,
+      "percentile": 0.6810873915815169
+    },
+    "sha256": "f94fd5077676087961504d6396ff4f36181321aab51bba08e348b60c41aad6e0",
+    "simhash": "1:d2eb27cb4cecd547",
+    "word_count": 442
+  },
+  "last_updated": "2024-02-27T20:26:28.328060+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth v. Halderman."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nE. C. Halderman has appealed to us for a writ of habeas corpus. The petition recites that Halderman was arrested in Lewisburg, Union County, on November 27, 1926, charged with aggravated assault and battery, for which offense he was duly indicted; that, after spending twelve days in the county jail, he was \u201cescorted beyond the jurisdiction of Union County by the sheriff of said county\u201d; that, on November 4, 1929, after being apprehended in Philadelphia County, he was taken to Union County, where he was \u201cmade to answer to the old charge as set forth in the indictment in this case.\u201d Then the petitioner, having been tried, convicted and sentenced, complains that \u201cthe trial and sentence of the Court of Union County is in violation of the Criminal Procedure Act of March 31, 1860, section 54, P. L. [427] 443, [which] section provides inter alia as follows: \u2018And if such prisoner shall not be indicted and tried the second term, session or court after his or her commitment, unless the delay happen on the application or with the assent of the defendant, or upon trial he shall be acquitted, he shall be discharged from imprisonment.\u2019 \u201d Finally, defendant complains that his incarceration is contrary to section 183 of the Act of March 31, 1860, P. L. 382, 426, which provides that, \u201cIn all cases where a remedy is provided or a duty enjoined or anything directed to be done by any act or acts of assembly of this Commonwealth, the directions of the said acts shall be strictly pursued.\u201d The real substance of defendant\u2019s complaint is stated in the beginning of the petition as follows: \u201cThat the court of Union County was without authority of law to try and sentence...... petitioner......at the January Sessions, 1930, by reason that the two terms had gone by.\u201d\nPetitioner, by his own averments, shows a state of affairs which plainly excludes his case from the act on which he depends. Section 54 of the Act of 1860, is only applicable to one, imprisoned and untried at the end of the second term after his incarceration, who had been confined continuously (Sadler\u2019s Criminal Procedure, section 389, page 362) during the two-term period. Then, again, the legislation under discussion must be taken advantage of, if at all, before trial, and is not available to a defendant after his trial: Com. v. Supt. of County Prison, 97 Pa. 211, 215. In none of the cases where the two-term rule was invoked do we find a prisoner discharged after trial and conviction.\nThe application for a writ of habeas corpus is denied.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Halderman.\nFebruary 3, 1930:"
+  },
+  "file_name": "0198-01",
+  "first_page_order": 222,
+  "last_page_order": 224
+}

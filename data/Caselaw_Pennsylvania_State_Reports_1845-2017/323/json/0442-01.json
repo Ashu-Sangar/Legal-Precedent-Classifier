@@ -1,0 +1,98 @@
+{
+  "id": 1169614,
+  "name": "Roberts et al., Appellants, v. Washington Trust Company",
+  "name_abbreviation": "Roberts v. Washington Trust Co.",
+  "decision_date": "1936-10-07",
+  "docket_number": "Appeal, No. 223",
+  "first_page": "442",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "323 Pa. 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "307 Pa. 102",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1138128
+      ],
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/307/0102-01"
+      ]
+    },
+    {
+      "cite": "313 Pa. 584",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1152690
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/313/0584-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 680,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04311506192059846
+    },
+    "sha256": "5255daaa0a5f999d2133d439ca05b746a786cdbb047b3a3279c09c63b9b0b5b0",
+    "simhash": "1:a2c37798825322ab",
+    "word_count": 111
+  },
+  "last_updated": "2024-02-27T19:17:32.833096+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Roberts et al., Appellants, v. Washington Trust Company."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThe questions raised by this appeal were decided in Roberts v. Washington Trust Co., 313 Pa. 584, with the possible exception of the President Judge declining to participate in the trial of the case. His action was perfectly proper. Judge Cummins and Judge Hughes constituted the remainder of the court and they disposed of the questions: Crawford\u2019s Estate, 307 Pa. 102, 105.\nJudgment affirmed at the cost of appellants.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "R. H. Locke, for appellants.",
+      "Scurry F. Moore, for appellee, was not heard."
+    ],
+    "corrections": "",
+    "head_matter": "Roberts et al., Appellants, v. Washington Trust Company.\nArgued October 5, 1936.\nBefore Kephart, C. J., Schaffer, Maxey, Drew, Linn, Stern and Barnes, JJ.\nR. H. Locke, for appellants.\nScurry F. Moore, for appellee, was not heard.\nOctober 7, 1936:"
+  },
+  "file_name": "0442-01",
+  "first_page_order": 504,
+  "last_page_order": 505
+}

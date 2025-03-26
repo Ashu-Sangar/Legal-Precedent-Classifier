@@ -1,0 +1,80 @@
+{
+  "id": 12284762,
+  "name": "Com. v. Caldwell",
+  "name_abbreviation": "Com. v. Caldwell",
+  "decision_date": "2015-11-16",
+  "docket_number": "408 EAL (2015)",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 Pa. 774"
+    },
+    {
+      "type": "parallel",
+      "cite": "126 A.3d 1281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "117 A.3d 763",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6866097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/117/0763-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 74,
+    "ocr_confidence": 0.877,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24922398950672414
+    },
+    "sha256": "9d70895aa948785715e057f052afa1188422fbf0ee3944eee13421f22830b172",
+    "simhash": "1:7b6f28f13bdac110",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T18:58:58.340060+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Caldwell"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 117 A.3d 763",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Caldwell\n11/16/2015\n408 EAL (2015)"
+  },
+  "file_name": "0774-12",
+  "first_page_order": 828,
+  "last_page_order": 828
+}

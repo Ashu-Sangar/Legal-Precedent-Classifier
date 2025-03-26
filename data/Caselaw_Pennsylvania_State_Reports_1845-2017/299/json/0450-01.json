@@ -1,0 +1,98 @@
+{
+  "id": 1122263,
+  "name": "Ligo et al. v. Dodson et al., Appellants",
+  "name_abbreviation": "Ligo v. Dodson",
+  "decision_date": "1930-03-19",
+  "docket_number": "Appeal, No. 67",
+  "first_page": "450",
+  "last_page": "451",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "299 Pa. 450"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "295 Pa. 241",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1115169
+      ],
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/295/0241-01"
+      ]
+    },
+    {
+      "cite": "279 Pa. 63",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1083345
+      ],
+      "pin_cites": [
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/279/0063-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 156,
+    "char_count": 1603,
+    "ocr_confidence": 0.49,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6002552658475455
+    },
+    "sha256": "53063ac544cd5684e33f30b243d6d46ce1946989ffd24468330180b66e178c10",
+    "simhash": "1:ad08c72739089124",
+    "word_count": 296
+  },
+  "last_updated": "2024-02-27T20:26:28.328060+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ligo et al. v. Dodson et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nThis is an appeal from an order refusing a new trial and also judgment n. o. v. Appellees move to quash, alleging that appellants have omitted from the record some 100 exhibits, used at trial to aid in the determination of the question whether the will under contest was executed by the deceased, the main issue in the case.\nAn examination of the record shows that the exhibits in question were admitted in evidence by the trial judge, and so became part of the record. Under these circumstances, appellants were obliged to print them for review by this court, unless they were omitted from the record by agreement of counsel or order of the court below ; neither of which steps was taken. Rule 55 of this court \u201cwas adopted for the purpose of enabling the record to be abbreviated on appeal, so far as properly might be done; but it gives to no one the right to determine for himself what shall and what shall not be printed. The parties may agree upon this, but, if they cannot, the court must decide, as in all other disputed matters. We ought not to be required to say that Rule 55 is mandatory and must always be obeyed, but since counsel appear to think this is not so, we emphatically say that it is\u201d: Snyder\u2019s Est., 279 Pa. 63, 84. See also Shaw v. Shaw, 295 Pa. 241, 244. Until the exhibits in question are made part of the printed record, appellants cannot be heard.\nThe appeal is continued to May 12, 1930, to enable appellants to perfect their record; if this is not done by that date the motion to quash may be renewed.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ligo et al. v. Dodson et al., Appellants.\nMarch 19, 1930:"
+  },
+  "file_name": "0450-01",
+  "first_page_order": 474,
+  "last_page_order": 475
+}

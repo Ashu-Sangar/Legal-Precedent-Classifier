@@ -1,0 +1,578 @@
+{
+  "id": 1113440,
+  "name": "Federal Land Bank of Baltimore v. King et al.",
+  "name_abbreviation": "Federal Land Bank v. King",
+  "decision_date": "1928-06-30",
+  "docket_number": "Appeal, No. 205",
+  "first_page": "86",
+  "last_page": "98",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "294 Pa. 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "286 Pa. 405",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1096485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/286/0405-01"
+      ]
+    },
+    {
+      "cite": "263 Pa. 345",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047464
+      ],
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/263/0345-01"
+      ]
+    },
+    {
+      "cite": "260 Pa. 28",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040227,
+        1040205
+      ],
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/260/0028-01",
+        "/pa/260/0028-02"
+      ]
+    },
+    {
+      "cite": "251 Pa. 344",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019890
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/251/0344-01"
+      ]
+    },
+    {
+      "cite": "235 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        984840
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/235/0202-01"
+      ]
+    },
+    {
+      "cite": "66 Pitts. L. J. 753",
+      "category": "reporters:state",
+      "reporter": "Pitts L.J.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "154 Pa. 534",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        842369
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/154/0534-01"
+      ]
+    },
+    {
+      "cite": "31 Pa. Superior Ct. 485",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        864442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa-super/31/0485-01"
+      ]
+    },
+    {
+      "cite": "151 Pa. 630",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        836674
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/151/0630-01"
+      ]
+    },
+    {
+      "cite": "165 Pa. 114",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        862093
+      ],
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/165/0114-01"
+      ]
+    },
+    {
+      "cite": "16 Phila. 117",
+      "category": "reporters:state",
+      "reporter": "Phila.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "82 Pa. 142",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1047897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/82/0142-01"
+      ]
+    },
+    {
+      "cite": "288 Pa. 230",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/288/0230-01"
+      ]
+    },
+    {
+      "cite": "260 Pa. 223",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040313
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/260/0223-01"
+      ]
+    },
+    {
+      "cite": "212 Pa. 238",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941934
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/212/0238-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 64",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050836
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/83/0064-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 456",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/72/0456-01"
+      ]
+    },
+    {
+      "cite": "108 U. S. 143",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3503408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/108/0143-01"
+      ]
+    },
+    {
+      "cite": "145 U. S. 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3562348
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/145/0421-01"
+      ]
+    },
+    {
+      "cite": "167 U. S. 362",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3594397
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/167/0362-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 621",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11269
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/98/0621-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 346",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050750
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/83/0346-01"
+      ]
+    },
+    {
+      "cite": "5 Wharton 170",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "case_ids": [
+        8877605
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/whart/5/0170-01"
+      ]
+    },
+    {
+      "cite": "10 Pa. 491",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        962669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/10/0491-01"
+      ]
+    },
+    {
+      "cite": "258 Pa. 139",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1035034
+      ],
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/258/0139-01"
+      ]
+    },
+    {
+      "cite": "2 W. N. C. 96",
+      "category": "reporters:state",
+      "reporter": "W.N.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Pa. 265",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        990436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/35/0265-01"
+      ]
+    },
+    {
+      "cite": "188 Pa. 239",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        901309
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "p. 241"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/188/0239-01"
+      ]
+    },
+    {
+      "cite": "22 Pa. 437",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        413785
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/22/0437-01"
+      ]
+    },
+    {
+      "cite": "4 Pa. 80",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        401847
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/4/0080-01"
+      ]
+    },
+    {
+      "cite": "1 Watts 491",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1838087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/1/0491-01"
+      ]
+    },
+    {
+      "cite": "211 Pa. 606",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        940140,
+        940158
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/211/0606-01",
+        "/pa/211/0606-02"
+      ]
+    },
+    {
+      "cite": "259 Pa. 354",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1038289
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/259/0354-01"
+      ]
+    },
+    {
+      "cite": "14 Pa. Superior Ct. 56",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        827840
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/14/0056-01"
+      ]
+    },
+    {
+      "cite": "71 Pa. 81",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1031239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/71/0081-01"
+      ]
+    },
+    {
+      "cite": "77 Pa. 250",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        436339
+      ],
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/77/0250-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. 534",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/97/0534-01"
+      ]
+    },
+    {
+      "cite": "63 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019104
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/63/0126-01"
+      ]
+    },
+    {
+      "cite": "7 Pa. 233",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        957923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/7/0233-01"
+      ]
+    },
+    {
+      "cite": "33 Stat. 370",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Pa. Superior Ct. 485",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        864442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/31/0485-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 948,
+    "char_count": 19675,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 4.5334793635922344e-07,
+      "percentile": 0.9239851435353953
+    },
+    "sha256": "8a2d5ffb648773ef2bb042e2f4c0880597585096ec1a78d5f058d9016793558c",
+    "simhash": "1:af252200574664d1",
+    "word_count": 3412
+  },
+  "last_updated": "2024-02-27T20:39:49.964940+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Sohapper, JJ."
+    ],
+    "parties": [
+      "Federal Land Bank of Baltimore v. King et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Kephart,\nAppellee is a federal land bank, incorporated under the Act of Congress of July 17, 1916, 33 Stat. 370, and its various amendments. It loaned to Alvin King $7,000 on notes secured by a mortgage. He died intestate, leaving to survive him two sons, Robert and Lindley. To the scire facias issued on the mortgage, Lindley, as heir and as terre-tenant, filed an affidavit of defense. In it he complained that the bank exceeded its authority in lending money to Alvin King.\nIt appears the Act of Congress restricted loans to a purpose consistent with the government\u2019s policy as expressed in the act. Section 12 of the act limited lending money by a federal land hank to the following purposes: To provide for the purchase of land for agricultural uses, to purchase equipment, fertilizer and livestock, to provide buildings, to liquidate indebtedness incurred for agricultural purposes prior to January 1, 1922. It was further provided that the loau should not exceed filly per centum of the value of the land mortgaged, or twenty per centum of the value of the permanent, insured improvements thereon, the value to he ascertained by appraisal. Not one of these purposes was in contemplation of the parties, and the loan far exceeded the value of the land mortgaged. The mortgagor\u2019s heir for these reasons considers the loan illegal and argues that the borrower need not pay the debt. A motion for judgment for want of a sufficient affidavit of defense was granted. This appeal follows.\nTlie restrictions on lending contained in the act are regulations governing the administration of the public funds by the officers of the bank. The government\u2019s policy was to aid those engaged in agriculture. To do this effectively, it limited the use Of the funds of the land banks to purposes destined to accomplish this result. While it extended its aid in long time loans with a fair return, it exacted reasonably fair security. The limitations were not interdictions against acts that were either malum in se or wicked. They were safe business regulations in connection with a public policy. If the officers of the bank attempted to violate these instructions, they could be prevented by legal action from making any loan contrary to the terms of the act. When the loan has actually been made, as here, another situation arises.\nA borrower who misrepresents the actual state of affairs and receives money is not to be benefited through his own wrong when called on to pay the loan. He is estopped from denying the statements in his petition, or from setting up the invalidity of the loan in any aspect contrary to the application. Even if the officers of the bank knew the application did not conform to the Act of Congress, or knew the facts regardless of any application, or should have known them, and nevertheless loaned the money, the bank should not be penalized for their act. It required the cooperation of the mortgagor to impose on the bank, and he can not complain. The regulations were not to prevent crime; they are made for the benefit and protection of the government, and, if transgressed, it alone has power to redress the wrong: Goundie v. Northampton Water Co., 7 Pa. 233; Leazure v. Hillegas, 7 S. & R. 313; Pittsburgh & Connellsvilie R. R. Co. v. County of Allegheny, 63 Pa. 126; Hagerman v. Empire Slate Co., 97 Pa. 534.\nAppellant\u2019s theory as to the amount due on the mortgage by reason of the manner in which it was procured is also unsound. The contention that King received no consideration from the mortgage, that it all went to pay-loans, one of which he was securing for his son, is without merit. Moreover, section 12 of article II provides for such contingencies. It reads: \u201cThat no loan or the mortgage securing the same shall he imparied or invalidated by reason of the exercise of any power by any federal land bank or national farm loan association in excess of the powers herein granted or any limitations thereon.\u201d This saving clause serves to validate the loan.\nThe sci. fa. sur mortgage was issued against Alvin King, mortgagor, Lindley King, administrator of Alvin King, deceased, Lindley King and Robert King, children and heirs of Alvin King, and Lindley King and J. H. Ziegler, terre-tenants. There are no other parties in interest. The sheriff returned nihil habet as to Alvin King, personal service as to the others; an alias writ against Alvin King is not made part of the record. Lindley King, administrator, appeared, pleaded payment, and, on the same day, as heir and terre-tenant (but not as administrator), he filed an affidavit of defense. No appearance was entered for Robert King or J. H. Ziegler. A rule was taken for judgment for want of a sufficient affidavit of defense; the court below made the rule absolute and entered a general judgment for the amount claimed. This appeal followed.\nAppellant contends that the court below could not enter a general judgment against all the defendants, and, unless there was a valid judgment against the mortgagor or his administrator, judgment could not be entered against the heirs or terre-tenants. The questions involve a brief discussion of the general principles relating to foreclosure of mortgages given to secure an indebtedness represented by bonds, notes or other securities.\nThe mortgagee\u2019s concern is the payment of the principal and interest, or means to enforce payment, or foreclosure on the property if there is a failure. It is necessary that the latter should be simple, direct, adequate and efficient. Our procedure is wholly statutory and the requirements of the acts should he strictly followed. The Act of July 12,1705,1 Sm. L. 57, is the initial regulation on the subject. Section 6 provides that, \u201cwhere default or defaults have been or shall be made......by any mortgagor......or by his or her heirs, executors or administrators,......it shall be lawful for the mortgagee......to sue forth a writ of scire facias to make known to the mortgagor, his or her heirs, executors or administrators that he or they be and appear......and ......may plead satisfaction or payment.\u201d It will be noticed that the parties mentioned are \u201cmortgagor...... his or her heirs, executors or administrators.\u201d\nIt was not the intention of the act to make the deceased mortgagor a party defendant any more than it was to make the heirs, executors or administrators defendants if the mortgagor is alive. What the act intended was that the writ should issue against the mortgagor if alive, or, if dead, his heirs, etc. If the whereabouts of the mortgagor are unknown, if alive or dead, a return of two nihils is the equivalent of service, and authorized judgment by default. Where death is known, as in this case, there is some confusion among our authorities as to whether it is proper to name the heirs to represent the interest of the deceased mortgagor, or the executor or administrator. It has been held unnecessary to name both the heirs and the executor or administrator as parties defendant (Tryon v. Munson, 77 Pa. 250, 264), and the Act of February 24,1834, P. L. 80, has not changed this rule: Taylor v. Young, 71 Pa. 81; Hiyer v. Hayward, 14 Pa. Superior Ct. 56. We have held that where the heirs are named, the administrator is not a necessary party defendant in the absence of anything to show that the real estate was necessary to pay the general debts of the estate: Herron v. Stevenson, 259 Pa. 354.\nIt is not always easy in every case to determine wk\u00ae could best look after the interest of the deceased mory gagor. The question may be clouded by the different interests involved, as where there is a question of personal liability under the mortgage contract. The sci. fa. proceeding is to force payment or place in the hands of the mortgagee the means by Avhieh he can satisfy his debt by divesting the equity of redemption ordinarily held by the heirs, who are primarily interested in this equity; but it cannot be said that the executors or administrators are Avithout interest to preserve the estate from an unfounded claim. The Act of 1705 names the \u201cheirs, executors or administrators.\u201d We have held that it is unnecessary to name both sets, and, in the Stevenson Case (where no administration had been raised in that estate), Ave held that, if the heirs were named, they could look after the deceased mortgagor\u2019s interests, and the appointment of and notice to an administrator Avere not necessary in order to obtain judgment; but this is far from saying that in all cases an administrator is not a necessary party, or could not intervene in the action. It is ahvays better to name the heirs and the executors or administrators as parties. It Avas not intended by the Act of 1705 or the Stevenson Case that, in naming the heirs, the executors or administrators Avere to be prevented from setting up a meritorious defense. Ordinarily the facts to sustain it are with them, and it is their duty to make defense if the facts Avarrant, for the reason that, if the mortgagee\u2019s claim is alloAved to stand as presented, without objection from the heirs, and the land is not sufficient to satisfy the debt, the balance, if there is personal liability by the mortgagor, may result in a deficiency judgment to be paid from the estate generally to the detriment of others. The interest of the executors and administrators is then made apparent. The mortgagee, Avhere such defense is presented, may have his judgment against the heirs opened, reduced or entirely wiped out. If the administrator or executor is not made a party, the Stevenson Case holds he need not be to sustain a judgment, and a sale of property is permitted without challenge, it will pass a good title: Taylor v. Beekley, 211 Pa. 606. It cannot be attacked collaterally, and the mere fact that the administrator is not made a party, would not defeat a judgment entered or stay an execution issued thereon from proceeding to its ultimate end.\nIn the case before us, both heirs and administrator are made parties defendant. The heir defends as to certain matters, in connection with the mortgage, which we have passed on; the administrator pleads payment, and states in the brief that the judgment should be $2,784.42 instead of $7,604.65. Assuming there is a defense of pay-, ment, apart from that which has been here decided otherwise, the judgment against the heirs, if it is successful, must be reduced. It is only where the administrator appears and pleads payment, or the heir shows a defense, that the mortgagee may be halted. In the present case, the judgment is good against the heirs. The court may control the execution, if appealed to, until the administrator\u2019s defense is out of the way.\nTo repeat, in a sci. fa. sur mortgage, when the administrator is brought in as a party defendant, a judgment against him, by default or trial, concludes everything that may be asserted to the contrary through the mortgagor\u2019s estate, unless the heirs or terre-tenants specifically set up, by affidavit, a meritorious defense. When the heirs only are made parties, a judgment is good against them and a sale can be had thereunder, unless before the sale the administrator takes steps to prevent it by showing a meritorious legal defense under the act.\nAs to terre-tenants, under the Act of 1705, it was not necessary to make them parties: Mather v. Clark, 1 Watts 491; Mevey\u2019s App., 4 Pa. 80. But the practice was to make them parties; if this was not done, they were permitted to intervene pro interesse suo: Fraley v. Steinmetz, 22 Pa. 437. A terre-tenant may appeal from an irregular or illegal judgment entered-against the executor: Mutual Life Ins. Co. v. Tenan, 188 Pa. 239. When made a party by suggestion, he is bound to make every defense available: Nace v. Hollenback, 1 S. & R. 540; Blythe v. McClintic, 7 S. & R. 339; Stevens v. North Pa. Coal Co., 35 Pa. 265. Generally speaking, this will include such defenses as the mortgagor may make (Harrison\u2019s Est., 31 Pa. Superior Ct. 485), except those treated as personal.\nBy the Act of July 9, 1901, P. L. 614, as amended by the Act of April 23, 1903, P. L. 261, the real owners of the land are made necessary parties. It provides, \u201cThe plaintiff......in any writ of scire facias......shall file with his praecipe an affidavit setting forth to the best of his knowledge, information and belief who are the real OAvners of the land charged-......and all such persons shall be made parties to the writ.\u201d The effect of the act is to make the terre-tenants necessary parties. They, as Avell as the heirs, must comply with the law of procedure as though named in the Act of 1705. That act provides that, if served and they do not appear on the day on which the writ shall be made returnable, then judgment shall be entered against them. By the Act of June 13, 1836, P. L. 586, section 34, judgment may be entered after the expiration of ten days from the day of service, with an additional four days of grace allowed by the common laAV. Fourteen days must intervene between the service and entry of judgment: Assn. v. Gardiner, 2 W. N. C. 96. But, under the Act of 1705, before the \u00edeturn day they \u201cmay plead satisfaction or payment\u201d; and, in addition, under the rules of court of the various counties, an affidavit of defense must be filed, and, unless it is, the plaintiff may take judgment by default on the day fixed by the rules. This court has recognized the effect of such rules in Mutual Life Ins. Co. v. Tenan, supra, and the county from which this appeal comes has such rule. It is applicable to the heirs and terre-tenants, but not to executors or administrators: Brookville T. & T. Co. v. Beaver Trust Co., 258 Pa. 139, 142; Mutual Life Ins. Co. v. Tenan, supra, p. 241; Seymour v. Hubert, 83 Pa. 346. The latter could not be bound by such a rule.\nIt was, then, incumbent on the administrators, heirs and terre-tenants to take the necessary steps to prevent judgment. The administrator entered a plea of payment. No judgment can be entered against him, since he was not required to file an affidavit of defense. One heir was served and filed a plea of payment and an affidavit of defense. This was later held insufficient, and the order making plaintiff\u2019s rule absolute was for judgment generally against the defendants. A direction for judgment generally takes in every phase of the case that is ripe for judgment, no matter by what means it becomes so: Cooper v. Borrall, 10 Pa. 491. When the affidavit of defense fell, all parties required to file, under the rule of court, were liable to judgment. This applied to the heirs, and the fact that no judgment was procured against the administrator would not save them: Herron v. Stevenson, supra. Another heir was served, but did not appear. Judgment could properly have been taken against him by default.\nThe terre-tenants were served; one filed an affidavit and the other did not appear, and it is now strongly urged that there could not be a valid judgment against the terre-tenant in the absence of judgment against the mortgagor\u2019s administrator, and Roberts v. Williams, 5 Wharton 170, is cited to sustain this position. We think it does not justify the statement that a judgment could not be entered against the terre-tenant until the judgment was entered against the mortgagor, but it is authority for the proposition that the mortgagee could not \u201cpursue the land in possession of the terre-tenant\u201d until judgment was had against the mortgagor. However this may be, since the Act of 1901, as amended by the Act of 1903, terre-tenants are made parties. Where they are the real parties in interest, they come under the Act of 1705 and the rules of court in the same manner as the heir. A terre-tenant must enter an appearance, file his plea, and an affidavit of defense. He can make every defense that the mortgagor could make, and we can conceive of no situation prejudicial to his rights that could develop which in some form would not be recognized by the courts if it had legal merit. He must be vigilant to protect his rights, and should not depend on the mortgagor being brought into court by the return of two nihils before making his defense known. If he neglects this, he must suffer the same penalty the heir would suffer, under the same circumstances under the Acts of 1705 and 1836. The mortgagee\u2019s rights in such judgment are exactly the same against the heirs and terretenants in this respect. If the administrator appears and defends, such judgment may be opened and reduced or wiped out if that litigation is successful.\nThese conclusions require that we affirm the judgments against all the parties except the administrator. The latter does not stand in a favorable position. He appeared and pleaded in another capacity, and has had full opportunity to raise every defense available to him as the representative of the deceased mortgagor. There is no allegation that any other defense exists. Technically, however, he cannot be precluded from proceeding to trial in his capacity as administrator, and the judgment as to him must be stricken off. If he makes a successful defense as administrator, the heirs and terretenants benefit. If he is unsuccessful, the judgments stand. Meanwhile the court will control execution.\nThe judgment as to Bindley King, as administrator, is stricken off; the judgments entered against Bindley King as heir and terre-tenant are affirmed, costs to be paid by appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Kephart,"
+      }
+    ],
+    "attorneys": [
+      "Chas. E. Workman and B. J. Myers, of Zimmerman, Myers & Kready, for appellant.",
+      "K. L. Shirk, with him E. G. Ripple, for appellee. \u2014 \u25a0"
+    ],
+    "corrections": "",
+    "head_matter": "Federal Land Bank of Baltimore v. King et al.\nArgued May 14, 1928.\nBefore Moschzisker, C. J., Frazer, Walling, Simpson, Kephart, Sadler and Sohapper, JJ.\nChas. E. Workman and B. J. Myers, of Zimmerman, Myers & Kready, for appellant.\n\u2014 The purpose for which the mortgage in suit was given was not only not within the terms of the act and directly contrary to and violative of them, but it was also not within the spirit of the act as set forth in its title: National Bank v. Matthews, 98 U. S. 621; California Bank v. Kennedy, 167 U. S. 362; Miller v. Ammon, 145 U. S. 421; Ewell v. Daggs, 108 U. S. 143.\nUnder the decisions of this State, this mortgage would be held invalid: Fowler v. Scully, 72 Pa. 456; Woods v. Bank, 83 Pa. 64; Nat. Bank of Brunswick v. Bank, 212 Pa. 238; Com. Tr. Co. v. Bank, 260 Pa. 223; Highland v. Russell Co., 288 Pa. 230.\nThe sci. fa. is sufficient to support a judgment: Swift v. B. & L. Assn., 82 Pa. 142; Dunn v. Lewis, 16 Phila. 117.\nAn illegal consideration, or the failure of a lawful one, may constitute a defense to it, but it lies on the mortgagor who alleges either, to establish it by competent evidence: Saalfield v. Manrow, 165 Pa. 114, 118; Scott v. Hough, 151 Pa. 630; Harrison\u2019s Est., 31 Pa. Superior Ct. 485; Comegys v. Davidson, 154 Pa. 534.\nK. L. Shirk, with him E. G. Ripple, for appellee. \u2014 \u25a0\nIn a sci. fa. sur mortgage an averment of plaintiff\u2019s violation of law in taking the mortgage and an averment that the act was ultra vires is not a sufficient defense: Leslie & Co. v. Machinery Co., 66 Pitts. L. J. 753; Mutual Trust Co. v. Stern, 235 Pa. 202; Curry v. Electric Co., 251 Pa. 344, 347; Lemmon v. Rubber Co., 260 Pa. 28, 32; McBride v. Paper Co., 263 Pa. 345, 350; Cameron v. Christy, 286 Pa. 405.\nPlaintiff\u2019s pleadings in the present case are sufficient to support judgment in favor of the appellee-mortgagee.\nThere is no averment in the affidavit of defense of the payment of the proceeds of the mortgage to any person other than the mortgagor or on his account, sufficient to prevent judgment against the mortgagor on a foreclosure.\nThe judgment in this case was properly entered by the court generally in favor of plaintiff for want of a sufficient affidavit of defense.\nJune 30, 1928:"
+  },
+  "file_name": "0086-01",
+  "first_page_order": 110,
+  "last_page_order": 122
+}

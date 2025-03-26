@@ -1,0 +1,781 @@
+{
+  "id": 820032,
+  "name": "JACOB LIVINGSTON v. J. H. WOLF",
+  "name_abbreviation": "Livingston v. Wolf",
+  "decision_date": "1890-10-06",
+  "docket_number": "No. 76",
+  "first_page": "519",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 Pa. 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cumberland Cty. C.P.",
+    "id": 9662,
+    "name": "Cumberland County Court of Common Pleas"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 N. J. Eq. 75",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        511150
+      ],
+      "pin_cites": [
+        {
+          "page": "78, 81"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/17/0075-01"
+      ]
+    },
+    {
+      "cite": "54 Pa. 401",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1006299
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/54/0401-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. 91",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425182
+      ],
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/50/0091-01"
+      ]
+    },
+    {
+      "cite": "102 Pa. 123",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        502733
+      ],
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/102/0123-01"
+      ]
+    },
+    {
+      "cite": "1 Gr. 416",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        225909
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/1/0416-01"
+      ]
+    },
+    {
+      "cite": "116 N. Y. 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2225866
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/116/0382-01"
+      ]
+    },
+    {
+      "cite": "56 Vt. 627",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        754035
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/56/0627-01"
+      ]
+    },
+    {
+      "cite": "99 Mass. 597",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2139833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/99/0597-01"
+      ]
+    },
+    {
+      "cite": "103 Pa. 536",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        449157
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/103/0536-01"
+      ]
+    },
+    {
+      "cite": "103 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        449135
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/103/0032-01"
+      ]
+    },
+    {
+      "cite": "2 Penny. 419",
+      "category": "reporters:state",
+      "reporter": "Pennyp.",
+      "case_ids": [
+        218967
+      ],
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pennyp/2/0419-01"
+      ]
+    },
+    {
+      "cite": "3 P. & W. 259",
+      "category": "reporters:state",
+      "reporter": "Pen. & W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "81 N. Y. 52",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175402
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/81/0052-01"
+      ]
+    },
+    {
+      "cite": "65 Md. 260",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1808644
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/65/0260-01"
+      ]
+    },
+    {
+      "cite": "1 Y. 471",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "case_ids": [
+        6776296
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/yeates/1/0471-01"
+      ]
+    },
+    {
+      "cite": "114 Pa. 470",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        550045
+      ],
+      "pin_cites": [
+        {
+          "page": "477"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/114/0470-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9503887
+      ],
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/24/0207-01"
+      ]
+    },
+    {
+      "cite": "52 Pa. 320",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1002221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/52/0320-01"
+      ]
+    },
+    {
+      "cite": "34 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        418002
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/34/0275-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 202",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988424
+      ],
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0202-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 39",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "86 Am. Dec. 253",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 Wend. 318",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Pa. 42",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "94 Pa. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        486049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/94/0147-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 371",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988372
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0371-01"
+      ]
+    },
+    {
+      "cite": "30 Pa. 296",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Am. Dec. 573",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Me. 436",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846729
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/26/0436-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0053-01"
+      ]
+    },
+    {
+      "cite": "2 Gr. 291",
+      "category": "reporters:state",
+      "reporter": "Grant",
+      "case_ids": [
+        227678
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/grant/2/0291-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 209",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Pa. 536",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "95 Pa. 287",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492930
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/95/0287-01"
+      ]
+    },
+    {
+      "cite": "58 Pa. 249",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1013191
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/58/0249-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 33",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040396
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "36"
+        },
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/78/0033-01"
+      ]
+    },
+    {
+      "cite": "9 How. 10",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3354315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/50/0010-01"
+      ]
+    },
+    {
+      "cite": "36 Am. Dec. 502",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Conn. 565",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6755048
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/14/0565-01"
+      ]
+    },
+    {
+      "cite": "2 Johns. Ch. 378",
+      "category": "reporters:state",
+      "reporter": "Johns. Ch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "19 N. J. Eq. 276",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        8877655
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "279"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/19/0276-01"
+      ]
+    },
+    {
+      "cite": "115 Mass. 217",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        718138
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/115/0217-01"
+      ]
+    },
+    {
+      "cite": "86 Am. Dec. 252",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 Pa. 453",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1061223
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/88/0453-01"
+      ]
+    },
+    {
+      "cite": "87 Pa. 339",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1057872
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/87/0339-01"
+      ]
+    },
+    {
+      "cite": "33 Pa. 124",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988414
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/33/0124-01"
+      ]
+    },
+    {
+      "cite": "27 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        979418
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/27/0183-01"
+      ]
+    },
+    {
+      "cite": "26 Pa. 227",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977250
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/26/0227-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 182",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498374
+      ],
+      "weight": 5,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/100/0182-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498397
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/100/0368-01"
+      ]
+    },
+    {
+      "cite": "26 Pa. 223",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977306
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/26/0223-01"
+      ]
+    },
+    {
+      "cite": "132 Pa. 257",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        970573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/132/0257-01"
+      ]
+    },
+    {
+      "cite": "14 Pa. 186",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        405963
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/14/0186-01"
+      ]
+    },
+    {
+      "cite": "103 Pa. 536",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        449157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/103/0536-01"
+      ]
+    },
+    {
+      "cite": "3 P. & W. 259",
+      "category": "reporters:state",
+      "reporter": "Pen. & W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Pa. 287",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        492930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/95/0287-01"
+      ]
+    },
+    {
+      "cite": "78 Pa. 33",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1040396
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/78/0033-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 182",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498374
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/100/0182-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 368",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498397
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/100/0368-01"
+      ]
+    },
+    {
+      "cite": "26 Pa. 223",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        977306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/26/0223-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1352,
+    "char_count": 37609,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 8.898027650126753e-07,
+      "percentile": 0.9783776969236431
+    },
+    "sha256": "89f581cfbcd127610c566c9c445148f8e722838647218817917a4eded6080e92",
+    "simhash": "1:7aab913477ed49b9",
+    "word_count": 6541
+  },
+  "last_updated": "2024-02-27T21:11:46.841605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Sterrett, Clark, Williams, McColldm and Mitchell, JJ."
+    ],
+    "parties": [
+      "JACOB LIVINGSTON v. J. H. WOLF."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion,\nMr. Justice Williams :\nThe principle that matters of merely local concern should be left to the control of the people to be affected, is recognized and acted upon in our system of government. To this end cities and boroughs have their legislative as well as their administrative officers, and the municipal legislature may make laws in regard to all subjects of a municipal character, and enforce them by appropriate penalties. The local government must keep within the limits that bound its jurisdiction as they are defined by the constitution and laws of the state; but, subject to these restrictions, it may determine what is best calculated to promote the security, the comfort, and the convenience of the inhabitants. Among the subjects of municipal control is that of the opening, vacating, and management of streets and alleys. The city or borough may decide when and where it will open streets, what shall be their width, and how much of that width shall be devoted to a carriage way, and how much to footwalks. It may say where trees shall be planted within the street limits, where and how hitching posts shall be set, telegraph poles erected, or passenger railways built. Its decision in such matters may subject a few persons to some inconvenience, or possibl}r to some substantial loss, but it has the power to decide on such subjects. The foot Avays no less than the carriage ways are under municipal control, and the authorities may determine the extent to which the walks and pavements may be obstructed by cellar doors, door-steps, awnings, projecting Avindows, cornices, and the like. This power must be exercised by regulations that are general and uniform, that are reasonable and certain, and that are in conformity with the constitution and laws. When so exercised, it is binding on all the inhabitants of the municipality. These general propositions are supported by many cases, among which are Paul v. Carver, 26 Pa. 223; Commonwealth v. Rush, 14 Pa. 186; Barter v. Commonwealth, 3 P. & W. 259; Philadelphia\u2019s App., 78 Pa. 33; Allegheny v. Zimmerman, 95 Pa. 287; Commonwealth v. Hauck, 103 Pa. 536; In re Ruan St., 132 Pa. 257. That the courts must judge of the reasonableness of the action of the municipality, and that such action is not binding, if it is unreasonable, was held in Kneedler v. Norristown, 100 Pa. 368; and that its action must be general, bearing equally upon the citizens, was ruled in Reimer\u2019s App., 100 Pa. 182.\nIn this case, the obstruction complained of is a window projecting from the second story of defendant\u2019s dwelling into the street. The plaintiff alleges that the obstruction is unlawful, and asks that it may be prevented by an injunction. The defendant sets up a borough ordinance as his authority for building the window, and denies that it inflicts any substantial injury upon the plaintiff. The controlling question, therefore, is whether the borough of Carlisle has authorized the construction of the window. If it has, the decree appealed from was rightly made. If it has not, then the extent of the plaintiff\u2019s injury, and the other questions raised, must be considered.\nIt is not denied that an ordinance was duly passed by the borough council on the 20th May, 1852, relating to this subject. It provided, among other things, that all porches, cellar doors, and door-steps should be so built as not to extend into any street, having a breadth of sixty feet, beyond four feet three inches, or a proportional distance in narrower streets. It also prohibited the construction of \u201c any bulk or jut window \u201d projecting into the street more than twenty-eight inches. In 1869 this ordinance was amended so as to reduce the distance that a cellar door might extend into the street to three feet and nine inches, and that for door-steps to three feet and six inches; but the provision for \u201c bulk or jut windows \u201d remained at twenty-eight inches. The master finds that the defendant\u2019s window extends but twenty-seven and one half inches over the street line. It is therefore within the limit fixed by the ordinance, and, as to the public, within its protection. It is true the ordinance does not expressly declare that lot owners may occupy three feet and nine inches of the street with their cellar-ways, or project their jut or bay-windows to a distance of twenty-eight inches over the street; but, -by forbidding the extension of such structures beyond a fixed limit, it does, by clear and necessary implication, permit their erection within that limit. The window is therefore not an unlawful obstruction of the street, but a projection authorized by the ordinance of 1852.\nIn Reimer\u2019s Appeal, supra, an injunction was granted restraining the erection of a projecting window, but it was because no valid municipal authority was shown for building it. An individual permit had been granted, but it was held that the use of the streets for such purposes must be regulated by rules of general and uniform application. The power to make such rules was not denied, but was clearly recognized. The principles that control this case may be stated thus:\n1. Cities and boroughs have the power to permit, under regulations that are reasonable in character, and general in their application, the use of a portion of the highways for approaches to and for ornamental work upon buildings standing on the street line.\n2. The borough of Carlisle has exercised this power by the ordinance of 1852, which is reasonable in its provisions, and general in its application.\n3. The window complained of is within the limit of projection fixed by the ordinance, and it is consequently within its implied permission.\nIt follows that the projecting window is not an unlawful obstruction, but a lawful structure. If this conclusion could be regarded as doubtful, the decree ought nevertheless to be affirmed upon the finding of the master that the window caused no appreciable injury to the plaintiff.\nThe decree is affirmed; the costs to be paid by the appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Williams :"
+      }
+    ],
+    "attorneys": [
+      "Mr. W. J. Shearer (with him Mr. F. F. Beltzhoover and Mr. S. Hepburn, Jr.), for the appellant:",
+      "Mr. A. D. B. Smead and Mr. William Trickett (with them Mr. John B. Landis), for the appellee:"
+    ],
+    "corrections": "",
+    "head_matter": "JACOB LIVINGSTON v. J. H. WOLF.\nAPPEAL BY PLAINTIFF FROM THE COURT OF COMMON PLEAS OF CUMBERLAND COUNTY.\nArgued April 28, 1890\nDecided October 6, 1890.\n[To be reported.]\n1. The foot ways, no less than the carriage ways, in cities and boroughs, are under municipal control; and the authorities may determine the extent to which the sidewalks may be obstructed by cellar doors, doorsteps, awnings, bay-windows, cornices and the like.\n2. This power must be exercised under regulations that are general and uniform, that are reasonable and certain, and that are in conformity with the constitution and the laws: Paul v. Carver, 26 Pa. 223; Kneedler v. Norristown, 100 Pa. 368; Reimer\u2019s App., 100 Pa. 182.\n3. Under regulations that are reasonable in character and general in their application, cities and boroughs have power to permit the use of portions of the highways for approaches to and for ornamental work upon buildings standing on the street line.\n4. A borough ordinance authorizing the use of 3 feet 6 inches of the foot way for cellar entrances, and prohibiting bay-windows projecting more than 28 inches, on a street 60 feet wide, is not unreasonable; and under it an over-hanging balcony and bay-window projecting less than those limits will not be enjoined.\n5. If the conclusion in this case could be regarded as doubtful, the decree dismissingthe bill of an adjoining owner for an injunction, wouldnevertheless be affirmed upon the finding of the master that the structures complained of caused no appreciable injury to the plaintiff.\nBefore Sterrett, Clark, Williams, McColldm and Mitchell, JJ.\nNo. 76 May Term 1889, Sup. Ct.; court below, No. 4 August Term 1884, C. P. in Equity.\nOn June 18, 1884, Jacob Liyingston filed a bill in equity against John H. Wolf, and others, his contractor and their employees, averring, in substance:\nThat plaintiff and defendant Wolf owned adjoining lots fronting on North Hanover street in the borough -of Carlisle; that upon the plaintiff\u2019s lot was built a valuable residence, and a residence was building upon the lot of the defendant, the front walls of both dwellings being bounded at the level of the pavement by the eastern line of the street.\nThat the defendant Wolf had begun the construction of a balcony, sixteen feet above the pavement and projecting three feet over the building line into the street, and intended to construct, also, second and third story bay-windows projecting in like manner three feet into the public highway, and that said structures, if completed, would be a nuisance and injury to the plaintiff.\nThe prayers of the bill were for an injunction restraining the construction of said balcony and bay-windows, and for general relief.\nThe answer of the defendants admitted the material averments of the bill, except that it was averred that the bay-windows, extending from the floor of the balcony to within about four feet from the cornice of the house, would project but two feet four inches from the front of the building; that neither of the structures would project farther from the building line than was permitted'by the borough ordinances; and it was denied that the structures would constitute a nuisance to the plaintiff.\nIssue having been joined, the cause was referred to Mr. H. S. Stuart, as examiner and master, who subsequently reported as follows:\n. Hanover street is one of the principal thoroughfares in the borough of Carlisle. It is a public highway eighty feet wide, laid out by the Penns, the proprietaries of the province at the time the borough of Carlisle was originally laid out. The lots on either side of this street were numbered and sold, and were described in the conveyances as bounded on the east or west, as the case might be, by Hanover street. The lots were sixty feet wide and two hundred and forty feet in depth. The distance from the base of these lots to the building line of the street is two hundred and forty feet. Mr. Wolf\u2019s house is situated on a part of one of these lots, and immediately adjoining, on a part of another of these lots, is situated Mr. Livingston\u2019s house. Both houses are on the eastern side of said North Hanover street about midway between Louther street and Mulberry alley. The Livingston building is south of the Wolf building, and the base line of both buildings is on the building line of the street.....\nFrom the pavement to the top of the Livingston building, the distance is thirty-five feet, nine inches, i. e., to level of cornice. To level of cornice on Wolf building, in same manner, is forty-three feet six inches; to top of highest point on Wolf building is forty-six feet nine inches. The width of the Wolf building is twenty-six feet. The distance from pavement to floor of Wolf\u2019s veranda is seventeen feet four inches. The length of the veranda corresponds with the width of the Wolf building. The veranda projects upon the street three feet three inches. The bay-windows are situated in the middle of the veranda. That in the second story projects two feet three and one half inches from the building line upon the street; the height of said bay-window is twelve feet four inches. The bay-window on third stoiy projects, in like manner, one foot, eleven and one half inches. The height of this bay-window to top of roof on third story is eleven feet nine inches. The width of the bay-window on second story is seven feet five inches. The width of the third story bay-window is six feet nine inches. From no point within the Livingston building can the bay-window be seen, nor can the veranda be seen from-within the Livingston building, on the second story, except that nearest the said veranda.....\nThe evidence further shows that there are in the borough of Carlisle four other bay-windows somewhat similar to the bay-windows on the Wolf building; that none of these were erected prior to the year 1869, and that they are so situated with reference to adjacent owners that no peculiar inconvenience is occasioned by them to said adjacent owners; that there are twenty-seven jut windows, more than thirty-five balconies, a large number of permanent and adjustable awnings, signs extending across the footwalk, also many heavy cornices and several hundred trees; and that these enumerated objects are all beyond the building line of the streets of the borough. There is no evidence to show that objection has ever been made to these structures before the present instance. It is the custom of -the borough of Carlisle to permit objects of the general kind above enumerated to remain permanently in its streets. No evidence was offered to show the nature and amount of inconvenience occasioned by said veranda and bay-window to Jacob Livingston, further than that which is necessarily to be inferred from the above stated facts, nor is there any direct testimony to show that Mr. Livingston\u2019s property is diminished in value by the Wolf projections.....\nIt is further contended on part of the defendant that even ' though the structures complained of would in the absence of any borough ordinance be of such a nature that Mr. Livingston would obtain relief in equity, yet the borough ordinances afford complete protection to Mr. Wolf. On page 53, Borough Ordinances of Carlisle, \u00a7 6, appears the following, passed May 20, 1852:\n\u201c If any person or persons shall make any pavement, etc., or if any person shall hereafter make and set up in any street of sixty feet wide or upward any porch, cellar door or steps, which shall extend beyond the distance of four feet three inches into such street, or beyond a proportionate distance, if set up in any narrow street; or, if any person shall make or set up any bulk or jut window which shall extend beyond the distance of twenty-eight inches into the said street, or shall place or cause to be placed any spout or gutter whereby the passage of any street, lane or alley shall be incommoded, and shall fail to remove the same within three days after notice given by the chief or assistant burgess, he, she or they so offending shall forfeit and pay a sum not exceeding five dollars, and for continuance of such offence shall forfeit and pay a sum not exceeding ten dollars.\u201d\nSection 7, page 93, reads as follows, March 16, 1869:\n\u201c From and after the passage of this ordinance, it shall be unlawful for property owners in said borough to extend into the pavement any cellar doors for a greater distance than three feet nine inches, or any doorsteps to a greater distance than three feet six inches, on any of the streets of said borough.\u201d\nThe veranda does not extend into the street beyond the distance of three feet three inches, nor does either bay-window project into the same beyond twenty-seven and one half inches.\nIt will be observed that these proceedings were instituted soon after the defendant began the building on which are the projections. The plaintiff has slept upon no right and is entitled to all the consideration that the law gives to the vigilant man. On the other hand, the defendant, relying on his rights in the matter and with a full knowledge of these proceedings, has, as is shown by the amendment to the plaintiff\u2019s bill, now almost completed the projections complained of. In these circumstances, a court of equity will interfere as readily and on the same evidence to remove these projections, as it would to prevent their erection.....\nThe rights of property owners along the public highway are nowhere defined with precision. It seems, however, to be the settled law both in this country and in England that in general a recovery may be had in a suit at law in all cases where the legal right of the plaintiff has been invaded by the defendant, even though no actual damage result therefrom. The law will import damage. But when an individual asks an equitable remedy, when he seeks by injunction to restrain another from erecting or maintaining that which is styled a nuisance, something more than the mere invasion of a legal right must be shown. He must of course first show that a legal, or, as it is sometimes called, a substantial right has been invaded, else no matter how great the damage he may suffer from the act or-omission of the defendant, he would not have any standing to complain. He must then go beyond this and show that the injury done him is not of a trifling character, but tangible, considerable, and seriously interfering with the enjoyment of his property. Some of the cases even go further, and put it perhaps too strongly by saying that the injury must be irreparable.\nAt all events, the injury must be of a special, private and peculiar character. The mere fact that the object complained of amounts to a public nuisance, does not render it improper for a private individual to seek relief by injunction, if his legal rights have been infringed, and if, in addition to the damage suffered by the public generally, he shows a damage done him of a special and peculiar kind. It is no defence to a wrongdoer to allege that the act complained of inflicts a like injury on a number of persons. The rule is that one erecting or maintaining a common nuisance is not liable to an action at the suit of one who has sustained no damage therefrom, except such as is suffered by the public generally. He is liable at the suit of one who has sustained damage peculiar to himself. No matter how numerous the persons may be who have sustained this peculiar damage, each is entitled to relief therefor. The public nuisance becomes a private one to every person on whom it inflicts such peculiar damage.\nThe first inquiry, then, will be if any legal right of the plaintiff has been invaded by the erection and maintenance of the defendant\u2019s projections; and, secondly, if such legal right has been invaded, if the damage resulting therefrom is of that tangible kind and of that degree which entitles him to call in the extraordinary power of a court of equity to give him relief. The further questions will also be considered, viz.: Whether the borough of Carlisle has power to pass an ordinance or bylaw permitting such projections; whether in this instance it has exercised that power and has granted the requisite license, and if so, whether such by-law is reasonable. The law is not that boroughs can license nuisances, but it must be remembered that all obstructions on the streets are not necessarily nuisances. There are certain reasonable obstructions which boroughs can license, and when so licensed neither the public nor an individual has a right to complain. The private right grows out of the public right, and when the public in a proper manner relinquishes that right the private right goes with it.\nMr. Wolf owns the fee to the middle of Hanover street, subject to the public right of way with its necessary incidents. Such is a presumption of law; and there is nothing in the facts of this case which would warrant any other conclusion. It is true that the proprietaries laid out Hanover street for public use and sold the land on either side of it to the building line. In such circumstances, the fee to the middle of the street is in the adjacent owners, there being no express or implied reservation in the deed. No instrument which puts the fee in any other person or in the borough of Carlisle has been brought to the attention of the master. [\u2014Citing Paul v. Carver, 26 Pa. 227; Grier v. Sampson, 27 Pa. 183; Cox v. Friedley, 33 Pa. 124; Trutt v. Spotts, 87 Pa. 339; Spackman v. Steidel, 88 Pa. 453; Hinchman v. Railroad Co., 2 C. E. Green 75 (86 Am. Dec. 252.)] It is not necessary to multiply cases; the principle is well established. In this case, the proprietaries laid out Hanover street as a public highway, and sold the lots on either side of it. They did not reserve to themselves or sell to any other the land in the street. It was laid out for the advantage of the adjacent lots and for public travel; and in reason as well as on authority the master is of opinion that Mr. Wolf owns the fee in the street in front of his house to the middle of the street, subject to the public right of way or travel over it with its necessary incidents.\nIf, then, Mr. Wolf owns the fee to the middle of the street, as above indicated, let us inquire what right, attaching to Mr. Livingston\u2019s building, has been invaded by the defendant in constructing and maintaining these projections. If Mr. Livingston is injured at all it must be in air, light or view. In order to have any standing at all to complain, he must contend that he has a legal right to an unobstructed view across that portion of the highway in which Mr. Wolf owns the fee subject to the public right of way; or, he must have a legal right to have light and air come to his building across the same without any interference.....\n-\u2014Considering Jenks v. Williams, 115 Mass. 217; Higbee v. Railroad Co., 19 N. J. Eq. 276 ; Commonwealth v. Harris, 10 W. N. 10; Blanchard v. Reyburn, 1 W. N. 529; Horner v. Craig, 2 W. N. 11; Reimer\u2019s App., 100 Pa. 182; Wood on Nuisances, \u00a7 9; Morris etc. R. Co. v. Prudden, 5 C. E. Green 536 ; Attorney General v. Insurance Co., 2 Johns. Ch. 378; Attorney General v. Railroad Co., 2 Green Ch. 136; Hinchman v. Railroad Co., 2 C. E. Green 75; Bigelow v. Bridge Co., 14 Conn. 565 (36 Am. Dec. 502); Irwin v. Dixion, 9 How. 10; Zabriskie v. Railroad Co., 2 Beas. 314; Philadelphia\u2019s App., 78 Pa. 33; Wilson v. Strawbridge, 4 W. N. 35; the master continued:\nFrom the above cases, it is evident that a court of equity will not interfere at the instance of a private suitor to remove an obstruction on the public highway, unless he show a clear violation of a private right and a serious consequent damage. Now, from the interior of the Livingston building no part of the bay-window can be seen unless the window sash be raised, and only a small portion of the veranda is visible. The third story bay-window neither obstructs his view, light or air to any extent, and it is only from the one window in his building that any part of the projections can be seen without raising the sash. Access to his building is not cut off, nor is the distance to be traversed in reaching the Livingston building from any given point increased. His right of passage is in no way interfered with. From the very nature of the projections, it is evident that the diminution of light and air occasioned thereby to Mr. Livingston, is inconsiderable, while the view is far less interrupted than it is by trees along the side of the street. It cannot be possible that the cutting off of a prospect by a bay-window, when it is necessary to raise the sash before that window can be seen at all, is the sort of an injury that is either tangible or considerable. It is rather of that fanciful character which a court of equity would be very slow to enjoin.....\n\u25a0\u2014Considering High on Injunctions, 292; Black v. Railroad Co., 58 Pa. 249; Allegheny v. Zimmerman, 95 Pa. 287; Commonwealth v. Hauck, 108 Pa. 536, the master proceeded:\nI have found that projections of a character such as this and other obstructions, ornamental, convenient or useful, are permitted upon our streets. Such is the immemorial custom of our borough and the custom is certainly not unreasonable. It is not necessary to determine definitely whether or not these projections are nuisances at common law. If it be doubtful whether they are public nuisances, and if the private right to complain falls, unless they are also public nuisances, then that doubt should be resolved in favor of the defendant and would \u25a0be conclusive in the present action. It seems to me that there is at least sufficient doubt on this subject to prevent the interference of a court of equity at the instance of a private suitor, until the public rights in matters such as this are more clearly determined at law or otherwise.\nI pass, however, from this to the further and last question that will be considered, viz.: Are these projections permitted b3r a lawful borough ordinance or other lawful authority; for if so they would not be public nuisances and consequently could not be private ones. Clearly, the borough ordinance, b3r imposing a penalty on bulk or jut windows that project into the street beyond twent3r-eight inches in streets that are sixty feet wide and upwards,\u2014Hanover is one of these, by implication at least,-\u2014allows those that project to that distance. The general term \u201c jut window \u201d is broad enough to include structures like those bay-windows erected by Mr. Wolf : Commonwealth v. Harris, 10 W. N. 13. These do not encroach upon the highway beyond the said twenty-eight inches, and are therefore permitted by the ordinance. The ordinance in the same manner permits porches that do not extend into the street more than four feet three inches. The word porch, and the general spirit of the ordinance, cover such a projection as this veranda. This veranda does not project to so great a distance as allowed by the ordinance and is consequently thereby permitted. The ordinance is certainly not unreasonable, and the custom of the borough both before and since the passage of the same, in permitting not only such but even greater encroachments upon its streets, is abundant evidence of this.\nIt remains, then, to determine whether the ordinance is legal, for if illegal it would of course afford no protection to Mr. Wolf. The control of public streets is in Pennsylvania an incident at common law of municipal corporations; and it does not seem to me that it would be a very great stretch of that common-law power for the borough to pass the ordinance in question. It is a general ordinance intended for the benefit of all the citizens and for the better enjoyment of their buildings and homes. It does not authorize that which is per se a nuisance, nor anything that realty materially interferes with public travel or public convenience, and it is certainty not unreasonable in its character. This principle is recognized in several Pennsylvania cases. In Wartman v. Philadelphia, 33 Pa. 209, it is held that a municipal corporation has at common law a right to fix the time and place of holding markets. The language of the court is as follows : \u201c It is therefore the common law in Pennsylvania that every municipal corporation,-which has power to make by-laws and establish ordinances to promote the general welfare and preserve the peace of a town or city, may fix the time and place of holding public markets for the sale of food, and make such other regulations concerning them as may conduce to the public interest. We take this to be the true rule, because it is necessary and proper, in harmony with the sentiments of the people, universally practiced by the towns, and universally submitted to by the residents of the country.\u201d In Denehey v. Harrisburg, 2 Pears. 332, it is held that the control of the public streets is an incident to nearly all boroughs at common law, provided that control be exercised for the public good, of which the corporate authorities are for the most part the judge. This appears by the judicial decisions of most states, our own among the rest, and it is only in a very gross case that the power of a borough, so exercised, can be controlled or overruled by the courts. This, more especially in a court of equity, so long as the corporate authorities are acting within the scope of their creation and for the apparent benefit of the citizens they represent. The case, Fisher v. Harrisburg, 2 Gr. 291, recognizes the authority of a municipal corporation to make sewers without special authority given for that purpose.\nBut the more important inquiry is whether the borough of Carlisle has expressed or implied legislative sanction in the enactment of this ordinance. Carlisle was incorporated by an act passed April 13, 1782, 2 Carey & B. L. 333. Section 39 of the act of incorporation reads as follows :\n\u201cAnd be it further enacted by the authority aforesaid that if any person or persons shall hereafter make and set up or shall cause to be made and set up, in any street of fifty feet wide or upwards, within the said borough, any porch, cellar door, or step, which shall extend beyond the distance of four feet and three inches into such street, or a proportionate distance into any narrower street, and if any person or persons shall hereafter make and set up, or cause to be made and set up, any bulk, jut window or encumbrance whatsoever whereby any passage of any street, lane or alley shall be obstructed, or shall place or cause to be placed any spout or gutter whereby the passage of any street, lane or alley shall be incommoded, every person so offending and being thereof convicted before the burgesses of the said borough or either of them, or before any justice of the peace of the county aforesaid, shall for every such offence forfeit and pay the sum of thirty shillings, and shall forthwith remove the said nuisance or cause the same to be removed. .....\u201d The eleventh section of same grants the borough power to make rules and ordinances not inconsistent with the laws of the commonwealth, necessary or convenient, for the good of the borough.\nThe general borough act passed April 3, 1851, defines the power of boroughs thereafter incorporated. The thirty-third section of the act provides that any borough heretofore incorporated may, upon application to the Court of Quarter Sessions, become subject to the restrictions and possess the powers and privileges conferred by this act, \u201cprovided, that upon such application being confirmed by the said court the provisions of the former charter shall be annulled by the decree of the court so far as they are in conflict with the provisions of this act.\u201d Carlisle was incorporated before the passage of this act. On the 14th day of April, 1852, application having been previously made to the Court of Quarter Sessions to have the provisions of the act of April 3, 1851, extended to Carlisle, it was so decreed, and that all the provisions of the former charter \u201c of said borough, so far as they conflict-with the provisions of the said act, be annulled.\u201d The act of 1851 gives boroughs the power to regulate their streets and all needful jurisdiction over the same. This does not directly give the boroughs authority to permit projections in the street, but it gives them certain discretionary power over the streets, which power when reasonably exercised will not readily be interfered with by the court. The original charter is annulled only in so far as it is inconsistent with the act of 1851. The charter by clear implication allows jut windows that do not obstruct or incommode the passage of any street, lane or alley, and porches that do not extend into the streets fifty feet wide and upward beyond four feet three inches. The master has already given his opinion on the interpretation that ought to be put on the words \u201c jut window \u201d and \u201c porch,\u201d and thinks that they include respectively projections such as this bay-window and veranda. There is nothing in the act of 1851 annulling these provisions of the charter, and they are therefore applicable to the borough to-day: Harlisburg v. Sheck, 104 Pa. 53. This window does not obstruct or incommode passage, and the veranda does not project into the street beyond four feet three inches. The master thinks they are permitted by lawful authority, which furnishes protection to Mr. Wolf in this action.\nThe master would therefore respectfully recommend to the court that the bill be dismissed at the cost of the plaintiff.\nTo the foregoing report the plaintiff filed exceptions alleging that the master erred, inter alia:\n. 6. In finding and ruling that the plaintiff had suffered no injury which entitled him to the relief sought in this action.5\n7. In ruling that the structure of the defendant was not a nuisance per se.6\n8. In ruling that the borough of Carlisle could permit or authorize a nuisance, and that the defendant was protected by the ordinances of said borough.7\n9. In ruling that the<fStructure of the defendant was \u201c permitted by lawful authority which furnishes protection to Mr. Wolf in this action.\u201d 8\n10. In ruling and recommending that the bill should be dismissed at the cost of the plaintiff.\nSaid exceptions having been argued before Barnett, P. J., 41st district, holding special term, an opinion was filed wherein, after considering Pierre v. Fernald, 26 Me. 436 (46 Am. Dec. 573); Hazlett v. Powell, 30 Pa. 296; Haverstick v. Sipe, 33 Pa. 371; Rennyson\u2019s App., 94 Pa. 147; Tinicum Fishing Co. v. Carter, 61 Pa. 42; Parker v. Foote, 19 Wend. 318; Hinchman v. Railroad Co., 2 C. E. Green 75 (86 Am. Dec. 253) ; Commonwealth v. Harris, 10 W. N. 10; Reimer\u2019s App., 100 Pa. 182; Philadelphia\u2019s App., 78 Pa. 39, the exceptions to the master\u2019s report were dismissed and the report confirmed. A final decree having been entered dismissing the bill, the plaintiff took this appeal, specifying that the court erred, inter alia:\n5-8. In dismissing the plaintiff\u2019s exceptions.5 to 8\n11. In decreeing the dismissal of plaintiff\u2019s bill.11\nMr. W. J. Shearer (with him Mr. F. F. Beltzhoover and Mr. S. Hepburn, Jr.), for the appellant:\n1. Is a permanent structure, built over the highway, but seventeen feet above it, a public nuisance ? This question is fully answered by Reimer\u2019s App., 100 Pa. 182. Such a structure is a nuisance per se. In the case cited, the projection was about the same as in the case at bar; and there was a special permission to erect it, which, because it was special, was void. In the present case there was no permission from the borough of Carlisle, and the borough has no power to permit or authorize a nuisance. By the general borough law, under which the borough of Carlisle is incorporated, it can \u201c prohibit and remove obstructions in the highways,\u201d but cannot legalize them.\n2. As Hanover street was laid out by the Penns, the owners of the soil, and as the lots, sixty hy two hundred and forty feet, were sold as lots fronting on an eighty foot street and as marked on and part of a certain general plan which is recited in all the deeds, the dedication by the vendors was complete and irrevocable. Every purchaser of a lot, therefore, bought the right to an open street eighty feet wide, with all the conveniences, pleasures, luxuries, if you choose, which that right implies, and took subject to the same right in every purchaser. And the findings show that the plaintiff is affected by these structures in a way and to an extent that no other except one person can be affected; and there is no way to enforce or protect his right except by an injunction.\nMr. A. D. B. Smead and Mr. William Trickett (with them Mr. John B. Landis), for the appellee:\nI. The Wolf structures are not public nuisances.\n1. (a) The legislature can legalize what would otherwise be \u00e1 public nuisance : Wartman v. Philadelphia, 33 Pa. 202, 210; Commonwealth v. Reed, 34 Pa. 275; Ensworth v. Commonwealth, 52 Pa. 320; Paul v. Carver, 24 Pa. 207, 211; Higbee v. Railroad Co., 19 N. J. Eq. 276; and this power was not taken away by the constitution of 1874: McGee\u2019s App., 114 Pa. 470, 477. (5) The legislature has directly authorized bay-windows in Carlisle: Incorporating act of April 13, 1782, 2 Carey & B. L. 333; \u00a7 33, act of April 13,1851, P. L. 327; act of February 18,1769,1 Carey & B. L. 488; Philadelphia\u2019s App., 78 Pa. 33, 36; Carlisle v. Baker, 1 Y. 471; Horner v. Craig, 2 W. N. 11; Garrett v. James, 65 Md. 260.\n2. (e) If the charter of Carlisle were repealed by subjection to the general borough act of 1851, the borough still has power to legalize structures of the general class now in question, within reasonable limits, by general ordinances: Act of April 3, 1851, \u00a7 2, i., ill., iv., XIII., P. L. 320, 321; Commonwealth v. Kepner, 1 Pears. 184; Clifford v. Dam, 81 N. Y. 52; Barter v. Commonwealth, 3 P. & W. 259; Fisher v. Harrisburg, 2 Gr. 291; Commonwealth v. Wentworth, 4 Clark 324; Denehey v. Harrisburg, 2 Pears. 330; Strawbridge v. Philadelphia, 2 Penny. 419, 428; Kneedler v. Norristown, 100 Pa. 368 ; Commonwealth v. Harris, 10 W. N. 11; Reimer\u2019s App., 100 Pa. 182; Philadelphia\u2019s App., 78 Pa. 33, 39; Smith v. Simmons, 103 Pa. 32; Paul v. Carver, 26 Pa. 223, 225; Commonwealth v. Hauck, 103 Pa. 536. (d) The borough of Car-lisle has authorized the structures by its ordinances.\nII. Do the structures, if a nuisance to the public, inflict special damage upon the plaintiff?\n1. The plaintiff does not clear!y allege any damage, except obstruction of view from windows of his dwelling. But, obstruction of view is not an infringement of any of plaintiff\u2019s rights: Wood on Nuisances, \u00a7\u00a7 8, 13; Bliss v. Ball (shade trees), 99 Mass. 597; Sargent v. George, 56 Vt. 627; Knickerbocker Ice Co. v. Shultz, 116 N. Y. 382; Garrett v. James, 65 Md. 260; Jenks v. Williams, 115 Mass. 217. And a private relator must show damage that is (a) special: High on Injunctions, \u00a7 522; Bispham\u2019s Eq., \u00a7 443; Mechling v. Bridge Co., 1 Gr. 416; Phila. etc. Ry. Co.\u2019s App., 102 Pa. 123, 130; Buck Mountain Coal Co. v. Navigation Co., 50 Pa. 91, 100; Sparhawk v. Railway Co., 54 Pa. 401; Black v. Railroad Co., 58 Pa. 249; Cox v. Railroad Co., 10 W. N. 552; s. c. 11 W. N. 571; Knickerbocker Ice Co. v. Shultz, 116 N. Y. 382; Higbee v. Railroad Co., 19 N. J. Eq. 276, 279; Jenks v. Williams, 115 Mass. 217. (5) It must be material, that is, real' and considerable: Walters v. DeSelfe, 4 De G. & Sm. 222; Sparhawk v. Railway Co., 54 Pa. 401, 427; High on Injunctions, \u00a7 552; Philadelphia\u2019s App., 78 Pa. 33; Zabriskie v. Railroad Co., 2 Beas. 314, 318; Hinchman v. Railroad Co., 17 N. J. Eq. 75, 78, 81 (86 Am. Dec. 253)."
+  },
+  "file_name": "0519-01",
+  "first_page_order": 539,
+  "last_page_order": 555
+}

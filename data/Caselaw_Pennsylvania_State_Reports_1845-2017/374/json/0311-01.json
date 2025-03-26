@@ -1,0 +1,87 @@
+{
+  "id": 1241484,
+  "name": "Commonwealth v. Hershman, Appellant",
+  "name_abbreviation": "Commonwealth v. Hershman",
+  "decision_date": "1953-06-26",
+  "docket_number": "Appeal, No. 32",
+  "first_page": "311",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "374 Pa. 311"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "90 A. 2d 314",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Pa. Superior Ct. 134",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        475768
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/171/0134-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 583,
+    "ocr_confidence": 0.469,
+    "pagerank": {
+      "raw": 1.1377074132718692e-07,
+      "percentile": 0.577720940487264
+    },
+    "sha256": "bd1bde10064f52edade3b49c00a4c36be59a9e12e8558503ca953ca6049fd1c2",
+    "simhash": "1:b6ba815342da2f18",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T22:26:13.154312+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Stern, C.:. J., Stearne, Jones, Beta, Chibsey and Musmanno, JJ."
+    ],
+    "parties": [
+      "Commonwealth v. Hershman, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam,\nThe court being equally divided, the judgment is affirmed on the opinion of the Superior Court, reported in 171 Pa. Superior Ct. 134, 90 A. 2d 314.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "James P. McArdle, with him Paul J. McArdle, for appellant.",
+      "Harry Estep, Assistant Deputy Attorney General, with him Charles D. Coll, Special Deputy Attorney General, and Robert E. Woodside, Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth v. Hershman, Appellant.\nArgued May 25, 1953.\nBefore Stern, C.:. J., Stearne, Jones, Beta, Chibsey and Musmanno, JJ.\nAppeal, No. 32,\nreargument refused July 13,1953.\nJune 26, 1953:\nJames P. McArdle, with him Paul J. McArdle, for appellant.\nHarry Estep, Assistant Deputy Attorney General, with him Charles D. Coll, Special Deputy Attorney General, and Robert E. Woodside, Attorney General, for appellee."
+  },
+  "file_name": "0311-01",
+  "first_page_order": 343,
+  "last_page_order": 344
+}

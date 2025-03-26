@@ -1,0 +1,80 @@
+{
+  "id": 12280875,
+  "name": "Silvagni v. Shorr",
+  "name_abbreviation": "Silvagni v. Shorr",
+  "decision_date": "2015-12-17",
+  "docket_number": "402 EAL (2015)",
+  "first_page": "729",
+  "last_page": "729",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "634 Pa. 729"
+    },
+    {
+      "type": "parallel",
+      "cite": "128 A.3d 1204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "113 A.3d 810",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6879259,
+        6788124,
+        6879302
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/113/0810-01",
+        "/pa/631/0458-01",
+        "/a3d/113/0810-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.818,
+    "sha256": "1065ab50cb92d446e8e0607c94e80cc1c31db628dd52073774867c97888e8c39",
+    "simhash": "1:3ad96468a3785055",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:13:45.165797+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Silvagni v. Shorr"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 113 A.3d 810",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Silvagni v. Shorr\n12/17/2015\n402 EAL (2015)"
+  },
+  "file_name": "0729-01",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

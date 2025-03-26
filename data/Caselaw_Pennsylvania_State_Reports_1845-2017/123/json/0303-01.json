@@ -1,0 +1,802 @@
+{
+  "id": 967115,
+  "name": "APPEAL OF FRED. ANDRIESSEN, ET AL. [Fred. Andriessen et al. v. John Aikens.]",
+  "name_abbreviation": "Andriessen v. Aikens",
+  "decision_date": "1889-01-07",
+  "docket_number": "No. 187",
+  "first_page": "303",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "123 Pa. 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "94 U. S. 806",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5646919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/94/0806-01"
+      ]
+    },
+    {
+      "cite": "1 How. 189",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3325279
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/42/0189-01"
+      ]
+    },
+    {
+      "cite": "10 Wheat. 146",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434801
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/23/0146-01"
+      ]
+    },
+    {
+      "cite": "29 Cal. 19",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2302962
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/29/0019-01"
+      ]
+    },
+    {
+      "cite": "11 Ohio St. 199",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "110 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        543774
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/110/0428-01"
+      ]
+    },
+    {
+      "cite": "4 Y. 109",
+      "category": "reporters:state",
+      "reporter": "Yeates",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1017259
+      ],
+      "pin_cites": [
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/62/0218-01"
+      ]
+    },
+    {
+      "cite": "12 Pa. 56",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        963725
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/12/0056-01"
+      ]
+    },
+    {
+      "cite": "104 Pa. 609",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        452169
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/104/0609-01"
+      ]
+    },
+    {
+      "cite": "98 Pa. 434",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "92 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        491063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/92/0157-01"
+      ]
+    },
+    {
+      "cite": "26 Mich. 353",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1309134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/26/0353-01"
+      ]
+    },
+    {
+      "cite": "91 U. S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5648982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/91/0045-01"
+      ]
+    },
+    {
+      "cite": "9 Pick. 212",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058504
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/26/0215-01"
+      ]
+    },
+    {
+      "cite": "44 Pa. 9",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        484287
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/44/0009-01"
+      ]
+    },
+    {
+      "cite": "14 Pa. 139",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        405912
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/14/0139-01"
+      ]
+    },
+    {
+      "cite": "106 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        455623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/106/0125-01"
+      ]
+    },
+    {
+      "cite": "85 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        440501
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/85/0490-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 554",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0312-01"
+      ]
+    },
+    {
+      "cite": "17 Wend. 407",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2020927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/17/0230-01"
+      ]
+    },
+    {
+      "cite": "20 Minn. 345",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8876523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/20/0345-01"
+      ]
+    },
+    {
+      "cite": "39 Cal. 532",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2266291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/39/0532-01"
+      ]
+    },
+    {
+      "cite": "116 Pa. 169",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        554359
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/116/0169-01"
+      ]
+    },
+    {
+      "cite": "10 Bush 519",
+      "category": "reporters:state",
+      "reporter": "Bush",
+      "case_ids": [
+        4389132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/73/0519-01"
+      ]
+    },
+    {
+      "cite": "43 Mo. 527",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        952559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/43/0527-01"
+      ]
+    },
+    {
+      "cite": "72 Pa. 409",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        434668
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/72/0409-01"
+      ]
+    },
+    {
+      "cite": "18 Pa. 20",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        969058
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/18/0020-01"
+      ]
+    },
+    {
+      "cite": "2 Allen 212",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2097164
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/84/0212-01"
+      ]
+    },
+    {
+      "cite": "46 Pa. 498",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        420656
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/46/0498-01"
+      ]
+    },
+    {
+      "cite": "31 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        985126
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/31/0161-01"
+      ]
+    },
+    {
+      "cite": "39 Me. 404",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8847151
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/39/0404-01"
+      ]
+    },
+    {
+      "cite": "58 Pa. 126",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1013170
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/58/0126-01"
+      ]
+    },
+    {
+      "cite": "100 Pa. 249",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        498383
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/100/0249-01"
+      ]
+    },
+    {
+      "cite": "10 Pa. 394",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        962784
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/10/0394-01"
+      ]
+    },
+    {
+      "cite": "23 Pa. 178",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        973999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/23/0178-01"
+      ]
+    },
+    {
+      "cite": "7 How. 819",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        6141922
+      ],
+      "pin_cites": [
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/48/0819-01"
+      ]
+    },
+    {
+      "cite": "97 Pa. 47",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        444814
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/97/0047-01"
+      ]
+    },
+    {
+      "cite": "1 W. & S. 112",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852653
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts-serg/1/0112-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 422",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050818
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/83/0422-01"
+      ]
+    },
+    {
+      "cite": "24 Pa. 52",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        9503091
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/24/0052-01"
+      ]
+    },
+    {
+      "cite": "61 Pa. 307",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/61/0307-01"
+      ]
+    },
+    {
+      "cite": "62 Pa. 447",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1017238
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/62/0447-01"
+      ]
+    },
+    {
+      "cite": "107 Pa. 486",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8858286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/107/0486-01"
+      ]
+    },
+    {
+      "cite": "81 Pa. 278",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1044137
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/81/0278-01"
+      ]
+    },
+    {
+      "cite": "60 Pa. 290",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1014412
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/60/0290-01"
+      ]
+    },
+    {
+      "cite": "12 N. J. Eq. 423",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        520224
+      ],
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj-eq/12/0423-01"
+      ]
+    },
+    {
+      "cite": "8 W. 12",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 U. S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11295201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/114/0555-01"
+      ]
+    },
+    {
+      "cite": "61 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/61/0347-01"
+      ]
+    },
+    {
+      "cite": "66 Pa. 192",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        432492
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/66/0192-01"
+      ]
+    },
+    {
+      "cite": "48 Pa. 524",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        422286
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/48/0524-01"
+      ]
+    },
+    {
+      "cite": "8 Pa. 189",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        959497
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/8/0189-01"
+      ]
+    },
+    {
+      "cite": "83 Pa. 305",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1050809
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/83/0305-01"
+      ]
+    },
+    {
+      "cite": "17 Pa. 459",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 W. Va. 584",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8641614
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/w-va/8/0584-01"
+      ]
+    },
+    {
+      "cite": "41 Pa. 319",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        480066
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/41/0319-01"
+      ]
+    },
+    {
+      "cite": "63 Pa. 347",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1019128
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/63/0347-01"
+      ]
+    },
+    {
+      "cite": "61 Pa. 427",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/61/0427-01"
+      ]
+    },
+    {
+      "cite": "3 Pa. 21",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        400622
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/3/0021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1888,
+    "char_count": 60696,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 1.1656229903552835e-07,
+      "percentile": 0.5851065062094354
+    },
+    "sha256": "c8fb9fe3813114c3fcfe249563e5545cbcb2d9338be2246363a27b7d9094384b",
+    "simhash": "1:fe71cd68820cf87a",
+    "word_count": 10582
+  },
+  "last_updated": "2024-02-27T17:53:49.671757+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Gordon, C. J., Paxson, Sterrett, Green, Clark, Williams and Hand, JJ."
+    ],
+    "parties": [
+      "APPEAL OF FRED. ANDRIESSEN, ET AL. [Fred. Andriessen et al. v. John Aikens.]"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion,\nMr. Justice Sterrett :\nAided by very able and exhaustive arguments of the learned counsel on both sides, we have considered the questions involved in this contention, and are satisfied that the findings of fact, as modified by the court below, are quite as favorable to appellants as the evidence will warrant; and, in view of those facts, we are of opinion there was no error in dismissing the bill. The case is so fully and clearly presented in the report of the master and opinion of the learned president of the Common Pleas, that we are relieved from the necessity of referring' either to the evidence or to the conclusions deducible therefrom.\nAssuming, as the court does, that under the facts found the appellees were at one time liable to appellants for the loss they respectively sustained, and that, within a reasonable time after they purchased the stock and discovered the fraud that was practiced on them, they had a right, in some form of action, to rescind the contract and recover the money paid by them, respectively, we think there was no error in holding that a bill in equity is the proper and better form of action, for the reasons that the remedy at law would be inadequate, and that a bill in equity prevents multiplicity of suits. As the result of the sales of stock to appellants, they and appellees became, as to third parties, partners in fact, and hence there were equities to be settled between each of them, individually, that could not be conveniently adjusted in an action or actions at law.\nThe remaining and controlling question is whether or not appellants did not sleep too long on their rights, and thereby lose their remedy against the appellees. We are constrained to concur with the master and court below in holding that they did. They are demanding the rescission of a contract executed eight years before their bill was filed. One of the first duties of a party who seeks that form of equitable relief is promptness. Assuming that appellants were ignorant of the fraud until the company became notoriously insolvent in January, 1875, they were certainly made aware of the fact then; but, instead of promptly repudiating the contract which they then knew was conceived in iniquity, they co-operated with the appellees as partners, and waited until nearly six years had elapsed. Beyond doubt that was unreasonable delay. Conceding the right to rescind and demand restitution of the consideration of the contract immediately upon discovery of the fraud, which was certainly not later than January, 1875, when the company became notoriously insolvent, the right was and ought to be lost in consequence of the inexcusable delay in asserting it.\nFor reasons more fully given in the opinion of the court below we think there is no error in the decree.\nDecree affirmed, and appeal dismissed at the costs of appellants.",
+        "type": "majority",
+        "author": "Mr. Justice Sterrett :"
+      }
+    ],
+    "attorneys": [
+      "Mr. deorge Sidras, Jr., and Mr. John B. Herron, for the appellants :",
+      "Mr. A. M. Brown and Mr. B. T. Watson (with them Mr. B. W. Bell), for the appellees :",
+      "Mr. SMras and Mr. Herron, in reply:"
+    ],
+    "corrections": "",
+    "head_matter": "APPEAL OF FRED. ANDRIESSEN, ET AL. [Fred. Andriessen et al. v. John Aikens.]\nEROM THE DECREE OE THE COURT OE COMMON PLEAS NO. 2 OE ALLEGHENY COUNTY, IN EQUITY.\nArgued October 29, 1888\nDecided January 7, 1889.\n(\u0430) In 1871, the directors of an unincorporated banking association recommended to a shareholders\u2019 meeting a resolution to increase its capital 'stock, some of the new shares to be allotted to the existing shareholders and the others to be sold to new subscribers for cash, which resolution was adopted.\n(\u0431] The directors then advertised the resolution and published official statements which falsely presented a prosperous condition of the bank while in fact it was utterly insolvent, the shareholders, however, having no knowledge of the falsity of the published statements.\n(a) Upon the faith of these statements a large number of new subscribers were led to purchase of the new issue of shares, and thereafter the bank continued under the same control and direction until in 1875, when it suspended and its real condition then first became known to the new shareholders.\n(d) Then the shareholders, old and new, united in the assessment and payment of the amounts required to meet the liabilities of the bank, and in 1880, all the indebtedness thenbeing discharged, the new shareholders filed a bill against the old, praying for an account, and for a decree that the moneys paid by them for their shai'es and advanced to discharge said indebtedness should be repaid by the defendants, on the ground of the fraud in said official statements:\n1. In such case, as the result of the sales of shares to the plaintiffs, they and the defendants became as to third persons partners in fact, and there were equities thence arising between each of them, individually, which could not conveniently be adjusted in an action or actions at law, and a proceeding by bill in equity was a proper remedy.\n2. Assuming, however, that the plaintiffs were ignorant of the fraudulent .character of the official statements until 1875, as claimed, yet having failed to repudiate the contract promptly after their discovery of the fraud, and having co-operated with the defendants and waited until nearly six years had elapsed, their right to relief was then lost to them by their laches.\nBefore Gordon, C. J., Paxson, Sterrett, Green, Clark, Williams and Hand, JJ.\nNo. 187 October Term 1888, Sup. Ofc.; couF below, No. 339 January Term 1881, O. P. No. 2 in Equity-.\nOn December 30,1880, Fred. Andriessen and about fifty-two others filed a bill in equity against John Aikens, and about one hundred and eighty others, divided as defendants in the bill into two classes: (1) those who were the shareholders of a copartnership, the Allegheny Trust Company, at the time the plaintiffs purchased interests therein, and (2), those who purchased like interests therein at the same time or subsequently; the purpose of the bill being, generally, to have the copartnership, which had become insolvent, declared void ab initio so far as the plaintiffs were concerned, and to compel the defendants of the first class to repay to the plaintiffs respectively their contributions to the capital, the moneys they had on deposit at the time of its failure, and the moneys they had been required to contribute, after the failure, to pay its debts ; the ground of relief being fraudulent acts and representations on the part of the defendants of the first class, by reason of which the plaintiffs had been induced to become shareholders.\nDemurrers on the part of certain of the defendants having been overruled, pleas and answers were then filed, and the cause having been put at issue, on September 17, 1881, it was referred to Mr. S. A. McGlung, as examiner and master, whose report, filed on June 12, 1888, was as follows:\nThe Allegheny Trust Company was a banking partnership organized about 1859, for the purpose of doing a general banking business in the city- of Allegheny. Its organization was after the manner of a corporation, i. e., the interests of the several partners were spoken of as stock, and each year a board of directors was elected by the partners, or stockholders, as they were called, and this board managed the affairs of the bank. The bank continued to do business until early in January, 1875, when R failed and was found to be largely insolvent. The bill in this case was filed in December, 1880, by about fifty of the purchasers of the new stock against all the old stockholders (as those who owned stock prior .to the issue of 1871 were called), and also including as defendants, in a class by themselves, such new stockholders as declined to join as plaintiffs. The first class of defendants numbered about one hundred, and the second class about eighty.1\nTire bill sets forth: (1 and 2) That the trust company organized in 1861 with a capital stock of $60,000, divided into 800 shares of $200 each; (8) that on or about November 28, 1871, the then stockholders, the defendants of the first class, increased the capital stock of the bank to $250,000, divided into 2500 shares of $100 each, of which said shares four shares were credited to each and every of the defendants of the first class in lieu of each and every share then held by them respectively, and the balance of the shares, 1300, were put upon the market and offered for sale ; (4) that prior to said increase, large dividends had been paid, and about the time of the increase the first named defendants alleged to plaintiffs and others that the partnership was solvent, had accumulated a large surplus, every share was worth in fact $400, and that said bank was doing a large and profitable business, and the increase was necessary to accommodate its business; (5) that plaintiffs, relying upon said allegations and representations, did, about November 23, 1871, subscribe and pay for interests or shares in said copartnership, which interests are specified in said paragraph ; (6) that, in fact, at the time of the increase the copartnership was insolvent, the increase was unnecessary, there was no surplus, and said increase \u201c was a scheme devised by said defendants (the old stockholders), or their agents, for the sole purpose of replenishing the depleted coffers of the said copartnership; all of which said defendants knew or ought to have known; \u201d (7) that the copartnership did business until January 7, 1875, when it suspended payment; (8) that the plaintiffs, in addition to. the amounts paid for their stock, have been compelled to pay large sums on account of the debts of the bank: (9) that up to the time of the suspension, the plaintiffs confided in and relied upon the representations of the defendants, and had no reason to suspect and did not, until the suspension, suspect that the affairs of the bank were in other than a prosperous condition.\nThe prayers of the bill are : (1) That the copartnership be-declared void, ab initio, so far as plaintiffs are concerned; (2) that an account be taken of all moneys contributed by plaintiffs; also between plaintiffs and defendants; (3) that the defendants of the first class be decreed to repay to plaintiffs, respectively, all moneys contributed and paid by plaintiffs; (4) that said defendants be decreed to indemnify plaintiffs; (5) that defendants pay the costs ; and (6) for general relief.\nTo this bill the defendants demurred, alleging multifariousness ; misjoinder of parties; the failure to allege that the fraudulent misrepresentations were known to be untrue; the statute of limitations; laches of the plaintiffs in filing their bill; and that each of the plaintiffs has a full and complete remedy at law. This demurrer was, after argument, overruled, and the defendants then filed a plea and answer.\nThe plea averred that the declarations alleged, if any were made, were made at different times and to the plaintiffs severally; that the subscriptions and payments of money were separate and individual acts; that defendants did not join in. making any of the representations specified in the bill; that, the copartnership was dissolved on or about January 7, 1875 ; that no business has been carried on since that date ; and that, there is no part of the capital stock, or any property whatsoever in said partnership remaining, etc.\nThe answer admits the formation of the company as alleged, and also that the capital stock was originally $60,000, dividecL into 300 shares of $200 each. It alleges that the re-organizartion was had, practically, as alleged, in November, 1871, but. avers that the transaction was in good faith; that there was, at that time, an existing surplus over the capital stock; that, the allotment of shares of stock to the old stockholders was. but a fair equivalent for what they then held; and that it was honestly believed by all connected with the bank that its business and surroundings justified and required the increase of stock. It denies the averments of the fourth paragraph. It avers that the subscriptions specified in the fifth paragraph of the bill were several, distinct and individual acts. It denies the truth of the averments of the sixth paragraph, to the effect. that, at the time of the reorganization, the copartnership was insolvent and the increase of stock fraudulent. It admits the suspension on January 7, 1875 ; and, whilst denying the averments of paragraphs eight and nine, alleges that some of the plaintiffs and some of the defendants voluntarily contributed moneys towards the payment of the liabilities of the firm. The answer concludes by setting up the statute of limitations, and averring that, even if the plaintiffs at one time had a ease, they have, by gross negligence and laches, lost all right to appeal to equity for relief.\nThe bill contains a prayer for an account and a prayer for general relief; but the master does not understand that the plaintiffs ask for an account, save of the moneys which would be payable in case the contracts by which they became co-partners are declared void ab initio, as between them and the other partners. ' Certainly it was in this line alone that the ease was developed before the master.\n********\nFrom the admissions in the answers, and the testimony, the master finds the facts to be as follows :\nAbout the year 1859, the Allegheny Trust Company was organized as a banking copartnership in the manner stated in the introduction to this report. From that time until the year 1871, it did a large and apparently profitable business \u2014 from 1865 until and including January, 1872, declaring each January and July a dividend of eight per cent. In the year 1871, the stock of the bank was considered worth from $400 to $425 per share, and stock was sold at the latter figure. In November, 1871, the directors of the bank called a meeting of the stockholders and proposed an increase of the capital stock of the bank, and (as plaintiffs call it), a watering of the old stock, substantially as stated in the third paragraph of the bill; and this was accordingly authorized.\nThe books of the bank and the statements made under the supervision of the directors and officers showed a surplus fund of upwards of $30,000 ; but, unquestionably, that which immediately determined the amount which should be credited to the old stockholders was the selling price of the stock at that time.\nThe books of the bank had been very carelessly kept, and whilst, in November, 1871, they showed \u00e1 surplus of over $80,000, they should have shown that the capital stock was then impaired to at least the amount of $20,000, and this amount of impairment was actually greater, by a considerable amount, by reason of bills receivable, etc., manifestly worthless, which were still carried as collectible. This impairment, however, was not so great as to make the stock worthless.\nThe stockholders believed that the books and statements \u2022showed the true condition of the bank, and the same is true as to the directors and officers of the bank, save that Mr. W. A. Reed, the cashier and a stockholder, must have known that there were a number of assets carried on the books as good, which should have been charged off as worthless.\nWhen the new stock was issued, the issue was advertised in the newspapers, and parties who wished to purchase it came to the bank and got it, paying Reed, the cashier, their names and amounts being entered in the books by him. Parties not'then stockholders, who were or would become depositors, were preferred as purchasers ; but no one was authorized or directed to press the sale of the stock.\nThe new stock was sold to the amount of 1159 shares (the purchasers paying par therefor), the larger portion of it to parties who did not previously own any stock; a large number of shares (about 200), however, to old stockholders. The plaintiffs purchased 180 shares. Practically all of tins stock was sold within a few months after November 28, 1871.\nIn some cases parties were spoken to by an officer of the bank; e. g., Joseph Myers, president, told Mr. McFarland that there was a large surplus and large dividends were paid, and thus induced him to purchase. In other cases parties purchased upon the reputation of the bank, having heard that new stock was issued. And in still other cases the attention of one of the plaintiffs was called to the matter by another of the plaintiffs, and the purchase was made because of the recommendation of this latter.\nAfter January, 1872, dividends were paid as follows: July, 1872, 3 per cent; January, 1873, 3 per cent; July, 1873, 4 per cent; January, 1874, 3 per cent; and July, 1874, 4 per cent; plaintiffs as well as defendants receiving these dividends and during this time voting for directors at the annual meetings.\nWhilst many of the new stockholders complained that the dividends were unexpectedly small, no serious dissatisfaction arose until after the bank suspended, January 7, 1875.\nAfter the suspension of the bank, an expert was put upon the books, and the fact was revealed that in 1871 the bank was not in nearly so good condition as the statements submitted to the stockholders showed, and that the copartnership was at the time of the suspension very largely insolvent; and both plaintiffs and defendants were compelled to pay large sums to liquidate the indebtedness.\nIt is claimed by plaintiffs that the bank was largely insolvent in 1871; i. e., that its assets would fall far short of paying its debts, leaving out of view what was called the capital stock. It is doubtless true that, were we to go back over the books and charge off as worthless everything which turned out to be actually so, and reduce values in the light of subsequent events, we would come to this conclusion; but when we take into account the panic of 1873 and the financial upheavals and subsidences of the time intervening between November, 1871, and January, 1875, we must conclude that it is unfair to throw back the light of 1875 upon 1871 and thus decide what should and what should not then have remained upon the books as good. In the opinion of the master, the finding as to this matter already stated is a fair and just one.\nThe plaintiffs testify, and in this are uncontradicted, that it was not until the suspension of the bank in January, 1875, that they doubted its solvency. There is no evidence that, during the time they were stockholders up until the suspension, they made any investigation or even special inquiry as to its affairs.\nIt appears that plaintiffs soon after the suspension of the bank resolved to bring this bill or institute like proceedings against the defendants, but delayed because they feared that, if a bill was filed, the old stockholders would quit paying assessments made to meet the bank\u2019s liabilities, and all would be ruined. They, in other words, delayed filing their bill that they might not discourage defendants and lose their assistance in paying the debts of the concern.\n* * & & $ $ % *\nThe following questions present themselves for consideration, viz.:\n1. Under the facts as presented, were the sales and purchases of stock by which the plaintiffs became members of said company made under such circumstances as that the transactions will be held to be void and the defendants compelled to repay to the plaintiffs the money paid for stock and to pay debts ? And if so, have the plaintiffs a remedy in equity and by a joint bill such as that filed in this case ?\n2. If such right existed, is the remedy barred by the statute of limitations ?\n3. If it existed and is not barred, has it been lost by laches ?\nIn considering the first question presented, it would seem to the master necessary to exclude from our consideration all representations made to particular individuals. If the bill escapes dismissal for misjoinder of parties or multifariousness, must not the case be based upon the facts which are common to all ? If the case of McFarland depends upon the fact that Joseph Myers told him that the bank was paying sixteen per cent and had a surplus of $40,000, and thus induced him to purchase, certainly, even admitting that Myers could thus make his copartners responsible for his representations, McFarland could not join with him as a plaintiff Mr. Sampson, who bought because his partner, Mr. Fairman, whose estate is also a plaintiff, had bought some and told him (Sampson) what dividends had been paid; nor could he join with him Mr. Graham, another of the plaintiffs, who bought simply on the reputation of the bank. These particular inducements being excluded, we have the case within a very small compass. There is apparently little else than that the existing partners, thinking, though mistakenly, that the stock which they had was worth $120,000, fixed that as its value, and offered to take in as partners persons who were willing to contribute $130,000 more and make the entire capital stock $250,000, and the acceptance of the offer. It is true that the plaintiffs rely upon the fact that large dividends had been paid and that the declaration of the July dividend was advertised; but these they cannot well maintain are evidences of fraud, whilst admitting that the stockholders and directors honestly believed the bank to be in a flourishing condition and the stock well worth the estimate put upon it in November, 1871. If we relieve the old stockholders from the charge of intentionally dealing in worthless stock in November, 1871, and admit that at that time they thought it was worth what it was estimated at, we cannot well infer from the declaring of dividends and advertising them previously, that their intention was to impose worthless stock upon others. If the stock was in good faith considered worth $120,000 in November, 1871, then the declaring or the manner of declaring the dividend in July, 1871, cannot be held to afford a particle of evidence of bad faith at that time with respect to this same matter.\nThe plaintiffs\u2019 case, as presented to the master, is included in the following propositions:\n1. The defendants\u2019 situation with reference to the purchasers of new stock was such that the sale of the stock included a warranty that the bank was solvent and the old stock in fact worth what it was estimated at, viz.: $400 per share.\n2. The declaring of dividends at the rate of sixteen per cent per annum, the advertisement of the dividend of July, 1871, the notice containing the statement that it was payable out of the earnings of the last six months, the crediting of each old stockholder with four new shares for each old one held by him, and the putting of the new stock on the market for sale, amounted to representations to the parties purchasing that the assets of the bank were, in November, 1871, worth $120,000 ; and the defendants are estopped from saying that they did not know that these statements were not true, and hence are held to 'the same responsibility as if they had made them, knowing that they were false.\n3. Third parties or some of the defendants induced the plaintiffs to purchase stock by making representations which were false, or as to matters of which they knew nothing, and thus were guilty of deceit and fraud; and this fraud is imputed to the defendants as a body.\n4. The contract was made in ignorance of a material fact and is voidable, and equity will relieve the injured parties: Miles v. Stevens, 3 Pa. 21.\n1. When a relationship of trust and confidence between vendor and vendee is established, the seller is bound to exhibit the truth of the case as it .existed, whether he knew it or not: Babcock v. Case, 61 Pa. 427. When the parties treat on the basis of trust and confidence, either as to occult qualities or for any other reason, the rule is to hold the party making the representations bound by them, but that relation is never presumed in ordinary transactions, when each may inform himself. In such a case the relation apd deception must both be proved, to set aside the agreement: Clark v. Everhart, 63 Pa. 347. The effort here is to bring this case within the apparent (or real) exception to the rule, that either warranty or deceit must be shown, to make a' vendor responsible to a vendee.\nIt seems to the master that, leaving all else out of view, it is more than doubtful as to the making of any representations which would render the sellers liable; and he is, besides, wholly unable to see that the defendants placed themselves in any such position with respect to the plaintiffs, as to impose upon them extraordinary liabilities. It must be remembered that the defendants did not actually submit to the plaintiffs any statement as to the specific condition of the bank, and that this was not strictly a sale to the plaintiffs of an interest which the defendants owned. It was a reorganization of the bank, and the new capital was to constitute more than half of the assets of the bank; and it is only by inference, if at all, that, we arrive at the conclusion that the old stockholders placed a valuation upon the assets of the bank. Beyond doubt they did not pretend or assume that a division of the assets at the time would give $400 to each share. They counted largely on the established business of the bank, and probably, if the question had been asked as to why they fixed $400 as the value of each share, the answer would have been, that the stock readily sold for that in the market; and this answer would have been strictly true. This relation of trust and confidence which heightens the responsibility of the vendor does not arise in a case where the vendor has simply previously had better opportunities than the vendee of becoming acquainted with the subject-matter of the sale. If it did, we could apply the doctrine to almost every case of sale. The subject-matter of the sale must be of such a character or so situated as to preclude the presumption that the vendee has availed himself of the ordinary sources of information: Rockafellow v. Baker, 41 Pa. 319. The defendants were bbund to deal honestly with the plaintiffs, but they were not bound to do for them what they would not have been bound to do for any party to whom they sold a share of stock, i. e., see that it should turn out to be actually worth what it was sold for.\n2. In answering the first of plaintiff\u2019s propositions, we have largely anticipated the answer to the second. This second proposition is to a great extent based upon the case of Eawlins v. Wickham, 3 DeGfex & J. 304. At first blush that case would seem very similar to the present one; but a closer examination shows wide differences. In the case of Eawlins and Wickham the partners exhibited to the proposed purchaser a balance sheet containing erroneous statements specific in their nature and of the very essence of the contract. If Wickham had simply said to Eawlins that he believed the interest which they proposed to sell was worth the amount asked and exhibited no statement, would he not have done substantially what justice Bruce says he should have done, if he wanted to avoid responsibility for the absolute truth of specific statements contained in the books. Or if he had simply told him that he (Wickham) had paid a like amount for a like interest, certainly it would have affected the liability to which he was held. As we have before suggested, it being admitted that the defendants, in good faith, thought the stock worth $400 per share in November, 1871, it is simply impossible to regard their declaring and advertising of previous dividends as part of a scheme to get more than its value for their property. Besides, it must at all times be kept in view that these defendants did not sell their stock to the plaintiffs and did not propose to sell it to them, but simply offered them a chance to contribute money and form a new copartnership with a more than doubled capital, taking the old concern as the basis and throwing in the asset of unknown value, its established business or good will. In Eawlins v. Wickham, whatever may have been the actual facts of the case, the opinions are based largely on the idea that there was an actual sale by Wickham to Eawlins, not simply the formation of a new company to which both contributed.\n3. The plaintiffs\u2019 third proposition is that they were induced by false representations of parties acting for the defendants to become partners, and that the defendants must be held responsible for this. If the agent of a vendor secures a purchaser by false and fraudulent representations, the principal cannot hold the vendee to the contract and shield himself, because personally innocent, from responsibility for his agent\u2019s acts; but does this make a vendor liable for the misrepresentations or mistakes of any one who volunteers to recommend his wares ?\nWe have no evidence here that the defendants as a body constituted any of these parties, who made representations, their agents to sell the stock; and even if, in some cases, representations were made which would make the contract voidable, the defendants cannot be held liable for them to the plaintiffs. \u201c When one of a number of persons who, each with the other, agree to contribute money and form a partnership for a specified purpose, represents to another the existence of facts on which the latter relies, but which do not exist, the other parties are not bound by such representations, and the contract is not thereby invalidated as betwe\u00e9n the party deceived and the others: \u201d Kimmins v. Wilson, 8 W. Va. 584.\nBut, in addition to this, the master has already suggested a sufficient answer to this proposition, to wit, that in many cases no representations such as are contemplated here were made, and from the fact that A has a case, it does not follow that A, B and C have a case jointly. It seems to the master that, if the plaintiffs have this alone to rely upon, they each have a separate action at law against the particular person or persons deceiving them, or at least that each man\u2019s ease against the defendants depends upon its own facts and should be made up as a separate issue. Possibly we should go further and hold that in any case each stockholder must take proceedings independently of the others: Turquand v. Marshall, L. R. 6 Eq. 112; Same v. Same, L. R. 4 Ch. App. 376.\n4. The doctrine as to the effect upon a contract of mutual mistake or ignorance as to a material fact, was perhaps stated too broadly in Miles v. Stevens, 3 Pa. 21; see opinion of Black, C. J., in Pennock v. Tilford, 17 Pa. 459. But even under the doctrine of that case, \u201cit is not every mistake which will enable the party to avoid the contract; to have this effect, it must be of its essence the sine qua non of the contract, or, as it is expressed, the efficient cause of concoction.\u201d See opinion of Rogers, J., in Miles v. Stevens.\nIt may perhaps be doubted whether there was such clear mistake as to justify rescission here; as it is not clear but that \u201c the efficient cause of concoction \u201d was the fact that the stock sold in the market for $400 per share. If, however, mistake is the foundation of the plaintiffs\u2019 case, it is best answered by considering the effect of the statute of limitations and the plaintiffs\u2019 laches. The statute of limitations is a bar to the plaintiffs\u2019 case, excepting in a single contingency, to wit, the fraud of the defendants ; and this fraud must, in the opinion of the master, be actual fraud. Not actual' fraud in a narrow or restricted sense, but something more than mere constructive fraud, which involves no moral guilt whatever on the part of any one. It may be false representations as to material facts by the defendants, or by parties who were their agents or the benefit of whose representations they received; or it may be representations made as to facts as to the truth of which the defendants have not knowledge, the statements being made in such a way as to involve an assertion of knowledge on their part. In any of these cases the defendants would be chargeable with fraud, which might prevent the running of the statute of limitations in their favor, until the discovery of the fraud; but any other case made out by them would be barred.\nThe case of Morgan v. Tener, 83 Pa. 305, is cited to sustain the position that, because of the relative position of the parties, the statute does not begin to run until 1875. This, however, is on the assumption that the defendants were under some special obligation to protect the interests of the plaintiffs in this transaction. Morgan v. Tener is the case of an attorney (collection agency), liable for money collected by its agent misleading the party to whom responsible by reporting (in good faith, it is admitted) from time to time that the claim was uncollectible. It was held that the statute was prevented from running by these misleading reports. The doctrine upon which this ruling is based is well settled in Pennsylvania, and is, it might be said, peculiar to the case of a party employed to collect money or placed in a like situation. It does not depend upon fraud, and the misleading report is not stamped as fraud. It depends upon the peculiar relations of the parties. A glance at the method of its evolution at once explains its nature. It was first held that the onus was on the attorney to show that he had notified his client of the collection, and that the statute would run only from the time when he showed that such notice had been given: McDowell v. Potter, 8 Pa. 189. But this doctrine was modified in Campbell v. Boggs, 48 Pa. 524, and from that time the law has been well settled that the statute begins to run as soon as a reasonable time for the making of the collection has elapsed, provided nothing has been done to mislead the principal.or put him off his guard: See Shines v. Evans, 66 Pa. 192, and Morgan v. Tener, supra-It is true that in Campbell v. Boggs, \u201cfraudulent concealment\u201d is that which is spoken of as sufficient to prevent the running-of the statute, but an examination of all the cases, including Morgan v. Tener, shows that, owing to the peculiar relations existing between the parties, less than that will suffice. The present is not a case in which those relations exist.\nBut assume that the plaintiffs had a case against the defendants in 1875 and that the statute of limitations began to run against them only in January of that year. Are they entitled \u25a0to the relief sought by this bill, filed in December, 1880? They seek the rescission of an executed contract. One-of the first duties of a party asking this is promptness. A person entitled to rescind a contract for fraud loses his right, if he does not repudiate the contract within a reasonable time after the discovery of the fraud: 2 Lindley on Partnership, 925.\n' We need not cite authorities or adduce arguments for the purpose of showing that an unexplained delay of almost six years would be fatal to the plaintiffs\u2019 case. They, themselves, do not seem to question this. They recognize the necessity of presenting an excuse, and clain^ that one is forthcoming. Is it a sufficient one ? It is that the filing of \u00e1 bill for rescission, indemnity, etc., as soon as, they found that they had been imposed upon, might, in the expressive phrase of the \u201cexchange,\u201d have caused the defendants to \u201clie dow;n,\u201d and thus have brought the whole burden of the debts of the concern upon them, the plaintiffs. They say that they were advised that this result would probably ensue, and that delay was best. It is not necessary that we should condemn the advice. We cannot do so. It was the very best that could be given. But, what we want now is, something which will afford the plaintiffs a positive excuse for delay. Doubtless it would have been utter folly for the plaintiffs to have risked bringing ruin upon all by filing this bill in 1875. They wisely delayed, because of the influence it was supposed it would have on the conduct of the defendants. But promptness is required, so that the other party may not shape his course oil the supposition that the contract is to stand.\nAs a positive excuse to overcome the effect of the delay, that which is offered by the plaintiffs is wholly inoperative. They are not to be blamed because they endeavored to have the defendants\u2019 aid in bearing the burden of the debts, nor because they refrained from doing that which might cause the loss of that aid. It was, considered either morally or legally, as little as the defendants could do, to bear their full share of the debt. But this is not now the question before us. The plaintiffs were put to their election. Doubtless they elected wis\u00e9ly; but they did elect.\nThe bill should be dismissed at the plaintiffs\u2019 cost.\nOn notice to counsel, of the foregoing report, thirty-three exceptions were filed thereto before the master, who in his supplementary report disposing of them modified his finding to the effect \u201c that the impairment of the stock was not so great as to make it worthless,\u201d and found instead thereof, \u201cThat whilst the books of the bank in November, 1871, showed a surplus of over $30,000, they should have shown that the capital stock was worthless and the bank largely insolvent. The first and other exceptions relating to this matter are to this extent sustained. All the other exceptions are overruled.\u201d\nAmong the exceptions thus passed upon by the master, filed with his report and renewed in court, were the following:\n30. The master erred in reporting that the \u201c excuse \u201d offered by the complainants for not bringing their suit sooner, \u201c is wholly inoperative.\u201d1 \u25a0\n31. The master erred in reporting that the complainants \u201cwere put to their election\u201d to bring their suit sooner or be held to have abandoned it.8\nSaid exceptions having been argued, the court, Ewing, P. J., on September 1, 1888, filed the following opinion and decree:\nWere this cause to be finally decided by this court, we might enter a decree dismissing the plaintiffs bill without further or other consideration than the master\u2019s report. Numerous exceptions have been filed to the report of the master, both as to his findings of fact and his conclusions of law, and these exceptions have been very earnestly and ably argued before the court, and it is due to the parties and to the Supreme Court that we pass upon them. I have read carefully the entire testimony now printed in convenient form. The taking of testimony before the master ran from January 81, 1882, to July 7, 1885, and the master\u2019s report was not filed until June 12, 1888. With this mass of testimony in manuscript, it would be difficult for the master to have reviewed it or remembered it in detail.\nWhile, in answer to the exceptions filed by the complainants, the master has modified his findings as to the solvency of the Allegheny Trust Company in 1871, at and before the purchase of stock by the plaintiffs, it seems to us that this modified finding very inadequately states the facts as established by the testimony.\nThe testimony shows that the defendants had formed and were carrying on a partnership in the banking business under the name of the Allegheny Trust Company. They had for convenience divided their capital into shares of two hundred dollars each, and there were three hundred shares, making a \u25a0nominal capital of $60,000, which had been paid partly in money and partly by profits or alleged profits in the business. They had formal articles of partnership which they had signed, and for convenience in their business the title to the assets was put in the president of the company in trust, and the entire management of the business was by these partnership articles placed exclusively in a board of directors elected annually by the partners. This board of directors was given full power to appoint a cashier to take charge of the business as such, and also to appoint other \u201c clerks, agents and assistants.\u201d\nAs stated by the .piaster, the association from 1865 up to and including January, 1872 (for the preceding six months^, declared and paid in money semi-annual dividends of eight per cent on its nominal capital of $60,000. Tbe declaration of tbe dividend of July, 1871, by order of tbe board of directors, was published in one or more public newspapers of the city of Pittsburgh.\nFor several months the board of directors had been discussing a project for increasing their capital stock, with the ostensible object of holding their old depositors and securing new depositors. At a meeting of the board held November 13 1871, it was resolved to recommend to tbe stockholders to increase the capital stock to the nominal amount of $250,000 by giving to the present partners four shares of $100 each in lieu of one share of $200; in other words, to call the present capital of $60,000, $120,000, and then to sell thirteen hundred shares or interests of one hundred dollars each to depositors and others at par for money paid into the bank. A meeting duly called of the stockholders unanimously ratified a: adopted this recommendation on November 23,1871, and December 1, 1871, the board resolved to give notice that applications for the stock of the new issue would be received, and that the directors would make the allotment; and official notice was published in the public newspapers. The old partners were credited with the four $100 shares for each share of $200 they had previously held, and stock of the new issue was sold to the plaintiffs and others from December, 1871, up to the latter part of 1872. Tt appears that in all 1159 shares of the new stock were disposed of.\nThe dividend of January, 1872, was declared on the old stock of $60,000 alone, and by the old board. There was no reorganization of the bank in the proper sense of that term. The old directors continued until the regular annual election, and the former articles of partnership continued ill force.\nThe stock was for the most part sold through William A. Heed, cashier, and the other officers of the bank.\nThe report of the auditors (directors) of January 17, 18 showed: Capital stock, $60,000; contingent fund or surp> $29,878.44; deposits, $147,380.63. The like report of J. ary 12,1872, showed: Capital stock, $73,350; contingent fun $32,661.80; deposits, $150,536.64. There was no report produced in evidence for July, 1871, when an eight per cent dividend was declared. These reports of profits, from which dividends were declared and the contingent fund was increased, indicated a prosperous and profitable business, and although the annual reports and semi-annual statements in evidence would show that the deposits fluctuated dangerously and that they had considerably decreased, still, were the condition of the bank in fact as stated in the reports, it cannot be found that putting a valuation of double the nominal capital was a, fraud on the parties to whom stock was sold. The established business might have been fairly supposed to be worth $30,000.\nBut, as a matter of fact, as shown by the testimony and books, instead of there having been a surplus fund of $80,000, as alleged, in 1871, the entire capital had been lost, and, taking the entire nominal assets of the bank at their face value \u2014 suspended paper, overdrafts and all (a large portion was in fact worthless and palpably so), not only had. the original capital tock of $60,000 been lost, but it would have required the then stockholders to contribute at least $150,000 in money to pay the liabilities. Making a reasonable allowance for the worthless paper carried as available assets and the worthless overdrafts never collected, it would be safe to assert that the bank, at the time the new stock was issued, was actually insolvent to the amount of $250,000 over and above the loss of its capital stock. Each original stockholder, instead of having his shares of stock worth $400, was liable to contribute $800 on each share to pay the indebtedness of the partnership.\nThe bank had been paying to its owners $9,600 a year out of the money of its depositors, for how long does not appear, but probably for a considerable time ; and yet the bank had a good reputation and the stock was readily salable at $400 per share.\nThe mass of the stockholders believed that the condition of the bank was as represented; that the dividends they were reeiving had been earned, and that their stock was worth all rey held it at. I see no sufficient reason to doubt the truth the answer of David Macferron as to his knowledge and elief and intentional good faith; and no doubt the mass of the defendants believed as he did and were not intentionally and personally guilty of perpetrating any fraud on the plaintiffs.\nWilliam A. Reed, the cashier and afterwards president and cashier, seems to have been the controlling power in the bank. He was also one of the partners, and the management was evidently given to him. The stockholders and directors had absolute confidence in him, at least so long as he was able to declare and pay large dividends. The different statements he presented ought to have excited some suspicion and have caused a thorough investigation; but they did not. He and the other officers undoubtedly knew that the statements submitted were false, and he undoubtedly knew, when the new stock was offered for sale, that the bank was in fact insolvent.\nThe business of the bank was continued under the potential management of William A. Reed, and under the nominal management of a board of directors, until January 7, 1875, when it suspended, and was found to be badly insolvent, apparently to the great surprise of the stockholders, both old and new.\nThe plaintiffs have been required to pay a large amount to liquidate the debts. Some have paid fifty per cent on their stock, some one hundred per cent, and some as high as two hundred and fifty per cent, the full amount called for by the liquidating trustees ; while some have paid nothing but their original payment of $100 per share for the stock.\nUnder these circumstances were the defendants at any time and in any form of action liable to the plaintiffs for their loss ?\nIf this were a sale by an individual partner of his particular interest in the firm, made in good faith, without any false representations, the vendor would not be liable, though the interest turned out to be in fact worthless. But in this case the defendants constituted a partnership; they acted through a board, and they, by authority, through an executive officer. No individual partner sold his interest in the firm. The partnership as a firm authorized its board to sell an interest in the firm for the benefit of the firm, and the new capital was to go into the firm. At least a part of these agents and the principal acting and authorized agent knew that it was a fraud. It is as though A, B and G were partners in trade, B and C having given over the management to A, who, without the knowledge of B and C, has mismanaged the business and misappropriated the funds until the firm is insol vent; and thereupon, at the instance of A, his copartners make him the agent of the firm to procure D and E to enter the firm, contribute to its capital and become liable for its debts, on the assertion that the firm was solvent. Would not B and C be liable in such a case ? A is the agent for the firm, and the knowledge of the agent is the knowledge of the principal. In this view of the case we differ from the learned master, who has treated the question as one of actual personal good faith on the part of each of the defendants, and as though each defendant had sold his interest in the firm.\nThe advertising of the large dividend as made from the earnings of the six months prior to July, 1871, and January, 1872; the fact declared and known to the purchasers of the new stock that the old stock had been doubled on the ground that there was a surplus fund that justified it, with numerous other circumstances, as well as the mere fact of offering the stock for sale, was an assertion of the solvency of the bank on which the purchasers of the new stock had a right to rely. A part of the management undoubtedly knew that the bank was insolvent. The board of directors should have known and would have known it, by the exercise of proper care.\nThe parties did not stand on an equality in reference to-either actual knowledge or the means of knowledge. The defendants had the means of knowing that their firm was insolvent ; their authorized agents and officers did know it. They asserted by their acts and words, not only that the bank was solvent, but that it had such a surplus as to entitle the existing partners to stock double the par value. The plaintiffs as to the defendants had a right to believe this assertion to be true. The cases of Miles v. Stevens, 3 Pa. 21; Babcock v. Case, 61 Pa. 347; and Rawlins v. Wickham, cited by the master, seem to us to rule this question of liability against the defendants, as a question of original responsibility, in some form of action. We are of the opinion that in some form of action the plaintiffs could clearly have rescinded the contract and recovered the money paid, within a reasonable time after they purchased the stock.\nWe are also of the opinion that a bill in equity is the proper and better form of action under the circumstances of this case. There is in fact no adequate remedy at law. The bill in equity prevents a multiplicity of suits. The plaintiffs and defendants. became partners in fact as to third parties, and there are equities to be settled between tbe different plaintiffs and defendants which can only be settled by a bill.\nHave the plaintiffs by their action and non-action lost their remedy? We are unable to see tbe force of the master\u2019s suggestion that the fact that the plaintiffs thought it better to join in with the defendants in raising money to pay the indebtedness to the bank\u2019s depositors, for which all were clearly liable, hurts their case. That.did the defendants no harm. [But, aside from this, we coincide with the master in his view that the plaintiff's have slept too long on their rights and have thereby lost their remedy against the defendants; and we adopt the reasons and conclusion of the master on this point.] 3\nAnd now, September 1, 1888, after argument and upon consideration, the exceptions to the master\u2019s report which are not sustained in the foregoing opinion are dismissed, and it is ordered and decreed that the bill of complainants be and it is hereby dismissed with costs, including the master\u2019s fee, to be hereafter fixed.4\nThe plaintiffs, upon the filing of said decree, took this appeal, specifying that the court erred:\n1, 2. In overruling the plaintiffs\u2019 exceptions.1 3\n3. In that part of the opinion embraced in [ ] 3\n4. In dismissing the plaintiffs\u2019 bill at their cost.4\nMr. deorge Sidras, Jr., and Mr. John B. Herron, for the appellants :\n1. The learned judge was of opinion that complainants had beyond question supported the merits of their cause, and that the doctrine of Rawlins v. Wickham, 3 HeGex & J. 304, and of cognate cases, was applicable. The doctrine of the case cited is also declared in Strang v. Bradner, 114 U. S. 555: \u201c If in the conduct of partnership business and with reference thereto, one partner makes false and fraudulent representations of fact to the injury of innocent persons dealing with him as representing the firm, and without notice of any limitations upon his general authority as agent for the partnership, his partners cannot escape pecuniary responsibility therefor, upon the ground that the misrepresentations were made without tlieir knowledge, especially where the firm appropriates the fruits of the fraudulent conduct of such partner.\u201d The court was likewise of the opinion that the claim for relief was not barred by the statute of limitations, for the reason that the statute did not begin to run until the discovery of the fraud which was the basis of the action: Harrisburgh Bank v. Forster, 8 W. 12 ; Morgan v. Tener, 83 Pa. 305 ; Mitchell v. Buffington, 10 W. N. 361. Why then were the plaintiffs turned out of court, and their bill dismissed ?\n2. The modern doctrine of courts of equity in reference to the lapse of time, we understand to be as follows : (1) Where the cause of action is barred by the statute of limitations, courts of equity give the same effect to the statute as do courts of law, except in cases of technical trust. (2) But when the statutory time has not elapsed, or when for any reason the statute does not apply, yet where a complainant has so long refrained from filing his bill that injustice or loss would be inflicted upon innocent third parties who have become involved in the subject matter, or, where the defendant has been misled to his injury by the inactivity of the complainant, there courts of equity will refuse relief. This latter doctrine is the doctrine of laches, as applicable to the present case: Overt v. Overt, 12 N. J. Eq. 423, 429; Ashhurst\u2019s App., 60 Pa. 290; Evans\u2019s App., 81 Pa. 278. In the light of these principles and authorities, was not the decree dismissing our bill on the ground of laches clearly wrong ? No facts or circumstances are pointed out, which would make it inequitable to grant that relief to complainants which the merits of the case show they were entitled to. The master, whose reasoning is adopted by the court, treats the case as one of election. The plaintiffs were compelled to pay the partnership debts ; they surely had no election as to that. The only part of their conduct that savors of choice, was that they chose not to file* their bill until by their aid and #their money the debts were paid. The very opposite effect ought to be given to their choice.\nMr. A. M. Brown and Mr. B. T. Watson (with them Mr. B. W. Bell), for the appellees :\n1. The bill is not, upon the plaintiffs\u2019 theory, nor indeed in fact, filed by partners against their copartners, to adjust the partnership interests or accounts, but purely a bill to collect divers sums of money alleged to be due and owing by the defendants to several individuals, joined as plaintiffs, no one of whom has any interest in the claim of any other co-plaintiff's. It is therefore, not a partnership bill, and is multifarious: Clarke\u2019s App., 107 Pa. 486; Clark\u2019s App., 62 Pa. 447; Turquand v. Marshall, L. JR,. 4 Ch. App. 876 ; Winters\u2019s App., 61 Pa. 307. Moreover, the statute of limitations bars the plaintiffs\u2019 claims. It is the cause of action, not the form, which determines the applicability of the statute : Downey v. Garard, 24 Pa. 52 ; Wickersham v. Lee, 83 Pa. 422, 425 ; Finney v. Cochran, 1 W. & S. 112. With reference to the statute, there is no distinction between torts arising from contract and those which arise from official misfeasance: Owen v. Western S. Fund, 97 Pa. 47, 54.\n2. To delay the running of the statute until the discovery of the cause of action, three things are requisite: (1) The fraud must be clearly proved: Free v. ITolbeck, 2 Doug. K. B. 655 ; Bishop v. Little, 3 Greenl. 405; Stearns v. Page, 7 How. 819, 828. (2) The fraud must be actual; that is, the representation must be known to be false, or not reasonably believed to be true, by the defendant; and it must have been reasonably relied upon by the plaintiff, and the direct cause of the injury: Huber v. Wilson, 23 Pa. 178; Musselmanv. Eshleman, 10 Pa. 394; Cox v. Highley, 100 Pa. 249; Morrell v. Trotter, 12 W. N. 143 ; McAleer v. McMurray, 58 Pa. 126; Cole v. McGlathery, 9 Greenl. 131; Rouse v. Southard, 39 Me. 404. It follows, that in cases of constructive fraud, the statute runs from the date of the constructively fraudulent act: Waterman v. Brown, 31 Pa. 161; Downey v. Garard, 24 Pa. 52; Fleming v. Culbert, 46 Pa. 498; Campbell v. Boggs, 48 Pa. 524; Ashhurst\u2019s App., 60 Pa. 290, 315; Angel\u00ed on Limitations, \u00a7 187; Bump\u2019s Kerr on Fraud, 309 n. (3) There must also have-been fraudulent concealment: Owen v. Western S. Fund, 97 Pa. 47; and it must have been impossible for the plaintiff, by the exercise of reasonable diligence, to discover the fraud sooner: Angel\u00ed on Limitations, \u00a7 183 et seq.; Bump\u2019s Kerr on. Fraud, 309, 311; Bigelow on Fraud, 442 et seq.; Gordon v. Parmelee, 2 Allen 212. The statute will be applied with the same effect in equity as at law: Hamilton v. Hamilton, 18 Pa. 20; Brightly\u2019s Eq. J., \u00a7 611; McKelvy\u2019s App., 72 Pa. 409 ; and a court of equity is as strict as a court of law in requiring the proof of intent as an element of fraud: Martyn v. West-brook, 7 L. T., N. S., 449; Peck v. Gurney, L. R. 6 Eng. & I. App. 377; In re Vandeveer, 5 Green, C. E., 463; Bryan v. Hitchcock, 43 Mo. 527; Marks v. Taylor, 10 Bush 519.\n3. The defendants were undoubtedly mistaken as to the value and condition of their banking business, as well after as before the organization of the new company, but their mistake was not a fraud upon the plaintiffs. Actual fraud is not made out by proof of mistake: Binney\u2019s App., 116 Pa. 169; Mercer v. Lewis, 39 Cal. 532; Leighton v. Grant, 20 Minn. 345; Ayers v. Scribner, 17 Wend. 407; Bank of Rome v. Mott, 17 Wend. 554. And without proof of fraudulent intent, the law does not give to legal fraud the full consequences of -actual fraud: Duff v. Williams, 85 Pa. 490; Erie City I. Works v. Barber, 106 Pa. 125; Benj. on Sales, \u00a7 429; Bokee v. Walker, 14 Pa. 139; Cox v. Highley, 100 Pa. 249; Smallcomb\u2019s Case, L. R. 5 Eq. 769. Moreover, if the defendants were deceived and defrauded they were bound to assert their claims promptly and without unreasonable delay; but, having slept upon their alleged right, and by their course of conduct led the defendants to believe that no suit would be brought or- claim made on account of the original stock subscriptions, they cannot now be heard in a court of equity, nor indeed in a court of law. Laches and neglect are always discountenanced. Nothing can call a court of equity into activity but conscience, good faith and reasonable diligence: Pearsoll v. Chapin, 44 Pa. 9; Angel\u00ed on Limitations, \u00a7 25,190; Farnam v. Brooks, 9 Pick. 212; Upton v. Tribilcock, 91 U. S. 45; Bigelow on Fraud, 443-4; Craig v. Bradley, 26 Mich. 353; Beckford v. Wade, 17 Ves. 89, 97; Jones v. Turberville, 2 Ves. Jr., 11; Smith\u2019s Case, L. R. 2 Ch. App. 613 ; Denton v. Macneill, L. R. 2 Eq. 355.\nMr. SMras and Mr. Herron, in reply:\n1. The c'ase comes clearly within the statutes conferring equity jurisdiction, both on the ground of fraud and partnership. That there may be a partial remedy at law, is not enough to oust jurisdiction in equity; it must be a full, complete and adequate remedy, and if it fall short of this, equity Is the proper forum: Christy\u2019s App., 92 Pa. 157 ; Koch\u2019s App., 98 Pa. 434, 442; Socher\u2019s App., 104 Pa. 609; McGowin v. Remington, 12 Pa. 56; Skilton y. Webster, Bright. 203.\n2. It is true the claims of the complainants are not joint, but several; yet they arose out of the same subject matter, are identical in origin and character, are against the same defendants, the old stockholders, jointly, and are established almost wholly by the very same evidence; the same relief is asked in behalf of each complainant, and finally, the litigation could not be brought to a final decree or adequate relief be obtained, except in a single suit in which all the parties are joined, either as complainants or defendants. In view of these facts, we submit the bill is not objectionable on the ground of misjoinder of parties, or multifarious: Adams\u2019 Eq., 312-14; Story\u2019s Eq. PL, \u00a7\u00a7 284, 531, 532, 533, 535, 539; 1 Daniell\u2019s Cli. Pr. & PL, 334 n., 335 n., 341; Cumberland Y. R. Co.\u2019s App., 62 Pa. 218, 227.\n8. That the statute of limitations does not begin to run in cases of fraud until the discovery of the fraud, the additional cases are cited : Jones v. Conoway, 4 Y. 109; Hughes v. First N. Bank, 110 Pa. 428; Longworth v. Hunt, 11 Ohio St. 199, 200; Bailey v. Glover, 21 Wal. 342; Boyd v. Blankman, 29 Cal. 19 (87 Amer. D\u00bb 146). We submit that courts of equity do not hold any delay short of the period of the statute of limitations to be laches, or at least such laches as will, unaided by other circumstances, justify them in refusing appropriate relief: Smith v. Clay, Ambler, 645; s. O. 3 Brown, C. C. 639; Pomfret v. Windsor, 2 Yes. Sr. 472; Hovenden v. Lord Annesley, 2 Soli. & Lef. 607; Cliolmondeley v. Clinton, .2 Jac. & Walk. 1; Gresley v. Mousley, 4 DeGex & J. 78; Thomas v. Howie, 10 Wheat. 146; Bowman v. Wathen, 1 How. 189; Sullivan v. Railroad Co., 94 U. S. 806; Brown v. Buena Yista Co., 95 IT. S. 157.\nWhile the case was pending'before the master, proceedings were had upon the petitions of the plaintiffs, and upon the bill and the answers of the executors or administrators of certain deceased shareholders, wherein cautionary decrees were obtained against such personal representatives, so that plaintiffs might have writs of scire facias thereon to continue the lien of their claims upon the real estate of the decedents."
+  },
+  "file_name": "0303-01",
+  "first_page_order": 323,
+  "last_page_order": 349
+}

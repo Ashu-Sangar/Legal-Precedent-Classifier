@@ -1,0 +1,100 @@
+{
+  "id": 4198357,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Louis GARZONE, Respondent",
+  "name_abbreviation": "Commonwealth v. Garzone",
+  "decision_date": "2010-10-14",
+  "docket_number": "No. 238 EAL 2010",
+  "first_page": "325",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "607 Pa. 325"
+    },
+    {
+      "type": "parallel",
+      "cite": "6 A.3d 500"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "6 A.3d 499",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7286936,
+        7286889,
+        4197869,
+        4199022
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/6/0499-02",
+        "/a3d/6/0499-01",
+        "/pa/607/0323-02",
+        "/pa/607/0324-01"
+      ]
+    },
+    {
+      "cite": "607 Pa. 324",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4199022
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/607/0324-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 581,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1381408723056827
+    },
+    "sha256": "2a27501893241b21bc75409d01b6679d82e70fd953602b4eaecd09d73aa7c909",
+    "simhash": "1:252f23a6daefb6f6",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T21:17:14.678165+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Louis GARZONE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of October 2010, the Petition for Allowance of Appeal is GRANTED. The issue, as phrased by Petitioner, is:\nDid the Superior Court err in removing the cost of employing county detectives and assistant district attorneys from the trial court\u2019s discretion to impose prosecution expenses on a convicted offender?\nThis matter is to be consolidated with Commonwealth v. Gerald Garzone, 607 Pa. 324, 6 A.3d 499 (2010).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "6 A.3d 500\nCOMMONWEALTH of Pennsylvania, Petitioner v. Louis GARZONE, Respondent.\nSupreme Court of Pennsylvania.\nOct. 14, 2010."
+  },
+  "file_name": "0325-01",
+  "first_page_order": 369,
+  "last_page_order": 370
+}

@@ -1,0 +1,104 @@
+{
+  "id": 12282473,
+  "name": "Com. v. Cunningham",
+  "name_abbreviation": "Com. v. Cunningham",
+  "decision_date": "2016-08-02",
+  "docket_number": "177 EAL (2016)",
+  "first_page": "658",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 658"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "145 A.3d 772",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12487232,
+        12487233,
+        12487234,
+        12487235,
+        12487236,
+        12487237,
+        12487238,
+        12487239,
+        12487240,
+        12487241,
+        12487242,
+        12487243,
+        12487229,
+        12487230,
+        12487231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/145-2/0772-13",
+        "/a3d/145-2/0772-14",
+        "/a3d/145-2/0772-15",
+        "/a3d/145-2/0772-01",
+        "/a3d/145-2/0772-02",
+        "/a3d/145-2/0772-03",
+        "/a3d/145-2/0772-04",
+        "/a3d/145-2/0772-05",
+        "/a3d/145-2/0772-06",
+        "/a3d/145-2/0772-07",
+        "/a3d/145-2/0772-08",
+        "/a3d/145-2/0772-09",
+        "/a3d/145-2/0772-10",
+        "/a3d/145-2/0772-11",
+        "/a3d/145-2/0772-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 76,
+    "ocr_confidence": 0.887,
+    "sha256": "a538a08c9d24e58df212fcaa700219668feb26a7027d05baa5550b8ab6c9a3cf",
+    "simhash": "1:434c817e7ef90887",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Cunningham"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 145 A.3d 772",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Cunningham\n08/02/2016\n177 EAL (2016)"
+  },
+  "file_name": "0658-04",
+  "first_page_order": 710,
+  "last_page_order": 710
+}

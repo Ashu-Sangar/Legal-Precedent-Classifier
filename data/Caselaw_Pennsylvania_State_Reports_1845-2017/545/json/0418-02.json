@@ -1,0 +1,96 @@
+{
+  "id": 465084,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Nathaniel WADE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Wade",
+  "decision_date": "1996-09-05",
+  "docket_number": "",
+  "first_page": "418",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "545 Pa. 418"
+    },
+    {
+      "type": "parallel",
+      "cite": "681 A.2d 746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "681 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859172,
+        465078
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/0162-01",
+        "/pa/545/0297-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 297",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465078
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0297-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 393,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.017125129689028202
+    },
+    "sha256": "dc361a43e2cdac4deb5a0f32af5deb8c0b4e554ec9ecf2a5461b6aefccb3debc",
+    "simhash": "1:1cbfebacf6f7a9bb",
+    "word_count": 63
+  },
+  "last_updated": "2024-02-27T18:15:01.595212+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Nathaniel WADE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 5th day of September, 1996, the petition for allowance of appeal filed by Nathaniel Wade is granted. The judgment of sentence is vacated in accordance with the decision in Commonwealth v. Barud, 545 Pa. 297, 681 A.2d 162 (1996).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "681 A.2d 746\nCOMMONWEALTH of Pennsylvania, Respondent, v. Nathaniel WADE, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 5, 1996."
+  },
+  "file_name": "0418-02",
+  "first_page_order": 510,
+  "last_page_order": 511
+}

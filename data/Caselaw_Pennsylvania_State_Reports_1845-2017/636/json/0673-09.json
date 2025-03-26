@@ -1,0 +1,108 @@
+{
+  "id": 12284793,
+  "name": "Com. v. Mason",
+  "name_abbreviation": "Com. v. Mason",
+  "decision_date": "2016-08-22",
+  "docket_number": "325 MAL (2016)",
+  "first_page": "673",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 Pa. 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 A.3d 722"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "144 A.3d 198",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12486569,
+        12486570,
+        12486571,
+        12486572,
+        12486573,
+        12486574,
+        12486575,
+        12486576,
+        12486577,
+        12486578,
+        12486579,
+        12486580,
+        12486581,
+        12486582,
+        12486583,
+        12486584,
+        12486585
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0198-10",
+        "/a3d/144-2/0198-11",
+        "/a3d/144-2/0198-12",
+        "/a3d/144-2/0198-13",
+        "/a3d/144-2/0198-14",
+        "/a3d/144-2/0198-15",
+        "/a3d/144-2/0198-16",
+        "/a3d/144-2/0198-17",
+        "/a3d/144-2/0198-01",
+        "/a3d/144-2/0198-02",
+        "/a3d/144-2/0198-03",
+        "/a3d/144-2/0198-04",
+        "/a3d/144-2/0198-05",
+        "/a3d/144-2/0198-06",
+        "/a3d/144-2/0198-07",
+        "/a3d/144-2/0198-08",
+        "/a3d/144-2/0198-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.868,
+    "sha256": "5e149427116a0c104c99d956abf81dd6929cf8a0bcd48cc90ceca7b0ccc112ba",
+    "simhash": "1:0c54801e88d84003",
+    "word_count": 12
+  },
+  "last_updated": "2024-02-27T19:31:07.085010+00:00",
+  "provenance": {
+    "date_added": "2018-10-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. v. Mason"
+    ],
+    "opinions": [
+      {
+        "text": "Denied\nPa.Super., 144 A.3d 198",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. v. Mason\n08/22/2016\n325 MAL (2016)"
+  },
+  "file_name": "0673-09",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

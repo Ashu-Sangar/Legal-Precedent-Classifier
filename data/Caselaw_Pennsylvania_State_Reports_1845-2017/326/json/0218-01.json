@@ -1,0 +1,81 @@
+{
+  "id": 1174422,
+  "name": "Erie Trust Company's Case",
+  "name_abbreviation": "Erie Trust Company's Case",
+  "decision_date": "1937-04-19",
+  "docket_number": "No. 2; Appeal, No. 1",
+  "first_page": "218",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "326 Pa. 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "321 Pa. 276",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1165853
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/321/0276-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 483,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04327395149292488
+    },
+    "sha256": "e6d324878852eaf9ae881f4260bcc7fb15c0aa677e0be5bf0bd10016c79a8031",
+    "simhash": "1:62b3934bc5f812b2",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T22:44:20.736778+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Kephart, C. J., Schaffer, Drew, Linn, Stern and Barnes, JJ."
+    ],
+    "parties": [
+      "Erie Trust Company\u2019s Case"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam,\nAffirmed on the opinion of Mr. Justice Linn in the United Security Trust Company Case, 321 Pa. 276, costs to be paid by appellant.",
+        "type": "majority",
+        "author": "Per Curiam,"
+      }
+    ],
+    "attorneys": [
+      "Edward M. Murphy, City Solicitor, for appellant.",
+      "John B. Brooks, with him Alban W. Curtme, Gerald F. Flood, Special Deputy Attorney General, and Charles J. Margiotti, Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Erie Trust Company\u2019s Case\n(No. 2).\nArgued March 22, 1937.\nBefore Kephart, C. J., Schaffer, Drew, Linn, Stern and Barnes, JJ.\nEdward M. Murphy, City Solicitor, for appellant.\nJohn B. Brooks, with him Alban W. Curtme, Gerald F. Flood, Special Deputy Attorney General, and Charles J. Margiotti, Attorney General, for appellee.\nApril 19, 1937:"
+  },
+  "file_name": "0218-01",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

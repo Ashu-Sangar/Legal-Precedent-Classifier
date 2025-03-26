@@ -1,0 +1,655 @@
+{
+  "id": 1303596,
+  "name": "Jones and Laughlin Tax Assessment Case",
+  "name_abbreviation": "Jones & Laughlin Tax Assessment Case",
+  "decision_date": "1961-12-05",
+  "docket_number": "Appeals, Nos. 81, 82 and 83",
+  "first_page": "421",
+  "last_page": "437",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "405 Pa. 421"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "240 U. S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3689799
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "357"
+        },
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/240/0342-01"
+      ]
+    },
+    {
+      "cite": "223 U. S. 59",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3661816
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/223/0059-01"
+      ]
+    },
+    {
+      "cite": "220 U. S. 61",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3657997
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "78"
+        },
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/220/0061-01"
+      ]
+    },
+    {
+      "cite": "296 U. S. 404",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5723730
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "439"
+        },
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/296/0404-01"
+      ]
+    },
+    {
+      "cite": "289 U. S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3917558
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/289/0036-01"
+      ]
+    },
+    {
+      "cite": "358 U. S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3649820
+      ],
+      "weight": 2,
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/358/0522-01"
+      ]
+    },
+    {
+      "cite": "62 Atl. 29",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1905,
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Pa. 598",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        941818
+      ],
+      "year": 1905,
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/212/0598-01"
+      ]
+    },
+    {
+      "cite": "12 A. 2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1940,
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 Pa. 321",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1199959
+      ],
+      "year": 1940,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/338/0321-01"
+      ]
+    },
+    {
+      "cite": "76 A. 5",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1909,
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Pa. 163",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1008525
+      ],
+      "year": 1909,
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/227/0163-01"
+      ]
+    },
+    {
+      "cite": "4 A. 149",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1886,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Pa. 337",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        546754
+      ],
+      "year": 1886,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/112/0337-01"
+      ]
+    },
+    {
+      "cite": "85 Pa. 513",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        440454
+      ],
+      "year": 1877,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/85/0513-01"
+      ]
+    },
+    {
+      "cite": "277 U. S. 389",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3903210
+      ],
+      "weight": 3,
+      "year": 1877,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/277/0389-01"
+      ]
+    },
+    {
+      "cite": "134 A. 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1926,
+      "opinion_index": 0
+    },
+    {
+      "cite": "287 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1099585
+      ],
+      "year": 1926,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/287/0161-01"
+      ]
+    },
+    {
+      "cite": "87 A. 2d 480",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "370 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1234525
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/370/0161-01"
+      ]
+    },
+    {
+      "cite": "46 A. 861",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1900,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Pa. 614",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        916794
+      ],
+      "year": 1900,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/196/0614-01"
+      ]
+    },
+    {
+      "cite": "158 A. 262",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1134688
+      ],
+      "year": 1932,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/305/0558-01"
+      ]
+    },
+    {
+      "cite": "60 A. 2d 39",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "359 Pa. 605",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        473113
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/359/0605-01"
+      ]
+    },
+    {
+      "cite": "56 A. 2d 675",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "358 Pa. 309",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845514
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "313, 319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/358/0309-01"
+      ]
+    },
+    {
+      "cite": "118 A. 394",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1922,
+      "opinion_index": 0
+    },
+    {
+      "cite": "274 Pa. 448",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1073073
+      ],
+      "weight": 2,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/274/0448-01"
+      ]
+    },
+    {
+      "cite": "16 A. 584",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1889,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Pa. 594",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        967114
+      ],
+      "weight": 2,
+      "year": 1889,
+      "pin_cites": [
+        {
+          "page": "620"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/123/0594-01"
+      ]
+    },
+    {
+      "cite": "62 Pa. 491",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1017234
+      ],
+      "year": 1870,
+      "pin_cites": [
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/62/0491-01"
+      ]
+    },
+    {
+      "cite": "138 A. 2d 303",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Pa. Superior Ct. 532",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        738605
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/185/0532-01"
+      ]
+    },
+    {
+      "cite": "39 A. 2d 713",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1872,
+      "opinion_index": 0
+    },
+    {
+      "cite": "350 Pa. 520",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461139
+      ],
+      "year": 1872,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/350/0520-01"
+      ]
+    },
+    {
+      "cite": "53 A. 2d 250",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "357 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472073
+      ],
+      "year": 1947,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/357/0101-01"
+      ]
+    },
+    {
+      "cite": "175 A. 697",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "316 Pa. 300",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1159070
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/316/0300-01"
+      ]
+    },
+    {
+      "cite": "70 Pa. 381",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028207
+      ],
+      "weight": 2,
+      "year": 1872,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/70/0381-01"
+      ]
+    },
+    {
+      "cite": "2 W. & S. 116",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1853586
+      ],
+      "weight": 2,
+      "year": 1841,
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/2/0116-01"
+      ]
+    },
+    {
+      "cite": "119 A. 540",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1923,
+      "opinion_index": 0
+    },
+    {
+      "cite": "275 Pa. 431",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1075669
+      ],
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "436-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/275/0431-01"
+      ]
+    },
+    {
+      "cite": "132 A. 2d 768",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11073854
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "183 Pa. Superior Ct. 407",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        735291
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/183/0407-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1229,
+    "char_count": 25217,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 1.370188879698128e-06,
+      "percentile": 0.990329552031798
+    },
+    "sha256": "c34b7e89a3fde2b508ab7cc53dbaf98791584af36c1e9e1d343134bb0be18dbe",
+    "simhash": "1:836214f240e29aec",
+    "word_count": 4136
+  },
+  "last_updated": "2024-02-27T17:55:57.255417+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Bell, C. J., Musmanno, Jones, Cohen, Eagen and Alpekn, JJ."
+    ],
+    "parties": [
+      "Jones and Laughlin Tax Assessment Case."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by\nMr. Justice Eagen,\nThis case involves the correctness of the assessment levied against the taxable real estate of the Jones and Laughlin Steel Corporation situate in the Borough of Aliquippa, Beaver County, Pennsylvania.\nIn 1955, the county commissioners directed a reassessment of all taxable real estate within the territorial boundaries of the county. They engaged the services of Cole-Layer-Trumble Company, an appraisal firm from Dayton, Ohio, to conduct the necessary reappraisals. In 1958, the appraisal was completed and adopted by the Board of Assessment and Bevision of Taxes as the basis for county tax assessments for the year 1959. As a result, the assessed valuation of real estate of the Jones and Laughlin Steel Corporation, located in the Borough of Aliquippa, was reduced from the sum of $21,365,945 to $17,528,400. The further result was to shift 22.8% of the total real estate assessment of the borough from the corporation to other taxpayers.\nThe Borough of Aliquippa appealed from the board\u2019s assessment to the court of common pleas. The steel corporation, and the school district of the borough, were permitted to intervene. The court dismissed the appeal. From that order, the borough and the school district appealed.\nBeaver County is a fourth class county and in assessing taxable real estate within its territorial limits is governed by the Act of May 21, 1943, P. L. 571, as amended, 72 PS \u00a75453.101 et seq. Section 201 of the Act of 1943, provided as follows: \u201cThe following subjects and property shall as hereinafter provided be valued and assessed and subject to taxation for all county, borough, town, township, school (except in cities) poor and county institution district purposes, at the annual rate, (a) All real estate, to wit: Houses, buildings, lands, lots of ground and ground rents, mills and manufactories of all kinds, and all other real estate not exempt by law from taxation.\u201d\nUnder this statute, as then written, in levying the tax against a steel mill such as the one involved, the mill itself and all things included in the operation, whether fast or loose, which necessarily constituted an integral part, were valued and assessed as realty. This was the established practice under the law. See, Messenger Publishing Co. v. Allegheny County Board of Property Assessment, Appeals and Review, 183 Pa. Superior Ct. 407, 132 A. 2d 768 (1957), wherein at page 408, the Court said: \u201cThere is a rule in Pennsylvania that \u2018a chattel placed in an industrial establishment for permanent use, and necessary to the operation of the plant, becomes a fixture and as such a part of the real estate, although not physically attached thereto; in other words, if the article, whether fast or loose, be indispensable in carrying on the specific business, it becomes a part of the realty.\u2019 Titus v. Poland Coal Co., 275 Pa. 431, 436-7, 119 A. 540 (1923). See also Gray v. Holdship, 17 S. & E. 413 (1828); Voorhis v. Freeman, 2 W. & S. 116 (1841); Patterson v. Delaware County, 70 Pa. 381 (1872), and Central Lithograph Company v. Eatmor Chocolate Company, 316 Pa. 300, 175 A. 697 (1934). This principle, which has come to be known as the \u2018assembled industrial plant doctrine,\u2019 has always been used in assessing mills and manufactories for taxation under the above statute.\u201d\nHowever, Section 201 of the Act of 1943, was amended twice by the 1953 session of the Pennsylvania Legislature. It is with these amendments that we are now concerned, specifically, (1) the correctness of the construction and application thereof and (2) their constitutionality.\nThe Amendment of July 17, 1953, added the following to Section 201: \u201cMachinery, tools, appliances and other equipment contained in any mill, mine, manufactory or industrial establishment shall not be considered or included as a part of the real estate in determining the value of such mill, mine, manufactory or industrial establishment.\u201d\nThe amendment of July 28, 1953, further added this: \u201cProvided, That the exclusion of such machinery, tools, applianc\u00e9s and other equipment, in so determining the value of such mill, mine, manufactory or industrial establishment, shall be postponed and shall not become effective until such real estate is valued and assessed for taxes to be levied for the tax or fiscal years beginning on or after the first day of January, one thousand nine hundred fifty-six.\u201d\nThe Aliquippa Works of the steel corporation involved is a large integrated industrial establishment, equipped to turn the basic raw materials of coal and iron into steel of all sizes and forms, as well as to handle all by-products which develop during the process. The steel making process is one involving the handling of materials whose weight is measured in tons. Of necessity, most of the equipment used in the operation is large, heavy, and securely anchored with solid foundations.\nIn determining which portions of the steel plant constituted \u201cmachinery\u201d, etc., and were thus excluded from real estate taxation under the amendment of July 17,1953, supra, the appraisers included in this category all items which were necessary in the manufacturing process, as well as the foundations and structures directly related to such equipment and facilities. The board of assessors followed this policy. The lower court ruled this to be correct. As a result, foundations supporting, and structures enclosing, coal bins, conveyor systems, magnetic separators, bucket line elevators, coke ovens, blast furnaces, convertors and other similar heavy machinery incident to a steel mill, as well as the machinery itself, were classified as excluded from real estate taxation. Hence, the substantial reduction in the assessed valuation. The basic reasoning was that the foundations and structures were vital and necessary to the operation of the machinery; that they constituted an integral part thereof and added nothing to the value of the real estate itself, regardless of the fact that, in most instances, the structure and foundations were permanently affixed to the land and could not be removed without material damage thereto.\nThe appellants argue that this constituted an incorrect interpretation of the 1953 statute and an illegal application of the machinery exemption. It is their prime position that, while the legislature intended to abolish the \u201cassembled industrial plant doctrine\u201d because of its obvious injustice in fixing unattached machinery and equipment as part of the realty for tax purposes, the legislature did not intend to exempt from real estate taxation permanent improvements to the land, i.e., things so affixed that they cannot be removed without material damage to the land itself. In substance, it is argued that the legislature intended to adopt the common law doctrine of fixtures in the determination of what is real estate for tax purposes.\nThei\u2019efore, the present issue boils down to this: Does the common law doctrine of fixtures determine whether or not permanent or semi-permanent improvements, (such as those excluded from the assessment) which are a contributing link in the chain of process to attain the desired end products in any industrial establishment, come within the meaning of \u201cmachinery, tools, appliances and other equipment\u201d in the 1953 amendment? To this question, the answer, in our opinion, is \u201cno.\u201d\nAppellants\u2019 proposed method has been rejected time and again by this Court as unrealistic and impossible in application. In Gulf Oil Corp. v. Philadelphia, 357 Pa. 101, 53 A. 2d 250 (1947), at page 108, we stated, \u201cThere is an analogy between the problem before us [whether an oil tank is a \u201cmachine used in manufacturing\u201d] and the problem whether a certain machine is a part of the freehold. The criterion of physical attachment has long been rejected in the solution of that problem. Chief Justice Gibson in Voorhis v. Freeman, 2 W. & S. 116, said in 1841 that in \u2018the old criterion\u2019 of \u2018physical attachment\u2019 which \u2018was adapted to fixtures and dwellings before England had become a manufacturing country\u2019 there was \u2018want of adaptation to the business and improvements of the age\u2019 and that the true test was whether the machinery \u2018was palpably an integrant part of a manufactory or a mill\u2019, i.e., \u2018was necessary to constitute it and without which it would not be a manufactory at all.\u2019 See also Defense Plant Corporation Tax Case, 350 Pa. 520, 39 A. 2d 713.\u201d Also in Patterson v. Delaware County, 70 Pa. 381 (1872), this Court rejected the theory that physical annexation should be the distinguishing characteristic in determining what is real and what is personal property for tax purposes. We stated at 385, \u201cThat, has been found impracticable, no rule at all, and has, therefore, long since been abandoned.\u201d Again in Gulf Oil Corp. v. Philadelphia, supra, at 108, 109, we said, \u201cThe criteria that nothing is machinery unless it \u2018applies force or involves the quality of motion\u2019 and that anything in which chemical processes take place even though these processes are mechanically induced cannot be adjudged machinery, is likewise not adapted \u2018to the business and improvements of the age.\u2019 \u201d Similarly, in our opinion, a criteria that says nothing is \u201cmachinery, tools, appliances and other equipment\u201d but is real estate because the said object requires a massive foundation to prevent vibration caused by its operation and an enclosure to prevent deterioration, is a totally unrealistic view and cannot be imputed to the legislature\u2019s intention in enacting the amendments of 1953. As stated by all of the experts for both sides and correctly found by the lower court, the foundations and structures in question are absolutely essential integral parts of each machine, appliance or piece of equipment, without which its operation would be rendered impossible. In short, it is all one and the same.\nThe intention of the legislature was clearly to abolish the tax ou all parts of the machinery by removing machinery from real estate taxation, and with good reason. Today most states and communities in this country are engaged in a fight to encourage new industry to move into that state or community and to retain the industries they already have. In the early 1940\u2019s many Pennsylvania communities, such as the City of Scranton, founded nonprofit corporations to achieve the before-mentioned purposes. Recently, the state government, through a newly formed Pennsylvania Industrial Development Corporation, has delved into this expanding tussle over jobs and industry by granting loans to the community corporations to aid them in this fight. It is obvious that the legislature was aware of these activities since it has been appropriating large sums of money to the industrial development corporation. But the legislature also realized that building new factories at low interest rates wasn\u2019t enough to compete with other states which also offer low tax rates to industry, and therefore, it gave needed tax relief to industry in Pennsylvania. This effort has taken several forms: (a) For example, corporations organized for manufacturing purposes were declared exempt from the annual tax on their capital stock: Capital Stock Tax Act of June 1, 1889, P. L. 420, \u00a721, as amended, March 15, 1956, P. L. (1955) 1285, \u00a71, 72 PS \u00a71871; (b) Again, no taxes have been permitted under the general mercantile tax \u201con any privilege, act or transaction related to the business of manufacturing . . . .\u201d Act of June 25, 1947, P. L. 1145, \u00a71, 53 PS \u00a76851; (c) Again, in 1911, \u201cmachinery of all kinds\u201d was excluded from real estate taxation in Pittsburgh.. Act of May 12,1911, P. L. 287, \u00a71, 53 PS \u00a723104; (d) In 1915, a similar exclusion was passed to exclude from taxation in Philadelphia County \u201cthe machinery and tools used in manufacturing in any mill or manufactory.\u201d Act of June 3, 1915, P. L. 787, No. 346, \u00a71, 53 PS \u00a715976; (e) and finally, the 1953 amendments to The Fourth to Eighth Class County Assessment Law. As we stated in interpreting the Act of June 3, 1915, in Gulf Oil Corp. v. Philadelphia, supra, at 119, \u201cArticle IV, section 51, of the Statutory Construction Act states that \u2018the intention of the Legislature may be ascertained by considering, among other matters \u2014 (1); (2); (3); (4) the object to be attained.\u2019 The \u2018object\u2019 of the Act of 1915 was to attract to this state manufactories and to retain those whose owners might be tempted to move them to states with more liberal tax policies.\u201d Therefore, it is self-evident from a study of the history of tax legislation in Pennsylvania that the \u201cobject to be obtained\u201d by the 1953 amendments was to provide tax relief for Pennsylvania industries by removing all integrated \u201cmachinery, tools, appliances and other equipment\u201d from the real estate tax.\nThe Act of 1915, supra, construed in Gulf Oil Corporation v. Philadelphia, supra, excluded \u201cmachinery and tools used in manufacturing.\u201d The Act of 1953 excludes \u201cmachinery, tools . . . contained in any mill . . . Appellants contend that the words \u201ccontained in\u201d are more restrictive than the words \u201cused in.\u201d To us, it appears that the contrary is correct. Certainly a piece of machinery must be contained in the manufacturing plant before it can be used. The reason for substituting the phrase \u201ccontained in any . . . industrial establishment\u201d for \u201cused in manufacturing\u201d was apparently to avoid the technical question as to what constitutes processing or manufacturing as the Gulf Oil Corporation case presented.\nTherefore, it is our considered conclusion, under the statute involved, improvements, whether fast or loose, which are used directly in manufacturing the products that the establishment is intended to produce and are necessary and integral parts of the manufacturing process and are used solely for effectuating that purpose, are excluded from real estate assessment and taxation. On the other hand, improvements which benefit the land generally and which may serve various users of the land, are not in this category. Neither are struc: tures, which are not necessary and integral parts of the manufacturing process and which are separate and apart therefrom, within the exclusion. A structure used for storage, for example, is part of the realty and subject to real estate taxation.\nAlthough, we cannot review and discuss in this opinion each and every item involved herein, two, specifically, need discussion. They are the loading docks for both coal and pig, and the quinching towers for the coke ovens. The loading docks cannot, under any extension of meaning, fit into \u201cmachinery, tools, appliances and other equipment\u201d as the court below concluded. They are real estate. But, on the other hand, the quinching towers are an absolutely necessary part of the process in making coke and, therefore, come within the definition of machinery.\nThe appellants also contend that the machinery exemption should be declared invalid because the act contains no definition of the words, \u201cmachinery, tools, appliances and other equipment\u201d and is, therefore, so vague, indefinite, or inconsistent, that it is incapable of interpretation, application or enforcement. Keeping the legislative purpose in mind, we cannot agree. These words of exclusion are obviously clearer and broader than the Act of June 3, 1915. As pointed out before, in the latter act \u201cmachinery . . . used in manufacturing\u201d were the key words, while in the 1953 amendment, \u201cmachinery, tools, appliances and other equipment contained in any . . . industrial establishment\u201d are the words in question. The legislature was obviously aware of this Court\u2019s decision interpreting the word \u201cmachinery\u201d in the Act of 1915. See, Gulf Oil Corp. v. Philadelphia., supra. \u201cIn ascertaining the intention of the Legislature in the enactment of a law, the courts may be guided by the following presumptions among others: . . . (4) That when a court of last resort has construed the language used in a law, the Legislature in subsequent laws on the same subject matter intend the same construction to be placed upon such language.\u201d Act of May 28, 1937, P. L. 1019, \u00a752, 46 PS \u00a7552.\nThe appellants further contend that the Amendments of 1953, supra, contravene Art. IX, \u00a7 \u00a71 and 2 of the Pennsylvania Constitution in that they exempt property from taxation and permit lack of uniformity in taxation. The pertinent part of Section 1 provides: \u201cAll taxes shall be uniform, upon the same class of subjects, within the territorial limits of the authority levying the tax . . . .\u201d Section 2 provides: \u201cAll laws exempting property from taxation, other than the property above enumerated shall be void.\u201d\nWhat is overlooked in this argument is that the Act of 1953 doesn\u2019t create an exemption but creates an exclusion \u2014 that being excluded is the concept of the assembled industrial plant doctrine as a determining factor in The Fourth to Eighth Class County Assessment Law. The legislature clearly stated that it was creating an exclusion. The Act of July 17, 1953, P. L. 455, states that these items \u201cshall not be considered or included.\u201d The Act of July 28, 1953, P. L. 703, states that the \u201cexclusion of such machinery, tools, appliances and other equipment . . . shall be postponed . . . .\u201d Therefore, it is obvious that the legislature, by this act, merely moved \u201cmachinery, tools, appliances and other equipment\u201d, which had by judicial interpretation been classified with real estate, into a separate class.\nSection 1 of Art. IX of the Pennsylvania Constitution provides that all taxes shall be uniform upon the same class of subjects. Classification is an integral part of any discussion of uniformity. It is in fact the basis of uniformity. Classification is a legisative determination and so long as there is a valid basis for the classification, it will be sustained. As was stated in Coe v. Duffield, 185 Pa. Superior Ct. 532, 535, 138 A. 2d 303 (1958) : \u201cIn the legitimate exercise of the power of taxation, persons and things have been, and may constitutionally be, classified. The selection of the subjects for taxation, their classifications, and the method of collection are legislative matters. Durach\u2019s Appeal, 62 Pa. 491, 494 (1870); Commonwealth v. Del. Div. Canal Co., 123 Pa. 594, 620, 16 A. 584 (1889). Classification for the purpose of taxation may be based on the existence of differences recognized in the business world, on the want of adaptability of the subjects to the same method of taxation, upon the impracticability of applying to them the same methods so as to produce justice and reasonably uniform results, or upon well grounded considerations of public policy. Heisler v. Thomas Colliery Co., supra, 274 Pa. 448, 118 A. 394 (1922). In the aforesaid case the Supreme Court quoted with approval from White on the Constitution of Pennsylvania, p. 379-380, as follows: \u2018In short, the Constitution having delegated to the legislature the power to classify persons and property for purposes of taxation it may select any reasonable basis upon which to make the classification, and may create as many classes as it may in its discretion decide upon, subject always to the limitation that it must exercise good faith and must not make arbitrary and unjust distinctions.\u2019 \u201d Then, at 537, Judge Wood side summarized some recognized distinctions in taxation as follows: \u201cIt was argued that land is land, ice is ice, gas is gas and coal is coal, but the legislature was permitted to tax differently seated and unseated land, natural ice and artificial ice, natural gas and manufactured gas, anthracite coal and bituminous coal. Heisler v. Thomas Colliery Co., supra, 274 Pa. 448, 455, 118 A. 394 (1922). The courts have sustained the classification for tax purposes of the strip mining of coal from the deep mining of coal, and also from the similar mining or quarrying of other substances. Du Four v. Maize, 358 Pa. 309, 313, 319, 56 A. 2d 675 (1948); Dunkard Twp. School Tax Case, 359 Pa. 605, 610, 60 A. 2d 39 (1948). Life insurance companies have been legally classified into stock and mutual companies for the purpose of taxation. Commonwealth v. Girard Life Insurance Co., supra, 305 Pa. 558, 158 A. 262 (1932). Retailers and wholesalers have been taxed differently without offending the Constitution. Knisely v. Cotterel, 196 Pa. 614, 46 A. 861 (1900) ; Allentown School District Mercantile Tax Case, supra, 370 Pa. 161, 87 A. 2d 480 (1952). Classification has been upheld between corporate owners of taxicabs and individual owners; Commonwealth v. Quaker City Cab Co., 287 Pa. 161, 134 A. 404 (1926), reversed on another point in Quaker City Cab Co. v. Pa., 277 U. S. 389, 48 S. Ct. 553, 72 L. Ed. 927, foreign insurance companies and domestic insurance companies, Germania Life Insurance Co. v. Commonwealth, 85 Pa. 513 (1877); money owed by individuals and money owed by corporations, Fox\u2019s App., 112 Pa. 337, 4 A. 149 (1886); stock in trust companies and stock in other associations, Commonwealth v. Mortgage Trust Co., 227 Pa. 163, 177, 76 A. 5 (1909). An ordinance imposing a tax upon the gross receipts of open parking lots, but not upon enclosed parking places was upheld in Philadelphia v. Samuels, 338 Pa. 321, 12 A. 2d 79 (1940) as a constitutional classification.\u201d\nIt is obvious that the classification in question is reasonable and well grounded upon consideration of public policy. And as we stated in Jermyn v. Scranton City, 212 Pa. 598, 602, 62 Atl. 29 (1905), where we sustained the constitutionality of classification of real estate, having the same market value, into three different classes, eaeh having a different tax rate: \u201cIt is too late in the day in Pennsylvania to question the power of the legislature to classify subjects of taxation on broad lines and within certain limitations. The reasons for such classification, based upon imperious necessity, are so numerous, and' have been so frequently discussed by the higher courts, that it is useless to refer to them now. We shall cite only one case to show that the question before us is definitely and authoritatively settled: Commonwealth v. Delaware Div. Canal Co., 123 Pa. 594.\u201d\nWe also conclude that the statutes involved do not offend the Fourteenth Amendment to the United States Constitution. In Allied Stores of Ohio, Inc. v. Bowers, 358 U. S. 522, 79 S. Ct. 437 (1959), the United States Supreme Court stated, at 441 of S. Ct., \u201cComing directly to the concrete problem now before us, it has repeatedly been held and appears to be entirely settled that a statute which encourages the location within the State of needed and useful industries by exempting them, though not also others, from its taxes is not arbitrary, and does not violate the Equal Protection Clause of the Fourteenth Amendment. Bell\u2019s Gap R. Co. v. Commonwealth of Pennsylvania, supra, 134 U. S. at page 237, 10 S. Ct. at page 535; Ohio Oil Co. v. Conway, 281 U. S. at page 159, 50 S. Ct. at page 313; Williams v. Mayor and City Council of Baltimore, 289 U. S. 36, 53 S. Ct. 431, 77 L. Ed. 1015; Colgate v. Harvey, 296 U. S. 404, 439, 56 S. Ct. 252, 263, 80 L. Ed. 299 (dissenting opinion). Similarly, it has long been settled that a classification, though discriminatory, is not arbitrary nor violative of the Equal Protection Clause of the Fourteenth Amendment if any state of facts reasonably can be conceived that would sustain it. Lindsley v. Natural Carbonic Gas Co., 220 U. S. 61, 78, 31 S. Ct. 337, 340, 55 L. Ed. 369; Quong Wing v. Kirkendall, 223 U. S. 59, 32 S. Ct. 192, 56 L. Ed. 350; Rast v. Van Deman & Lewis Co., 240 U. S. 342, 357, 36 S. Ct. 370, 374, 60 L. Ed. 679; State Board of Tax Com\u2019rs of Indiana v. Jackson, 283 U. S. at page 537, 51 S. Ct. at page 543.\u201d\nFinally, tlie action of the lower court in refusing certain individual taxpayers the right to intervene in this action is assigned as error. In view of our conclusions as enunciated in the foregoing opinion, we feel it is unnecessary to discuss the merits of this question.\nThe order of the lower court is affirmed with modification. The record is remanded to permit the lower court to enter a final order consonant with this opinion. Mr. Justice Cohen dissents.\nSee Act of July 17, 1953, P. L. 455 and tlie Act of July 28, 1953, P. li. 703, 72 PS \u00a75453.201 (Supp.).\nEmphasis supplied.\nEmphasis supplied.\nEmphasis ours.\nEmphasis ours.\nEmphasis supplied.\nEmphasis supplied.\nEmphasis supplied",
+        "type": "majority",
+        "author": "Mr. Justice Eagen,"
+      }
+    ],
+    "attorneys": [
+      "John A. Metz, Jr., with him Clarence D. Neish, Arthur iS. Herskovitz, Guy L. Warman, and Metz, Cook, Hanna & Kelly, for appellants.",
+      "Harold F. Reed, Jr., with him Reed, Ewing, Orr & Reed, for intervening appellee.",
+      "Robert K. Greenfield, Edward Greer, and Folz, Bard, Kamsler, Goodis & Greenfield, and Cadwallader, Darlington & Clarke, for School District of Falls Township, under Buie 46.",
+      "Samuel M. Snipes and William F. Heefner, for Board of Supervisors of Falls Township, under Buie 46.",
+      "Henry T. Reath, Claude C. Smith, and Duane, Morris & Heekscher, for United States Steel Corporation, under Buie 46."
+    ],
+    "corrections": "",
+    "head_matter": "Jones and Laughlin Tax Assessment Case.\nArgued October 2, 1961.\nBefore Bell, C. J., Musmanno, Jones, Cohen, Eagen and Alpekn, JJ.\nJohn A. Metz, Jr., with him Clarence D. Neish, Arthur iS. Herskovitz, Guy L. Warman, and Metz, Cook, Hanna & Kelly, for appellants.\nHarold F. Reed, Jr., with him Reed, Ewing, Orr & Reed, for intervening appellee.\nRobert K. Greenfield, Edward Greer, and Folz, Bard, Kamsler, Goodis & Greenfield, and Cadwallader, Darlington & Clarke, for School District of Falls Township, under Buie 46.\nSamuel M. Snipes and William F. Heefner, for Board of Supervisors of Falls Township, under Buie 46.\nHenry T. Reath, Claude C. Smith, and Duane, Morris & Heekscher, for United States Steel Corporation, under Buie 46.\nDecember 5, 1961:\nThis firm has conducted similar reappraisals in twenty-two counties in Pennsylvania, in recent years."
+  },
+  "file_name": "0421-01",
+  "first_page_order": 457,
+  "last_page_order": 473
+}
